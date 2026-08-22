@@ -1,0 +1,59 @@
+# @CATEGORY
+Name: Plates
+ProductCount: 37
+
+# @FILTERS
+PriceRange: $0.49 - $24.99
+Materials: Feldspar porcelain, Feldspar porcelain, Colored glaze, Polypropylene, Stoneware, Stoneware, Colored glaze, Stoneware, Pigmented glaze, Clear glaze, Tempered glass, Tempered opal glass
+Brand: IKEA
+
+# @ITEMS
+- VITBLECKA plate, white, 11 ½": /products/plates/70586451.txt
+- VITABBORRE plate, blue, 10 ¼": /products/plates/90611176.txt
+- VITABBORRE plate, beige, 10 ¼": /products/plates/30611202.txt
+- VÄRDERA plate, white, 12 ¼x10 ¼": /products/plates/60277359.txt
+- VÄRDERA plate, white, 9 ¾x9 ¾": /products/plates/10277352.txt
+- UPPLAGA plate, white: /products/plates/60443801.txt
+- UPPLAGA plate, patterned/white: /products/plates/40599539.txt
+- STRIMMIG plate, white, 10 ½": /products/plates/50468199.txt
+- STRIMMIG plate, stoneware pale gray-green, 10 ½": /products/plates/50567670.txt
+- STRIMMIG plate, stoneware gray, 10 ½": /products/plates/50505644.txt
+- STRIMMIG plate, stoneware blue, 10 ½": /products/plates/10505684.txt
+- STOCKHOLM 2025 plate, black: /products/plates/40592420.txt
+- SILVERSIDA plate, patterned/blue: /products/plates/10565692.txt
+- SANDSKÄDDA plate, light grey-beige: /products/plates/80559433.txt
+- PARADISISK plate, off-white: /products/plates/20451001.txt
+- OMBONAD plate, dark gray: /products/plates/20502958.txt
+- OFTAST plate, white, 9 ¾": /products/plates/30258913.txt
+- OFTAST plate, light green, 9 ¾": /products/plates/10608253.txt
+- NÄTBARB plate, black, 9 ½": /products/plates/90563689.txt
+- MOSSMAL plate, dot pattern/light green, 8 ½": /products/plates/70582759.txt
+- MÄVINN plate, green, 9 ½": /products/plates/80600908.txt
+- KRUSTISTEL plate, patterned/light beige: /products/plates/80584324.txt
+- KRUSTISTEL plate, patterned/gray: /products/plates/60595154.txt
+- IKEA 365+ plate, white: /products/plates/70258949.txt
+- GODMIDDAG plate, white: /products/plates/00585011.txt
+- GLADELIG plate, gray: /products/plates/70600758.txt
+- GLADELIG plate, gray: /products/plates/10600756.txt
+- GLADELIG plate, gray, 12x7 ½": /products/plates/00457155.txt
+- GLADELIG plate, dark gray, 12x7 ½": /products/plates/50597021.txt
+- GLADELIG plate, dark gray: /products/plates/10597023.txt
+- GLADELIG plate, blue: /products/plates/50600721.txt
+- GLADELIG plate, blue: /products/plates/30600717.txt
+- GLADELIG plate, blue, 12x7 ½": /products/plates/30503636.txt
+- FÄRGKLAR plate, matte light turquoise: /products/plates/00477158.txt
+- FÄRGKLAR plate, matte light gray: /products/plates/70479644.txt
+- FÄRGKLAR plate, matte green: /products/plates/90478177.txt
+- FÄRGKLAR plate, light pink: /products/plates/90600413.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

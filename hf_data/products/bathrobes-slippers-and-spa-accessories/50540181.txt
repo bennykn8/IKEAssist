@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: STJÄRNBUSKE hair towel wrap, natural
+SKU: 50540181
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/stjaernbuske-hair-towel-wrap-natural-50540181/
+Category: Bathrobes, slippers & spa accessories
+Description: This hair towel soaks up moisture, which is gentler than rubbing your hair with a regular towel. The cotton/viscose blend is soft, light and absorbs effectively while you are getting ready for the day...
+
+# @OFFER
+Price: 2.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 80 % cotton, 20 % viscose/rayon
+Features: You can fasten it any way your like - from front to back or back to front.
+Care: Shrinkage maximum 6%. | Fabric softeners may decrease towel absorbency.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/stjaernbuske-hair-towel-wrap-natural__1126209_pe875641_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

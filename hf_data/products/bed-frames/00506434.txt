@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VEVELSTAD bed frame, white, Full/Double
+SKU: 00506434
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vevelstad-bed-frame-white-00506434/
+Category: Bed frames
+Description: VEVELSTAD is a versatile bed frame that is great to match with other furnishings. It has a simple and clean design in metal and is easy to both buy and take home since it’s sold as one compact package...
+
+# @OFFER
+Price: 109
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Bed slats: Layer-glued wood veneer, Adhesive resin as coating, Headboard/ Footboard/ Bedside/ Leg/ Midbeam: Steel, Epoxy/polyester powder coating
+Features: Mattress and bedlinens are sold separately. | Slatted bed base and midbeam are included.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vevelstad-bed-frame-white__1035358_pe840534_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

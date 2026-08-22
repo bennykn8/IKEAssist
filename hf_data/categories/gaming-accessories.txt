@@ -1,0 +1,49 @@
+# @CATEGORY
+Name: Gaming accessories
+ProductCount: 27
+
+# @FILTERS
+PriceRange: $3.99 - $169.99
+Materials: 100 % polyester (100% recycled), Natural rubber, Arm: Steel, Epoxy/polyester powder coating, Back and seat frame/ Valve: Synthetic rubber, Back panel: Steel, Epoxy/polyester powder coating, Backing: 100 % Synthetic rubber, Balancing weight: Steel, Powder coating, Base: Steel, Epoxy/polyester powder coating, Body/ Straw: Stainless steel, Bottom panel: Fiberboard, Ash veneer, Stain, Clear acrylic lacquer, Bottom panel: Molded layers of fiberboard, Ash veneer, Tinted clear acrylic lacquer
+Brand: IKEA
+
+# @ITEMS
+- UPPSPEL poster, neoriental, 27 ½x19 ¾": /products/gaming-accessories/30511368.txt
+- UPPSPEL glass-door cabinet, dark gray: /products/gaming-accessories/90507636.txt
+- UPPSPEL cpu stand with casters, dark gray: /products/gaming-accessories/40507785.txt
+- UPPSPEL 4-piece pegboard accessories set, dark gray: /products/gaming-accessories/70507779.txt
+- LÅNESPELARE mug and mug holder, black: /products/gaming-accessories/79429310.txt
+- LÅNESPELARE mug and mug holder, black/ash veneer: /products/gaming-accessories/89533491.txt
+- LÅNESPELARE monitor stand, bright yellow, 38 ¼x7 ½": /products/gaming-accessories/40586264.txt
+- LÅNESPELARE monitor stand, black, 38 ¼x7 ½": /products/gaming-accessories/00588873.txt
+- LÅNESPELARE microphone arm, with screw mount/anthracite: /products/gaming-accessories/90571397.txt
+- LÅNESPELARE lumbar cushion, green: /products/gaming-accessories/60571394.txt
+- LÅNESPELARE insulated tumbler w lid and straw, black: /products/gaming-accessories/40507846.txt
+- LÅNESPELARE headset stand, ash veneer: /products/gaming-accessories/80571524.txt
+- LÅNESPELARE floor protector: /products/gaming-accessories/80507793.txt
+- LÅNESPELARE floor protector: /products/gaming-accessories/60547629.txt
+- LÅNESPELARE cup holder, black: /products/gaming-accessories/90507844.txt
+- LÅNESPELARE cup holder, ash veneer: /products/gaming-accessories/50571525.txt
+- LÅNESPELARE accessories stand: /products/gaming-accessories/60511362.txt
+- BRÄNNBOLL wall-mounted display cabinet, white: /products/gaming-accessories/40586527.txt
+- BRÄNNBOLL wall-mounted display cabinet, bright blue: /products/gaming-accessories/10586473.txt
+- BRÄNNBOLL side table on casters, light ash effect/white: /products/gaming-accessories/00586360.txt
+- BRÄNNBOLL side table on casters, light ash effect/black: /products/gaming-accessories/20586359.txt
+- BRÄNNBOLL Open storage unit on casters, white: /products/gaming-accessories/60586258.txt
+- BRÄNNBOLL inflatable gaming lounge chair, bright orange: /products/gaming-accessories/30587688.txt
+- BRÄNNBOLL inflatable gaming lounge chair, bright green: /products/gaming-accessories/70587686.txt
+- BRÄNNBOLL gaming mouse pad, black/patterned, 35 ½x15 ¾": /products/gaming-accessories/70586470.txt
+- BRÄNNBOLL basket, gray/yellow, 11 ¾x13x11 ¾": /products/gaming-accessories/50586536.txt
+- BRÄNNBOLL accessories stand, set of: /products/gaming-accessories/30586542.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

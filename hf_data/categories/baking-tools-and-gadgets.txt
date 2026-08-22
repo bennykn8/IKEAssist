@@ -1,0 +1,49 @@
+# @CATEGORY
+Name: Baking tools & gadgets
+ProductCount: 27
+
+# @FILTERS
+PriceRange: $0.49 - $19.99
+Materials: Bag/ Gasket: Silicone rubber, Basket: Rattan, Blade/ Spoon: Silicone rubber, Blade: Silicone rubber, Bristles: Polyamide, Bristles: Silicone rubber, Chlorine free bleached paper, Silicone treatment, Fabric: 60 % cotton, 40 % linen, Galvanized steel, Non stick coating, Handle: ABS plastic
+Brand: IKEA
+
+# @ITEMS
+- VARDAGEN dough whisk, stainless steel/beech: /products/baking-tools-and-gadgets/40601165.txt
+- SMAKSAM piping tool set: /products/baking-tools-and-gadgets/80576625.txt
+- SJÖRUDA spatula, bright green: /products/baking-tools-and-gadgets/70580492.txt
+- MAGASIN rolling pin: /products/baking-tools-and-gadgets/76485605.txt
+- LÄTTBAKAD pastry brush, beige: /products/baking-tools-and-gadgets/60578159.txt
+- LÄTTBAKAD offset spatula: /products/baking-tools-and-gadgets/80578158.txt
+- LÄTTBAKAD dough cutter: /products/baking-tools-and-gadgets/60578135.txt
+- LÄTTBAKAD cooling rack: /products/baking-tools-and-gadgets/20480145.txt
+- LÄTTBAKAD cookie cutter, set of 5, silver color: /products/baking-tools-and-gadgets/20578156.txt
+- LÄTTBAKAD cookie cutter, set of 4, stainless steel: /products/baking-tools-and-gadgets/70590429.txt
+- LÄTTBAKAD bowl scraper, silicone/light blue: /products/baking-tools-and-gadgets/40578155.txt
+- KUSTFYR rubber spatula, black/white: /products/baking-tools-and-gadgets/80615561.txt
+- KUSTFYR rubber spatula, black orange/white: /products/baking-tools-and-gadgets/60615562.txt
+- KUSTFYR pastry cutter, set of 3, mixed shapes stainless steel: /products/baking-tools-and-gadgets/30599605.txt
+- KUSTFYR baking cup, paper, mixed patterns white/black: /products/baking-tools-and-gadgets/70599585.txt
+- KRISPIG cake carrier, 14 ¼": /products/baking-tools-and-gadgets/20336407.txt
+- JÄSNING bread basket: /products/baking-tools-and-gadgets/10480136.txt
+- IDEALISK flour sifter, stainless steel: /products/baking-tools-and-gadgets/30578132.txt
+- HEMMABAK baking sheet, gray: /products/baking-tools-and-gadgets/80489888.txt
+- GUBBRÖRA rubber spatula, green/white: /products/baking-tools-and-gadgets/50578131.txt
+- GUBBRÖRA rubber spatula, black/white: /products/baking-tools-and-gadgets/70578130.txt
+- BAKTRADITION baking mat, white/turquoise: /products/baking-tools-and-gadgets/80577861.txt
+- BAKTRADITION baking mat, beige: /products/baking-tools-and-gadgets/00577860.txt
+- BAKGLAD rubber spatula, beige/blue: /products/baking-tools-and-gadgets/30578085.txt
+- BAKGLAD pastry brush, beige/blue: /products/baking-tools-and-gadgets/60578084.txt
+- BÄCKRÖDING spatula, set of 3, wood/dark gray-green: /products/baking-tools-and-gadgets/90576516.txt
+- BÄCKRÖDING spatula, set of 2, wood/dark gray-green: /products/baking-tools-and-gadgets/10576515.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

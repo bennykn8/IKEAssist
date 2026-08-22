@@ -1,0 +1,30 @@
+# @CATEGORY
+Name: Kids mattresses
+ProductCount: 8
+
+# @FILTERS
+PriceRange: $7.99 - $229.00
+Materials: Backing: 100 % Polyurethane, Backing: 100 % polypropylene, Fabric: 100 % cotton, Filling: 70 % viscose, 30 % polyester, Inner fabric: 100 % polypropylene, Quilt filling/ Filling: 70 % viscose, 30 % polyester, Ticking, side: 64 % cotton, 36 %polyester, Ticking: 62 % cotton, 38 %polyester, Ticking: 64 %polyester, 36 % cotton, Ticking: 65 %polyester, 35 % cotton
+Brand: IKEA
+
+# @ITEMS
+- VIMSIG foam mattress for extendable bed: /products/kids-mattresses/70348573.txt
+- UNDERLIG Foam mattress for junior bed, white: /products/kids-mattresses/10350408.txt
+- PLUTTEN Foam mattress for extendable bed: /products/kids-mattresses/40350402.txt
+- ÖMSINT Pocket spring mattress f/extend bed: /products/kids-mattresses/30348589.txt
+- LENAST waterproof mattress protector, white: /products/kids-mattresses/90445790.txt
+- LENAST waterproof mattress protector: /products/kids-mattresses/40448296.txt
+- LEN Mattress protector, white: /products/kids-mattresses/40143304.txt
+- INNERLIG spring mattress for extendable bed: /products/kids-mattresses/70350410.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: AKTERSKARP LED ceiling fan with light, dimmable/wood effect dark gray
+SKU: 20595453
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/akterskarp-led-ceiling-fan-with-light-dimmable-wood-effect-dark-gray-20595453/
+Category: Ceiling fans
+Description: AKTERSKARP ceiling fan with 56-inch blades is ideal for large/extra-large rooms. The 6 speeds, reversible air flow, built-in LED lighting, and remote-control steering make for year-round comfort and c...
+
+# @OFFER
+Price: 129.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Optical lens: Polycarbonate plastic, Shade: Acrylic, Shade holder/ Bracket/ Ceiling cup/ Housing/ Tube/ Cover/ Wheel/ Mounting plate: Steel, Powder coating
+Features: Built-in LED light source that lasts approx. 25,000 hours. | 1 pc. 15 centimeter (6 inches) long matching downrod is included. Can be replaced with a rod that is 30 cm (12 inches), sold separately. | Can be mounted to ceilings with a slope up to 18°.
+Care: Check the support connections, brackets and blade attachments twice per year to ensure they are secure. The fan does not need to be removed from the ceiling. | Clean your fan regularly with a soft brush or lint-free cloth. Never use abrasive cleaners or chemical solvents as this can damage the product.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/akterskarp-led-ceiling-fan-with-light-dimmable-wood-effect-dark-gray__1385429_pe963305_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

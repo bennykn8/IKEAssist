@@ -1,0 +1,39 @@
+# @CATEGORY
+Name: Outdoor light chains
+ProductCount: 17
+
+# @FILTERS
+PriceRange: $11.99 - $59.99
+Materials: Battery box/ Support bracket/ Sleeve: ABS plastic, Battery box: ABS plastic, Cover, upper side/ Cover, underside/ Battery box: ABS plastic, Decoration: 100 % polyester, Decoration: 100 % polyester (100% recycled), Decoration: Polystyrene, Holder: Polypropylene, Housing: Thermoplastic elastomer, Nut: Polyamide, Polycarbonate plastic
+Brand: IKEA
+
+# @ITEMS
+- UTSUND LED string light with 12 lights, outdoor, battery operated black: /products/outdoor-light-chains/00421133.txt
+- SVARTRÅ LED string light with 12 lights, black/outdoor: /products/outdoor-light-chains/80521807.txt
+- SVARTRÅ LED lighting chain with 20 bulbs, black/outdoor: /products/outdoor-light-chains/90552539.txt
+- SOLVINDEN LED string light with 24 lights, outdoor battery operated/globe multicolor: /products/outdoor-light-chains/30593203.txt
+- SOLVINDEN LED string light with 12 lights, outdoor/multicolor: /products/outdoor-light-chains/70593178.txt
+- SOLVINDEN LED string light with 12 lights, outdoor/battery operated yellow: /products/outdoor-light-chains/80570586.txt
+- SOLVINDEN LED string light with 12 lights, outdoor/battery operated white: /products/outdoor-light-chains/60575981.txt
+- SOLVINDEN LED string light with 12 lights, outdoor/battery operated white: /products/outdoor-light-chains/00593148.txt
+- SOLVINDEN LED string light with 12 lights, outdoor/battery operated orange: /products/outdoor-light-chains/10593204.txt
+- SOLVINDEN LED string light with 12 lights, battery operated/outdoor multicolor: /products/outdoor-light-chains/30570598.txt
+- SOLVINDEN LED string light with 12 lights, battery operated/outdoor multicolor: /products/outdoor-light-chains/20593185.txt
+- SKINA LED string light w/16lights,outdoor, dragonfly: /products/outdoor-light-chains/50402858.txt
+- LEDLJUS LED string light with 24 lights, outdoor black: /products/outdoor-light-chains/00357453.txt
+- KUSTFYR LED string light with 12 lights, pumpkin/battery operated outdoor: /products/outdoor-light-chains/40605451.txt
+- KASTTÅG LED string light with 12 lights, black/outdoor: /products/outdoor-light-chains/60552569.txt
+- GARDJÄRN LED string light with 24 lights, black/outdoor: /products/outdoor-light-chains/00552567.txt
+- GARDJÄRN LED string light with 12 lights, black/outdoor: /products/outdoor-light-chains/00552572.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

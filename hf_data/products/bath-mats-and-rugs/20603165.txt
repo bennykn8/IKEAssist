@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BACKMÅRA bath mat, black
+SKU: 20603165
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/backmara-bath-mat-black-20603165/
+Category: Bath mats & rugs
+Description: , 20x31" This thick bath mat made of recycled polyester provides a soft landing for your feet in the bathroom. Latex backing keeps the mat in place. Available in colors that coordinate easily. BACKMÅR...
+
+# @OFFER
+Price: 14.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Pile: 100% polyester (min. 90% recycled), Backing: 50 % natural/ 50 % synthetic latex
+Features: This product is suitable for use in smaller hotels, inns and B&Bs as the design and material are optimized for frequent use and washing.
+Care: Machine wash warm, normal cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/backmara-bath-mat-black__1378334_pe961179_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

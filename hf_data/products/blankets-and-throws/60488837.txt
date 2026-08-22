@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: DYSTERMAL throw, off-white
+SKU: 60488837
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/dystermal-throw-off-white-60488837/
+Category: Blankets & throws
+Description: , 51x67" The acrylic throw is just as warm, soft and comfortable as wool, but is more easy-care since it retains its shape and dries quickly after washing. Easy to keep clean since it is machine washa...
+
+# @OFFER
+Price: 39.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 78 % acrylic, 19 % wool, 3 %polyester
+Features: Combines with other products in the OFELIA collection. | This product is relatively warm and is suitable for use in a room with a temperature of approx. 61-69°F.
+Care: Machine wash cold, delicate cycle. | Shrinkage maximum 4%.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/dystermal-throw-off-white__0923834_pe788414_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

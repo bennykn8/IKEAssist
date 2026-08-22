@@ -1,0 +1,32 @@
+# @CATEGORY
+Name: Kids tables
+ProductCount: 10
+
+# @FILTERS
+PriceRange: $19.99 - $179.99
+Materials: Bottom: Fiberboard, Acrylic paint, Paper foil, Plastic edging, Honeycomb structure paper filling (100% recycled), Plywood, Drawer bottom: Fiberboard, Paper foil, Frame/ Leg: Solid pine, Lid: Molded layers of fiberboard, Acrylic paint, Clear acrylic lacquer, Polypropylene, Reinforced polypropylene, Side panel/ Back panel/ Partition/ Bottom panel/ Drawer front: Particleboard, Paper foil, Plastic edging, Side: Particleboard, Fiberboard, Acrylic paint, Paper foil, Plastic edging, Solid pine, Stain, Clear acrylic lacquer, Table top/ Leg: Solid pine, Tinted clear acrylic lacquer
+Brand: IKEA
+
+# @ITEMS
+- UTTER children's table, indoor/outdoor/white: /products/kids-tables/60357737.txt
+- SUNDVIK Children's table, white: /products/kids-tables/10201673.txt
+- SUNDVIK children's table, gray: /products/kids-tables/60494032.txt
+- SLÄKT storage box with casters, white: /products/kids-tables/80362974.txt
+- MAMMUT Children's table, indoor/outdoor white: /products/kids-tables/50365177.txt
+- MAMMUT children's table, indoor/outdoor/light blue: /products/kids-tables/10581994.txt
+- MAMMUT children's table, indoor/outdoor/bright green: /products/kids-tables/50581992.txt
+- LÄTT Children's table and 2 chairs, white, pine: /products/kids-tables/50178411.txt
+- FLISAT Children's Sensory Table: /products/kids-tables/50298418.txt
+- DUNDRA activity table with storage, white/gray: /products/kids-tables/30472499.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

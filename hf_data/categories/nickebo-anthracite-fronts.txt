@@ -1,0 +1,59 @@
+# @CATEGORY
+Name: NICKEBO anthracite fronts
+ProductCount: 37
+
+# @FILTERS
+PriceRange: $27.00 - $195.00
+Materials: Edge: Plastic edging (min. 50% recycled), Frontside/ Backside: Plastic foil (min. 90% recycled), Main parts: Particleboard
+Brand: IKEA
+
+# @ITEMS
+- NICKEBO drawer front, matte anthracite: /products/nickebo-anthracite-fronts/90537884.txt
+- NICKEBO drawer front, matte anthracite: /products/nickebo-anthracite-fronts/90537879.txt
+- NICKEBO drawer front, matte anthracite: /products/nickebo-anthracite-fronts/80537894.txt
+- NICKEBO drawer front, matte anthracite: /products/nickebo-anthracite-fronts/80537889.txt
+- NICKEBO drawer front, matte anthracite: /products/nickebo-anthracite-fronts/60537890.txt
+- NICKEBO drawer front, matte anthracite: /products/nickebo-anthracite-fronts/60537885.txt
+- NICKEBO drawer front, matte anthracite: /products/nickebo-anthracite-fronts/50537881.txt
+- NICKEBO drawer front, matte anthracite: /products/nickebo-anthracite-fronts/40537891.txt
+- NICKEBO drawer front, matte anthracite: /products/nickebo-anthracite-fronts/40537886.txt
+- NICKEBO drawer front, matte anthracite: /products/nickebo-anthracite-fronts/30537882.txt
+- NICKEBO drawer front, matte anthracite: /products/nickebo-anthracite-fronts/20537892.txt
+- NICKEBO drawer front, matte anthracite: /products/nickebo-anthracite-fronts/20537887.txt
+- NICKEBO drawer front, matte anthracite: /products/nickebo-anthracite-fronts/10537883.txt
+- NICKEBO drawer front, matte anthracite: /products/nickebo-anthracite-fronts/00537893.txt
+- NICKEBO drawer front, matte anthracite: /products/nickebo-anthracite-fronts/00537888.txt
+- NICKEBO door, matte anthracite: /products/nickebo-anthracite-fronts/90537860.txt
+- NICKEBO door, matte anthracite: /products/nickebo-anthracite-fronts/80537870.txt
+- NICKEBO door, matte anthracite: /products/nickebo-anthracite-fronts/80537865.txt
+- NICKEBO door, matte anthracite: /products/nickebo-anthracite-fronts/70537875.txt
+- NICKEBO door, matte anthracite: /products/nickebo-anthracite-fronts/70537861.txt
+- NICKEBO door, matte anthracite: /products/nickebo-anthracite-fronts/60537871.txt
+- NICKEBO door, matte anthracite: /products/nickebo-anthracite-fronts/60537866.txt
+- NICKEBO door, matte anthracite: /products/nickebo-anthracite-fronts/50537876.txt
+- NICKEBO door, matte anthracite: /products/nickebo-anthracite-fronts/50537862.txt
+- NICKEBO door, matte anthracite: /products/nickebo-anthracite-fronts/50537857.txt
+- NICKEBO door, matte anthracite: /products/nickebo-anthracite-fronts/40537872.txt
+- NICKEBO door, matte anthracite: /products/nickebo-anthracite-fronts/40537867.txt
+- NICKEBO door, matte anthracite: /products/nickebo-anthracite-fronts/30537877.txt
+- NICKEBO door, matte anthracite: /products/nickebo-anthracite-fronts/30537863.txt
+- NICKEBO door, matte anthracite: /products/nickebo-anthracite-fronts/30537858.txt
+- NICKEBO door, matte anthracite: /products/nickebo-anthracite-fronts/20537873.txt
+- NICKEBO door, matte anthracite: /products/nickebo-anthracite-fronts/20537868.txt
+- NICKEBO door, matte anthracite: /products/nickebo-anthracite-fronts/10537864.txt
+- NICKEBO door, matte anthracite: /products/nickebo-anthracite-fronts/10537859.txt
+- NICKEBO door, matte anthracite: /products/nickebo-anthracite-fronts/00537874.txt
+- NICKEBO door, matte anthracite: /products/nickebo-anthracite-fronts/00537869.txt
+- NICKEBO 2-p door/corner base cabinet set, matte anthracite: /products/nickebo-anthracite-fronts/10537878.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

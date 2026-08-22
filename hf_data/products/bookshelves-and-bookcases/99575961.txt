@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: HAUGA storage combination, white
+SKU: 99575961
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hauga-storage-combination-white-s99575961/
+Category: Bookshelves & bookcases
+Description: , 825/8x181/8x783/8" Books, stuff, tableware, here is room for almost everything. A combination designed for several different storage needs in one solution. Open or closed storage, you decide.
+
+# @OFFER
+Price: 378
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Side panel: Particleboard, Paper foil, Plastic edging, Plastic edging, Top panel/ Shelf/ Back rail/ Bottom panel/ Adjustable shelf: Particleboard, Paper foil, Back panel: Fiberboard, Acrylic paint
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hauga-storage-combination-white__1384180_pe962888_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,70 @@
+# @CATEGORY
+Name: BESTÅ frames
+ProductCount: 48
+
+# @FILTERS
+PriceRange: $35.00 - $110.00
+Materials: Back panel: Fiberboard, Fiberboard, Paper foil, Plastic foil, Back panel: Fiberboard, Paper foil, Plastic foil, Panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Paper foil, Plastic edging, Plastic edging, Plastic edging, Paper foil, Panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Plastic edging, Plastic edging, Plastic edging, Paper foil, Side panel: Particleboard, Paper foil, Paper foil, Plastic edging, Plastic edging, Plastic edging, Top panel/ Bottom panel/ Side panel/ Partition: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Paper foil, Plastic edging, Plastic edging, Plastic edging, Top panel/ Bottom panel/ Side panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Plastic edging, Top panel/ Bottom panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Paper foil, Plastic edging, Plastic edging, Plastic edging, Top: Particleboard, Honeycomb structure paper filling (100% recycled), Fiberboard, Paper foil, Paper foil, Plastic edging, Plastic edging, Paper foil
+Brand: IKEA
+
+# @ITEMS
+- BESTÅ TV unit, white stained oak effect: /products/bestå-frames/80576003.txt
+- BESTÅ TV unit, white stained oak effect: /products/bestå-frames/60576004.txt
+- BESTÅ TV unit, white stained oak effect: /products/bestå-frames/20576001.txt
+- BESTÅ TV unit, white stained oak effect: /products/bestå-frames/00576002.txt
+- BESTÅ TV unit, white: /products/bestå-frames/80566037.txt
+- BESTÅ TV unit, white: /products/bestå-frames/70566033.txt
+- BESTÅ TV unit, white: /products/bestå-frames/20566035.txt
+- BESTÅ TV unit, white: /products/bestå-frames/00565777.txt
+- BESTÅ TV unit, dark gray: /products/bestå-frames/80575225.txt
+- BESTÅ TV unit, dark gray: /products/bestå-frames/60575226.txt
+- BESTÅ TV unit, dark gray: /products/bestå-frames/40575227.txt
+- BESTÅ TV unit, dark gray: /products/bestå-frames/20575228.txt
+- BESTÅ TV unit, black-brown: /products/bestå-frames/90566032.txt
+- BESTÅ TV unit, black-brown: /products/bestå-frames/50566034.txt
+- BESTÅ TV unit, black-brown: /products/bestå-frames/40565775.txt
+- BESTÅ TV unit, black-brown: /products/bestå-frames/00566036.txt
+- BESTÅ frame, white stained oak effect: /products/bestå-frames/90247375.txt
+- BESTÅ frame, white stained oak effect: /products/bestå-frames/80247413.txt
+- BESTÅ frame, white stained oak effect: /products/bestå-frames/80247408.txt
+- BESTÅ frame, white stained oak effect: /products/bestå-frames/60247367.txt
+- BESTÅ frame, white stained oak effect: /products/bestå-frames/50247377.txt
+- BESTÅ frame, white stained oak effect: /products/bestå-frames/40247373.txt
+- BESTÅ frame, white stained oak effect: /products/bestå-frames/10247379.txt
+- BESTÅ frame, white stained oak effect: /products/bestå-frames/00247370.txt
+- BESTÅ frame, white: /products/bestå-frames/70245848.txt
+- BESTÅ Frame, white: /products/bestå-frames/60245919.txt
+- BESTÅ Frame, white: /products/bestå-frames/60245844.txt
+- BESTÅ Frame, white: /products/bestå-frames/40245840.txt
+- BESTÅ Frame, white: /products/bestå-frames/30245850.txt
+- BESTÅ Frame, white: /products/bestå-frames/10245846.txt
+- BESTÅ frame, white: /products/bestå-frames/00245917.txt
+- BESTÅ frame, white: /products/bestå-frames/00245842.txt
+- BESTÅ frame, dark gray: /products/bestå-frames/90538591.txt
+- BESTÅ frame, dark gray: /products/bestå-frames/60538601.txt
+- BESTÅ frame, dark gray: /products/bestå-frames/60538597.txt
+- BESTÅ frame, dark gray: /products/bestå-frames/60538583.txt
+- BESTÅ frame, dark gray: /products/bestå-frames/50538593.txt
+- BESTÅ frame, dark gray: /products/bestå-frames/30538589.txt
+- BESTÅ frame, dark gray: /products/bestå-frames/20538599.txt
+- BESTÅ frame, dark gray: /products/bestå-frames/00538595.txt
+- BESTÅ frame, black-brown: /products/bestå-frames/90245946.txt
+- BESTÅ frame, black-brown: /products/bestå-frames/70245952.txt
+- BESTÅ Frame, black-brown: /products/bestå-frames/60245962.txt
+- BESTÅ Frame, black-brown: /products/bestå-frames/60245957.txt
+- BESTÅ Frame, black-brown: /products/bestå-frames/50245953.txt
+- BESTÅ Frame, black-brown: /products/bestå-frames/40245944.txt
+- BESTÅ Frame, black-brown: /products/bestå-frames/20245964.txt
+- BESTÅ Frame, black-brown: /products/bestå-frames/20245959.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

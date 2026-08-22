@@ -1,0 +1,49 @@
+# @CATEGORY
+Name: Bathrobes, slippers & spa accessories
+ProductCount: 27
+
+# @FILTERS
+PriceRange: $2.99 - $39.99
+Materials: 100 % cotton, 100% polyester (min. 90% recycled), 60 % cotton, 40 %polyester, 80 % cotton, 20 % viscose/rayon, Bag: 100 % cotton, Edge fabric/ Rope: 100 % cotton, Fabric: 100 % polyester (100% recycled), Fabric: 100% polyester (min. 90% recycled), Fabric: 54 % cotton, 46 % viscose/rayon, Fabric: 60 % cotton, 40 %polyester
+Brand: IKEA
+
+# @ITEMS
+- VINTERFINT slippers, gray, L/XL: /products/bathrobes-slippers-and-spa-accessories/90578313.txt
+- TÅSJÖN slippers, white, S/M: /products/bathrobes-slippers-and-spa-accessories/90446582.txt
+- TÅSJÖN slippers, white, L/XL: /products/bathrobes-slippers-and-spa-accessories/70446578.txt
+- TÅSJÖN slippers, gray, S/M: /products/bathrobes-slippers-and-spa-accessories/50446579.txt
+- TÅSJÖN slippers, gray, L/XL: /products/bathrobes-slippers-and-spa-accessories/10446576.txt
+- STJÄRNBUSKE hair towel wrap, natural: /products/bathrobes-slippers-and-spa-accessories/50540181.txt
+- STJÄRNANEMON eye mask, gray-green: /products/bathrobes-slippers-and-spa-accessories/00540188.txt
+- SKOVELSJÖN slippers, beige, S/M: /products/bathrobes-slippers-and-spa-accessories/90512992.txt
+- SKOVELSJÖN slippers, beige, L/XL: /products/bathrobes-slippers-and-spa-accessories/90512987.txt
+- SKOGSSALLAT toiletry bag, red/white/stripe: /products/bathrobes-slippers-and-spa-accessories/70611865.txt
+- SKOGSSALLAT toiletry bag, blue/white/dotted: /products/bathrobes-slippers-and-spa-accessories/50611866.txt
+- SKOGSSALLAT slippers, red/white/stripe, S/M: /products/bathrobes-slippers-and-spa-accessories/90617098.txt
+- SKOGSSALLAT slippers, red/white/stripe, L/XL: /products/bathrobes-slippers-and-spa-accessories/10617097.txt
+- SKOGSSALLAT scrub mitt: /products/bathrobes-slippers-and-spa-accessories/00611897.txt
+- SKOGSSALLAT eye mask, blue: /products/bathrobes-slippers-and-spa-accessories/30611891.txt
+- SKOGSSALLAT bathrobe, red-pink/stripe, S/M: /products/bathrobes-slippers-and-spa-accessories/90610006.txt
+- SKOGSSALLAT bathrobe, red-pink/stripe, L/XL: /products/bathrobes-slippers-and-spa-accessories/40610004.txt
+- ROCKÅN bathrobe, white, L/XL: /products/bathrobes-slippers-and-spa-accessories/90392032.txt
+- ROCKÅN bathrobe, white, S/M: /products/bathrobes-slippers-and-spa-accessories/00391918.txt
+- ROCKÅN bathrobe, gray, L/XL: /products/bathrobes-slippers-and-spa-accessories/50392029.txt
+- ROCKÅN bathrobe, gray, S/M: /products/bathrobes-slippers-and-spa-accessories/10391927.txt
+- PRAKTPORTLAK scrub mitt, natural: /products/bathrobes-slippers-and-spa-accessories/60540185.txt
+- MÄVINN bathrobe, stripe multicolor: /products/bathrobes-slippers-and-spa-accessories/30574964.txt
+- DVÄRGHYACINT scrub belt, natural/gray-green: /products/bathrobes-slippers-and-spa-accessories/90540184.txt
+- BJÄLVEN bathrobe, beige, S/M: /products/bathrobes-slippers-and-spa-accessories/60512979.txt
+- BJÄLVEN bathrobe, beige, L/XL: /products/bathrobes-slippers-and-spa-accessories/20512976.txt
+- ÅKERRÄTTIKA reusable cleansing pads with bag, white/green: /products/bathrobes-slippers-and-spa-accessories/30540182.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

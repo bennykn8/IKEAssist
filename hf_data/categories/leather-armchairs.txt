@@ -1,0 +1,55 @@
+# @CATEGORY
+Name: Leather armchairs
+ProductCount: 33
+
+# @FILTERS
+PriceRange: $289.00 - $1199.00
+Materials: Armrest frame: Plywood, Solid pine, Polyurethane foam 1.5 lb/cu.ft., Particleboard, Fiberboard, Back and seat frame: Plywood, Solid pine, Particleboard, Fiberboard, Back crossbar/ Seat crossbar/ Rail/ Backrest frame/ Seat frame/ Armrest frame: Layer-glued wood veneer, Birch veneer, Clear lacquer, Back cushion: Polyurethane foam 1.5 lb/cu.ft., Clip: Polypropylene, Coated fabric parts: 100 % polyurethane, 75 % polyester, 25 % cotton, Frame: Layer-glued wood veneer, Birch veneer, Stain, Clear acrylic lacquer, Frame: Layer-glued wood veneer, Oak veneer, Stain, Clear acrylic lacquer, Frame: Particleboard, Plywood, Polyurethane foam 1.5 lb/cu.ft., Laminated veneer lumber, Solid wood, Fiberboard, Frame: Plywood, Polyurethane foam 1.2 lb/cu.ft., Polyurethane foam 1.5 lb/cu.ft., Polyurethane foam 2.2 lb/cu.ft., Particleboard, Solid wood, Fiberboard
+Brand: IKEA
+
+# @ITEMS
+- VISKAFORS 1.5-seat armchair, Högalid brown/brown: /products/leather-armchairs/39443290.txt
+- VISKAFORS 1.5-seat armchair, Högalid brown/birch: /products/leather-armchairs/19443272.txt
+- STRANDMON wing chair, Grann/Bomstad dark brown: /products/leather-armchairs/20494637.txt
+- STRANDMON armchair and ottoman, Grann/Bomstad dark brown: /products/leather-armchairs/59487872.txt
+- POÄNG rocking chair, brown/Glose off-white: /products/leather-armchairs/89429296.txt
+- POÄNG rocking chair, brown/Glose dark brown: /products/leather-armchairs/89429300.txt
+- POÄNG rocking chair, black-brown/Glose off-white: /products/leather-armchairs/79429334.txt
+- POÄNG rocking chair, black-brown/Glose dark brown: /products/leather-armchairs/99429333.txt
+- POÄNG rocking chair, birch veneer/Glose dark brown: /products/leather-armchairs/79429305.txt
+- POÄNG rocking chair, birch/Glose off-white: /products/leather-armchairs/19429332.txt
+- POÄNG armchair, brown/Glose off-white: /products/leather-armchairs/79336009.txt
+- POÄNG armchair, brown/Glose dark brown: /products/leather-armchairs/99336008.txt
+- POÄNG armchair, black-brown/Glose off-white: /products/leather-armchairs/99830594.txt
+- POÄNG armchair, black-brown/Glose dark brown: /products/leather-armchairs/89829138.txt
+- POÄNG armchair, birch veneer/Glose off-white: /products/leather-armchairs/49830596.txt
+- POÄNG armchair, birch veneer/Glose dark brown: /products/leather-armchairs/49829135.txt
+- POÄNG armchair and ottoman, brown/Glose off-white: /products/leather-armchairs/99551088.txt
+- POÄNG armchair and ottoman, brown/Glose dark brown: /products/leather-armchairs/19551087.txt
+- POÄNG armchair and ottoman, black-brown/Glose off-white: /products/leather-armchairs/39551086.txt
+- POÄNG armchair and ottoman, black-brown/Glose dark brown: /products/leather-armchairs/89551084.txt
+- POÄNG armchair and ottoman, birch veneer/Glose off-white: /products/leather-armchairs/09551083.txt
+- POÄNG armchair and ottoman, birch veneer/Glose dark brown: /products/leather-armchairs/29551082.txt
+- MORABO armchair, Grann/Bomstad gray-green/wood: /products/leather-armchairs/39317847.txt
+- MORABO armchair, Grann/Bomstad gray-green/metal: /products/leather-armchairs/59317846.txt
+- MORABO armchair, Grann/Bomstad golden brown/wood: /products/leather-armchairs/19317476.txt
+- MORABO armchair, Grann/Bomstad golden brown/metal: /products/leather-armchairs/99317477.txt
+- MORABO armchair, Grann/Bomstad black/wood: /products/leather-armchairs/39316602.txt
+- MORABO armchair, Grann/Bomstad black/metal: /products/leather-armchairs/39316598.txt
+- HAVBERG swivel chair, Grann/Bomstad golden brown: /products/leather-armchairs/50531657.txt
+- HAVBERG swivel chair, Grann/Bomstad black: /products/leather-armchairs/20531668.txt
+- HAVBERG armchair and ottoman, Grann/Bomstad golden brown: /products/leather-armchairs/59485321.txt
+- HAVBERG armchair and ottoman, Grann/Bomstad black: /products/leather-armchairs/39485317.txt
+- EKERÖ armchair, Bomstad black: /products/leather-armchairs/30494590.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,27 @@
+# @CATEGORY
+Name: Vacuum flasks
+ProductCount: 5
+
+# @FILTERS
+PriceRange: $4.99 - $29.99
+Materials: Body/ Bottom: Stainless steel, Body: Stainless steel, Powder coating, Insert: Glass, Knob/ Body/ Support/ Base: Polypropylene, Lid: Polypropylene, Lid: Polypropylene, Expanded polyethylene plastic, Main parts: Stainless steel, Polypropylene, Seal/ Washer: Silicone rubber, Seal: Silicone rubber, Spring: Stainless steel
+Brand: IKEA
+
+# @ITEMS
+- UNDERLÄTTA Vacuum flask, black: /products/vacuum-flasks/30360232.txt
+- TAGGÖGA vacuum flask, off-white, 1.7 qt: /products/vacuum-flasks/90541353.txt
+- SLUKA Vacuum flask, stainless steel: /products/vacuum-flasks/40149848.txt
+- EFTERFRÅGAD Vacuum food container, stainless steel: /products/vacuum-flasks/40288354.txt
+- BEHÖVD vacuum flask, light green/beige, 34 oz: /products/vacuum-flasks/70353890.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

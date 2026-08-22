@@ -1,0 +1,46 @@
+# @CATEGORY
+Name: Loveseat sleepers
+ProductCount: 24
+
+# @FILTERS
+PriceRange: $299.00 - $1999.00
+Materials: Armrest frame: Solid pine, Adhesive, Clear acrylic lacquer, Back cushion/ Lumbar cushion: 100 % polyester - hollow fiber (100% recycled), Back cushion: 100 % polypropylene, 100 % polyester - hollow fiber (100% recycled), Polyurethane foam, 70% cut polyurethane foam/ 30% polyester fibers, Back cushion: 30% cut polyurethane foam/ 70% polyester fibers, Back fabric/ Fabric/ Fabric/ Ticking/ Ticking, underside: 100 % polyester (100% recycled), Back fabric: 100 % polyester (100% recycled), Back frame: Paperboard (min. 0% recycled), Particleboard, Plywood, Fiberboard, Back frame: Plywood, Fiberboard, Polyurethane foam 1.2 lb/cu.ft., Particleboard, Solid wood, Back frame: Solid wood, Plywood, Fiberboard, Polyurethane foam 1.2 lb/cu.ft., Particleboard, Back/seat: Laminated veneer lumber, Solid pine, Polyurethane foam 1.5 lb/cu.ft., Particleboard
+Brand: IKEA
+
+# @ITEMS
+- TORNSBORG sleeper sofa, Naggen beige/pine: /products/loveseat-sleepers/20586104.txt
+- SKÖNABÄCK sleeper sofa, Vissle yellow-green: /products/loveseat-sleepers/80582546.txt
+- SKÖNABÄCK sleeper sofa, Knisa dark gray: /products/loveseat-sleepers/50582543.txt
+- SKÖNABÄCK sleeper sofa, Knisa bright blue: /products/loveseat-sleepers/40582553.txt
+- LYCKSELE LÖVÅS sleeper sofa, Vansbro yellow: /products/loveseat-sleepers/59563205.txt
+- LYCKSELE LÖVÅS sleeper sofa, Vansbro dark gray: /products/loveseat-sleepers/69387122.txt
+- LYCKSELE LÖVÅS sleeper sofa, Ransta natural: /products/loveseat-sleepers/79387027.txt
+- LYCKSELE LÖVÅS sleeper sofa, Knisa light gray: /products/loveseat-sleepers/29387039.txt
+- LYCKSELE LÖVÅS sleeper sofa, Grindtorp multicolor: /products/loveseat-sleepers/69561710.txt
+- LINDÅKRA sleeper sofa, Vissle dark gray: /products/loveseat-sleepers/60582613.txt
+- LINDÅKRA sleeper sofa, Knisa bright orange: /products/loveseat-sleepers/50582618.txt
+- HYLTARP sleeper sofa, Kilanda pale blue: /products/loveseat-sleepers/89489596.txt
+- HYLTARP sleeper sofa, Hallarp white: /products/loveseat-sleepers/69489597.txt
+- HYLTARP sleeper sofa, Gransel natural: /products/loveseat-sleepers/99489591.txt
+- HYLTARP sleeper sofa, Gransel gray: /products/loveseat-sleepers/19514863.txt
+- HYLTARP sleeper sofa, Gransel gray-brown: /products/loveseat-sleepers/49489602.txt
+- FRIDHULT sleeper sofa, Skiftebo yellow: /products/loveseat-sleepers/00575451.txt
+- FRIDHULT sleeper sofa, Knisa light gray: /products/loveseat-sleepers/20355764.txt
+- FINNALA sleeper sofa, Tallmyra black/gray: /products/loveseat-sleepers/99542857.txt
+- FINNALA sleeper sofa, Gunnared medium gray: /products/loveseat-sleepers/89542834.txt
+- FINNALA sleeper sofa, Gunnared beige: /products/loveseat-sleepers/29542832.txt
+- FINNALA sleeper sofa, Grann/Bomstad golden brown: /products/loveseat-sleepers/69542830.txt
+- FINNALA sleeper sofa, Grann/Bomstad black: /products/loveseat-sleepers/09542828.txt
+- BALKARP Sleeper sofa, Vissle gray: /products/loveseat-sleepers/50307936.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

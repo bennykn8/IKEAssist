@@ -1,0 +1,31 @@
+# @CATEGORY
+Name: Bathroom wall lights
+ProductCount: 9
+
+# @FILTERS
+PriceRange: $34.99 - $99.99
+Materials: Arm: Stainless steel, Epoxy coating, Base/ Shade holder: ABS plastic, Base/ Shade: Steel, Chrome plated, Base/ Shade: Steel, Powder coating, Base: Steel, Brush finish nickel-plated, Ceiling cup/ Shade holder: Aluminum, Anodized, Cover plate: Polycarbonate plastic, Cover: ABS plastic, Cover: Stainless steel, Diffuser: Polycarbonate plastic
+Brand: IKEA
+
+# @ITEMS
+- VALLMORA wall lamp, 3-spots, nickel plated: /products/bathroom-wall-lights/80306940.txt
+- LEDSJÖ LED wall lamp, stainless steel: /products/bathroom-wall-lights/70328626.txt
+- KABOMBA LED wall lamp with mirror, dimmable matte/black: /products/bathroom-wall-lights/00489806.txt
+- KABOMBA LED wall lamp, dimmable matte/black: /products/bathroom-wall-lights/10489820.txt
+- HAVSDUN LED wall lamp, dimmable white/frosted glass white: /products/bathroom-wall-lights/20499258.txt
+- FRIHULT wall lamp, stainless steel color: /products/bathroom-wall-lights/70431628.txt
+- FRIHULT Wall lamp, brass color: /products/bathroom-wall-lights/20431635.txt
+- FRIHULT wall lamp, black: /products/bathroom-wall-lights/80431642.txt
+- FLASKPOST LED cabinet/wall light, chrome plated: /products/bathroom-wall-lights/30591044.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

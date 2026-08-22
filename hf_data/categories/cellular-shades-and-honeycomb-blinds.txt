@@ -1,0 +1,60 @@
+# @CATEGORY
+Name: Cellular shades & honeycomb blinds
+ProductCount: 38
+
+# @FILTERS
+PriceRange: $3.99 - $76.99
+Materials: Bottom rail: Galvanized steel, Powder coating, Polyester paint, Clip: Polypropylene, Cover: Polypropylene, Fabric: 100 % polyester (100% recycled), Fabric: 100 % polyester (100% recycled), 100 % Polyethylene plastic, Fabric: 100% polyester (min. 90% recycled), Main parts: 100 % polyester (100% recycled), Main parts: 100 % polyester (100% recycled), PET plastic, Plastic part: Polypropylene, Rod: Stainless steel, Powder coating
+Brand: IKEA
+
+# @ITEMS
+- TRIPPEVALS black-out cellular blind, white, 32x76 ¾": /products/cellular-shades-and-honeycomb-blinds/90506571.txt
+- TRIPPEVALS black-out cellular blind, white, 23x76 ¾": /products/cellular-shades-and-honeycomb-blinds/70509721.txt
+- TRIPPEVALS black-out cellular blind, white, 34x76 ¾": /products/cellular-shades-and-honeycomb-blinds/70506572.txt
+- TRIPPEVALS black-out cellular blind, white, 36x76 ¾": /products/cellular-shades-and-honeycomb-blinds/50509722.txt
+- TRIPPEVALS black-out cellular blind, white, 48x76 ¾": /products/cellular-shades-and-honeycomb-blinds/50506568.txt
+- TRIPPEVALS black-out cellular blind, white, 38x76 ¾": /products/cellular-shades-and-honeycomb-blinds/30509723.txt
+- TRIPPEVALS black-out cellular blind, white, 27x76 ¾": /products/cellular-shades-and-honeycomb-blinds/30506569.txt
+- TRIPPEVALS black-out cellular blind, white, 30x76 ¾": /products/cellular-shades-and-honeycomb-blinds/10506570.txt
+- SCHOTTIS pleated shade, white, 35 ½x74 ¾": /products/cellular-shades-and-honeycomb-blinds/90431378.txt
+- SCHOTTIS Blackout pleated blind, dark gray, 39 ¼x74 ¾": /products/cellular-shades-and-honeycomb-blinds/10431377.txt
+- HORNVALLMO pleated shade, white/top-down bottom-up, 23x51 ¼": /products/cellular-shades-and-honeycomb-blinds/70556661.txt
+- HORNVALLMO pleated shade, white/top-down bottom-up, 34x51 ¼": /products/cellular-shades-and-honeycomb-blinds/10556664.txt
+- HORNVALLMO black-out pleated blind, white/top-down bottom-up, 23x51 ¼": /products/cellular-shades-and-honeycomb-blinds/90556660.txt
+- HORNVALLMO black-out pleated blind, white/top-down bottom-up, 34x51 ¼": /products/cellular-shades-and-honeycomb-blinds/50556657.txt
+- HOPPVALS room darkening cellular blind, gray: /products/cellular-shades-and-honeycomb-blinds/90386446.txt
+- HOPPVALS room darkening cellular blind, gray: /products/cellular-shades-and-honeycomb-blinds/80386442.txt
+- HOPPVALS Room darkening cellular blind, gray: /products/cellular-shades-and-honeycomb-blinds/50386434.txt
+- HOPPVALS Room darkening cellular blind, gray: /products/cellular-shades-and-honeycomb-blinds/40386444.txt
+- HOPPVALS Room darkening cellular blind, gray: /products/cellular-shades-and-honeycomb-blinds/30386430.txt
+- HOPPVALS Room darkening cellular blind, gray: /products/cellular-shades-and-honeycomb-blinds/20386440.txt
+- HOPPVALS Room darkening cellular blind, gray: /products/cellular-shades-and-honeycomb-blinds/10386426.txt
+- HOPPVALS Room darkening cellular blind, gray: /products/cellular-shades-and-honeycomb-blinds/00386436.txt
+- HOPPVALS cellular blind, white: /products/cellular-shades-and-honeycomb-blinds/90431401.txt
+- HOPPVALS cellular blind, white: /products/cellular-shades-and-honeycomb-blinds/90431397.txt
+- HOPPVALS cellular blind, white: /products/cellular-shades-and-honeycomb-blinds/70431402.txt
+- HOPPVALS cellular blind, white: /products/cellular-shades-and-honeycomb-blinds/70431398.txt
+- HOPPVALS Cellular blind, white: /products/cellular-shades-and-honeycomb-blinds/50431403.txt
+- HOPPVALS Cellular blind, white: /products/cellular-shades-and-honeycomb-blinds/50431399.txt
+- HOPPVALS Cellular blind, white: /products/cellular-shades-and-honeycomb-blinds/30431404.txt
+- HOPPVALS Cellular blind, white: /products/cellular-shades-and-honeycomb-blinds/10431400.txt
+- HOPPVALS cellular blind, beige: /products/cellular-shades-and-honeycomb-blinds/80567070.txt
+- HOPPVALS cellular blind, beige: /products/cellular-shades-and-honeycomb-blinds/70567075.txt
+- HOPPVALS cellular blind, beige: /products/cellular-shades-and-honeycomb-blinds/60567071.txt
+- HOPPVALS cellular blind, beige: /products/cellular-shades-and-honeycomb-blinds/50567076.txt
+- HOPPVALS cellular blind, beige: /products/cellular-shades-and-honeycomb-blinds/40567072.txt
+- HOPPVALS cellular blind, beige: /products/cellular-shades-and-honeycomb-blinds/20567073.txt
+- HOPPVALS cellular blind, beige: /products/cellular-shades-and-honeycomb-blinds/00567074.txt
+- HOPPVALS cellular blind, beige: /products/cellular-shades-and-honeycomb-blinds/00567069.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

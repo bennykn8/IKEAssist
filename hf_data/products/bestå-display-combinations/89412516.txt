@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BESTÅ storage combination w/glass doors, black-brown/Hanviken black-brown clear glass
+SKU: 89412516
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/besta-storage-combination-w-glass-doors-black-brown-hanviken-black-brown-clear-glass-s89412516/
+Category: BESTÅ display combinations
+Description: , 235/8x161/2x76" Things that tend to get cluttered can be placed out of sight while your favorite objects can be showcased behind glass doors. A storage-and-display solution is practical and tells a ...
+
+# @OFFER
+Price: 395
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Bottom panel/ Side panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Plastic edging, Back panel: Fiberboard, Paper foil, Plastic foil, Tempered glass
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | The push-open function requires a space between the frame and the drawer front to allow the drawer to be pushed to open. The small gap is necessary to allow this function and is not a product deviation.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/besta-storage-combination-w-glass-doors-black-brown-hanviken-black-brown-clear-glass__0719334_pe731986_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

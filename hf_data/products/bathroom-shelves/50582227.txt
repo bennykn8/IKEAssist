@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BROFJÄRDEN double hook, chrome effect
+SKU: 50582227
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/brofjaerden-double-hook-chrome-effect-50582227/
+Category: Bathroom shelves
+Description: BROFJÄRDEN bathroom accessories with shiny chrome-plated details reminisce of elegant, lasting designs of the past. This double hook keeps things like towels, brushes and shower puffs organized. No vi...
+
+# @OFFER
+Price: 3.49
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Cover plate/ Hook: Aluminum, Chrome plated, Adapter: Stainless steel, Stainless steel, Bolt: Stainless steel
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Screws for wall mounting are not included. | If you are uncertain about what type of mounting devices to use, please contact your local hardware store.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/brofjaerden-double-hook-chrome-effect__1329635_pe945207_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

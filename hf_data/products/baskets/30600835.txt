@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MÄVINN basket, palm leaf handmade, 10 ¼x4x
+SKU: 30600835
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/maevinn-basket-palm-leaf-handmade-30600835/
+Category: Baskets
+Description: 4" On this basket, the hand-braided layered weave of palmyra leaves creates a hexagonal pattern that catches the eye and gives your table setting a natural touch that feels warm and inviting.
+
+# @OFFER
+Price: 11.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Palm leaf
+Features: Color variations can occur since it’s made from unbleached natural material. | Since the basket is made of dried leaves, it may lose its round shape during transport. Press gently on the sides of the basket to re-shape it.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/maevinn-basket-palm-leaf-handmade__1382269_pe962239_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

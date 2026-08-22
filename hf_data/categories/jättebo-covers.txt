@@ -1,0 +1,40 @@
+# @CATEGORY
+Name: JÄTTEBO covers
+ProductCount: 18
+
+# @FILTERS
+PriceRange: $15.00 - $130.00
+Materials: 100 % polyester (100% recycled)
+Brand: IKEA
+
+# @ITEMS
+- JÄTTEBO cover for headrest cushion, Tonerud gray: /products/jättebo-covers/90539618.txt
+- JÄTTEBO cover for headrest cushion, Samsala gray-beige: /products/jättebo-covers/20539612.txt
+- JÄTTEBO cover for headrest cushion, Samsala dark yellow-green: /products/jättebo-covers/20539607.txt
+- JÄTTEBO cover for armrest, Tonerud gray: /products/jättebo-covers/20528944.txt
+- JÄTTEBO cover for armrest, Samsala gray-beige: /products/jättebo-covers/40529004.txt
+- JÄTTEBO cover for armrest, Samsala dark yellow-green: /products/jättebo-covers/80528979.txt
+- JÄTTEBO cover chaise module, right, Tonerud gray: /products/jättebo-covers/20528958.txt
+- JÄTTEBO cover chaise module, right, Samsala gray-beige: /products/jättebo-covers/20529019.txt
+- JÄTTEBO cover chaise module, right, Samsala dark yellow-green: /products/jättebo-covers/70528994.txt
+- JÄTTEBO cover chaise module, left, Tonerud gray: /products/jättebo-covers/30528953.txt
+- JÄTTEBO cover chaise module, left, Samsala gray-beige: /products/jättebo-covers/30529014.txt
+- JÄTTEBO cover chaise module, left, Samsala dark yellow-green: /products/jättebo-covers/70528989.txt
+- JÄTTEBO cover 1-seat module with storage, Tonerud gray: /products/jättebo-covers/10528968.txt
+- JÄTTEBO cover 1-seat module with storage, Samsala gray-beige: /products/jättebo-covers/60528999.txt
+- JÄTTEBO cover 1-seat module with storage, Samsala dark yellow-green: /products/jättebo-covers/10528973.txt
+- JÄTTEBO cover 1.5-seat module with storage, Tonerud gray: /products/jättebo-covers/20528963.txt
+- JÄTTEBO cover 1.5-seat module with storage, Samsala gray-beige: /products/jättebo-covers/30529009.txt
+- JÄTTEBO cover 1.5-seat module with storage, Samsala dark yellow-green: /products/jättebo-covers/80528984.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

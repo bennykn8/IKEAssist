@@ -1,0 +1,64 @@
+# @CATEGORY
+Name: VEDHAMN oak fronts
+ProductCount: 42
+
+# @FILTERS
+PriceRange: $80.00 - $417.00
+Materials: Frame: Solid oak, Tinted clear acrylic lacquer, Glass: Tempered glass, Panel: Fiberboard, Oak veneer, Oak veneer, Tinted clear acrylic lacquer, Solid oak, Tinted clear acrylic lacquer
+Brand: IKEA
+
+# @ITEMS
+- VEDHAMN glass door, oak: /products/vedhamn-oak-fronts/90505185.txt
+- VEDHAMN glass door, oak: /products/vedhamn-oak-fronts/70505186.txt
+- VEDHAMN glass door, oak: /products/vedhamn-oak-fronts/50505192.txt
+- VEDHAMN glass door, oak: /products/vedhamn-oak-fronts/50505187.txt
+- VEDHAMN glass door, oak: /products/vedhamn-oak-fronts/20505184.txt
+- VEDHAMN drawer front, oak: /products/vedhamn-oak-fronts/90505171.txt
+- VEDHAMN drawer front, oak: /products/vedhamn-oak-fronts/80505181.txt
+- VEDHAMN drawer front, oak: /products/vedhamn-oak-fronts/80505176.txt
+- VEDHAMN drawer front, oak: /products/vedhamn-oak-fronts/70505172.txt
+- VEDHAMN drawer front, oak: /products/vedhamn-oak-fronts/60505182.txt
+- VEDHAMN drawer front, oak: /products/vedhamn-oak-fronts/60505177.txt
+- VEDHAMN drawer front, oak: /products/vedhamn-oak-fronts/50505173.txt
+- VEDHAMN drawer front, oak: /products/vedhamn-oak-fronts/40505183.txt
+- VEDHAMN drawer front, oak: /products/vedhamn-oak-fronts/40505178.txt
+- VEDHAMN drawer front, oak: /products/vedhamn-oak-fronts/30505174.txt
+- VEDHAMN drawer front, oak: /products/vedhamn-oak-fronts/30505169.txt
+- VEDHAMN drawer front, oak: /products/vedhamn-oak-fronts/20505179.txt
+- VEDHAMN drawer front, oak: /products/vedhamn-oak-fronts/10505170.txt
+- VEDHAMN drawer front, oak: /products/vedhamn-oak-fronts/00505180.txt
+- VEDHAMN drawer front, oak: /products/vedhamn-oak-fronts/00505175.txt
+- VEDHAMN door, oak: /products/vedhamn-oak-fronts/90505166.txt
+- VEDHAMN door, oak: /products/vedhamn-oak-fronts/90505152.txt
+- VEDHAMN door, oak: /products/vedhamn-oak-fronts/90505147.txt
+- VEDHAMN door, oak: /products/vedhamn-oak-fronts/80505162.txt
+- VEDHAMN door, oak: /products/vedhamn-oak-fronts/80505157.txt
+- VEDHAMN door, oak: /products/vedhamn-oak-fronts/70505167.txt
+- VEDHAMN door, oak: /products/vedhamn-oak-fronts/70505153.txt
+- VEDHAMN door, oak: /products/vedhamn-oak-fronts/70505148.txt
+- VEDHAMN door, oak: /products/vedhamn-oak-fronts/60505163.txt
+- VEDHAMN door, oak: /products/vedhamn-oak-fronts/60505158.txt
+- VEDHAMN door, oak: /products/vedhamn-oak-fronts/50505154.txt
+- VEDHAMN door, oak: /products/vedhamn-oak-fronts/50505149.txt
+- VEDHAMN door, oak: /products/vedhamn-oak-fronts/40505164.txt
+- VEDHAMN door, oak: /products/vedhamn-oak-fronts/40505159.txt
+- VEDHAMN door, oak: /products/vedhamn-oak-fronts/30505150.txt
+- VEDHAMN door, oak: /products/vedhamn-oak-fronts/20505160.txt
+- VEDHAMN door, oak: /products/vedhamn-oak-fronts/20505155.txt
+- VEDHAMN door, oak: /products/vedhamn-oak-fronts/10505165.txt
+- VEDHAMN door, oak: /products/vedhamn-oak-fronts/10505151.txt
+- VEDHAMN door, oak: /products/vedhamn-oak-fronts/00505161.txt
+- VEDHAMN door, oak: /products/vedhamn-oak-fronts/00505156.txt
+- VEDHAMN 2-p door/corner base cabinet set, oak: /products/vedhamn-oak-fronts/50505168.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

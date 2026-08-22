@@ -1,0 +1,45 @@
+# @CATEGORY
+Name: Pretend play sets & toys
+ProductCount: 23
+
+# @FILTERS
+PriceRange: $4.99 - $109.99
+Materials: ABS plastic, Acrylic paint, Back fabric/ Outer fabric: 100 %polyester, Bed/ Cabinet/ Chair: ABS plastic, Blanket: 100 % cotton, Box: Solid cardboard, Door: Fiberboard, Paint, Clear acrylic lacquer, Drawer: Polypropylene, Fabric/ Inner fabric/ Chain: 100 % polyester, Fabric: 100 % polyester, Fabric: 100 % polyester (100% recycled)
+Brand: IKEA
+
+# @ITEMS
+- TITTA DJUR finger puppet, mixed colors: /products/pretend-play-sets-and-toys/90159340.txt
+- SKOGSDUVA mask, set of 2, badger/lynx multicolor: /products/pretend-play-sets-and-toys/10578675.txt
+- SILLTRUT kitchen for children, gray: /products/pretend-play-sets-and-toys/20544492.txt
+- RÄVUNGE 23-piece car track set: /products/pretend-play-sets-and-toys/90542183.txt
+- NATTHÄGER 3-piece hand puppet set, crocodile zebra/tiger multicolor: /products/pretend-play-sets-and-toys/50597064.txt
+- LILLABO toy figure: /products/pretend-play-sets-and-toys/60242614.txt
+- LÅTSAS 11-piece shopping basket set: /products/pretend-play-sets-and-toys/00262006.txt
+- HUSET doll furniture, living room: /products/pretend-play-sets-and-toys/50263150.txt
+- HUSET Doll furniture, bedroom: /products/pretend-play-sets-and-toys/50292261.txt
+- DUKTIG toy cash register: /products/pretend-play-sets-and-toys/90572033.txt
+- DUKTIG play kitchen, birch: /products/pretend-play-sets-and-toys/60319972.txt
+- DUKTIG glass, multicolor: /products/pretend-play-sets-and-toys/00190689.txt
+- DUKTIG doll bed with bedlinen set, pine/multicolor: /products/pretend-play-sets-and-toys/70589223.txt
+- DUKTIG 8-piece plate/bowl playset, mixed colors: /products/pretend-play-sets-and-toys/20490253.txt
+- DUKTIG 8-piece cup/saucer playset, mixed colors: /products/pretend-play-sets-and-toys/60490246.txt
+- DUKTIG 6-piece roll set, cinnamon/bun: /products/pretend-play-sets-and-toys/00427823.txt
+- DUKTIG 5-piece toy kitchen utensil set, multicolor: /products/pretend-play-sets-and-toys/80130168.txt
+- DUKTIG 5-piece toy cookware set, stainless steel color: /products/pretend-play-sets-and-toys/00130167.txt
+- DUKTIG 3-piece tea playset, mixed colors: /products/pretend-play-sets-and-toys/80499991.txt
+- DUKTIG 24-piece pizza set, pizza/multicolor: /products/pretend-play-sets-and-toys/80427819.txt
+- DUKTIG 14-piece vegetables set: /products/pretend-play-sets-and-toys/70185750.txt
+- BARKBORRE 7-piece toy doctor’s set: /products/pretend-play-sets-and-toys/20544642.txt
+- AFTONSPARV 5-piece finger puppet set, multicolor: /products/pretend-play-sets-and-toys/20551642.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

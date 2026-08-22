@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SMEVIKEN drawer front, white
+SKU: 60472879
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/smeviken-drawer-front-white-60472879/
+Category: BESTÅ doors & drawer fronts
+Description: , 231/2x10" The white SMEVIKEN framed front with a bevelled panel is inspired by classic craftsmanship with a focus on details – giving your storage a traditional look. Perfect to combine with OSTVIK ...
+
+# @OFFER
+Price: 50
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Fiberboard, Acrylic paint, Paper foil, Clear lacquer
+Features: To be completed with BESTÅ drawer frame 23⅝X5¾X15¾" and BESTÅ drawer runner, sold separately. | May be completed with knobs or handles, sold separately. | SMEVIKEN front has the same color and style as OSTVIK glass door. Combine them to form a complete storage and display solution.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/smeviken-drawer-front-white__0827655_pe776464_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

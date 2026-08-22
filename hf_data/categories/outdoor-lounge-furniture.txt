@@ -1,0 +1,99 @@
+# @CATEGORY
+Name: Outdoor lounge furniture
+ProductCount: 77
+
+# @FILTERS
+PriceRange: $169.99 - $2595.00
+Materials: Armrest/ Front rail/ Back rail/ Back/ Main parts: Solid eucalyptus wood, Acrylic stain, Back frame/ Leg frame: Steel, Polyester powder coating, Back/ Frame: Steel, Polyester powder coating, Fabric/ Lining, top: 100% polyester (min. 90% recycled), Feet: Polyamide, Feet: Polyethylene, Foot: Polyamide, Frame/ Binding/ Decoration: Rattan, Clear acrylic lacquer, Frame/ Leg: Steel, Polyester powder coating, Leg frame: Steel, Polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- VITTSKÄR sofa, outdoor/plastic rattan dark gray: /products/outdoor-lounge-furniture/99591131.txt
+- VITTSKÄR sofa, outdoor plastic rattan dark gray/Frösön/Duvholmen beige: /products/outdoor-lounge-furniture/49618901.txt
+- VITTSKÄR sofa, armrests outdoor/plastic rattan dark gray: /products/outdoor-lounge-furniture/89591136.txt
+- VITTSKÄR sofa, armrests outdoor/plastic rattan dark gray Frösön/Duvholmen beige: /products/outdoor-lounge-furniture/59618905.txt
+- VITTSKÄR sectional, 3-seat, outdoor/plastic rattan dark gray: /products/outdoor-lounge-furniture/59591128.txt
+- VITTSKÄR sectional, 3-seat, outdoor plastic rattan dark gray/Frösön/Duvholmen beige: /products/outdoor-lounge-furniture/39618893.txt
+- VITTSKÄR sectional, 3-seat, armrests outdoor/plastic rattan dark gray: /products/outdoor-lounge-furniture/39591148.txt
+- VITTSKÄR sectional, 3-seat, armrests outdoor/plastic rattan dark gray Frösön/Duvholmen beige: /products/outdoor-lounge-furniture/49618897.txt
+- VITTSKÄR modular loveseat, outdoor/plastic rattan dark gray: /products/outdoor-lounge-furniture/99591065.txt
+- VITTSKÄR modular loveseat, outdoor plastic rattan dark gray/Frösön/Duvholmen beige: /products/outdoor-lounge-furniture/69618877.txt
+- VITTSKÄR modular loveseat, armrests outdoor/plastic rattan dark gray: /products/outdoor-lounge-furniture/79591066.txt
+- VITTSKÄR modular loveseat, armrests outdoor/plastic rattan dark gray: /products/outdoor-lounge-furniture/69591123.txt
+- VITTSKÄR modular loveseat, armrests outdoor/plastic rattan dark gray Frösön/Duvholmen beige: /products/outdoor-lounge-furniture/99618885.txt
+- VITTSKÄR modular loveseat, armrests outdoor/plastic rattan dark gray Frösön/Duvholmen beige: /products/outdoor-lounge-furniture/89618881.txt
+- VITTSKÄR modular easy chair, outdoor plastic rattan dark gray/Frösön/Duvholmen beige: /products/outdoor-lounge-furniture/19618865.txt
+- VITTSKÄR modular chaise longue, with armrest outdoor/plastic rattan dark gray Frösön/Duvholmen beige: /products/outdoor-lounge-furniture/79618853.txt
+- VITTSKÄR modular chaise longue, with armrest outdoor/plastic rattan dark gray Frösön/Duvholmen beige: /products/outdoor-lounge-furniture/09618861.txt
+- VITTSKÄR modular chaise longue, outdoor plastic rattan dark gray/Frösön/Duvholmen beige: /products/outdoor-lounge-furniture/59618849.txt
+- VITTSKÄR modular chaise longue, outdoor plastic rattan dark gray/Frösön/Duvholmen beige: /products/outdoor-lounge-furniture/39618845.txt
+- VITTSKÄR loveseat, outdoor/plastic rattan dark gray: /products/outdoor-lounge-furniture/49591077.txt
+- VITTSKÄR loveseat, outdoor plastic rattan dark gray/Frösön/Duvholmen beige: /products/outdoor-lounge-furniture/19618889.txt
+- VITTSKÄR 5-seat modular corner sofa, outdoor/plastic rattan dark gray: /products/outdoor-lounge-furniture/19591248.txt
+- VITTSKÄR 5-seat modular corner sofa, outdoor plastic rattan dark gray/Frösön/Duvholmen beige: /products/outdoor-lounge-furniture/19619681.txt
+- VITTSKÄR 4-seat modular corner sofa, outdoor/plastic rattan dark gray: /products/outdoor-lounge-furniture/79591231.txt
+- VITTSKÄR 3-seat modular corner sofa, outdoor/plastic rattan dark gray: /products/outdoor-lounge-furniture/89591160.txt
+- VITTSKÄR 3-seat modular corner sofa, outdoor plastic rattan dark gray/Frösön/Duvholmen beige: /products/outdoor-lounge-furniture/19618832.txt
+- TVARÖ seat sec for modular sofa, outdoor, brown/Frösön/Duvholmen dark gray: /products/outdoor-lounge-furniture/99584913.txt
+- TVARÖ seat sec for modular sofa, outdoor, brown/Frösön/Duvholmen beige: /products/outdoor-lounge-furniture/99584908.txt
+- TVARÖ 3-seat modular sofa, outdoor, brown/Frösön/Duvholmen dark gray: /products/outdoor-lounge-furniture/09584922.txt
+- TVARÖ 3-seat modular sofa, outdoor, brown/Frösön/Duvholmen beige: /products/outdoor-lounge-furniture/09584917.txt
+- SEGERÖN loveseat, outdoor, white/beige/Frösön/Duvholmen beige: /products/outdoor-lounge-furniture/09584861.txt
+- SEGERÖN loveseat, outdoor, white/beige/Frösön/Duvholmen beige: /products/outdoor-lounge-furniture/09584856.txt
+- SEGERÖN corner section with pad, outdoor white/beige/Frösön/Duvholmen beige: /products/outdoor-lounge-furniture/39584727.txt
+- NÄMMARÖ sectional, 3-seat, outdoor/light brown stained: /products/outdoor-lounge-furniture/59607515.txt
+- NÄMMARÖ sectional, 3-seat, outdoor light brown stained/Frösön/Duvholmen beige: /products/outdoor-lounge-furniture/49611179.txt
+- NÄMMARÖ sectional, 3-seat, outdoor light brown stained/Frösön/Duvholmen beige: /products/outdoor-lounge-furniture/49610245.txt
+- NÄMMARÖ sectional, 3-seat, outdoor armrests/light brown stained: /products/outdoor-lounge-furniture/39607516.txt
+- NÄMMARÖ sectional, 3-seat, outdoor armrests/light brown stained Frösön/Duvholmen beige: /products/outdoor-lounge-furniture/69611183.txt
+- NÄMMARÖ modular loveseat, outdoor/light brown stained: /products/outdoor-lounge-furniture/49607511.txt
+- NÄMMARÖ modular loveseat, outdoor light brown stained/Frösön/Duvholmen beige: /products/outdoor-lounge-furniture/19611171.txt
+- NÄMMARÖ modular loveseat, outdoor armrests/light brown stained: /products/outdoor-lounge-furniture/09607513.txt
+- NÄMMARÖ modular loveseat, outdoor armrests/light brown stained Frösön/Duvholmen beige: /products/outdoor-lounge-furniture/69610249.txt
+- NÄMMARÖ modular loveseat, outdoor armrests/light brown stained Frösön/Duvholmen beige: /products/outdoor-lounge-furniture/29611175.txt
+- NÄMMARÖ modular corner sofa, 3-seat, outdoor light brown stained: /products/outdoor-lounge-furniture/59579305.txt
+- NÄMMARÖ modular corner sofa, 3-seat, outdoor light brown stained/Kuddarna light grey-beige: /products/outdoor-lounge-furniture/59575411.txt
+- NÄMMARÖ modular corner sofa, 3-seat, outdoor light brown stained/Frösön/Duvholmen beige: /products/outdoor-lounge-furniture/99584507.txt
+- NÄMMARÖ 4-seat modular corner sofa, outdoor/light brown stained: /products/outdoor-lounge-furniture/09607594.txt
+- NÄMMARÖ 4-seat modular corner sofa, outdoor light brown stained/Frösön/Duvholmen beige: /products/outdoor-lounge-furniture/89611163.txt
+- NÄMMARÖ 3-seat modular sofa w chaise longue, outdoor/light brown stained: /products/outdoor-lounge-furniture/39607521.txt
+- NÄMMARÖ 3-seat modular sofa w chaise longue, outdoor light brown stained/Frösön/Duvholmen beige: /products/outdoor-lounge-furniture/79611187.txt
+- NÄMMARÖ 3-seat modular sofa, outdoor, with footstool light brown stained: /products/outdoor-lounge-furniture/39579311.txt
+- NÄMMARÖ 3-seat modular sofa, outdoor, with footstool light brown stained/Kuddarna light grey-beige: /products/outdoor-lounge-furniture/29576025.txt
+- NÄMMARÖ 3-seat modular sofa, outdoor, with footstool light brown stained/Frösön/Duvholmen beige: /products/outdoor-lounge-furniture/99610441.txt
+- NÄMMARÖ 3-seat modular sofa, outdoor, light brown stained: /products/outdoor-lounge-furniture/79579309.txt
+- NÄMMARÖ 3-seat modular sofa, outdoor, light brown stained/Kuddarna light grey-beige: /products/outdoor-lounge-furniture/39576015.txt
+- NÄMMARÖ 3-seat modular sofa, outdoor, armrests light brown stained: /products/outdoor-lounge-furniture/59579310.txt
+- NÄMMARÖ 3-seat modular sofa, outdoor, armrests light brown stained/Kuddarna light grey-beige: /products/outdoor-lounge-furniture/59576019.txt
+- NÄMMARÖ 3-seat modular sofa, outdoor, armrests light brown stained/Frösön/Duvholmen beige: /products/outdoor-lounge-furniture/49584369.txt
+- NÄMMARÖ 3-seat modular corner sofa, outdoor/light brown stained: /products/outdoor-lounge-furniture/49610293.txt
+- NÄMMARÖ 3-seat modular corner sofa, outdoor light brown stained/Kuddarna light gray-beige: /products/outdoor-lounge-furniture/19610421.txt
+- NÄMMARÖ 3-seat modular corner sofa, outdoor light brown stained/Frösön/Duvholmen beige: /products/outdoor-lounge-furniture/09610431.txt
+- NÄMMARÖ 2-seat modular sofa, outdoor, light brown stained: /products/outdoor-lounge-furniture/19579307.txt
+- NÄMMARÖ 2-seat modular sofa, outdoor, light brown stained/Kuddarna light grey-beige: /products/outdoor-lounge-furniture/89575424.txt
+- NÄMMARÖ 2-seat modular sofa, outdoor, light brown stained/Frösön/Duvholmen beige: /products/outdoor-lounge-furniture/39610241.txt
+- NÄMMARÖ 2-seat modular sofa, outdoor, armrests light brown stained: /products/outdoor-lounge-furniture/99579308.txt
+- NÄMMARÖ 2-seat modular sofa, outdoor, armrests light brown stained/Kuddarna light grey-beige: /products/outdoor-lounge-furniture/99575428.txt
+- LÄCKÖ loveseat, outdoor, gray/Kuddarna light grey-beige: /products/outdoor-lounge-furniture/99575391.txt
+- JUTHOLMEN modular corner sofa 3-seat, outdoor, dark gray/Kuddarna light grey-beige: /products/outdoor-lounge-furniture/99579836.txt
+- JUTHOLMEN modular corner sofa 3-seat, outdoor, dark gray/Kuddarna light grey-beige: /products/outdoor-lounge-furniture/89579832.txt
+- JUTHOLMEN 3-seat modular sofa, outdoor, dark gray/Kuddarna light grey-beige: /products/outdoor-lounge-furniture/79579861.txt
+- JUTHOLMEN 3-seat modular sofa, outdoor, dark gray/Kuddarna light grey-beige: /products/outdoor-lounge-furniture/59579857.txt
+- JUTHOLMEN 2-seat modular sofa, outdoor, dark gray/Kuddarna light grey-beige: /products/outdoor-lounge-furniture/49579853.txt
+- JUTHOLMEN 2-seat modular sofa, outdoor, dark gray/Kuddarna light grey-beige: /products/outdoor-lounge-furniture/29579849.txt
+- HÖGSTEN loveseat, outdoor, white: /products/outdoor-lounge-furniture/50512593.txt
+- HAVSTEN loveseat, outdoor, beige/beige: /products/outdoor-lounge-furniture/99500961.txt
+- BONDHOLMEN loveseat, outdoor, brown/Järpön/Duvholmen anthracite: /products/outdoor-lounge-furniture/19549768.txt
+- BONDHOLMEN loveseat, outdoor, brown: /products/outdoor-lounge-furniture/80558184.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

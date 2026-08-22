@@ -1,0 +1,37 @@
+# @CATEGORY
+Name: Sauce pans
+ProductCount: 15
+
+# @FILTERS
+PriceRange: $7.99 - $79.99
+Materials: Body: Aluminum, Coated with Teflon(R) Infinity., Body: Aluminum, Stainless steel, Copper, Body: Stainless steel, Aluminum, Stainless steel, Cast iron, Enamel, Disc/ Washer: Stainless steel, Disc: Aluminum, Fire protector: Aluminum, Fire protector: Aluminum, Powder coating, Flame guard: Stainless steel, Phenolic plastic, Handle/ Knob/ Cover/ Body: Stainless steel
+Brand: IKEA
+
+# @ITEMS
+- VARDAGEN pot with lid, enamelled cast iron matte/black, 5.3 qt: /products/sauce-pans/90560676.txt
+- VARDAGEN pot with lid, enamelled cast iron matte/black, 6.9 qt: /products/sauce-pans/00560671.txt
+- SENSUELL saucepan with lid, stainless steel/gray, 2.5 qt: /products/sauce-pans/20578137.txt
+- MIDDAGSMAT saucepan with lid, non-stick coating clear glass/stainless steel, 1.1 qt: /products/sauce-pans/50580596.txt
+- MIDDAGSMAT saucepan with lid, non-stick coating clear glass/stainless steel, 2.1 qt: /products/sauce-pans/30580597.txt
+- MIDDAGSMAT saucepan with lid, clear glass/stainless steel, 2.1 qt: /products/sauce-pans/50576523.txt
+- KLIPPFISK saucepan with lid, non-stick coating glass/wood black-blue, 2.4 qt: /products/sauce-pans/40602508.txt
+- IKEA 365+ saucepan with lid, stainless steel, 2 qt: /products/sauce-pans/20577915.txt
+- IKEA 365+ saucepan, stainless steel, 1 qt: /products/sauce-pans/80609070.txt
+- HUSKNUT saucepan, non-stick coating black, 1.9 qt: /products/sauce-pans/50576603.txt
+- HEMLAGAD saucepan with lid, non-stick coating black, 2.1 qt: /products/sauce-pans/50580916.txt
+- HEMKOMST saucepan with lid, stainless steel/glass, 2.1 qt: /products/sauce-pans/80578083.txt
+- FJÄRSING saucepan with lid, gray: /products/sauce-pans/50564898.txt
+- FJÄRSING pot with lid, gray: /products/sauce-pans/20564908.txt
+- FINMAT saucepan with lid, copper/stainless steel, 2 qt: /products/sauce-pans/80578115.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

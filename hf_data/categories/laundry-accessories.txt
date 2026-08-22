@@ -1,0 +1,26 @@
+# @CATEGORY
+Name: Laundry accessories
+ProductCount: 4
+
+# @FILTERS
+PriceRange: $0.99 - $1.99
+Materials: Clamp: Polypropylene plastic (min. 20% recycled), Loop: Polyamide, Mesh: 100 % polyester (100% recycled), Piping: 100 % polyester, Polypropylene plastic (min. 20% recycled), Spring: Acetal plastic
+Brand: IKEA
+
+# @ITEMS
+- SLIBB washing bag, white/gray: /products/laundry-accessories/60567735.txt
+- SLIBB washing bag, set of 2, white/gray: /products/laundry-accessories/60569857.txt
+- SLIBB hanger with 8 grip clips, green: /products/laundry-accessories/30567727.txt
+- SLIBB clothes pin, green: /products/laundry-accessories/30567732.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

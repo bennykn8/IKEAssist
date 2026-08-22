@@ -1,0 +1,59 @@
+# @CATEGORY
+Name: Sleeper sofa beds
+ProductCount: 37
+
+# @FILTERS
+PriceRange: $449.00 - $1699.00
+Materials: Armrest frame: Fiberboard, Plywood, Polyurethane foam 1.5 lb/cu.ft., Particleboard, Solid wood, Back and seat frame: Steel, Back cover: 100 % polypropylene, Back cushion/ Fabric: 100 % polyester (100% recycled), Back cushion: 100 % polyester (100% recycled), Back cushion: 100 % polyester - hollow fiber (100% recycled), Back cushion: 100 % polyester - hollow fiber (100% recycled), 30% cut polyurethane foam/ 70% polyester fibers, Polyurethane foam., Back frame: Fiberboard, Plywood, Particleboard, Solid wood, Bed box: Particleboard, Plywood, High-pressure melamine laminate, Paint, Bed box: Particleboard, Solid wood, Paperboard (100% recycled), Laminated veneer lumber, Plywood, Fiberboard
+Brand: IKEA
+
+# @ITEMS
+- VRETSTORP sleeper sofa, Kilanda light beige: /products/sleeper-sofa-beds/79491241.txt
+- VRETSTORP sleeper sofa, Kilanda dark blue: /products/sleeper-sofa-beds/49491247.txt
+- VRETSTORP sleeper sofa, Karlshov gray-beige: /products/sleeper-sofa-beds/99491235.txt
+- VRETSTORP sleeper sofa, Hakebo gray-green: /products/sleeper-sofa-beds/99491259.txt
+- VRETSTORP sleeper sofa, Hakebo dark gray: /products/sleeper-sofa-beds/29491253.txt
+- NYHAMN sleeper sofa, with pocket spring mattress/Skartofta red/brown: /products/sleeper-sofa-beds/29516970.txt
+- NYHAMN sleeper sofa, with pocket spring mattress/Skartofta black/light grey: /products/sleeper-sofa-beds/39516984.txt
+- NYHAMN sleeper sofa, with pocket spring mattress/Naggen dark gray: /products/sleeper-sofa-beds/19516975.txt
+- NYHAMN sleeper sofa, with pocket spring mattress/Naggen beige: /products/sleeper-sofa-beds/59516978.txt
+- NYHAMN sleeper sofa, with pocket spring mattress/Knisa gray/beige: /products/sleeper-sofa-beds/79306366.txt
+- NYHAMN sleeper sofa, with foam mattress/Skartofta red/brown: /products/sleeper-sofa-beds/89499996.txt
+- NYHAMN sleeper sofa, with foam mattress/Skartofta black/light grey: /products/sleeper-sofa-beds/29499980.txt
+- NYHAMN sleeper sofa, with foam mattress/Naggen dark gray: /products/sleeper-sofa-beds/19499990.txt
+- NYHAMN sleeper sofa, with foam mattress/Naggen beige: /products/sleeper-sofa-beds/79499987.txt
+- NYHAMN sleeper sofa, with foam mattress/Knisa gray/beige: /products/sleeper-sofa-beds/39306373.txt
+- MORABO sleeper sofa, Gunnared light green/wood: /products/sleeper-sofa-beds/59491322.txt
+- MORABO sleeper sofa, Gunnared light green/metal: /products/sleeper-sofa-beds/89491325.txt
+- MORABO sleeper sofa, Gunnared dark gray/wood: /products/sleeper-sofa-beds/79491321.txt
+- MORABO sleeper sofa, Gunnared dark gray/metal: /products/sleeper-sofa-beds/69491326.txt
+- MORABO sleeper sofa, Grann/Bomstad golden brown/wood: /products/sleeper-sofa-beds/39491323.txt
+- MORABO sleeper sofa, Grann/Bomstad golden brown/metal: /products/sleeper-sofa-beds/99491320.txt
+- MORABO sleeper sofa, Grann/Bomstad black/wood: /products/sleeper-sofa-beds/19491324.txt
+- MORABO sleeper sofa, Grann/Bomstad black/metal: /products/sleeper-sofa-beds/19491319.txt
+- HOLMSUND 3-seat sleeper sofa, Kilanda gray-brown: /products/sleeper-sofa-beds/39516917.txt
+- HOLMSUND 3-seat sleeper sofa, Kilanda dark blue: /products/sleeper-sofa-beds/99516919.txt
+- HOLMSUND 3-seat sleeper sofa, Borgunda dark gray: /products/sleeper-sofa-beds/39516936.txt
+- HOLMSUND 3-seat sleeper sofa, Borgunda beige: /products/sleeper-sofa-beds/49516931.txt
+- GRUNNARP sleeper sofa, Gunnared light brown-pink: /products/sleeper-sofa-beds/10585082.txt
+- GRUNNARP sleeper sofa, Gunnared beige: /products/sleeper-sofa-beds/70585079.txt
+- FRIHETEN sleeper sofa, Skiftebo dark gray: /products/sleeper-sofa-beds/90341151.txt
+- FRIHETEN sleeper sofa, Faringe light gray: /products/sleeper-sofa-beds/40551231.txt
+- FRIHETEN sleeper sofa, Faringe brown-orange: /products/sleeper-sofa-beds/80551234.txt
+- FRIHETEN Sleeper sofa, Bomstad black: /products/sleeper-sofa-beds/60341138.txt
+- BÅRSLÖV sleeper sofa, Tibbleby light gray-turquoise: /products/sleeper-sofa-beds/20541592.txt
+- BÅRSLÖV sleeper sofa, Tibbleby beige/gray: /products/sleeper-sofa-beds/60541585.txt
+- ÄLVDALEN sleeper sofa, Knisa gray-beige: /products/sleeper-sofa-beds/90530651.txt
+- ÄLVDALEN sleeper sofa, Knisa dark gray: /products/sleeper-sofa-beds/60530643.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

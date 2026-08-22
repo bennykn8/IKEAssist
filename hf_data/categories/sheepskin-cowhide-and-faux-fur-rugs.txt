@@ -1,0 +1,29 @@
+# @CATEGORY
+Name: Sheepskin, cowhide & faux fur rugs
+ProductCount: 7
+
+# @FILTERS
+PriceRange: $19.99 - $159.99
+Materials: Back side: 100 % polyester (100% recycled), Backing: 100 % Synthetic rubber, Backing: 100 % polyester (100% recycled), Cowhide, Sheepskin, Use surface: 100% polyester (min. 80% recycled), Use surface: 100% polyester (min. 90% recycled)
+Brand: IKEA
+
+# @ITEMS
+- ULLERSLEV sheepskin, off-white: /products/sheepskin-cowhide-and-faux-fur-rugs/70511516.txt
+- ULLERSLEV sheepskin, light brown: /products/sheepskin-cowhide-and-faux-fur-rugs/40501062.txt
+- TOFTLUND rug, white: /products/sheepskin-cowhide-and-faux-fur-rugs/20420241.txt
+- TOFTLUND rug, gray: /products/sheepskin-cowhide-and-faux-fur-rugs/30480357.txt
+- SVINDINGE rug, beige: /products/sheepskin-cowhide-and-faux-fur-rugs/70532123.txt
+- KOLDBY cowhide, brown: /products/sheepskin-cowhide-and-faux-fur-rugs/40222933.txt
+- KOLDBY cowhide, black: /products/sheepskin-cowhide-and-faux-fur-rugs/60222932.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

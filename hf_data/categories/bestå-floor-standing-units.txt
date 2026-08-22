@@ -1,0 +1,77 @@
+# @CATEGORY
+Name: BESTÅ floor standing units
+ProductCount: 55
+
+# @FILTERS
+PriceRange: $100.00 - $285.00
+Materials: Back panel: Fiberboard, Paper foil, Plastic foil, Fiberboard, Oak veneer, Clear acrylic lacquer, Fiberboard, Paper foil, Plastic edging, Fiberboard, Stain, Clear acrylic lacquer, Oak veneer, Frame: Aluminum, Epoxy/polyester powder coating, Particleboard, Fiberboard, Acrylic paint, Paper foil, Clear lacquer, Particleboard, High-pressure melamine laminate, Plastic foil, Plastic edging, Particleboard, Paper foil, Plastic edging, Particleboard, Plastic foil, Plastic edging, Particleboard, Plastic foil, Plastic foil, Plastic edging
+Brand: IKEA
+
+# @ITEMS
+- BESTÅ shelf unit with doors, white/Sutterviken white: /products/bestå-floor-standing-units/79426199.txt
+- BESTÅ shelf unit with doors, white/Sutterviken white: /products/bestå-floor-standing-units/49425158.txt
+- BESTÅ shelf unit with doors, white stained oak effect/Lappviken white stained oak effect: /products/bestå-floor-standing-units/79047622.txt
+- BESTÅ shelf unit with doors, white stained oak effect/Lappviken white stained oak effect: /products/bestå-floor-standing-units/49429707.txt
+- BESTÅ shelf unit with doors, white stained oak effect/Lappviken white stained oak effect: /products/bestå-floor-standing-units/19047432.txt
+- BESTÅ shelf unit with doors, white/Smeviken white: /products/bestå-floor-standing-units/99426198.txt
+- BESTÅ shelf unit with doors, white/Smeviken white: /products/bestå-floor-standing-units/09425155.txt
+- BESTÅ shelf unit with doors, white/Selsviken high-gloss/white: /products/bestå-floor-standing-units/89047443.txt
+- BESTÅ shelf unit with doors, white/Selsviken high-gloss/white: /products/bestå-floor-standing-units/59047406.txt
+- BESTÅ shelf unit with doors, white/Selsviken high-gloss/beige: /products/bestå-floor-standing-units/89047438.txt
+- BESTÅ shelf unit with doors, white/Selsviken high-gloss/beige: /products/bestå-floor-standing-units/69047401.txt
+- BESTÅ shelf unit with doors, white/Mörtviken white: /products/bestå-floor-standing-units/99426202.txt
+- BESTÅ shelf unit with doors, white/Mörtviken white: /products/bestå-floor-standing-units/69425157.txt
+- BESTÅ shelf unit with doors, white/Laxviken white: /products/bestå-floor-standing-units/59429778.txt
+- BESTÅ shelf unit with doors, white/Lappviken white: /products/bestå-floor-standing-units/79047429.txt
+- BESTÅ shelf unit with doors, white Lappviken/white: /products/bestå-floor-standing-units/69429706.txt
+- BESTÅ shelf unit with doors, white/Lappviken white: /products/bestå-floor-standing-units/59047388.txt
+- BESTÅ shelf unit with doors, white/Hedeviken oak veneer: /products/bestå-floor-standing-units/79425152.txt
+- BESTÅ shelf unit with doors, white/Hedeviken oak veneer: /products/bestå-floor-standing-units/39426200.txt
+- BESTÅ shelf unit with doors, white/Hanviken white: /products/bestå-floor-standing-units/49047421.txt
+- BESTÅ shelf unit with doors, white/Hanviken white: /products/bestå-floor-standing-units/19047385.txt
+- BESTÅ shelf unit with doors, Laxviken white: /products/bestå-floor-standing-units/99047391.txt
+- BESTÅ shelf unit with doors, dark gray/Lappviken dark gray: /products/bestå-floor-standing-units/89535796.txt
+- BESTÅ shelf unit with doors, dark gray/Lappviken dark gray: /products/bestå-floor-standing-units/89535777.txt
+- BESTÅ shelf unit with doors, dark gray/Lappviken dark gray: /products/bestå-floor-standing-units/29535775.txt
+- BESTÅ shelf unit with doors, black-brown/Selsviken high-gloss/black: /products/bestå-floor-standing-units/99047409.txt
+- BESTÅ shelf unit with doors, black-brown/Selsviken high-gloss/black: /products/bestå-floor-standing-units/59047449.txt
+- BESTÅ shelf unit with doors, black-brown/Mörtviken black: /products/bestå-floor-standing-units/99426155.txt
+- BESTÅ shelf unit with doors, black-brown/Mörtviken black: /products/bestå-floor-standing-units/89426207.txt
+- BESTÅ shelf unit with doors, black-brown/Lappviken black-brown: /products/bestå-floor-standing-units/49047379.txt
+- BESTÅ shelf unit with doors, black-brown/Lappviken black-brown: /products/bestå-floor-standing-units/19429704.txt
+- BESTÅ shelf unit with doors, black-brown/Lappviken black-brown: /products/bestå-floor-standing-units/09047376.txt
+- BESTÅ shelf unit with doors, black-brown/Kallviken dark gray: /products/bestå-floor-standing-units/29426154.txt
+- BESTÅ shelf unit with doors, black-brown/Kallviken dark gray: /products/bestå-floor-standing-units/09426206.txt
+- BESTÅ shelf unit with doors, black-brown Hedeviken/dark brown stained oak veneer: /products/bestå-floor-standing-units/49426153.txt
+- BESTÅ shelf unit with doors, black-brown Hedeviken/dark brown stained oak veneer: /products/bestå-floor-standing-units/29426205.txt
+- BESTÅ shelf unit with doors, black-brown/Hanviken black-brown: /products/bestå-floor-standing-units/69047458.txt
+- BESTÅ shelf unit with doors, black-brown/Hanviken black-brown: /products/bestå-floor-standing-units/49047416.txt
+- BESTÅ shelf unit with door, white/Sutterviken white: /products/bestå-floor-standing-units/29425003.txt
+- BESTÅ shelf unit with door, white stained oak effect/Lappviken white stained oak effect: /products/bestå-floor-standing-units/49047548.txt
+- BESTÅ shelf unit with door, white/Smeviken white: /products/bestå-floor-standing-units/19425008.txt
+- BESTÅ shelf unit with door, white/Selsviken high-gloss/white: /products/bestå-floor-standing-units/79046905.txt
+- BESTÅ shelf unit with door, white/Selsviken high-gloss/beige: /products/bestå-floor-standing-units/99046909.txt
+- BESTÅ shelf unit with door, white/Mörtviken white: /products/bestå-floor-standing-units/59425006.txt
+- BESTÅ shelf unit with door, white/Laxviken white: /products/bestå-floor-standing-units/59046690.txt
+- BESTÅ shelf unit with door, white/Lappviken white: /products/bestå-floor-standing-units/59046906.txt
+- BESTÅ shelf unit with door, white/Hedeviken oak veneer: /products/bestå-floor-standing-units/79425005.txt
+- BESTÅ shelf unit with door, white/Hanviken white: /products/bestå-floor-standing-units/39046907.txt
+- BESTÅ shelf unit with door, dark gray/Lappviken dark gray: /products/bestå-floor-standing-units/99535772.txt
+- BESTÅ shelf unit with door, black-brown/Selsviken high-gloss/black: /products/bestå-floor-standing-units/59046954.txt
+- BESTÅ shelf unit with door, black-brown/Mörtviken black: /products/bestå-floor-standing-units/09426150.txt
+- BESTÅ shelf unit with door, black-brown/Lappviken black-brown: /products/bestå-floor-standing-units/99046952.txt
+- BESTÅ shelf unit with door, black-brown/Kallviken dark gray: /products/bestå-floor-standing-units/29426149.txt
+- BESTÅ shelf unit with door, black-brown Hedeviken/dark brown stained oak veneer: /products/bestå-floor-standing-units/49426148.txt
+- BESTÅ shelf unit with door, black-brown/Hanviken black-brown: /products/bestå-floor-standing-units/79046953.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

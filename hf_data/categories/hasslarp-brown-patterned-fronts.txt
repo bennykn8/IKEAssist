@@ -1,0 +1,30 @@
+# @CATEGORY
+Name: HASSLARP brown patterned fronts
+ProductCount: 8
+
+# @FILTERS
+PriceRange: $97.00 - $177.00
+Materials: Backside: Oak veneer, Clear acrylic lacquer, Frontside/ Edge: Poplar - reconstituted veneer, Clear acrylic lacquer, Main parts: Particleboard
+Brand: IKEA
+
+# @ITEMS
+- HASSLARP door, brown/right-handed patterned: /products/hasslarp-brown-patterned-fronts/80441090.txt
+- HASSLARP door, brown/right-handed patterned: /products/hasslarp-brown-patterned-fronts/60441091.txt
+- HASSLARP door, brown patterned: /products/hasslarp-brown-patterned-fronts/90481783.txt
+- HASSLARP door, brown patterned: /products/hasslarp-brown-patterned-fronts/80404827.txt
+- HASSLARP door, brown patterned: /products/hasslarp-brown-patterned-fronts/70481784.txt
+- HASSLARP door, brown patterned: /products/hasslarp-brown-patterned-fronts/60404828.txt
+- HASSLARP door, brown/left-handed patterned: /products/hasslarp-brown-patterned-fronts/20404825.txt
+- HASSLARP door, brown/left-handed patterned: /products/hasslarp-brown-patterned-fronts/00404826.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

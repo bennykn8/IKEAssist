@@ -1,0 +1,27 @@
+# @CATEGORY
+Name: Reclining chairs
+ProductCount: 5
+
+# @FILTERS
+PriceRange: $369.00 - $479.00
+Materials: Back cushion: Polyester fiber balls, Frame: Particleboard, Plywood, Polyurethane foam 1.2 lb/cu.ft., Polyurethane foam 2.0 lb/cu.ft., Polyurethane foam 1.5 lb/cu.ft., Felt liner, Solid wood, Frame: Particleboard, Plywood, Solid beech, Polyurethane foam 1.2 lb/cu.ft., Felt liner, Frame: Particleboard, Plywood, Solid pine, Polyurethane foam 1.2 lb/cu.ft., Polyurethane foam 2.0 lb/cu.ft., Polyurethane foam 1.5 lb/cu.ft., Felt liner, Fiberboard, Mechanism: Steel, Polypropylene, Paint, Seat cushion: High-resilience polyurethane foam (cold foam) 2.2 lb/cu.ft., Seat cushion: Polyurethane foam 2.0 lb/cu.ft., Seat cushion: Polyurethane foam 2.0 lb/cu.ft., High-resilience polyurethane foam (cold foam) 2.2 lb/cu.ft.
+Brand: IKEA
+
+# @ITEMS
+- MUREN recliner, Remmarn light gray: /products/reclining-chairs/60438550.txt
+- MUREN recliner, Remmarn dark gray: /products/reclining-chairs/80438554.txt
+- GISTAD recliner, Idekulla dark red: /products/reclining-chairs/60466388.txt
+- EKOLSUND recliner, Gunnared light brown-pink: /products/reclining-chairs/89297187.txt
+- EKOLSUND recliner, Gunnared dark gray: /products/reclining-chairs/29297190.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

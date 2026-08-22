@@ -1,0 +1,32 @@
+# @CATEGORY
+Name: Folding chairs
+ProductCount: 10
+
+# @FILTERS
+PriceRange: $12.99 - $50.00
+Materials: Back leg/back frame/ Front leg/ Seat frame/ Pin/ Hinge arm: Steel, Epoxy/polyester powder coating, Backrest: Polyurethane foam 2.2 lb/cu.ft., Frame: Galvanized steel, Frame: Solid beech, Stain, Clear acrylic lacquer, Seat and back: Polypropylene, Seat/ Back/ Foot: polypropylene (min. 50% recycled), Seat: Polyurethane foam 2.2 lb/cu.ft., Fiberboard, Solid beech, Adhesive, Solid beech, Adhesive, Stain, Clear acrylic lacquer
+Brand: IKEA
+
+# @ITEMS
+- VIHALS folding chair, white: /products/folding-chairs/30569104.txt
+- VIHALS folding chair, red: /products/folding-chairs/70592744.txt
+- VIHALS folding chair, green: /products/folding-chairs/00592752.txt
+- GUNDE folding chair, black: /products/folding-chairs/00217797.txt
+- FRÖSVI folding chair, white/Knisa light gray: /products/folding-chairs/50534335.txt
+- FRÖSVI folding chair, white: /products/folding-chairs/80534329.txt
+- FRÖSVI folding chair, brown: /products/folding-chairs/40534326.txt
+- FRÖSVI folding chair, black/Knisa dark gray: /products/folding-chairs/90534324.txt
+- FRÖSVI folding chair, black: /products/folding-chairs/10534318.txt
+- FRÖSVI folding chair, beech: /products/folding-chairs/70534315.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

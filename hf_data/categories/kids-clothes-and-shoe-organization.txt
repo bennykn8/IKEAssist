@@ -1,0 +1,27 @@
+# @CATEGORY
+Name: Kids clothes & shoe organization
+ProductCount: 5
+
+# @FILTERS
+PriceRange: $1.99 - $12.99
+Materials: 100% polyester (min. 90% recycled), Bar: Solid pine, Tinted clear acrylic lacquer, Body: Solid beech, Clear acrylic lacquer, Acrylic paint, Fabric: 100% polyester (min. 90% recycled), Hook: Steel, Steel, Galvanized, Chrome plated, Insert: Polypropylene, Knob: Solid beech, Acrylic paint, Polypropylene plastic (min. 50% recycled), Polypropylene plastic (min. 50% recycled)
+Brand: IKEA
+
+# @ITEMS
+- RASSLA organizer with 5 compartments, white, 9 ¾x15 ¾x38 ½": /products/kids-clothes-and-shoe-organization/70421342.txt
+- MÖJLIGHET bed pocket, blue, 29 ½x10 ¾": /products/kids-clothes-and-shoe-organization/00421393.txt
+- HÄNGA children's coat-hanger, natural: /products/kids-clothes-and-shoe-organization/60178769.txt
+- FLISAT knob rack with 4 knobs: /products/kids-clothes-and-shoe-organization/70273596.txt
+- BAGIS children's coat-hanger, mixed colors: /products/kids-clothes-and-shoe-organization/60591014.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

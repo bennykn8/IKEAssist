@@ -1,0 +1,23 @@
+# @CATEGORY
+Name: Conference tables
+ProductCount: 1
+
+# @FILTERS
+PriceRange: $259.99 - $259.99
+Materials: Cable management: Felt, Leg/ Hook/ Rail/ Middle rail: Steel, Epoxy/polyester powder coating, Particleboard, Ash veneer, Stain, Clear acrylic lacquer, Ash veneer, Stain, Clear acrylic lacquer, Paper foil
+Brand: IKEA
+
+# @ITEMS
+- MITTZON conference table, black stained ash veneer/black white: /products/conference-tables/19591125.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

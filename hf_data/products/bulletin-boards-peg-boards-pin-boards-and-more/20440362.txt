@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SVENSÅS Memo board, black
+SKU: 20440362
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/svensas-memo-board-black-20440362/
+Category: Bulletin boards, peg boards, pin boards & more
+Description: . Do you also have trouble keeping track of notes and paper? Then this magnetic black board can be a perfect solution. Write with chalks and display things not to be forgotten ― and photos and other t...
+
+# @OFFER
+Price: 13.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Powder coating
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Can be fixed with suitable screws/fittings from our TRIXIG series. | Screws for wall mounting sold separately.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/svensas-memo-board-black__0748893_pe745315_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

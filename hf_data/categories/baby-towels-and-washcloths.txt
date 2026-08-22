@@ -1,0 +1,30 @@
+# @CATEGORY
+Name: Baby towels & washcloths
+ProductCount: 8
+
+# @FILTERS
+PriceRange: $5.99 - $19.99
+Materials: 100 % cotton, Embroidery thread: 100 % polyester (100% recycled), Fabric: 100 % cotton
+Brand: IKEA
+
+# @ITEMS
+- SKOGSSALLAT towel with hood, red/white/stripe: /products/baby-towels-and-washcloths/10617554.txt
+- SKOGSDUVA towel with hood, lynx shaped/brown: /products/baby-towels-and-washcloths/20573941.txt
+- KRAMA washcloth, white: /products/baby-towels-and-washcloths/40054538.txt
+- GULDVÄVARE washing mitt: /products/baby-towels-and-washcloths/00573616.txt
+- GULDVÄVARE baby towel with hood, green: /products/baby-towels-and-washcloths/50530295.txt
+- GRÖNFINK baby towel with hood, yellow: /products/baby-towels-and-washcloths/70572369.txt
+- BLÅVINGAD towel with hood, shark-shaped/blue-gray: /products/baby-towels-and-washcloths/90528441.txt
+- BLÅVINGAD bath towel, turtle pattern/dark blue: /products/baby-towels-and-washcloths/60534066.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

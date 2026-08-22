@@ -1,0 +1,31 @@
+# @CATEGORY
+Name: ROCKSJÖN covers
+ProductCount: 9
+
+# @FILTERS
+PriceRange: $20.00 - $99.00
+Materials: Back fabric: 100 % polyester (100% recycled), Base fabric: 100% polyester (min. 90% recycled), Cord: 100 % polyester, Fabric: 100 % cotton, Fabric: 100% polyester (min. 90% recycled)
+Brand: IKEA
+
+# @ITEMS
+- ROCKSJÖN cover for ottoman, Klovsta gray/white: /products/rocksjön-covers/70557217.txt
+- ROCKSJÖN cover for ottoman, Kilanda light beige: /products/rocksjön-covers/60557213.txt
+- ROCKSJÖN cover for ottoman, Blekinge white: /products/rocksjön-covers/40557209.txt
+- ROCKSJÖN cover for loveseat, Klovsta gray/white: /products/rocksjön-covers/70557241.txt
+- ROCKSJÖN cover for loveseat, Kilanda light beige: /products/rocksjön-covers/50557237.txt
+- ROCKSJÖN cover for loveseat, Blekinge white: /products/rocksjön-covers/40557233.txt
+- ROCKSJÖN cover for armchair, Klovsta gray/white: /products/rocksjön-covers/90546794.txt
+- ROCKSJÖN cover for armchair, Kilanda light beige: /products/rocksjön-covers/10557197.txt
+- ROCKSJÖN cover for armchair, Blekinge white: /products/rocksjön-covers/00546802.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

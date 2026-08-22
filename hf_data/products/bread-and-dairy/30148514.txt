@@ -1,0 +1,30 @@
+# @PRODUCT
+Name: KNÄCKEBRÖD RÅG rye crispbread
+SKU: 30148514
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/knaeckebroed-rag-rye-crispbread-30148514/
+Category: Bread & dairy
+Description: A multigrain crispbread. Serve for breakfast with an optional topping, or as a snack in-between meals.
+
+# @OFFER
+Price: 4.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/knaeckebroed-rag-rye-crispbread__0090069_pe223510_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

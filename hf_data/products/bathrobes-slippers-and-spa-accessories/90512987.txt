@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SKOVELSJÖN slippers, beige, L/XL
+SKU: 90512987
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/skovelsjoen-slippers-beige-90512987/
+Category: Bathrobes, slippers & spa accessories
+Description: Slip into these comfy waffle-textured slippers and enjoy a relaxing spa moment at home. If you want to go all in, complete the retreat feeling with a perfectly matching BJÄLVEN bath robe. Open-toe des...
+
+# @OFFER
+Price: 2.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Sole: EVA foam, Top fabric/ Fabric/ Edge fabric/ Filling: 100 % polyester (100% recycled), Filling: Polyurethane foam.
+Features: Sizes: S/M and L/XL.
+Care: Hand wash warm water. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/skovelsjoen-slippers-beige__1022885_pe832979_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

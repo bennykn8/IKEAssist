@@ -1,0 +1,28 @@
+# @CATEGORY
+Name: Sink accessories
+ProductCount: 6
+
+# @FILTERS
+PriceRange: $2.99 - $5.99
+Materials: Body: Polypropylene, Feet: Thermoplastic elastomer, Polypropylene, Polypropylene plastic (min. 20% recycled), Steel, Galvanized, Steel, Powder coating
+Brand: IKEA
+
+# @ITEMS
+- VÄLVÅRDAD organizer, white, 87/8x3 ½x: /products/sink-accessories/70595436.txt
+- TORKAD papertowel holder, silver color: /products/sink-accessories/00208670.txt
+- SMÅTUNGA papertowel holder, gray-green: /products/sink-accessories/60569107.txt
+- SKOLÄST sink container, extendable: /products/sink-accessories/60556685.txt
+- LILLHAVET washing-up bowl, anthracite: /products/sink-accessories/10503430.txt
+- FAMILJ papertowel holder, anthracite: /products/sink-accessories/20530744.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

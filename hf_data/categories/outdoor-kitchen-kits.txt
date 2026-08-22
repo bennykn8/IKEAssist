@@ -1,0 +1,48 @@
+# @CATEGORY
+Name: Outdoor kitchen kits
+ProductCount: 26
+
+# @FILTERS
+PriceRange: $489.00 - $2832.00
+Materials: Body/ Hood/ Tray: Steel, Enamel, Body/ Hood: Steel, Enamel, Body: Steel, Enamel, Bowl/ Body/ Cover panel: Steel, Enamel, Leg frame/ Bar/ Cabinet/ Bracket/ Slats/ Control panel: Galvanized steel, Polyester powder coating, Leg frame/ Cabinet/ Bracket/ Slats/ Trim: Galvanized steel, Polyester powder coating, Leg frame/ Cabinet/ Bracket/ Slats: Galvanized steel, Polyester powder coating, Leg/ Shelf/ Top frame/ Bracket/ Trim: Galvanized steel, Polyester powder coating, Leg/ Shelf/ Top frame/ Bracket: Galvanized steel, Polyester powder coating, Leg/ Shelf: Galvanized steel, Polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- GRILLSKÄR outdoor kitchen, stainless steel: /products/outdoor-kitchen-kits/99418546.txt
+- GRILLSKÄR outdoor kitchen, stainless steel: /products/outdoor-kitchen-kits/39418573.txt
+- GRILLSKÄR outdoor kitchen, stainless steel: /products/outdoor-kitchen-kits/09418555.txt
+- GRILLSKÄR kitchen with charcoal bbq, outdoor, stainless steel: /products/outdoor-kitchen-kits/39384988.txt
+- GRILLSKÄR kitchen sink ut/chrcl bbq, outdoor, stainless steel: /products/outdoor-kitchen-kits/89430836.txt
+- GRILLSKÄR kitchen sink ut/chrcl bbq, outdoor, stainless steel: /products/outdoor-kitchen-kits/39430834.txt
+- GRILLSKÄR kitchen sink ut/chrcl bbq, outdoor, stainless steel: /products/outdoor-kitchen-kits/09430835.txt
+- BÅTSKÄR outdoor ktchn w gas bbq+bar table, dark gray: /products/outdoor-kitchen-kits/79573091.txt
+- BÅTSKÄR outdoor ktchn w chrcl bbq+sink unit, dark gray: /products/outdoor-kitchen-kits/79573053.txt
+- BÅTSKÄR outdoor ktchn w chrcl bbq+sink unit, dark gray: /products/outdoor-kitchen-kits/49573059.txt
+- BÅTSKÄR outdoor ktchn w chrcl bbq+sink unit, dark gray: /products/outdoor-kitchen-kits/39573069.txt
+- BÅTSKÄR outdoor ktchn w chrcl bbq+sink unit, dark gray: /products/outdoor-kitchen-kits/19573046.txt
+- BÅTSKÄR outdoor ktchn w chrcl bbq+bar table, dark gray: /products/outdoor-kitchen-kits/99546539.txt
+- BÅTSKÄR outdoor kitchen with sink unit, dark gray: /products/outdoor-kitchen-kits/59573129.txt
+- BÅTSKÄR outdoor kitchen w gas grill, dark gray: /products/outdoor-kitchen-kits/49573083.txt
+- BÅTSKÄR outdoor kitchen w gas grill, dark gray: /products/outdoor-kitchen-kits/09573075.txt
+- BÅTSKÄR outdoor kitchen w gas bbq+sink unit, dark gray: /products/outdoor-kitchen-kits/89573118.txt
+- BÅTSKÄR outdoor kitchen w gas bbq+sink unit, dark gray: /products/outdoor-kitchen-kits/59573110.txt
+- BÅTSKÄR outdoor kitchen w gas bbq+sink unit, dark gray: /products/outdoor-kitchen-kits/59573105.txt
+- BÅTSKÄR outdoor kitchen w gas bbq+sink unit, dark gray: /products/outdoor-kitchen-kits/49573097.txt
+- BÅTSKÄR outdoor kitchen w charcoal grill, dark gray: /products/outdoor-kitchen-kits/99545304.txt
+- BÅTSKÄR outdoor kitchen w charcoal grill, dark gray: /products/outdoor-kitchen-kits/19545299.txt
+- BÅTSKÄR outdoor kitchen island w bar table, dark gray: /products/outdoor-kitchen-kits/59547828.txt
+- BÅTSKÄR outdoor kitchen island w bar table, dark gray: /products/outdoor-kitchen-kits/19547825.txt
+- BÅTSKÄR outdoor kitchen island, outdoor/dark gray: /products/outdoor-kitchen-kits/69547823.txt
+- BÅTSKÄR outdoor kitchen island, outdoor/dark gray: /products/outdoor-kitchen-kits/49547824.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,33 @@
+# @CATEGORY
+Name: Outdoor tiles & flooring
+ProductCount: 11
+
+# @FILTERS
+PriceRange: $3.00 - $59.99
+Materials: Base fabric: 100 % polyester (100% recycled), Base: Polypropylene, Base: Polypropylene plastic (min. 20% recycled), Base: Polypropylene, Polypropylene, Base: polypropylene (min. 50% recycled), Floor plate: Wood Plastic Composite, Polypropylene plastic (min. 20% recycled), Top: Solid acacia wood, Acrylic stain, Top: Synthetic rubber, Polyethylene, polypropylene (min. 50% recycled)
+Brand: IKEA
+
+# @ITEMS
+- UTLÄNGAN decking, outdoor, gray stained, 10 sq feet: /products/outdoor-tiles-and-flooring/50445344.txt
+- UTLÄNGAN decking, outdoor, brown, 10 sq feet: /products/outdoor-tiles-and-flooring/70480416.txt
+- RUNNEN edging strip, outdoor decking, dark gray, 4 pack: /products/outdoor-tiles-and-flooring/50494141.txt
+- RUNNEN decking, outdoor, textile dark gray, 9 sq feet: /products/outdoor-tiles-and-flooring/40557799.txt
+- RUNNEN decking, outdoor, dark gray, 9 sq feet: /products/outdoor-tiles-and-flooring/90238111.txt
+- RUNNEN decking, outdoor, brown stained, 9 sq feet: /products/outdoor-tiles-and-flooring/90234226.txt
+- RUNNEN decking, outdoor, beige, 9 sq feet: /products/outdoor-tiles-and-flooring/90476734.txt
+- RUNNEN Decking, outdoor, artificial grass: /products/outdoor-tiles-and-flooring/50313131.txt
+- RUNNEN decking, outdoor, acacia, 9 sq feet: /products/outdoor-tiles-and-flooring/60518486.txt
+- RUNNEN corner edge, outdoor decking, dark gray: /products/outdoor-tiles-and-flooring/10494138.txt
+- ALTAPPEN decking, outdoor, light gray, 9 sq feet: /products/outdoor-tiles-and-flooring/90420898.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

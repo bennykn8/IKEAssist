@@ -1,0 +1,41 @@
+# @CATEGORY
+Name: Wall sconces & lamps
+ProductCount: 19
+
+# @FILTERS
+PriceRange: $3.99 - $129.99
+Materials: Aluminum, Acrylic coating, Base/ Arm: Steel, Brush finish nickel-plated, Acrylic coating, Base/ Arm: Steel, Powder coating, Base/ Housing: Polycarbonate plastic, Body: Steel, Powder coating, Box: ABS plastic, Connecting profile: Aluminum, Powder coating, Cover: Polycarbonate plastic (min. 50% recycled), Paint, Cover: Stainless steel, Decoration: Steel, Nickel plated, Acrylic coating, Paint
+Brand: IKEA
+
+# @ITEMS
+- VARMBLIXT LED wall/mirror lamp, dimmable/bronze color round: /products/wall-sconces-and-lamps/00531532.txt
+- VARMBLIXT LED wall lamp, white metal/circle: /products/wall-sconces-and-lamps/00531476.txt
+- SOLKLINT wall lamp, brass/gray clear glass: /products/wall-sconces-and-lamps/80464072.txt
+- SKURUP wall lamp, black: /products/wall-sconces-and-lamps/10357382.txt
+- SINNERLIG wall lamp, bamboo/handmade: /products/wall-sconces-and-lamps/40551212.txt
+- RORKULT wall lamp, stripe pattern/white glass: /products/wall-sconces-and-lamps/70575438.txt
+- NYMÅNE Wall up/downlight, white: /products/wall-sconces-and-lamps/00397859.txt
+- NYMÅNE wall/reading lamp, white: /products/wall-sconces-and-lamps/20356990.txt
+- NYMÅNE wall lamp with swing arm, white: /products/wall-sconces-and-lamps/00357009.txt
+- MUSIK wall lamp, chrome plated: /products/wall-sconces-and-lamps/60490213.txt
+- MÖRKRÄDD LED nightlight with sensor, white: /products/wall-sconces-and-lamps/70350127.txt
+- MÅNALG wall lamp, sedge/handmade: /products/wall-sconces-and-lamps/00505712.txt
+- LJUSTER LED night light, white: /products/wall-sconces-and-lamps/40268756.txt
+- BRYNET LED picture light, black: /products/wall-sconces-and-lamps/90389223.txt
+- BOJREP wall lamp with 3-spots, rounded: /products/wall-sconces-and-lamps/10490060.txt
+- ÅRSTID Wall lamp with LED bulb, nickel plated, white: /products/wall-sconces-and-lamps/00416155.txt
+- ÅRSTID wall lamp, nickel plated/white: /products/wall-sconces-and-lamps/40163882.txt
+- ANKARSPEL wall lamp with LED bulb, pewter effect: /products/wall-sconces-and-lamps/10494360.txt
+- ANKARSPEL wall lamp, pewter effect: /products/wall-sconces-and-lamps/30494359.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

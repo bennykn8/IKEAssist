@@ -1,0 +1,30 @@
+# @CATEGORY
+Name: Artificial hanging plants
+ProductCount: 8
+
+# @FILTERS
+PriceRange: $1.99 - $16.99
+Materials: Inner plant pot: Polypropylene plastic (min. 70% recycled), Concrete, Inner plant pot: Polypropylene plastic (min. 70% recycled), Concrete, Polyethylene plastic (min. 20% recycled), Inner plant pot: Polypropylene plastic (min. 70% recycled), Non-potable water, Polyethylene, Inner plant pot: Polypropylene plastic (min. 70% recycled), Polypropylene plastic (min. 70% recycled), Concrete, Leaf: 100 % polyester (100% recycled), Polyethylene plastic (min. 20% recycled), Leaf: Polyethylene plastic (min. 20% recycled), Leaf: Polyethylene plastic (min. 80% recycled), EVA plastic, Plant: 100 % PEVA, Polyethylene plastic (min. 20% recycled), Plant: Paint, Plant: Polyethylene plastic (min. 40% recycled)
+Brand: IKEA
+
+# @ITEMS
+- FEJKA artificial potted plant, indoor/outdoor/wax plant hanging, 3 ½": /products/artificial-hanging-plants/10614225.txt
+- FEJKA artificial potted plant, indoor/outdoor/tradescantia zebrina, 4 ¾": /products/artificial-hanging-plants/60546578.txt
+- FEJKA artificial potted plant, indoor/outdoor/String of bananas hanging, 3 ½": /products/artificial-hanging-plants/20508408.txt
+- FEJKA artificial potted plant, indoor/outdoor/hanging Ivy, 4 ¾": /products/artificial-hanging-plants/10461147.txt
+- FEJKA artificial potted plant, indoor/outdoor hanging/fern, 4 ¾": /products/artificial-hanging-plants/10548631.txt
+- FEJKA artificial potted plant, indoor/outdoor hanging/eucalyptus, 3 ½": /products/artificial-hanging-plants/70466811.txt
+- FEJKA artificial potted plant, indoor/outdoor/hanging, 3 ½": /products/artificial-hanging-plants/40349531.txt
+- FEJKA artificial potted plant, indoor/outdoor Golden Pothos/hanging, 4 ¾": /products/artificial-hanging-plants/70578069.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

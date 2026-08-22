@@ -1,0 +1,59 @@
+# @CATEGORY
+Name: VEDDINGE white fronts
+ProductCount: 37
+
+# @FILTERS
+PriceRange: $15.00 - $79.00
+Materials: Fiberboard, Polyurethane paint, Acrylic paint
+Brand: IKEA
+
+# @ITEMS
+- VEDDINGE drawer front, white: /products/veddinge-white-fronts/90266806.txt
+- VEDDINGE drawer front, white: /products/veddinge-white-fronts/90266788.txt
+- VEDDINGE drawer front, white: /products/veddinge-white-fronts/80266784.txt
+- VEDDINGE drawer front, white: /products/veddinge-white-fronts/70266807.txt
+- VEDDINGE drawer front, white: /products/veddinge-white-fronts/70266789.txt
+- VEDDINGE drawer front, white: /products/veddinge-white-fronts/50266808.txt
+- VEDDINGE drawer front, white: /products/veddinge-white-fronts/50266790.txt
+- VEDDINGE drawer front, white: /products/veddinge-white-fronts/50266785.txt
+- VEDDINGE drawer front, white: /products/veddinge-white-fronts/40266804.txt
+- VEDDINGE drawer front, white: /products/veddinge-white-fronts/30266809.txt
+- VEDDINGE drawer front, white: /products/veddinge-white-fronts/30266791.txt
+- VEDDINGE drawer front, white: /products/veddinge-white-fronts/30266786.txt
+- VEDDINGE drawer front, white: /products/veddinge-white-fronts/10266805.txt
+- VEDDINGE drawer front, white: /products/veddinge-white-fronts/10266792.txt
+- VEDDINGE drawer front, white: /products/veddinge-white-fronts/10266787.txt
+- VEDDINGE door, white: /products/veddinge-white-fronts/90266811.txt
+- VEDDINGE door, white: /products/veddinge-white-fronts/90266774.txt
+- VEDDINGE door, white: /products/veddinge-white-fronts/80266802.txt
+- VEDDINGE door, white: /products/veddinge-white-fronts/80266798.txt
+- VEDDINGE door, white: /products/veddinge-white-fronts/80266779.txt
+- VEDDINGE door, white: /products/veddinge-white-fronts/70266812.txt
+- VEDDINGE door, white: /products/veddinge-white-fronts/60266803.txt
+- VEDDINGE door, white: /products/veddinge-white-fronts/60266799.txt
+- VEDDINGE door, white: /products/veddinge-white-fronts/60266775.txt
+- VEDDINGE door, white: /products/veddinge-white-fronts/50266813.txt
+- VEDDINGE door, white: /products/veddinge-white-fronts/40266795.txt
+- VEDDINGE door, white: /products/veddinge-white-fronts/40266776.txt
+- VEDDINGE door, white: /products/veddinge-white-fronts/30266772.txt
+- VEDDINGE door, white: /products/veddinge-white-fronts/20266800.txt
+- VEDDINGE door, white: /products/veddinge-white-fronts/20266796.txt
+- VEDDINGE door, white: /products/veddinge-white-fronts/20266782.txt
+- VEDDINGE door, white: /products/veddinge-white-fronts/20266777.txt
+- VEDDINGE door, white: /products/veddinge-white-fronts/10266773.txt
+- VEDDINGE door, white: /products/veddinge-white-fronts/00266801.txt
+- VEDDINGE door, white: /products/veddinge-white-fronts/00266797.txt
+- VEDDINGE door, white: /products/veddinge-white-fronts/00266778.txt
+- VEDDINGE 2-p door/corner base cabinet set, white: /products/veddinge-white-fronts/00266783.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

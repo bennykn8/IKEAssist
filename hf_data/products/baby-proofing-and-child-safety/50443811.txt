@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: UNDVIKA Corner bumper, dark brown
+SKU: 50443811
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/undvika-corner-bumper-dark-brown-50443811/
+Category: Baby proofing & child safety
+Description: . With UNDVIKA corner bumpers you can easily reduce the risk of your child getting hurt on the sharp corners of tables and cabinets.
+
+# @OFFER
+Price: 4.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Corner protector: EVA plastic, Tape: Polyethylene foam, Synthetic rubber
+Features: In order to achieve optimal adhesion the corner bumper should be left with no weight on for at least 48 hours. | The adhesive tape can leave marks when the product is removed. | After fixing the tape to the surface, the device should not be moved and reused since this affects the adhesive's strength.
+Care: Clean the surfaces with window cleaner before fixing the tape. Do not use cleaning agents containing oil or soap.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/undvika-corner-bumper-dark-brown__1046323_pe842942_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

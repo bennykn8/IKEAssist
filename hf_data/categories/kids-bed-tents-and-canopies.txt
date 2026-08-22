@@ -1,0 +1,32 @@
+# @CATEGORY
+Name: Kids bed tents & canopies
+ProductCount: 10
+
+# @FILTERS
+PriceRange: $7.99 - $80.00
+Materials: 100% polyester (min. 60% recycled), 100% polyester (min. 90% recycled), Bracket: Steel, Bracket: Steel, Galvanized, Fabric: 100% polyester (min. 90% recycled), Inside frame: Polypropylene, Glass fiber reinforced polyester, Polyethylene, Particleboard, Paper foil, Plastic edging, Surface coating: 60 % Polyacrylic, 40 % Polyurethane, Suspension fitting: Steel, Epoxy/polyester powder coating, Webbing: 100 % polypropylene
+Brand: IKEA
+
+# @ITEMS
+- STICKAT bed pocket, black, 15 ¼x11 ¾": /products/kids-bed-tents-and-canopies/20378341.txt
+- SNÖFINK bed canopy, butterfly/pink: /products/kids-bed-tents-and-canopies/10548184.txt
+- SMYGA underbed storage box, light gray: /products/kids-bed-tents-and-canopies/10507843.txt
+- SLÄKT bed accessory, house shaped/gray: /products/kids-bed-tents-and-canopies/70594776.txt
+- MÖJLIGHET bed pocket, beige, 29 ½x10 ¾": /products/kids-bed-tents-and-canopies/40610202.txt
+- LÖVA bed canopy, leaf/green: /products/kids-bed-tents-and-canopies/20542129.txt
+- KURA bed tent, space/blue: /products/kids-bed-tents-and-canopies/00554062.txt
+- KURA bed tent, ocean animals pattern: /products/kids-bed-tents-and-canopies/40528453.txt
+- KURA bed curtain, market stall pattern: /products/kids-bed-tents-and-canopies/20506150.txt
+- ELDFLUGA bed tent, blue/green: /products/kids-bed-tents-and-canopies/30542119.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

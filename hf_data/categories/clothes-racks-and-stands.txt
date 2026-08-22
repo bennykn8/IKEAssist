@@ -1,0 +1,48 @@
+# @CATEGORY
+Name: Clothes racks & stands
+ProductCount: 26
+
+# @FILTERS
+PriceRange: $6.99 - $359.99
+Materials: Base: Galvanized steel, Powder coating, Bracket: Solid wood, Acrylic paint, Clothes rail/ Foot: Steel, Epoxy/polyester powder coating, Clothes rail: Solid pine, Stain, Clear acrylic lacquer, Connector: Aluminum, Powder coating, End cap/ Plastic washer: Polypropylene, Extension bar: Steel, Galvanized, Feet/ Hook, end part: Polypropylene, Foot/ End cap: Polypropylene, Frame: Steel, Powder coating
+Brand: IKEA
+
+# @ITEMS
+- TURBO Clothes rack, indoor/outdoor, black: /products/clothes-racks-and-stands/40177233.txt
+- TJUSIG Wall/door rack with knobs, black, 23 ½": /products/clothes-racks-and-stands/40242653.txt
+- TJUSIG Hat rack, white: /products/clothes-racks-and-stands/40152633.txt
+- TJUSIG Hat rack, black: /products/clothes-racks-and-stands/20152634.txt
+- TJUSIG Hanger, white, 30 ¾": /products/clothes-racks-and-stands/60291708.txt
+- TJUSIG hanger, black, 30 ¾": /products/clothes-racks-and-stands/80291707.txt
+- RIGGA White Clothes Rack - Popular & Practical: /products/clothes-racks-and-stands/50231630.txt
+- PINNIG Rack with 3 hooks, black: /products/clothes-racks-and-stands/00329790.txt
+- PINNIG Coat rack with shoe storage bench, black: /products/clothes-racks-and-stands/20329789.txt
+- PANGET coat rack with shoe storage unit, white: /products/clothes-racks-and-stands/20474173.txt
+- PANGET coat rack with shoe storage unit, dark gray/stained: /products/clothes-racks-and-stands/00474174.txt
+- PANGET coat rack with shoe storage bench, white: /products/clothes-racks-and-stands/30474163.txt
+- MULIG Clothes rack, white: /products/clothes-racks-and-stands/60179434.txt
+- MULIG Clothes bar, white: /products/clothes-racks-and-stands/30179435.txt
+- MACKAPÄR hat and coat rack, white: /products/clothes-racks-and-stands/10530990.txt
+- MACKAPÄR coat rack with shoe storage unit, white: /products/clothes-racks-and-stands/50530988.txt
+- LANDKRABBA rack with 5 hooks, white, 19 ¾": /products/clothes-racks-and-stands/60531893.txt
+- KALLSÖ hat rack, gray: /products/clothes-racks-and-stands/60599326.txt
+- GRÅFJÄLLET clothes rack with shoe storage, anthracite: /products/clothes-racks-and-stands/00570222.txt
+- EKRAR Hat and coat stand, white: /products/clothes-racks-and-stands/10415594.txt
+- EKRAR hat and coat stand, bright red: /products/clothes-racks-and-stands/30600289.txt
+- BONDSKÄRET hat and coat stand, yellow: /products/clothes-racks-and-stands/40554381.txt
+- BONDSKÄRET hat and coat stand, lilac: /products/clothes-racks-and-stands/50559024.txt
+- BONDSKÄRET hat and coat stand, black: /products/clothes-racks-and-stands/70559023.txt
+- ÄLGANÄS hat and coat stand, light blue: /products/clothes-racks-and-stands/20592341.txt
+- ÄLGANÄS hat and coat stand, black: /products/clothes-racks-and-stands/90585894.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

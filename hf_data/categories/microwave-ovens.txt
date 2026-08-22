@@ -1,0 +1,30 @@
+# @CATEGORY
+Name: Microwave ovens
+ProductCount: 9
+
+# @FILTERS
+PriceRange: $64.99 - $699.00
+Brand: IKEA
+
+# @ITEMS
+- YGSBO over-the-range convection microwave, Stainless steel: /products/microwave-ovens/40587621.txt
+- VÄLSKAPT Over-the-range microwave, Stainless steel: /products/microwave-ovens/60515303.txt
+- TILLREDA microwave oven, white: /products/microwave-ovens/40493420.txt
+- TILLREDA microwave oven, black: /products/microwave-ovens/90546478.txt
+- STÅNGBY built-in microwave, stainless steel color: /products/microwave-ovens/79495220.txt
+- SOLNEBO Over-the-range microwave, Stainless steel: /products/microwave-ovens/20587622.txt
+- SKALLEBO Over-the-range microwave, Stainless steel: /products/microwave-ovens/00587618.txt
+- LAGAN Over-the-range microwave, white: /products/microwave-ovens/50587625.txt
+- ÄSKEBO built-in microwave, Stainless steel: /products/microwave-ovens/60587615.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

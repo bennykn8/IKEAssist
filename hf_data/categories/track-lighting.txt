@@ -1,0 +1,36 @@
+# @CATEGORY
+Name: Track lighting
+ProductCount: 14
+
+# @FILTERS
+PriceRange: $9.99 - $89.99
+Materials: Arm/ Flexibile joint: Steel, Galvanized, Powder coating, Bracket/ Tube/ Ceiling cup/ Shade: Steel, Powder coating, Cable tie: Polyamide, Ceiling bracket: Galvanized steel, Ceiling bracket: Steel, Galvanized, Ceiling bracket: Steel, Powder coating, Ceiling cup/ Shade: Aluminum, Clear lacquer, Ceiling cup: Steel, Powder coating, Joint: Polycarbonate plastic, Joint: Steel, Paint
+Brand: IKEA
+
+# @ITEMS
+- TIDIG ceiling light with 5 spotlights, nickel plated: /products/track-lighting/00262657.txt
+- SKURUP Ceiling track, 3 spotlights, black: /products/track-lighting/10395930.txt
+- RÖKFRI ceiling spotlight with 3 lights, aluminum color: /products/track-lighting/50577612.txt
+- RÖKFRI ceiling spotlight with 1 lights, aluminum color: /products/track-lighting/30577632.txt
+- NYMÅNE ceiling spotlight with 3 lights, white: /products/track-lighting/90359773.txt
+- NYMÅNE ceiling spotlight with 1 lights, white: /products/track-lighting/60424794.txt
+- NYMÅNE Ceiling light with 4 spotlights, white: /products/track-lighting/60337706.txt
+- NÄVLINGE Ceiling spotlight with 3 lights, white: /products/track-lighting/10407688.txt
+- KRUSNATE ceiling spotlight with 2 lights, white: /products/track-lighting/20564178.txt
+- KRUSNATE ceiling light with 4 spotlights, white: /products/track-lighting/00564198.txt
+- HEKTAR Ceiling track, 3 spotlights, dark gray: /products/track-lighting/40297495.txt
+- BAROMETER ceiling track, 5-spots, brass color: /products/track-lighting/70364638.txt
+- BÄVE LED ceiling track, 5 spots, white: /products/track-lighting/00399735.txt
+- BÄVE LED ceiling track, 3 spots, white: /products/track-lighting/90399726.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,28 @@
+# @CATEGORY
+Name: Baby blankets & quilts
+ProductCount: 6
+
+# @FILTERS
+PriceRange: $6.99 - $19.99
+Materials: 100 % cotton, 100 % polyester (100% recycled), Fabric: 100 % cotton, Filling: 100% polyester (min. 80% recycled), Lining: 100 % polypropylene
+Brand: IKEA
+
+# @ITEMS
+- LEN baby blanket, knitted/gray: /products/baby-blankets-and-quilts/00489000.txt
+- LEN baby blanket: /products/baby-blankets-and-quilts/60496432.txt
+- GULSPARV baby blanket, white: /products/baby-blankets-and-quilts/80427112.txt
+- GULDVÄVARE quilted blanket, green/beige stripe: /products/baby-blankets-and-quilts/90573626.txt
+- GULDVÄVARE baby blanket, blue/white dotted: /products/baby-blankets-and-quilts/20530292.txt
+- GRÖNFINK blanket, green/tree pattern: /products/baby-blankets-and-quilts/60572416.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

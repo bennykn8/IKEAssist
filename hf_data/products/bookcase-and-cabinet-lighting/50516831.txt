@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: YTBERG cabinet lighting, white/dimmable
+SKU: 50516831
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ytberg-cabinet-lighting-white-dimmable-50516831/
+Category: Bookcase & cabinet lighting
+Description: You can bend, angle and move this slim lamp sideways to direct the soft light precisely over your cabinet or wardrobe. A perfect choice if there is little space between the top and the ceiling. Spread...
+
+# @OFFER
+Price: 18
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Shade/ Junction box: Polypropylene plastic (min. 20% recycled), Tube: Synthetic rubber
+Features: Dimmable with RODRET wireless dimmer, sold separately. | To be completed with TRÅDFRI LED driver and ANSLUTA power cord, sold separately. | This product is part of our smart home range. Connect it, along with other smart products, to DIRIGERA hub and IKEA Home smart app for more features and functions.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ytberg-cabinet-lighting-white-dimmable__1051207_pe845082_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

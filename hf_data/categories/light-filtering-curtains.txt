@@ -1,0 +1,91 @@
+# @CATEGORY
+Name: Light filtering curtains
+ProductCount: 69
+
+# @FILTERS
+PriceRange: $7.99 - $89.99
+Materials: 100 % cotton, 100 % linen, 100 % polyester (100% recycled), 100% polyester (min. 90% recycled), 51 % cotton, 49 % viscose/rayon, 51% cotton (100% recycled), 46% polyester (100% recycled), 3% other fibers, 55 % viscose/rayon, 45 % cotton, 58 % linen, 42 % cotton, 68 %polyester, 32 % cotton, 70 % cotton, 30 % jute
+Brand: IKEA
+
+# @ITEMS
+- VILDPERSILJA curtains, 1 pair, white multicolor/floral pattern with heading tape: /products/light-filtering-curtains/10583399.txt
+- VILDPERSILJA curtains, 1 pair, black-green multicolor/floral pattern with heading tape: /products/light-filtering-curtains/90583404.txt
+- TRYSTÄVMAL curtains, 1 pair, green/white floral pattern/with heading tape: /products/light-filtering-curtains/70559706.txt
+- TRYSTÄVMAL curtains, 1 pair, dark blue/white/floral pattern with heading tape: /products/light-filtering-curtains/60559702.txt
+- TRYSTÄVMAL curtains, 1 pair, beige/white/floral pattern with heading tape: /products/light-filtering-curtains/60559698.txt
+- TIBAST Curtains, 1 pair, white: /products/light-filtering-curtains/50396758.txt
+- TEMPELFLY curtains, 1 pair, white/black/with heading tape: /products/light-filtering-curtains/60610729.txt
+- STRANDMALÖRT curtains, 1 pair, light gray/with heading tape: /products/light-filtering-curtains/90598014.txt
+- STOCKHOLM 2025 curtains, 1 pair, white/black/with heading tape: /products/light-filtering-curtains/00601092.txt
+- STOCKHOLM 2025 curtains, 1 pair, black multicolor/with heading tape: /products/light-filtering-curtains/70601084.txt
+- SLÅNHÖSTMAL curtains, 1 pair, white/black stripe/with eyelets: /products/light-filtering-curtains/20610726.txt
+- SANELA curtains, 1 pair, pale pink/with heading tape: /products/light-filtering-curtains/80592951.txt
+- SANELA curtains, 1 pair, pale pink/with heading tape: /products/light-filtering-curtains/40591963.txt
+- SANELA curtains, 1 pair, off-white/with heading tape: /products/light-filtering-curtains/70591990.txt
+- SANELA curtains, 1 pair, off-white/with heading tape: /products/light-filtering-curtains/10591403.txt
+- SANELA curtains, 1 pair, light beige/with heading tape: /products/light-filtering-curtains/80592183.txt
+- SANELA curtains, 1 pair, light beige/with heading tape: /products/light-filtering-curtains/40589880.txt
+- SANELA curtains, 1 pair, dark gray-turquoise/with heading tape: /products/light-filtering-curtains/30589885.txt
+- SANELA curtains, 1 pair, dark gray-turquoise/with heading tape: /products/light-filtering-curtains/00592182.txt
+- SANELA curtains, 1 pair, beige-yellow/with heading tape: /products/light-filtering-curtains/20592181.txt
+- SANELA curtains, 1 pair, beige-yellow/with heading tape: /products/light-filtering-curtains/00589882.txt
+- SANDSVINGEL curtains, 1 pair, gray/with heading tape: /products/light-filtering-curtains/10532258.txt
+- RITVA curtains with tie-backs, 1 pair, white/with heading tape: /products/light-filtering-curtains/80063833.txt
+- RITVA curtains with tie-backs, 1 pair, white/with heading tape: /products/light-filtering-curtains/40556417.txt
+- RITVA curtains with tie-backs, 1 pair, white/with heading tape: /products/light-filtering-curtains/40111992.txt
+- RITVA curtains with tie-backs, 1 pair, white/with heading tape: /products/light-filtering-curtains/00323514.txt
+- RITVA curtains with tie-backs, 1 pair, gray/with heading tape: /products/light-filtering-curtains/70323515.txt
+- RITVA curtains with tie-backs, 1 pair, gray/with heading tape: /products/light-filtering-curtains/30156486.txt
+- MOALINA curtains, 1 pair, white: /products/light-filtering-curtains/40491044.txt
+- MOALINA curtains, 1 pair, beige: /products/light-filtering-curtains/30491049.txt
+- MÄSTERROT curtains, 1 pair, white white/grid with heading tape: /products/light-filtering-curtains/30602523.txt
+- MÄSTERROT curtains, 1 pair, beige/white dot pattern/with heading tape: /products/light-filtering-curtains/40602565.txt
+- LENDA curtains with tie-backs, 1 pair, off-white/with heading tape: /products/light-filtering-curtains/90559201.txt
+- LENDA curtains with tie-backs, 1 pair, off-white/with heading tape: /products/light-filtering-curtains/40558077.txt
+- LENDA curtains with tie-backs, 1 pair, light gray-green/with heading tape: /products/light-filtering-curtains/30559204.txt
+- LENDA curtains with tie-backs, 1 pair, dark gray/with heading tape: /products/light-filtering-curtains/70559202.txt
+- LENDA curtains with tie-backs, 1 pair, dark gray/with heading tape: /products/light-filtering-curtains/10558074.txt
+- LENDA curtains with tie-backs, 1 pair, brown-red/with heading tape: /products/light-filtering-curtains/50559203.txt
+- HILJA Curtains, 1 pair, white: /products/light-filtering-curtains/50430818.txt
+- HILJA curtains, 1 pair, white/with heading tape: /products/light-filtering-curtains/40430814.txt
+- HILJA curtains, 1 pair, white/with heading tape: /products/light-filtering-curtains/00560096.txt
+- HILJA Curtains, 1 pair, gray, 57x98 ½": /products/light-filtering-curtains/40390733.txt
+- HENNY RAND curtains, 1 pair, white/gray yellow: /products/light-filtering-curtains/80560158.txt
+- HENNY RAND curtains, 1 pair, white/gray yellow: /products/light-filtering-curtains/60560159.txt
+- HENNY RAND curtains, 1 pair, white/gray yellow: /products/light-filtering-curtains/40315710.txt
+- HENNY RAND curtains, 1 pair, white/dark blue/light blue/light gray: /products/light-filtering-curtains/80511257.txt
+- HANNALILL curtains, 1 pair, blue-gray: /products/light-filtering-curtains/60498450.txt
+- GUNNLAUG sound absorbing curtain, white: /products/light-filtering-curtains/60500170.txt
+- GLANSHAGTORN curtain, 1 piece, orange white/blue: /products/light-filtering-curtains/60555860.txt
+- GINSTMOTT curtains, 1 pair, white/with heading tape: /products/light-filtering-curtains/20603009.txt
+- GINSTMOTT curtains, 1 pair, white/with heading tape: /products/light-filtering-curtains/20585072.txt
+- GINSTMOTT curtains, 1 pair, white/with eyelets: /products/light-filtering-curtains/80597166.txt
+- GINSTMOTT curtains, 1 pair, pink/with heading tape: /products/light-filtering-curtains/90597180.txt
+- GINSTMOTT curtains, 1 pair, pink/with heading tape: /products/light-filtering-curtains/40603008.txt
+- GINSTMOTT curtains, 1 pair, dark gray/with heading tape: /products/light-filtering-curtains/90597175.txt
+- GINSTMOTT curtains, 1 pair, dark gray/with heading tape: /products/light-filtering-curtains/60603007.txt
+- GINSTMOTT curtains, 1 pair, dark gray/with eyelets: /products/light-filtering-curtains/20597174.txt
+- GINSTMOTT curtains, 1 pair, dark blue/with heading tape: /products/light-filtering-curtains/80603006.txt
+- GINSTMOTT curtains, 1 pair, dark blue/with heading tape: /products/light-filtering-curtains/20597188.txt
+- GINSTMOTT curtains, 1 pair, beige/with heading tape: /products/light-filtering-curtains/80597171.txt
+- GINSTMOTT curtains, 1 pair, beige/with heading tape: /products/light-filtering-curtains/00603005.txt
+- GINSTMOTT curtains, 1 pair, beige/with eyelets: /products/light-filtering-curtains/00597170.txt
+- FJÄDERMOTT curtains, 1 pair, white/gray/with heading tape: /products/light-filtering-curtains/60504583.txt
+- DYTÅG curtains, 1 pair, white/with heading tape: /products/light-filtering-curtains/00466715.txt
+- DYTÅG curtains, 1 pair, linen/with heading tape: /products/light-filtering-curtains/60607802.txt
+- DYTÅG curtains, 1 pair, gray-green/with heading tape: /products/light-filtering-curtains/40552891.txt
+- DYTÅG curtains, 1 pair, dark blue/with heading tape: /products/light-filtering-curtains/00552497.txt
+- BYMOTT curtains, 1 pair, white/light gray stripe/with heading tape: /products/light-filtering-curtains/00466683.txt
+- BYMOTT curtains, 1 pair, white/beige stripe/with heading tape: /products/light-filtering-curtains/40509968.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

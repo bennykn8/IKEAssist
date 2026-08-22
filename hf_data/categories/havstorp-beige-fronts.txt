@@ -1,0 +1,59 @@
+# @CATEGORY
+Name: HAVSTORP beige fronts
+ProductCount: 37
+
+# @FILTERS
+PriceRange: $15.00 - $82.00
+Materials: Fiberboard, Acrylic paint
+Brand: IKEA
+
+# @ITEMS
+- HAVSTORP drawer front, beige: /products/havstorp-beige-fronts/90475329.txt
+- HAVSTORP drawer front, beige: /products/havstorp-beige-fronts/80475320.txt
+- HAVSTORP drawer front, beige: /products/havstorp-beige-fronts/70475330.txt
+- HAVSTORP drawer front, beige: /products/havstorp-beige-fronts/70475325.txt
+- HAVSTORP drawer front, beige: /products/havstorp-beige-fronts/60475321.txt
+- HAVSTORP drawer front, beige: /products/havstorp-beige-fronts/50475331.txt
+- HAVSTORP drawer front, beige: /products/havstorp-beige-fronts/50475326.txt
+- HAVSTORP drawer front, beige: /products/havstorp-beige-fronts/40475322.txt
+- HAVSTORP drawer front, beige: /products/havstorp-beige-fronts/30475332.txt
+- HAVSTORP drawer front, beige: /products/havstorp-beige-fronts/30475327.txt
+- HAVSTORP drawer front, beige: /products/havstorp-beige-fronts/20475323.txt
+- HAVSTORP drawer front, beige: /products/havstorp-beige-fronts/10475333.txt
+- HAVSTORP drawer front, beige: /products/havstorp-beige-fronts/10475328.txt
+- HAVSTORP drawer front, beige: /products/havstorp-beige-fronts/00475324.txt
+- HAVSTORP drawer front, beige: /products/havstorp-beige-fronts/00475319.txt
+- HAVSTORP door, beige: /products/havstorp-beige-fronts/90475305.txt
+- HAVSTORP door, beige: /products/havstorp-beige-fronts/80475315.txt
+- HAVSTORP door, beige: /products/havstorp-beige-fronts/80475301.txt
+- HAVSTORP door, beige: /products/havstorp-beige-fronts/80475297.txt
+- HAVSTORP door, beige: /products/havstorp-beige-fronts/70475311.txt
+- HAVSTORP door, beige: /products/havstorp-beige-fronts/70475306.txt
+- HAVSTORP door, beige: /products/havstorp-beige-fronts/60475316.txt
+- HAVSTORP door, beige: /products/havstorp-beige-fronts/60475302.txt
+- HAVSTORP door, beige: /products/havstorp-beige-fronts/60475298.txt
+- HAVSTORP door, beige: /products/havstorp-beige-fronts/50475312.txt
+- HAVSTORP door, beige: /products/havstorp-beige-fronts/50475307.txt
+- HAVSTORP door, beige: /products/havstorp-beige-fronts/40475317.txt
+- HAVSTORP door, beige: /products/havstorp-beige-fronts/40475303.txt
+- HAVSTORP door, beige: /products/havstorp-beige-fronts/40475299.txt
+- HAVSTORP door, beige: /products/havstorp-beige-fronts/30475313.txt
+- HAVSTORP door, beige: /products/havstorp-beige-fronts/30475308.txt
+- HAVSTORP door, beige: /products/havstorp-beige-fronts/20475304.txt
+- HAVSTORP door, beige: /products/havstorp-beige-fronts/10475314.txt
+- HAVSTORP door, beige: /products/havstorp-beige-fronts/10475309.txt
+- HAVSTORP door, beige: /products/havstorp-beige-fronts/00475300.txt
+- HAVSTORP door, beige: /products/havstorp-beige-fronts/00475296.txt
+- HAVSTORP 2-p door/corner base cabinet set, beige: /products/havstorp-beige-fronts/20475318.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

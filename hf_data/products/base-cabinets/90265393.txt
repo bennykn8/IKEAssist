@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SEKTION base cabinet frame, white
+SKU: 90265393
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sektion-base-cabinet-frame-white-90265393/
+Category: Base cabinets
+Description: , 12x143/4x30" SEKTION kitchen system gives you the freedom to design your dream kitchen inside and out. Our base cabinets are the base of the kitchen where you store things, cook, hide snacks and han...
+
+# @OFFER
+Price: 42
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Particleboard, Melamine foil, Plastic edging, Back: Fiberboard, Acrylic paint, Front rail: Steel, Galvanized
+Features: When planning your kitchen, consider how to make the most effective use of space inside the cabinet either with drawers or shelves. | Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | To be completed with legs, sold separately.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sektion-base-cabinet-frame-white__0268584_pe406661_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

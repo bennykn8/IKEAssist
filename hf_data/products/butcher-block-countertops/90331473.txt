@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BARKABODA countertop, walnut/veneer
+SKU: 90331473
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/barkaboda-countertop-walnut-veneer-90331473/
+Category: Butcher block countertops
+Description: , 98x11/2" This wood countertop combines the best of solid wood and veneer. With efficient use of natural resources, it offers a unique pattern and a durable surface that can be sanded. Available to t...
+
+# @OFFER
+Price: 349
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top/ Edge: Thick walnut veneer, Oil-acrylic, Back side: Laminate, Main parts: Particleboard
+Features: Walnut is a straight-grained hardwood with good stability and strength properties. It gets lighter as it ages – from the dark brown to a rich honey color that appears through the grain. | Not suitable for use in damp rooms. | Please note that the actual colors of our products may vary slightly from the colors shown online.
+Care: Areas where the countertop may dry out, such as edges and areas around the sink and cooktop, require frequent treatment. | The worktop surface is pre-treated at the factory with hard wax oil. Due to the nature of the material, treat the edges and cut-outs with STOCKARYD or TRIXIG wood treatment oil, prior to installation.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/barkaboda-countertop-walnut-veneer__0444083_pe594696_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

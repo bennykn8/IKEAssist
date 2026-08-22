@@ -1,0 +1,25 @@
+# @CATEGORY
+Name: Bread & dairy
+ProductCount: 4
+
+# @FILTERS
+PriceRange: $4.99 - $7.49
+Brand: IKEA
+
+# @ITEMS
+- KNÄCKEBRÖD RÅG rye crispbread: /products/bread-and-dairy/30148514.txt
+- KNÄCKEBRÖD FLERKORN crispbread multigrain: /products/bread-and-dairy/20118942.txt
+- HJÄLTEROLL Muesli, with cocoa and dried berries/Rainforest Alliance Certified, 1 lb: /products/bread-and-dairy/70531802.txt
+- HJÄLTEROLL granola, with nuts and dried berries, 14 oz: /products/bread-and-dairy/50478382.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

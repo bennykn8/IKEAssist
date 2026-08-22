@@ -1,0 +1,27 @@
+# @CATEGORY
+Name: Chandeliers
+ProductCount: 5
+
+# @FILTERS
+PriceRange: $79.99 - $249.99
+Materials: Arm/ Ceiling cup/ Housing/ Pole/ Tube/ Sleeve/ Edge/ Screw cover/ Cover plate: Steel, Nickel plated, Arm: Steel, Paint, Ceiling cup/ Arm: Steel, Chrome plated, Ceiling cup: Polypropylene, Cover: Polycarbonate plastic, Diffuser: Polycarbonate plastic, Hook/ Chain: Stainless steel, Pipe/ Arm: Steel, Powder coating, Ring/ Spacer/ Lid/ Screw/ Nut: Steel, Galvanized, Shade: Glass, Paint
+Brand: IKEA
+
+# @ITEMS
+- STORSLINGA LED chandelier, 8-armed, black/white: /products/chandeliers/40488452.txt
+- SIMRISHAMN Pendant lamp, 3-armed, chrome plated, opal glass: /products/chandeliers/40407837.txt
+- SIMRISHAMN Chandelier, 7-armed, chrome plated, opal glass: /products/chandeliers/50451877.txt
+- HÅRMÖJA chandelier, 6-armed, brushed stainless steel: /products/chandeliers/60544428.txt
+- GRINSBYN chandelier w light bulbs, 13-arm, black: /products/chandeliers/00491687.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: KIVIK 1-seat sleeper sofa, Tibbleby beige/gray
+SKU: 29470236
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kivik-1-seat-sleeper-sofa-tibbleby-beige-gray-s29470236/
+Category: Chair beds
+Description: KIVIK sofa is one of our classics, here as a compact 1-seat sofa-bed that you can easily make into a comfortable bed. Perfect for using an area smartly and having overnight guests even in smaller spac...
+
+# @OFFER
+Price: 549
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100% polyester (min. 90% recycled), Mattress cover/ Back fabric: 100 % polyester (100% recycled), Wadding: 100% polyester (min. 70% recycled)
+Care: Removable cover: Machine wash warm, normal cycle. | Removable cover: To be washed separately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kivik-1-seat-sleeper-sofa-tibbleby-beige-gray__1130878_pe877951_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

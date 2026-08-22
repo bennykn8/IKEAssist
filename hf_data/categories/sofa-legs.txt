@@ -1,0 +1,32 @@
+# @CATEGORY
+Name: Sofa legs
+ProductCount: 10
+
+# @FILTERS
+PriceRange: $20.00 - $20.00
+Materials: Leg: Solid oak, Clear acrylic lacquer, Leg: Solid oak, Stain, Clear acrylic lacquer, Metal part: Steel, Epoxy/polyester powder coating, Solid beech, Tinted lacquer, Solid birch, Tinted lacquer, Solid oak, Steel, Clear lacquer, Solid wood, Oak veneer, Clear lacquer, Steel, Chrome plated
+Brand: IKEA
+
+# @ITEMS
+- VISKAFORS legs for sofa, brown: /products/sofa-legs/70525028.txt
+- VISKAFORS legs for sofa, birch: /products/sofa-legs/60523464.txt
+- SMEDSTORP legs for sofa, oak natural: /products/sofa-legs/40500369.txt
+- SMEDSTORP legs for sofa, black: /products/sofa-legs/60500368.txt
+- MORABO leg, wood: /products/sofa-legs/20456348.txt
+- MORABO leg, metal: /products/sofa-legs/80456345.txt
+- LÅNGARYD leg, oak: /products/sofa-legs/20509511.txt
+- LÅNGARYD leg, chrome effect: /products/sofa-legs/20509498.txt
+- ESSEBODA legs for sofa, brown: /products/sofa-legs/60525547.txt
+- ESSEBODA legs for sofa, birch: /products/sofa-legs/20525549.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

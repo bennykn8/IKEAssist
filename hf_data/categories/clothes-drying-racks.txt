@@ -1,0 +1,26 @@
+# @CATEGORY
+Name: Clothes drying racks
+ProductCount: 4
+
+# @FILTERS
+PriceRange: $5.99 - $39.99
+Materials: Arm: Polypropylene plastic (min. 50% recycled), Synthetic rubber, Foot: Polyethylene, Frame/ Wire: Steel, Polyester powder coating, Main parts/ Clamp/ Hook: Polypropylene plastic (min. 50% recycled), Main parts/ Shelf/ Round bar/ Wire: Steel, Polyester powder coating, Sleeve: Polyamide, Spring: Stainless steel, Strap/ Slide: Polypropylene, Washers: Polypropylene, Polyamide
+Brand: IKEA
+
+# @ITEMS
+- PRESSA hanging dryer with 16 clothes clips, yellow: /products/clothes-drying-racks/90579162.txt
+- PRESSA hanging dryer with 16 clothes clips, green: /products/clothes-drying-racks/90579157.txt
+- MULIG drying rack, indoor/outdoor, white: /products/clothes-drying-racks/50228755.txt
+- JÄLL drying rack, indoor/outdoor, white: /products/clothes-drying-racks/80242892.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

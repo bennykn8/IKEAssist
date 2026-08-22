@@ -1,0 +1,205 @@
+# @CATEGORY
+Name: Throw pillow covers
+ProductCount: 183
+
+# @FILTERS
+PriceRange: $1.99 - $24.99
+Materials: 100 % cotton, 100 % linen, 100 % polyester (100% recycled), 100 % wool, 100% polyester (min. 90% recycled), 50 % cotton, 30 % jute, 20 % viscose/rayon, 51% cotton (100% recycled), 46% polyester (100% recycled), 3% other fibers, 51% polyester (100% recycled), 46% cotton (100% recycled), 3% other fibers, 53% cotton (100% recycled), 44% polyester (100% recycled), 3% other fibers, 54% cotton (100% recycled), 43% polyester (100% recycled), 3% other fibers
+Brand: IKEA
+
+# @ITEMS
+- VILDPERSILJA cushion cover, white multicolor/floral pattern: /products/throw-pillow-covers/70582330.txt
+- VILDPERSILJA cushion cover, black-green multicolor/floral pattern: /products/throw-pillow-covers/60582335.txt
+- VATTENVÄN cushion cover, pink/stripe: /products/throw-pillow-covers/70543292.txt
+- VATTENVÄN cushion cover, multicolor/stripe: /products/throw-pillow-covers/10543290.txt
+- VATTENVÄN cushion cover, blue/stripe: /products/throw-pillow-covers/00543295.txt
+- VATTENVÄN cushion cover, beige/stripe: /products/throw-pillow-covers/40543298.txt
+- VALLKRASSING cushion cover, off-white: /products/throw-pillow-covers/70570959.txt
+- VALLKRASSING cushion cover, light gray-brown: /products/throw-pillow-covers/90570963.txt
+- VALLKRASSING cushion cover, light blue-gray: /products/throw-pillow-covers/40570965.txt
+- VALLKRASSING cushion cover, gray-green: /products/throw-pillow-covers/50570955.txt
+- UNDERBLOMMA cushion cover, white/light gray-green: /products/throw-pillow-covers/40572200.txt
+- UNDERBLOMMA cushion cover, white/green: /products/throw-pillow-covers/00572198.txt
+- UNDERBLOMMA cushion cover, black/gray-green: /products/throw-pillow-covers/00572202.txt
+- TESAMMANS cushion cover, multicolor: /products/throw-pillow-covers/60568966.txt
+- SVARTPOPPEL cushion cover, yellow: /products/throw-pillow-covers/30543010.txt
+- SVARTPOPPEL cushion cover, yellow: /products/throw-pillow-covers/10576704.txt
+- SVARTPOPPEL cushion cover, pale blue: /products/throw-pillow-covers/70543013.txt
+- SVARTPOPPEL cushion cover, off-white: /products/throw-pillow-covers/60543004.txt
+- SVARTPOPPEL cushion cover, off-white: /products/throw-pillow-covers/30576703.txt
+- SVARTPOPPEL cushion cover, light pink: /products/throw-pillow-covers/20542997.txt
+- SVARTPOPPEL cushion cover, light orange: /products/throw-pillow-covers/10610741.txt
+- SVARTPOPPEL cushion cover, light green: /products/throw-pillow-covers/60604709.txt
+- SVARTPOPPEL cushion cover, gray-green: /products/throw-pillow-covers/90543007.txt
+- SVARTHÖ cushion cover, pink/beige: /products/throw-pillow-covers/00508367.txt
+- SVARTHÖ cushion cover, orange/multicolor: /products/throw-pillow-covers/80588138.txt
+- SVARTHÖ cushion cover, multicolor: /products/throw-pillow-covers/00542093.txt
+- SVARTHÖ cushion cover, beige: /products/throw-pillow-covers/70336594.txt
+- STRANDMALÖRT cushion cover, light pink: /products/throw-pillow-covers/10598013.txt
+- STRANDMALÖRT cushion cover, light green: /products/throw-pillow-covers/30598012.txt
+- STRANDMALÖRT cushion cover, light blue: /products/throw-pillow-covers/70598010.txt
+- STOCKHOLM 2025 cushion cover, white/black: /products/throw-pillow-covers/90592130.txt
+- STOCKHOLM 2025 cushion cover, off-white/black: /products/throw-pillow-covers/00592139.txt
+- STOCKHOLM 2025 cushion cover, dark green/blue-green: /products/throw-pillow-covers/10592153.txt
+- STOCKHOLM 2025 cushion cover, brown-red/bright pink: /products/throw-pillow-covers/50592165.txt
+- STOCKHOLM 2025 cushion cover, black/off-white: /products/throw-pillow-covers/70592145.txt
+- STOCKHOLM 2025 cushion cover, black/multicolor: /products/throw-pillow-covers/50592132.txt
+- SPIKKLUBBA cushion cover, off-white/black: /products/throw-pillow-covers/70526103.txt
+- SOLTULPAN cushion cover, light gray: /products/throw-pillow-covers/20465475.txt
+- SIKELSÄCKMAL cushion cover, yellow/white: /products/throw-pillow-covers/70590778.txt
+- SANELA cushion cover, yellow-beige: /products/throw-pillow-covers/90531009.txt
+- SANELA cushion cover, pale pink: /products/throw-pillow-covers/30591893.txt
+- SANELA cushion cover, off-white: /products/throw-pillow-covers/10591120.txt
+- SANELA cushion cover, light yellow: /products/throw-pillow-covers/80591126.txt
+- SANELA cushion cover, light yellow: /products/throw-pillow-covers/80590891.txt
+- SANELA cushion cover, light beige: /products/throw-pillow-covers/70591136.txt
+- SANELA cushion cover, light beige: /products/throw-pillow-covers/50590897.txt
+- SANELA cushion cover, dark gray-turquoise: /products/throw-pillow-covers/80590928.txt
+- SANELA cushion cover, dark gray-turquoise: /products/throw-pillow-covers/60591132.txt
+- SANELA cushion cover, dark gray: /products/throw-pillow-covers/30591124.txt
+- SANELA cushion cover, bright pink: /products/throw-pillow-covers/50590920.txt
+- SANELA cushion cover, bright pink: /products/throw-pillow-covers/40591128.txt
+- SANELA cushion cover, blue: /products/throw-pillow-covers/40590930.txt
+- SANELA cushion cover, blue: /products/throw-pillow-covers/20591134.txt
+- SANELA cushion cover, beige-yellow: /products/throw-pillow-covers/40590911.txt
+- SANELA cushion cover, beige-yellow: /products/throw-pillow-covers/00591130.txt
+- RUNDKRASSING cushion cover, white multicolor/dot pattern: /products/throw-pillow-covers/30582803.txt
+- ROTVECKLARE cushion cover, white/anthracite: /products/throw-pillow-covers/20585053.txt
+- REVFINGERÖRT cushion cover, dark blue/multicolor: /products/throw-pillow-covers/20604631.txt
+- PUCKELMAL cushion cover, light gray-turquoise: /products/throw-pillow-covers/00513854.txt
+- PRAKTSALVIA cushion cover, anthracite: /products/throw-pillow-covers/30511575.txt
+- PLOMMONROS cushion cover, dark gray/gray: /products/throw-pillow-covers/10506952.txt
+- PLOMMONROS cushion cover, dark blue/white: /products/throw-pillow-covers/40506955.txt
+- PIPRANKA cushion cover, pink: /products/throw-pillow-covers/30505193.txt
+- PIPRANKA cushion cover, dark blue: /products/throw-pillow-covers/10505189.txt
+- PARADISBUSKE cushion cover, yellow: /products/throw-pillow-covers/10598008.txt
+- PARADISBUSKE cushion cover, red: /products/throw-pillow-covers/90598009.txt
+- PARADISBUSKE cushion cover, green: /products/throw-pillow-covers/50598006.txt
+- PARADISBUSKE cushion cover, blue: /products/throw-pillow-covers/30598007.txt
+- PARADISBUSKE cushion cover, beige: /products/throw-pillow-covers/70598005.txt
+- PALPLJUNGMAL cushion cover, orange: /products/throw-pillow-covers/00608022.txt
+- ODDNY cushion cover, off-white/dot pattern black: /products/throw-pillow-covers/40523827.txt
+- MYGGBLOMSTER cushion cover, gray-blue/multicolor: /products/throw-pillow-covers/10582130.txt
+- MYGGBLOMSTER cushion cover, bright pink/multicolor: /products/throw-pillow-covers/10582125.txt
+- MOROTSMOTT cushion cover, white/light pink: /products/throw-pillow-covers/00591899.txt
+- MOROTSMOTT cushion cover, gray-beige/anthracite: /products/throw-pillow-covers/20591898.txt
+- MOROTSMOTT cushion cover, dark blue/gray-blue: /products/throw-pillow-covers/40591897.txt
+- MAJSMOTT cushion cover, off-white/black: /products/throw-pillow-covers/30563437.txt
+- MÄVINN cushion cover, red white/embroidery: /products/throw-pillow-covers/40587678.txt
+- MÄVINN cushion cover, pink/orange: /products/throw-pillow-covers/70600329.txt
+- MÄVINN cushion cover, off-white black/floral pattern: /products/throw-pillow-covers/50605648.txt
+- MÄVINN cushion cover, dark blue multicolor/floral pattern: /products/throw-pillow-covers/70605647.txt
+- MÄVINN cushion cover, check pattern multicolor: /products/throw-pillow-covers/50588762.txt
+- MÄVINN cushion cover, check gray/heart red: /products/throw-pillow-covers/80594808.txt
+- MÄVINN cushion cover, cat pattern orange: /products/throw-pillow-covers/70588761.txt
+- MÄVINN cushion cover, beige red/heart: /products/throw-pillow-covers/10587463.txt
+- MÄSTERROT cushion cover, white/black: /products/throw-pillow-covers/50599628.txt
+- LAGERPOPPEL cushion cover, yellow-beige: /products/throw-pillow-covers/50561809.txt
+- LAGERPOPPEL cushion cover, pink-red: /products/throw-pillow-covers/00561816.txt
+- LAGERPOPPEL cushion cover, off-white: /products/throw-pillow-covers/40561800.txt
+- LAGERPOPPEL cushion cover, light pink: /products/throw-pillow-covers/20561801.txt
+- LAGERPOPPEL cushion cover, light brown: /products/throw-pillow-covers/90561807.txt
+- LAGERPOPPEL cushion cover, light blue-gray: /products/throw-pillow-covers/50561814.txt
+- LAGERPOPPEL cushion cover, gray-green: /products/throw-pillow-covers/10561811.txt
+- LAGERPOPPEL cushion cover, blue-gray: /products/throw-pillow-covers/80561803.txt
+- LAGERPOPPEL cushion cover, anthracite: /products/throw-pillow-covers/30561805.txt
+- KUSTGRAN cushion cover, yellow-green: /products/throw-pillow-covers/90563444.txt
+- KUSTGRAN cushion cover, red: /products/throw-pillow-covers/50563441.txt
+- KUSTGRAN cushion cover, anthracite: /products/throw-pillow-covers/40563446.txt
+- KUSTFYR cushion cover, ghost pattern white/black: /products/throw-pillow-covers/50599567.txt
+- KUSTFYR cushion cover, cat pattern white/black: /products/throw-pillow-covers/90599570.txt
+- KUSTFLY cushion cover, beige/black: /products/throw-pillow-covers/30502260.txt
+- KRYPLJUNG cushion cover, natural: /products/throw-pillow-covers/90565443.txt
+- KRYDDBUSKE cushion cover, light beige: /products/throw-pillow-covers/50531006.txt
+- KORALLBUSKE cushion cover, light blue/multicolor: /products/throw-pillow-covers/40605045.txt
+- KORALLBUSKE cushion cover, dark blue/red: /products/throw-pillow-covers/60605049.txt
+- KORALLBUSKE cushion cover, dark blue light blue/stripe pattern: /products/throw-pillow-covers/30570980.txt
+- KORALLBUSKE cushion cover, beige white/stripe pattern: /products/throw-pillow-covers/80555859.txt
+- KORALLBUSKE cushion cover, beige/light red: /products/throw-pillow-covers/80605053.txt
+- KORALLBUSKE cushion cover, anthracite beige/stripe pattern: /products/throw-pillow-covers/00556631.txt
+- KLOTSTARR cushion cover, pale pink: /products/throw-pillow-covers/10563476.txt
+- JÄTTEPOPPEL cushion cover, green/gray: /products/throw-pillow-covers/00513627.txt
+- JÄTTEGRAN cushion cover, red-orange: /products/throw-pillow-covers/20572263.txt
+- JÄTTEGRAN cushion cover, off-white: /products/throw-pillow-covers/80572241.txt
+- JÄTTEGRAN cushion cover, green: /products/throw-pillow-covers/60572261.txt
+- IDGRAN cushion cover, stripe/pink green: /products/throw-pillow-covers/80580241.txt
+- IDALINNEA cushion cover, yellow-brown: /products/throw-pillow-covers/40570989.txt
+- IDALINNEA cushion cover, dark gray-blue: /products/throw-pillow-covers/00570986.txt
+- IDALINNEA cushion cover, anthracite: /products/throw-pillow-covers/20548292.txt
+- HJÄRTERÖ cushion cover, off-white outdoor/indoor: /products/throw-pillow-covers/70583080.txt
+- HJÄRTERÖ cushion cover, light grey-beige outdoor/indoor: /products/throw-pillow-covers/50583076.txt
+- HJÄRTERÖ cushion cover, light green outdoor/indoor: /products/throw-pillow-covers/70583075.txt
+- HJÄRTERÖ cushion cover, bright orange outdoor/indoor: /products/throw-pillow-covers/80583070.txt
+- HEDSÄV cushion cover, off-white: /products/throw-pillow-covers/10485577.txt
+- HAMNKRASSING cushion cover, pink/blue green: /products/throw-pillow-covers/30582799.txt
+- GURLI cushion cover, yellow: /products/throw-pillow-covers/60598751.txt
+- GURLI cushion cover, yellow: /products/throw-pillow-covers/00598787.txt
+- GURLI cushion cover, white: /products/throw-pillow-covers/60598727.txt
+- GURLI cushion cover, white: /products/throw-pillow-covers/30281150.txt
+- GURLI cushion cover, unbleached: /products/throw-pillow-covers/20598729.txt
+- GURLI cushion cover, unbleached: /products/throw-pillow-covers/10598777.txt
+- GURLI cushion cover, red: /products/throw-pillow-covers/80598769.txt
+- GURLI cushion cover, red: /products/throw-pillow-covers/40552688.txt
+- GURLI cushion cover, pink: /products/throw-pillow-covers/90562878.txt
+- GURLI cushion cover, pink: /products/throw-pillow-covers/20598753.txt
+- GURLI cushion cover, green: /products/throw-pillow-covers/30598757.txt
+- GURLI cushion cover, dark gray: /products/throw-pillow-covers/90598735.txt
+- GURLI cushion cover, dark gray: /products/throw-pillow-covers/30598781.txt
+- GURLI cushion cover, black: /products/throw-pillow-covers/50598761.txt
+- GURLI cushion cover, beige: /products/throw-pillow-covers/80552686.txt
+- GULLNATTLJUS cushion cover, white/floral pattern: /products/throw-pillow-covers/10598701.txt
+- GULDFLY cushion cover, orange-red/orange: /products/throw-pillow-covers/30563499.txt
+- GULDFLY cushion cover, off-white/yellow-beige: /products/throw-pillow-covers/40563494.txt
+- GULDFLY cushion cover, anthracite/off-white: /products/throw-pillow-covers/10563495.txt
+- GRÖNKNAVEL cushion cover, black white/outdoor indoor: /products/throw-pillow-covers/60592278.txt
+- GRÖNKNAVEL cushion cover, beige white/outdoor indoor: /products/throw-pillow-covers/40592279.txt
+- GINSTSÄCKMAL cushion cover, black/white: /products/throw-pillow-covers/10590776.txt
+- GAFFELBRÄKEN cushion cover, white/dark gray-turquoise: /products/throw-pillow-covers/40595145.txt
+- FRUKTMOTT cushion cover, black/orange-red: /products/throw-pillow-covers/10584643.txt
+- EKGULDMAL cushion cover, geometric natural: /products/throw-pillow-covers/60565411.txt
+- EBBATILDA cushion cover, light gray-green: /products/throw-pillow-covers/30526893.txt
+- DYTÅG cushion cover, white: /products/throw-pillow-covers/70590981.txt
+- DYTÅG cushion cover, white: /products/throw-pillow-covers/30590978.txt
+- DYTÅG cushion cover, red-brown: /products/throw-pillow-covers/10517682.txt
+- DYTÅG cushion cover, gray-green: /products/throw-pillow-covers/70554129.txt
+- DYTÅG cushion cover, dark gray: /products/throw-pillow-covers/40517685.txt
+- DYTÅG cushion cover, dark blue: /products/throw-pillow-covers/10554146.txt
+- DYTÅG cushion cover, dark beige: /products/throw-pillow-covers/80517688.txt
+- DYTÅG cushion cover, dark beige: /products/throw-pillow-covers/30528482.txt
+- DYTÅG cushion cover, black: /products/throw-pillow-covers/80517037.txt
+- DRABOR cushion cover, black/light beige: /products/throw-pillow-covers/40604630.txt
+- DAMMOTT cushion cover, dark gray/off-white: /products/throw-pillow-covers/70568225.txt
+- DAMMOTT cushion cover, dark gray/off-white: /products/throw-pillow-covers/20497141.txt
+- BRUNTÅG cushion cover, light pink: /products/throw-pillow-covers/20572362.txt
+- BROKDRACENA cushion cover, black/white floral pattern: /products/throw-pillow-covers/90608027.txt
+- BLÅMUNKAR cushion cover, white/black/dot pattern: /products/throw-pillow-covers/20610613.txt
+- BJÖRKGRÅMAL cushion cover, black/white: /products/throw-pillow-covers/60599623.txt
+- BÄCKMÄRKEN cushion cover, multicolor/stripe pattern: /products/throw-pillow-covers/70604068.txt
+- ÅSVEIG cushion cover, light beige: /products/throw-pillow-covers/00572419.txt
+- ÅSVEIG cushion cover, gray-brown: /products/throw-pillow-covers/60572421.txt
+- ÅSVEIG cushion cover, dark green: /products/throw-pillow-covers/20572423.txt
+- ÅSVEIG cushion cover, dark gray-turquoise: /products/throw-pillow-covers/70572425.txt
+- ÅSJORDFLY cushion cover, off-white: /products/throw-pillow-covers/40590770.txt
+- ÅSJORDFLY cushion cover, dark gray: /products/throw-pillow-covers/60590774.txt
+- ÅSJORDFLY cushion cover, brown: /products/throw-pillow-covers/60590769.txt
+- ÅKERNEJLIKA cushion cover, white embroidery: /products/throw-pillow-covers/00570175.txt
+- ÅKERNEJLIKA cushion cover, off-white embroidery: /products/throw-pillow-covers/60570177.txt
+- ÅKERNEJLIKA cushion cover, brown/embroidery: /products/throw-pillow-covers/70578724.txt
+- ÅKERNEJLIKA cushion cover, beige/flower: /products/throw-pillow-covers/10578722.txt
+- ÅKERNEJLIKA cushion cover, beige/embroidery: /products/throw-pillow-covers/50577202.txt
+- AINA cushion cover, gray-green: /products/throw-pillow-covers/20540045.txt
+- AINA cushion cover, gray: /products/throw-pillow-covers/70540043.txt
+- AINA cushion cover, beige: /products/throw-pillow-covers/90540042.txt
+- ÄNGSPALPMAL cushion cover, white/floral pattern: /products/throw-pillow-covers/50598676.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

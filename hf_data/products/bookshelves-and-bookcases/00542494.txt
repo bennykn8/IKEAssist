@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HÖGADAL door, white/woven bamboo
+SKU: 00542494
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hoegadal-door-white-woven-bamboo-00542494/
+Category: Bookshelves & bookcases
+Description: , 151/2x381/4" This door adds a new function and look to BILLY bookcase. The panel is woven in bamboo, which creates an airy yet calm and warm expression in the room. Each door is unique, as bamboo is...
+
+# @OFFER
+Price: 45
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Stile: Fiberboard, Paper foil, Plastic edging, Top/bottom rail/ Middle rail: Fiberboard, Paper foil, Inside frame: Bamboo, Bamboo, Clear lacquer
+Features: The door does not fit bookcases purchased in the spring of 2014 or earlier. | 1 door will fit BILLY bookcase 15¾" and 2 doors will fit BILLY bookcase 31½". | Knob and hinges included.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hoegadal-door-white-woven-bamboo__1250392_pe923730_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FULLTALIG candlestick, set of 3, black
+SKU: 40342134
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/fulltalig-candlestick-set-of-3-black-40342134/
+Category: Candle holders
+Description: Make everyday life a little cozier and create a nice mood on different levels. FULLTALIG is a set with 3 candlesticks in different heights and has a modern design that suits many homes and interior st...
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Body: Aluminum, Epoxy/polyester powder coating, Felt pads: EVA plastic
+Dimensions: Includes: 3 candlesticks (height 4", 5¾" and 8").
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/fulltalig-candlestick-set-of-3-black__0523288_pe643714_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,54 @@
+# @CATEGORY
+Name: VOXTORP matte white fronts
+ProductCount: 32
+
+# @FILTERS
+PriceRange: $79.00 - $277.00
+Materials: Back side: High-pressure melamine laminate, Back side: Plastic foil, Front side: Plastic foil (min. 80% recycled), Front: Fiberboard, Front: Particleboard
+Brand: IKEA
+
+# @ITEMS
+- VOXTORP drawer front, matte white: /products/voxtorp-matte-white-fronts/90273345.txt
+- VOXTORP drawer front, matte white: /products/voxtorp-matte-white-fronts/80273341.txt
+- VOXTORP drawer front, matte white: /products/voxtorp-matte-white-fronts/80273336.txt
+- VOXTORP drawer front, matte white: /products/voxtorp-matte-white-fronts/70273346.txt
+- VOXTORP Drawer front, white matt white: /products/voxtorp-matte-white-fronts/60273342.txt
+- VOXTORP Drawer front, white matt white: /products/voxtorp-matte-white-fronts/60273337.txt
+- VOXTORP Drawer front, white matt white: /products/voxtorp-matte-white-fronts/50273347.txt
+- VOXTORP Drawer front, white matt white: /products/voxtorp-matte-white-fronts/40273343.txt
+- VOXTORP Drawer front, white matt white: /products/voxtorp-matte-white-fronts/40273338.txt
+- VOXTORP Drawer front, white matt white: /products/voxtorp-matte-white-fronts/30273348.txt
+- VOXTORP Drawer front, white matt white: /products/voxtorp-matte-white-fronts/20273344.txt
+- VOXTORP Drawer front, white matt white: /products/voxtorp-matte-white-fronts/20273339.txt
+- VOXTORP Drawer front, white matt white: /products/voxtorp-matte-white-fronts/10273349.txt
+- VOXTORP Drawer front, white matt white: /products/voxtorp-matte-white-fronts/00273340.txt
+- VOXTORP Drawer front, white matt white: /products/voxtorp-matte-white-fronts/00273335.txt
+- VOXTORP door, matte white: /products/voxtorp-matte-white-fronts/90273331.txt
+- VOXTORP door, matte white: /products/voxtorp-matte-white-fronts/90273312.txt
+- VOXTORP door, matte white: /products/voxtorp-matte-white-fronts/80273322.txt
+- VOXTORP door, matte white: /products/voxtorp-matte-white-fronts/80273317.txt
+- VOXTORP door, matte white: /products/voxtorp-matte-white-fronts/70273327.txt
+- VOXTORP door, matte white: /products/voxtorp-matte-white-fronts/70273313.txt
+- VOXTORP Door, white matt white: /products/voxtorp-matte-white-fronts/60273323.txt
+- VOXTORP Door, white matt white: /products/voxtorp-matte-white-fronts/50273328.txt
+- VOXTORP Door, white matt white: /products/voxtorp-matte-white-fronts/50273314.txt
+- VOXTORP Door, white matt white: /products/voxtorp-matte-white-fronts/30273329.txt
+- VOXTORP Door, white matt white: /products/voxtorp-matte-white-fronts/20273320.txt
+- VOXTORP Door, white matt white: /products/voxtorp-matte-white-fronts/20273315.txt
+- VOXTORP Door, white matt white: /products/voxtorp-matte-white-fronts/10273330.txt
+- VOXTORP Door, matt white white: /products/voxtorp-matte-white-fronts/00273321.txt
+- VOXTORP Door, white matt white: /products/voxtorp-matte-white-fronts/00273316.txt
+- VOXTORP 2-p door/corner base cabinet set, right-handed matte white: /products/voxtorp-matte-white-fronts/90281996.txt
+- VOXTORP 2-p door/corner base cabinet set, left-handed matt white white: /products/voxtorp-matte-white-fronts/30273334.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

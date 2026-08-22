@@ -1,0 +1,120 @@
+# @CATEGORY
+Name: PAX sliding doors
+ProductCount: 98
+
+# @FILTERS
+PriceRange: $60.00 - $450.00
+Materials: Aluminium (min. 70% recycled), Anodized, Aluminium (min. 70% recycled), Anodized, Acrylic coating, Cover strip/ Rail: Aluminum, Anodized, Door frame: Fiberboard, Paper foil, Plastic edging, Door frame: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), ABS plastic, Acrylic paint, Door panel: Fiberboard, Paper foil, Fiberboard, Paper foil, Fiberboard, Plastic foil, Plastic foil, Glass panel: Tempered glass, Glass, Plastic foil
+Brand: IKEA
+
+# @ITEMS
+- SVARTISDAL pair of sliding doors, white paper effect: /products/pax-sliding-doors/89439790.txt
+- SVARTISDAL pair of sliding doors, white paper effect: /products/pax-sliding-doors/79439795.txt
+- SVARTISDAL pair of sliding doors, white paper effect: /products/pax-sliding-doors/29439793.txt
+- SVARTISDAL pair of sliding doors, white paper effect: /products/pax-sliding-doors/29439788.txt
+- SVARTISDAL 4 panels for sliding door frame, white paper effect: /products/pax-sliding-doors/90473575.txt
+- SVARTISDAL 4 panels for sliding door frame, white paper effect: /products/pax-sliding-doors/60473572.txt
+- SVARTISDAL 4 panels for sliding door frame, white paper effect: /products/pax-sliding-doors/30473578.txt
+- SVARTISDAL 4 panels for sliding door frame, white paper effect: /products/pax-sliding-doors/20473569.txt
+- PAX pair of sliding door frames & rail, white: /products/pax-sliding-doors/80458194.txt
+- PAX pair of sliding door frames & rail, white: /products/pax-sliding-doors/60458185.txt
+- PAX pair of sliding door frames & rail, white: /products/pax-sliding-doors/40458191.txt
+- PAX pair of sliding door frames & rail, white: /products/pax-sliding-doors/00458188.txt
+- PAX pair of sliding door frames & rail, black: /products/pax-sliding-doors/90458184.txt
+- PAX pair of sliding door frames & rail, black: /products/pax-sliding-doors/60458190.txt
+- PAX pair of sliding door frames & rail, black: /products/pax-sliding-doors/20458187.txt
+- PAX pair of sliding door frames & rail, black: /products/pax-sliding-doors/00458193.txt
+- PAX pair of sliding door frames & rail, aluminum: /products/pax-sliding-doors/80458189.txt
+- PAX pair of sliding door frames & rail, aluminum: /products/pax-sliding-doors/40458186.txt
+- PAX pair of sliding door frames & rail, aluminum: /products/pax-sliding-doors/20458192.txt
+- PAX pair of sliding door frames & rail, aluminum: /products/pax-sliding-doors/10458183.txt
+- MEHAMN pair of sliding doors, double sided/white stained oak effect white: /products/pax-sliding-doors/89439785.txt
+- MEHAMN pair of sliding doors, double sided white stained oak effect/white: /products/pax-sliding-doors/79439762.txt
+- MEHAMN pair of sliding doors, double sided/white stained oak effect white: /products/pax-sliding-doors/59439777.txt
+- MEHAMN pair of sliding doors, double sided/white stained oak effect white: /products/pax-sliding-doors/09439770.txt
+- MEHAMN pair of sliding doors, aluminum double sided/light blue light green: /products/pax-sliding-doors/99548543.txt
+- MEHAMN pair of sliding doors, aluminum double sided/light blue light green: /products/pax-sliding-doors/79548544.txt
+- MEHAMN pair of sliding doors, aluminum double sided/light blue light green: /products/pax-sliding-doors/49548545.txt
+- MEHAMN pair of sliding doors, aluminum double sided/light blue light green: /products/pax-sliding-doors/19548542.txt
+- MEHAMN pair of sliding doors, aluminum double sided/dark gray gray-beige: /products/pax-sliding-doors/79436264.txt
+- MEHAMN pair of sliding doors, aluminum double sided/dark gray gray-beige: /products/pax-sliding-doors/69436269.txt
+- MEHAMN pair of sliding doors, aluminum double sided/dark gray gray-beige: /products/pax-sliding-doors/19436262.txt
+- MEHAMN pair of sliding doors, aluminum double sided/dark gray gray-beige: /products/pax-sliding-doors/09436267.txt
+- MEHAMN/AULI pair of sliding doors, aluminum double sided/light green mirror glass: /products/pax-sliding-doors/69552193.txt
+- MEHAMN/AULI pair of sliding doors, aluminum double sided/light green mirror glass: /products/pax-sliding-doors/39552199.txt
+- MEHAMN/AULI pair of sliding doors, aluminum double sided/light green mirror glass: /products/pax-sliding-doors/29552190.txt
+- MEHAMN/AULI pair of sliding doors, aluminum double sided/light green mirror glass: /products/pax-sliding-doors/19552195.txt
+- MEHAMN/AULI pair of sliding doors, aluminum double sided/light blue mirror glass: /products/pax-sliding-doors/99552182.txt
+- MEHAMN/AULI pair of sliding doors, aluminum double sided/light blue mirror glass: /products/pax-sliding-doors/89552187.txt
+- MEHAMN/AULI pair of sliding doors, aluminum double sided/light blue mirror glass: /products/pax-sliding-doors/59552184.txt
+- MEHAMN/AULI pair of sliding doors, aluminum double sided/light blue mirror glass: /products/pax-sliding-doors/59552179.txt
+- MEHAMN 4 panels for sliding door frame, white stained oak effect/white: /products/pax-sliding-doors/90421195.txt
+- MEHAMN 4 panels for sliding door frame, white stained oak effect/white: /products/pax-sliding-doors/80421186.txt
+- MEHAMN 4 panels for sliding door frame, white stained oak effect, white: /products/pax-sliding-doors/40421188.txt
+- MEHAMN 4 panels for sliding door frame, white stained oak effect/white: /products/pax-sliding-doors/00421185.txt
+- MEHAMN 4 panels for sliding door frame, light blue/light green: /products/pax-sliding-doors/90575574.txt
+- MEHAMN 4 panels for sliding door frame, light blue/light green: /products/pax-sliding-doors/90575569.txt
+- MEHAMN 4 panels for sliding door frame, light blue/light green: /products/pax-sliding-doors/50575571.txt
+- MEHAMN 4 panels for sliding door frame, light blue/light green: /products/pax-sliding-doors/30575572.txt
+- MEHAMN 4 panels for sliding door frame, dark gray/gray-beige: /products/pax-sliding-doors/80510903.txt
+- MEHAMN 4 panels for sliding door frame, dark gray/gray-beige: /products/pax-sliding-doors/70510908.txt
+- MEHAMN 4 panels for sliding door frame, dark gray/gray-beige: /products/pax-sliding-doors/30510910.txt
+- MEHAMN 4 panels for sliding door frame, dark gray/gray-beige: /products/pax-sliding-doors/30510905.txt
+- HOKKSUND pair of sliding doors, high gloss light gray: /products/pax-sliding-doors/09439708.txt
+- HOKKSUND 4 panels for sliding door frame, high gloss light gray: /products/pax-sliding-doors/30382347.txt
+- HASVIK pair of sliding doors, white: /products/pax-sliding-doors/90521538.txt
+- HASVIK pair of sliding doors, white: /products/pax-sliding-doors/70521539.txt
+- HASVIK pair of sliding doors, white: /products/pax-sliding-doors/30521541.txt
+- HASVIK pair of sliding doors, white: /products/pax-sliding-doors/10521537.txt
+- HASVIK pair of sliding doors, gray-beige: /products/pax-sliding-doors/80510960.txt
+- HASVIK pair of sliding doors, gray-beige: /products/pax-sliding-doors/40510962.txt
+- HASVIK pair of sliding doors, gray-beige: /products/pax-sliding-doors/20510958.txt
+- HASVIK pair of sliding doors, gray-beige: /products/pax-sliding-doors/00510964.txt
+- HASVIK pair of sliding doors, dark gray: /products/pax-sliding-doors/90510950.txt
+- HASVIK pair of sliding doors, dark gray: /products/pax-sliding-doors/60510956.txt
+- HASVIK pair of sliding doors, dark gray: /products/pax-sliding-doors/50510952.txt
+- HASVIK pair of sliding doors, dark gray: /products/pax-sliding-doors/10510954.txt
+- GRIMO pair of sliding doors, white: /products/pax-sliding-doors/80521534.txt
+- GRIMO pair of sliding doors, white: /products/pax-sliding-doors/80521529.txt
+- GRIMO pair of sliding doors, white: /products/pax-sliding-doors/20521532.txt
+- GRIMO pair of sliding doors, white: /products/pax-sliding-doors/20521527.txt
+- GRIMO pair of sliding doors, glass/white: /products/pax-sliding-doors/60545300.txt
+- GRIMO pair of sliding doors, glass/white: /products/pax-sliding-doors/40545297.txt
+- GRIMO pair of sliding doors, glass/white: /products/pax-sliding-doors/10545294.txt
+- GRIMO pair of sliding doors, glass/white: /products/pax-sliding-doors/00545303.txt
+- AULI pair of sliding doors, mirror glass: /products/pax-sliding-doors/99560281.txt
+- AULI pair of sliding doors, mirror glass: /products/pax-sliding-doors/59560283.txt
+- AULI pair of sliding doors, mirror glass: /products/pax-sliding-doors/39560279.txt
+- AULI pair of sliding doors, mirror glass: /products/pax-sliding-doors/09560285.txt
+- AULI / MEHAMN pair of sliding doors, white mirror glass/double sided white: /products/pax-sliding-doors/99560304.txt
+- AULI / MEHAMN pair of sliding doors, white mirror glass/double sided white: /products/pax-sliding-doors/29560294.txt
+- AULI / MEHAMN pair of sliding doors, white mirror glass/double sided white: /products/pax-sliding-doors/19560299.txt
+- AULI / MEHAMN pair of sliding doors, white mirror glass/double sided white: /products/pax-sliding-doors/09560308.txt
+- AULI / MEHAMN pair of sliding doors, black mirror glass/double sided dark gray: /products/pax-sliding-doors/79560569.txt
+- AULI / MEHAMN pair of sliding doors, black mirror glass/double sided dark gray: /products/pax-sliding-doors/69560579.txt
+- AULI / MEHAMN pair of sliding doors, black mirror glass/double sided dark gray: /products/pax-sliding-doors/39560571.txt
+- AULI / MEHAMN pair of sliding doors, black mirror glass/double sided dark gray: /products/pax-sliding-doors/19560567.txt
+- AULI / MEHAMN pair of sliding doors, aluminum mirror glass/double sided white stained oak effect: /products/pax-sliding-doors/69560310.txt
+- AULI / MEHAMN pair of sliding doors, aluminum mirror glass/double sided white stained oak effect: /products/pax-sliding-doors/59560297.txt
+- AULI / MEHAMN pair of sliding doors, aluminum mirror glass/double sided white stained oak effect: /products/pax-sliding-doors/49560306.txt
+- AULI / MEHAMN pair of sliding doors, aluminum mirror glass/double sided white stained oak effect: /products/pax-sliding-doors/39560302.txt
+- AULI / MEHAMN pair of sliding doors, aluminum mirror glass/double sided gray-beige: /products/pax-sliding-doors/99560573.txt
+- AULI / MEHAMN pair of sliding doors, aluminum mirror glass/double sided gray-beige: /products/pax-sliding-doors/49560575.txt
+- AULI / MEHAMN pair of sliding doors, aluminum mirror glass/double sided gray-beige: /products/pax-sliding-doors/29560581.txt
+- AULI / MEHAMN pair of sliding doors, aluminum mirror glass/double sided gray-beige: /products/pax-sliding-doors/09560577.txt
+- AULI 4 panels for sliding door frame, mirror glass: /products/pax-sliding-doors/70587747.txt
+- AULI 4 panels for sliding door frame, mirror glass: /products/pax-sliding-doors/60587743.txt
+- AULI 4 panels for sliding door frame, mirror glass: /products/pax-sliding-doors/10587745.txt
+- AULI 4 panels for sliding door frame, mirror glass: /products/pax-sliding-doors/00587741.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

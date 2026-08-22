@@ -1,0 +1,119 @@
+# @CATEGORY
+Name: SMÅSTAD combinations
+ProductCount: 97
+
+# @FILTERS
+PriceRange: $96.00 - $914.00
+Materials: Back panel: Fiberboard, Paper foil, Paper foil, Back panel: Particleboard, Paper foil, Plastic edging, Back panel: Plastic foil, Fiberboard, Back side: Fiberboard, Particleboard, Honeycomb structure paper filling (100% recycled), ABS plastic, Acrylic paint, Bedside/ Ladder: Fiberboard, Particleboard, Plastic edging, Acrylic paint, Paper foil, Bottom panel/ Partition/ Fixed shelf/ Adjustable shelf: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Acrylic paint, Plastic edging, Bottom panel: Fiberboard, Paper foil, Paper foil, Plastic edging, Connection: Polypropylene, Drawer bottom: Fiberboard, Acrylic paint, Drawer front: Fiberboard, Acrylic paint
+Brand: IKEA
+
+# @ITEMS
+- SMÅSTAD wardrobe with pull-out unit, white white/with storage bench: /products/småstad-combinations/19483748.txt
+- SMÅSTAD wall cabinet, white with frame/with 1 shelf: /products/småstad-combinations/79389960.txt
+- SMÅSTAD wall cabinet, white white/with 1 shelf: /products/småstad-combinations/39388444.txt
+- SMÅSTAD wall cabinet, white light green/with 1 shelf: /products/småstad-combinations/69542953.txt
+- SMÅSTAD wall cabinet, white blue/with 1 shelf: /products/småstad-combinations/79542957.txt
+- SMÅSTAD / UPPFÖRA wardrobe, white with frame/with 3 shelves: /products/småstad-combinations/89555888.txt
+- SMÅSTAD / UPPFÖRA wardrobe, white with frame/with 3 drawers: /products/småstad-combinations/79555898.txt
+- SMÅSTAD / UPPFÖRA wardrobe, white with frame/with 2 drawers: /products/småstad-combinations/99555897.txt
+- SMÅSTAD / UPPFÖRA wardrobe, white with frame/with 2 clothes rails: /products/småstad-combinations/39555895.txt
+- SMÅSTAD / UPPFÖRA wardrobe, white with frame/with 2 chests of drawers: /products/småstad-combinations/99555901.txt
+- SMÅSTAD / UPPFÖRA wardrobe, white white/with frame: /products/småstad-combinations/49555890.txt
+- SMÅSTAD / UPPFÖRA wardrobe, white white/with 4 drawers: /products/småstad-combinations/29555886.txt
+- SMÅSTAD / UPPFÖRA wardrobe, white white/with 3 shelves: /products/småstad-combinations/69555889.txt
+- SMÅSTAD / UPPFÖRA wardrobe, white white/with 3 drawers: /products/småstad-combinations/59555899.txt
+- SMÅSTAD / UPPFÖRA wardrobe, white white/with 2 clothes rails: /products/småstad-combinations/89555893.txt
+- SMÅSTAD / UPPFÖRA wardrobe, white white/with 2 chests of drawers: /products/småstad-combinations/79555902.txt
+- SMÅSTAD / UPPFÖRA wardrobe, white/white: /products/småstad-combinations/69552777.txt
+- SMÅSTAD / UPPFÖRA wardrobe, white/white: /products/småstad-combinations/09555892.txt
+- SMÅSTAD / UPPFÖRA wardrobe, white stripe/white with 3 drawers: /products/småstad-combinations/49552170.txt
+- SMÅSTAD / UPPFÖRA wardrobe, white stripe/light green with 3 drawers: /products/småstad-combinations/39551091.txt
+- SMÅSTAD / UPPFÖRA wardrobe, white stripe/blue with 3 drawers: /products/småstad-combinations/29551058.txt
+- SMÅSTAD / UPPFÖRA wardrobe, white light green/with 4 drawers: /products/småstad-combinations/39546537.txt
+- SMÅSTAD / UPPFÖRA wardrobe, white light green/with 3 shelves: /products/småstad-combinations/29546514.txt
+- SMÅSTAD / UPPFÖRA wardrobe, white light green/with 3 drawers: /products/småstad-combinations/29546547.txt
+- SMÅSTAD / UPPFÖRA wardrobe, white light green/with 2 clothes rails: /products/småstad-combinations/49546527.txt
+- SMÅSTAD / UPPFÖRA wardrobe, white/light green: /products/småstad-combinations/39551067.txt
+- SMÅSTAD / UPPFÖRA wardrobe, white/light green: /products/småstad-combinations/29547815.txt
+- SMÅSTAD / UPPFÖRA wardrobe, white blue/with 4 drawers: /products/småstad-combinations/39546542.txt
+- SMÅSTAD / UPPFÖRA wardrobe, white blue/with 3 shelves: /products/småstad-combinations/39546518.txt
+- SMÅSTAD / UPPFÖRA wardrobe, white blue/with 3 drawers: /products/småstad-combinations/79546663.txt
+- SMÅSTAD / UPPFÖRA wardrobe, white blue/with 2 clothes rails: /products/småstad-combinations/49546532.txt
+- SMÅSTAD / UPPFÖRA wardrobe, white/blue: /products/småstad-combinations/59551066.txt
+- SMÅSTAD / UPPFÖRA wardrobe, white/blue: /products/småstad-combinations/09547816.txt
+- SMÅSTAD / UPPFÖRA storage combination, white with frame/with changing table: /products/småstad-combinations/69555870.txt
+- SMÅSTAD / UPPFÖRA storage combination, white with frame/with bench: /products/småstad-combinations/09555873.txt
+- SMÅSTAD / UPPFÖRA storage combination, white/with frame: /products/småstad-combinations/99555883.txt
+- SMÅSTAD / UPPFÖRA storage combination, white/with frame: /products/småstad-combinations/89555845.txt
+- SMÅSTAD / UPPFÖRA storage combination, white white/with changing table: /products/småstad-combinations/29555872.txt
+- SMÅSTAD / UPPFÖRA storage combination, white white/with bench: /products/småstad-combinations/99555878.txt
+- SMÅSTAD / UPPFÖRA storage combination, white/white: /products/småstad-combinations/79555884.txt
+- SMÅSTAD / UPPFÖRA storage combination, white/white: /products/småstad-combinations/49555847.txt
+- SMÅSTAD / UPPFÖRA storage combination, white red/with 2 drawers: /products/småstad-combinations/49551081.txt
+- SMÅSTAD / UPPFÖRA storage combination, white red/stripe with 3 drawers: /products/småstad-combinations/09551078.txt
+- SMÅSTAD / UPPFÖRA storage combination, white light green/with bench: /products/småstad-combinations/99545403.txt
+- SMÅSTAD / UPPFÖRA storage combination, white/light green: /products/småstad-combinations/59546503.txt
+- SMÅSTAD / UPPFÖRA storage combination, white/light green: /products/småstad-combinations/29545406.txt
+- SMÅSTAD / UPPFÖRA storage combination, white blue/with bench: /products/småstad-combinations/79545404.txt
+- SMÅSTAD / UPPFÖRA storage combination, white/blue: /products/småstad-combinations/39546504.txt
+- SMÅSTAD / UPPFÖRA storage combination, white/blue: /products/småstad-combinations/09545407.txt
+- SMÅSTAD / UPPFÖRA storage combination, white black/white/stripe with 3 drawers: /products/småstad-combinations/19552770.txt
+- SMÅSTAD / UPPFÖRA changing table, white with frame/with bookcase: /products/småstad-combinations/09555868.txt
+- SMÅSTAD / UPPFÖRA changing table, white white/with bookcase: /products/småstad-combinations/49555866.txt
+- SMÅSTAD / UPPFÖRA changing table, white light green/with bookcase: /products/småstad-combinations/09542649.txt
+- SMÅSTAD / UPPFÖRA changing table, white blue/with bookcase: /products/småstad-combinations/69542651.txt
+- SMÅSTAD / UPPFÖRA cabinet, white with frame/with 1 shelf: /products/småstad-combinations/19555858.txt
+- SMÅSTAD / UPPFÖRA cabinet, white white/with 1 shelf: /products/småstad-combinations/99555859.txt
+- SMÅSTAD / UPPFÖRA cabinet, white light green/with 1 shelf: /products/småstad-combinations/79542655.txt
+- SMÅSTAD / UPPFÖRA cabinet, white blue/with 1 shelf: /products/småstad-combinations/39542657.txt
+- SMÅSTAD / UPPFÖRA bookcase, white with frame/with 4 drawers: /products/småstad-combinations/69555851.txt
+- SMÅSTAD / UPPFÖRA bookcase, white with frame/with 2 drawers: /products/småstad-combinations/49555852.txt
+- SMÅSTAD / UPPFÖRA bookcase, white with frame/with 2 drawers: /products/småstad-combinations/29555848.txt
+- SMÅSTAD / UPPFÖRA bookcase, white white/with 6 drawers: /products/småstad-combinations/59555856.txt
+- SMÅSTAD / UPPFÖRA bookcase, white white/with 3 drawers: /products/småstad-combinations/89555850.txt
+- SMÅSTAD / UPPFÖRA bookcase, white white/with 2 drawers: /products/småstad-combinations/09555854.txt
+- SMÅSTAD / UPPFÖRA bookcase, white light green/with 3 drawers: /products/småstad-combinations/49546914.txt
+- SMÅSTAD / UPPFÖRA bookcase, white light green/with 2 drawers: /products/småstad-combinations/59542642.txt
+- SMÅSTAD / UPPFÖRA bookcase, white blue/with 3 drawers: /products/småstad-combinations/19546915.txt
+- SMÅSTAD / UPPFÖRA bookcase, white blue/with 2 drawers: /products/småstad-combinations/89542645.txt
+- SMÅSTAD / UPPFÖRA 6-drawer chest, white with frame: /products/småstad-combinations/19555863.txt
+- SMÅSTAD / UPPFÖRA 6-drawer chest, white/white: /products/småstad-combinations/69555865.txt
+- SMÅSTAD / UPPFÖRA 6-drawer chest, white/light green: /products/småstad-combinations/19546755.txt
+- SMÅSTAD / UPPFÖRA 6-drawer chest, white/blue: /products/småstad-combinations/89546870.txt
+- SMÅSTAD / UPPFÖRA 3-drawer chest, white white/with frame: /products/småstad-combinations/79555860.txt
+- SMÅSTAD / UPPFÖRA 3-drawer chest, white/white: /products/småstad-combinations/59555861.txt
+- SMÅSTAD / UPPFÖRA 3-drawer chest, white/light green: /products/småstad-combinations/19542903.txt
+- SMÅSTAD / UPPFÖRA 3-drawer chest, white/blue: /products/småstad-combinations/49542930.txt
+- SMÅSTAD loft bed, white with frame/with desk with 3 drawers, Twin: /products/småstad-combinations/39435799.txt
+- SMÅSTAD loft bed, white with frame/with desk with 3 drawers, Twin: /products/småstad-combinations/29437483.txt
+- SMÅSTAD loft bed, white white/with desk with 4 drawers, Twin: /products/småstad-combinations/49435483.txt
+- SMÅSTAD loft bed, white white/with desk with 3 drawers, Twin: /products/småstad-combinations/09437479.txt
+- SMÅSTAD loft bed, white white/with desk with 2 shelves, Twin: /products/småstad-combinations/99520167.txt
+- SMÅSTAD loft bed, white light green/with desk with 4 drawers, Twin: /products/småstad-combinations/89557694.txt
+- SMÅSTAD loft bed, white light green/with desk with 3 drawers, Twin: /products/småstad-combinations/99557641.txt
+- SMÅSTAD loft bed, white blue/with desk with 4 drawers, Twin: /products/småstad-combinations/99557698.txt
+- SMÅSTAD loft bed, white blue/with desk with 3 drawers, Twin: /products/småstad-combinations/09557669.txt
+- SMÅSTAD desk, white with frame/with 2 drawers: /products/småstad-combinations/19392282.txt
+- SMÅSTAD desk, white white/with 2 drawers: /products/småstad-combinations/89392250.txt
+- SMÅSTAD desk, white light green/with 2 drawers: /products/småstad-combinations/69544810.txt
+- SMÅSTAD desk, white blue/with 2 drawers: /products/småstad-combinations/39544816.txt
+- SMÅSTAD changing table, white with frame/with 3 drawers: /products/småstad-combinations/69392246.txt
+- SMÅSTAD changing table, white white/with 3 drawers: /products/småstad-combinations/19392164.txt
+- SMÅSTAD changing table, white light green/with 3 drawers: /products/småstad-combinations/79541825.txt
+- SMÅSTAD changing table, white blue/with 3 drawers: /products/småstad-combinations/69541939.txt
+- SMÅSTAD changing table/desk, white: /products/småstad-combinations/00462963.txt
+- SMÅSTAD bench with toy storage, white/white: /products/småstad-combinations/19389152.txt
+- SMÅSTAD bench with toy storage, white/light green: /products/småstad-combinations/49539409.txt
+- SMÅSTAD bench with toy storage, white/blue: /products/småstad-combinations/29539410.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

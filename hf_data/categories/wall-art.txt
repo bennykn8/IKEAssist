@@ -1,0 +1,87 @@
+# @CATEGORY
+Name: Wall art
+ProductCount: 65
+
+# @FILTERS
+PriceRange: $4.99 - $99.99
+Materials: 100 % polypropylene, 100 % Polyethylene, 100% recycled solid cardboard, Paper, Aluminium (min. 70% recycled), Aluminium (min. 70% recycled), Back panel/ Inside frame: Fiberboard, Filling material: Honeycomb structure paper filling (min. 70% recycled), Frame/ Frame: Fiberboard, Paper foil, Frame/ Inside frame: Fiberboard, Paper foil, Frame: Fiberboard, Paper foil, Frame: Particleboard, Fiberboard, Plastic edging, Front protection/ Front protection: Polystyrene
+Brand: IKEA
+
+# @ITEMS
+- RÖDALM frame with poster, sunflowers, 16 ¼x: /products/wall-art/60585094.txt
+- RÖDALM frame with poster, striped sunset, 16 ¼x: /products/wall-art/70602149.txt
+- RÖDALM frame with poster, Paix Lineaire, 19 ¾x27 ½": /products/wall-art/40583557.txt
+- RÖDALM frame with poster, linear landscapes, 15 ¾x19 ¾": /products/wall-art/90590758.txt
+- RÖDALM frame with poster, bounce, 16 ¼x: /products/wall-art/00602157.txt
+- RÖDALM frame with poster, a flower for you, 12 ¼x16 ¼": /products/wall-art/90602148.txt
+- RAMHÄLL picture, set of 5, peaceful outdoors: /products/wall-art/30554838.txt
+- PJÄTTERYD picture, yellowhammer, 15 ¾x15 ¾": /products/wall-art/40583595.txt
+- PJÄTTERYD picture, Waterlilies, 1916 19, 27 ½x19 ¾": /products/wall-art/00578906.txt
+- PJÄTTERYD picture, wandering reindeer, 15 ¾x19 ¾": /products/wall-art/00583559.txt
+- PJÄTTERYD picture, Vase With Twelve Sunflowers, 27 ½x39 ¼": /products/wall-art/80578912.txt
+- PJÄTTERYD picture, The Starry Night, June 1889, 46 ½x30 ¾": /products/wall-art/50578904.txt
+- PJÄTTERYD picture, Swedish sand dunes: /products/wall-art/40602018.txt
+- PJÄTTERYD picture, set of 9, Mist in the forest, 70 ½x: /products/wall-art/90567970.txt
+- PJÄTTERYD picture, set of 9, in nature, 70 ½x: /products/wall-art/20518054.txt
+- PJÄTTERYD picture, rustic zebra: /products/wall-art/80590754.txt
+- PJÄTTERYD picture, moonlight, 19 ¾x27 ½": /products/wall-art/50554502.txt
+- PJÄTTERYD picture, Mona Lisa, 2, 19 ¾x27 ½": /products/wall-art/60578908.txt
+- PJÄTTERYD picture, leaves with apples, 11 ¾x15 ¾": /products/wall-art/60583561.txt
+- PJÄTTERYD picture, flowers-against a black wall, 27 ½x19 ¾": /products/wall-art/90578902.txt
+- PJÄTTERYD picture, flower doodle: /products/wall-art/20570909.txt
+- PJÄTTERYD picture, butterfly wings, 11 ¾x15 ¾": /products/wall-art/20583582.txt
+- PJÄTTERYD picture, animal appliqué, 15 ¾x15 ¾": /products/wall-art/40601877.txt
+- KNOPPÄNG frame with poster, vintage botanical fruit charts, 16 ¼x: /products/wall-art/10578897.txt
+- KNOPPÄNG frame with poster, souvenir collection, 19 ¾x27 ½": /products/wall-art/10602152.txt
+- KNOPPÄNG frame with poster, set of 8, little things: /products/wall-art/40512758.txt
+- KNOPPÄNG frame with poster, set of 8, folk tales: /products/wall-art/20602000.txt
+- KNOPPÄNG Frame with poster, garden: /products/wall-art/00465773.txt
+- KNOPPÄNG frame with poster, Countryside living, 16 ¼x: /products/wall-art/10601869.txt
+- FISKBO frame with poster, apple game, 16 ¼x: /products/wall-art/60602140.txt
+- COLORADOGRAN picture, set of 3, colorful adventures: /products/wall-art/90570656.txt
+- BLODFLÄDER picture, two birds, 15 ¾x19 ¾": /products/wall-art/00601921.txt
+- BLODFLÄDER picture, The Seine at Giverny, 46 ½x30 ¾": /products/wall-art/20601915.txt
+- BLODFLÄDER picture, orange flower, 15 ¾x19 ¾": /products/wall-art/40601919.txt
+- BLODFLÄDER picture, Nazaré, 19 ¾x27 ½": /products/wall-art/80601917.txt
+- BJÖRNAMO art print on hollow wood, eggs, 7 ¾x11 ¾": /products/wall-art/30533214.txt
+- BJÖRKSTA picture, white flowers: /products/wall-art/20554914.txt
+- BJÖRKSTA picture, the planet Earth, 46 ½x30 ¾": /products/wall-art/50578918.txt
+- BJÖRKSTA picture, sunset nostalgia: /products/wall-art/70578922.txt
+- BJÖRKSTA picture, flowers-in pink: /products/wall-art/90578916.txt
+- BJÖRKSTA picture, flowers-close up, 55x39 ¼": /products/wall-art/40578914.txt
+- BJÖRKSTA picture, doorway, 55x39 ¼": /products/wall-art/70554902.txt
+- BJÖRKSTA picture, balconies, 30 ¾x46 ½": /products/wall-art/00554910.txt
+- BJÖRKSTA picture and frame, white flowers/black: /products/wall-art/09508933.txt
+- BJÖRKSTA picture and frame, white flowers/aluminum color: /products/wall-art/49508931.txt
+- BJÖRKSTA picture and frame, the planet Earth/black, 46 ½x30 ¾": /products/wall-art/79561168.txt
+- BJÖRKSTA picture and frame, the planet Earth/aluminum color, 46 ½x30 ¾": /products/wall-art/09561162.txt
+- BJÖRKSTA picture and frame, sunset nostalgia/black: /products/wall-art/09561628.txt
+- BJÖRKSTA picture and frame, sunset nostalgia/aluminum color: /products/wall-art/29561627.txt
+- BJÖRKSTA picture and frame, flowers-in pink/black: /products/wall-art/69561164.txt
+- BJÖRKSTA picture and frame, flowers-in pink/aluminum color: /products/wall-art/49561626.txt
+- BJÖRKSTA picture and frame, flowers-close up/black, 55x39 ¼": /products/wall-art/89561163.txt
+- BJÖRKSTA picture and frame, flowers-close up/aluminum color, 55x39 ¼": /products/wall-art/19561166.txt
+- BJÖRKSTA picture and frame, doorway/black, 55x39 ¼": /products/wall-art/39508917.txt
+- BJÖRKSTA picture and frame, doorway/aluminum color, 55x39 ¼": /products/wall-art/79508915.txt
+- BJÖRKSTA picture and frame, balconies/black, 30 ¾x46 ½": /products/wall-art/29508951.txt
+- BJÖRKSTA picture and frame, balconies/aluminum color, 30 ¾x46 ½": /products/wall-art/69508949.txt
+- BJÖRKSTA Frame, black, 55x39 ¼ ": /products/wall-art/30326766.txt
+- BJÖRKSTA Frame, black: /products/wall-art/30318040.txt
+- BJÖRKSTA Frame, black, 78 ¾x55 ": /products/wall-art/30311171.txt
+- BJÖRKSTA Frame, black, 30 ¾x46 ½ ": /products/wall-art/10318041.txt
+- BJÖRKSTA frame, aluminum color, 30 ¾x46 ½": /products/wall-art/80326778.txt
+- BJÖRKSTA Frame, aluminum color, 55x39 ¼ ": /products/wall-art/50326765.txt
+- BJÖRKSTA Frame, aluminum color: /products/wall-art/40326775.txt
+- BJÖRKSTA Frame, aluminum color, 78 ¾x55 ": /products/wall-art/30326771.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

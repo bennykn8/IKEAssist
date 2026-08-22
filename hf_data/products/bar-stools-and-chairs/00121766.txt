@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: INGOLF Bar stool with backrest, white
+SKU: 00121766
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ingolf-bar-stool-with-backrest-white-00121766/
+Category: Bar stools & chairs
+Description: , 29 1/8". Why not have the same style throughout your home? INGOLF series looks just as nice in the kitchen and dining room as in the bedroom or hallway. The solid wood construction holds up well.
+
+# @OFFER
+Price: 105
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Solid wood, Adhesive, Seat/ Backrest: Fiberboard, All parts: Acrylic paint
+Dimensions: Suitable for bar table heights 39-42"
+Features: A screwdriver is required to assemble this product, sold separately as a part of TRIXIG 15-piece toolset. | Recommended for indoor use only.
+Care: Wipe clean with a mild soapy solution. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ingolf-bar-stool-with-backrest-white__0728063_pe736036_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

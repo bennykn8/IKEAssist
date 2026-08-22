@@ -1,0 +1,63 @@
+# @CATEGORY
+Name: AXSTAD matte blue fronts
+ProductCount: 41
+
+# @FILTERS
+PriceRange: $32.00 - $266.00
+Materials: Back side: High-pressure melamine laminate, Front side: Plastic foil (min. 90% recycled), Main parts: Fiberboard, Main parts: Fiberboard, Tempered glass
+Brand: IKEA
+
+# @ITEMS
+- AXSTAD glass door, matte blue: /products/axstad-matte-blue-fronts/80468391.txt
+- AXSTAD glass door, matte blue: /products/axstad-matte-blue-fronts/40468393.txt
+- AXSTAD Glass door, matte blue: /products/axstad-matte-blue-fronts/40468388.txt
+- AXSTAD glass door, matte blue: /products/axstad-matte-blue-fronts/20468389.txt
+- AXSTAD drawer front, matte blue: /products/axstad-matte-blue-fronts/90467937.txt
+- AXSTAD drawer front, matte blue: /products/axstad-matte-blue-fronts/80467933.txt
+- AXSTAD drawer front, matte blue: /products/axstad-matte-blue-fronts/80467928.txt
+- AXSTAD drawer front, matte blue: /products/axstad-matte-blue-fronts/70467938.txt
+- AXSTAD drawer front, matte blue: /products/axstad-matte-blue-fronts/60467934.txt
+- AXSTAD drawer front, matte blue: /products/axstad-matte-blue-fronts/60467929.txt
+- AXSTAD drawer front, matte blue: /products/axstad-matte-blue-fronts/50467939.txt
+- AXSTAD drawer front, matte blue: /products/axstad-matte-blue-fronts/40467930.txt
+- AXSTAD drawer front, matte blue: /products/axstad-matte-blue-fronts/30467940.txt
+- AXSTAD drawer front, matte blue: /products/axstad-matte-blue-fronts/30467935.txt
+- AXSTAD drawer front, matte blue: /products/axstad-matte-blue-fronts/20467931.txt
+- AXSTAD drawer front, matte blue: /products/axstad-matte-blue-fronts/10467941.txt
+- AXSTAD drawer front, matte blue: /products/axstad-matte-blue-fronts/10467936.txt
+- AXSTAD drawer front, matte blue: /products/axstad-matte-blue-fronts/00467932.txt
+- AXSTAD drawer front, matte blue: /products/axstad-matte-blue-fronts/00467927.txt
+- AXSTAD door, matte blue: /products/axstad-matte-blue-fronts/90467923.txt
+- AXSTAD door, matte blue: /products/axstad-matte-blue-fronts/90467904.txt
+- AXSTAD door, matte blue: /products/axstad-matte-blue-fronts/80467914.txt
+- AXSTAD door, matte blue: /products/axstad-matte-blue-fronts/80467909.txt
+- AXSTAD door, matte blue: /products/axstad-matte-blue-fronts/70467924.txt
+- AXSTAD door, matte blue: /products/axstad-matte-blue-fronts/70467919.txt
+- AXSTAD door, matte blue: /products/axstad-matte-blue-fronts/60467910.txt
+- AXSTAD door, matte blue: /products/axstad-matte-blue-fronts/60467905.txt
+- AXSTAD door, matte blue: /products/axstad-matte-blue-fronts/50467920.txt
+- AXSTAD door, matte blue: /products/axstad-matte-blue-fronts/50467915.txt
+- AXSTAD door, matte blue: /products/axstad-matte-blue-fronts/40467925.txt
+- AXSTAD door, matte blue: /products/axstad-matte-blue-fronts/40467911.txt
+- AXSTAD door, matte blue: /products/axstad-matte-blue-fronts/40467906.txt
+- AXSTAD door, matte blue: /products/axstad-matte-blue-fronts/30467921.txt
+- AXSTAD door, matte blue: /products/axstad-matte-blue-fronts/30467916.txt
+- AXSTAD door, matte blue: /products/axstad-matte-blue-fronts/20467907.txt
+- AXSTAD door, matte blue: /products/axstad-matte-blue-fronts/10467922.txt
+- AXSTAD Door, matte blue: /products/axstad-matte-blue-fronts/10467917.txt
+- AXSTAD door, matte blue: /products/axstad-matte-blue-fronts/10467903.txt
+- AXSTAD door, matte blue: /products/axstad-matte-blue-fronts/00467913.txt
+- AXSTAD door, matte blue: /products/axstad-matte-blue-fronts/00467908.txt
+- AXSTAD 2-p door/corner base cabinet set, matte blue: /products/axstad-matte-blue-fronts/20467926.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

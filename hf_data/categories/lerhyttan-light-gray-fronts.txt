@@ -1,0 +1,63 @@
+# @CATEGORY
+Name: LERHYTTAN light gray fronts
+ProductCount: 41
+
+# @FILTERS
+PriceRange: $44.00 - $383.00
+Materials: Frame: Solid birch, Tinted clear acrylic lacquer, Glass: Tempered glass, Panel back side: Birch veneer, Tinted clear acrylic lacquer, Panel: Fiberboard, Birch veneer, Tinted clear acrylic lacquer, Solid birch, Tinted clear acrylic lacquer
+Brand: IKEA
+
+# @ITEMS
+- LERHYTTAN glass door, light gray: /products/lerhyttan-light-gray-fronts/80461691.txt
+- LERHYTTAN glass door, light gray: /products/lerhyttan-light-gray-fronts/30461622.txt
+- LERHYTTAN glass door, light gray: /products/lerhyttan-light-gray-fronts/10461623.txt
+- LERHYTTAN glass door, light gray: /products/lerhyttan-light-gray-fronts/00461690.txt
+- LERHYTTAN drawer front, light gray: /products/lerhyttan-light-gray-fronts/90461619.txt
+- LERHYTTAN drawer front, light gray: /products/lerhyttan-light-gray-fronts/80461610.txt
+- LERHYTTAN drawer front, light gray: /products/lerhyttan-light-gray-fronts/70461620.txt
+- LERHYTTAN drawer front, light gray: /products/lerhyttan-light-gray-fronts/70461615.txt
+- LERHYTTAN drawer front, light gray: /products/lerhyttan-light-gray-fronts/60461611.txt
+- LERHYTTAN drawer front, light gray: /products/lerhyttan-light-gray-fronts/60461606.txt
+- LERHYTTAN drawer front, light gray: /products/lerhyttan-light-gray-fronts/50461621.txt
+- LERHYTTAN drawer front, light gray: /products/lerhyttan-light-gray-fronts/50461616.txt
+- LERHYTTAN drawer front, light gray: /products/lerhyttan-light-gray-fronts/40461612.txt
+- LERHYTTAN drawer front, light gray: /products/lerhyttan-light-gray-fronts/40461607.txt
+- LERHYTTAN drawer front, light gray: /products/lerhyttan-light-gray-fronts/30461617.txt
+- LERHYTTAN drawer front, light gray: /products/lerhyttan-light-gray-fronts/20461608.txt
+- LERHYTTAN drawer front, light gray: /products/lerhyttan-light-gray-fronts/10461618.txt
+- LERHYTTAN drawer front, light gray: /products/lerhyttan-light-gray-fronts/00461614.txt
+- LERHYTTAN drawer front, light gray: /products/lerhyttan-light-gray-fronts/00461609.txt
+- LERHYTTAN door, light gray: /products/lerhyttan-light-gray-fronts/90461600.txt
+- LERHYTTAN door, light gray: /products/lerhyttan-light-gray-fronts/90461596.txt
+- LERHYTTAN door, light gray: /products/lerhyttan-light-gray-fronts/80461592.txt
+- LERHYTTAN door, light gray: /products/lerhyttan-light-gray-fronts/80461587.txt
+- LERHYTTAN door, light gray: /products/lerhyttan-light-gray-fronts/70461601.txt
+- LERHYTTAN door, light gray: /products/lerhyttan-light-gray-fronts/70461583.txt
+- LERHYTTAN door, light gray: /products/lerhyttan-light-gray-fronts/60461593.txt
+- LERHYTTAN door, light gray: /products/lerhyttan-light-gray-fronts/60461588.txt
+- LERHYTTAN door, light gray: /products/lerhyttan-light-gray-fronts/50461602.txt
+- LERHYTTAN door, light gray: /products/lerhyttan-light-gray-fronts/50461598.txt
+- LERHYTTAN door, light gray: /products/lerhyttan-light-gray-fronts/50461584.txt
+- LERHYTTAN door, light gray: /products/lerhyttan-light-gray-fronts/40461594.txt
+- LERHYTTAN Door, light gray: /products/lerhyttan-light-gray-fronts/40461589.txt
+- LERHYTTAN Door, light gray: /products/lerhyttan-light-gray-fronts/30461603.txt
+- LERHYTTAN door, light gray: /products/lerhyttan-light-gray-fronts/30461599.txt
+- LERHYTTAN Door, light gray: /products/lerhyttan-light-gray-fronts/20461590.txt
+- LERHYTTAN door, light gray: /products/lerhyttan-light-gray-fronts/20461585.txt
+- LERHYTTAN Door, light gray: /products/lerhyttan-light-gray-fronts/10461604.txt
+- LERHYTTAN Door, light gray: /products/lerhyttan-light-gray-fronts/10461595.txt
+- LERHYTTAN door, light gray: /products/lerhyttan-light-gray-fronts/00461591.txt
+- LERHYTTAN door, light gray: /products/lerhyttan-light-gray-fronts/00461586.txt
+- LERHYTTAN 2-p door/corner base cabinet set, light gray: /products/lerhyttan-light-gray-fronts/80461605.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

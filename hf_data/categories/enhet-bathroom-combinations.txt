@@ -1,0 +1,119 @@
+# @CATEGORY
+Name: ENHET bathroom combinations
+ProductCount: 97
+
+# @FILTERS
+PriceRange: $220.00 - $960.00
+Materials: Back panel: Fiberboard, Plastic foil, Bottom panel/ Back rail: Particleboard, Plastic foil, Edge: Plastic edging, Fiberboard, Plastic foil, Front side/ Back side: Plastic foil, Main parts: Particleboard, Particleboard, High-pressure melamine laminate, Laminate, Rail/ Tubes: Steel, Powder coating, Shelf: Galvanized steel, Powder coating, Side panel/ Bottom panel/ Back rail/ Shelf/ Filling: Particleboard, Plastic foil, Plastic edging
+Brand: IKEA
+
+# @ITEMS
+- ENHET storage combination, white/white laminate: /products/enhet-bathroom-combinations/79472153.txt
+- ENHET storage combination, white/white frame: /products/enhet-bathroom-combinations/69444245.txt
+- ENHET storage combination, white/white frame: /products/enhet-bathroom-combinations/59444260.txt
+- ENHET storage combination, white/white frame: /products/enhet-bathroom-combinations/49444251.txt
+- ENHET storage combination, white/white frame: /products/enhet-bathroom-combinations/39444242.txt
+- ENHET storage combination, white/white frame: /products/enhet-bathroom-combinations/29444266.txt
+- ENHET storage combination, white/white frame: /products/enhet-bathroom-combinations/19444337.txt
+- ENHET storage combination, white/white frame: /products/enhet-bathroom-combinations/09444272.txt
+- ENHET storage combination, white: /products/enhet-bathroom-combinations/89444249.txt
+- ENHET storage combination, white: /products/enhet-bathroom-combinations/79444259.txt
+- ENHET storage combination, white: /products/enhet-bathroom-combinations/59444241.txt
+- ENHET storage combination, white: /products/enhet-bathroom-combinations/49444265.txt
+- ENHET storage combination, white: /products/enhet-bathroom-combinations/39444336.txt
+- ENHET storage combination, white: /products/enhet-bathroom-combinations/29444271.txt
+- ENHET storage combination, white: /products/enhet-bathroom-combinations/19444243.txt
+- ENHET storage combination, white/oak effect: /products/enhet-bathroom-combinations/99444263.txt
+- ENHET storage combination, white/oak effect: /products/enhet-bathroom-combinations/99444244.txt
+- ENHET storage combination, white/oak effect: /products/enhet-bathroom-combinations/99444239.txt
+- ENHET storage combination, white/oak effect: /products/enhet-bathroom-combinations/89444334.txt
+- ENHET storage combination, white/oak effect: /products/enhet-bathroom-combinations/69444269.txt
+- ENHET storage combination, white/oak effect: /products/enhet-bathroom-combinations/69444250.txt
+- ENHET storage combination, white/oak effect: /products/enhet-bathroom-combinations/19444257.txt
+- ENHET storage combination, anthracite/white: /products/enhet-bathroom-combinations/99444324.txt
+- ENHET storage combination, anthracite/white: /products/enhet-bathroom-combinations/59444255.txt
+- ENHET storage combination, anthracite/white: /products/enhet-bathroom-combinations/39444261.txt
+- ENHET storage combination, anthracite/white: /products/enhet-bathroom-combinations/39444237.txt
+- ENHET storage combination, anthracite/white: /products/enhet-bathroom-combinations/29444247.txt
+- ENHET storage combination, anthracite/white: /products/enhet-bathroom-combinations/09444267.txt
+- ENHET storage combination, anthracite/white: /products/enhet-bathroom-combinations/09444253.txt
+- ENHET storage combination, anthracite/white laminate: /products/enhet-bathroom-combinations/99472152.txt
+- ENHET storage combination, anthracite/white frame: /products/enhet-bathroom-combinations/89444268.txt
+- ENHET storage combination, anthracite/white frame: /products/enhet-bathroom-combinations/89444254.txt
+- ENHET storage combination, anthracite/white frame: /products/enhet-bathroom-combinations/69444325.txt
+- ENHET storage combination, anthracite/white frame: /products/enhet-bathroom-combinations/39444256.txt
+- ENHET storage combination, anthracite/white frame: /products/enhet-bathroom-combinations/19444262.txt
+- ENHET storage combination, anthracite/white frame: /products/enhet-bathroom-combinations/19444238.txt
+- ENHET storage combination, anthracite/white frame: /products/enhet-bathroom-combinations/09444248.txt
+- ENHET storage combination, anthracite/gray frame: /products/enhet-bathroom-combinations/99444258.txt
+- ENHET storage combination, anthracite/gray frame: /products/enhet-bathroom-combinations/79444264.txt
+- ENHET storage combination, anthracite/gray frame: /products/enhet-bathroom-combinations/79444240.txt
+- ENHET storage combination, anthracite/gray frame: /products/enhet-bathroom-combinations/59444335.txt
+- ENHET storage combination, anthracite/gray frame: /products/enhet-bathroom-combinations/49444270.txt
+- ENHET storage combination, anthracite/gray frame: /products/enhet-bathroom-combinations/49444246.txt
+- ENHET storage combination, anthracite/gray frame: /products/enhet-bathroom-combinations/29444252.txt
+- ENHET bathroom, white/white frame: /products/enhet-bathroom-combinations/49547433.txt
+- ENHET bathroom, white/white frame: /products/enhet-bathroom-combinations/39547301.txt
+- ENHET bathroom, white/white frame: /products/enhet-bathroom-combinations/29547373.txt
+- ENHET bathroom, white/white frame: /products/enhet-bathroom-combinations/19546920.txt
+- ENHET bathroom, white: /products/enhet-bathroom-combinations/79547752.txt
+- ENHET bathroom, white: /products/enhet-bathroom-combinations/59547692.txt
+- ENHET bathroom, white: /products/enhet-bathroom-combinations/59547017.txt
+- ENHET bathroom, white: /products/enhet-bathroom-combinations/39547382.txt
+- ENHET bathroom, white: /products/enhet-bathroom-combinations/39547155.txt
+- ENHET bathroom, white: /products/enhet-bathroom-combinations/19547793.txt
+- ENHET bathroom, white: /products/enhet-bathroom-combinations/19547477.txt
+- ENHET bathroom, white: /products/enhet-bathroom-combinations/19547279.txt
+- ENHET bathroom, white: /products/enhet-bathroom-combinations/19547043.txt
+- ENHET bathroom, white: /products/enhet-bathroom-combinations/19536308.txt
+- ENHET bathroom, white: /products/enhet-bathroom-combinations/09547270.txt
+- ENHET bathroom, white: /products/enhet-bathroom-combinations/09546968.txt
+- ENHET bathroom, white/oak effect: /products/enhet-bathroom-combinations/99547652.txt
+- ENHET bathroom, white/oak effect: /products/enhet-bathroom-combinations/89547544.txt
+- ENHET bathroom, white/oak effect: /products/enhet-bathroom-combinations/79547691.txt
+- ENHET bathroom, white/oak effect: /products/enhet-bathroom-combinations/79547484.txt
+- ENHET bathroom, white/oak effect: /products/enhet-bathroom-combinations/59547220.txt
+- ENHET bathroom, white/oak effect: /products/enhet-bathroom-combinations/59547197.txt
+- ENHET bathroom, white/oak effect: /products/enhet-bathroom-combinations/49547107.txt
+- ENHET bathroom, white/oak effect: /products/enhet-bathroom-combinations/39547198.txt
+- ENHET bathroom, white/oak effect: /products/enhet-bathroom-combinations/29547523.txt
+- ENHET bathroom, white/oak effect: /products/enhet-bathroom-combinations/09547623.txt
+- ENHET bathroom, anthracite/white: /products/enhet-bathroom-combinations/79547295.txt
+- ENHET bathroom, anthracite/white: /products/enhet-bathroom-combinations/69547074.txt
+- ENHET bathroom, anthracite/white: /products/enhet-bathroom-combinations/69546927.txt
+- ENHET bathroom, anthracite/white: /products/enhet-bathroom-combinations/59547545.txt
+- ENHET bathroom, anthracite/white: /products/enhet-bathroom-combinations/49547715.txt
+- ENHET bathroom, anthracite/white: /products/enhet-bathroom-combinations/49547348.txt
+- ENHET bathroom, anthracite/white: /products/enhet-bathroom-combinations/39547495.txt
+- ENHET bathroom, anthracite/white: /products/enhet-bathroom-combinations/39547042.txt
+- ENHET bathroom, anthracite/white: /products/enhet-bathroom-combinations/19547496.txt
+- ENHET bathroom, anthracite/white: /products/enhet-bathroom-combinations/09547294.txt
+- ENHET bathroom, anthracite/white frame: /products/enhet-bathroom-combinations/49547471.txt
+- ENHET bathroom, anthracite/white frame: /products/enhet-bathroom-combinations/49547145.txt
+- ENHET bathroom, anthracite/white frame: /products/enhet-bathroom-combinations/49546928.txt
+- ENHET bathroom, anthracite/white frame: /products/enhet-bathroom-combinations/19547665.txt
+- ENHET bathroom, anthracite/white frame: /products/enhet-bathroom-combinations/19546982.txt
+- ENHET bathroom, anthracite: /products/enhet-bathroom-combinations/39547424.txt
+- ENHET bathroom, anthracite: /products/enhet-bathroom-combinations/39547056.txt
+- ENHET bathroom, anthracite/gray frame: /products/enhet-bathroom-combinations/99547751.txt
+- ENHET bathroom, anthracite/gray frame: /products/enhet-bathroom-combinations/99547440.txt
+- ENHET bathroom, anthracite/gray frame: /products/enhet-bathroom-combinations/69547564.txt
+- ENHET bathroom, anthracite/gray frame: /products/enhet-bathroom-combinations/59547512.txt
+- ENHET bathroom, anthracite/gray frame: /products/enhet-bathroom-combinations/39547075.txt
+- ENHET bathroom, anthracite/gray frame: /products/enhet-bathroom-combinations/39547004.txt
+- ENHET bathroom, anthracite/gray frame: /products/enhet-bathroom-combinations/29546953.txt
+- ENHET bathroom, anthracite/gray frame: /products/enhet-bathroom-combinations/19547750.txt
+- ENHET bathroom, anthracite/gray frame: /products/enhet-bathroom-combinations/19547439.txt
+- ENHET bathroom, anthracite/gray frame: /products/enhet-bathroom-combinations/09547425.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

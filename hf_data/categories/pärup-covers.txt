@@ -1,0 +1,38 @@
+# @CATEGORY
+Name: PÄRUP covers
+ProductCount: 16
+
+# @FILTERS
+PriceRange: $49.00 - $200.00
+Materials: Back fabric: 100 % polyester (100% recycled), Fabric: 100% polyester (min. 90% recycled), Lining, underside: 100 % polypropylene, Quilt filling: 100% polyester (min. 60% recycled)
+Brand: IKEA
+
+# @ITEMS
+- PÄRUP cover for sofa, with chaise/Vissle yellow-brown: /products/pärup-covers/30567256.txt
+- PÄRUP cover for sofa, with chaise/Vissle gray: /products/pärup-covers/40493972.txt
+- PÄRUP cover for sofa, with chaise/Gunnared dark gray: /products/pärup-covers/10493997.txt
+- PÄRUP cover for sofa, with chaise/Gunnared beige: /products/pärup-covers/00493993.txt
+- PÄRUP cover for sofa, Vissle yellow-brown: /products/pärup-covers/40567251.txt
+- PÄRUP cover for sofa, Vissle gray: /products/pärup-covers/60493810.txt
+- PÄRUP cover for sofa, Gunnared dark gray: /products/pärup-covers/80493828.txt
+- PÄRUP cover for sofa, Gunnared beige: /products/pärup-covers/70493824.txt
+- PÄRUP cover for sectional, 4-seat, Vissle yellow-brown: /products/pärup-covers/60567245.txt
+- PÄRUP cover for sectional, 4-seat, Vissle gray: /products/pärup-covers/60493754.txt
+- PÄRUP cover for sectional, 4-seat, Gunnared dark gray: /products/pärup-covers/60493768.txt
+- PÄRUP cover for sectional, 4-seat, Gunnared beige: /products/pärup-covers/50493764.txt
+- PÄRUP cover for loveseat, Vissle yellow-brown: /products/pärup-covers/50567241.txt
+- PÄRUP cover for loveseat, Vissle gray: /products/pärup-covers/20493794.txt
+- PÄRUP cover for loveseat, Gunnared dark gray: /products/pärup-covers/40493806.txt
+- PÄRUP cover for loveseat, Gunnared beige: /products/pärup-covers/30493802.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

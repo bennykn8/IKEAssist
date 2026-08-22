@@ -1,0 +1,27 @@
+# @CATEGORY
+Name: Baby comforters & pillows
+ProductCount: 5
+
+# @FILTERS
+PriceRange: $6.99 - $29.99
+Materials: 100 % cotton, Fabric: 55 % lyocell, 45 % cotton, Fabric: 65 % polyester (100% recycled), 35 % cotton, Filling material: 100 % polyester - hollow fiber (100% recycled), Filling material: 50% polyester / 50% lyocell fibers
+Brand: IKEA
+
+# @ITEMS
+- LENAST Crib comforter, white, gray: /products/baby-comforters-and-pillows/10373061.txt
+- LEN crib pillow, white: /products/baby-comforters-and-pillows/72897210.txt
+- LEN crib duvet insert, white: /products/baby-comforters-and-pillows/72899110.txt
+- GULDVÄVARE wearable blanket, dark yellow/beige, 6-18 months: /products/baby-comforters-and-pillows/70588558.txt
+- GULDVÄVARE wearable blanket, beige/dark yellow, 0-6 months: /products/baby-comforters-and-pillows/20588546.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

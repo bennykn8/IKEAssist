@@ -1,0 +1,32 @@
+# @CATEGORY
+Name: Wall spotlights
+ProductCount: 10
+
+# @FILTERS
+PriceRange: $19.99 - $37.99
+Materials: Bracket/ Adjustment nut: Aluminum, Epoxy/polyester powder coating, Bracket: Zinc, Paint, Clamp: Polycarbonate plastic, Flexibile joint: Steel, Polycarbonate plastic, Shade holder/ Mounting bracket: Steel, Paint, Shade: Steel, Epoxy/polyester powder coating, Shade: Steel, Powder coating, Shade: Steel, Powder coating, Paint
+Brand: IKEA
+
+# @ITEMS
+- SKURUP clamp spotlight, black: /products/wall-spotlights/20489966.txt
+- RANARP wall/clamp spotlight with LED bulb, off-white: /products/wall-spotlights/90416274.txt
+- RANARP Wall/clamp spotlight with LED bulb, black: /products/wall-spotlights/10416273.txt
+- RANARP Wall/clamp spotlight, off-white: /products/wall-spotlights/20231325.txt
+- RANARP wall/clamp spotlight, black: /products/wall-spotlights/80331402.txt
+- NÄVLINGE LED clamp spotlight, white: /products/wall-spotlights/20449895.txt
+- NÄVLINGE LED clamp spotlight, lilac/dark green: /products/wall-spotlights/80574787.txt
+- NÄVLINGE LED clamp spotlight, black: /products/wall-spotlights/30449885.txt
+- HEKTAR Wall/clamp spotlight with LED bulb, dark gray: /products/wall-spotlights/50416247.txt
+- HEKTAR wall/clamp spotlight, dark gray: /products/wall-spotlights/50216540.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

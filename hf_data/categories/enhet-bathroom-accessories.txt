@@ -1,0 +1,34 @@
+# @CATEGORY
+Name: ENHET bathroom accessories
+ProductCount: 12
+
+# @FILTERS
+PriceRange: $1.29 - $59.99
+Materials: Base fabric: 100% polyester (min. 20% recycled), Connection: Polypropylene, Frame/ Mounting plate: Galvanized steel, Powder coating, Galvanized steel, Powder coating, Insert nut: Polyamide, Copper, Metal tube/ Top/ Bottom/ Lock: Steel, Powder coating, Mirror glass: Glass, Plastic foil, Plastic fitting: Acetal plastic, Stainless steel, Powder coating, Steel, Powder coating
+Brand: IKEA
+
+# @ITEMS
+- ENHET swivel shelf, anthracite: /products/enhet-bathroom-accessories/20514560.txt
+- ENHET rail for hooks, white: /products/enhet-bathroom-accessories/70514553.txt
+- ENHET rail for hooks, white: /products/enhet-bathroom-accessories/00514556.txt
+- ENHET rail for hooks, anthracite: /products/enhet-bathroom-accessories/90514552.txt
+- ENHET rail for hooks, anthracite: /products/enhet-bathroom-accessories/20514555.txt
+- ENHET laundry bin with casters, white, 21 gallon: /products/enhet-bathroom-accessories/10516102.txt
+- ENHET laundry bin with casters, anthracite, 21 gallon: /products/enhet-bathroom-accessories/40516105.txt
+- ENHET hook, white, ¼x: /products/enhet-bathroom-accessories/00465754.txt
+- ENHET hook, anthracite, ¼x: /products/enhet-bathroom-accessories/60465751.txt
+- ENHET hanging shelf insert, anthracite: /products/enhet-bathroom-accessories/40514559.txt
+- ENHET hanging mirror f frame, anthracite: /products/enhet-bathroom-accessories/60516294.txt
+- ENHET extendable rail, white: /products/enhet-bathroom-accessories/80516108.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

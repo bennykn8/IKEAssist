@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VÄXTHUS basket, rattan/handmade, 12 ½x13 ¾"
+SKU: 40551132
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vaexthus-basket-rattan-handmade-40551132/
+Category: Baskets
+Description: Let nature help you organize. The rattan's natural color variations and the handmade weave make each product unique – spreading a warm, calm feeling that transforms any mess into a pleasant oasis. Per...
+
+# @OFFER
+Price: 29.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Rattan, Rattan, Rattan, Clear acrylic lacquer, Feet: Polyethylene
+Features: Each basket is a unique, handmade work of art with natural variations in color and shape. | Recommended for indoor use only. | Not approved for food contact.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vaexthus-basket-rattan-handmade__1200083_pe904835_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

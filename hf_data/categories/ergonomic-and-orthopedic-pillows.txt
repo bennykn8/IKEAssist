@@ -1,0 +1,31 @@
+# @CATEGORY
+Name: Ergonomic & orthopedic pillows
+ProductCount: 9
+
+# @FILTERS
+PriceRange: $11.99 - $69.99
+Materials: Back fabric/ Inner fabric: 100 % polyester (100% recycled), Back fabric: 99 % polyester (100% recycled), 1% elastane, Cover/ Piping: 100 % polyester (100% recycled), Cover: 99 % polyester (100% recycled), 1% elastane, Fabric/ Outer fabric/ Inner fabric: 100 % polyester (100% recycled), Filling: Polyurethane  foam, Filling: Polyurethane foam, Filling: Polyurethane foam., Filling: Polyurethane memory foam, Filling: Polyurethane memory foam, Polyurethane foam
+Brand: IKEA
+
+# @ITEMS
+- ROSENSKÄRM ergonomic pillow, side/back sleeper: /products/ergonomic-and-orthopedic-pillows/90444371.txt
+- RAMSLÖKSMAL ergonomic pillow, multi position: /products/ergonomic-and-orthopedic-pillows/40554300.txt
+- PAPEGOJBUSKE ergonomic pillow, side/back sleeper: /products/ergonomic-and-orthopedic-pillows/70586984.txt
+- NORDSTÅLÖRT ergonomic pillow, side/back sleeper: /products/ergonomic-and-orthopedic-pillows/30560288.txt
+- LÖKSTAMFLY ergonomic pillow, side/back sleeper, Queen: /products/ergonomic-and-orthopedic-pillows/20596202.txt
+- KVARNVEN ergonomic pillow, stomach sleeper, Queen: /products/ergonomic-and-orthopedic-pillows/70605299.txt
+- KVARNVEN ergonomic pillow, side/back sleeper, Queen: /products/ergonomic-and-orthopedic-pillows/40507356.txt
+- KLUBBSPORRE ergonomic pillow, side/back sleeper, Queen: /products/ergonomic-and-orthopedic-pillows/80446101.txt
+- ISRANUNKEL ergonomic pillow, multi position: /products/ergonomic-and-orthopedic-pillows/10576742.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: FRÖSJÖN cart, black
+SKU: 40574906
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/froesjoen-cart-black-40574906/
+Category: Bathroom Carts
+Description: , 215/8x133/4" The shelving units in the FRÖSJÖN series help you optimize bathroom storage while adding a traditional twist. With this trolley you can always have your bathroom things close at hand. T...
+
+# @OFFER
+Price: 39.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top shelf: Tempered glass, Shelf/ Rod: Steel, Powder coating, Tube: Steel, Epoxy/polyester powder coating
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/froesjoen-cart-black__1253939_pe924368_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

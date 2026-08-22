@@ -1,0 +1,60 @@
+# @CATEGORY
+Name: Bath towels & sets
+ProductCount: 38
+
+# @FILTERS
+PriceRange: $1.99 - $16.99
+Materials: 100 % cotton, 80 % cotton, 20 % viscose/rayon
+Brand: IKEA
+
+# @ITEMS
+- VALLASÅN bath towel, light green: /products/bath-towels-and-sets/90531330.txt
+- VALLASÅN bath towel, light gray/brown: /products/bath-towels-and-sets/80502125.txt
+- VÅGSJÖN bath towel, white: /products/bath-towels-and-sets/80350985.txt
+- VÅGSJÖN bath towel, pink: /products/bath-towels-and-sets/60609189.txt
+- VÅGSJÖN bath towel, orange-red: /products/bath-towels-and-sets/40609190.txt
+- VÅGSJÖN bath towel, light green: /products/bath-towels-and-sets/80609188.txt
+- VÅGSJÖN bath towel, light beige: /products/bath-towels-and-sets/10494609.txt
+- VÅGSJÖN bath towel, dark gray: /products/bath-towels-and-sets/30353608.txt
+- VÅGSJÖN bath towel, bright pink: /products/bath-towels-and-sets/50571083.txt
+- VÅGSJÖN bath towel, bright green: /products/bath-towels-and-sets/20571126.txt
+- VÅGSJÖN bath towel, bright blue: /products/bath-towels-and-sets/70576254.txt
+- SVENSKFIBBLA bath towel, yellow/green: /products/bath-towels-and-sets/50590468.txt
+- SVENSKFIBBLA bath towel, light blue: /products/bath-towels-and-sets/20590441.txt
+- SLÅNHÖSTMAL bath towel, orange/pink stripe: /products/bath-towels-and-sets/30577217.txt
+- SLÅNHÖSTMAL bath towel, bright blue/light blue stripe: /products/bath-towels-and-sets/60576037.txt
+- SLÅNHÖSTMAL bath towel, black/light beige stripe: /products/bath-towels-and-sets/70576027.txt
+- SALVIKEN bath towel, white: /products/bath-towels-and-sets/50313225.txt
+- SALVIKEN bath towel, natural: /products/bath-towels-and-sets/80512501.txt
+- SALVIKEN bath towel, light green: /products/bath-towels-and-sets/80512539.txt
+- SALVIKEN bath towel, anthracite: /products/bath-towels-and-sets/60349342.txt
+- LUDDVIAL bath towel, white: /products/bath-towels-and-sets/40586344.txt
+- GULVIAL bath towel, white: /products/bath-towels-and-sets/00579661.txt
+- GULVIAL bath towel, turquoise: /products/bath-towels-and-sets/50579692.txt
+- GULVIAL bath towel, red-brown: /products/bath-towels-and-sets/60579738.txt
+- GULVIAL bath towel, pale pink: /products/bath-towels-and-sets/80579718.txt
+- GULVIAL bath towel, pale gray-green: /products/bath-towels-and-sets/70579728.txt
+- GULVIAL bath towel, dark gray-blue: /products/bath-towels-and-sets/10579707.txt
+- GULVIAL bath towel, black: /products/bath-towels-and-sets/70579672.txt
+- GULVIAL bath towel, beige: /products/bath-towels-and-sets/60579682.txt
+- FREDRIKSJÖN bath towel, white: /products/bath-towels-and-sets/00496717.txt
+- FREDRIKSJÖN bath towel, gray-turquoise: /products/bath-towels-and-sets/60572685.txt
+- FREDRIKSJÖN bath towel, deep red: /products/bath-towels-and-sets/40552749.txt
+- FREDRIKSJÖN bath towel, dark gray: /products/bath-towels-and-sets/50496705.txt
+- FREDRIKSJÖN bath towel, dark blue: /products/bath-towels-and-sets/10496670.txt
+- FJÄLLSTARR bath towel, white/gray: /products/bath-towels-and-sets/90571217.txt
+- FJÄLLSTARR bath towel, dark gray: /products/bath-towels-and-sets/40580498.txt
+- DÅRREPE bath towel, white: /products/bath-towels-and-sets/70570855.txt
+- DÅRREPE bath towel, brown: /products/bath-towels-and-sets/40573030.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

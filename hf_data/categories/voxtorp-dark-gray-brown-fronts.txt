@@ -1,0 +1,60 @@
+# @CATEGORY
+Name: VOXTORP dark gray-brown fronts
+ProductCount: 38
+
+# @FILTERS
+PriceRange: $78.00 - $382.00
+Materials: Back side: Melamine foil, Front side: Plastic foil (min. 70% recycled), Front: Fiberboard
+Brand: IKEA
+
+# @ITEMS
+- VOXTORP drawer front, high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/90601752.txt
+- VOXTORP drawer front, high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/80601762.txt
+- VOXTORP drawer front, high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/80601757.txt
+- VOXTORP drawer front, high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/70601753.txt
+- VOXTORP drawer front, high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/60601763.txt
+- VOXTORP drawer front, high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/60601758.txt
+- VOXTORP drawer front, high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/50601754.txt
+- VOXTORP drawer front, high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/40601764.txt
+- VOXTORP drawer front, high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/40601759.txt
+- VOXTORP drawer front, high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/20601760.txt
+- VOXTORP drawer front, high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/20601755.txt
+- VOXTORP drawer front, high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/10601765.txt
+- VOXTORP drawer front, high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/10601751.txt
+- VOXTORP drawer front, high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/00601761.txt
+- VOXTORP drawer front, high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/00601756.txt
+- VOXTORP door, high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/90601747.txt
+- VOXTORP door, high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/90601733.txt
+- VOXTORP door, high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/80601743.txt
+- VOXTORP door, high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/80601738.txt
+- VOXTORP door, high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/70601748.txt
+- VOXTORP door, high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/70601734.txt
+- VOXTORP door, high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/60601744.txt
+- VOXTORP door, high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/60601739.txt
+- VOXTORP door, high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/50601749.txt
+- VOXTORP door, high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/50601730.txt
+- VOXTORP door, high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/40601740.txt
+- VOXTORP door, high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/40601735.txt
+- VOXTORP door, high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/30601750.txt
+- VOXTORP door, high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/30601745.txt
+- VOXTORP door, high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/30601731.txt
+- VOXTORP door, high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/20601741.txt
+- VOXTORP door, high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/20601736.txt
+- VOXTORP door, high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/10601746.txt
+- VOXTORP door, high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/10601732.txt
+- VOXTORP door, high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/00601742.txt
+- VOXTORP door, high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/00601737.txt
+- VOXTORP 2-p door/corner base cabinet set, right-handed/high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/40601783.txt
+- VOXTORP 2-p door/corner base cabinet set, left-handed/high gloss dark gray-brown: /products/voxtorp-dark-gray-brown-fronts/60601782.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

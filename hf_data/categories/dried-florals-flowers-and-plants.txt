@@ -1,0 +1,31 @@
+# @CATEGORY
+Name: Dried florals, flowers and plants
+ProductCount: 9
+
+# @FILTERS
+PriceRange: $3.99 - $29.99
+Materials: Dried plant parts, Willow, Seagrass, Clear lacquer, Willow, Tinted clear acrylic lacquer
+Brand: IKEA
+
+# @ITEMS
+- TORKA dried parts of flowers/plants, pink: /products/dried-florals-flowers-and-plants/10595608.txt
+- TORKA dried parts of flowers/plants, light pink: /products/dried-florals-flowers-and-plants/70595610.txt
+- TORKA dried parts of flowers/plants, green: /products/dried-florals-flowers-and-plants/90595609.txt
+- TORKA dried bouquet, willow/twisted white: /products/dried-florals-flowers-and-plants/70153457.txt
+- TORKA dried bouquet, brown: /products/dried-florals-flowers-and-plants/50368053.txt
+- TORKA dried bouquet, assorted colors: /products/dried-florals-flowers-and-plants/60595583.txt
+- SMYCKA Dried bouquet, green: /products/dried-florals-flowers-and-plants/50099999.txt
+- FESTSUGEN dried parts of flowers/plants, natural: /products/dried-florals-flowers-and-plants/70506058.txt
+- FESTBJUDNING dried parts of flowers/plants, natural: /products/dried-florals-flowers-and-plants/90506057.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

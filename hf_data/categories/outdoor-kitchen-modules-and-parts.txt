@@ -1,0 +1,37 @@
+# @CATEGORY
+Name: Outdoor kitchen modules & parts
+ProductCount: 15
+
+# @FILTERS
+PriceRange: $55.00 - $490.00
+Materials: Back panel/ Frame/ Rail: Galvanized steel, Polyester powder coating, Galvanized steel, Polyester powder coating, Handle: Aluminum, Polyester powder coating, Hook/ Cup: Polypropylene, Leg frame/ Cabinet/ Bracket/ Slats: Galvanized steel, Polyester powder coating, Leg frame/ Support rail/ Bracket: Galvanized steel, Polyester powder coating, Leg/ Shelf/ Top frame/ Bracket: Galvanized steel, Polyester powder coating, Leg/ Shelf: Galvanized steel, Polyester powder coating, Main parts/ Leg/ Bracket: Galvanized steel, Polyester powder coating, Main parts: Galvanized steel, Polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- GRILLSKÄR storage box, black stainless steel/outdoor: /products/outdoor-kitchen-modules-and-parts/80523279.txt
+- GRILLSKÄR sink unit, black/stainless steel outdoor: /products/outdoor-kitchen-modules-and-parts/70489662.txt
+- GRILLSKÄR side table, outdoor, black stainless steel/outdoor: /products/outdoor-kitchen-modules-and-parts/00523179.txt
+- GRILLSKÄR kitchen island w side table, stainless steel/outdoor: /products/outdoor-kitchen-modules-and-parts/09495228.txt
+- GRILLSKÄR kitchen island w back panel, with doors stainless steel/outdoor: /products/outdoor-kitchen-modules-and-parts/79548233.txt
+- GRILLSKÄR kitchen island w back panel, stainless steel/outdoor: /products/outdoor-kitchen-modules-and-parts/79495244.txt
+- GRILLSKÄR kitchen island shelf unit, stainless steel: /products/outdoor-kitchen-modules-and-parts/29390107.txt
+- GRILLSKÄR kitchen island shelf unit, black/stainless steel outdoor: /products/outdoor-kitchen-modules-and-parts/50471446.txt
+- GRILLSKÄR door/side units/back, black/stainless steel outdoor: /products/outdoor-kitchen-modules-and-parts/10471448.txt
+- GRILLSKÄR back panel for outdoor kitchen, black: /products/outdoor-kitchen-modules-and-parts/10523169.txt
+- BÅTSKÄR shelf unit for sink, outdoor/dark gray: /products/outdoor-kitchen-modules-and-parts/50553376.txt
+- BÅTSKÄR open kitchen unit, outdoor/dark gray: /products/outdoor-kitchen-modules-and-parts/40553391.txt
+- BÅTSKÄR closed kitchen unit, outdoor/dark gray: /products/outdoor-kitchen-modules-and-parts/00553388.txt
+- BÅTSKÄR bar table, outdoor/dark gray: /products/outdoor-kitchen-modules-and-parts/30553396.txt
+- BÅTSKÄR add-on unit with shelves, outdoor/dark gray: /products/outdoor-kitchen-modules-and-parts/70553399.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

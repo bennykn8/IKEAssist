@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: UTSÅDD play tunnel for cat, white/orange
+SKU: 20572121
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/utsadd-play-tunnel-for-cat-white-orange-20572121/
+Category: Cats
+Description: In this play tunnel your cat can do what they love most – hunt and hide. The ball stimulates both curiosity and hunting instincts – and once you've finished playing, the tunnel can be folded flat agai...
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100% polyester (min. 90% recycled), Metal fitting: Steel, Filling: 100 % polyester - hollow fiber (100% recycled)
+Features: For cats. | Only for indoor use. | Not intended for use by children.
+Care: Hand wash warm water. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/utsadd-play-tunnel-for-cat-white-orange__1227215_pe915583_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

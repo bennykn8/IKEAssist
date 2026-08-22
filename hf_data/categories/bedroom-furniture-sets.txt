@@ -1,0 +1,66 @@
+# @CATEGORY
+Name: Bedroom furniture sets
+ProductCount: 44
+
+# @FILTERS
+PriceRange: $298.98 - $1023.98
+Materials: Bed slats: Layer-glued wood veneer, Adhesive resin as coating, Bedside: Particleboard, Fiberboard, Oak veneer, Stain, Clear acrylic lacquer, Printed and embossed acrylic paint, Paper, Plastic edging, Bedside: Particleboard, Fiberboard, Printed and embossed acrylic paint, Paper, Plastic edging, Bottom panel/ Panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Oak veneer, Clear acrylic lacquer, Paper foil, Oak veneer, Paper edging, Center support beam: Galvanized steel, Drawer bottom: Fiberboard, Paper foil, Fabric/ Fabric: 80 % cotton, 20 % linen, Head/foot board/ Bedside/ Midbeam/ Bed slats/ Support rail/ Leg frame/ Leg/ Drawer front/ Drawer side/ Drawer back/ Lid/ Rail: Solid pine, Head/footboard: Particleboard, Fiberboard, Fiberboard, Printed and embossed acrylic paint, Plastic edging, Honeycomb structure paper filling (100% recycled), Head/footboard: Particleboard, Fiberboard, Honeycomb structure paper filling (min. 70% recycled), Oak veneer, Stain, Clear acrylic lacquer, Printed and embossed acrylic paint, Plastic edging
+Brand: IKEA
+
+# @ITEMS
+- TONSTAD bedroom furniture, set of 3, off-white, Full: /products/bedroom-furniture-sets/79606765.txt
+- TONSTAD bedroom furniture, set of 3, off-white, King: /products/bedroom-furniture-sets/59606766.txt
+- TONSTAD bedroom furniture, set of 3, off-white, Queen: /products/bedroom-furniture-sets/39606767.txt
+- TONSTAD bedroom furniture, set of 3, oak veneer, Full: /products/bedroom-furniture-sets/49606757.txt
+- TONSTAD bedroom furniture, set of 3, oak veneer, King: /products/bedroom-furniture-sets/29606758.txt
+- TONSTAD bedroom furniture, set of 3, oak veneer, Queen: /products/bedroom-furniture-sets/09606759.txt
+- TONSTAD bedroom furniture, set of 3, incl bed storage/off-white, Full: /products/bedroom-furniture-sets/49577590.txt
+- TONSTAD bedroom furniture, set of 3, incl bed storage/off-white, King: /products/bedroom-furniture-sets/29577591.txt
+- TONSTAD bedroom furniture, set of 3, incl bed storage/off-white, Queen: /products/bedroom-furniture-sets/09577592.txt
+- TONSTAD bedroom furniture, set of 3, incl bed storage/oak veneer, Full: /products/bedroom-furniture-sets/89577550.txt
+- TONSTAD bedroom furniture, set of 3, incl bed storage/oak veneer, Queen: /products/bedroom-furniture-sets/49577547.txt
+- TONSTAD bedroom furniture, set of 3, incl bed storage/oak veneer, King: /products/bedroom-furniture-sets/29577553.txt
+- TONSTAD bedroom furniture, set of 3, incl bed storage/brown stained oak veneer, King: /products/bedroom-furniture-sets/89577569.txt
+- TONSTAD bedroom furniture, set of 3, incl bed storage/brown stained oak veneer, Queen: /products/bedroom-furniture-sets/49577571.txt
+- TONSTAD bedroom furniture, set of 3, incl bed storage/brown stained oak veneer, Full: /products/bedroom-furniture-sets/09577568.txt
+- TONSTAD bedroom furniture, set of 3, brown stained oak veneer, Full: /products/bedroom-furniture-sets/59606747.txt
+- TONSTAD bedroom furniture, set of 3, brown stained oak veneer, King: /products/bedroom-furniture-sets/39606748.txt
+- TONSTAD bedroom furniture, set of 3, brown stained oak veneer, Queen: /products/bedroom-furniture-sets/19606749.txt
+- STJÄRNÖ / GRÅFJÄLLET bedroom furniture, set of 3, white, King: /products/bedroom-furniture-sets/89577625.txt
+- STJÄRNÖ / GRÅFJÄLLET bedroom furniture, set of 3, white, Full: /products/bedroom-furniture-sets/49577632.txt
+- STJÄRNÖ / GRÅFJÄLLET bedroom furniture, set of 3, white, Queen: /products/bedroom-furniture-sets/19577624.txt
+- STJÄRNÖ / GRÅFJÄLLET bedroom furniture, set of 3, anthracite, Full: /products/bedroom-furniture-sets/69577645.txt
+- STJÄRNÖ / GRÅFJÄLLET bedroom furniture, set of 3, anthracite, King: /products/bedroom-furniture-sets/49577646.txt
+- STJÄRNÖ / GRÅFJÄLLET bedroom furniture, set of 3, anthracite, Queen: /products/bedroom-furniture-sets/09577648.txt
+- MALM / STORKLINTA bedroom furniture, set of 4, white, King: /products/bedroom-furniture-sets/99577658.txt
+- MALM / STORKLINTA bedroom furniture, set of 4, white, Full: /products/bedroom-furniture-sets/79577659.txt
+- MALM / STORKLINTA bedroom furniture, set of 4, white, Queen: /products/bedroom-furniture-sets/19577657.txt
+- MALM / STORKLINTA bedroom furniture, set of: /products/bedroom-furniture-sets/69577674.txt
+- MALM / STORKLINTA bedroom furniture, set of: /products/bedroom-furniture-sets/39577675.txt
+- MALM / STORKLINTA bedroom furniture, set of: /products/bedroom-furniture-sets/19577676.txt
+- MALM / STORKLINTA bedroom furniture, set of 4, oak veneer/oak effect, King: /products/bedroom-furniture-sets/89577668.txt
+- MALM / STORKLINTA bedroom furniture, set of 4, oak veneer/oak effect, Queen: /products/bedroom-furniture-sets/69577669.txt
+- MALM / STORKLINTA bedroom furniture, set of 4, oak veneer/oak effect, Full: /products/bedroom-furniture-sets/09577667.txt
+- MALM / STORKLINTA bedroom furniture, set of 2, white, Queen: /products/bedroom-furniture-sets/99577663.txt
+- MALM / STORKLINTA bedroom furniture, set of 2, white, Full: /products/bedroom-furniture-sets/59577660.txt
+- MALM / STORKLINTA bedroom furniture, set of 2, white, King: /products/bedroom-furniture-sets/19577662.txt
+- MALM / STORKLINTA bedroom furniture, set of: /products/bedroom-furniture-sets/89577673.txt
+- MALM / STORKLINTA bedroom furniture, set of: /products/bedroom-furniture-sets/29577671.txt
+- MALM / STORKLINTA bedroom furniture, set of: /products/bedroom-furniture-sets/09577672.txt
+- MALM / STORKLINTA bedroom furniture, set of 2, oak veneer/oak effect, Full: /products/bedroom-furniture-sets/79577664.txt
+- MALM / STORKLINTA bedroom furniture, set of 2, oak veneer/oak effect, King: /products/bedroom-furniture-sets/49577665.txt
+- MALM / STORKLINTA bedroom furniture, set of 2, oak veneer/oak effect, Queen: /products/bedroom-furniture-sets/29577666.txt
+- GLAMBERGET bedroom furniture, set of 3, pine/Katorp beige, Twin/Full: /products/bedroom-furniture-sets/99576338.txt
+- GLAMBERGET bedroom furniture, set of 2, pine/Katorp beige, Twin/Full: /products/bedroom-furniture-sets/99576362.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: ÅKERVINDEFLY chair pad, beige
+SKU: 30560207
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/akervindefly-chair-pad-beige-30560207/
+Category: Chair pads & seat cushions
+Description: , 15/14x15x2" A top-pick for long hours of sitting! This beige chair cushion is made with supporting memory foam and has a non-slip backing to keep it in place. With all that use, it’s good to know th...
+
+# @OFFER
+Price: 14.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100% polyester (min. 90% recycled), Filling: Polyurethane memory foam 3.1 lb/cu.ft, Back fabric: 100 % polypropylene
+Care: Cushion cover: Machine wash warm, normal cycle. | Cushion cover: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/akervindefly-chair-pad-beige__1159544_pe888540_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

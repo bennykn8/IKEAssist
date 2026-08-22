@@ -1,0 +1,26 @@
+# @CATEGORY
+Name: Room dividers
+ProductCount: 4
+
+# @FILTERS
+PriceRange: $79.99 - $199.99
+Materials: Fabric/ Fabric: 100% polyester (min. 90% recycled), Fabric/ Fabric: 80 % cotton, 20 % linen, Filling material: Polystyrene, Frame/ Hinge: Steel, Epoxy/polyester powder coating, Frame: Solid pine, Adhesive, Frame: Steel, Steel, Epoxy/polyester powder coating, Hinge: Steel, Polyester powder coating, Hinges: Steel, Epoxy/polyester powder coating, Main parts/ Supporting rail: Rattan, Rattan, Clear acrylic lacquer, Main parts: Solid pine, Stain, Clear acrylic lacquer
+Brand: IKEA
+
+# @ITEMS
+- TOLKNING room divider, handmade rattan: /products/room-dividers/60512663.txt
+- RISÖR room divider, white/black: /products/room-dividers/70182191.txt
+- GRÅFJÄLLET room divider, anthracite: /products/room-dividers/10570226.txt
+- GLAMBERGET room divider, pine/Katorp beige: /products/room-dividers/90564735.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

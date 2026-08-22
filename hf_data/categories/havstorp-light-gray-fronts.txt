@@ -1,0 +1,59 @@
+# @CATEGORY
+Name: HAVSTORP light gray fronts
+ProductCount: 37
+
+# @FILTERS
+PriceRange: $15.00 - $82.00
+Materials: Fiberboard, Acrylic paint
+Brand: IKEA
+
+# @ITEMS
+- HAVSTORP drawer front, light gray: /products/havstorp-light-gray-fronts/90587826.txt
+- HAVSTORP drawer front, light gray: /products/havstorp-light-gray-fronts/80587822.txt
+- HAVSTORP drawer front, light gray: /products/havstorp-light-gray-fronts/80587817.txt
+- HAVSTORP drawer front, light gray: /products/havstorp-light-gray-fronts/70587827.txt
+- HAVSTORP drawer front, light gray: /products/havstorp-light-gray-fronts/70587813.txt
+- HAVSTORP drawer front, light gray: /products/havstorp-light-gray-fronts/60587823.txt
+- HAVSTORP drawer front, light gray: /products/havstorp-light-gray-fronts/60587818.txt
+- HAVSTORP drawer front, light gray: /products/havstorp-light-gray-fronts/50587814.txt
+- HAVSTORP drawer front, light gray: /products/havstorp-light-gray-fronts/40587824.txt
+- HAVSTORP drawer front, light gray: /products/havstorp-light-gray-fronts/40587819.txt
+- HAVSTORP drawer front, light gray: /products/havstorp-light-gray-fronts/20587820.txt
+- HAVSTORP drawer front, light gray: /products/havstorp-light-gray-fronts/20587815.txt
+- HAVSTORP drawer front, light gray: /products/havstorp-light-gray-fronts/10587825.txt
+- HAVSTORP drawer front, light gray: /products/havstorp-light-gray-fronts/00587821.txt
+- HAVSTORP drawer front, light gray: /products/havstorp-light-gray-fronts/00587816.txt
+- HAVSTORP door, light gray: /products/havstorp-light-gray-fronts/90587807.txt
+- HAVSTORP door, light gray: /products/havstorp-light-gray-fronts/90587794.txt
+- HAVSTORP door, light gray: /products/havstorp-light-gray-fronts/90587789.txt
+- HAVSTORP door, light gray: /products/havstorp-light-gray-fronts/80587803.txt
+- HAVSTORP door, light gray: /products/havstorp-light-gray-fronts/80587799.txt
+- HAVSTORP door, light gray: /products/havstorp-light-gray-fronts/70587808.txt
+- HAVSTORP door, light gray: /products/havstorp-light-gray-fronts/70587790.txt
+- HAVSTORP door, light gray: /products/havstorp-light-gray-fronts/60587804.txt
+- HAVSTORP door, light gray: /products/havstorp-light-gray-fronts/50587809.txt
+- HAVSTORP door, light gray: /products/havstorp-light-gray-fronts/50587791.txt
+- HAVSTORP door, light gray: /products/havstorp-light-gray-fronts/40587800.txt
+- HAVSTORP door, light gray: /products/havstorp-light-gray-fronts/40587796.txt
+- HAVSTORP door, light gray: /products/havstorp-light-gray-fronts/30587810.txt
+- HAVSTORP door, light gray: /products/havstorp-light-gray-fronts/30587805.txt
+- HAVSTORP door, light gray: /products/havstorp-light-gray-fronts/30587792.txt
+- HAVSTORP door, light gray: /products/havstorp-light-gray-fronts/20587801.txt
+- HAVSTORP door, light gray: /products/havstorp-light-gray-fronts/20587797.txt
+- HAVSTORP door, light gray: /products/havstorp-light-gray-fronts/10587806.txt
+- HAVSTORP door, light gray: /products/havstorp-light-gray-fronts/10587793.txt
+- HAVSTORP door, light gray: /products/havstorp-light-gray-fronts/00587802.txt
+- HAVSTORP door, light gray: /products/havstorp-light-gray-fronts/00587798.txt
+- HAVSTORP 2-p door/corner base cabinet set, light gray: /products/havstorp-light-gray-fronts/10587811.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

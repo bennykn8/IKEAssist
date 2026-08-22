@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: TAVELÅN tray
+SKU: 50465756
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tavelan-tray-50465756/
+Category: Bathroom countertop & drawer organizers
+Description: With these decorative trays you make room for a lot, even in small spaces. Perfect for everything from cutlery and spices to hairbrushes and nail files. If you stack them, they’ll take up even less sp...
+
+# @OFFER
+Price: 13.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Bamboo, Clear acrylic lacquer
+Dimensions: Includes: 1 tray (width 11⅞", depth 5¾", height 3⅜") and 1 tray (width 5⅛", depth 5¾", height 3⅜").
+Features: Dimensioned for ENHET wall frames or other cabinets with a depth of 5 ¾ or 11 ⅞ ".
+Care: Wipe clean with a mild soapy solution. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tavelan-tray__0805594_pe769613_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

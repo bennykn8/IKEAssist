@@ -1,0 +1,35 @@
+# @CATEGORY
+Name: Bulletin boards, peg boards, pin boards & more
+ProductCount: 13
+
+# @FILTERS
+PriceRange: $8.99 - $43.99
+Materials: Clip/ Hook: Reinforced polyamide, Frame/ Shelf: Steel, Powder coating, Front panel: Cork, Handle: Polystyrene, Main parts: Fiberboard, Acrylic paint, Main parts: Steel, Powder coating, Metal parts: Steel, Powder coating, Panel: Particleboard, Steel, Epoxy/polyester powder coating, Steel, Galvanized, Powder coating
+Brand: IKEA
+
+# @ITEMS
+- SVENSÅS Memo board, white: /products/bulletin-boards-peg-boards-pin-boards-and-more/00440363.txt
+- SVENSÅS Memo board, black: /products/bulletin-boards-peg-boards-pin-boards-and-more/20440362.txt
+- SÖSDALA memo board with clips, black, 23 ½x29 ½": /products/bulletin-boards-peg-boards-pin-boards-and-more/80423388.txt
+- SNICKRA 8-piece storage board set, gray-green: /products/bulletin-boards-peg-boards-pin-boards-and-more/40518246.txt
+- SKÅDIS pegboard combination, multicolor: /products/bulletin-boards-peg-boards-pin-boards-and-more/89590617.txt
+- SKÅDIS pegboard combination, multicolor, 14 ¼x: /products/bulletin-boards-peg-boards-pin-boards-and-more/69590604.txt
+- SKÅDIS pegboard combination, multicolor: /products/bulletin-boards-peg-boards-pin-boards-and-more/49590619.txt
+- SKÅDIS pegboard combination, black, 14 ¼x: /products/bulletin-boards-peg-boards-pin-boards-and-more/79607717.txt
+- SKÅDIS pegboard combination, black, 14 ¼x: /products/bulletin-boards-peg-boards-pin-boards-and-more/49607714.txt
+- SKÅDIS pegboard, beige/pink, 14 ¼x: /products/bulletin-boards-peg-boards-pin-boards-and-more/80607151.txt
+- SKÅDIS pegboard, beige/pink: /products/bulletin-boards-peg-boards-pin-boards-and-more/40607148.txt
+- SKÅDIS pegboard, beige/pink: /products/bulletin-boards-peg-boards-pin-boards-and-more/00605995.txt
+- FLÖNSA memo board with pins, cork, 20 ½x: /products/bulletin-boards-peg-boards-pin-boards-and-more/60532468.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

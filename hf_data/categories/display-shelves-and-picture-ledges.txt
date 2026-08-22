@@ -1,0 +1,42 @@
+# @CATEGORY
+Name: Display shelves & picture ledges
+ProductCount: 20
+
+# @FILTERS
+PriceRange: $1.49 - $34.99
+Materials: Acrylic, Back panel: Fiberboard, Paint, Bamboo, Clear lacquer, Fiberboard, Paper foil, Screw: Steel, Galvanized, Shelf/ Shelf support/ Rail/ Hook: Steel, Powder coating, Shelf: Solid pine, Adhesive, Solid oak, Tinted lacquer, Solid pine, Steel
+Brand: IKEA
+
+# @ITEMS
+- SKOGSMOSAIK display shelf, pine/green: /products/display-shelves-and-picture-ledges/20593010.txt
+- NORDHÄGG picture ledge, pine: /products/display-shelves-and-picture-ledges/60601701.txt
+- MOSSLANDA picture ledge, white stained pine effect: /products/display-shelves-and-picture-ledges/10497815.txt
+- MOSSLANDA picture ledge, white: /products/display-shelves-and-picture-ledges/90292103.txt
+- MOSSLANDA Picture ledge, white, 21 ¾": /products/display-shelves-and-picture-ledges/40291766.txt
+- MOSSLANDA picture ledge, walnut effect, 21 ¾": /products/display-shelves-and-picture-ledges/70586936.txt
+- MOSSLANDA picture ledge, oak effect, 21 ¾": /products/display-shelves-and-picture-ledges/80589835.txt
+- MOSSLANDA picture ledge, oak effect: /products/display-shelves-and-picture-ledges/70586941.txt
+- MOSSLANDA picture ledge, black: /products/display-shelves-and-picture-ledges/70292104.txt
+- MOSSLANDA Picture ledge, black, 21 ¾": /products/display-shelves-and-picture-ledges/20291767.txt
+- MELLÖSA picture ledge, transparent: /products/display-shelves-and-picture-ledges/60446239.txt
+- MALMBÄCK Display shelf, white: /products/display-shelves-and-picture-ledges/20446236.txt
+- MALMBÄCK Display shelf, dark gray: /products/display-shelves-and-picture-ledges/40446339.txt
+- MÅLERÅS picture ledge, bamboo: /products/display-shelves-and-picture-ledges/40511358.txt
+- MÅLERÅS Picture ledge, bamboo: /products/display-shelves-and-picture-ledges/00446237.txt
+- LINDÅSEN display shelf, anthracite: /products/display-shelves-and-picture-ledges/10515800.txt
+- LINDÅSEN display shelf, anthracite: /products/display-shelves-and-picture-ledges/00515805.txt
+- HAVREKROSS wll orgnzr/hks, light grey-beige: /products/display-shelves-and-picture-ledges/00569412.txt
+- HÄSTVISKARE wll orgnzr/hks, oak, 16 ½x6x4 ¼": /products/display-shelves-and-picture-ledges/30555296.txt
+- ÅKERBRUK wll orgnzr/hks, 16 ½x4 ¾x10 ¼": /products/display-shelves-and-picture-ledges/80554077.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

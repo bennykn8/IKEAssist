@@ -1,0 +1,33 @@
+# @CATEGORY
+Name: Kids desks
+ProductCount: 11
+
+# @FILTERS
+PriceRange: $35.00 - $229.99
+Materials: Adjustable shelf: Particleboard, Fiberboard, Printed acrylic paint, ABS plastic, Back panel: Fiberboard, Foil, Back panel: Steel, Epoxy/polyester powder coating, Base: Solid pine, Tinted clear acrylic lacquer, Body: Steel, Epoxy/polyester powder coating, Drawer front: Fiberboard, Acrylic paint, Drawer support: Solid pine, Front rail/ Top back rail/ Top side rail: Fiberboard, Acrylic paint, Acrylic paint, Leg: Solid pine, Stain, Clear acrylic lacquer, Main parts/ Shelf: Solid birch, Clear acrylic lacquer, Clear acrylic lacquer
+Brand: IKEA
+
+# @ITEMS
+- SMYGA desk with mirror, light gray: /products/kids-desks/59444095.txt
+- SMYGA desk, light gray: /products/kids-desks/40480781.txt
+- SMÅGÖRA desk, white: /products/kids-desks/90489883.txt
+- PÅHL desk with add-on unit, white/turquoise: /products/kids-desks/49437854.txt
+- PÅHL desk with add-on unit, white: /products/kids-desks/49529052.txt
+- PÅHL desk, white/turquoise: /products/kids-desks/89437475.txt
+- PÅHL desk, white: /products/kids-desks/49128945.txt
+- PÅHL add-on unit, white: /products/kids-desks/10519501.txt
+- LÄRANDE desk with pull-out storage unit, white: /products/kids-desks/00492795.txt
+- FLISAT Children's desk, adjustable: /products/kids-desks/20273594.txt
+- BERGLÄRKA desk top and shelf, birch: /products/kids-desks/30579966.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

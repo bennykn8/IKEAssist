@@ -1,0 +1,59 @@
+# @CATEGORY
+Name: TISTORP brown walnut effect fronts
+ProductCount: 37
+
+# @FILTERS
+PriceRange: $18.00 - $110.00
+Materials: Particleboard, Plastic foil, Plastic edging
+Brand: IKEA
+
+# @ITEMS
+- TISTORP drawer front, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/90558555.txt
+- TISTORP drawer front, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/80558551.txt
+- TISTORP drawer front, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/80558546.txt
+- TISTORP drawer front, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/70558556.txt
+- TISTORP drawer front, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/60558552.txt
+- TISTORP drawer front, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/60558547.txt
+- TISTORP drawer front, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/50558557.txt
+- TISTORP drawer front, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/40558553.txt
+- TISTORP drawer front, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/40558548.txt
+- TISTORP drawer front, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/30558558.txt
+- TISTORP drawer front, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/30558544.txt
+- TISTORP drawer front, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/20558554.txt
+- TISTORP drawer front, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/20558549.txt
+- TISTORP drawer front, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/00558550.txt
+- TISTORP drawer front, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/00558545.txt
+- TISTORP door, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/90558541.txt
+- TISTORP door, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/90558536.txt
+- TISTORP door, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/90558522.txt
+- TISTORP door, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/80558532.txt
+- TISTORP door, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/80558527.txt
+- TISTORP door, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/70558542.txt
+- TISTORP door, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/70558537.txt
+- TISTORP door, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/70558523.txt
+- TISTORP door, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/60558533.txt
+- TISTORP door, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/60558528.txt
+- TISTORP door, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/50558538.txt
+- TISTORP door, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/50558524.txt
+- TISTORP door, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/40558534.txt
+- TISTORP door, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/40558529.txt
+- TISTORP door, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/30558539.txt
+- TISTORP door, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/20558530.txt
+- TISTORP door, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/20558525.txt
+- TISTORP door, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/10558540.txt
+- TISTORP door, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/10558535.txt
+- TISTORP door, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/00558531.txt
+- TISTORP door, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/00558526.txt
+- TISTORP 2-p door/corner base cabinet set, brown walnut effect: /products/tistorp-brown-walnut-effect-fronts/50558543.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,64 @@
+# @CATEGORY
+Name: Soft toys
+ProductCount: 42
+
+# @FILTERS
+PriceRange: $1.99 - $29.99
+Materials: Fabric: 100 % polyester, Fabric: 100 % polyester (100% recycled), Fabric: 100 %polyester, Fabric: 100% polyester (min. 90% recycled), Filling: 100 % polyester - hollow fiber (100% recycled), Filling: 100% polyester - hollow fiber, Filling: 100% polyester - hollow fiber (100% recycled)
+Brand: IKEA
+
+# @ITEMS
+- SNUTTIG soft toy, white polar bear, 11 ½": /products/soft-toys/90578539.txt
+- SNUTTIG soft toy, polar bear/white: /products/soft-toys/30298103.txt
+- SKOGSDUVA soft toy, set of 2, otter with baby/brown beige, 17 ¾": /products/soft-toys/10576902.txt
+- SKOGSDUVA soft toy, mini-bumblebee/black yellow, 3 ¼": /products/soft-toys/80576927.txt
+- SKOGSDUVA soft toy, lynx/orange brown, 24 ¾": /products/soft-toys/00578671.txt
+- SKOGSDUVA soft toy, hedgehog/beige, 8 ¼": /products/soft-toys/20576906.txt
+- SKOGSDUVA soft toy, hand puppet/snowy owl white, 9 ¾": /products/soft-toys/10576898.txt
+- SKOGSDUVA soft toy, bumble bee/black yellow, 8 ¼": /products/soft-toys/40576910.txt
+- SKOGSDUVA soft toy, arctic fox/white, 23 ½": /products/soft-toys/00576894.txt
+- LIVLIG soft toy, dog/siberian husky, 10 ¼": /products/soft-toys/50414272.txt
+- LIVLIG soft toy, dog/siberian husky: /products/soft-toys/10297996.txt
+- LILLEPLUTT soft toy, cat gray/white: /products/soft-toys/60260453.txt
+- KUSTFYR soft toy, cat black, 17 ¼": /products/soft-toys/40599582.txt
+- KRAMIG soft toy, white/black: /products/soft-toys/90221318.txt
+- KNORRIG soft toy, pig/pink: /products/soft-toys/20260450.txt
+- JÄTTESTOR soft toy, elephant/gray: /products/soft-toys/30373593.txt
+- JÄTTELIK soft toy, dinosaur/dinosaur/stegosaurus: /products/soft-toys/40471220.txt
+- JÄTTELIK soft toy, dinosaur/dinosaur/brontosaurus: /products/soft-toys/50471192.txt
+- GOSIG GOLDEN soft toy, dog/golden retriever, 15 ¾": /products/soft-toys/80132799.txt
+- GOSIG GOLDEN soft toy, dog/golden retriever, 27 ½": /products/soft-toys/70132790.txt
+- FABLER BJÖRN soft toy, beige, 8 ¼": /products/soft-toys/80141398.txt
+- DVÄRGHARE soft toy, bunny/beige, 8 ¼": /products/soft-toys/60597068.txt
+- DJUNGELSKOG soft toy, panda: /products/soft-toys/50402844.txt
+- DJUNGELSKOG soft toy, orangutan: /products/soft-toys/10402841.txt
+- DJUNGELSKOG soft toy, lion: /products/soft-toys/30402835.txt
+- DJUNGELSKOG soft toy, brown bear: /products/soft-toys/70578535.txt
+- DJUNGELSKOG soft toy, brown bear: /products/soft-toys/00402832.txt
+- DJUNGELSKOG soft toy, assorted designs: /products/soft-toys/80402847.txt
+- DJUNGELSKOG glove puppet, snake/burmese python: /products/soft-toys/20402850.txt
+- BLÅVINGAD soft toy, turtle/green: /products/soft-toys/10532041.txt
+- BLÅVINGAD soft toy, octopus/yellow: /products/soft-toys/70532043.txt
+- BLÅVINGAD soft toy, blue whale: /products/soft-toys/50532039.txt
+- BLÅVINGAD 5-piece soft toy set, ocean animals/mixed colors: /products/soft-toys/20532045.txt
+- BLÅHAJ soft toy, shark, 39 ¼": /products/soft-toys/90373590.txt
+- BLÅHAJ soft toy, baby shark, 21 ¾": /products/soft-toys/70540665.txt
+- AFTONSPARV soft toy with astronaut suit, rabbit: /products/soft-toys/10551534.txt
+- AFTONSPARV soft toy with astronaut suit, cat: /products/soft-toys/00551539.txt
+- AFTONSPARV soft toy with astronaut suit, bear: /products/soft-toys/70551545.txt
+- AFTONSPARV soft toy, spaceship/multicolor: /products/soft-toys/20551637.txt
+- AFTONSPARV soft toy, mini-alien/green: /products/soft-toys/70562431.txt
+- AFTONSPARV soft toy, Earth/multicolor: /products/soft-toys/90562425.txt
+- AFTONSPARV soft toy, alien/green: /products/soft-toys/80551559.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

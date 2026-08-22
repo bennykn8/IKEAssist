@@ -1,0 +1,48 @@
+# @CATEGORY
+Name: Wi-Fi speakers
+ProductCount: 26
+
+# @FILTERS
+PriceRange: $12.99 - $359.98
+Materials: ABS plastic, Base/ Control panel: ABS plastic, Base/ Front frame/ Button: ABS plastic, Bracket/ Base/ Tube: Steel, Polyester powder coating, Clamp: ABS plastic, Cord: 100 % polyester, Fabric cover: 100 %polyester, Fabric: 100 %polyester, Foot: Silicone rubber, Housing: PVC
+Brand: IKEA
+
+# @ITEMS
+- SYMFONISK wall bracket, adjustable/white: /products/wi-fi-speakers/20494067.txt
+- SYMFONISK wall bracket, adjustable/black: /products/wi-fi-speakers/60508717.txt
+- SYMFONISK sound remote, gen: /products/wi-fi-speakers/30527312.txt
+- SYMFONISK Sonos WiFi bookshelf speaker, white smart/gen: /products/wi-fi-speakers/40506597.txt
+- SYMFONISK Sonos WiFi bookshelf speaker, black smart/gen: /products/wi-fi-speakers/20506584.txt
+- SYMFONISK Sonos Wi-Fi bookshelf speakers, white/set of 2 gen: /products/wi-fi-speakers/39513810.txt
+- SYMFONISK Sonos Wi-Fi bookshelf speakers, black/set of 2 gen: /products/wi-fi-speakers/09513562.txt
+- SYMFONISK Sonos speaker lamp w WiFi, white/black: /products/wi-fi-speakers/39482724.txt
+- SYMFONISK Sonos speaker lamp w WiFi, black: /products/wi-fi-speakers/99478291.txt
+- SYMFONISK Sonos speaker lamp w bamboo shade: /products/wi-fi-speakers/69530549.txt
+- SYMFONISK Sonos speaker lamp, glass shade, white: /products/wi-fi-speakers/79478292.txt
+- SYMFONISK Sonos speaker lamp, glass shade, white/black: /products/wi-fi-speakers/89482726.txt
+- SYMFONISK Sonos speaker lamp, glass shade, black/white: /products/wi-fi-speakers/19482683.txt
+- SYMFONISK Sonos speaker lamp, glass shade, black: /products/wi-fi-speakers/19478290.txt
+- SYMFONISK Sonos speaker lamp base with WiFi, white/smart: /products/wi-fi-speakers/30487311.txt
+- SYMFONISK Sonos speaker lamp base with WiFi, black/smart: /products/wi-fi-speakers/40487301.txt
+- SYMFONISK shade for speaker lamp base, bamboo: /products/wi-fi-speakers/60546012.txt
+- SYMFONISK power supply cord, textile/white: /products/wi-fi-speakers/10492337.txt
+- SYMFONISK power supply cord, textile/black: /products/wi-fi-speakers/90492324.txt
+- SYMFONISK picture frame w Sonos Wi-Fi speaker, white/smart: /products/wi-fi-speakers/50487329.txt
+- SYMFONISK picture frame w Sonos Wi-Fi speaker, black/smart: /products/wi-fi-speakers/40487320.txt
+- SYMFONISK floor lamp with WiFi Sonos speaker, bamboo/smart: /products/wi-fi-speakers/50528297.txt
+- SYMFONISK bookshelf speaker floor stand, white: /products/wi-fi-speakers/50501518.txt
+- SYMFONISK bookshelf speaker floor stand, black: /products/wi-fi-speakers/60494744.txt
+- SYMFONISK bookshelf Sonos speaker w stand, white/gen: /products/wi-fi-speakers/59514130.txt
+- SYMFONISK bookshelf Sonos speaker w stand, black/gen: /products/wi-fi-speakers/49514121.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,145 @@
+# @CATEGORY
+Name: Loveseats
+ProductCount: 123
+
+# @FILTERS
+PriceRange: $149.00 - $1499.00
+Materials: Armrest frame: Fiberboard, Solid wood, Plywood, Particleboard, Armrest frame: Particleboard, Solid wood, Polyurethane foam 1.2 lb/cu.ft., Polyurethane foam 1.5 lb/cu.ft., Laminated veneer lumber, Fiberboard, Armrest frame: Plywood, Solid pine, Polyurethane foam 1.5 lb/cu.ft., Particleboard, Fiberboard, Armrest: 100% polyester (min. 40% recycled), Paperboard (100% recycled), Laminated veneer lumber, Particleboard, Plywood, Polyurethane foam 1.5 lb/cu.ft., Fiberboard, Armrest: Particleboard, Plywood, Polyurethane foam 1.5 lb/cu.ft., Solid wood, Fiberboard, Armrest: Plywood, Polyurethane foam 1.2 lb/cu.ft., 100% recycled solid cardboard, Fiberboard, Fiberboard, Back and seat frame: Fiberboard, Plywood, Solid wood, Particleboard, Back and seat frame: Particleboard, Plywood, Fiberboard, Solid wood, Polyurethane foam 1.2 lb/cu.ft., Back and seat frame: Particleboard, Plywood, Solid wood, Polyurethane foam 1.2 lb/cu.ft., Laminated veneer lumber, Fiberboard, Back and seat frame: Plywood, Solid pine, Particleboard, Fiberboard
+Brand: IKEA
+
+# @ITEMS
+- VISKAFORS loveseat, Lejde light beige/brown: /products/loveseats/69443260.txt
+- VISKAFORS loveseat, Lejde light beige/birch: /products/loveseats/79443207.txt
+- VISKAFORS loveseat, Lejde gray/green/brown: /products/loveseats/59443265.txt
+- VISKAFORS loveseat, Lejde/gray/green birch: /products/loveseats/59443213.txt
+- VISKAFORS loveseat, Lejde anthracite/brown: /products/loveseats/69443255.txt
+- VISKAFORS loveseat, Lejde anthracite/birch: /products/loveseats/09443215.txt
+- VISKAFORS loveseat, Högalid brown/brown: /products/loveseats/79443250.txt
+- VISKAFORS loveseat, Högalid brown/birch: /products/loveseats/79443245.txt
+- VINLIDEN loveseat, Hillared anthracite: /products/loveseats/19304638.txt
+- VINLIDEN loveseat, Hakebo dark gray: /products/loveseats/69304612.txt
+- VINLIDEN loveseat, Hakebo beige: /products/loveseats/69304607.txt
+- UPPLAND loveseat, Kilanda light beige: /products/loveseats/99442476.txt
+- UPPLAND loveseat, Kilanda dark blue: /products/loveseats/49442474.txt
+- UPPLAND loveseat, Kelinge rust: /products/loveseats/89499963.txt
+- UPPLAND loveseat, Kelinge gray-turquoise: /products/loveseats/09499962.txt
+- UPPLAND loveseat, Kelinge beige: /products/loveseats/29499961.txt
+- UPPLAND loveseat, Kelinge anthracite: /products/loveseats/49499960.txt
+- UPPLAND loveseat, Karlshov gray-beige: /products/loveseats/79488615.txt
+- UPPLAND loveseat, Hillared dark blue: /products/loveseats/69499959.txt
+- UPPLAND loveseat, Hillared beige: /products/loveseats/89499958.txt
+- UPPLAND loveseat, Hillared anthracite: /products/loveseats/09499957.txt
+- UPPLAND loveseat, Hakebo gray/green: /products/loveseats/89442472.txt
+- UPPLAND loveseat, Hakebo dark gray: /products/loveseats/29442470.txt
+- UPPLAND loveseat, Blekinge white: /products/loveseats/69384114.txt
+- STOCKHOLM 2025 loveseat, Djurmo gray/white: /products/loveseats/40586122.txt
+- STOCKHOLM 2025 loveseat, Alhamn dark turquoise: /products/loveseats/10586114.txt
+- STOCKHOLM 2025 loveseat, Alhamn dark brown: /products/loveseats/30591751.txt
+- STOCKHOLM 2025 loveseat, Alhamn beige: /products/loveseats/40586117.txt
+- SMEDSTORP loveseat, Viarp/beige/brown oak: /products/loveseats/09442428.txt
+- SMEDSTORP loveseat, Viarp beige/brown/black: /products/loveseats/29442427.txt
+- SMEDSTORP loveseat, Lejde/red/brown oak: /products/loveseats/49442426.txt
+- SMEDSTORP loveseat, Lejde red/brown/black: /products/loveseats/69442425.txt
+- SLATORP loveseat, Vissle yellow-green: /products/loveseats/50594372.txt
+- SLATORP loveseat, Hakebo yellow-brown: /products/loveseats/60594395.txt
+- SLATORP loveseat, Hakebo dark gray: /products/loveseats/40594382.txt
+- ROCKSJÖN loveseat, Klovsta gray/white: /products/loveseats/79514695.txt
+- ROCKSJÖN loveseat, Kilanda light beige: /products/loveseats/99508863.txt
+- ROCKSJÖN loveseat, Blekinge white: /products/loveseats/39508856.txt
+- PÄRUP loveseat, Vissle yellow-brown: /products/loveseats/39514211.txt
+- PÄRUP loveseat, Vissle gray: /products/loveseats/19389166.txt
+- PÄRUP loveseat, Gunnared dark gray: /products/loveseats/59389169.txt
+- PÄRUP loveseat, Gunnared beige: /products/loveseats/29389175.txt
+- MORABO loveseat, Gunnared light green/wood: /products/loveseats/49318337.txt
+- MORABO loveseat, Gunnared light green/metal: /products/loveseats/69318336.txt
+- MORABO loveseat, Gunnared dark gray/wood: /products/loveseats/29318319.txt
+- MORABO loveseat, Gunnared dark gray/metal: /products/loveseats/49318318.txt
+- MORABO loveseat, Grann/Bomstad gray-green/wood: /products/loveseats/29317857.txt
+- MORABO loveseat, Grann/Bomstad gray-green/metal: /products/loveseats/49317856.txt
+- MORABO loveseat, Grann/Bomstad golden brown/wood: /products/loveseats/69317756.txt
+- MORABO loveseat, Grann/Bomstad golden brown/metal: /products/loveseats/89317755.txt
+- MORABO loveseat, Grann/Bomstad black/wood: /products/loveseats/89316633.txt
+- MORABO loveseat, Grann/Bomstad black/metal: /products/loveseats/29316612.txt
+- MORABO loveseat, Djuparp dark blue/wood: /products/loveseats/59416506.txt
+- MORABO loveseat, Djuparp dark blue/metal: /products/loveseats/79416505.txt
+- LINANÄS loveseat, Vissle dark gray: /products/loveseats/00512246.txt
+- LINANÄS loveseat, Vissle beige: /products/loveseats/00512232.txt
+- LÅNGARYD loveseat, Lejde light gray/wood: /products/loveseats/49506041.txt
+- LÅNGARYD loveseat, Lejde light gray/metal: /products/loveseats/89506039.txt
+- LÅNGARYD loveseat, Lejde gray/black/wood: /products/loveseats/09506038.txt
+- LÅNGARYD loveseat, Lejde/gray/black metal: /products/loveseats/29506042.txt
+- KLIPPAN loveseat, Vissle green: /products/loveseats/09561666.txt
+- KLIPPAN loveseat, Vissle gray: /products/loveseats/09010617.txt
+- KLIPPAN loveseat, Vansbro black: /products/loveseats/09496567.txt
+- KLIPPAN loveseat, Tingetorp yellow/white/floral pattern: /products/loveseats/69589993.txt
+- KLIPPAN loveseat, Långban bright yellow: /products/loveseats/39564277.txt
+- KLIPPAN loveseat, Långban bright red: /products/loveseats/69564290.txt
+- KLIPPAN loveseat, Långban bright blue: /products/loveseats/29564287.txt
+- KLIPPAN Loveseat, Bomstad black: /products/loveseats/50399318.txt
+- KIVIK loveseat, Tresund light beige: /products/loveseats/29482828.txt
+- KIVIK loveseat, Tresund anthracite: /products/loveseats/49482827.txt
+- KIVIK loveseat, Tibbleby beige/gray: /products/loveseats/89440595.txt
+- KIVIK loveseat, Tallmyra white/black: /products/loveseats/59499691.txt
+- KIVIK loveseat, Tallmyra light green: /products/loveseats/99499689.txt
+- KIVIK loveseat, Tallmyra dark green: /products/loveseats/19499688.txt
+- KIVIK loveseat, Tallmyra blue: /products/loveseats/39499687.txt
+- KIVIK loveseat, Kelinge gray-turquoise: /products/loveseats/59443048.txt
+- KIVIK loveseat, Gunnared medium gray: /products/loveseats/79499685.txt
+- KIVIK loveseat, Gunnared light green: /products/loveseats/09499684.txt
+- KIVIK loveseat, Gunnared light brown-pink: /products/loveseats/29499683.txt
+- KIVIK loveseat, Gunnared blue: /products/loveseats/49499682.txt
+- KIVIK loveseat, Gunnared beige: /products/loveseats/69499681.txt
+- KIVIK loveseat, Grann/Bomstad black: /products/loveseats/30519519.txt
+- HYLTARP loveseat, Tallmyra white/black: /products/loveseats/89514925.txt
+- HYLTARP loveseat, Tallmyra dark green: /products/loveseats/19514919.txt
+- HYLTARP loveseat, Tallmyra blue: /products/loveseats/49514913.txt
+- HYLTARP loveseat, Kilanda pale blue: /products/loveseats/19489627.txt
+- HYLTARP loveseat, Hemmesta light beige: /products/loveseats/49514908.txt
+- HYLTARP loveseat, Hemmesta gray-green: /products/loveseats/79514902.txt
+- HYLTARP loveseat, Hallarp white: /products/loveseats/49489621.txt
+- HYLTARP loveseat, Gransel natural: /products/loveseats/69489615.txt
+- HYLTARP loveseat, Gransel gray: /products/loveseats/99514897.txt
+- HYLTARP loveseat, Gransel gray-brown: /products/loveseats/99489609.txt
+- GLOSTAD loveseat, Knisa medium blue: /products/loveseats/20488820.txt
+- GLOSTAD loveseat, Knisa dark gray: /products/loveseats/70489011.txt
+- FINNALA loveseat, Tallmyra black/gray: /products/loveseats/69318925.txt
+- FINNALA loveseat, Gunnared medium gray: /products/loveseats/39319021.txt
+- FINNALA loveseat, Gunnared beige: /products/loveseats/79319019.txt
+- FINNALA loveseat, Grann/Bomstad golden brown: /products/loveseats/49319025.txt
+- FINNALA loveseat, Grann/Bomstad black: /products/loveseats/79319024.txt
+- ESSEBODA loveseat, Tallmyra medium gray/brown: /products/loveseats/99443466.txt
+- ESSEBODA loveseat, Tallmyra/medium gray birch: /products/loveseats/89443476.txt
+- ESSEBODA loveseat, Tallmyra blue/brown: /products/loveseats/09443461.txt
+- ESSEBODA loveseat, Tallmyra/blue birch: /products/loveseats/99443471.txt
+- ESSEBODA loveseat, Knäbäck light beige/brown: /products/loveseats/79443486.txt
+- ESSEBODA loveseat, Knäbäck/light beige birch: /products/loveseats/69443496.txt
+- ESSEBODA loveseat, Knäbäck anthracite/brown: /products/loveseats/89443481.txt
+- ESSEBODA loveseat, Knäbäck/anthracite birch: /products/loveseats/79443491.txt
+- EKHOLMA loveseat, Kilanda pale blue: /products/loveseats/29579934.txt
+- EKHOLMA loveseat, Kilanda light beige: /products/loveseats/89537408.txt
+- EKHOLMA loveseat, Kilanda gray-brown: /products/loveseats/49579928.txt
+- EKHOLMA loveseat, Kilanda brown-red: /products/loveseats/29537406.txt
+- EKHOLMA loveseat, Hemmesta gray-green: /products/loveseats/59579923.txt
+- EKHOLMA loveseat, Hakebo dark gray: /products/loveseats/39537401.txt
+- EKHOLMA loveseat, Hakebo beige: /products/loveseats/59537400.txt
+- BACKSÄLEN loveseat, Katorp natural: /products/loveseats/49393181.txt
+- BACKSÄLEN loveseat, Hallarp gray: /products/loveseats/49393176.txt
+- BACKSÄLEN loveseat, Blekinge white: /products/loveseats/79393170.txt
+- ÄPPLARYD loveseat, Lejde light gray: /products/loveseats/50506224.txt
+- ÄPPLARYD loveseat, Lejde gray/black: /products/loveseats/80506232.txt
+- ÄPPLARYD loveseat, Gunnared light blue: /products/loveseats/40575072.txt
+- ÄPPLARYD loveseat, Gunnared black/gray: /products/loveseats/80575065.txt
+- ÄPPLARYD loveseat, Djuparp red-brown: /products/loveseats/60504286.txt
+- ÄPPLARYD loveseat, Djuparp dark blue: /products/loveseats/30504278.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

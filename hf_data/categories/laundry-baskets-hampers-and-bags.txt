@@ -1,0 +1,37 @@
+# @CATEGORY
+Name: Laundry baskets, hampers & bags
+ProductCount: 15
+
+# @FILTERS
+PriceRange: $5.99 - $99.99
+Materials: 100 % polyester (100% recycled), 100% polyester (min. 90% recycled), Bag/ Plastic washer: Polyethylene, Base fabric: 100% polyester (min. 90% recycled), Base fabric: Jute, Basket: Willow, Stain, Clear acrylic lacquer, Body: 100 % jute, 100 % cotton, Bottom frame/ Bracket: Steel, Powder coating, Bottom: Poplar plywood, Stain, Clear acrylic lacquer, Fabric: 100 % polyester (100% recycled)
+Brand: IKEA
+
+# @ITEMS
+- TORKIS flexible laundry basket, in/outdoor, yellow, 9 gallon: /products/laundry-baskets-hampers-and-bags/50579164.txt
+- TORKIS flexible laundry basket, in/outdoor, pink, 9 gallon: /products/laundry-baskets-hampers-and-bags/60583698.txt
+- TORKIS flexible laundry basket, in/outdoor, pale blue, 9 gallon: /products/laundry-baskets-hampers-and-bags/50583694.txt
+- TORKIS flexible laundry basket, in/outdoor, green, 9 gallon: /products/laundry-baskets-hampers-and-bags/20579165.txt
+- TOLKNING laundry basket on wheels, handmade Willow, 8 gallon: /products/laundry-baskets-hampers-and-bags/80512624.txt
+- TOLKNING laundry basket, handmade willow, 11 gallon: /products/laundry-baskets-hampers-and-bags/00512618.txt
+- SLIBB flexible laundry basket, green, 6 gallon: /products/laundry-baskets-hampers-and-bags/20567723.txt
+- SALUDING laundry basket, handmade bamboo, 13 gallon: /products/laundry-baskets-hampers-and-bags/70503583.txt
+- PURRPINGLA laundry bag, beige, 26 gallon: /products/laundry-baskets-hampers-and-bags/20614239.txt
+- NATTGIBBA laundry basket, willow/handmade, 26 gallon: /products/laundry-baskets-hampers-and-bags/30531936.txt
+- MÄVINN storage basket, stripe multicolor: /products/laundry-baskets-hampers-and-bags/90575036.txt
+- LJUNGAN laundry bag: /products/laundry-baskets-hampers-and-bags/90527880.txt
+- KLUNKA laundry bag, white/black, 16 gallon: /products/laundry-baskets-hampers-and-bags/10364373.txt
+- JÄLL laundry bag with stand, white, 13 gallon: /products/laundry-baskets-hampers-and-bags/30553607.txt
+- FYLLEN laundry basket, white, 21 gallon: /products/laundry-baskets-hampers-and-bags/60522049.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

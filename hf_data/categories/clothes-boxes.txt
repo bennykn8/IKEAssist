@@ -1,0 +1,55 @@
+# @CATEGORY
+Name: Clothes boxes
+ProductCount: 33
+
+# @FILTERS
+PriceRange: $1.99 - $27.99
+Materials: 100 % polyester, 100% polypropylene (min. 40% recycled), Base fabric: 100 % Polyethylene plastic, 100% polyester (min. 90% recycled), Fabric/ Webbing: 100 % polypropylene, Fabric: 100% polyester (min. 90% recycled), Fabric: 100% polyester (min. 90% recycled), 100 % Polyurethane, Insert/ Connector: Polypropylene, Insert: Polypropylene, Main parts: Paperboard (min. 100% recycled), Paper, Metal parts: Steel
+Brand: IKEA
+
+# @ITEMS
+- TJENA storage box with lid, white black/dotted, 12 ½x13 ¾x12 ½": /products/clothes-boxes/50601056.txt
+- STUK storage case, white/gray, 21 ¾x20x: /products/clothes-boxes/80481302.txt
+- STUK storage case, white/gray: /products/clothes-boxes/60481303.txt
+- STUK Storage case, white/gray, 13 ½x20x: /products/clothes-boxes/00481301.txt
+- STUK box with compartments, white, 13 ½x20x: /products/clothes-boxes/70474444.txt
+- STUK box with compartments, white, 13 ½x20x: /products/clothes-boxes/70474439.txt
+- STUK box with compartments, white, 7 ¾x13 ½x: /products/clothes-boxes/20474427.txt
+- SKUBB storage case, white, 17x20 ¾x7 ½": /products/clothes-boxes/90591055.txt
+- SKUBB storage case, white, 35 ½x20 ¾x7 ½": /products/clothes-boxes/80591051.txt
+- SKUBB storage case, white, 25 ½x20 ¾x7 ½": /products/clothes-boxes/70591061.txt
+- SKUBB storage case, dark gray, 25 ½x20 ¾x7 ½": /products/clothes-boxes/30591058.txt
+- SKUBB storage case, dark gray, 17x20 ¾x7 ½": /products/clothes-boxes/20591054.txt
+- SKUBB storage case, dark gray, 35 ½x20 ¾x7 ½": /products/clothes-boxes/10591064.txt
+- SKUBB box, set of 6, white: /products/clothes-boxes/20538542.txt
+- SKUBB box, set of 6, dark gray: /products/clothes-boxes/40538541.txt
+- SKUBB box, set of 3, white, 7 ¾x15x4 ¾": /products/clothes-boxes/80596497.txt
+- RAGGISAR tray, dark gray: /products/clothes-boxes/10348019.txt
+- PÄRKLA storage case, 21 ¾x19 ¼x7 ½": /products/clothes-boxes/50395382.txt
+- KVARNVIK Storage box with lid, gray: /products/clothes-boxes/10466951.txt
+- HEMMAFIXARE storage case, fabric stripe/white/gray, 13 ½x20x7 ½": /products/clothes-boxes/90503921.txt
+- HEMMAFIXARE storage case, fabric stripe/white/gray, 13 ½x20x: /products/clothes-boxes/90503916.txt
+- HEMMAFIXARE storage case, fabric stripe/white/gray, 27 ¼x20x7 ½": /products/clothes-boxes/70503917.txt
+- HEMMAFIXARE storage case, fabric stripe/white/gray, 17 ¼x20x7 ½": /products/clothes-boxes/20503910.txt
+- GÖRSNYGG storage case, white/clear: /products/clothes-boxes/40504193.txt
+- FÅNGGRÖDA insert with compartments, light gray, 13 ¾x9 ½x5 ½": /products/clothes-boxes/70559527.txt
+- FÅNGGRÖDA insert with compartments, light gray, 19x7x5 ½": /products/clothes-boxes/50559533.txt
+- FÅNGGRÖDA insert with compartments, light gray, 11 ¾x11 ¾x4 ¼": /products/clothes-boxes/10559530.txt
+- BLÄDDRARE box with lid, gray/patterned, 13 ¾x19 ¾x11 ¾": /products/clothes-boxes/70474401.txt
+- BLÄDDRARE box with lid, gray/patterned, 13 ¾x19 ¾x: /products/clothes-boxes/70474397.txt
+- BLÄDDRARE box with lid, gray/patterned, 9 ¾x13 ¾x: /products/clothes-boxes/60474393.txt
+- BAXNA organizer, gray/white, 10 ¼x13 ½x: /products/clothes-boxes/90474363.txt
+- BAXNA organizer, gray/white, 7 ¾x10 ¼x: /products/clothes-boxes/70474364.txt
+- BAXNA organizer, gray/white, 10 ¼x13 ½x: /products/clothes-boxes/60486292.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

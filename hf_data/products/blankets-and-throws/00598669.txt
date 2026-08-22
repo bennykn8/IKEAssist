@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: BISKOPSMÖSSA throw, green/off-white
+SKU: 00598669
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/biskopsmoessa-throw-green-off-white-00598669/
+Category: Blankets & throws
+Description: , 51x67" A lightweight, super-soft throw with playful fringes, made for cozying up. The classic block pattern in green and off-white goes with anything, anywhere. Made from 100% recycled polyester. Pa...
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % polyester (100% recycled)
+Care: Shrinkage maximum 4%. | Machine wash cold, normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/biskopsmoessa-throw-green-off-white__1346431_pe950932_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

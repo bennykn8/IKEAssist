@@ -1,0 +1,46 @@
+# @CATEGORY
+Name: Ovenware
+ProductCount: 24
+
+# @FILTERS
+PriceRange: $4.99 - $34.99
+Materials: Aluminum, Coated with Teflon(R) Infinity., Feldspar porcelain, Galvanized steel, Coated with Teflon(R) Classic, Heat resistant glass, Stainless steel, Stoneware, Stoneware, Colored glaze, Tempered opal glass
+Brand: IKEA
+
+# @ITEMS
+- ROSTÖRA roasting pan, black/red: /products/ovenware/40566713.txt
+- ROSTÖRA roasting pan, beige: /products/ovenware/60566712.txt
+- POETISK baking dish, oval/light yellow: /products/ovenware/20584256.txt
+- POETISK baking dish, off-white: /products/ovenware/20513872.txt
+- POETISK baking dish, off-white: /products/ovenware/10513863.txt
+- POETISK baking dish, light green: /products/ovenware/30584227.txt
+- MIXTUR baking/serving dish, clear glass: /products/ovenware/80058761.txt
+- MIXTUR baking/serving dish, clear glass: /products/ovenware/60058762.txt
+- MÅNGYLTA roasting pan, gray: /products/ovenware/40566708.txt
+- MÅNGYLTA roasting pan, gray: /products/ovenware/20566709.txt
+- LYCKAD baking/serving dish, set of 2, dark gray: /products/ovenware/00464429.txt
+- LÄTTVIKTIG baking dish, white: /products/ovenware/80452106.txt
+- KONCIS roasting pan with grill rack, stainless steel: /products/ovenware/10578133.txt
+- KONCIS roasting pan, stainless steel, 10 ¼x7 ¾": /products/ovenware/90578134.txt
+- IKEA 365+ baking dish, white, 15x10 ¼": /products/ovenware/40286736.txt
+- HÖSTAGILLE baking dish, off-white: /products/ovenware/20600261.txt
+- GLADELIG baking dish, set of 2, gray: /products/ovenware/80531081.txt
+- GLADELIG baking dish, set of 2, blue: /products/ovenware/10531070.txt
+- GLADELIG baking dish, blue: /products/ovenware/30531069.txt
+- FÖLJSAM baking dish, clear glass, 9 ¾x9 ¾": /products/ovenware/50311269.txt
+- FÄRGKLAR baking/serving dish with lid, matte light pink, 6.8 oz: /products/ovenware/00541772.txt
+- FÄRGKLAR baking/serving dish with lid, matte light green, 6.8 oz: /products/ovenware/50541779.txt
+- FÄRGKLAR baking/serving dish with lid, matte light gray, 6.8 oz: /products/ovenware/30541775.txt
+- FÄRGKLAR baking/serving dish with lid, glossy beige, 6.8 oz: /products/ovenware/60541774.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: MÅLA whiteboard pen, mixed colors
+SKU: 40477632
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/mala-whiteboard-pen-mixed-colors-40477632/
+Category: Arts and crafts supplies for kids
+Description: The MÅLA series has everything your child needs when creativity kicks in. Paint! Cut! Draw! It’s all about having fun and letting your child explore the world through their own imagination – there’s n...
+
+# @OFFER
+Price: 2.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Barrel: Polypropylene, Polypropylene, Printed acrylic paint, Cap/ End plug: Polypropylene, Polypropylene, Pen tip/ Ink carrier: 100 % polyester
+Features: For use on whiteboards. The lifespan of the pen will decrease if used on paper. | The whiteboard pen will leave permanent marks on most surfaces and materials, however, immediately washing the area with a stain remover may give good results. | Store horizontally. If the color becomes less intense, store the pen vertically with the tip pointed down for 12 hours and the color will revive.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/mala-whiteboard-pen-mixed-colors__0804249_pe769112_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

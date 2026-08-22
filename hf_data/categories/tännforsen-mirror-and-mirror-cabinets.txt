@@ -1,0 +1,28 @@
+# @CATEGORY
+Name: TÄNNFORSEN mirror & mirror cabinets
+ProductCount: 6
+
+# @FILTERS
+PriceRange: $249.00 - $329.00
+Materials: Door filling: Fiberboard, Plastic foil, Plastic foil, Door frame: Fiberboard, Plastic foil (min. 70% recycled), Plastic edging, Plastic edging (min. 50% recycled), Frame: Particleboard, Plastic foil (min. 70% recycled), Plastic edging, Plastic edging (min. 50% recycled)
+Brand: IKEA
+
+# @ITEMS
+- TÄNNFORSEN mirror cabinet with doors, white: /products/tännforsen-mirror-and-mirror-cabinets/70535490.txt
+- TÄNNFORSEN mirror cabinet with doors, white: /products/tännforsen-mirror-and-mirror-cabinets/60555252.txt
+- TÄNNFORSEN mirror cabinet with doors, white: /products/tännforsen-mirror-and-mirror-cabinets/00535484.txt
+- TÄNNFORSEN mirror cabinet with doors, light gray: /products/tännforsen-mirror-and-mirror-cabinets/70555256.txt
+- TÄNNFORSEN mirror cabinet with doors, light gray: /products/tännforsen-mirror-and-mirror-cabinets/30535487.txt
+- TÄNNFORSEN mirror cabinet with doors, light gray: /products/tännforsen-mirror-and-mirror-cabinets/10535493.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

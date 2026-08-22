@@ -1,0 +1,28 @@
+# @CATEGORY
+Name: Travel accessories
+ProductCount: 6
+
+# @FILTERS
+PriceRange: $3.99 - $7.99
+Materials: Body: Polyethylene, Fabric: 100 % polyester (100% recycled), Fabric: 100% polyester (min. 90% recycled), Frame: Steel, Handle: EVA plastic, Handle: Polypropylene, Lid: Polypropylene, Webbing: 100 %polyester, 100 % polyester, finish: 100 %polyester, EVA plastic
+Brand: IKEA
+
+# @ITEMS
+- VAGN bottle, 3 oz: /products/travel-accessories/50518892.txt
+- RENSARE waterproof bag, 6 ¼x4 ¾x9 ½"/85 oz: /products/travel-accessories/30497739.txt
+- KNALLA umbrella, foldable multicolor/patterned: /products/travel-accessories/70594494.txt
+- KNALLA umbrella, foldable green/stripe: /products/travel-accessories/10588778.txt
+- KNALLA umbrella, foldable black: /products/travel-accessories/30477637.txt
+- KNALLA umbrella, black: /products/travel-accessories/60282332.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

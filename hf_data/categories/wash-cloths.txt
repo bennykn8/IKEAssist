@@ -1,0 +1,54 @@
+# @CATEGORY
+Name: Wash cloths
+ProductCount: 32
+
+# @FILTERS
+PriceRange: $1.49 - $5.99
+Materials: 100 % cotton, 80 % cotton, 20 % viscose/rayon
+Brand: IKEA
+
+# @ITEMS
+- VALLASÅN washcloth, light green: /products/wash-cloths/80531364.txt
+- VALLASÅN washcloth, light gray/brown: /products/wash-cloths/50502136.txt
+- VÅGSJÖN washcloth, white: /products/wash-cloths/10350998.txt
+- VÅGSJÖN washcloth, pink: /products/wash-cloths/00609936.txt
+- VÅGSJÖN washcloth, orange-red: /products/wash-cloths/00609210.txt
+- VÅGSJÖN washcloth, light green: /products/wash-cloths/80609211.txt
+- VÅGSJÖN washcloth, light beige: /products/wash-cloths/80494620.txt
+- VÅGSJÖN washcloth, dark gray: /products/wash-cloths/40353622.txt
+- VÅGSJÖN washcloth, bright green: /products/wash-cloths/50571139.txt
+- VÅGSJÖN washcloth, bright blue: /products/wash-cloths/80576263.txt
+- SVENSKFIBBLA washcloth, yellow/green: /products/wash-cloths/40590464.txt
+- SVENSKFIBBLA washcloth, light blue: /products/wash-cloths/40590440.txt
+- SALVIKEN washcloth, white: /products/wash-cloths/80313219.txt
+- SALVIKEN washcloth, natural: /products/wash-cloths/10512514.txt
+- SALVIKEN washcloth, light green: /products/wash-cloths/10512552.txt
+- SALVIKEN washcloth, anthracite: /products/wash-cloths/80349355.txt
+- LUDDVIAL washcloth, white: /products/wash-cloths/50586348.txt
+- GULVIAL washcloth, white: /products/wash-cloths/10579670.txt
+- GULVIAL washcloth, turquoise: /products/wash-cloths/60579700.txt
+- GULVIAL washcloth, red-brown: /products/wash-cloths/90579746.txt
+- GULVIAL washcloth, pale pink: /products/wash-cloths/10579726.txt
+- GULVIAL washcloth, pale gray-green: /products/wash-cloths/00579736.txt
+- GULVIAL washcloth, dark gray-blue: /products/wash-cloths/20579716.txt
+- GULVIAL washcloth, black: /products/wash-cloths/00579680.txt
+- GULVIAL washcloth, beige: /products/wash-cloths/90579690.txt
+- FREDRIKSJÖN washcloth, white: /products/wash-cloths/70496728.txt
+- FREDRIKSJÖN washcloth, gray-turquoise: /products/wash-cloths/00572693.txt
+- FREDRIKSJÖN washcloth, deep red: /products/wash-cloths/90552761.txt
+- FREDRIKSJÖN washcloth, dark gray: /products/wash-cloths/40496715.txt
+- FREDRIKSJÖN washcloth, dark blue: /products/wash-cloths/80496681.txt
+- DÅRREPE washcloth, white: /products/wash-cloths/80573028.txt
+- DÅRREPE washcloth, brown: /products/wash-cloths/60573029.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,48 @@
+# @CATEGORY
+Name: Artificial flower stems
+ProductCount: 26
+
+# @FILTERS
+PriceRange: $0.69 - $14.99
+Materials: 100 % polyester (100% recycled), Polyethylene plastic (min. 50% recycled), 100 % polyester (100% recycled), Steel, Polyethylene plastic (min. 50% recycled), Flower/ Leaf: 100 % polyester (100% recycled), Polyethylene plastic (min. 50% recycled), Flower: 100 % polyester (100% recycled), Polyethylene plastic (min. 50% recycled), Flower: 100 % polyester (100% recycled), Polyethylene plastic (min. 50% recycled), Paint, Flower: Polyethylene plastic (min. 80% recycled), EVA plastic, Polyethylene plastic (min. 50% recycled), Leaf: 100 % PEVA, Polyethylene plastic (min. 50% recycled), Leaf: 100 % polyester (100% recycled), Polyethylene plastic (min. 50% recycled), Leaf: Polyethylene plastic (min. 30% recycled), Leaf: Polyethylene plastic (min. 50% recycled)
+Brand: IKEA
+
+# @ITEMS
+- SMYCKA artificial spray, indoor/outdoor/fern, 24 ¾": /products/artificial-flower-stems/20560142.txt
+- SMYCKA artificial spray, indoor/outdoor/Dogwood white, 39 ¼": /products/artificial-flower-stems/50560145.txt
+- SMYCKA artificial spray, indoor/outdoor brown, 24 ¾": /products/artificial-flower-stems/60573072.txt
+- SMYCKA artificial spray, eucalyptus/pink, 23 ½": /products/artificial-flower-stems/10560114.txt
+- SMYCKA artificial leaf, indoor/outdoor/monstera green, 31 ½": /products/artificial-flower-stems/30587160.txt
+- SMYCKA artificial leaf, indoor/outdoor/fern green, 20 ¾": /products/artificial-flower-stems/20562928.txt
+- SMYCKA artificial leaf, eucalyptus/green, 25 ½": /products/artificial-flower-stems/80335773.txt
+- SMYCKA artificial flower, Ranunculus/white, 20 ½": /products/artificial-flower-stems/20335714.txt
+- SMYCKA artificial flower, queen ann/stem pink, 25 ½": /products/artificial-flower-stems/50562738.txt
+- SMYCKA artificial flower, Peony/white, 11 ¾": /products/artificial-flower-stems/80409783.txt
+- SMYCKA artificial flower, lily/white, 33 ½": /products/artificial-flower-stems/40333587.txt
+- SMYCKA artificial flower, indoor/outdoor scabiosa, 11 ¾": /products/artificial-flower-stems/00601474.txt
+- SMYCKA artificial flower, indoor/outdoor/Rose white, 25 ½": /products/artificial-flower-stems/90560148.txt
+- SMYCKA artificial flower, indoor/outdoor/Rose white, 15 ¾": /products/artificial-flower-stems/60588752.txt
+- SMYCKA artificial flower, indoor/outdoor/Rose red, 15 ¾": /products/artificial-flower-stems/90587181.txt
+- SMYCKA artificial flower, indoor/outdoor/Rose pink, 15 ¾": /products/artificial-flower-stems/20588749.txt
+- SMYCKA artificial flower, indoor/outdoor/Rose golden brown, 24 ¾": /products/artificial-flower-stems/80560120.txt
+- SMYCKA artificial flower, indoor/outdoor/Poppy pink, 10 ¾": /products/artificial-flower-stems/30560151.txt
+- SMYCKA artificial flower, indoor/outdoor/Orchid white, 23 ½": /products/artificial-flower-stems/10587156.txt
+- SMYCKA artificial flower, indoor/outdoor/Orchid pink, 23 ½": /products/artificial-flower-stems/70587158.txt
+- SMYCKA artificial flower, indoor/outdoor/Dahlia white, 11 ¾": /products/artificial-flower-stems/00588745.txt
+- SMYCKA artificial flower, indoor/outdoor/Dahlia pink, 11 ¾": /products/artificial-flower-stems/60587173.txt
+- SMYCKA artificial flower, hydrangea/light pink, 25 ½": /products/artificial-flower-stems/40560117.txt
+- SMYCKA artificial flower, Gladiolus/white, 39 ¼": /products/artificial-flower-stems/30333583.txt
+- SMYCKA artificial flower, eucalyptus/pink, 11 ¾": /products/artificial-flower-stems/30409846.txt
+- SMYCKA artificial flower, cherry-blossoms/pink, 51 ¼": /products/artificial-flower-stems/00409739.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

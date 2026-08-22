@@ -1,0 +1,31 @@
+# @CATEGORY
+Name: Coffee makers & accessories
+ProductCount: 9
+
+# @FILTERS
+PriceRange: $2.99 - $19.99
+Materials: Buttons: ABS plastic, Coasters: Cork, Feldspar porcelain, Colored glaze, Heat resistant glass, Polypropylene, Stainless steel, Jar: Heat resistant glass, Stainless steel, Knob: Bamboo, Clear lacquer, Seal: Silicone rubber, ABS plastic, Spring/ Crank/ Bracket: Stainless steel, Stainless steel
+Brand: IKEA
+
+# @ITEMS
+- UPPLAGA milk/cream pitcher, white, 10 oz: /products/coffee-makers-and-accessories/10560289.txt
+- UPPHETTA French press coffee maker, glass/stainless steel off-white, 34 oz: /products/coffee-makers-and-accessories/80583739.txt
+- UPPHETTA French press coffee maker, glass, stainless steel, Height: 9" Diameter:: /products/coffee-makers-and-accessories/60241389.txt
+- UPPHETTA French press coffee maker, glass, stainless steel, Height: 7" Diameter:: /products/coffee-makers-and-accessories/00297850.txt
+- PRODUKT Black Milk Frother - Popular & Handy: /products/coffee-makers-and-accessories/30301167.txt
+- ÖVERST metal coffee filter, stainless steel: /products/coffee-makers-and-accessories/90360234.txt
+- MÅTTLIG Milk-frothing jug, stainless steel: /products/coffee-makers-and-accessories/50149843.txt
+- IKEA 365+ French press coffee maker, clear glass/stainless steel, 34 oz: /products/coffee-makers-and-accessories/20532724.txt
+- ÄNGSBLÅVINGE coffee measuring scoop, stainless steel: /products/coffee-makers-and-accessories/70545031.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

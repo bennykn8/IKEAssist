@@ -1,0 +1,31 @@
+# @CATEGORY
+Name: MITTZON acoustic products
+ProductCount: 9
+
+# @FILTERS
+PriceRange: $110.00 - $420.00
+Materials: Cover: 100% polyester (min. 30% recycled), Non-woven polypropylene, Fabric: 100% polyester (min. 90% recycled), Foot: Steel, Epoxy/polyester powder coating, Frame: 100 % polypropylene, Solid wood, Fiberboard, Wood fibers 92% / Polyethylene 4% / Polypropylene 4%, Frame: Wood fibers 92% / Polyethylene 4% / Polypropylene 4%, Non-woven polypropylene, Hook and loop fastener: Polyamide, Steel, Epoxy/polyester powder coating, Zipper: 100 % polyester
+Brand: IKEA
+
+# @ITEMS
+- MITTZON frame w cstrs/acoustic screen, Gunnared beige/white: /products/mittzon-acoustic-products/39514683.txt
+- MITTZON frame w cstrs/acoustic sceen/whtbr, Gunnared beige/white: /products/mittzon-acoustic-products/09536177.txt
+- MITTZON acoustic screen for desk, Gunnared beige: /products/mittzon-acoustic-products/70528215.txt
+- MITTZON acoustic screen for desk, Gunnared beige: /products/mittzon-acoustic-products/40528212.txt
+- MITTZON acoustic screen for desk, Gunnared beige: /products/mittzon-acoustic-products/40528194.txt
+- MITTZON acoustic screen for desk, Gunnared beige: /products/mittzon-acoustic-products/10528223.txt
+- MITTZON acoustic screen for desk, Gunnared beige: /products/mittzon-acoustic-products/10528218.txt
+- MITTZON acoustic screen, floor standing, Gunnared beige: /products/mittzon-acoustic-products/60528206.txt
+- MITTZON acoustic screen, floor standing, Gunnared beige: /products/mittzon-acoustic-products/10528204.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

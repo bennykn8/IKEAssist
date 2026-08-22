@@ -1,0 +1,319 @@
+# @CATEGORY
+Name: Bed sheets
+ProductCount: 297
+
+# @FILTERS
+PriceRange: $4.99 - $179.00
+Materials: 100 % cotton, 100 % linen, 100 % polyester (100% recycled), 54 % cotton, 46 % viscose/rayon, 60 % cotton, 40 % lyocell, 65 % polyester, 35 % rubber, 80 % cotton, 20 % viscose/rayon, 85 % cotton, 15 % lyocell
+Brand: IKEA
+
+# @ITEMS
+- VÅRVIAL sheet set, white, Twin: /products/bed-sheets/90577573.txt
+- VÅRVIAL sheet set, white, Full/Double: /products/bed-sheets/70577569.txt
+- VÅRVIAL sheet set, white, King: /products/bed-sheets/50577570.txt
+- VÅRVIAL sheet set, white, Queen: /products/bed-sheets/30577571.txt
+- VÅRVIAL sheet set, white, Twin X-long: /products/bed-sheets/10577572.txt
+- VÅRVIAL fitted sheet for twin daybed, white, Twin: /products/bed-sheets/30447532.txt
+- VÅRVIAL fitted sheet for twin daybed, blue, Twin: /products/bed-sheets/20577034.txt
+- ULLVIDE sheet set, white, Queen: /products/bed-sheets/90577511.txt
+- ULLVIDE sheet set, white, Full/Double: /products/bed-sheets/70577507.txt
+- ULLVIDE sheet set, white, Twin: /products/bed-sheets/30577514.txt
+- ULLVIDE sheet set, white, King: /products/bed-sheets/30577509.txt
+- ULLVIDE sheet set, light pink, Full/Double: /products/bed-sheets/80577516.txt
+- ULLVIDE sheet set, light pink, Twin: /products/bed-sheets/60577522.txt
+- ULLVIDE sheet set, light pink, King: /products/bed-sheets/50564129.txt
+- ULLVIDE sheet set, light pink, King: /products/bed-sheets/40577518.txt
+- ULLVIDE sheet set, light pink, Queen: /products/bed-sheets/10564131.txt
+- ULLVIDE sheet set, light pink, Queen: /products/bed-sheets/00577520.txt
+- ULLVIDE sheet set, gray-beige, King: /products/bed-sheets/80590264.txt
+- ULLVIDE sheet set, gray-beige, Full/Double: /products/bed-sheets/40590261.txt
+- ULLVIDE sheet set, gray-beige, Queen: /products/bed-sheets/30590266.txt
+- ULLVIDE sheet set, gray-beige, Twin: /products/bed-sheets/10590267.txt
+- ULLVIDE sheet set, gray, Full/Double: /products/bed-sheets/70577545.txt
+- ULLVIDE sheet set, gray, King: /products/bed-sheets/50577546.txt
+- ULLVIDE sheet set, gray, Queen: /products/bed-sheets/30577547.txt
+- ULLVIDE sheet set, gray, Twin: /products/bed-sheets/10577548.txt
+- ULLVIDE sheet set, dark blue, Full/Double: /products/bed-sheets/90577506.txt
+- ULLVIDE sheet set, dark blue, Twin: /products/bed-sheets/70577512.txt
+- ULLVIDE sheet set, dark blue, King: /products/bed-sheets/50577508.txt
+- ULLVIDE sheet set, dark blue, Queen: /products/bed-sheets/10577510.txt
+- ULLVIDE flat sheet, white, Full/Double: /products/bed-sheets/90577441.txt
+- ULLVIDE flat sheet, white, King: /products/bed-sheets/70577442.txt
+- ULLVIDE flat sheet, white, Queen: /products/bed-sheets/50577443.txt
+- ULLVIDE flat sheet, white, Twin/Twin X-long: /products/bed-sheets/30577444.txt
+- ULLVIDE flat sheet, light pink, King: /products/bed-sheets/90577455.txt
+- ULLVIDE flat sheet, light pink, Queen: /products/bed-sheets/50577457.txt
+- ULLVIDE flat sheet, light pink, Full/Double: /products/bed-sheets/40577453.txt
+- ULLVIDE flat sheet, light pink, Twin/Twin X-long: /products/bed-sheets/10577459.txt
+- ULLVIDE flat sheet, gray-beige, Twin/Twin X-long: /products/bed-sheets/70590245.txt
+- ULLVIDE flat sheet, gray-beige, King: /products/bed-sheets/60590241.txt
+- ULLVIDE flat sheet, gray-beige, Queen: /products/bed-sheets/40590242.txt
+- ULLVIDE flat sheet, gray-beige, Full/Double: /products/bed-sheets/10599164.txt
+- ULLVIDE flat sheet, gray, Twin/Twin X-long: /products/bed-sheets/80577451.txt
+- ULLVIDE flat sheet, gray, King: /products/bed-sheets/60577447.txt
+- ULLVIDE flat sheet, gray, Queen: /products/bed-sheets/20577449.txt
+- ULLVIDE flat sheet, gray, Full/Double: /products/bed-sheets/00577445.txt
+- ULLVIDE flat sheet, dark blue, Full/Double: /products/bed-sheets/70577437.txt
+- ULLVIDE flat sheet, dark blue, King: /products/bed-sheets/50577438.txt
+- ULLVIDE flat sheet, dark blue, Queen: /products/bed-sheets/30577439.txt
+- ULLVIDE flat sheet, dark blue, Twin/Twin X-long: /products/bed-sheets/10577440.txt
+- ULLVIDE fitted sheet, white, Twin: /products/bed-sheets/90344791.txt
+- ULLVIDE fitted sheet, white, Queen: /products/bed-sheets/50335562.txt
+- ULLVIDE fitted sheet, white, King: /products/bed-sheets/30342733.txt
+- ULLVIDE fitted sheet, white, Full/Double: /products/bed-sheets/20335554.txt
+- ULLVIDE fitted sheet, light pink, Twin: /products/bed-sheets/70564091.txt
+- ULLVIDE fitted sheet, light pink, Queen: /products/bed-sheets/70564086.txt
+- ULLVIDE fitted sheet, light pink, Full/Double: /products/bed-sheets/60564082.txt
+- ULLVIDE fitted sheet, light pink, King: /products/bed-sheets/40564083.txt
+- ULLVIDE fitted sheet, gray-beige, King: /products/bed-sheets/80590221.txt
+- ULLVIDE fitted sheet, gray-beige, Twin: /products/bed-sheets/70590231.txt
+- ULLVIDE fitted sheet, gray-beige, Queen: /products/bed-sheets/20590224.txt
+- ULLVIDE fitted sheet, gray-beige, Full/Double: /products/bed-sheets/20590219.txt
+- ULLVIDE fitted sheet, gray, King: /products/bed-sheets/60342779.txt
+- ULLVIDE fitted sheet, gray, Queen: /products/bed-sheets/60342736.txt
+- ULLVIDE fitted sheet, gray, Full/Double: /products/bed-sheets/50342732.txt
+- ULLVIDE fitted sheet, gray, Twin: /products/bed-sheets/20344799.txt
+- ULLVIDE fitted sheet, deep red, Queen: /products/bed-sheets/80558103.txt
+- ULLVIDE fitted sheet, deep red, Full/Double: /products/bed-sheets/80558099.txt
+- ULLVIDE fitted sheet, deep red, Twin: /products/bed-sheets/70558108.txt
+- ULLVIDE fitted sheet, deep red, King: /products/bed-sheets/40558100.txt
+- ULLVIDE fitted sheet, dark blue, Queen: /products/bed-sheets/80342783.txt
+- ULLVIDE fitted sheet, dark blue, Full/Double: /products/bed-sheets/80342778.txt
+- ULLVIDE fitted sheet, dark blue, King: /products/bed-sheets/70335556.txt
+- ULLVIDE fitted sheet, dark blue, Twin: /products/bed-sheets/40344798.txt
+- SMÅVÄNDEROT sheet set, black/white, Queen: /products/bed-sheets/80590725.txt
+- SMÅVÄNDEROT sheet set, black/white, Twin: /products/bed-sheets/60590726.txt
+- SMÅVÄNDEROT sheet set, black/white, Full/Double: /products/bed-sheets/30590723.txt
+- SMÅVÄNDEROT sheet set, black/white, King: /products/bed-sheets/10590724.txt
+- RÖNNVECKMAL sheet set, white, Queen: /products/bed-sheets/50577773.txt
+- RÖNNVECKMAL sheet set, white, King: /products/bed-sheets/30577750.txt
+- RÖNNVECKMAL sheet set, gray, Queen: /products/bed-sheets/90577771.txt
+- RÖNNVECKMAL sheet set, gray, King: /products/bed-sheets/10577751.txt
+- RÖNNVECKMAL flat sheet, white, Queen: /products/bed-sheets/70577791.txt
+- RÖNNVECKMAL flat sheet, white, King: /products/bed-sheets/50577787.txt
+- RÖNNVECKMAL flat sheet, gray, King: /products/bed-sheets/70577786.txt
+- RÖNNVECKMAL flat sheet, gray, Queen: /products/bed-sheets/50577792.txt
+- RÖNNVECKMAL fitted sheet, white, Queen: /products/bed-sheets/90532650.txt
+- RÖNNVECKMAL fitted sheet, white, King: /products/bed-sheets/50532647.txt
+- RÖNNVECKMAL fitted sheet, gray, Queen: /products/bed-sheets/60537116.txt
+- RÖNNVECKMAL fitted sheet, gray, King: /products/bed-sheets/30537113.txt
+- RODGERSIA sheet set, gray/white, Full/Double: /products/bed-sheets/90579553.txt
+- RODGERSIA sheet set, gray/white, King: /products/bed-sheets/70579554.txt
+- RODGERSIA sheet set, gray/white, Queen: /products/bed-sheets/40579555.txt
+- RODGERSIA sheet set, gray/white, Twin: /products/bed-sheets/20579556.txt
+- RODGERSIA fitted sheet, green/white, Full/Double: /products/bed-sheets/20579575.txt
+- RODGERSIA fitted sheet, green/white, King: /products/bed-sheets/00579576.txt
+- RODGERSIA fitted sheet, gray/white, Twin: /products/bed-sheets/70579530.txt
+- RODGERSIA fitted sheet, gray/white, Queen: /products/bed-sheets/70579525.txt
+- RODGERSIA fitted sheet, gray/white, King: /products/bed-sheets/40579522.txt
+- NORDRUTA sheet set, white, Full/Double: /products/bed-sheets/90577549.txt
+- NORDRUTA sheet set, white, King: /products/bed-sheets/50577551.txt
+- NORDRUTA sheet set, white, Queen: /products/bed-sheets/30577552.txt
+- NORDRUTA sheet set, white, Twin: /products/bed-sheets/10577553.txt
+- NORDRUTA sheet set, white, Twin: /products/bed-sheets/00381844.txt
+- NATTJASMIN sheet set, white, King: /products/bed-sheets/80601154.txt
+- NATTJASMIN sheet set, white, Twin: /products/bed-sheets/40601151.txt
+- NATTJASMIN sheet set, white, Full/Double: /products/bed-sheets/20601152.txt
+- NATTJASMIN sheet set, white, Twin: /products/bed-sheets/10577505.txt
+- NATTJASMIN sheet set, white, Queen: /products/bed-sheets/00601153.txt
+- NATTJASMIN sheet set, light beige, King: /products/bed-sheets/90602365.txt
+- NATTJASMIN sheet set, light beige, Queen: /products/bed-sheets/70602366.txt
+- NATTJASMIN sheet set, light beige, Twin: /products/bed-sheets/50602367.txt
+- NATTJASMIN sheet set, light beige, Full/Double: /products/bed-sheets/20602364.txt
+- NATTJASMIN sheet set, dark gray, King: /products/bed-sheets/90601455.txt
+- NATTJASMIN sheet set, dark gray, Twin: /products/bed-sheets/80577776.txt
+- NATTJASMIN sheet set, dark gray, Queen: /products/bed-sheets/70601456.txt
+- NATTJASMIN sheet set, dark gray, Queen: /products/bed-sheets/70577772.txt
+- NATTJASMIN sheet set, dark gray, King: /products/bed-sheets/70577748.txt
+- NATTJASMIN sheet set, dark gray, Full/Double: /products/bed-sheets/70577668.txt
+- NATTJASMIN sheet set, dark gray, Twin: /products/bed-sheets/50601457.txt
+- NATTJASMIN sheet set, dark gray, Full/Double: /products/bed-sheets/20601454.txt
+- NATTJASMIN sheet set, blue-green, Queen: /products/bed-sheets/80597468.txt
+- NATTJASMIN sheet set, blue-green, Twin: /products/bed-sheets/60597469.txt
+- NATTJASMIN sheet set, blue-green, Full/Double: /products/bed-sheets/20597466.txt
+- NATTJASMIN sheet set, blue-green, King: /products/bed-sheets/00597467.txt
+- NATTJASMIN flat sheet, yellow, King: /products/bed-sheets/90577790.txt
+- NATTJASMIN flat sheet, yellow, Full/Double: /products/bed-sheets/90577785.txt
+- NATTJASMIN flat sheet, yellow, Twin: /products/bed-sheets/60577796.txt
+- NATTJASMIN flat sheet, yellow, Queen: /products/bed-sheets/30577793.txt
+- NATTJASMIN flat sheet, white, Full/Double: /products/bed-sheets/80577427.txt
+- NATTJASMIN flat sheet, white, Queen: /products/bed-sheets/70601395.txt
+- NATTJASMIN flat sheet, white, Twin: /products/bed-sheets/60577433.txt
+- NATTJASMIN flat sheet, white, King: /products/bed-sheets/50601396.txt
+- NATTJASMIN flat sheet, white, King: /products/bed-sheets/40577429.txt
+- NATTJASMIN flat sheet, white, Twin/Twin X-long: /products/bed-sheets/20601393.txt
+- NATTJASMIN flat sheet, white, Full/Double: /products/bed-sheets/00601394.txt
+- NATTJASMIN flat sheet, white, Queen: /products/bed-sheets/00577431.txt
+- NATTJASMIN flat sheet, light beige, Full/Double: /products/bed-sheets/80602361.txt
+- NATTJASMIN flat sheet, light beige, Twin: /products/bed-sheets/80577432.txt
+- NATTJASMIN flat sheet, light beige, King: /products/bed-sheets/60602362.txt
+- NATTJASMIN flat sheet, light beige, King: /products/bed-sheets/60577428.txt
+- NATTJASMIN flat sheet, light beige, Queen: /products/bed-sheets/40602363.txt
+- NATTJASMIN flat sheet, light beige, Queen: /products/bed-sheets/20577430.txt
+- NATTJASMIN flat sheet, light beige, Twin/Twin X-long: /products/bed-sheets/00602360.txt
+- NATTJASMIN flat sheet, light beige, Full/Double: /products/bed-sheets/00577426.txt
+- NATTJASMIN flat sheet, dark gray, Queen: /products/bed-sheets/80577795.txt
+- NATTJASMIN flat sheet, dark gray, Full/Double: /products/bed-sheets/80577781.txt
+- NATTJASMIN flat sheet, dark gray, King: /products/bed-sheets/60601452.txt
+- NATTJASMIN flat sheet, dark gray, Queen: /products/bed-sheets/40601453.txt
+- NATTJASMIN flat sheet, dark gray, Twin/Twin X-long: /products/bed-sheets/40601448.txt
+- NATTJASMIN flat sheet, dark gray, King: /products/bed-sheets/30577788.txt
+- NATTJASMIN flat sheet, dark gray, Twin: /products/bed-sheets/20577798.txt
+- NATTJASMIN flat sheet, dark gray, Full/Double: /products/bed-sheets/00601450.txt
+- NATTJASMIN flat sheet, blue-green, Queen: /products/bed-sheets/80597449.txt
+- NATTJASMIN flat sheet, blue-green, Twin/Twin X-long: /products/bed-sheets/40597451.txt
+- NATTJASMIN flat sheet, blue-green, Full/Double: /products/bed-sheets/40597446.txt
+- NATTJASMIN flat sheet, blue-green, King: /products/bed-sheets/20597447.txt
+- NATTJASMIN flat sheet, beige, Queen: /products/bed-sheets/80563897.txt
+- NATTJASMIN flat sheet, beige, Twin: /products/bed-sheets/60563898.txt
+- NATTJASMIN flat sheet, beige, Full/Double: /products/bed-sheets/20563895.txt
+- NATTJASMIN fitted sheet, white, Twin: /products/bed-sheets/80344800.txt
+- NATTJASMIN fitted sheet, white, Full/Double: /products/bed-sheets/70343716.txt
+- NATTJASMIN fitted sheet, white, King: /products/bed-sheets/60343670.txt
+- NATTJASMIN fitted sheet, white, Queen: /products/bed-sheets/00343673.txt
+- NATTJASMIN fitted sheet, light beige, King: /products/bed-sheets/80442749.txt
+- NATTJASMIN fitted sheet, light beige, Queen: /products/bed-sheets/20442752.txt
+- NATTJASMIN fitted sheet, light beige, Twin: /products/bed-sheets/10442757.txt
+- NATTJASMIN fitted sheet, light beige, Full/Double: /products/bed-sheets/00442748.txt
+- NATTJASMIN fitted sheet, dark gray, Twin: /products/bed-sheets/90442697.txt
+- NATTJASMIN fitted sheet, dark gray, King: /products/bed-sheets/60442689.txt
+- NATTJASMIN fitted sheet, dark gray, Queen: /products/bed-sheets/00442692.txt
+- NATTJASMIN fitted sheet, blue-green, Queen: /products/bed-sheets/60597431.txt
+- NATTJASMIN fitted sheet, blue-green, Twin: /products/bed-sheets/50597436.txt
+- NATTJASMIN fitted sheet, blue-green, Full/Double: /products/bed-sheets/40597427.txt
+- NATTJASMIN fitted sheet, blue-green, King: /products/bed-sheets/20597428.txt
+- NÄSSELKLOCKA sheet set, light grey-beige, King: /products/bed-sheets/90589774.txt
+- NÄSSELKLOCKA sheet set, light grey-beige, Queen: /products/bed-sheets/60589775.txt
+- NÄSSELKLOCKA sheet set, light grey-beige, Twin: /products/bed-sheets/40589776.txt
+- NÄSSELKLOCKA sheet set, light grey-beige, Full/Double: /products/bed-sheets/10589773.txt
+- JULKAKTUS elastic strap: /products/bed-sheets/70436796.txt
+- GINSTFÄLTMAL sheet set, beige/white, Twin: /products/bed-sheets/80590730.txt
+- GINSTFÄLTMAL sheet set, beige/white, Full/Double: /products/bed-sheets/40590727.txt
+- GINSTFÄLTMAL sheet set, beige/white, King: /products/bed-sheets/20590728.txt
+- GINSTFÄLTMAL sheet set, beige/white, Queen: /products/bed-sheets/00590729.txt
+- FÄRGMÅRA sheet set, white, Twin: /products/bed-sheets/70347719.txt
+- FÄRGMÅRA sheet set, white, Full/Double: /products/bed-sheets/60592198.txt
+- FÄRGMÅRA sheet set, white, Queen: /products/bed-sheets/40592199.txt
+- FÄRGMÅRA sheet set, white, Twin: /products/bed-sheets/00592200.txt
+- DYTÅG sheet set, white, Full/Double: /products/bed-sheets/80521384.txt
+- DYTÅG sheet set, white, King: /products/bed-sheets/50521385.txt
+- DYTÅG sheet set, white, Queen: /products/bed-sheets/30521386.txt
+- DYTÅG sheet set, white, Twin: /products/bed-sheets/10521387.txt
+- DYTÅG sheet set, dark gray, Full/Double: /products/bed-sheets/90521449.txt
+- DYTÅG sheet set, dark gray, King: /products/bed-sheets/70521450.txt
+- DYTÅG sheet set, dark gray, Queen: /products/bed-sheets/50521451.txt
+- DYTÅG sheet set, dark gray, Twin: /products/bed-sheets/30521452.txt
+- DYTÅG fitted sheet, white, Full/Double: /products/bed-sheets/90521350.txt
+- DYTÅG fitted sheet, white, King: /products/bed-sheets/70521351.txt
+- DYTÅG fitted sheet, white, Queen: /products/bed-sheets/10521354.txt
+- DYTÅG fitted sheet, white, Twin: /products/bed-sheets/00521359.txt
+- DYTÅG fitted sheet, dark gray, Twin: /products/bed-sheets/40521423.txt
+- DYTÅG fitted sheet, dark gray, Queen: /products/bed-sheets/40521418.txt
+- DYTÅG fitted sheet, dark gray, Full/Double: /products/bed-sheets/30521414.txt
+- DYTÅG fitted sheet, dark gray, King: /products/bed-sheets/00521415.txt
+- DVALA sheet set, white, King: /products/bed-sheets/90577530.txt
+- DVALA sheet set, white, Queen: /products/bed-sheets/70577531.txt
+- DVALA sheet set, white, Twin: /products/bed-sheets/50577532.txt
+- DVALA sheet set, white, Full/Double: /products/bed-sheets/10577529.txt
+- DVALA sheet set, light pink, Full/Double: /products/bed-sheets/90577525.txt
+- DVALA sheet set, light pink, King: /products/bed-sheets/70577526.txt
+- DVALA sheet set, light pink, Queen: /products/bed-sheets/50577527.txt
+- DVALA sheet set, light pink, Twin: /products/bed-sheets/30577528.txt
+- DVALA sheet set, light gray, Twin: /products/bed-sheets/80580750.txt
+- DVALA sheet set, light gray, Full/Double: /products/bed-sheets/40580747.txt
+- DVALA sheet set, light gray, King: /products/bed-sheets/20580748.txt
+- DVALA sheet set, light gray, Queen: /products/bed-sheets/00580749.txt
+- DVALA sheet set, gray-green, King: /products/bed-sheets/80577535.txt
+- DVALA sheet set, gray-green, Queen: /products/bed-sheets/60577536.txt
+- DVALA sheet set, gray-green, Twin: /products/bed-sheets/40577537.txt
+- DVALA sheet set, gray-green, Full/Double: /products/bed-sheets/10577534.txt
+- DVALA sheet set, blue, King: /products/bed-sheets/70580835.txt
+- DVALA sheet set, blue, Queen: /products/bed-sheets/50580836.txt
+- DVALA sheet set, blue, Twin: /products/bed-sheets/30580837.txt
+- DVALA sheet set, blue, Full/Double: /products/bed-sheets/00580834.txt
+- DVALA sheet set, beige, Queen: /products/bed-sheets/60577541.txt
+- DVALA sheet set, beige, Full/Double: /products/bed-sheets/20577538.txt
+- DVALA sheet set, beige, King: /products/bed-sheets/00577539.txt
+- DVALA flat sheet, white, Twin/Twin X-long: /products/bed-sheets/90577460.txt
+- DVALA flat sheet, white, King: /products/bed-sheets/70577456.txt
+- DVALA flat sheet, white, Queen: /products/bed-sheets/30577458.txt
+- DVALA flat sheet, white, Full/Double: /products/bed-sheets/20577454.txt
+- DVALA flat sheet, light pink, Full/Double: /products/bed-sheets/80577489.txt
+- DVALA flat sheet, light pink, King: /products/bed-sheets/60585305.txt
+- DVALA flat sheet, light pink, Queen: /products/bed-sheets/60577490.txt
+- DVALA flat sheet, light pink, Twin/Twin X-long: /products/bed-sheets/40577491.txt
+- DVALA flat sheet, light gray, Twin/Twin X-long: /products/bed-sheets/70580755.txt
+- DVALA flat sheet, light gray, Full/Double: /products/bed-sheets/40580752.txt
+- DVALA flat sheet, light gray, King: /products/bed-sheets/20580753.txt
+- DVALA flat sheet, light gray, Queen: /products/bed-sheets/00580754.txt
+- DVALA flat sheet, gray-green, Twin/Twin X-long: /products/bed-sheets/90577479.txt
+- DVALA flat sheet, gray-green, Full/Double: /products/bed-sheets/70577475.txt
+- DVALA flat sheet, gray-green, King: /products/bed-sheets/30577477.txt
+- DVALA flat sheet, gray-green, Queen: /products/bed-sheets/10577478.txt
+- DVALA flat sheet, blue, King: /products/bed-sheets/90580839.txt
+- DVALA flat sheet, blue, Queen: /products/bed-sheets/50580841.txt
+- DVALA flat sheet, blue, Twin/Twin X-long: /products/bed-sheets/30580842.txt
+- DVALA flat sheet, blue, Full/Double: /products/bed-sheets/10580838.txt
+- DVALA fitted sheet, white, King: /products/bed-sheets/60356573.txt
+- DVALA fitted sheet, white, Twin X-long: /products/bed-sheets/50585122.txt
+- DVALA fitted sheet, white, Twin: /products/bed-sheets/10357240.txt
+- DVALA fitted sheet, white, Queen: /products/bed-sheets/10357235.txt
+- DVALA fitted sheet, white, Full/Double: /products/bed-sheets/00357231.txt
+- DVALA fitted sheet, light pink, Queen: /products/bed-sheets/40357677.txt
+- DVALA fitted sheet, light pink, Twin X-long: /products/bed-sheets/30585123.txt
+- DVALA fitted sheet, light pink, Full/Double: /products/bed-sheets/30357673.txt
+- DVALA fitted sheet, light pink, Twin: /products/bed-sheets/20357683.txt
+- DVALA fitted sheet, light gray, Full/Double: /products/bed-sheets/70482463.txt
+- DVALA fitted sheet, light gray, King: /products/bed-sheets/50482464.txt
+- DVALA fitted sheet, light gray, Twin: /products/bed-sheets/40482469.txt
+- DVALA fitted sheet, light gray, Twin X-long: /products/bed-sheets/10585124.txt
+- DVALA fitted sheet, light gray, Queen: /products/bed-sheets/00482466.txt
+- DVALA fitted sheet, gray-green, Twin X-long: /products/bed-sheets/80585125.txt
+- DVALA fitted sheet, gray-green, Queen: /products/bed-sheets/60549652.txt
+- DVALA fitted sheet, gray-green, Twin: /products/bed-sheets/50549657.txt
+- DVALA fitted sheet, gray-green, Full/Double: /products/bed-sheets/40549648.txt
+- DVALA fitted sheet, gray-green, King: /products/bed-sheets/20549649.txt
+- DVALA fitted sheet, blue, Queen: /products/bed-sheets/90576875.txt
+- DVALA fitted sheet, blue, Twin: /products/bed-sheets/70576876.txt
+- DVALA fitted sheet, blue, Twin X-long: /products/bed-sheets/60585126.txt
+- DVALA fitted sheet, blue, Full/Double: /products/bed-sheets/40576873.txt
+- DVALA fitted sheet, blue, King: /products/bed-sheets/20576874.txt
+- BANDPALPMAL sheet set, white, Full/Double: /products/bed-sheets/90577554.txt
+- BANDPALPMAL sheet set, white, Queen: /products/bed-sheets/40577556.txt
+- BANDPALPMAL sheet set, white, Twin: /products/bed-sheets/20577557.txt
+- BANDPALPMAL sheet set, light gray, Queen: /products/bed-sheets/40577561.txt
+- BANDPALPMAL sheet set, light gray, Twin: /products/bed-sheets/20577562.txt
+- BANDPALPMAL sheet set, light gray, Full/Double: /products/bed-sheets/00577558.txt
+- BANDPALPMAL sheet set, light blue, Queen: /products/bed-sheets/50577565.txt
+- BANDPALPMAL sheet set, light blue, Twin: /products/bed-sheets/30577566.txt
+- BANDPALPMAL sheet set, light blue, Full/Double: /products/bed-sheets/00577563.txt
+- BANDPALPMAL fitted sheet, white, Queen: /products/bed-sheets/80584748.txt
+- BANDPALPMAL fitted sheet, white, Twin: /products/bed-sheets/60584749.txt
+- BALSAMPOPPEL sheet set, white, Full/Double: /products/bed-sheets/90577667.txt
+- BALSAMPOPPEL sheet set, white, King: /products/bed-sheets/50577749.txt
+- BALSAMPOPPEL sheet set, white, Twin: /products/bed-sheets/00577780.txt
+- BALSAMPOPPEL sheet set, white, Queen: /products/bed-sheets/00577775.txt
+- BALSAMPOPPEL flat sheet, white, Full/Double: /products/bed-sheets/20577784.txt
+- BALSAMPOPPEL flat sheet, white, Queen: /products/bed-sheets/10577794.txt
+- BALSAMPOPPEL flat sheet, white, King: /products/bed-sheets/10577789.txt
+- BALSAMPOPPEL flat sheet, white, Twin/Twin X-long: /products/bed-sheets/00577799.txt
+- BALSAMPOPPEL fitted sheet, white, Queen: /products/bed-sheets/40557563.txt
+- BALSAMPOPPEL fitted sheet, white, Twin: /products/bed-sheets/30557568.txt
+- BALSAMPOPPEL fitted sheet, white, Full/Double: /products/bed-sheets/20557559.txt
+- BALSAMPOPPEL fitted sheet, white, King: /products/bed-sheets/00557560.txt
+- ÄNGSDVÄRGMAL sheet set, light beige/red, King: /products/bed-sheets/50590736.txt
+- ÄNGSDVÄRGMAL sheet set, light beige/red, Queen: /products/bed-sheets/30590737.txt
+- ÄNGSDVÄRGMAL sheet set, light beige/red, Twin: /products/bed-sheets/10590738.txt
+- ÄNGSDVÄRGMAL sheet set, green/stripe, Twin: /products/bed-sheets/00590734.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

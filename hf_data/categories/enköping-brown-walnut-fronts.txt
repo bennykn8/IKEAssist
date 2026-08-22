@@ -1,0 +1,64 @@
+# @CATEGORY
+Name: ENKÖPING brown walnut fronts
+ProductCount: 42
+
+# @FILTERS
+PriceRange: $16.00 - $109.00
+Materials: Door filling: Fiberboard, Plastic foil, Door frame: Fiberboard, Plastic foil, Plastic edging, Edge: Plastic edging, Front side: Plastic foil, Front: Fiberboard, Tempered glass
+Brand: IKEA
+
+# @ITEMS
+- ENKÖPING glass door, brown walnut effect: /products/enköping-brown-walnut-fronts/90516754.txt
+- ENKÖPING glass door, brown walnut effect: /products/enköping-brown-walnut-fronts/60516755.txt
+- ENKÖPING glass door, brown walnut effect: /products/enköping-brown-walnut-fronts/40516756.txt
+- ENKÖPING glass door, brown walnut effect: /products/enköping-brown-walnut-fronts/20516757.txt
+- ENKÖPING glass door, brown walnut effect: /products/enköping-brown-walnut-fronts/00516758.txt
+- ENKÖPING drawer front, brown walnut effect: /products/enköping-brown-walnut-fronts/90516749.txt
+- ENKÖPING drawer front, brown walnut effect: /products/enköping-brown-walnut-fronts/80516740.txt
+- ENKÖPING drawer front, brown walnut effect: /products/enköping-brown-walnut-fronts/70516750.txt
+- ENKÖPING drawer front, brown walnut effect: /products/enköping-brown-walnut-fronts/70516745.txt
+- ENKÖPING drawer front, brown walnut effect: /products/enköping-brown-walnut-fronts/60516741.txt
+- ENKÖPING drawer front, brown walnut effect: /products/enköping-brown-walnut-fronts/50516751.txt
+- ENKÖPING drawer front, brown walnut effect: /products/enköping-brown-walnut-fronts/50516746.txt
+- ENKÖPING drawer front, brown walnut effect: /products/enköping-brown-walnut-fronts/40516742.txt
+- ENKÖPING drawer front, brown walnut effect: /products/enköping-brown-walnut-fronts/30516752.txt
+- ENKÖPING drawer front, brown walnut effect: /products/enköping-brown-walnut-fronts/30516747.txt
+- ENKÖPING drawer front, brown walnut effect: /products/enköping-brown-walnut-fronts/20516743.txt
+- ENKÖPING drawer front, brown walnut effect: /products/enköping-brown-walnut-fronts/10516753.txt
+- ENKÖPING drawer front, brown walnut effect: /products/enköping-brown-walnut-fronts/10516748.txt
+- ENKÖPING drawer front, brown walnut effect: /products/enköping-brown-walnut-fronts/00516744.txt
+- ENKÖPING drawer front, brown walnut effect: /products/enköping-brown-walnut-fronts/00516739.txt
+- ENKÖPING door, brown walnut effect: /products/enköping-brown-walnut-fronts/90516730.txt
+- ENKÖPING door, brown walnut effect: /products/enköping-brown-walnut-fronts/90516725.txt
+- ENKÖPING door, brown walnut effect: /products/enköping-brown-walnut-fronts/80516735.txt
+- ENKÖPING door, brown walnut effect: /products/enköping-brown-walnut-fronts/80516721.txt
+- ENKÖPING door, brown walnut effect: /products/enköping-brown-walnut-fronts/70516731.txt
+- ENKÖPING door, brown walnut effect: /products/enköping-brown-walnut-fronts/70516726.txt
+- ENKÖPING door, brown walnut effect: /products/enköping-brown-walnut-fronts/60516736.txt
+- ENKÖPING door, brown walnut effect: /products/enköping-brown-walnut-fronts/60516722.txt
+- ENKÖPING door, brown walnut effect: /products/enköping-brown-walnut-fronts/60516717.txt
+- ENKÖPING door, brown walnut effect: /products/enköping-brown-walnut-fronts/50516732.txt
+- ENKÖPING door, brown walnut effect: /products/enköping-brown-walnut-fronts/50516727.txt
+- ENKÖPING door, brown walnut effect: /products/enköping-brown-walnut-fronts/40516737.txt
+- ENKÖPING door, brown walnut effect: /products/enköping-brown-walnut-fronts/40516723.txt
+- ENKÖPING door, brown walnut effect: /products/enköping-brown-walnut-fronts/40516718.txt
+- ENKÖPING door, brown walnut effect: /products/enköping-brown-walnut-fronts/30516733.txt
+- ENKÖPING door, brown walnut effect: /products/enköping-brown-walnut-fronts/30516728.txt
+- ENKÖPING door, brown walnut effect: /products/enköping-brown-walnut-fronts/20516724.txt
+- ENKÖPING door, brown walnut effect: /products/enköping-brown-walnut-fronts/20516719.txt
+- ENKÖPING door, brown walnut effect: /products/enköping-brown-walnut-fronts/10516734.txt
+- ENKÖPING door, brown walnut effect: /products/enköping-brown-walnut-fronts/10516729.txt
+- ENKÖPING door, brown walnut effect: /products/enköping-brown-walnut-fronts/00516720.txt
+- ENKÖPING 2-p door/corner base cabinet set, brown walnut effect: /products/enköping-brown-walnut-fronts/20516738.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

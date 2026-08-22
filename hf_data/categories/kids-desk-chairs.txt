@@ -1,0 +1,31 @@
+# @CATEGORY
+Name: Kids desk chairs
+ProductCount: 9
+
+# @FILTERS
+PriceRange: $10.00 - $199.99
+Materials: Back foam: Polyurethane foam 1.5 lb/cu.ft., Back foam: Polyurethane foam., Back frame: Layer-glued wood veneer, Back frame: Steel, Epoxy/polyester powder coating, Back/ Seat: Layer-glued wood veneer, Base plate/ Star base center/ Star base leg: Steel, Epoxy/polyester powder coating, Core cover: 100% polyester (min. 70% recycled), Nut: Steel, Galvanized, Polypropylene, Seat and back foam: High resilient polyurethane foam (cold foam).
+Brand: IKEA
+
+# @ITEMS
+- VIMUND child's desk chair, turquoise: /products/kids-desk-chairs/50531964.txt
+- PYNTEN children´s seat pad for desk chair, turquoise, 13x12 ½": /products/kids-desk-chairs/50538828.txt
+- ÖRFJÄLL child's desk chair, white/Vissle light green: /products/kids-desk-chairs/10541432.txt
+- ÖRFJÄLL child's desk chair, white/Vissle light gray: /products/kids-desk-chairs/80501885.txt
+- LOBERGET / SIBBEN child's desk chair, white: /products/kids-desk-chairs/59337670.txt
+- LOBERGET / SIBBEN children’s desk chair with pad, white/turquoise: /products/kids-desk-chairs/79501117.txt
+- LANGUR Seat shell for junior chair, white: /products/kids-desk-chairs/10359263.txt
+- GUNRIK child's desk chair, turquoise: /products/kids-desk-chairs/00563716.txt
+- DAGNAR child's desk chair, yellow: /products/kids-desk-chairs/20563715.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

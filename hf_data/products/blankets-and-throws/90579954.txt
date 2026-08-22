@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: JÄTTETUJA blanket, turquoise
+SKU: 90579954
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/jaettetuja-blanket-turquoise-90579954/
+Category: Blankets & throws
+Description: , 55x75" Want to snuggle up in something soft and light during the warm season? Then swap your duvet for this lightweight blanket. It absorbs body moisture and provides a comfy and dry sleeping enviro...
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Terry: 100 % viscose/rayon, Warp/ Weft: 100 % cotton
+Care: Machine wash warm (max 140°F/60°C) normal cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/jaettetuja-blanket-turquoise__1238242_pe918388_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

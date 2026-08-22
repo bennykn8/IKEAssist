@@ -1,0 +1,44 @@
+# @CATEGORY
+Name: PAX wardrobes without doors
+ProductCount: 22
+
+# @FILTERS
+PriceRange: $500.00 - $1850.00
+Materials: Drawer front: Particleboard, Paper foil, Plastic edging, Plastic edging, Drawer side/ Drawer back: Particleboard, Paper foil, Fiberboard, Particleboard, Paper foil, Fiberboard, Polyurethane paint, Main parts: Steel, Pigmented epoxy/polyester powder coating, Particleboard, Fiberboard, Paper foil, Particleboard, Paper foil, Partition: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Plastic edging, Plastic edging, Rail: Fiberboard, Paper foil, Steel, Epoxy/polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- PAX wardrobe combination, white: /products/pax-wardrobes-without-doors/99560733.txt
+- PAX wardrobe combination, white: /products/pax-wardrobes-without-doors/89560724.txt
+- PAX wardrobe combination, white: /products/pax-wardrobes-without-doors/89559037.txt
+- PAX wardrobe combination, white: /products/pax-wardrobes-without-doors/79560734.txt
+- PAX wardrobe combination, white: /products/pax-wardrobes-without-doors/69559024.txt
+- PAX wardrobe combination, white: /products/pax-wardrobes-without-doors/59560725.txt
+- PAX wardrobe combination, white: /products/pax-wardrobes-without-doors/59559034.txt
+- PAX wardrobe combination, white: /products/pax-wardrobes-without-doors/39560726.txt
+- PAX wardrobe combination, white: /products/pax-wardrobes-without-doors/39559025.txt
+- PAX wardrobe combination, white: /products/pax-wardrobes-without-doors/29559035.txt
+- PAX wardrobe combination, white: /products/pax-wardrobes-without-doors/19560727.txt
+- PAX wardrobe combination, white: /products/pax-wardrobes-without-doors/09559036.txt
+- PAX / FYRUDDEN corner wardrobe, white/blue: /products/pax-wardrobes-without-doors/39581757.txt
+- PAX / FYRUDDEN corner wardrobe, dark gray/blue: /products/pax-wardrobes-without-doors/69581765.txt
+- PAX / FYRUDDEN corner wardrobe, dark gray/blue: /products/pax-wardrobes-without-doors/59581761.txt
+- PAX corner wardrobe, white: /products/pax-wardrobes-without-doors/99560728.txt
+- PAX corner wardrobe, white: /products/pax-wardrobes-without-doors/69560739.txt
+- PAX corner wardrobe, white: /products/pax-wardrobes-without-doors/69559043.txt
+- PAX corner wardrobe, white: /products/pax-wardrobes-without-doors/59560730.txt
+- PAX corner wardrobe, white: /products/pax-wardrobes-without-doors/09560737.txt
+- PAX corner wardrobe, dark gray: /products/pax-wardrobes-without-doors/59559029.txt
+- PAX corner wardrobe, dark gray: /products/pax-wardrobes-without-doors/29559021.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

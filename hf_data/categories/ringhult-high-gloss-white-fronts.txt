@@ -1,0 +1,59 @@
+# @CATEGORY
+Name: RINGHULT high gloss white fronts
+ProductCount: 37
+
+# @FILTERS
+PriceRange: $37.00 - $280.00
+Materials: Back side: Melamine foil, Front side: Plastic foil (min. 70% recycled), Front: Fiberboard
+Brand: IKEA
+
+# @ITEMS
+- RINGHULT drawer front, high gloss white: /products/ringhult-high-gloss-white-fronts/90266731.txt
+- RINGHULT drawer front, high gloss white: /products/ringhult-high-gloss-white-fronts/80266741.txt
+- RINGHULT drawer front, high gloss white: /products/ringhult-high-gloss-white-fronts/80266736.txt
+- RINGHULT drawer front, high gloss white: /products/ringhult-high-gloss-white-fronts/70266732.txt
+- RINGHULT drawer front, high gloss white: /products/ringhult-high-gloss-white-fronts/70266727.txt
+- RINGHULT Drawer front, high gloss white: /products/ringhult-high-gloss-white-fronts/60266737.txt
+- RINGHULT Drawer front, high gloss white: /products/ringhult-high-gloss-white-fronts/50266733.txt
+- RINGHULT Drawer front, high gloss white: /products/ringhult-high-gloss-white-fronts/50266728.txt
+- RINGHULT Drawer front, high gloss white: /products/ringhult-high-gloss-white-fronts/40266738.txt
+- RINGHULT Drawer front, high gloss white: /products/ringhult-high-gloss-white-fronts/30266734.txt
+- RINGHULT Drawer front, high gloss white: /products/ringhult-high-gloss-white-fronts/30266729.txt
+- RINGHULT Drawer front, high gloss white: /products/ringhult-high-gloss-white-fronts/20266739.txt
+- RINGHULT Drawer front, high gloss white: /products/ringhult-high-gloss-white-fronts/10266730.txt
+- RINGHULT drawer front, high gloss white: /products/ringhult-high-gloss-white-fronts/00266740.txt
+- RINGHULT Drawer front, high gloss white: /products/ringhult-high-gloss-white-fronts/00266735.txt
+- RINGHULT door, high gloss white: /products/ringhult-high-gloss-white-fronts/90266712.txt
+- RINGHULT door, high gloss white: /products/ringhult-high-gloss-white-fronts/90266689.txt
+- RINGHULT door, high gloss white: /products/ringhult-high-gloss-white-fronts/80266722.txt
+- RINGHULT door, high gloss white: /products/ringhult-high-gloss-white-fronts/80266717.txt
+- RINGHULT door, high gloss white: /products/ringhult-high-gloss-white-fronts/70266713.txt
+- RINGHULT door, high gloss white: /products/ringhult-high-gloss-white-fronts/70266708.txt
+- RINGHULT door, high gloss white: /products/ringhult-high-gloss-white-fronts/70266690.txt
+- RINGHULT Door, high gloss white: /products/ringhult-high-gloss-white-fronts/60266723.txt
+- RINGHULT Door, high gloss white: /products/ringhult-high-gloss-white-fronts/50266714.txt
+- RINGHULT Door, high gloss white: /products/ringhult-high-gloss-white-fronts/50266709.txt
+- RINGHULT Door, high gloss white: /products/ringhult-high-gloss-white-fronts/40266724.txt
+- RINGHULT Door, high gloss white: /products/ringhult-high-gloss-white-fronts/40266719.txt
+- RINGHULT Door, high gloss white: /products/ringhult-high-gloss-white-fronts/30266692.txt
+- RINGHULT Door, high gloss white: /products/ringhult-high-gloss-white-fronts/20266720.txt
+- RINGHULT Door, high gloss white: /products/ringhult-high-gloss-white-fronts/20266715.txt
+- RINGHULT Door, high gloss white: /products/ringhult-high-gloss-white-fronts/10266725.txt
+- RINGHULT Door, high gloss white: /products/ringhult-high-gloss-white-fronts/10266711.txt
+- RINGHULT Door, high gloss white: /products/ringhult-high-gloss-white-fronts/10266706.txt
+- RINGHULT Door, high gloss white: /products/ringhult-high-gloss-white-fronts/10266688.txt
+- RINGHULT door, high gloss white: /products/ringhult-high-gloss-white-fronts/00266721.txt
+- RINGHULT door, high gloss white: /products/ringhult-high-gloss-white-fronts/00266716.txt
+- RINGHULT 2-p door/corner base cabinet set, high gloss white: /products/ringhult-high-gloss-white-fronts/90266726.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LÄTTBAKAD cookie cutter, set of 4, stainless steel
+SKU: 70590429
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/laettbakad-cookie-cutter-set-of-4-stainless-steel-70590429/
+Category: Baking tools & gadgets
+Description: Who in the family can make the funniest and nicest shape? Use these 4 different cookie cutters to serve beautiful and tasty cookies at the party – or make baked creations with various motifs.
+
+# @OFFER
+Price: 1.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Stainless steel
+Features: Comprises cookie cutters: 1 rectangle (3.9" x 2.3") and 3 triangles (2.7" x 1.2", 3.4" x 1.6" and 3.9" x 2.3").
+Care: Dishwasher-safe. | Wash this product before first use.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/laettbakad-cookie-cutter-set-of-4-stainless-steel__1299832_pe936789_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

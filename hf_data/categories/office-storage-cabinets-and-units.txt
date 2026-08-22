@@ -1,0 +1,43 @@
+# @CATEGORY
+Name: Office storage cabinets & units
+ProductCount: 21
+
+# @FILTERS
+PriceRange: $269.99 - $1758.00
+Materials: Back panel/ Drawer bottom: Particleboard, Melamine foil, Back panel: Particleboard, Ash veneer, Stain, Clear acrylic lacquer, Paper foil, Back panel: Particleboard, Melamine foil, Back panel: Particleboard, Paper foil, Bottom panel: Particleboard, Paper foil, Plastic edging, Door: Particleboard, Ash veneer, Paper foil, Stain, Clear acrylic lacquer, Plastic edging, Door: Particleboard, Ash veneer, Stain, Clear acrylic lacquer, Plastic edging, Poles: Aluminum, Epoxy/polyester powder coating, Side panel/ Back panel/ Pen holder: Steel, Epoxy/polyester powder coating, Side panel: Particleboard, Ash veneer, Stain, Clear acrylic lacquer, Paper foil, Paper edging, Plastic edging
+Brand: IKEA
+
+# @ITEMS
+- GALANT storage combination with filing, white: /products/office-storage-cabinets-and-units/99304093.txt
+- GALANT storage combination with filing, white: /products/office-storage-cabinets-and-units/89304102.txt
+- GALANT storage combination with filing, black stained ash veneer: /products/office-storage-cabinets-and-units/69304099.txt
+- GALANT storage combination with filing, black stained ash veneer: /products/office-storage-cabinets-and-units/49304095.txt
+- GALANT storage combination w sliding doors, white: /products/office-storage-cabinets-and-units/09285616.txt
+- GALANT storage combination w sliding doors, black stained ash veneer: /products/office-storage-cabinets-and-units/69285618.txt
+- GALANT file cabinet, white: /products/office-storage-cabinets-and-units/80365185.txt
+- GALANT File cabinet, black stained ash veneer: /products/office-storage-cabinets-and-units/30365183.txt
+- GALANT drawer unit, white: /products/office-storage-cabinets-and-units/90365161.txt
+- GALANT Drawer unit on casters, white: /products/office-storage-cabinets-and-units/10365155.txt
+- GALANT drawer unit on casters, black stained ash veneer: /products/office-storage-cabinets-and-units/60365153.txt
+- GALANT Drawer unit/drop file storage, white: /products/office-storage-cabinets-and-units/40365125.txt
+- GALANT Drawer unit/drop file storage, white: /products/office-storage-cabinets-and-units/00365165.txt
+- GALANT drawer unit/drop file storage, black stained ash veneer: /products/office-storage-cabinets-and-units/90365123.txt
+- GALANT Drawer unit/drop file storage, black stained ash veneer: /products/office-storage-cabinets-and-units/30365164.txt
+- GALANT Drawer unit, black stained ash veneer: /products/office-storage-cabinets-and-units/30365159.txt
+- GALANT Cabinet with sliding doors, white: /products/office-storage-cabinets-and-units/30365135.txt
+- GALANT Cabinet with sliding doors, black stained ash veneer: /products/office-storage-cabinets-and-units/20365131.txt
+- GALANT Cabinet with doors, white: /products/office-storage-cabinets-and-units/10365141.txt
+- GALANT Cabinet with doors, black stained ash veneer: /products/office-storage-cabinets-and-units/50365139.txt
+- BEKANT storage unit on casters, mesh/black: /products/office-storage-cabinets-and-units/20591370.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

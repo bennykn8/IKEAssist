@@ -1,0 +1,31 @@
+# @CATEGORY
+Name: Decorative bowls & plates
+ProductCount: 9
+
+# @FILTERS
+PriceRange: $3.99 - $39.99
+Materials: Bamboo, Clear lacquer, Glass, Rattan, Clear lacquer, Stainless steel, Metallized, Steel, Polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- STOCKHOLM 2025 bowl, dark blue-turquoise, 13 ½": /products/decorative-bowls-and-plates/10590465.txt
+- STOCKHOLM 2025 bowl and dish, brass color: /products/decorative-bowls-and-plates/20590808.txt
+- SILKESTRÄD decorative bowl, brown-red: /products/decorative-bowls-and-plates/10570518.txt
+- NÖJAKTIG decoration dish, rattan: /products/decorative-bowls-and-plates/00497694.txt
+- KUSTFYR bowl with lid, ghost clear glass: /products/decorative-bowls-and-plates/10599611.txt
+- HULTET decoration dish, bamboo: /products/decorative-bowls-and-plates/40065160.txt
+- HÄCKPOPPEL decorative bowl with base, brown, 9 ½": /products/decorative-bowls-and-plates/90574937.txt
+- HÄCKPOPPEL decorative bowl, blue, 9 ½": /products/decorative-bowls-and-plates/70574938.txt
+- BERÄKNA bowl, clear glass: /products/decorative-bowls-and-plates/00329040.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

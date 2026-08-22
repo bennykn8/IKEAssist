@@ -1,0 +1,435 @@
+# @CATEGORY
+Name: Bookshelves & bookcases
+ProductCount: 413
+
+# @FILTERS
+PriceRange: $5.00 - $1097.00
+Materials: Back panel/ Door frame/ Door panel: Fiberboard, Acrylic paint, Back panel/ Drawer bottom: Fiberboard, Acrylic paint, Back panel: Fiberboard, Back panel: Fiberboard, Acrylic paint, Back panel: Fiberboard, Paper foil, Paper foil, Back panel: Fiberboard, Paper foil, Plastic foil, Back panel: Fiberboard, Plastic foil, Back panel: Fiberboard, Printed acrylic paint, Back panel: Particleboard, Paint, Melamine foil, Back rail: Fiberboard, Acrylic paint
+Brand: IKEA
+
+# @ITEMS
+- TONSTAD storage with sliding glass doors, off-white/clear glass: /products/bookshelves-and-bookcases/69571851.txt
+- TONSTAD storage with sliding glass doors, off-white/clear glass: /products/bookshelves-and-bookcases/69571846.txt
+- TONSTAD storage with sliding glass doors, off-white/clear glass: /products/bookshelves-and-bookcases/59571842.txt
+- TONSTAD bookcase, off-white: /products/bookshelves-and-bookcases/10528464.txt
+- TONSTAD bookcase, oak veneer: /products/bookshelves-and-bookcases/70528461.txt
+- TONSTAD bookcase, brown stained oak veneer: /products/bookshelves-and-bookcases/30528458.txt
+- SKRUVBY storage combination, white: /products/bookshelves-and-bookcases/99494724.txt
+- SKRUVBY storage combination, white: /products/bookshelves-and-bookcases/49561339.txt
+- SKRUVBY storage combination, black-blue: /products/bookshelves-and-bookcases/89561337.txt
+- SKRUVBY storage combination, black-blue: /products/bookshelves-and-bookcases/49494646.txt
+- SKRUVBY bookcase, white: /products/bookshelves-and-bookcases/40503546.txt
+- SKRUVBY bookcase, black-blue: /products/bookshelves-and-bookcases/20520354.txt
+- OXBERG Panel/glass door, white: /products/bookshelves-and-bookcases/50275558.txt
+- OXBERG panel/glass door, oak effect: /products/bookshelves-and-bookcases/90477432.txt
+- OXBERG panel/glass door, dark brown oak effect: /products/bookshelves-and-bookcases/40492901.txt
+- OXBERG panel/glass door, brown walnut effect: /products/bookshelves-and-bookcases/30508709.txt
+- OXBERG panel/glass door, black oak effect: /products/bookshelves-and-bookcases/30477374.txt
+- OXBERG panel/glass door, birch effect: /products/bookshelves-and-bookcases/80495950.txt
+- OXBERG glass door, white: /products/bookshelves-and-bookcases/90275617.txt
+- OXBERG Glass door, white: /products/bookshelves-and-bookcases/50275619.txt
+- OXBERG glass door, oak effect: /products/bookshelves-and-bookcases/80477418.txt
+- OXBERG glass door, oak effect: /products/bookshelves-and-bookcases/40477415.txt
+- OXBERG glass door, dark brown oak effect: /products/bookshelves-and-bookcases/80492895.txt
+- OXBERG glass door, dark brown oak effect: /products/bookshelves-and-bookcases/20492898.txt
+- OXBERG glass door, brown walnut effect: /products/bookshelves-and-bookcases/60508703.txt
+- OXBERG glass door, brown walnut effect: /products/bookshelves-and-bookcases/20508700.txt
+- OXBERG glass door, black oak effect: /products/bookshelves-and-bookcases/90477371.txt
+- OXBERG glass door, black oak effect: /products/bookshelves-and-bookcases/50477368.txt
+- OXBERG glass door, birch effect: /products/bookshelves-and-bookcases/60495951.txt
+- OXBERG glass door, birch effect: /products/bookshelves-and-bookcases/40495952.txt
+- OXBERG Door, white: /products/bookshelves-and-bookcases/50275596.txt
+- OXBERG door, white: /products/bookshelves-and-bookcases/40407564.txt
+- OXBERG door, oak effect: /products/bookshelves-and-bookcases/30477411.txt
+- OXBERG door, dark brown oak effect: /products/bookshelves-and-bookcases/70492891.txt
+- OXBERG door, brown walnut effect: /products/bookshelves-and-bookcases/90508674.txt
+- OXBERG door, brown walnut effect: /products/bookshelves-and-bookcases/00562420.txt
+- OXBERG door, black oak effect: /products/bookshelves-and-bookcases/20528246.txt
+- OXBERG door, black oak effect: /products/bookshelves-and-bookcases/10477365.txt
+- OXBERG door, birch effect: /products/bookshelves-and-bookcases/00495949.txt
+- LOMMARP Bookcase, light beige: /products/bookshelves-and-bookcases/40436991.txt
+- LOMMARP Bookcase, dark blue-green: /products/bookshelves-and-bookcases/40415465.txt
+- LOMMARP bookcase, black: /products/bookshelves-and-bookcases/30508525.txt
+- LANESUND bookcase, gray-brown: /products/bookshelves-and-bookcases/20434827.txt
+- LAIVA Bookcase, black-brown: /products/bookshelves-and-bookcases/40178591.txt
+- IDANÄS storage combination w/glass doors, white: /products/bookshelves-and-bookcases/39442610.txt
+- IDANÄS storage combination w/glass doors, dark brown/stained: /products/bookshelves-and-bookcases/59442609.txt
+- IDANÄS bookcase, white: /products/bookshelves-and-bookcases/80487827.txt
+- IDANÄS bookcase, dark brown stained: /products/bookshelves-and-bookcases/00487831.txt
+- HÖGBO glass door, white: /products/bookshelves-and-bookcases/60530252.txt
+- HÖGBO glass door, white: /products/bookshelves-and-bookcases/20517243.txt
+- HÖGBO glass door, black: /products/bookshelves-and-bookcases/40523403.txt
+- HÖGBO glass door, black: /products/bookshelves-and-bookcases/20530249.txt
+- HÖGADAL door, white/woven bamboo: /products/bookshelves-and-bookcases/80533283.txt
+- HÖGADAL door, white/woven bamboo: /products/bookshelves-and-bookcases/00542494.txt
+- HEMNES storage combination w doors/drawers, white stain: /products/bookshelves-and-bookcases/19233759.txt
+- HEMNES storage combination w doors/drawers, white stain/light brown: /products/bookshelves-and-bookcases/09384051.txt
+- HEMNES storage combination w doors/drawers, gray-green/light brown stained: /products/bookshelves-and-bookcases/39591068.txt
+- HEMNES storage combination w doors/drawers, gray-green/light brown stained: /products/bookshelves-and-bookcases/19602341.txt
+- HEMNES storage combination w doors/drawers, black-brown: /products/bookshelves-and-bookcases/79233756.txt
+- HEMNES storage combination w doors/drawers, black-brown/light brown: /products/bookshelves-and-bookcases/49336567.txt
+- HEMNES storage combination w doors/drawers, black-brown/clear glass: /products/bookshelves-and-bookcases/49233970.txt
+- HEMNES Glass-door cabinet with 3 drawers, white stain, light brown: /products/bookshelves-and-bookcases/50413507.txt
+- HEMNES Glass-door cabinet with 3 drawers, white stain: /products/bookshelves-and-bookcases/50371772.txt
+- HEMNES glass-door cabinet with 3 drawers, gray-green/light brown stained: /products/bookshelves-and-bookcases/00596161.txt
+- HEMNES bookcase, white stain: /products/bookshelves-and-bookcases/79231154.txt
+- HEMNES bookcase, white stain/light brown: /products/bookshelves-and-bookcases/60413502.txt
+- HEMNES bookcase, white stain: /products/bookshelves-and-bookcases/90371765.txt
+- HEMNES Bookcase, white stain: /products/bookshelves-and-bookcases/40371763.txt
+- HEMNES bookcase, gray-green/light brown stained: /products/bookshelves-and-bookcases/40596159.txt
+- HEMNES bookcase, black-brown: /products/bookshelves-and-bookcases/19231152.txt
+- HEMNES Bookcase, black-brown, light brown: /products/bookshelves-and-bookcases/20452294.txt
+- HEMNES bookcase, black-brown: /products/bookshelves-and-bookcases/60371762.txt
+- HEMNES Bookcase, black-brown: /products/bookshelves-and-bookcases/20371764.txt
+- HAUGA storage combination, white: /products/bookshelves-and-bookcases/99575961.txt
+- HAUGA storage combination, white: /products/bookshelves-and-bookcases/79575957.txt
+- HAUGA storage combination, gray: /products/bookshelves-and-bookcases/69575953.txt
+- HAUGA storage combination, gray: /products/bookshelves-and-bookcases/39575959.txt
+- GERSBY bookcase, white: /products/bookshelves-and-bookcases/70261131.txt
+- BRIMNES bookcase, white: /products/bookshelves-and-bookcases/90301225.txt
+- BRIMNES Bookcase, black: /products/bookshelves-and-bookcases/40301223.txt
+- BILLY shelf, white: /products/bookshelves-and-bookcases/70525269.txt
+- BILLY shelf, white: /products/bookshelves-and-bookcases/10525272.txt
+- BILLY shelf, oak effect: /products/bookshelves-and-bookcases/40477397.txt
+- BILLY shelf, oak effect: /products/bookshelves-and-bookcases/20477398.txt
+- BILLY shelf, dark brown oak effect: /products/bookshelves-and-bookcases/80492819.txt
+- BILLY shelf, dark brown oak effect: /products/bookshelves-and-bookcases/00492823.txt
+- BILLY shelf, brown walnut effect: /products/bookshelves-and-bookcases/60508656.txt
+- BILLY shelf, brown walnut effect: /products/bookshelves-and-bookcases/00508659.txt
+- BILLY shelf, black oak effect: /products/bookshelves-and-bookcases/90477352.txt
+- BILLY shelf, black oak effect: /products/bookshelves-and-bookcases/20477355.txt
+- BILLY shelf, birch effect: /products/bookshelves-and-bookcases/40495867.txt
+- BILLY shelf, birch effect: /products/bookshelves-and-bookcases/10495883.txt
+- BILLY / OXBERG bookcase with panel/glass doors, white: /products/bookshelves-and-bookcases/99581537.txt
+- BILLY / OXBERG bookcase with panel/glass doors, white: /products/bookshelves-and-bookcases/99581486.txt
+- BILLY / OXBERG bookcase with panel/glass doors, white: /products/bookshelves-and-bookcases/79280724.txt
+- BILLY / OXBERG bookcase with panel/glass doors, white: /products/bookshelves-and-bookcases/69281776.txt
+- BILLY / OXBERG bookcase with panel/glass doors, white/glass: /products/bookshelves-and-bookcases/99581523.txt
+- BILLY / OXBERG bookcase with panel/glass doors, white/glass: /products/bookshelves-and-bookcases/79281790.txt
+- BILLY / OXBERG bookcase with panel/glass doors, white/glass: /products/bookshelves-and-bookcases/79280738.txt
+- BILLY / OXBERG bookcase with panel/glass doors, white/glass: /products/bookshelves-and-bookcases/49581530.txt
+- BILLY / OXBERG bookcase with panel/glass doors, oak effect: /products/bookshelves-and-bookcases/29483328.txt
+- BILLY / OXBERG bookcase with panel/glass doors, oak effect/clear glass: /products/bookshelves-and-bookcases/49581865.txt
+- BILLY / OXBERG bookcase with panel/glass doors, oak effect/clear glass: /products/bookshelves-and-bookcases/39581861.txt
+- BILLY / OXBERG bookcase with panel/glass doors, dark brown oak effect: /products/bookshelves-and-bookcases/49483327.txt
+- BILLY / OXBERG bookcase with panel/glass doors, dark brown oak effect/clear glass: /products/bookshelves-and-bookcases/99581863.txt
+- BILLY / OXBERG bookcase with panel/glass doors, dark brown oak effect/clear glass: /products/bookshelves-and-bookcases/79581864.txt
+- BILLY / OXBERG bookcase with panel/glass doors, brown walnut effect: /products/bookshelves-and-bookcases/69483326.txt
+- BILLY / OXBERG bookcase with panel/glass doors, brown walnut effect/clear glass: /products/bookshelves-and-bookcases/79581859.txt
+- BILLY / OXBERG bookcase with panel/glass doors, brown walnut effect/clear glass: /products/bookshelves-and-bookcases/19581862.txt
+- BILLY / OXBERG bookcase with panel/glass doors, black oak effect: /products/bookshelves-and-bookcases/89483325.txt
+- BILLY / OXBERG bookcase with panel/glass doors, birch effect: /products/bookshelves-and-bookcases/19483324.txt
+- BILLY / OXBERG bookcase with panel/glass door, white/glass: /products/bookshelves-and-bookcases/39287421.txt
+- BILLY / OXBERG bookcase with panel/glass door, white/glass: /products/bookshelves-and-bookcases/19581536.txt
+- BILLY / OXBERG bookcase with panel/glass door, oak effect: /products/bookshelves-and-bookcases/79483340.txt
+- BILLY / OXBERG bookcase with panel/glass door, dark brown oak effect: /products/bookshelves-and-bookcases/99483339.txt
+- BILLY / OXBERG bookcase with panel/glass door, brown walnut effect: /products/bookshelves-and-bookcases/19483338.txt
+- BILLY / OXBERG bookcase with panel/glass door, black oak effect: /products/bookshelves-and-bookcases/39483337.txt
+- BILLY / OXBERG bookcase with panel/glass door, birch effect: /products/bookshelves-and-bookcases/59483336.txt
+- BILLY / OXBERG bookcase with glass doors, white: /products/bookshelves-and-bookcases/69281804.txt
+- BILLY / OXBERG bookcase with glass doors, white: /products/bookshelves-and-bookcases/49581554.txt
+- BILLY / OXBERG bookcase with glass-door, white/glass: /products/bookshelves-and-bookcases/99581556.txt
+- BILLY / OXBERG bookcase with glass-door, white/glass: /products/bookshelves-and-bookcases/39287398.txt
+- BILLY / OXBERG bookcase with glass-door, white/glass: /products/bookshelves-and-bookcases/29287445.txt
+- BILLY / OXBERG bookcase with glass-door, white/glass: /products/bookshelves-and-bookcases/19581555.txt
+- BILLY / OXBERG bookcase with glass-door, oak effect/clear glass: /products/bookshelves-and-bookcases/69581831.txt
+- BILLY / OXBERG bookcase with glass-door, dark brown oak effect/clear glass: /products/bookshelves-and-bookcases/29581828.txt
+- BILLY / OXBERG bookcase with glass-door, brown walnut effect/clear glass: /products/bookshelves-and-bookcases/09581829.txt
+- BILLY / OXBERG bookcase with doors, white: /products/bookshelves-and-bookcases/89598326.txt
+- BILLY / OXBERG bookcase with doors, white: /products/bookshelves-and-bookcases/79581543.txt
+- BILLY / OXBERG bookcase with doors, white: /products/bookshelves-and-bookcases/79287358.txt
+- BILLY / OXBERG bookcase with doors, white: /products/bookshelves-and-bookcases/59581558.txt
+- BILLY / OXBERG bookcase with doors, white: /products/bookshelves-and-bookcases/49280042.txt
+- BILLY / OXBERG bookcase with doors, white: /products/bookshelves-and-bookcases/29281066.txt
+- BILLY / OXBERG bookcase with doors, white: /products/bookshelves-and-bookcases/09571236.txt
+- BILLY / OXBERG bookcase with doors, oak effect: /products/bookshelves-and-bookcases/59483275.txt
+- BILLY / OXBERG bookcase with doors, oak effect: /products/bookshelves-and-bookcases/09483367.txt
+- BILLY / OXBERG bookcase with doors, dark brown oak effect: /products/bookshelves-and-bookcases/99483278.txt
+- BILLY / OXBERG bookcase with doors, dark brown oak effect: /products/bookshelves-and-bookcases/29483366.txt
+- BILLY / OXBERG bookcase with doors, brown walnut effect: /products/bookshelves-and-bookcases/49563135.txt
+- BILLY / OXBERG bookcase with doors, brown walnut effect: /products/bookshelves-and-bookcases/49483365.txt
+- BILLY / OXBERG bookcase with doors, brown walnut effect: /products/bookshelves-and-bookcases/39483276.txt
+- BILLY / OXBERG bookcase with doors, black oak effect: /products/bookshelves-and-bookcases/79563134.txt
+- BILLY / OXBERG bookcase with doors, black oak effect: /products/bookshelves-and-bookcases/79483364.txt
+- BILLY / OXBERG bookcase with doors, black oak effect: /products/bookshelves-and-bookcases/19483277.txt
+- BILLY / OXBERG bookcase with doors, birch effect: /products/bookshelves-and-bookcases/99483363.txt
+- BILLY / OXBERG bookcase with doors, birch effect: /products/bookshelves-and-bookcases/09483273.txt
+- BILLY / OXBERG bookcase with door, white: /products/bookshelves-and-bookcases/69287392.txt
+- BILLY / OXBERG bookcase with door, white: /products/bookshelves-and-bookcases/39571391.txt
+- BILLY / OXBERG bookcase with door, oak effect: /products/bookshelves-and-bookcases/09483292.txt
+- BILLY / OXBERG bookcase with door, dark brown oak effect: /products/bookshelves-and-bookcases/29483291.txt
+- BILLY / OXBERG bookcase with door, brown walnut effect: /products/bookshelves-and-bookcases/49483290.txt
+- BILLY / OXBERG bookcase with door, black oak effect: /products/bookshelves-and-bookcases/69483289.txt
+- BILLY / OXBERG bookcase with door, birch effect: /products/bookshelves-and-bookcases/89483288.txt
+- BILLY / OXBERG Bookcase with desk, white: /products/bookshelves-and-bookcases/89612681.txt
+- BILLY / OXBERG Bookcase with desk, white: /products/bookshelves-and-bookcases/49571178.txt
+- BILLY / OXBERG Bookcase with desk, oak effect/white: /products/bookshelves-and-bookcases/79563940.txt
+- BILLY / OXBERG Bookcase with desk, birch effect/white: /products/bookshelves-and-bookcases/79563935.txt
+- BILLY / OXBERG bookcase, white: /products/bookshelves-and-bookcases/89581547.txt
+- BILLY / OXBERG bookcase, white: /products/bookshelves-and-bookcases/69217714.txt
+- BILLY / OXBERG bookcase, white: /products/bookshelves-and-bookcases/69017828.txt
+- BILLY / OXBERG bookcase, white: /products/bookshelves-and-bookcases/49581549.txt
+- BILLY / OXBERG bookcase, white: /products/bookshelves-and-bookcases/49581484.txt
+- BILLY / OXBERG bookcase, white: /products/bookshelves-and-bookcases/49017834.txt
+- BILLY / OXBERG bookcase, white: /products/bookshelves-and-bookcases/39581559.txt
+- BILLY / OXBERG bookcase, white: /products/bookshelves-and-bookcases/39047737.txt
+- BILLY / OXBERG bookcase, white/glass: /products/bookshelves-and-bookcases/89017832.txt
+- BILLY / OXBERG bookcase, white/glass: /products/bookshelves-and-bookcases/69581548.txt
+- BILLY / OXBERG bookcase, white/glass: /products/bookshelves-and-bookcases/59217724.txt
+- BILLY / OXBERG bookcase, white/glass: /products/bookshelves-and-bookcases/09581546.txt
+- BILLY / OXBERG bookcase w hght ext ut/pnl/glss drs, white/glass: /products/bookshelves-and-bookcases/89287433.txt
+- BILLY / OXBERG bookcase w hght ext ut/pnl/glss drs, white/glass: /products/bookshelves-and-bookcases/59581520.txt
+- BILLY / OXBERG bookcase w hght ext ut/pnl/glss drs, oak effect/clear glass: /products/bookshelves-and-bookcases/19581895.txt
+- BILLY / OXBERG bookcase w hght ext ut/pnl/glss drs, dark brown oak effect/clear glass: /products/bookshelves-and-bookcases/79581897.txt
+- BILLY / OXBERG bookcase w hght ext ut/pnl/glss drs, brown walnut effect/clear glass: /products/bookshelves-and-bookcases/99581896.txt
+- BILLY / OXBERG bookcase w glass doors, oak effect: /products/bookshelves-and-bookcases/99483320.txt
+- BILLY / OXBERG bookcase w glass doors, oak effect/clear glass: /products/bookshelves-and-bookcases/69581911.txt
+- BILLY / OXBERG bookcase w glass doors/ext unit, oak effect: /products/bookshelves-and-bookcases/59581902.txt
+- BILLY / OXBERG bookcase w glass doors/ext unit, oak effect: /products/bookshelves-and-bookcases/19483362.txt
+- BILLY / OXBERG bookcase w glass doors/ext unit, oak effect/clear glass: /products/bookshelves-and-bookcases/49581912.txt
+- BILLY / OXBERG bookcase w glass doors/ext unit, dark brown oak effect: /products/bookshelves-and-bookcases/49581894.txt
+- BILLY / OXBERG bookcase w glass doors/ext unit, dark brown oak effect: /products/bookshelves-and-bookcases/39483361.txt
+- BILLY / OXBERG bookcase w glass doors/ext unit, dark brown oak effect/clear glass: /products/bookshelves-and-bookcases/19581904.txt
+- BILLY / OXBERG bookcase w glass doors/ext unit, brown walnut effect: /products/bookshelves-and-bookcases/79581901.txt
+- BILLY / OXBERG bookcase w glass doors/ext unit, brown walnut effect: /products/bookshelves-and-bookcases/59483360.txt
+- BILLY / OXBERG bookcase w glass doors/ext unit, brown walnut effect/clear glass: /products/bookshelves-and-bookcases/29581913.txt
+- BILLY / OXBERG bookcase w glass doors/ext unit, black oak effect: /products/bookshelves-and-bookcases/79483359.txt
+- BILLY / OXBERG bookcase w glass doors/ext unit, birch effect: /products/bookshelves-and-bookcases/99483358.txt
+- BILLY / OXBERG bookcase w glass doors, dark brown oak effect: /products/bookshelves-and-bookcases/19483319.txt
+- BILLY / OXBERG bookcase w glass doors, dark brown oak effect/clear glass: /products/bookshelves-and-bookcases/89581910.txt
+- BILLY / OXBERG bookcase w glass doors, brown walnut effect: /products/bookshelves-and-bookcases/39483318.txt
+- BILLY / OXBERG bookcase w glass doors, brown walnut effect/clear glass: /products/bookshelves-and-bookcases/09581909.txt
+- BILLY / OXBERG bookcase w glass doors, black oak effect: /products/bookshelves-and-bookcases/59483317.txt
+- BILLY / OXBERG bookcase w glass doors, birch effect: /products/bookshelves-and-bookcases/79483316.txt
+- BILLY / OXBERG bookcase w doors/ext unit, white: /products/bookshelves-and-bookcases/89483368.txt
+- BILLY / OXBERG bookcase w doors/ext unit, white: /products/bookshelves-and-bookcases/69581553.txt
+- BILLY / OXBERG bookcase w doors/ext unit, oak effect: /products/bookshelves-and-bookcases/89483373.txt
+- BILLY / OXBERG bookcase w doors/ext unit, dark brown oak effect: /products/bookshelves-and-bookcases/09483372.txt
+- BILLY / OXBERG bookcase w doors/ext unit, brown walnut effect: /products/bookshelves-and-bookcases/29483371.txt
+- BILLY / OXBERG bookcase w doors/ext unit, black oak effect: /products/bookshelves-and-bookcases/49483370.txt
+- BILLY / OXBERG bookcase w doors/ext unit, birch effect: /products/bookshelves-and-bookcases/69483369.txt
+- BILLY / OXBERG bookcase+height extension & doors, white: /products/bookshelves-and-bookcases/49280754.txt
+- BILLY / OXBERG bookcase+height extension & doors, white: /products/bookshelves-and-bookcases/19581522.txt
+- BILLY / OXBERG bookcase+height extension & doors, oak effect: /products/bookshelves-and-bookcases/69581906.txt
+- BILLY / OXBERG bookcase+height extension & doors, dark brown oak effect: /products/bookshelves-and-bookcases/89581892.txt
+- BILLY / OXBERG bookcase+height extension & doors, brown walnut effect: /products/bookshelves-and-bookcases/89581905.txt
+- BILLY / OXBERG bookcase comb w panel/glass doors, white: /products/bookshelves-and-bookcases/79581524.txt
+- BILLY / OXBERG bookcase comb w panel/glass doors, white: /products/bookshelves-and-bookcases/39483605.txt
+- BILLY / OXBERG bookcase comb w panel/glass doors, oak effect: /products/bookshelves-and-bookcases/89581849.txt
+- BILLY / OXBERG bookcase comb w panel/glass doors, oak effect: /products/bookshelves-and-bookcases/79483547.txt
+- BILLY / OXBERG bookcase comb w panel/glass doors, oak effect: /products/bookshelves-and-bookcases/49581813.txt
+- BILLY / OXBERG bookcase comb w panel/glass doors, oak effect dark brown: /products/bookshelves-and-bookcases/09581848.txt
+- BILLY / OXBERG bookcase comb w panel/glass doors, dark brown oak effect: /products/bookshelves-and-bookcases/99483546.txt
+- BILLY / OXBERG bookcase comb w panel/glass doors, dark brown oak effect: /products/bookshelves-and-bookcases/89581811.txt
+- BILLY / OXBERG bookcase comb w panel/glass doors, brown walnut effect: /products/bookshelves-and-bookcases/69581812.txt
+- BILLY / OXBERG bookcase comb w panel/glass doors, brown walnut effect: /products/bookshelves-and-bookcases/29581847.txt
+- BILLY / OXBERG bookcase comb w panel/glass doors, brown walnut effect: /products/bookshelves-and-bookcases/19483545.txt
+- BILLY / OXBERG bookcase comb w panel/glass doors, black oak effect: /products/bookshelves-and-bookcases/49483544.txt
+- BILLY / OXBERG bookcase comb w panel/glass doors, birch effect: /products/bookshelves-and-bookcases/69483543.txt
+- BILLY / OXBERG bookcase comb w glass doors, white: /products/bookshelves-and-bookcases/69581529.txt
+- BILLY / OXBERG bookcase comb w glass doors, white: /products/bookshelves-and-bookcases/19483606.txt
+- BILLY / OXBERG bookcase comb w glass doors, oak effect: /products/bookshelves-and-bookcases/99483532.txt
+- BILLY / OXBERG bookcase comb w glass doors, oak effect: /products/bookshelves-and-bookcases/89483542.txt
+- BILLY / OXBERG bookcase comb w glass doors, oak effect/clear glass: /products/bookshelves-and-bookcases/09581834.txt
+- BILLY / OXBERG bookcase comb w glass doors, dark brown oak effect: /products/bookshelves-and-bookcases/19483531.txt
+- BILLY / OXBERG bookcase comb w glass doors, dark brown oak effect: /products/bookshelves-and-bookcases/09483541.txt
+- BILLY / OXBERG bookcase comb w glass doors, dark brown oak effect/clear glass: /products/bookshelves-and-bookcases/29581833.txt
+- BILLY / OXBERG bookcase comb w glass doors, brown walnut effect: /products/bookshelves-and-bookcases/39483530.txt
+- BILLY / OXBERG bookcase comb w glass doors, brown walnut effect: /products/bookshelves-and-bookcases/29483540.txt
+- BILLY / OXBERG bookcase comb w glass doors, brown walnut effect/clear glass: /products/bookshelves-and-bookcases/49581832.txt
+- BILLY / OXBERG bookcase comb w glass doors, black oak effect: /products/bookshelves-and-bookcases/59483529.txt
+- BILLY / OXBERG bookcase comb w glass doors, black oak effect: /products/bookshelves-and-bookcases/49483539.txt
+- BILLY / OXBERG bookcase comb w glass doors, birch effect: /products/bookshelves-and-bookcases/79483528.txt
+- BILLY / OXBERG bookcase comb w glass doors, birch effect: /products/bookshelves-and-bookcases/69483538.txt
+- BILLY / OXBERG bookcase comb w doors, white: /products/bookshelves-and-bookcases/99483594.txt
+- BILLY / OXBERG bookcase comb w doors, white: /products/bookshelves-and-bookcases/69590642.txt
+- BILLY / OXBERG bookcase comb w doors, white: /products/bookshelves-and-bookcases/69590637.txt
+- BILLY / OXBERG bookcase comb w doors, white: /products/bookshelves-and-bookcases/29581550.txt
+- BILLY / OXBERG bookcase comb w doors, white: /products/bookshelves-and-bookcases/19483588.txt
+- BILLY / OXBERG bookcase comb w doors, white: /products/bookshelves-and-bookcases/09581551.txt
+- BILLY / OXBERG bookcase comb w doors, oak effect: /products/bookshelves-and-bookcases/69578126.txt
+- BILLY / OXBERG bookcase comb w doors, oak effect: /products/bookshelves-and-bookcases/19483593.txt
+- BILLY / OXBERG bookcase comb w doors, dark brown oak effect: /products/bookshelves-and-bookcases/89578125.txt
+- BILLY / OXBERG bookcase comb w doors, dark brown oak effect: /products/bookshelves-and-bookcases/39483592.txt
+- BILLY / OXBERG bookcase comb w doors, brown walnut effect: /products/bookshelves-and-bookcases/59483591.txt
+- BILLY / OXBERG bookcase comb w doors, brown walnut effect: /products/bookshelves-and-bookcases/19578124.txt
+- BILLY / OXBERG bookcase comb w doors, black oak effect: /products/bookshelves-and-bookcases/79483590.txt
+- BILLY / OXBERG bookcase comb w doors, black oak effect: /products/bookshelves-and-bookcases/39578123.txt
+- BILLY / OXBERG bookcase comb w doors, birch effect: /products/bookshelves-and-bookcases/99483589.txt
+- BILLY / OXBERG bookcase comb w doors, birch effect: /products/bookshelves-and-bookcases/49578127.txt
+- BILLY / HÖGBO bookcase with glass-door, white: /products/bookshelves-and-bookcases/99571393.txt
+- BILLY / HÖGBO bookcase with desk and drawer, white: /products/bookshelves-and-bookcases/99612671.txt
+- BILLY / HÖGBO bookcase with desk and drawer, white: /products/bookshelves-and-bookcases/59563941.txt
+- BILLY / HÖGBO bookcase w glass doors, white: /products/bookshelves-and-bookcases/99484386.txt
+- BILLY / HÖGBO bookcase w glass doors, white: /products/bookshelves-and-bookcases/79483613.txt
+- BILLY / HÖGBO bookcase w glass doors, white: /products/bookshelves-and-bookcases/39581578.txt
+- BILLY / HÖGBO bookcase w glass doors, white: /products/bookshelves-and-bookcases/19581485.txt
+- BILLY / HÖGBO bookcase w glass doors, black oak effect: /products/bookshelves-and-bookcases/79484387.txt
+- BILLY / HÖGBO bookcase w glass doors, black oak effect: /products/bookshelves-and-bookcases/29483818.txt
+- BILLY / HÖGBO bookcase comb w glass doors, white: /products/bookshelves-and-bookcases/99581580.txt
+- BILLY / HÖGBO bookcase comb w glass doors, white: /products/bookshelves-and-bookcases/89494423.txt
+- BILLY / HÖGBO bookcase comb w glass doors, white: /products/bookshelves-and-bookcases/79581519.txt
+- BILLY / HÖGBO bookcase comb w glass doors, white: /products/bookshelves-and-bookcases/79483665.txt
+- BILLY / HÖGBO bookcase comb w glass doors, white: /products/bookshelves-and-bookcases/49483662.txt
+- BILLY / HÖGBO bookcase comb w glass doors, white: /products/bookshelves-and-bookcases/29494421.txt
+- BILLY / HÖGBO bookcase comb w glass doors, white: /products/bookshelves-and-bookcases/19581579.txt
+- BILLY / HÖGBO bookcase comb w glass doors, black oak effect: /products/bookshelves-and-bookcases/89484080.txt
+- BILLY / HÖGBO bookcase comb w glass doors, black oak effect: /products/bookshelves-and-bookcases/69484081.txt
+- BILLY / HÖGBO bookcase comb w glass doors, black oak effect/black: /products/bookshelves-and-bookcases/29494548.txt
+- BILLY / HÖGBO bookcase comb w glass doors, black oak effect/black: /products/bookshelves-and-bookcases/09494549.txt
+- BILLY / HÖGBO bookcase comb w foldable table, white: /products/bookshelves-and-bookcases/69590741.txt
+- BILLY / HÖGADAL bookcase with doors, white: /products/bookshelves-and-bookcases/89552149.txt
+- BILLY / HÖGADAL bookcase with doors, white: /products/bookshelves-and-bookcases/79572204.txt
+- BILLY / HÖGADAL bookcase with doors, white: /products/bookshelves-and-bookcases/49572205.txt
+- BILLY / HÖGADAL bookcase with doors, white: /products/bookshelves-and-bookcases/39578463.txt
+- BILLY / HÖGADAL bookcase with doors, white: /products/bookshelves-and-bookcases/29562293.txt
+- BILLY / HÖGADAL bookcase with doors, white: /products/bookshelves-and-bookcases/19578464.txt
+- BILLY / HÖGADAL bookcase with doors, birch effect: /products/bookshelves-and-bookcases/89562308.txt
+- BILLY / HÖGADAL bookcase with doors, birch effect: /products/bookshelves-and-bookcases/09562312.txt
+- BILLY / HÖGADAL bookcase with door, white: /products/bookshelves-and-bookcases/99572203.txt
+- BILLY / HÖGADAL bookcase with door, white: /products/bookshelves-and-bookcases/69562494.txt
+- BILLY / HÖGADAL bookcase with door, white: /products/bookshelves-and-bookcases/29562491.txt
+- BILLY / HÖGADAL bookcase with door, white: /products/bookshelves-and-bookcases/19572202.txt
+- BILLY / HÖGADAL bookcase with door, birch effect: /products/bookshelves-and-bookcases/89562493.txt
+- BILLY / HÖGADAL bookcase with door, birch effect: /products/bookshelves-and-bookcases/69562489.txt
+- BILLY / HÖGADAL Bookcase with desk, white/woven bamboo: /products/bookshelves-and-bookcases/19612670.txt
+- BILLY / HÖGADAL Bookcase with desk, white/woven bamboo: /products/bookshelves-and-bookcases/19563938.txt
+- BILLY / HÖGADAL bookcase comb w foldable table, white/woven bamboo: /products/bookshelves-and-bookcases/19590673.txt
+- BILLY height extension unit, white: /products/bookshelves-and-bookcases/90263860.txt
+- BILLY height extension unit, white: /products/bookshelves-and-bookcases/80525278.txt
+- BILLY height extension unit, white: /products/bookshelves-and-bookcases/40525275.txt
+- BILLY height extension unit, white: /products/bookshelves-and-bookcases/40263853.txt
+- BILLY height extension unit, oak effect: /products/bookshelves-and-bookcases/80477395.txt
+- BILLY height extension unit, oak effect: /products/bookshelves-and-bookcases/60477396.txt
+- BILLY height extension unit, dark brown oak effect: /products/bookshelves-and-bookcases/30492826.txt
+- BILLY height extension unit, dark brown oak effect: /products/bookshelves-and-bookcases/10492832.txt
+- BILLY height extension unit, brown walnut effect: /products/bookshelves-and-bookcases/30508667.txt
+- BILLY height extension unit, brown walnut effect: /products/bookshelves-and-bookcases/00508664.txt
+- BILLY height extension unit, black oak effect: /products/bookshelves-and-bookcases/60477358.txt
+- BILLY height extension unit, black oak effect: /products/bookshelves-and-bookcases/00477361.txt
+- BILLY height extension unit, birch effect: /products/bookshelves-and-bookcases/90495916.txt
+- BILLY height extension unit, birch effect: /products/bookshelves-and-bookcases/50495918.txt
+- BILLY extra shelf, white: /products/bookshelves-and-bookcases/10265293.txt
+- BILLY Extra shelf, glass: /products/bookshelves-and-bookcases/50286750.txt
+- BILLY Extra shelf, glass: /products/bookshelves-and-bookcases/10286752.txt
+- BILLY / EKET bookcase combination, brown walnut effect: /products/bookshelves-and-bookcases/59572653.txt
+- BILLY / EKET bookcase comb w foldable table, white: /products/bookshelves-and-bookcases/09590659.txt
+- BILLY drawer, white/with castors: /products/bookshelves-and-bookcases/20521693.txt
+- BILLY desk, white: /products/bookshelves-and-bookcases/80533278.txt
+- BILLY Corner hardware, galvanized: /products/bookshelves-and-bookcases/40104109.txt
+- BILLY bookcase with height extension unit, oak effect: /products/bookshelves-and-bookcases/89581887.txt
+- BILLY bookcase with height extension unit, oak effect: /products/bookshelves-and-bookcases/59581884.txt
+- BILLY bookcase with height extension unit, dark brown oak effect: /products/bookshelves-and-bookcases/99581882.txt
+- BILLY bookcase with height extension unit, dark brown oak effect: /products/bookshelves-and-bookcases/29581885.txt
+- BILLY bookcase with height extension unit, brown walnut effect: /products/bookshelves-and-bookcases/39581880.txt
+- BILLY bookcase with height extension unit, brown walnut effect: /products/bookshelves-and-bookcases/09581891.txt
+- BILLY bookcase with glass doors, green: /products/bookshelves-and-bookcases/00594925.txt
+- BILLY Bookcase with glass doors, dark blue: /products/bookshelves-and-bookcases/20323805.txt
+- BILLY bookcase with foldable table, white: /products/bookshelves-and-bookcases/00579755.txt
+- BILLY bookcase with drawer, white: /products/bookshelves-and-bookcases/89570370.txt
+- BILLY bookcase with drawer, white: /products/bookshelves-and-bookcases/39483808.txt
+- BILLY bookcase with drawer, white: /products/bookshelves-and-bookcases/29570373.txt
+- BILLY bookcase with drawer, white: /products/bookshelves-and-bookcases/29487840.txt
+- BILLY bookcase with doors, white: /products/bookshelves-and-bookcases/39581494.txt
+- BILLY bookcase with doors, brown walnut effect: /products/bookshelves-and-bookcases/19563132.txt
+- BILLY bookcase with doors, black oak effect: /products/bookshelves-and-bookcases/39563131.txt
+- BILLY Bookcase with desk, white: /products/bookshelves-and-bookcases/59612668.txt
+- BILLY Bookcase with desk, white: /products/bookshelves-and-bookcases/39612669.txt
+- BILLY Bookcase with desk, white: /products/bookshelves-and-bookcases/39570141.txt
+- BILLY Bookcase with desk, white: /products/bookshelves-and-bookcases/29563933.txt
+- BILLY Bookcase with desk, oak effect/white: /products/bookshelves-and-bookcases/49563932.txt
+- BILLY Bookcase with desk, birch effect/white: /products/bookshelves-and-bookcases/69563931.txt
+- BILLY bookcase with desk and drawer, white: /products/bookshelves-and-bookcases/99612666.txt
+- BILLY bookcase with desk and drawer, white: /products/bookshelves-and-bookcases/79612667.txt
+- BILLY bookcase with desk and drawer, white: /products/bookshelves-and-bookcases/39563942.txt
+- BILLY bookcase with desk and drawer, white: /products/bookshelves-and-bookcases/19570142.txt
+- BILLY bookcase, white: /products/bookshelves-and-bookcases/89581514.txt
+- BILLY bookcase, white: /products/bookshelves-and-bookcases/89581509.txt
+- BILLY bookcase, white: /products/bookshelves-and-bookcases/89017827.txt
+- BILLY bookcase, white: /products/bookshelves-and-bookcases/79017837.txt
+- BILLY bookcase, white: /products/bookshelves-and-bookcases/59581515.txt
+- BILLY bookcase, white: /products/bookshelves-and-bookcases/59182201.txt
+- BILLY bookcase, white: /products/bookshelves-and-bookcases/59017838.txt
+- BILLY bookcase, white: /products/bookshelves-and-bookcases/49217734.txt
+- BILLY bookcase, white: /products/bookshelves-and-bookcases/39581516.txt
+- BILLY bookcase, white: /products/bookshelves-and-bookcases/39017839.txt
+- BILLY bookcase, white: /products/bookshelves-and-bookcases/09581513.txt
+- BILLY bookcase, white: /products/bookshelves-and-bookcases/09017826.txt
+- BILLY bookcase, white: /products/bookshelves-and-bookcases/90522043.txt
+- BILLY bookcase, white: /products/bookshelves-and-bookcases/80263832.txt
+- BILLY bookcase, white: /products/bookshelves-and-bookcases/50522040.txt
+- BILLY bookcase, white: /products/bookshelves-and-bookcases/50263838.txt
+- BILLY bookcase, white: /products/bookshelves-and-bookcases/30263844.txt
+- BILLY bookcase, white: /products/bookshelves-and-bookcases/20522046.txt
+- BILLY bookcase, white: /products/bookshelves-and-bookcases/10522037.txt
+- BILLY bookcase, white: /products/bookshelves-and-bookcases/00263850.txt
+- BILLY bookcase w hght ext ut/pnl/glss drs, white: /products/bookshelves-and-bookcases/69581505.txt
+- BILLY bookcase w hght ext ut/pnl/glss drs, white: /products/bookshelves-and-bookcases/29287346.txt
+- BILLY bookcase, oak effect: /products/bookshelves-and-bookcases/90477385.txt
+- BILLY bookcase, oak effect: /products/bookshelves-and-bookcases/60477382.txt
+- BILLY bookcase, oak effect: /products/bookshelves-and-bookcases/20477379.txt
+- BILLY bookcase, oak effect: /products/bookshelves-and-bookcases/10508932.txt
+- BILLY bookcase, green: /products/bookshelves-and-bookcases/49580093.txt
+- BILLY bookcase, dark brown oak effect: /products/bookshelves-and-bookcases/80492782.txt
+- BILLY bookcase, dark brown oak effect: /products/bookshelves-and-bookcases/60492778.txt
+- BILLY bookcase, dark brown oak effect: /products/bookshelves-and-bookcases/40492779.txt
+- BILLY bookcase, dark brown oak effect: /products/bookshelves-and-bookcases/00492757.txt
+- BILLY bookcase, dark blue: /products/bookshelves-and-bookcases/19217721.txt
+- BILLY bookcase corner comb w ext units, white: /products/bookshelves-and-bookcases/99581504.txt
+- BILLY bookcase corner comb w ext units, white: /products/bookshelves-and-bookcases/29485836.txt
+- BILLY bookcase corner comb w ext units, oak effect: /products/bookshelves-and-bookcases/79483552.txt
+- BILLY bookcase corner comb w ext units, oak effect: /products/bookshelves-and-bookcases/49581889.txt
+- BILLY bookcase corner comb w ext units, dark brown oak effect: /products/bookshelves-and-bookcases/99483551.txt
+- BILLY bookcase corner comb w ext units, dark brown oak effect: /products/bookshelves-and-bookcases/59581879.txt
+- BILLY bookcase corner comb w ext units, brown walnut effect: /products/bookshelves-and-bookcases/69581888.txt
+- BILLY bookcase corner comb w ext units, brown walnut effect: /products/bookshelves-and-bookcases/19483550.txt
+- BILLY bookcase corner comb w ext units, black oak effect: /products/bookshelves-and-bookcases/39483549.txt
+- BILLY bookcase corner comb w ext units, birch effect: /products/bookshelves-and-bookcases/59483548.txt
+- BILLY bookcase combination, white: /products/bookshelves-and-bookcases/19581517.txt
+- BILLY bookcase combination, oak effect: /products/bookshelves-and-bookcases/59581822.txt
+- BILLY bookcase combination, oak effect: /products/bookshelves-and-bookcases/59581817.txt
+- BILLY bookcase combination, dark brown oak effect: /products/bookshelves-and-bookcases/79581821.txt
+- BILLY bookcase combination, dark brown oak effect: /products/bookshelves-and-bookcases/79581816.txt
+- BILLY bookcase combination/crn solution, white: /products/bookshelves-and-bookcases/99395936.txt
+- BILLY bookcase combination/crn solution, white: /products/bookshelves-and-bookcases/49581511.txt
+- BILLY bookcase combination, brown walnut effect: /products/bookshelves-and-bookcases/99581820.txt
+- BILLY bookcase combination, brown walnut effect: /products/bookshelves-and-bookcases/99581815.txt
+- BILLY bookcase comb w foldable table, white: /products/bookshelves-and-bookcases/59590671.txt
+- BILLY bookcase comb w extension units, oak effect: /products/bookshelves-and-bookcases/89483537.txt
+- BILLY bookcase comb w extension units, oak effect: /products/bookshelves-and-bookcases/89483392.txt
+- BILLY bookcase comb w extension units, dark brown oak effect: /products/bookshelves-and-bookcases/09483536.txt
+- BILLY bookcase comb w extension units, dark brown oak effect: /products/bookshelves-and-bookcases/09483391.txt
+- BILLY bookcase comb w extension units, brown walnut effect: /products/bookshelves-and-bookcases/29483535.txt
+- BILLY bookcase comb w extension units, brown walnut effect: /products/bookshelves-and-bookcases/29483390.txt
+- BILLY bookcase comb w extension units, black oak effect: /products/bookshelves-and-bookcases/59483534.txt
+- BILLY bookcase comb w extension units, black oak effect: /products/bookshelves-and-bookcases/49483389.txt
+- BILLY bookcase comb w extension units, birch effect: /products/bookshelves-and-bookcases/79483533.txt
+- BILLY bookcase comb w extension units, birch effect: /products/bookshelves-and-bookcases/69483388.txt
+- BILLY bookcase, brown walnut effect: /products/bookshelves-and-bookcases/80508641.txt
+- BILLY bookcase, brown walnut effect: /products/bookshelves-and-bookcases/50508652.txt
+- BILLY bookcase, brown walnut effect: /products/bookshelves-and-bookcases/30508648.txt
+- BILLY bookcase, brown walnut effect: /products/bookshelves-and-bookcases/10508625.txt
+- BILLY bookcase, black oak effect: /products/bookshelves-and-bookcases/70477334.txt
+- BILLY bookcase, black oak effect: /products/bookshelves-and-bookcases/40477340.txt
+- BILLY bookcase, black oak effect: /products/bookshelves-and-bookcases/30477331.txt
+- BILLY bookcase, black oak effect: /products/bookshelves-and-bookcases/00477337.txt
+- BILLY bookcase, birch effect: /products/bookshelves-and-bookcases/90495855.txt
+- BILLY bookcase, birch effect: /products/bookshelves-and-bookcases/20495830.txt
+- BILLY bookcase, birch effect: /products/bookshelves-and-bookcases/10495864.txt
+- BILLY bookcase, birch effect: /products/bookshelves-and-bookcases/00495845.txt
+- BILLY / BERGSHULT bookcase comb w foldable table, white: /products/bookshelves-and-bookcases/99590650.txt
+- BAGGEBO cabinet with door, white: /products/bookshelves-and-bookcases/60481204.txt
+- BAGGEBO bookcase, white: /products/bookshelves-and-bookcases/70481171.txt
+- BAGGEBO bookcase, white: /products/bookshelves-and-bookcases/20436713.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

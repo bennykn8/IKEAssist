@@ -1,0 +1,57 @@
+# @CATEGORY
+Name: Gaming desk & chair sets
+ProductCount: 35
+
+# @FILTERS
+PriceRange: $219.98 - $1298.99
+Materials: Back frame: Steel, Epoxy powder coating, Cable management: 100 % polyester (100% recycled), Coated fabric: 100 % polyurethane, 75 % polyester, 25 % cotton, Fiberboard, Acrylic paint, Printed acrylic paint, Printed acrylic paint, Frame/ Support: Steel, Epoxy/polyester powder coating, Leg/ Midbeam/ Bracket: Steel, Epoxy/polyester powder coating, Leg/ Top rail/ Support rail, back: Steel, Epoxy/polyester powder coating, Part 1: Steel, Epoxy/polyester powder coating, Polypropylene, Part 2/ Part 05/ Part 06: Steel, Epoxy/polyester powder coating, Synthetic rubber, Part 3: Steel, Epoxy/polyester powder coating, Synthetic rubber, Steel
+Brand: IKEA
+
+# @ITEMS
+- UTESPELARE / STYRSPEL gaming desk and chair, black/purple: /products/gaming-desk-and-chair-sets/19491041.txt
+- UTESPELARE / STYRSPEL gaming desk and chair, black/gray: /products/gaming-desk-and-chair-sets/49491167.txt
+- UTESPELARE / STYRSPEL gaming desk and chair, black gray/red: /products/gaming-desk-and-chair-sets/19491036.txt
+- UTESPELARE / STYRSPEL gaming desk and chair, black blue/light gray: /products/gaming-desk-and-chair-sets/59491162.txt
+- UTESPELARE / MATCHSPEL gaming desk, chair and drawer unit, black: /products/gaming-desk-and-chair-sets/89443004.txt
+- UTESPELARE / MATCHSPEL gaming desk and chair, black: /products/gaming-desk-and-chair-sets/79440770.txt
+- UTESPELARE / MATCHSPEL gaming desk and chair, ash effect/light gray: /products/gaming-desk-and-chair-sets/19537384.txt
+- UTESPELARE / HELMER desk, chair and drawer unit, black: /products/gaming-desk-and-chair-sets/49440776.txt
+- UTESPELARE gaming desk and chair, black: /products/gaming-desk-and-chair-sets/69440704.txt
+- UTESPELARE gaming desk and chair, ash effect/gray: /products/gaming-desk-and-chair-sets/19537379.txt
+- UPPSPEL / STYRSPEL gaming desk and chair, black/purple: /products/gaming-desk-and-chair-sets/79491397.txt
+- UPPSPEL / STYRSPEL gaming desk and chair, black/purple: /products/gaming-desk-and-chair-sets/39492718.txt
+- UPPSPEL / STYRSPEL gaming desk and chair, black/gray: /products/gaming-desk-and-chair-sets/79492740.txt
+- UPPSPEL / STYRSPEL gaming desk and chair, black/gray: /products/gaming-desk-and-chair-sets/19491499.txt
+- UPPSPEL / STYRSPEL gaming desk and chair, black gray/red: /products/gaming-desk-and-chair-sets/99491382.txt
+- UPPSPEL / STYRSPEL gaming desk and chair, black gray/red: /products/gaming-desk-and-chair-sets/39492704.txt
+- UPPSPEL / STYRSPEL gaming desk and chair, black blue/light gray: /products/gaming-desk-and-chair-sets/89492730.txt
+- UPPSPEL / STYRSPEL gaming desk and chair, black blue/light gray: /products/gaming-desk-and-chair-sets/59491416.txt
+- UPPSPEL / MATCHSPEL gaming desk and chair, black: /products/gaming-desk-and-chair-sets/69437160.txt
+- UPPSPEL / MATCHSPEL gaming desk and chair, black: /products/gaming-desk-and-chair-sets/59437491.txt
+- UPPSPEL / GRUPPSPEL gaming desk and chair, black/gray: /products/gaming-desk-and-chair-sets/99440967.txt
+- UPPSPEL / GRUPPSPEL gaming desk and chair, black/gray: /products/gaming-desk-and-chair-sets/19441046.txt
+- UPPSPEL / GRUPPSPEL gaming desk and chair, black/Grann black: /products/gaming-desk-and-chair-sets/89441175.txt
+- UPPSPEL / GRUPPSPEL gaming desk and chair, black/Grann black: /products/gaming-desk-and-chair-sets/69441505.txt
+- TROTTEN / MATCHSPEL desk and chair, white/light gray: /products/gaming-desk-and-chair-sets/69537701.txt
+- HUVUDSPELARE / UTESPELARE gaming desk and chair, black: /products/gaming-desk-and-chair-sets/79490958.txt
+- HUVUDSPELARE / UTESPELARE gaming desk and chair, beige/gray: /products/gaming-desk-and-chair-sets/09492772.txt
+- HUVUDSPELARE / MATCHSPEL gaming desk and chair, black: /products/gaming-desk-and-chair-sets/79490963.txt
+- HUVUDSPELARE / MATCHSPEL gaming desk and chair, beige/light gray: /products/gaming-desk-and-chair-sets/89537385.txt
+- HUVUDSPELARE gaming desk and chair, black: /products/gaming-desk-and-chair-sets/29490951.txt
+- FREDDE / STYRSPEL gaming desk and chair, black/purple: /products/gaming-desk-and-chair-sets/99491315.txt
+- FREDDE / STYRSPEL gaming desk and chair, black/gray: /products/gaming-desk-and-chair-sets/09491334.txt
+- FREDDE / STYRSPEL gaming desk and chair, black gray/red: /products/gaming-desk-and-chair-sets/89491311.txt
+- FREDDE / STYRSPEL gaming desk and chair, black blue/light gray: /products/gaming-desk-and-chair-sets/09491329.txt
+- FREDDE / MATCHSPEL gaming desk and chair, black: /products/gaming-desk-and-chair-sets/59440785.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

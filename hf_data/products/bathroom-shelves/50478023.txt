@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LILLASJÖN wall shelf with 5 hooks
+SKU: 50478023
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lillasjoen-wall-shelf-with-5-hooks-50478023/
+Category: Bathroom shelves
+Description: This shelf and hook storage in black metal has a ledge to keep your things in place. The design harmonizes well with other bathroom accessories in the LILLASJÖN series. Practical shelf and hook storag...
+
+# @OFFER
+Price: 13.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Galvanized steel, Powder coating
+Features: Combines with other products in the LILLASJÖN series. | Max. load: 22 lbs.
+Care: Wipe clean using a damp cloth and a mild cleaner.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lillasjoen-wall-shelf-with-5-hooks__0947950_pe798780_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

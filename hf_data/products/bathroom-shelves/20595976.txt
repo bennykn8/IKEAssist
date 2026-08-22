@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BÄSINGEN towel rail, anthracite, 25 ½"
+SKU: 20595976
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/baesingen-towel-rail-anthracite-20595976/
+Category: Bathroom shelves
+Description: BÄSINGEN series with clean and simple expression in dark grey, is designed to make everyday tasks at home easier. This towel rail offers a helping hand when you need something to grab a hold of. Easy ...
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Towel rail: Steel, Powder coating, Mounting plate: Aluminum, Anodized
+Features: Only for domestic use. | When fixing the accessory to a stud wall, make sure that you attach at least 2 of the accessory's 4 fixing points directly to a stud. | Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/baesingen-towel-rail-anthracite__1386019_pe963589_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

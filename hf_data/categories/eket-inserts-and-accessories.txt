@@ -1,0 +1,36 @@
+# @CATEGORY
+Name: EKET inserts & accessories
+ProductCount: 14
+
+# @FILTERS
+PriceRange: $2.99 - $26.99
+Materials: Bamboo, Tinted lacquer, Foot: Polypropylene, Galvanized steel, Mounting plate: Steel, Epoxy powder coating, PET plastic (min. 50% recycled), Solid birch, Clear acrylic lacquer, Steel, Epoxy/polyester powder coating, Steel, Galvanized, Tempered glass, Tube: Stainless steel
+Brand: IKEA
+
+# @ITEMS
+- KUGGIS box with lid, light gray, 14 ½x21 ¼x8 ¼": /products/eket-inserts-and-accessories/89596761.txt
+- KUGGIS box with lid, light gray, 10 ¼x13 ¾x: /products/eket-inserts-and-accessories/69596762.txt
+- KUGGIS box with lid, light gray, 5x7x3 ¼": /products/eket-inserts-and-accessories/09596760.txt
+- KUGGIS box with lid, light gray/bamboo, 10 ¼x13 ¾x: /products/eket-inserts-and-accessories/69596818.txt
+- KUGGIS box with lid, light gray/bamboo, 14 ½x21 ¼x8 ¼": /products/eket-inserts-and-accessories/29596815.txt
+- KUGGIS box with lid, light gray/bamboo, 5x7x3 ¼": /products/eket-inserts-and-accessories/09596816.txt
+- EKET suspension rail, 27 ½": /products/eket-inserts-and-accessories/80340048.txt
+- EKET Suspension rail, Width: 11 ½": /products/eket-inserts-and-accessories/00340047.txt
+- EKET leg, wood: /products/eket-inserts-and-accessories/80474151.txt
+- EKET leg, metal/silver color: /products/eket-inserts-and-accessories/70428904.txt
+- EKET leg, metal/black: /products/eket-inserts-and-accessories/70574660.txt
+- EKET Glass door, clear glass: /products/eket-inserts-and-accessories/30428901.txt
+- EKET foot, adjustable, metal: /products/eket-inserts-and-accessories/70340044.txt
+- EKET connection hardware: /products/eket-inserts-and-accessories/80334617.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

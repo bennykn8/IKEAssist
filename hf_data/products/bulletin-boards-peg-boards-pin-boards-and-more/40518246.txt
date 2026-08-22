@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SNICKRA 8-piece storage board set, gray-green
+SKU: 40518246
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/snickra-8-piece-storage-board-set-gray-green-40518246/
+Category: Bulletin boards, peg boards, pin boards & more
+Description: , 15x15" This practical storage board with a shelf, a container, clips and hooks helps you keep track of everything from pens and notes to keys and mobile phones – all in a very small space. Perfect f...
+
+# @OFFER
+Price: 14.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame/ Shelf: Steel, Powder coating, Clip/ Hook: Reinforced polyamide
+Features: Includes: 1 wall grid (15x15"), 1 container (3½x2x3½"), 1 shelf (7½x3⅛x¾"), 2 clamps, 3 hooks. | Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Screws for wall mounting sold separately.
+Care: Wipe clean with a soft cloth dampened with water and a mild dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/snickra-8-piece-storage-board-set-gray-green__1045574_pe842659_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,36 @@
+# @CATEGORY
+Name: Chair beds
+ProductCount: 14
+
+# @FILTERS
+PriceRange: $399.00 - $699.00
+Materials: Back and seat frame: Fiberboard, Particleboard, Solid wood, Polyurethane foam 1.7 lb/cu.ft., Clip: Polypropylene, Fabric: 100% polyester (min. 90% recycled), Frame: Solid wood, Plywood, Laminated veneer lumber, Polyurethane foam 2.0 lb/cu.ft., Solid pine, Clear acrylic lacquer, Mattress cover/ Back fabric: 100 % polyester (100% recycled), Seat cushion: High-resilience polyurethane foam (cold foam) 2.2 lb/cu.ft., Polyurethane foam 1.2 lb/cu.ft., Felt liner, Smolder resistant lining/ Smolder resistant lining: Polyester wadding, Wadding: 100% polyester (min. 70% recycled)
+Brand: IKEA
+
+# @ITEMS
+- TORNSBORG chair-bed, Naggen beige/pine: /products/chair-beds/80586101.txt
+- KIVIK 1-seat sleeper sofa, Tresund light beige: /products/chair-beds/09470242.txt
+- KIVIK 1-seat sleeper sofa, Tresund anthracite: /products/chair-beds/79470248.txt
+- KIVIK 1-seat sleeper sofa, Tibbleby beige/gray: /products/chair-beds/29470236.txt
+- KIVIK 1-seat sleeper sofa, Tallmyra white/black: /products/chair-beds/49499658.txt
+- KIVIK 1-seat sleeper sofa, Tallmyra light green: /products/chair-beds/69499657.txt
+- KIVIK 1-seat sleeper sofa, Tallmyra dark green: /products/chair-beds/89499656.txt
+- KIVIK 1-seat sleeper sofa, Tallmyra blue: /products/chair-beds/09499655.txt
+- KIVIK 1-seat sleeper sofa, Kelinge gray-turquoise: /products/chair-beds/19482796.txt
+- KIVIK 1-seat sleeper sofa, Gunnared medium gray: /products/chair-beds/39499654.txt
+- KIVIK 1-seat sleeper sofa, Gunnared light green: /products/chair-beds/59499653.txt
+- KIVIK 1-seat sleeper sofa, Gunnared light brown-pink: /products/chair-beds/79499652.txt
+- KIVIK 1-seat sleeper sofa, Gunnared blue: /products/chair-beds/99499651.txt
+- KIVIK 1-seat sleeper sofa, Gunnared beige: /products/chair-beds/19499650.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

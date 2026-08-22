@@ -1,0 +1,52 @@
+# @CATEGORY
+Name: Kitchen shelves
+ProductCount: 30
+
+# @FILTERS
+PriceRange: $10.00 - $199.00
+Materials: Back: Fiberboard, Ash veneer, Stain, Clear acrylic lacquer, Ash veneer, Cabinet: Particleboard, Plastic foil (min. 90% recycled), Plastic edging (min. 50% recycled), Drawer front: Particleboard, Ash veneer, Ash veneer, Stain, Clear acrylic lacquer, Ash veneer, Handle/ Track/ Front plinth: Polypropylene, Jalusi: Polypropylene, Clear acrylic lacquer, Clear acrylic lacquer, Main parts: Particleboard, Ash veneer, Ash veneer, Stain, Clear acrylic lacquer, Ash veneer, Melamine foil, Metal part: Steel, Galvanized, Particleboard, Melamine foil, Plastic edging, Partition: Fiberboard, Ash veneer, Ash veneer, Stain, Clear acrylic lacquer, Ash veneer, Fiberboard, Clear acrylic lacquer, Solid oak, Clear acrylic lacquer
+Brand: IKEA
+
+# @ITEMS
+- VADHOLMA Wine shelf, brown, stained ash: /products/kitchen-shelves/50374346.txt
+- VADHOLMA Drawer unit, brown, stained ash: /products/kitchen-shelves/40374342.txt
+- UTRUSTA shelf, white: /products/kitchen-shelves/90265524.txt
+- UTRUSTA shelf, white: /products/kitchen-shelves/80265548.txt
+- UTRUSTA shelf, white: /products/kitchen-shelves/80265534.txt
+- UTRUSTA shelf, white: /products/kitchen-shelves/80265529.txt
+- UTRUSTA shelf, white: /products/kitchen-shelves/60265530.txt
+- UTRUSTA shelf, white: /products/kitchen-shelves/60265525.txt
+- UTRUSTA shelf, white: /products/kitchen-shelves/50265535.txt
+- UTRUSTA shelf, white: /products/kitchen-shelves/40265531.txt
+- UTRUSTA shelf, white: /products/kitchen-shelves/40265526.txt
+- UTRUSTA shelf, white: /products/kitchen-shelves/20265532.txt
+- UTRUSTA shelf, white: /products/kitchen-shelves/20265527.txt
+- UTRUSTA shelf, white: /products/kitchen-shelves/10265523.txt
+- UTRUSTA shelf, white: /products/kitchen-shelves/00265533.txt
+- UTRUSTA shelf, white: /products/kitchen-shelves/00265528.txt
+- UTRUSTA shelf, glass: /products/kitchen-shelves/80265609.txt
+- UTRUSTA shelf, glass: /products/kitchen-shelves/40265611.txt
+- UTRUSTA shelf, glass: /products/kitchen-shelves/20265607.txt
+- UTRUSTA shelf, glass: /products/kitchen-shelves/00265613.txt
+- UTRUSTA shelf, glass: /products/kitchen-shelves/00265608.txt
+- UTRUSTA shelf for corner wall cabinet, white: /products/kitchen-shelves/70265619.txt
+- UTRUSTA shelf for corner wall cabinet, glass: /products/kitchen-shelves/80265614.txt
+- UTRUSTA shelf for corner base cabinet, white: /products/kitchen-shelves/70602489.txt
+- UTRUSTA shelf for corner base cabinet, white: /products/kitchen-shelves/60596766.txt
+- UTRUSTA Shelf for corner base cabinet, white: /products/kitchen-shelves/10265622.txt
+- TORNVIKEN wall shelf, off-white: /products/kitchen-shelves/80393517.txt
+- TORNVIKEN wall shelf, off-white: /products/kitchen-shelves/60391661.txt
+- TITTEBO roll-front cabinet, black: /products/kitchen-shelves/20569227.txt
+- KLAVRESTRÖM wall shelf, oak: /products/kitchen-shelves/30601689.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

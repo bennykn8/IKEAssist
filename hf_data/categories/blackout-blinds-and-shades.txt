@@ -1,0 +1,63 @@
+# @CATEGORY
+Name: Blackout blinds & shades
+ProductCount: 41
+
+# @FILTERS
+PriceRange: $13.99 - $59.99
+Materials: Backing: 100 % Polyethylene plastic, Bottom rail: PET plastic, Polystyrene, Bottom rail: Polystyrene, Fabric treatment: Polyethylene, Fabric: 100 % polyester (100% recycled), Fabric: 100% polyester (min. 90% recycled), Inner fabric: Polyethylene, Top rail/ Bottom rail: Aluminum, Anodized, Wallbracket: Acetal plastic
+Brand: IKEA
+
+# @ITEMS
+- TRETUR black-out roller blind, white, 34x76 ¾": /products/blackout-blinds-and-shades/90491112.txt
+- TRETUR black-out roller blind, white, 30x76 ¾": /products/blackout-blinds-and-shades/70491108.txt
+- TRETUR black-out roller blind, white, 23x76 ¾": /products/blackout-blinds-and-shades/60491104.txt
+- TRETUR black-out roller blind, white, 36x76 ¾": /products/blackout-blinds-and-shades/50491114.txt
+- TRETUR black-out roller blind, white, 32x76 ¾": /products/blackout-blinds-and-shades/30491110.txt
+- TRETUR black-out roller blind, white, 27x76 ¾": /products/blackout-blinds-and-shades/10491106.txt
+- TRETUR black-out roller blind, white, 38x76 ¾": /products/blackout-blinds-and-shades/00491116.txt
+- TRETUR black-out roller blind, white, 48x76 ¾": /products/blackout-blinds-and-shades/00491102.txt
+- TRETUR black-out roller blind, light gray, 48x76 ¾": /products/blackout-blinds-and-shades/80380464.txt
+- TRETUR black-out roller blind, light gray, 36x76 ¾": /products/blackout-blinds-and-shades/70381015.txt
+- TRETUR black-out roller blind, light gray, 32x76 ¾": /products/blackout-blinds-and-shades/60380479.txt
+- TRETUR black-out roller blind, light gray, 38x76 ¾": /products/blackout-blinds-and-shades/50381016.txt
+- TRETUR black-out roller blind, light gray, 23x76 ¾": /products/blackout-blinds-and-shades/50380470.txt
+- TRETUR black-out roller blind, light gray, 27x76 ¾": /products/blackout-blinds-and-shades/40380475.txt
+- TRETUR black-out roller blind, light gray, 30x76 ¾": /products/blackout-blinds-and-shades/20380476.txt
+- TRETUR black-out roller blind, light gray, 34x76 ¾": /products/blackout-blinds-and-shades/00381014.txt
+- FRIDANS black-out roller blind, white yellow/stripe, 36x76 ¾": /products/blackout-blinds-and-shades/90595727.txt
+- FRIDANS black-out roller blind, white yellow/stripe, 48x76 ¾": /products/blackout-blinds-and-shades/70595728.txt
+- FRIDANS black-out roller blind, white yellow/stripe, 34x76 ¾": /products/blackout-blinds-and-shades/10595726.txt
+- FRIDANS black-out roller blind, white, 36x76 ¾": /products/blackout-blinds-and-shades/80396945.txt
+- FRIDANS black-out roller blind, white, 27x76 ¾": /products/blackout-blinds-and-shades/70396941.txt
+- FRIDANS black-out roller blind, white, 38x76 ¾": /products/blackout-blinds-and-shades/60396946.txt
+- FRIDANS black-out roller blind, white, 30x76 ¾": /products/blackout-blinds-and-shades/50396942.txt
+- FRIDANS black-out roller blind, white, 42x76 ¾": /products/blackout-blinds-and-shades/30396943.txt
+- FRIDANS black-out roller blind, white, 48x76 ¾": /products/blackout-blinds-and-shades/30396938.txt
+- FRIDANS black-out roller blind, white, 34x76 ¾": /products/blackout-blinds-and-shades/10396944.txt
+- FRIDANS black-out roller blind, white, 23x76 ¾": /products/blackout-blinds-and-shades/10396939.txt
+- FÖNSTERBLAD black-out roller blind, white: /products/blackout-blinds-and-shades/90538713.txt
+- FÖNSTERBLAD black-out roller blind, white: /products/blackout-blinds-and-shades/80562077.txt
+- FÖNSTERBLAD black-out roller blind, white: /products/blackout-blinds-and-shades/70538709.txt
+- FÖNSTERBLAD black-out roller blind, white: /products/blackout-blinds-and-shades/60562078.txt
+- FÖNSTERBLAD black-out roller blind, white: /products/blackout-blinds-and-shades/60538719.txt
+- FÖNSTERBLAD black-out roller blind, white: /products/blackout-blinds-and-shades/40538715.txt
+- FÖNSTERBLAD black-out roller blind, white: /products/blackout-blinds-and-shades/00538717.txt
+- FÖNSTERBLAD black-out roller blind, beige: /products/blackout-blinds-and-shades/50538705.txt
+- FÖNSTERBLAD black-out roller blind, beige: /products/blackout-blinds-and-shades/40538701.txt
+- FÖNSTERBLAD black-out roller blind, beige: /products/blackout-blinds-and-shades/20562075.txt
+- FÖNSTERBLAD black-out roller blind, beige: /products/blackout-blinds-and-shades/10538707.txt
+- FÖNSTERBLAD black-out roller blind, beige: /products/blackout-blinds-and-shades/00562076.txt
+- FÖNSTERBLAD black-out roller blind, beige: /products/blackout-blinds-and-shades/00538703.txt
+- FÖNSTERBLAD black-out roller blind, beige: /products/blackout-blinds-and-shades/00538699.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

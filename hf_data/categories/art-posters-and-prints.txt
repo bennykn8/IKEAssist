@@ -1,0 +1,39 @@
+# @CATEGORY
+Name: Art posters and prints
+ProductCount: 17
+
+# @FILTERS
+PriceRange: $2.99 - $8.99
+Materials: Paper
+Brand: IKEA
+
+# @ITEMS
+- RÖDALM poster, set of 5, golden moments: /products/art-posters-and-prints/80579756.txt
+- BILD poster, we are all tomatoes: /products/art-posters-and-prints/50602273.txt
+- BILD poster, various vegetables, 19 ¾x27 ½": /products/art-posters-and-prints/70601994.txt
+- BILD poster, tennis match: /products/art-posters-and-prints/30602274.txt
+- BILD poster, strawberry rabbit: /products/art-posters-and-prints/10601992.txt
+- BILD poster, still life with fruit: /products/art-posters-and-prints/70602272.txt
+- BILD poster, sleeping by lights of the night: /products/art-posters-and-prints/90601974.txt
+- BILD poster, les fruits: /products/art-posters-and-prints/30601991.txt
+- BILD poster, forest fun: /products/art-posters-and-prints/00602275.txt
+- BILD poster, football match: /products/art-posters-and-prints/10602270.txt
+- BILD poster, flowers-transparent, 27 ½x19 ¾": /products/art-posters-and-prints/70578880.txt
+- BILD poster, fig plant: /products/art-posters-and-prints/90601993.txt
+- BILD poster, ceramic collection: /products/art-posters-and-prints/50601971.txt
+- BILD poster, butterfly and seed collection: /products/art-posters-and-prints/30583572.txt
+- BILD poster, beautiful shadows, 19 ¾x27 ½": /products/art-posters-and-prints/10570537.txt
+- BILD poster, bear and fox: /products/art-posters-and-prints/80585093.txt
+- BILD poster, basketball match: /products/art-posters-and-prints/90602271.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,50 @@
+# @CATEGORY
+Name: Smart LED light bulbs
+ProductCount: 28
+
+# @FILTERS
+PriceRange: $9.99 - $24.99
+Materials: Glass, Polycarbonate plastic
+Brand: IKEA
+
+# @ITEMS
+- TRÅDFRI LED bulb PAR38 E26 900 lumen, smart wireless dimmable/white spectrum: /products/smart-led-light-bulbs/20518742.txt
+- TRÅDFRI LED bulb GU10 380 lumen, wireless dimmable color and white spectrum: /products/smart-led-light-bulbs/00547482.txt
+- TRÅDFRI LED bulb GU10 380 lumen, smart/wireless dimmable white spectrum: /products/smart-led-light-bulbs/90547430.txt
+- TRÅDFRI LED bulb GU10 380 lumen, smart/wireless dimmable warm white: /products/smart-led-light-bulbs/90541273.txt
+- TRÅDFRI LED bulb E26 800 lumen, wireless dimmable color and white spectrum/globe opal: /products/smart-led-light-bulbs/90547543.txt
+- TRÅDFRI LED bulb E26 800 lumen, wireless dimmable color and white spectrum/globe opal: /products/smart-led-light-bulbs/00547533.txt
+- TRÅDFRI LED bulb E26 800 lumen, smart wireless dimmable/white spectrum globe: /products/smart-led-light-bulbs/80489751.txt
+- TRÅDFRI LED bulb E26 800 lumen, smart wireless dimmable/white spectrum globe: /products/smart-led-light-bulbs/20518737.txt
+- TRÅDFRI LED bulb E26 800 lumen, smart wireless dimmable/warm white globe, E: /products/smart-led-light-bulbs/70541518.txt
+- TRÅDFRI LED bulb E26 800 lumen, smart wireless dimmable/warm white globe: /products/smart-led-light-bulbs/50541519.txt
+- TRÅDFRI LED bulb E26 450 lumen, smart wireless dimmable/white spectrum tube-shaped: /products/smart-led-light-bulbs/40461914.txt
+- TRÅDFRI LED bulb E26 450 lumen, smart wireless dimmable/white spectrum tube-shaped: /products/smart-led-light-bulbs/00461911.txt
+- TRÅDFRI LED bulb E26 450 lumen, smart wireless dimmable/white spectrum globe: /products/smart-led-light-bulbs/60441345.txt
+- TRÅDFRI LED bulb E26 450 lumen, smart wireless dimmable/white spectrum globe: /products/smart-led-light-bulbs/30441337.txt
+- TRÅDFRI LED bulb E26 450 lumen, smart wireless dimmable/warm white globe: /products/smart-led-light-bulbs/60539196.txt
+- TRÅDFRI LED bulb E26 450 lumen, smart wireless dimmable/warm white globe: /products/smart-led-light-bulbs/60539158.txt
+- TRÅDFRI LED bulb E26 250 lumen, smart wireless dimmable/warm white globe: /products/smart-led-light-bulbs/70439257.txt
+- TRÅDFRI LED bulb E26 250 lumen, smart wireless dimmable/warm white globe: /products/smart-led-light-bulbs/10439255.txt
+- TRÅDFRI LED bulb E26 1100 lumen, smart wireless dimmable/white spectrum globe: /products/smart-led-light-bulbs/50545678.txt
+- TRÅDFRI LED bulb E26 1100 lumen, smart wireless dimmable/white spectrum globe: /products/smart-led-light-bulbs/00545690.txt
+- TRÅDFRI LED bulb E12 800 lm, wireless dimmable color and white spectrum/globe opal: /products/smart-led-light-bulbs/80547510.txt
+- TRÅDFRI LED bulb E12 800 lm, wireless dimmable color and white spectrum/globe opal: /products/smart-led-light-bulbs/50547494.txt
+- TRÅDFRI LED bulb E12 450 lumen, wireless dimmable white spectrum/chandelier opal: /products/smart-led-light-bulbs/50545517.txt
+- TRÅDFRI LED bulb E12 450 lumen, wireless dimmable white spectrum/chandelier opal: /products/smart-led-light-bulbs/10545500.txt
+- TRÅDFRI LED bulb E12 450 lumen, smart wireless dimmable/white spectrum globe: /products/smart-led-light-bulbs/20518247.txt
+- TRÅDFRI LED bulb E12 450 lumen, smart wireless dimmable/white spectrum globe: /products/smart-led-light-bulbs/10518177.txt
+- TRÅDFRI LED bulb E12 250 lumen, smart wireless dimmable/warm white chandelier: /products/smart-led-light-bulbs/70441378.txt
+- TRÅDFRI LED bulb E12 250 lumen, smart wireless dimmable/warm white chandelier: /products/smart-led-light-bulbs/10441376.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

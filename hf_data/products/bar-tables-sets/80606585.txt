@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: HÄGERNÄS bar table and 4 bar stools, black stained pine
+SKU: 80606585
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/haegernaes-bar-table-and-4-bar-stools-black-stained-pine-80606585/
+Category: Bar tables sets
+Description: The look and finish of this bar table work well both in kitchens and dining rooms. Solid pine is a natural material that ages beautifully and acquires its own unique character over time.
+
+# @OFFER
+Price: 249.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Leg/ Frame/ Seat/ Leg: Solid pine, Adhesive, Stain, Clear acrylic lacquer, Table top: Solid pine, Adhesive, Stain, Clear acrylic lacquer, Stain, Clear acrylic lacquer, Clear lacquer, Under frame: Solid pine, Adhesive, Stain, Clear acrylic lacquer, Stain, Clear acrylic lacquer
+Dimensions: Bar table (length 46½", width 29⅛", height 37⅜"). Bar stool (width 14⅝", depth 18⅞", height 38⅝", seat height 24¾", seat width 15¾", seat depth 16⅛").
+Features: Recommended for indoor use only. | Possible to separate for recycling or energy recovery if available in your community. | Seats 4.
+Care: Chair: Wipe clean using a damp cloth and a mild cleaner. | Chair: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/haegernaes-bar-table-and-4-bar-stools-black-stained-pine__1392166_pe966030_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

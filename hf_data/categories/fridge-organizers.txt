@@ -1,0 +1,30 @@
+# @CATEGORY
+Name: Fridge organizers
+ProductCount: 8
+
+# @FILTERS
+PriceRange: $3.99 - $29.99
+Materials: Body: PET plastic, Frame: ABS plastic, PET plastic, SAN plastic, Suction cup: Thermoplastic elastomer
+Brand: IKEA
+
+# @ITEMS
+- SNURRAD Lazy susan, clear: /products/fridge-organizers/40521526.txt
+- KLIPPKAKTUS storage box for fridge, set of 3, clear: /products/fridge-organizers/70611002.txt
+- KLIPPKAKTUS storage box for fridge, clear, 12 ½x4x5 ½": /products/fridge-organizers/60583090.txt
+- KLIPPKAKTUS storage box for fridge, clear, 12 ½x4x3 ¼": /products/fridge-organizers/40583091.txt
+- KLIPPKAKTUS storage box for fridge, clear, 12 ½x5 ½x5 ½": /products/fridge-organizers/20583092.txt
+- KLIPPKAKTUS storage box for fridge: /products/fridge-organizers/50570408.txt
+- KLIPPKAKTUS storage basket for fridge, clear: /products/fridge-organizers/90611001.txt
+- KLIPPKAKTUS Lazy susan: /products/fridge-organizers/00569426.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

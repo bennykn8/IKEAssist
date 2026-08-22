@@ -1,0 +1,54 @@
+# @CATEGORY
+Name: Up to 4 seats
+ProductCount: 32
+
+# @FILTERS
+PriceRange: $69.99 - $599.00
+Materials: Bracket: Aluminum, Epoxy powder coating, Cross rail: Solid wood, Adhesive, Extension leaf: Particleboard, Clear acrylic lacquer, Fiberboard, Paper foil, Beech veneer, Stain, Clear lacquer, Foot: Polypropylene, High-pressure ceramic slab, Inside leg: Steel, Leg base: Solid birch, Tinted clear acrylic lacquer, Leg/ Bracket: Steel, Epoxy powder coating, Leg/ Side rail/ Extension rail/ Shelf: Steel, Epoxy/polyester powder coating, Leg/ Side rail: Steel, Epoxy/polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- VIHALS table, white/white: /products/up-to-4-seats/59578513.txt
+- VIHALS table, white/white: /products/up-to-4-seats/39578509.txt
+- VIHALS table, white/green: /products/up-to-4-seats/79578512.txt
+- VIHALS table, green/white: /products/up-to-4-seats/99578511.txt
+- VIHALS table, green/green: /products/up-to-4-seats/19578510.txt
+- VIHALS gateleg table, white: /products/up-to-4-seats/70593574.txt
+- TORSBY table, chrome plated black/marble effect ceramic: /products/up-to-4-seats/49429627.txt
+- TONSTAD table, off-white: /products/up-to-4-seats/60599939.txt
+- TONSTAD table, oak veneer: /products/up-to-4-seats/00593879.txt
+- STOCKHOLM 2025 table, oak veneer/oak veneer: /products/up-to-4-seats/49579985.txt
+- SANDSBERG table, black: /products/up-to-4-seats/29420393.txt
+- PINNTORP table, light brown stained/white stained: /products/up-to-4-seats/30529467.txt
+- PINNTORP table, light brown stained/red stained: /products/up-to-4-seats/40529462.txt
+- NÄSINGE table, white: /products/up-to-4-seats/70587506.txt
+- NÄSINGE table, white: /products/up-to-4-seats/50587531.txt
+- NÄSINGE table, dark brown stained/beech veneer: /products/up-to-4-seats/90587529.txt
+- NÄSINGE table, dark brown stained/beech veneer: /products/up-to-4-seats/30587508.txt
+- NÄSINGE extendable table, white: /products/up-to-4-seats/00587492.txt
+- NÄSINGE extendable table, dark brown stained/beech veneer: /products/up-to-4-seats/70587498.txt
+- NACKANÄS table, acacia: /products/up-to-4-seats/40511056.txt
+- MÖRBYLÅNGA Table, oak veneer brown stained, Length: 55 1/: /products/up-to-4-seats/50386245.txt
+- MARIEDAMM table, white/stone effect white: /products/up-to-4-seats/40556318.txt
+- MARIEDAMM table, black marble effect: /products/up-to-4-seats/20576124.txt
+- LISABO table, black/ash veneer: /products/up-to-4-seats/80382439.txt
+- LISABO table, ash veneer: /products/up-to-4-seats/70294339.txt
+- HAUGA table, white/birch veneer: /products/up-to-4-seats/90576719.txt
+- HAUGA table, white/birch veneer: /products/up-to-4-seats/00576709.txt
+- HAUGA table, gray/birch veneer: /products/up-to-4-seats/50576716.txt
+- GRÅSALA table, gray/gray: /products/up-to-4-seats/99484027.txt
+- DANDERYD dining table, white: /products/up-to-4-seats/40568726.txt
+- DANDERYD dining table, oak veneer/white: /products/up-to-4-seats/10463858.txt
+- DANDERYD dining table, black: /products/up-to-4-seats/20568727.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

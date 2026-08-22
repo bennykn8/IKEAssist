@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BÄCKRÖDING spatula, set of 3, wood/dark gray-green
+SKU: 90576516
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/baeckroeding-spatula-set-of-3-wood-dark-gray-green-90576516/
+Category: Baking tools & gadgets
+Description: Don't let anything tasty go to waste. These spatulas in two sizes help you get all the ingredients out. The set also includes a serrated cake knife to spread the icing – and divide muffins in half!
+
+# @OFFER
+Price: 8.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Handle: Solid acacia wood, Clear lacquer, Blade/ Spoon: Silicone rubber
+Features: Wash this product before using it for the first time.
+Care: Handwash only.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/baeckroeding-spatula-set-of-3-wood-dark-gray-green__1196117_pe902766_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

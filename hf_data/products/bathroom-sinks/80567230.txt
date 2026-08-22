@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: RÄNNILEN pop-up sink stopper
+SKU: 80567230
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/raennilen-pop-up-sink-stopper-80567230/
+Category: Bathroom sinks
+Description: A bathroom hero that prevents unwanted residue from entering your pipes and causing clogging. Made of polished stainless steel that coordinates perfectly with our chrome-plated mixer taps. 10-year War...
+
+# @OFFER
+Price: 15
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Cover/ Spring: Stainless steel, Cover cap/ Mechanism: Acetal plastic, Sealing ring: Synthetic rubber
+Features: The installation shall be made in accordance with valid local building and plumbing regulations. If you are uncertain about the installation, contact a professional. | After a period of use check all connections to make sure they are tight. | Note! To be completed with RÄNNILEN water trap. The plug is not compatible with RINNEN water trap, previously in our range.
+Care: Clean: Use a mild soapy solution. Wipe dry with a clean dry cloth. | Do not use scouring-powder, steel wool, hard or sharp tools which can scratch the surface.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/raennilen-pop-up-sink-stopper__1194376_pe901910_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

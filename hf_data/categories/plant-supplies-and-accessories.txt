@@ -1,0 +1,41 @@
+# @CATEGORY
+Name: Plant supplies & accessories
+ProductCount: 19
+
+# @FILTERS
+PriceRange: $0.99 - $139.99
+Materials: Base fabric: 100 % polyester (100% recycled), Base fabric: 100 % polyethylene, Blade/ Rivet: Stainless steel, Bottle: Galvanized steel, Powder coating, Bottle: Glass, Frame: Galvanized steel, Polyester powder coating, Galvanized steel, Polyester powder coating, Handle: Reinforced polypropylene, Handle: Synthetic rubber, Reinforced polypropylene, Lower part/ Spring/ Screw/ Nut: Stainless steel
+Brand: IKEA
+
+# @ITEMS
+- VATTENKRASSE propagation set, clear glass ivory/gold: /products/plant-supplies-and-accessories/90561987.txt
+- VATTENKRASSE plant mister, ivory/gold, 12 oz: /products/plant-supplies-and-accessories/10561986.txt
+- TOMAT spray bottle, white, 12 oz: /products/plant-supplies-and-accessories/40371254.txt
+- TOMAT spray bottle, orange, 12 oz: /products/plant-supplies-and-accessories/10585572.txt
+- SESAMFRÖN plant mister, clear glass, 8 oz: /products/plant-supplies-and-accessories/20488189.txt
+- SENAPSKÅL decoration greenhouse, indoor/outdoor white, 13 ½": /products/plant-supplies-and-accessories/20487774.txt
+- ODLA growing media, clay pellets, 4.5 qt: /products/plant-supplies-and-accessories/50288546.txt
+- GRÄSMARÖ 3-piece gardening tool set, indoor/outdoor orange: /products/plant-supplies-and-accessories/00584813.txt
+- GRÄSMARÖ 3-piece gardening tool set, indoor/outdoor light gray-blue: /products/plant-supplies-and-accessories/00560765.txt
+- GRADVIS plant mister, clear glass/gold, 5 oz: /products/plant-supplies-and-accessories/00504604.txt
+- BRYTBÖNA pruning shears, orange: /products/plant-supplies-and-accessories/80585559.txt
+- BRYTBÖNA herb scissors, orange: /products/plant-supplies-and-accessories/00585191.txt
+- ASPAREN plant set, outdoor gray/transparent white: /products/plant-supplies-and-accessories/79577560.txt
+- ASPAREN greenhouse, transparent white: /products/plant-supplies-and-accessories/60601857.txt
+- ASPAREN cover for planter, outdoor/transparent white: /products/plant-supplies-and-accessories/10562655.txt
+- ÅKERBÄR greenhouse, indoor/outdoor/white, 17 ¾": /products/plant-supplies-and-accessories/30537170.txt
+- ÅKERBÄR greenhouse, indoor/outdoor dark blue, 17 ¾": /products/plant-supplies-and-accessories/40584793.txt
+- ÅKERBÄR greenhouse, indoor/outdoor/anthracite, 17 ¾": /products/plant-supplies-and-accessories/50537169.txt
+- ÅKERBÄR greenhouse, indoor/outdoor/anthracite, 25 ½": /products/plant-supplies-and-accessories/20537175.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,42 @@
+# @CATEGORY
+Name: Outdoor patio lounge chairs
+ProductCount: 20
+
+# @FILTERS
+PriceRange: $39.99 - $525.00
+Materials: 100% polyester (min. 90% recycled), Armrest frame: Steel, Steel, Polyethylene, Polyethylene, Polypropylene, Polyester powder coating, Armrest/ Front rail/ Back rail/ Back/ Main parts: Solid eucalyptus wood, Acrylic stain, Back frame/ Leg frame: Steel, Polyester powder coating, Back frame: Steel, Polyethylene, Polyethylene, Polypropylene, Polyester powder coating, Back frame: Steel, Steel, Polyester powder coating, Connector: Reinforced polyamide, Elastic webbing: 100 % polypropylene, Fabric/ Cushion cover: 100% polyester (min. 90% recycled), Fabric/ Lining, top: 100% polyester (min. 90% recycled)
+Brand: IKEA
+
+# @ITEMS
+- VITTSKÄR modular lounge chair, plastic rattan dark gray/Frösön/Duvholmen beige: /products/outdoor-patio-lounge-chairs/39618869.txt
+- VINGSÖN wing chair, in/outdoor, gray/Järpön/Duvholmen anthracite: /products/outdoor-patio-lounge-chairs/59436608.txt
+- VINGSÖN wing chair, in/outdoor, gray: /products/outdoor-patio-lounge-chairs/70503738.txt
+- STRANDÖN folding chair, green: /products/outdoor-patio-lounge-chairs/80575843.txt
+- SKARPÖ armchair, outdoor, white: /products/outdoor-patio-lounge-chairs/70234185.txt
+- SKARPÖ armchair, outdoor, beige: /products/outdoor-patio-lounge-chairs/50575811.txt
+- SEGERÖN seat sec for modular sofa, outdoor, white/beige/Frösön/Duvholmen beige: /products/outdoor-patio-lounge-chairs/99584852.txt
+- RISHOLMEN wing chair, in/outdoor, brown: /products/outdoor-patio-lounge-chairs/00503794.txt
+- NÄMMARÖ modular easy chair, outdoor light brown stained/Frösön/Duvholmen beige: /products/outdoor-patio-lounge-chairs/99611167.txt
+- NÄMMARÖ lounge chair, outdoor, light brown stained/Kuddarna light grey-beige: /products/outdoor-patio-lounge-chairs/69575420.txt
+- NÄMMARÖ lounge chair, outdoor, light brown stained/Frösön/Duvholmen beige: /products/outdoor-patio-lounge-chairs/89609023.txt
+- NÄMMARÖ lounge chair, outdoor, light brown stained: /products/outdoor-patio-lounge-chairs/40510306.txt
+- NÄMMARÖ chair, outdoor, light brown stained/Kuddarna light grey-beige: /products/outdoor-patio-lounge-chairs/69575415.txt
+- NÄMMARÖ chair, outdoor, light brown stained/Frösön/Duvholmen beige: /products/outdoor-patio-lounge-chairs/59584364.txt
+- KLÖVEN deck chair, outdoor, dark brown: /products/outdoor-patio-lounge-chairs/60427641.txt
+- JUTHOLMEN chair, outdoor, dark gray/Kuddarna light grey-beige: /products/outdoor-patio-lounge-chairs/99579841.txt
+- JUTHOLMEN chair, outdoor, dark gray/Kuddarna light grey-beige: /products/outdoor-patio-lounge-chairs/09579845.txt
+- HAVSTEN armchair, outdoor, beige/beige: /products/outdoor-patio-lounge-chairs/99500956.txt
+- BONDHOLMEN armchair, outdoor, brown/Järpön/Duvholmen anthracite: /products/outdoor-patio-lounge-chairs/89545385.txt
+- BONDHOLMEN armchair, outdoor, brown: /products/outdoor-patio-lounge-chairs/00558159.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

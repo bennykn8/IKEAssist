@@ -1,0 +1,118 @@
+# @CATEGORY
+Name: MITTZON conference tables
+ProductCount: 96
+
+# @FILTERS
+PriceRange: $159.99 - $359.99
+Materials: Cable management: Felt, Inside leg: Steel, Leg/ Hook/ Rail/ Leg rail: Steel, Epoxy/polyester powder coating, Leg/ Hook/ Rail/ Middle rail/ Leg rail: Steel, Epoxy/polyester powder coating, Leg/ Hook/ Rail/ Middle rail: Steel, Epoxy/polyester powder coating, Leg/ Hook/ Rail: Steel, Epoxy/polyester powder coating, Particleboard, Ash veneer, Stain, Clear acrylic lacquer, Ash veneer, Stain, Clear acrylic lacquer, Paper foil, Particleboard, Birch veneer, Clear acrylic lacquer, Birch veneer, Clear acrylic lacquer, Paper foil, Particleboard, Melamine foil, Acrylic paint, Melamine foil, Plastic edging, Particleboard, Oak veneer, Tinted clear acrylic lacquer, Oak veneer, Tinted clear acrylic lacquer, Paper foil
+Brand: IKEA
+
+# @ITEMS
+- MITTZON foldable table with castors, white: /products/mittzon-conference-tables/20527954.txt
+- MITTZON foldable table with castors, green: /products/mittzon-conference-tables/80527951.txt
+- MITTZON foldable table with castors, black: /products/mittzon-conference-tables/40527948.txt
+- MITTZON conference table, white: /products/mittzon-conference-tables/99530623.txt
+- MITTZON conference table, white: /products/mittzon-conference-tables/79513950.txt
+- MITTZON conference table, white: /products/mittzon-conference-tables/69533053.txt
+- MITTZON conference table, white: /products/mittzon-conference-tables/39533441.txt
+- MITTZON conference table, white: /products/mittzon-conference-tables/29532989.txt
+- MITTZON conference table, white: /products/mittzon-conference-tables/29530546.txt
+- MITTZON conference table, white: /products/mittzon-conference-tables/19533381.txt
+- MITTZON conference table, white: /products/mittzon-conference-tables/09532103.txt
+- MITTZON conference table, white/black: /products/mittzon-conference-tables/99530543.txt
+- MITTZON conference table, white/black: /products/mittzon-conference-tables/79533378.txt
+- MITTZON conference table, white/black: /products/mittzon-conference-tables/79530619.txt
+- MITTZON conference table, white/black: /products/mittzon-conference-tables/59532105.txt
+- MITTZON conference table, white/black: /products/mittzon-conference-tables/29532606.txt
+- MITTZON conference table, white/black: /products/mittzon-conference-tables/09533433.txt
+- MITTZON conference table, white/black: /products/mittzon-conference-tables/09533032.txt
+- MITTZON conference table, white/black: /products/mittzon-conference-tables/09532985.txt
+- MITTZON conference table, walnut veneer/white: /products/mittzon-conference-tables/99533424.txt
+- MITTZON conference table, walnut veneer/white: /products/mittzon-conference-tables/89533066.txt
+- MITTZON conference table, walnut veneer/white: /products/mittzon-conference-tables/89530652.txt
+- MITTZON conference table, walnut veneer/white: /products/mittzon-conference-tables/79532835.txt
+- MITTZON conference table, walnut veneer/white: /products/mittzon-conference-tables/79532604.txt
+- MITTZON conference table, walnut veneer/white: /products/mittzon-conference-tables/69533473.txt
+- MITTZON conference table, walnut veneer/white: /products/mittzon-conference-tables/69533005.txt
+- MITTZON conference table, walnut veneer/white: /products/mittzon-conference-tables/29530594.txt
+- MITTZON conference table, walnut veneer/black: /products/mittzon-conference-tables/69532138.txt
+- MITTZON conference table, walnut veneer/black: /products/mittzon-conference-tables/69530592.txt
+- MITTZON conference table, walnut veneer/black: /products/mittzon-conference-tables/39533422.txt
+- MITTZON conference table, walnut veneer/black: /products/mittzon-conference-tables/29532828.txt
+- MITTZON conference table, walnut veneer/black: /products/mittzon-conference-tables/29530650.txt
+- MITTZON conference table, walnut veneer/black: /products/mittzon-conference-tables/19533041.txt
+- MITTZON conference table, walnut veneer/black: /products/mittzon-conference-tables/19533003.txt
+- MITTZON conference table, walnut veneer/black: /products/mittzon-conference-tables/09533471.txt
+- MITTZON conference table, round/white: /products/mittzon-conference-tables/69530441.txt
+- MITTZON conference table, round white/black: /products/mittzon-conference-tables/89530435.txt
+- MITTZON conference table, round walnut veneer/white: /products/mittzon-conference-tables/09530509.txt
+- MITTZON conference table, round walnut veneer/black: /products/mittzon-conference-tables/19530504.txt
+- MITTZON conference table, round oak veneer/white: /products/mittzon-conference-tables/59530502.txt
+- MITTZON conference table, round oak veneer/black: /products/mittzon-conference-tables/09530458.txt
+- MITTZON conference table, round black stained ash veneer/white: /products/mittzon-conference-tables/59530446.txt
+- MITTZON conference table, round black stained ash veneer/black: /products/mittzon-conference-tables/19530453.txt
+- MITTZON conference table, round birch veneer/white: /products/mittzon-conference-tables/99513930.txt
+- MITTZON conference table, round birch veneer/black: /products/mittzon-conference-tables/39530428.txt
+- MITTZON conference table, oak veneer/white: /products/mittzon-conference-tables/89530647.txt
+- MITTZON conference table, oak veneer/white: /products/mittzon-conference-tables/79533420.txt
+- MITTZON conference table, oak veneer/white: /products/mittzon-conference-tables/79532920.txt
+- MITTZON conference table, oak veneer/white: /products/mittzon-conference-tables/79530577.txt
+- MITTZON conference table, oak veneer/white: /products/mittzon-conference-tables/69533468.txt
+- MITTZON conference table, oak veneer/white: /products/mittzon-conference-tables/39533064.txt
+- MITTZON conference table, oak veneer/white: /products/mittzon-conference-tables/29532135.txt
+- MITTZON conference table, oak veneer/white: /products/mittzon-conference-tables/19532824.txt
+- MITTZON conference table, oak veneer/black: /products/mittzon-conference-tables/99533400.txt
+- MITTZON conference table, oak veneer/black: /products/mittzon-conference-tables/99532113.txt
+- MITTZON conference table, oak veneer/black: /products/mittzon-conference-tables/89514652.txt
+- MITTZON conference table, oak veneer/black: /products/mittzon-conference-tables/79530643.txt
+- MITTZON conference table, oak veneer/black: /products/mittzon-conference-tables/59533039.txt
+- MITTZON conference table, oak veneer/black: /products/mittzon-conference-tables/59532817.txt
+- MITTZON conference table, oak veneer/black: /products/mittzon-conference-tables/39513952.txt
+- MITTZON conference table, oak veneer/black: /products/mittzon-conference-tables/19533461.txt
+- MITTZON conference table, black stained ash veneer/white: /products/mittzon-conference-tables/99533457.txt
+- MITTZON conference table, black stained ash veneer/white: /products/mittzon-conference-tables/99533061.txt
+- MITTZON conference table, black stained ash veneer/white: /products/mittzon-conference-tables/79533000.txt
+- MITTZON conference table, black stained ash veneer/white: /products/mittzon-conference-tables/79532109.txt
+- MITTZON conference table, black stained ash veneer/white: /products/mittzon-conference-tables/59533398.txt
+- MITTZON conference table, black stained ash veneer/white: /products/mittzon-conference-tables/39530640.txt
+- MITTZON conference table, black stained ash veneer/white: /products/mittzon-conference-tables/29530570.txt
+- MITTZON conference table, black stained ash veneer/white: /products/mittzon-conference-tables/09532810.txt
+- MITTZON conference table, black stained ash veneer/black white: /products/mittzon-conference-tables/89591155.txt
+- MITTZON conference table, black stained ash veneer/black white: /products/mittzon-conference-tables/59591147.txt
+- MITTZON conference table, black stained ash veneer/black white: /products/mittzon-conference-tables/29591158.txt
+- MITTZON conference table, black stained ash veneer/black: /products/mittzon-conference-tables/79530563.txt
+- MITTZON conference table, black stained ash veneer/black: /products/mittzon-conference-tables/39533455.txt
+- MITTZON conference table, black stained ash veneer/black: /products/mittzon-conference-tables/39532998.txt
+- MITTZON conference table, black stained ash veneer/black: /products/mittzon-conference-tables/39530635.txt
+- MITTZON conference table, black stained ash veneer/black: /products/mittzon-conference-tables/29514650.txt
+- MITTZON conference table, black stained ash veneer/black: /products/mittzon-conference-tables/19533395.txt
+- MITTZON conference table, black stained ash veneer/black: /products/mittzon-conference-tables/19532664.txt
+- MITTZON conference table, black stained ash veneer/black: /products/mittzon-conference-tables/19532107.txt
+- MITTZON conference table, birch veneer/white: /products/mittzon-conference-tables/59533058.txt
+- MITTZON conference table, birch veneer/white: /products/mittzon-conference-tables/59513951.txt
+- MITTZON conference table, birch veneer/white: /products/mittzon-conference-tables/29532994.txt
+- MITTZON conference table, birch veneer/white: /products/mittzon-conference-tables/29530626.txt
+- MITTZON conference table, birch veneer/white: /products/mittzon-conference-tables/19532659.txt
+- MITTZON conference table, birch veneer/white: /products/mittzon-conference-tables/09533452.txt
+- MITTZON conference table, birch veneer/white: /products/mittzon-conference-tables/09533386.txt
+- MITTZON conference table, birch veneer/white: /products/mittzon-conference-tables/09514651.txt
+- MITTZON conference table, birch veneer/black: /products/mittzon-conference-tables/99530538.txt
+- MITTZON conference table, birch veneer/black: /products/mittzon-conference-tables/89533448.txt
+- MITTZON conference table, birch veneer/black: /products/mittzon-conference-tables/69532992.txt
+- MITTZON conference table, birch veneer/black: /products/mittzon-conference-tables/59533384.txt
+- MITTZON conference table, birch veneer/black: /products/mittzon-conference-tables/49530630.txt
+- MITTZON conference table, birch veneer/black: /products/mittzon-conference-tables/39532620.txt
+- MITTZON conference table, birch veneer/black: /products/mittzon-conference-tables/29533031.txt
+- MITTZON conference table, birch veneer/black: /products/mittzon-conference-tables/09514646.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

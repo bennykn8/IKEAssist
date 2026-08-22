@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KVITTERA serving stand, 3 tiers, clear glass/stainless steel
+SKU: 90279842
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kvittera-serving-stand-3-tiers-clear-glass-stainless-steel-90279842/
+Category: Cake & serving stands
+Description: Serve the finger food using this modern interpretation of the classic serving stand – the airy and bold KVITTERA with three tiers. Both clever and practical. You can detach the plates and combine and ...
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Glass, Stainless steel
+Features: Wash this product before using it for the first time.
+Care: Dishwasher-safe up to 158ºF (70°C). | Only for food and beverages with a max. temperature of 120°F.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kvittera-serving-stand-3-tiers-clear-glass-stainless-steel__0713435_pe729524_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

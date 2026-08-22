@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: ORRSJÖN double sink with water trap, white
+SKU: 89516910
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/orrsjoen-double-sink-with-water-trap-white-s89516910/
+Category: Bathroom sinks
+Description: , 49x213/4" This integrated ceramic wash-basin is designed for a perfect fit in our wash-stands. A flawless look with soft, smooth lines and plenty of space to place your toothbrush holder and soap di...
+
+# @OFFER
+Price: 230
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Cover/ Spring: Stainless steel, Cover cap/ Mechanism: Acetal plastic, Sealing ring: Synthetic rubber
+Dimensions: Waste outlet pipe diameter: 1 1/2" (38.1 mm).
+Features: Comprises: 1 sink and 1 water trap. | Chrome-finish wash-basin pop-up plug and overflow kit included. | Ceramic sinks are kiln-fired, which makes each one unique and the size may vary slightly from the measurements given.
+Care: Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary. | Do not use scouring powder, steel wool, hard or sharp tools which can scratch the surface of the sink.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/orrsjoen-double-sink-with-water-trap-white__1203191_pe906248_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

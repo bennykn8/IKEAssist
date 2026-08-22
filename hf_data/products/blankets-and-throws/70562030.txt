@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: KLOTSTARR throw, pale pink
+SKU: 70562030
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/klotstarr-throw-pale-pink-70562030/
+Category: Blankets & throws
+Description: , 51x67" The pale pink tone of KLOTSTARR throw is made from agricultural residue of the beetroot. The earthy shade pairs well with the waffled texture and injects a soft new look into your room.
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 80 % cotton, 20 % viscose/rayon
+Care: Machine wash warm, normal cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/klotstarr-throw-pale-pink__1227364_pe915607_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

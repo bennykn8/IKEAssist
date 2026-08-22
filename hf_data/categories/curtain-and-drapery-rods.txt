@@ -1,0 +1,53 @@
+# @CATEGORY
+Name: Curtain & drapery rods
+ProductCount: 31
+
+# @FILTERS
+PriceRange: $1.99 - $45.00
+Materials: Cap/ Cover cap/ Sleeve: Polypropylene, Cap/ Sleeve: ABS plastic, Nickel plated, Cap/ Sleeve: ABS plastic, Nickel plated, Metallized, Metallized, Cover cap/ Washer: ABS plastic, Nickel plated, Clear lacquer, Cover cap: Polypropylene, Cover cap: Polypropylene, Nickel plated, Cover: Polypropylene, Finials/ Collar/ Sleeve: Polypropylene, Finials: Polypropylene, Holder: ABS plastic
+Brand: IKEA
+
+# @ITEMS
+- RÄCKA / HUGAD triple curtain rod combination, white: /products/curtain-and-drapery-rods/79929586.txt
+- RÄCKA / HUGAD triple curtain rod combination, white: /products/curtain-and-drapery-rods/79399596.txt
+- RÄCKA / HUGAD triple curtain rod combination, black: /products/curtain-and-drapery-rods/99929585.txt
+- RÄCKA / HUGAD triple curtain rod combination, black: /products/curtain-and-drapery-rods/19399603.txt
+- RÄCKA / HUGAD double curtain rod combination, white: /products/curtain-and-drapery-rods/29929249.txt
+- RÄCKA / HUGAD double curtain rod combination, white: /products/curtain-and-drapery-rods/29399589.txt
+- RÄCKA / HUGAD double curtain rod combination, black: /products/curtain-and-drapery-rods/69929247.txt
+- RÄCKA / HUGAD double curtain rod combination, black: /products/curtain-and-drapery-rods/69399587.txt
+- RÄCKA curtain rod, white: /products/curtain-and-drapery-rods/90217161.txt
+- RÄCKA curtain rod, white: /products/curtain-and-drapery-rods/70221395.txt
+- RÄCKA curtain rod, white: /products/curtain-and-drapery-rods/40217149.txt
+- RÄCKA curtain rod combination, white: /products/curtain-and-drapery-rods/59929243.txt
+- RÄCKA curtain rod combination, black: /products/curtain-and-drapery-rods/99929241.txt
+- RÄCKA curtain rod, black: /products/curtain-and-drapery-rods/70217157.txt
+- RÄCKA curtain rod, black: /products/curtain-and-drapery-rods/30217159.txt
+- RÄCKA curtain rod, black: /products/curtain-and-drapery-rods/00217165.txt
+- PRAKTSTENÖRT curtain rod set, black, 47 ¼-82 ¾11/: /products/curtain-and-drapery-rods/30544849.txt
+- IRJA curtain rod set, white: /products/curtain-and-drapery-rods/70117172.txt
+- HUGAD curtain rod, white: /products/curtain-and-drapery-rods/30217140.txt
+- HUGAD curtain rod, white: /products/curtain-and-drapery-rods/10217141.txt
+- HUGAD curtain rod, black: /products/curtain-and-drapery-rods/50217139.txt
+- HUGAD curtain rod, black: /products/curtain-and-drapery-rods/30217135.txt
+- FJÄDRANDE Curtain rod, white: /products/curtain-and-drapery-rods/50416313.txt
+- BEKRÄFTA double curtain rod set, white, 47 ¼-82 ¾3/: /products/curtain-and-drapery-rods/10489702.txt
+- BEKRÄFTA double curtain rod set, nickel plated, 47 ¼-82 ¾3/: /products/curtain-and-drapery-rods/40489705.txt
+- BEKRÄFTA double curtain rod set, black, 47 ¼-82 ¾3/: /products/curtain-and-drapery-rods/70489695.txt
+- BEKRÄFTA curtain rod set, yellow, 47 ¼-82 ¾3/: /products/curtain-and-drapery-rods/40604833.txt
+- BEKRÄFTA curtain rod set, white, 47 ¼-82 ¾11/: /products/curtain-and-drapery-rods/80489690.txt
+- BEKRÄFTA curtain rod set, nickel plated, 47 ¼-82 ¾11/: /products/curtain-and-drapery-rods/20489693.txt
+- BEKRÄFTA curtain rod set, brass color, 47 ¼-82 ¾11/: /products/curtain-and-drapery-rods/70489544.txt
+- BEKRÄFTA curtain rod set, black, 47 ¼-82 ¾11/: /products/curtain-and-drapery-rods/30489683.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

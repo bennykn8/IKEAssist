@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KLIPPOXEL throw, blue
+SKU: 30584623
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/klippoxel-throw-blue-30584623/
+Category: Blankets & throws
+Description: , 51x67" Soft, fluffy and light – this yarn-dyed throw in blue with brushed, mohair-like surface keeps you warm. Made of durable recycled polyester that dries fast and keeps its shape after washing. A...
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % polyester (100% recycled)
+Features: The fluffy brushed surface of the throw may shed slightly when you use the product for the first time.
+Care: Machine wash cold, delicate cycle. | Shrinkage maximum 4%.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/klippoxel-throw-blue__1284706_pe933111_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

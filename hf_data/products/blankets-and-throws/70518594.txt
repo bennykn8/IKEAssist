@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: RUNFRID throw, blue
+SKU: 70518594
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/runfrid-throw-blue-70518594/
+Category: Blankets & throws
+Description: , 51x67" Wrap it around you, drape it over you. This blue yarn-dyed throw with white fringes is perfect for chilly winter evenings. Woven from acrylic and recycled polyester with a touch of warming wo...
+
+# @OFFER
+Price: 34.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 67 % acrylic, 23 % polyester (100% recycled), 10 % wool
+Features: Only for indoor use.
+Care: Machine wash cold, durable-press cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/runfrid-throw-blue__1032180_pe836806_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

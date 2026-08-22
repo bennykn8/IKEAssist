@@ -1,0 +1,28 @@
+# @CATEGORY
+Name: Corner wardrobes
+ProductCount: 6
+
+# @FILTERS
+PriceRange: $1030.00 - $1355.00
+Materials: Door frame: Fiberboard, Acrylic paint, Acrylic paint, Fiberboard, Particleboard, Paper foil, Particleboard, Fiberboard, Paper foil, Steel, Epoxy/polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- PAX corner wardrobe, white: /products/corner-wardrobes/79590726.txt
+- PAX corner wardrobe, white: /products/corner-wardrobes/69590722.txt
+- PAX corner wardrobe, dark gray: /products/corner-wardrobes/79590731.txt
+- PAX corner wardrobe, dark gray: /products/corner-wardrobes/69590736.txt
+- PAX corner wardrobe, dark gray/gray: /products/corner-wardrobes/69602602.txt
+- PAX corner wardrobe, dark gray/gray: /products/corner-wardrobes/49602603.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

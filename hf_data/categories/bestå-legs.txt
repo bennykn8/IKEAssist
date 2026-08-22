@@ -1,0 +1,33 @@
+# @CATEGORY
+Name: BESTÅ legs
+ProductCount: 11
+
+# @FILTERS
+PriceRange: $10.00 - $20.00
+Materials: Solid birch, Tinted clear acrylic lacquer, Solid oak, Solid wood, Stain, Clear acrylic lacquer, Acrylic paint, Solid oak, Stain, Clear acrylic lacquer, Solid wood, Acrylic paint, Solid wood, Bamboo, Acrylic paint, Steel, Nickel plated, Clear lacquer, Steel, Nickel plated, Metallized, Steel, Powder coating
+Brand: IKEA
+
+# @ITEMS
+- STUBBARP leg, white stained oak effect: /products/bestå-legs/20293568.txt
+- STUBBARP Leg, white: /products/bestå-legs/10293564.txt
+- STUBBARP leg, dark gray: /products/bestå-legs/70513916.txt
+- STUBBARP Leg, black-brown: /products/bestå-legs/60293566.txt
+- SIGGARP leg, white: /products/bestå-legs/00489910.txt
+- ÖSARP leg, stainless steel color: /products/bestå-legs/30489904.txt
+- ÖSARP leg, brass color: /products/bestå-legs/90489901.txt
+- MEJARP leg, dark brown: /products/bestå-legs/40489913.txt
+- MEJARP leg, birch: /products/bestå-legs/70489916.txt
+- KABBARP leg, white: /products/bestå-legs/70472930.txt
+- BESTÅ Support leg, gray: /products/bestå-legs/50293604.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

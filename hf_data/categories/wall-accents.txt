@@ -1,0 +1,31 @@
+# @CATEGORY
+Name: Wall accents
+ProductCount: 9
+
+# @FILTERS
+PriceRange: $4.99 - $59.99
+Materials: Frame: Bamboo, Galvanized steel, Paint, Hanger: Bamboo, Clear lacquer, Main parts: High-pressure melamine laminate, Main parts: Palm leaf, Sedge, Clear lacquer, Stoneware, Pigmented glaze, Suspension fitting: Polypropylene, Textile parts: 100 % cotton, Thread: 100 % polyester
+Brand: IKEA
+
+# @ITEMS
+- TRÄDGRÄNSEN wall decoration, set of 2, ceramic/stones beige: /products/wall-accents/00537954.txt
+- MOLNSKOG wall decoration, set of 2, palm leaf handmade: /products/wall-accents/40518029.txt
+- KÄNGSLEBODA wall decoration, traveller, 7 ¾x7 ¾": /products/wall-accents/40524884.txt
+- KÄNGSLEBODA wall decoration, my happy place, 11 ¾x: /products/wall-accents/50524888.txt
+- KÄNGSLEBODA wall decoration, family, 7 ¾x7 ¾": /products/wall-accents/90524886.txt
+- KÄNGSLEBODA wall decoration, book lover, 7 ¾x7 ¾": /products/wall-accents/70524887.txt
+- HÄNGALM hanging tapestry, beige black/light lilac-blue: /products/wall-accents/00538053.txt
+- GILLSTAD wall decoration, set of 3, sedge handmade: /products/wall-accents/20518030.txt
+- GALLERISKOG wall decoration, set of 3, mixed motifs: /products/wall-accents/20538071.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

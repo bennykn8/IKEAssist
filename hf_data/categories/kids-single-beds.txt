@@ -1,0 +1,38 @@
+# @CATEGORY
+Name: Kids single beds
+ProductCount: 16
+
+# @FILTERS
+PriceRange: $50.00 - $509.00
+Materials: Back part: Fiberboard, Particleboard, Honeycomb structure paper filling (100% recycled), Acrylic paint, Paper foil, Acrylic paint, Paper foil, Plastic edging, Back: Fiberboard, Melamine foil, Particleboard, Plastic edging, Acrylic paint, Paper foil, Acrylic paint, Bed base frame/ Guard rail/ Ladder frame/ Ladder steps/ Bed slats/ Leg/ Supporting rail: Steel, Epoxy/polyester powder coating, Bed base frame: Solid pine, Adhesive, Clear acrylic lacquer, Bed base slats: Solid pine, Adhesive, Bed end filling: Fiberboard, Acrylic paint, Bed slats: Layer-glued wood veneer, Adhesive resin as coating, Bedside: Particleboard, Acrylic paint, Acrylic paint, Paper foil, Plastic edging, Bedside: Particleboard, Particleboard, Fiberboard, Plastic edging, Acrylic paint, Acrylic paint, Paper foil, Drawer back/ Drawer sides: Particleboard, Paper foil, Plastic foil
+Brand: IKEA
+
+# @ITEMS
+- VITVAL loft bed frame with desk top, white/light gray, Twin: /products/kids-single-beds/29303940.txt
+- VITVAL loft bed frame, white/light gray, Twin: /products/kids-single-beds/70411239.txt
+- VITVAL Desk top, white, Twin: /products/kids-single-beds/20411411.txt
+- TUFFING Loft bed frame, dark gray, Twin: /products/kids-single-beds/30299447.txt
+- SMYGA bed frame with storage, light gray, Twin: /products/kids-single-beds/69444146.txt
+- SMYGA bed frame, light gray, Twin: /products/kids-single-beds/60480799.txt
+- SLÄKT pull-out bed with storage, white, Twin: /products/kids-single-beds/09239455.txt
+- SLÄKT / NATTAPA ext bed frm w guard rl+slat bd base, white: /products/kids-single-beds/39563904.txt
+- SLÄKT / NATTAPA bed frame w guard rail+slat bd base, white, Twin: /products/kids-single-beds/09563892.txt
+- SLÄKT bed frame with storage, incl headboard/Vissle beige, Twin: /products/kids-single-beds/49612051.txt
+- SLÄKT bed frame with slatted bed base, white, Twin: /products/kids-single-beds/59227775.txt
+- SLÄKT bed frame w/storage+slatted bedbase, white, Twin: /products/kids-single-beds/99291991.txt
+- SLÄKT bed frame w/pull-out bed + storage, white, Twin: /products/kids-single-beds/19239450.txt
+- SLÄKT bed frame, incl headboard/Vissle beige, Twin: /products/kids-single-beds/19612043.txt
+- SLÄKT bed frame, incl bed accessory/gray, Twin: /products/kids-single-beds/99608424.txt
+- KURA reversible bed, white/pine, Twin: /products/kids-single-beds/80253814.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

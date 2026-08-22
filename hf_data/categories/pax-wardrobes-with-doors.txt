@@ -1,0 +1,438 @@
+# @CATEGORY
+Name: PAX wardrobes with doors
+ProductCount: 416
+
+# @FILTERS
+PriceRange: $240.00 - $2460.00
+Materials: Aluminium (min. 70% recycled), Anodized, Aluminium (min. 70% recycled), Anodized, Acrylic coating, Board on frame: Particleboard, Fiberboard, Plastic edging, Acrylic paint, Board on frame: Particleboard, Fiberboard, Plastic edging, Paper foil, Cover strip/ Rail: Aluminum, Anodized, Door filling: Fiberboard, Acrylic paint, Door frame: Aluminium (min. 70% recycled), Anodized, Door frame: Fiberboard, Acrylic paint, Acrylic paint, Door frame: Fiberboard, Oak veneer, Oak veneer, Clear acrylic lacquer, Plastic edging, Door frame: Fiberboard, Paper foil, Plastic edging
+Brand: IKEA
+
+# @ITEMS
+- PAX / TYSSEDAL wardrobe, white/white glass: /products/pax-wardrobes-with-doors/89568089.txt
+- PAX / TYSSEDAL wardrobe combination, white/white: /products/pax-wardrobes-with-doors/89560960.txt
+- PAX / TYSSEDAL wardrobe combination, white/white: /products/pax-wardrobes-with-doors/59560966.txt
+- PAX / TYSSEDAL wardrobe combination, white/white: /products/pax-wardrobes-with-doors/29560963.txt
+- PAX / TYSSEDAL wardrobe combination, white/white: /products/pax-wardrobes-with-doors/09560959.txt
+- PAX / TYSSEDAL wardrobe combination, white/white glass: /products/pax-wardrobes-with-doors/39560967.txt
+- PAX / TYSSEDAL wardrobe combination, white/white glass: /products/pax-wardrobes-with-doors/29575380.txt
+- PAX / TONSTAD wardrobe combination, white/off-white: /products/pax-wardrobes-with-doors/79560927.txt
+- PAX / TONSTAD wardrobe combination, white/off-white: /products/pax-wardrobes-with-doors/59560914.txt
+- PAX / TONSTAD wardrobe combination, white/off-white: /products/pax-wardrobes-with-doors/49560943.txt
+- PAX / TONSTAD wardrobe combination, white/off-white: /products/pax-wardrobes-with-doors/49560919.txt
+- PAX / TONSTAD wardrobe combination, white/off-white: /products/pax-wardrobes-with-doors/49560900.txt
+- PAX / TONSTAD wardrobe combination, white/off-white: /products/pax-wardrobes-with-doors/39560948.txt
+- PAX / TONSTAD wardrobe combination, white/off-white: /products/pax-wardrobes-with-doors/29560958.txt
+- PAX / TONSTAD wardrobe combination, white/off-white: /products/pax-wardrobes-with-doors/09560940.txt
+- PAX / TONSTAD wardrobe combination, white/off-white: /products/pax-wardrobes-with-doors/09560935.txt
+- PAX / TONSTAD wardrobe combination, white/off-white: /products/pax-wardrobes-with-doors/09560902.txt
+- PAX / TONSTAD wardrobe combination, white/oak veneer: /products/pax-wardrobes-with-doors/99560926.txt
+- PAX / TONSTAD wardrobe combination, white/oak veneer: /products/pax-wardrobes-with-doors/89566735.txt
+- PAX / TONSTAD wardrobe combination, white/oak veneer: /products/pax-wardrobes-with-doors/89560917.txt
+- PAX / TONSTAD wardrobe combination, white/oak veneer: /products/pax-wardrobes-with-doors/79566731.txt
+- PAX / TONSTAD wardrobe combination, white/oak veneer: /products/pax-wardrobes-with-doors/79560913.txt
+- PAX / TONSTAD wardrobe combination, white/oak veneer: /products/pax-wardrobes-with-doors/69560956.txt
+- PAX / TONSTAD wardrobe combination, white/oak veneer: /products/pax-wardrobes-with-doors/59560947.txt
+- PAX / TONSTAD wardrobe combination, white/oak veneer: /products/pax-wardrobes-with-doors/39560934.txt
+- PAX / TONSTAD wardrobe combination, white/oak veneer glass: /products/pax-wardrobes-with-doors/89566716.txt
+- PAX / TONSTAD wardrobe combination, white/oak veneer glass: /products/pax-wardrobes-with-doors/79560946.txt
+- PAX / TONSTAD wardrobe combination, white/oak veneer glass: /products/pax-wardrobes-with-doors/69560942.txt
+- PAX / TONSTAD wardrobe combination, white/oak veneer glass: /products/pax-wardrobes-with-doors/69560895.txt
+- PAX / TONSTAD wardrobe combination, white/oak veneer glass: /products/pax-wardrobes-with-doors/69560881.txt
+- PAX / TONSTAD wardrobe combination, white/oak veneer glass: /products/pax-wardrobes-with-doors/59566713.txt
+- PAX / TONSTAD wardrobe combination, white/oak veneer glass: /products/pax-wardrobes-with-doors/59560933.txt
+- PAX / TONSTAD wardrobe combination, white/oak veneer glass: /products/pax-wardrobes-with-doors/59560909.txt
+- PAX / TONSTAD wardrobe combination, white/oak veneer glass: /products/pax-wardrobes-with-doors/39560953.txt
+- PAX / TONSTAD wardrobe combination, white/oak veneer glass: /products/pax-wardrobes-with-doors/39560905.txt
+- PAX / TONSTAD wardrobe combination, white/oak veneer glass: /products/pax-wardrobes-with-doors/39560892.txt
+- PAX / TONSTAD wardrobe combination, white/oak veneer glass: /products/pax-wardrobes-with-doors/29560939.txt
+- PAX / TONSTAD wardrobe combination, white/oak veneer glass: /products/pax-wardrobes-with-doors/19560925.txt
+- PAX / TONSTAD wardrobe combination, white/oak veneer glass: /products/pax-wardrobes-with-doors/19560888.txt
+- PAX / TONSTAD wardrobe combination, white/oak veneer glass: /products/pax-wardrobes-with-doors/09560898.txt
+- PAX / TONSTAD wardrobe combination, white/oak veneer glass: /products/pax-wardrobes-with-doors/09560879.txt
+- PAX / TONSTAD wardrobe combination, gray-beige/oak veneer: /products/pax-wardrobes-with-doors/89560936.txt
+- PAX / TONSTAD wardrobe combination, gray-beige/oak veneer: /products/pax-wardrobes-with-doors/69560937.txt
+- PAX / TONSTAD wardrobe combination, gray-beige/oak veneer: /products/pax-wardrobes-with-doors/39560910.txt
+- PAX / TONSTAD wardrobe combination, gray-beige/oak veneer: /products/pax-wardrobes-with-doors/29560915.txt
+- PAX / TONSTAD wardrobe combination, gray-beige/oak veneer glass: /products/pax-wardrobes-with-doors/89560922.txt
+- PAX / TONSTAD wardrobe combination, gray-beige/oak veneer glass: /products/pax-wardrobes-with-doors/89560903.txt
+- PAX / TONSTAD wardrobe combination, gray-beige/oak veneer glass: /products/pax-wardrobes-with-doors/79560890.txt
+- PAX / TONSTAD wardrobe combination, gray-beige/oak veneer glass: /products/pax-wardrobes-with-doors/59560928.txt
+- PAX / TONSTAD wardrobe combination, gray-beige/oak veneer glass: /products/pax-wardrobes-with-doors/59560886.txt
+- PAX / TONSTAD wardrobe combination, gray-beige/oak veneer glass: /products/pax-wardrobes-with-doors/49560896.txt
+- PAX / TONSTAD wardrobe combination, gray-beige/oak veneer glass: /products/pax-wardrobes-with-doors/49560882.txt
+- PAX / TONSTAD wardrobe combination, gray-beige/oak veneer glass: /products/pax-wardrobes-with-doors/19560906.txt
+- PAX / TONSTAD wardrobe combination, gray-beige/oak veneer glass: /products/pax-wardrobes-with-doors/19560893.txt
+- PAX / TONSTAD wardrobe combination, gray-beige/oak veneer glass: /products/pax-wardrobes-with-doors/09560884.txt
+- PAX / TONSTAD wardrobe combination, dark gray/brown stained oak veneer: /products/pax-wardrobes-with-doors/99560912.txt
+- PAX / TONSTAD wardrobe combination, dark gray/brown stained oak veneer: /products/pax-wardrobes-with-doors/79560951.txt
+- PAX / TONSTAD wardrobe combination, dark gray/brown stained oak veneer: /products/pax-wardrobes-with-doors/69560923.txt
+- PAX / TONSTAD wardrobe combination, dark gray/brown stained oak veneer: /products/pax-wardrobes-with-doors/59566746.txt
+- PAX / TONSTAD wardrobe combination, dark gray/brown stained oak veneer: /products/pax-wardrobes-with-doors/49566742.txt
+- PAX / TONSTAD wardrobe combination, dark gray/brown stained oak veneer: /products/pax-wardrobes-with-doors/29560944.txt
+- PAX / TONSTAD wardrobe combination, dark gray/brown stained oak veneer: /products/pax-wardrobes-with-doors/19560930.txt
+- PAX / TONSTAD wardrobe combination, dark gray/brown stained oak veneer: /products/pax-wardrobes-with-doors/09560916.txt
+- PAX / TONSTAD wardrobe combination, dark gray brown/stained oak veneer glass: /products/pax-wardrobes-with-doors/99560907.txt
+- PAX / TONSTAD wardrobe combination, dark gray brown/stained oak veneer glass: /products/pax-wardrobes-with-doors/99560894.txt
+- PAX / TONSTAD wardrobe combination, dark gray brown/stained oak veneer glass: /products/pax-wardrobes-with-doors/89566702.txt
+- PAX / TONSTAD wardrobe combination, dark gray brown/stained oak veneer glass: /products/pax-wardrobes-with-doors/89560941.txt
+- PAX / TONSTAD wardrobe combination, dark gray brown/stained oak veneer glass: /products/pax-wardrobes-with-doors/89560880.txt
+- PAX / TONSTAD wardrobe combination, dark gray brown/stained oak veneer glass: /products/pax-wardrobes-with-doors/79560932.txt
+- PAX / TONSTAD wardrobe combination, dark gray brown/stained oak veneer glass: /products/pax-wardrobes-with-doors/79560885.txt
+- PAX / TONSTAD wardrobe combination, dark gray brown/stained oak veneer glass: /products/pax-wardrobes-with-doors/69560904.txt
+- PAX / TONSTAD wardrobe combination, dark gray brown/stained oak veneer glass: /products/pax-wardrobes-with-doors/59560952.txt
+- PAX / TONSTAD wardrobe combination, dark gray brown/stained oak veneer glass: /products/pax-wardrobes-with-doors/59560891.txt
+- PAX / TONSTAD wardrobe combination, dark gray brown/stained oak veneer glass: /products/pax-wardrobes-with-doors/49560938.txt
+- PAX / TONSTAD wardrobe combination, dark gray brown/stained oak veneer glass: /products/pax-wardrobes-with-doors/49560924.txt
+- PAX / TONSTAD wardrobe combination, dark gray brown/stained oak veneer glass: /products/pax-wardrobes-with-doors/39560887.txt
+- PAX / TONSTAD wardrobe combination, dark gray brown/stained oak veneer glass: /products/pax-wardrobes-with-doors/29566700.txt
+- PAX / TONSTAD wardrobe combination, dark gray brown/stained oak veneer glass: /products/pax-wardrobes-with-doors/29561255.txt
+- PAX / TONSTAD wardrobe combination, dark gray brown/stained oak veneer glass: /products/pax-wardrobes-with-doors/29560897.txt
+- PAX / TONSTAD wardrobe combination, dark gray brown/stained oak veneer glass: /products/pax-wardrobes-with-doors/29560883.txt
+- PAX / TONSTAD wardrobe combination, dark gray brown/stained oak veneer glass: /products/pax-wardrobes-with-doors/29560878.txt
+- PAX / SVARTISDAL wardrobe with sliding doors, white/white paper effect: /products/pax-wardrobes-with-doors/99568705.txt
+- PAX / SVARTISDAL wardrobe with sliding doors, white white/paper effect: /products/pax-wardrobes-with-doors/49560877.txt
+- PAX / SVARTISDAL wardrobe combination, dark gray/white paper effect: /products/pax-wardrobes-with-doors/49568703.txt
+- PAX / SVARTISDAL wardrobe combination, dark gray/white paper effect: /products/pax-wardrobes-with-doors/29568704.txt
+- PAX / STORKLINTA wardrobe combination, white/oak effect: /products/pax-wardrobes-with-doors/99562845.txt
+- PAX / STORKLINTA wardrobe combination, white/oak effect: /products/pax-wardrobes-with-doors/99562553.txt
+- PAX / STORKLINTA wardrobe combination, white/oak effect: /products/pax-wardrobes-with-doors/89562596.txt
+- PAX / STORKLINTA wardrobe combination, white/oak effect: /products/pax-wardrobes-with-doors/89562558.txt
+- PAX / STORKLINTA wardrobe combination, white/oak effect: /products/pax-wardrobes-with-doors/79562771.txt
+- PAX / STORKLINTA wardrobe combination, white/oak effect: /products/pax-wardrobes-with-doors/79562592.txt
+- PAX / STORKLINTA wardrobe combination, white/oak effect: /products/pax-wardrobes-with-doors/59562890.txt
+- PAX / STORKLINTA wardrobe combination, white/oak effect: /products/pax-wardrobes-with-doors/39562853.txt
+- PAX / STORKLINTA wardrobe combination, white/oak effect: /products/pax-wardrobes-with-doors/39562768.txt
+- PAX / STORKLINTA wardrobe combination, white/oak effect: /products/pax-wardrobes-with-doors/29562617.txt
+- PAX / STORKLINTA wardrobe combination, white/oak effect: /products/pax-wardrobes-with-doors/19562887.txt
+- PAX / STORKLINTA wardrobe combination, white/oak effect: /products/pax-wardrobes-with-doors/19562712.txt
+- PAX / STORKLINTA wardrobe combination, white/oak effect: /products/pax-wardrobes-with-doors/09562717.txt
+- PAX / STORKLINTA wardrobe combination, white/oak effect: /products/pax-wardrobes-with-doors/09562618.txt
+- PAX / STORKLINTA wardrobe combination, gray-beige/oak effect: /products/pax-wardrobes-with-doors/79562894.txt
+- PAX / STORKLINTA wardrobe combination, gray-beige/oak effect: /products/pax-wardrobes-with-doors/69562776.txt
+- PAX / STORKLINTA wardrobe combination, gray-beige/oak effect: /products/pax-wardrobes-with-doors/69562639.txt
+- PAX / STORKLINTA wardrobe combination, gray-beige/oak effect: /products/pax-wardrobes-with-doors/49562881.txt
+- PAX / STORKLINTA wardrobe combination, gray-beige/oak effect: /products/pax-wardrobes-with-doors/49562782.txt
+- PAX / STORKLINTA wardrobe combination, gray-beige/oak effect: /products/pax-wardrobes-with-doors/29562900.txt
+- PAX / STORKLINTA wardrobe combination, gray-beige/oak effect: /products/pax-wardrobes-with-doors/29562877.txt
+- PAX / STORKLINTA wardrobe combination, gray-beige/oak effect: /products/pax-wardrobes-with-doors/09562642.txt
+- PAX / STORKLINTA wardrobe combination, gray-beige/dark brown stained oak effect: /products/pax-wardrobes-with-doors/99562652.txt
+- PAX / STORKLINTA wardrobe combination, gray-beige/dark brown stained oak effect: /products/pax-wardrobes-with-doors/79562648.txt
+- PAX / STORKLINTA wardrobe combination, gray-beige/dark brown stained oak effect: /products/pax-wardrobes-with-doors/59562786.txt
+- PAX / STORKLINTA wardrobe combination, gray-beige/dark brown stained oak effect: /products/pax-wardrobes-with-doors/49562904.txt
+- PAX / STORKLINTA wardrobe combination, gray-beige/dark brown stained oak effect: /products/pax-wardrobes-with-doors/39562792.txt
+- PAX / STORKLINTA wardrobe combination, gray-beige/dark brown stained oak effect: /products/pax-wardrobes-with-doors/29562863.txt
+- PAX / STORKLINTA wardrobe combination, gray-beige/dark brown stained oak effect: /products/pax-wardrobes-with-doors/29562858.txt
+- PAX / STORKLINTA wardrobe combination, gray-beige/dark brown stained oak effect: /products/pax-wardrobes-with-doors/19562910.txt
+- PAX / STORKLINTA wardrobe combination, dark gray/dark brown stained oak effect: /products/pax-wardrobes-with-doors/69562743.txt
+- PAX / STORKLINTA wardrobe combination, dark gray/dark brown stained oak effect: /products/pax-wardrobes-with-doors/59562748.txt
+- PAX / STORKLINTA wardrobe combination, dark gray/dark brown stained oak effect: /products/pax-wardrobes-with-doors/59562569.txt
+- PAX / STORKLINTA wardrobe combination, dark gray/dark brown stained oak effect: /products/pax-wardrobes-with-doors/49562796.txt
+- PAX / STORKLINTA wardrobe combination, dark gray/dark brown stained oak effect: /products/pax-wardrobes-with-doors/49562602.txt
+- PAX / STORKLINTA wardrobe combination, dark gray/dark brown stained oak effect: /products/pax-wardrobes-with-doors/39562914.txt
+- PAX / STORKLINTA wardrobe combination, dark gray/dark brown stained oak effect: /products/pax-wardrobes-with-doors/39562607.txt
+- PAX / STORKLINTA wardrobe combination, dark gray/dark brown stained oak effect: /products/pax-wardrobes-with-doors/29562660.txt
+- PAX / STORKLINTA wardrobe combination, dark gray/dark brown stained oak effect: /products/pax-wardrobes-with-doors/19562849.txt
+- PAX / STORKLINTA wardrobe combination, dark gray/dark brown stained oak effect: /products/pax-wardrobes-with-doors/09562920.txt
+- PAX / STORKLINTA wardrobe combination, dark gray/dark brown stained oak effect: /products/pax-wardrobes-with-doors/09562840.txt
+- PAX / STORKLINTA wardrobe combination, dark gray/dark brown stained oak effect: /products/pax-wardrobes-with-doors/09562802.txt
+- PAX / STORKLINTA wardrobe combination, dark gray/dark brown stained oak effect: /products/pax-wardrobes-with-doors/09562656.txt
+- PAX / STORKLINTA wardrobe combination, dark gray/dark brown stained oak effect: /products/pax-wardrobes-with-doors/09562562.txt
+- PAX / REINSVOLL wardrobe combination, white/gray-beige: /products/pax-wardrobes-with-doors/79560866.txt
+- PAX / REINSVOLL wardrobe combination, white/gray-beige: /products/pax-wardrobes-with-doors/59560872.txt
+- PAX / REINSVOLL wardrobe combination, white/gray-beige: /products/pax-wardrobes-with-doors/19560869.txt
+- PAX / REINSVOLL/ÅHEIM wardrobe combination, white/gray-beige: /products/pax-wardrobes-with-doors/89560861.txt
+- PAX / REINSVOLL/ÅHEIM wardrobe combination, white/gray-beige mirror glass: /products/pax-wardrobes-with-doors/49560863.txt
+- PAX / MISTUDDEN wardrobe combination, white/gray patterned: /products/pax-wardrobes-with-doors/99568159.txt
+- PAX / MISTUDDEN wardrobe combination, white/gray patterned: /products/pax-wardrobes-with-doors/59568161.txt
+- PAX / MISTUDDEN wardrobe combination, white/gray patterned: /products/pax-wardrobes-with-doors/49568171.txt
+- PAX / MISTUDDEN wardrobe combination, white/gray patterned: /products/pax-wardrobes-with-doors/19568163.txt
+- PAX / MISTUDDEN wardrobe combination, white/gray patterned: /products/pax-wardrobes-with-doors/19568158.txt
+- PAX / MISTUDDEN wardrobe combination, white/gray patterned: /products/pax-wardrobes-with-doors/09568173.txt
+- PAX / MISTUDDEN wardrobe combination, white/gray patterned: /products/pax-wardrobes-with-doors/09568168.txt
+- PAX / MEHAMN wardrobe with sliding doors, white/double sided white: /products/pax-wardrobes-with-doors/99560846.txt
+- PAX / MEHAMN wardrobe with sliding doors, white/double sided white: /products/pax-wardrobes-with-doors/59560853.txt
+- PAX / MEHAMN wardrobe with sliding doors, white/double sided white: /products/pax-wardrobes-with-doors/59560848.txt
+- PAX / MEHAMN wardrobe with sliding doors, white/double sided light green: /products/pax-wardrobes-with-doors/69560843.txt
+- PAX / MEHAMN wardrobe with sliding doors, white/double sided light green: /products/pax-wardrobes-with-doors/49560844.txt
+- PAX / MEHAMN wardrobe with sliding doors, white/double sided light blue: /products/pax-wardrobes-with-doors/79560852.txt
+- PAX / MEHAMN wardrobe with sliding doors, white/double sided light blue: /products/pax-wardrobes-with-doors/39568666.txt
+- PAX / MEHAMN wardrobe with sliding doors, gray-beige/double sided gray-beige: /products/pax-wardrobes-with-doors/89562346.txt
+- PAX / MEHAMN wardrobe with sliding doors, gray-beige/double sided gray-beige: /products/pax-wardrobes-with-doors/09562345.txt
+- PAX / MEHAMN wardrobe with sliding doors, double sided dark gray/gray-beige: /products/pax-wardrobes-with-doors/19560850.txt
+- PAX / MEHAMN wardrobe with sliding doors, dark gray/double sided light green: /products/pax-wardrobes-with-doors/49560839.txt
+- PAX / MEHAMN wardrobe with sliding doors, dark gray/double sided light green: /products/pax-wardrobes-with-doors/29560840.txt
+- PAX / MEHAMN wardrobe with sliding doors, dark gray/double sided light blue: /products/pax-wardrobes-with-doors/39560849.txt
+- PAX / MEHAMN wardrobe with sliding doors, dark gray/double sided light blue: /products/pax-wardrobes-with-doors/29560835.txt
+- PAX / MEHAMN wardrobe with sliding doors, dark gray/double sided dark gray: /products/pax-wardrobes-with-doors/89560842.txt
+- PAX / MEHAMN wardrobe with sliding doors, dark gray/double sided dark gray: /products/pax-wardrobes-with-doors/69560857.txt
+- PAX / MEHAMN wardrobe with sliding doors, dark gray/double sided dark gray: /products/pax-wardrobes-with-doors/49560858.txt
+- PAX / MEHAMN wardrobe, gray-beige/double sided gray-beige: /products/pax-wardrobes-with-doors/29562349.txt
+- PAX / MEHAMN wardrobe, gray-beige/double sided gray-beige: /products/pax-wardrobes-with-doors/09562350.txt
+- PAX / MEHAMN wardrobe, double sided dark gray/gray-beige: /products/pax-wardrobes-with-doors/49568661.txt
+- PAX / MEHAMN wardrobe, dark gray/double sided dark gray: /products/pax-wardrobes-with-doors/89568664.txt
+- PAX / MEHAMN wardrobe, dark gray/double sided dark gray: /products/pax-wardrobes-with-doors/29568662.txt
+- PAX / MEHAMN wardrobe, dark gray/double sided dark gray: /products/pax-wardrobes-with-doors/09568663.txt
+- PAX / MEHAMN wardrobe combination, white double sided/white white stained oak effect: /products/pax-wardrobes-with-doors/79568669.txt
+- PAX / MEHAMN wardrobe combination, white double sided/white white stained oak effect: /products/pax-wardrobes-with-doors/59568670.txt
+- PAX / MEHAMN wardrobe combination, white/double sided white stained oak effect: /products/pax-wardrobes-with-doors/39568671.txt
+- PAX / MEHAMN wardrobe combination, white/double sided white stained oak effect: /products/pax-wardrobes-with-doors/19568672.txt
+- PAX / MEHAMN wardrobe combination, white/double sided white: /products/pax-wardrobes-with-doors/19568667.txt
+- PAX / MEHAMN/AULI wardrobe with sliding doors, white/mirror glass: /products/pax-wardrobes-with-doors/59561268.txt
+- PAX / MEHAMN/AULI wardrobe with sliding doors, white/mirror glass: /products/pax-wardrobes-with-doors/39561269.txt
+- PAX / MEHAMN/AULI wardrobe with sliding doors, white double sided/white stained oak effect mirror glass: /products/pax-wardrobes-with-doors/89561281.txt
+- PAX / MEHAMN/AULI wardrobe with sliding doors, white double sided/white stained oak effect mirror glass: /products/pax-wardrobes-with-doors/29561279.txt
+- PAX / MEHAMN/AULI wardrobe with sliding doors, white double sided/white mirror glass: /products/pax-wardrobes-with-doors/79561267.txt
+- PAX / MEHAMN/AULI wardrobe with sliding doors, white double sided/white mirror glass: /products/pax-wardrobes-with-doors/19561265.txt
+- PAX / MEHAMN/AULI wardrobe with sliding doors, white double sided/light green mirror glass: /products/pax-wardrobes-with-doors/89561276.txt
+- PAX / MEHAMN/AULI wardrobe with sliding doors, white double sided/light green mirror glass: /products/pax-wardrobes-with-doors/49561278.txt
+- PAX / MEHAMN/AULI wardrobe with sliding doors, white double sided/light blue mirror glass: /products/pax-wardrobes-with-doors/79561272.txt
+- PAX / MEHAMN/AULI wardrobe with sliding doors, white double sided/light blue mirror glass: /products/pax-wardrobes-with-doors/39561274.txt
+- PAX / MEHAMN/AULI wardrobe with sliding doors, dark gray double sided/light green mirror glass: /products/pax-wardrobes-with-doors/69561277.txt
+- PAX / MEHAMN/AULI wardrobe with sliding doors, dark gray double sided/light green mirror glass: /products/pax-wardrobes-with-doors/09561275.txt
+- PAX / MEHAMN/AULI wardrobe with sliding doors, dark gray double sided/light blue mirror glass: /products/pax-wardrobes-with-doors/99561271.txt
+- PAX / MEHAMN/AULI wardrobe with sliding doors, dark gray double sided/light blue mirror glass: /products/pax-wardrobes-with-doors/59561273.txt
+- PAX / MEHAMN/AULI wardrobe with sliding doors, dark gray double sided/dark gray mirror glass: /products/pax-wardrobes-with-doors/99561266.txt
+- PAX / MEHAMN/AULI wardrobe with sliding doors, dark gray double sided/dark gray mirror glass: /products/pax-wardrobes-with-doors/69568660.txt
+- PAX / HOKKSUND wardrobe combination, white/high gloss light gray: /products/pax-wardrobes-with-doors/49568562.txt
+- PAX / HOKKSUND wardrobe combination, white/high gloss light gray: /products/pax-wardrobes-with-doors/29568596.txt
+- PAX / HASVIK wardrobe with sliding doors, white/white: /products/pax-wardrobes-with-doors/89560696.txt
+- PAX / HASVIK wardrobe with sliding doors, white/white: /products/pax-wardrobes-with-doors/89560677.txt
+- PAX / HASVIK wardrobe with sliding doors, white/white: /products/pax-wardrobes-with-doors/69560697.txt
+- PAX / HASVIK wardrobe with sliding doors, white/white: /products/pax-wardrobes-with-doors/69560683.txt
+- PAX / HASVIK wardrobe with sliding doors, white/white: /products/pax-wardrobes-with-doors/69560678.txt
+- PAX / HASVIK wardrobe with sliding doors, white/white: /products/pax-wardrobes-with-doors/59560688.txt
+- PAX / HASVIK wardrobe with sliding doors, white/white: /products/pax-wardrobes-with-doors/49560698.txt
+- PAX / HASVIK wardrobe with sliding doors, white/white: /products/pax-wardrobes-with-doors/49560684.txt
+- PAX / HASVIK wardrobe with sliding doors, white/white: /products/pax-wardrobes-with-doors/29560699.txt
+- PAX / HASVIK wardrobe with sliding doors, white/white: /products/pax-wardrobes-with-doors/29560680.txt
+- PAX / HASVIK wardrobe with sliding doors, white/white: /products/pax-wardrobes-with-doors/19560685.txt
+- PAX / HASVIK wardrobe with sliding doors, white/white: /products/pax-wardrobes-with-doors/09560695.txt
+- PAX / HASVIK wardrobe with sliding doors, dark gray/dark gray: /products/pax-wardrobes-with-doors/79560687.txt
+- PAX / HASVIK wardrobe with sliding doors, dark gray/dark gray: /products/pax-wardrobes-with-doors/49560679.txt
+- PAX / HASVIK wardrobe with sliding doors, dark gray/dark gray: /products/pax-wardrobes-with-doors/39560689.txt
+- PAX / HASVIK wardrobe with sliding doors, dark gray/dark gray: /products/pax-wardrobes-with-doors/09560681.txt
+- PAX / HASVIK wardrobe, gray-beige/gray-beige: /products/pax-wardrobes-with-doors/79562337.txt
+- PAX / HASVIK wardrobe, gray-beige/gray-beige: /products/pax-wardrobes-with-doors/59562338.txt
+- PAX / HASVIK wardrobe combination, gray-beige/gray-beige: /products/pax-wardrobes-with-doors/79568546.txt
+- PAX / HASVIK wardrobe combination, gray-beige/gray-beige: /products/pax-wardrobes-with-doors/59568547.txt
+- PAX / GULLABERG wardrobe combination, white/white: /products/pax-wardrobes-with-doors/99563562.txt
+- PAX / GULLABERG wardrobe combination, white/white: /products/pax-wardrobes-with-doors/89563727.txt
+- PAX / GULLABERG wardrobe combination, white/white: /products/pax-wardrobes-with-doors/79563756.txt
+- PAX / GULLABERG wardrobe combination, white/white: /products/pax-wardrobes-with-doors/79563723.txt
+- PAX / GULLABERG wardrobe combination, white/white: /products/pax-wardrobes-with-doors/79563596.txt
+- PAX / GULLABERG wardrobe combination, white/white: /products/pax-wardrobes-with-doors/79563092.txt
+- PAX / GULLABERG wardrobe combination, white/white: /products/pax-wardrobes-with-doors/79563087.txt
+- PAX / GULLABERG wardrobe combination, white/white: /products/pax-wardrobes-with-doors/79561540.txt
+- PAX / GULLABERG wardrobe combination, white/white: /products/pax-wardrobes-with-doors/69563766.txt
+- PAX / GULLABERG wardrobe combination, white/white: /products/pax-wardrobes-with-doors/69563752.txt
+- PAX / GULLABERG wardrobe combination, white/white: /products/pax-wardrobes-with-doors/69561545.txt
+- PAX / GULLABERG wardrobe combination, white/white: /products/pax-wardrobes-with-doors/59563026.txt
+- PAX / GULLABERG wardrobe combination, white/white: /products/pax-wardrobes-with-doors/49563593.txt
+- PAX / GULLABERG wardrobe combination, white/white: /products/pax-wardrobes-with-doors/49563526.txt
+- PAX / GULLABERG wardrobe combination, white/white: /products/pax-wardrobes-with-doors/49563017.txt
+- PAX / GULLABERG wardrobe combination, white/white: /products/pax-wardrobes-with-doors/49561589.txt
+- PAX / GULLABERG wardrobe combination, white/white: /products/pax-wardrobes-with-doors/39563800.txt
+- PAX / GULLABERG wardrobe combination, white/white: /products/pax-wardrobes-with-doors/39563796.txt
+- PAX / GULLABERG wardrobe combination, white/white: /products/pax-wardrobes-with-doors/39563763.txt
+- PAX / GULLABERG wardrobe combination, white/white: /products/pax-wardrobes-with-doors/39563678.txt
+- PAX / GULLABERG wardrobe combination, white/white: /products/pax-wardrobes-with-doors/29563551.txt
+- PAX / GULLABERG wardrobe combination, white/white: /products/pax-wardrobes-with-doors/29563546.txt
+- PAX / GULLABERG wardrobe combination, white/white: /products/pax-wardrobes-with-doors/29563527.txt
+- PAX / GULLABERG wardrobe combination, white/white: /products/pax-wardrobes-with-doors/29563023.txt
+- PAX / GULLABERG wardrobe combination, white/white: /products/pax-wardrobes-with-doors/29561566.txt
+- PAX / GULLABERG wardrobe combination, white/white: /products/pax-wardrobes-with-doors/19563684.txt
+- PAX / GULLABERG wardrobe combination, white/white: /products/pax-wardrobes-with-doors/19563561.txt
+- PAX / GULLABERG wardrobe combination, white/white: /products/pax-wardrobes-with-doors/19563014.txt
+- PAX / GULLABERG wardrobe combination, white/white: /products/pax-wardrobes-with-doors/19561581.txt
+- PAX / GULLABERG wardrobe combination, white/white: /products/pax-wardrobes-with-doors/19561562.txt
+- PAX / GULLABERG wardrobe combination, white/gray: /products/pax-wardrobes-with-doors/99563048.txt
+- PAX / GULLABERG wardrobe combination, white/gray: /products/pax-wardrobes-with-doors/89563044.txt
+- PAX / GULLABERG wardrobe combination, white/gray: /products/pax-wardrobes-with-doors/79563822.txt
+- PAX / GULLABERG wardrobe combination, white/gray: /products/pax-wardrobes-with-doors/79563817.txt
+- PAX / GULLABERG wardrobe combination, white/gray: /products/pax-wardrobes-with-doors/69563733.txt
+- PAX / GULLABERG wardrobe combination, white/gray: /products/pax-wardrobes-with-doors/49563748.txt
+- PAX / GULLABERG wardrobe combination, white/gray: /products/pax-wardrobes-with-doors/49563710.txt
+- PAX / GULLABERG wardrobe combination, white/gray: /products/pax-wardrobes-with-doors/49563606.txt
+- PAX / GULLABERG wardrobe combination, white/gray: /products/pax-wardrobes-with-doors/39563701.txt
+- PAX / GULLABERG wardrobe combination, white/gray: /products/pax-wardrobes-with-doors/39563602.txt
+- PAX / GULLABERG wardrobe combination, white/gray: /products/pax-wardrobes-with-doors/29563749.txt
+- PAX / GULLABERG wardrobe combination, white/gray: /products/pax-wardrobes-with-doors/29563730.txt
+- PAX / GULLABERG wardrobe combination, dark gray/gray: /products/pax-wardrobes-with-doors/79563558.txt
+- PAX / GULLABERG wardrobe combination, dark gray/gray: /products/pax-wardrobes-with-doors/79563011.txt
+- PAX / GULLABERG wardrobe combination, dark gray/gray: /products/pax-wardrobes-with-doors/79563006.txt
+- PAX / GULLABERG wardrobe combination, dark gray/gray: /products/pax-wardrobes-with-doors/69563573.txt
+- PAX / GULLABERG wardrobe combination, dark gray/gray: /products/pax-wardrobes-with-doors/69563554.txt
+- PAX / GULLABERG wardrobe combination, dark gray/gray: /products/pax-wardrobes-with-doors/59563578.txt
+- PAX / GULLABERG wardrobe combination, dark gray/gray: /products/pax-wardrobes-with-doors/49563084.txt
+- PAX / GULLABERG wardrobe combination, dark gray/gray: /products/pax-wardrobes-with-doors/29563773.txt
+- PAX / GULLABERG wardrobe combination, dark gray/gray: /products/pax-wardrobes-with-doors/29563080.txt
+- PAX / GULLABERG wardrobe combination, dark gray/gray: /products/pax-wardrobes-with-doors/19563778.txt
+- PAX / GULLABERG wardrobe combination, dark gray/gray: /products/pax-wardrobes-with-doors/09563811.txt
+- PAX / GULLABERG wardrobe combination, dark gray/gray: /products/pax-wardrobes-with-doors/09563806.txt
+- PAX / GULLABERG wardrobe combination, dark gray/dark gray: /products/pax-wardrobes-with-doors/99561577.txt
+- PAX / GULLABERG wardrobe combination, dark gray/dark gray: /products/pax-wardrobes-with-doors/79561535.txt
+- PAX / GULLABERG wardrobe combination, dark gray/dark gray: /products/pax-wardrobes-with-doors/69561531.txt
+- PAX / GULLABERG wardrobe combination, dark gray/dark gray: /products/pax-wardrobes-with-doors/19561557.txt
+- PAX / GULLABERG wardrobe combination, dark gray/dark gray: /products/pax-wardrobes-with-doors/09561586.txt
+- PAX / GULLABERG wardrobe combination, dark gray/dark gray: /products/pax-wardrobes-with-doors/09561553.txt
+- PAX / GRIMO wardrobe with sliding doors, white/white: /products/pax-wardrobes-with-doors/99560790.txt
+- PAX / GRIMO wardrobe with sliding doors, white/white: /products/pax-wardrobes-with-doors/89560804.txt
+- PAX / GRIMO wardrobe with sliding doors, white/white: /products/pax-wardrobes-with-doors/59560805.txt
+- PAX / GRIMO wardrobe with sliding doors, white/white: /products/pax-wardrobes-with-doors/59560792.txt
+- PAX / GRIMO wardrobe with sliding doors, white/white: /products/pax-wardrobes-with-doors/39560806.txt
+- PAX / GRIMO wardrobe with sliding doors, white/white: /products/pax-wardrobes-with-doors/19560807.txt
+- PAX / GRIMO wardrobe with sliding doors, white/clear glass white: /products/pax-wardrobes-with-doors/99560832.txt
+- PAX / GRIMO wardrobe with sliding doors, white/clear glass white: /products/pax-wardrobes-with-doors/99560813.txt
+- PAX / GRIMO wardrobe with sliding doors, white/clear glass white: /products/pax-wardrobes-with-doors/89560823.txt
+- PAX / GRIMO wardrobe with sliding doors, white/clear glass white: /products/pax-wardrobes-with-doors/79560828.txt
+- PAX / GRIMO wardrobe with sliding doors, white/clear glass white: /products/pax-wardrobes-with-doors/79560809.txt
+- PAX / GRIMO wardrobe with sliding doors, white/clear glass white: /products/pax-wardrobes-with-doors/59560829.txt
+- PAX / GRIMO wardrobe with sliding doors, white/clear glass white: /products/pax-wardrobes-with-doors/59560810.txt
+- PAX / GRIMO wardrobe with sliding doors, white/clear glass white: /products/pax-wardrobes-with-doors/49560820.txt
+- PAX / GRIMO wardrobe with sliding doors, white/clear glass white: /products/pax-wardrobes-with-doors/39560830.txt
+- PAX / GRIMO wardrobe with sliding doors, white/clear glass white: /products/pax-wardrobes-with-doors/39560825.txt
+- PAX / GRIMO wardrobe with sliding doors, white/clear glass white: /products/pax-wardrobes-with-doors/19560826.txt
+- PAX / GRIMO wardrobe with sliding doors, white/clear glass white: /products/pax-wardrobes-with-doors/19560812.txt
+- PAX / GRIMO wardrobe with sliding doors, white/clear glass white: /products/pax-wardrobes-with-doors/09560822.txt
+- PAX / GRIMO wardrobe with sliding doors, white/clear glass white: /products/pax-wardrobes-with-doors/09560817.txt
+- PAX / GRIMO wardrobe combination, white/white: /products/pax-wardrobes-with-doors/99575353.txt
+- PAX / GRIMO wardrobe combination, white/white: /products/pax-wardrobes-with-doors/99568545.txt
+- PAX / GRIMO wardrobe combination, white/white: /products/pax-wardrobes-with-doors/89560795.txt
+- PAX / GRIMO wardrobe combination, white/white: /products/pax-wardrobes-with-doors/69575359.txt
+- PAX / GRIMO wardrobe combination, white/white: /products/pax-wardrobes-with-doors/69560800.txt
+- PAX / GRIMO wardrobe combination, white/white: /products/pax-wardrobes-with-doors/39560793.txt
+- PAX / GRIMO wardrobe combination, white/white: /products/pax-wardrobes-with-doors/19560794.txt
+- PAX / GRIMO wardrobe combination, white/gray: /products/pax-wardrobes-with-doors/49560797.txt
+- PAX / GRIMO wardrobe combination, white/gray: /products/pax-wardrobes-with-doors/29560798.txt
+- PAX / GRIMO corner wardrobe, white/white: /products/pax-wardrobes-with-doors/89560818.txt
+- PAX / GRIMO corner wardrobe, white/white: /products/pax-wardrobes-with-doors/09560799.txt
+- PAX / GRIMO/ÅHEIM corner wardrobe, white/white mirror glass: /products/pax-wardrobes-with-doors/59560787.txt
+- PAX / GRIMO/ÅHEIM corner wardrobe, white/white mirror glass: /products/pax-wardrobes-with-doors/39560788.txt
+- PAX / FYRUDDEN wardrobe combination, white/blue: /products/pax-wardrobes-with-doors/99581622.txt
+- PAX / FYRUDDEN corner wardrobe, white/blue: /products/pax-wardrobes-with-doors/19581758.txt
+- PAX / FORSAND wardrobe combination, white/white: /products/pax-wardrobes-with-doors/99559145.txt
+- PAX / FORSAND wardrobe combination, white/white: /products/pax-wardrobes-with-doors/89559179.txt
+- PAX / FORSAND wardrobe combination, white/white: /products/pax-wardrobes-with-doors/89559141.txt
+- PAX / FORSAND wardrobe combination, white/white: /products/pax-wardrobes-with-doors/79559189.txt
+- PAX / FORSAND wardrobe combination, white/white: /products/pax-wardrobes-with-doors/79559170.txt
+- PAX / FORSAND wardrobe combination, white/white: /products/pax-wardrobes-with-doors/79559165.txt
+- PAX / FORSAND wardrobe combination, white/white: /products/pax-wardrobes-with-doors/79559151.txt
+- PAX / FORSAND wardrobe combination, white/white: /products/pax-wardrobes-with-doors/69559175.txt
+- PAX / FORSAND wardrobe combination, white/white: /products/pax-wardrobes-with-doors/69559142.txt
+- PAX / FORSAND wardrobe combination, white/white: /products/pax-wardrobes-with-doors/49559181.txt
+- PAX / FORSAND wardrobe combination, white/white: /products/pax-wardrobes-with-doors/49559162.txt
+- PAX / FORSAND wardrobe combination, white/white: /products/pax-wardrobes-with-doors/49559157.txt
+- PAX / FORSAND wardrobe combination, white/white: /products/pax-wardrobes-with-doors/39559148.txt
+- PAX / FORSAND wardrobe combination, white/white: /products/pax-wardrobes-with-doors/29559177.txt
+- PAX / FORSAND wardrobe combination, white/white: /products/pax-wardrobes-with-doors/19559187.txt
+- PAX / FORSAND wardrobe combination, white/white: /products/pax-wardrobes-with-doors/19559173.txt
+- PAX / FORSAND wardrobe combination, white/white: /products/pax-wardrobes-with-doors/19559154.txt
+- PAX / FORSAND wardrobe combination, white/white: /products/pax-wardrobes-with-doors/09559183.txt
+- PAX / FORSAND wardrobe combination, white/white: /products/pax-wardrobes-with-doors/09559159.txt
+- PAX / FORSAND wardrobe combination, gray-beige/gray-beige: /products/pax-wardrobes-with-doors/89562327.txt
+- PAX / FORSAND wardrobe combination, gray-beige/gray-beige: /products/pax-wardrobes-with-doors/49562334.txt
+- PAX / FORSAND wardrobe combination, gray-beige/gray-beige: /products/pax-wardrobes-with-doors/29562325.txt
+- PAX / FORSAND wardrobe combination, gray-beige/gray-beige: /products/pax-wardrobes-with-doors/09562326.txt
+- PAX / FORSAND wardrobe combination, gray-beige dark gray/gray-beige: /products/pax-wardrobes-with-doors/89562332.txt
+- PAX / FORSAND wardrobe combination, gray-beige/dark gray gray-beige: /products/pax-wardrobes-with-doors/69562328.txt
+- PAX / FORSAND wardrobe combination, dark gray gray-beige/dark gray: /products/pax-wardrobes-with-doors/59559128.txt
+- PAX / FORSAND wardrobe combination, dark gray gray-beige/dark gray: /products/pax-wardrobes-with-doors/49568543.txt
+- PAX / FORSAND wardrobe combination, dark gray gray-beige/dark gray: /products/pax-wardrobes-with-doors/39559129.txt
+- PAX / FORSAND wardrobe combination, dark gray gray-beige/dark gray: /products/pax-wardrobes-with-doors/29568544.txt
+- PAX / FORSAND wardrobe combination, dark gray/dark gray: /products/pax-wardrobes-with-doors/99559169.txt
+- PAX / FORSAND wardrobe combination, dark gray/dark gray: /products/pax-wardrobes-with-doors/89559155.txt
+- PAX / FORSAND wardrobe combination, dark gray/dark gray: /products/pax-wardrobes-with-doors/69559161.txt
+- PAX / FORSAND wardrobe combination, dark gray/dark gray: /products/pax-wardrobes-with-doors/69559156.txt
+- PAX / FORSAND wardrobe combination, dark gray/dark gray: /products/pax-wardrobes-with-doors/39559172.txt
+- PAX / FORSAND wardrobe combination, dark gray/dark gray: /products/pax-wardrobes-with-doors/39559167.txt
+- PAX / FORSAND wardrobe combination, dark gray/dark gray: /products/pax-wardrobes-with-doors/29559144.txt
+- PAX / FORSAND wardrobe combination, dark gray/dark gray: /products/pax-wardrobes-with-doors/19559168.txt
+- PAX / FORSAND wardrobe combination, dark gray/dark gray: /products/pax-wardrobes-with-doors/19559149.txt
+- PAX / FORSAND wardrobe combination, dark gray/dark gray: /products/pax-wardrobes-with-doors/09559164.txt
+- PAX / FORSAND/ÅHEIM wardrobe combination, white/mirror glass: /products/pax-wardrobes-with-doors/29560779.txt
+- PAX / FORSAND/ÅHEIM wardrobe combination, white/mirror glass: /products/pax-wardrobes-with-doors/29559115.txt
+- PAX / FORSAND/ÅHEIM wardrobe combination, white/mirror glass: /products/pax-wardrobes-with-doors/09560780.txt
+- PAX / FORSAND/ÅHEIM wardrobe combination, white/mirror glass: /products/pax-wardrobes-with-doors/09559116.txt
+- PAX / FORSAND/ÅHEIM wardrobe combination, gray-beige/mirror glass: /products/pax-wardrobes-with-doors/99562336.txt
+- PAX / FORSAND/ÅHEIM wardrobe combination, gray-beige/mirror glass: /products/pax-wardrobes-with-doors/19562335.txt
+- PAX / FORSAND/ÅHEIM wardrobe combination, dark gray/mirror glass: /products/pax-wardrobes-with-doors/99560771.txt
+- PAX / FORSAND/ÅHEIM wardrobe combination, dark gray/mirror glass: /products/pax-wardrobes-with-doors/79560772.txt
+- PAX / FARDAL wardrobe combination, white/high-gloss/white: /products/pax-wardrobes-with-doors/99560752.txt
+- PAX / FARDAL wardrobe combination, white/high-gloss/white: /products/pax-wardrobes-with-doors/89568466.txt
+- PAX / FARDAL wardrobe combination, white/high-gloss/white: /products/pax-wardrobes-with-doors/89560762.txt
+- PAX / FARDAL wardrobe combination, white/high-gloss/white: /products/pax-wardrobes-with-doors/69568467.txt
+- PAX / FARDAL wardrobe combination, white/high-gloss/white: /products/pax-wardrobes-with-doors/69560763.txt
+- PAX / FARDAL wardrobe combination, white/high-gloss/white: /products/pax-wardrobes-with-doors/49560764.txt
+- PAX / FARDAL wardrobe combination, white/high gloss white: /products/pax-wardrobes-with-doors/49560759.txt
+- PAX / FARDAL wardrobe combination, white/high gloss white: /products/pax-wardrobes-with-doors/09560761.txt
+- PAX / FARDAL wardrobe combination, white/high-gloss light gray: /products/pax-wardrobes-with-doors/79560753.txt
+- PAX / FARDAL wardrobe combination, white/high-gloss light gray: /products/pax-wardrobes-with-doors/59560754.txt
+- PAX / FARDAL wardrobe combination, white/high-gloss light gray: /products/pax-wardrobes-with-doors/29560755.txt
+- PAX / FARDAL wardrobe combination, white/high-gloss light gray: /products/pax-wardrobes-with-doors/09560756.txt
+- PAX / FARDAL wardrobe combination, high-gloss/white: /products/pax-wardrobes-with-doors/89560757.txt
+- PAX / FARDAL wardrobe combination, high-gloss/white: /products/pax-wardrobes-with-doors/69560758.txt
+- PAX / FARDAL/ÅHEIM wardrobe combination, white high gloss/white mirror glass: /products/pax-wardrobes-with-doors/99560747.txt
+- PAX / FARDAL/ÅHEIM wardrobe combination, white/high-gloss/white mirror glass: /products/pax-wardrobes-with-doors/89560743.txt
+- PAX / FARDAL/ÅHEIM wardrobe combination, white/high-gloss/white mirror glass: /products/pax-wardrobes-with-doors/69560744.txt
+- PAX / FARDAL/ÅHEIM wardrobe combination, white high gloss/white mirror glass: /products/pax-wardrobes-with-doors/59560749.txt
+- PAX / FARDAL/ÅHEIM wardrobe combination, high gloss white/mirror glass: /products/pax-wardrobes-with-doors/49560740.txt
+- PAX / FARDAL/ÅHEIM wardrobe combination, high gloss white/mirror glass: /products/pax-wardrobes-with-doors/39560745.txt
+- PAX / FARDAL/ÅHEIM wardrobe combination, high gloss white/mirror glass: /products/pax-wardrobes-with-doors/19560751.txt
+- PAX / FARDAL/ÅHEIM wardrobe combination, high gloss white/mirror glass: /products/pax-wardrobes-with-doors/19560746.txt
+- PAX / FARDAL/ÅHEIM corner wardrobe, high gloss white/mirror glass: /products/pax-wardrobes-with-doors/29560741.txt
+- PAX / FARDAL/ÅHEIM corner wardrobe, high gloss white/mirror glass: /products/pax-wardrobes-with-doors/09560742.txt
+- PAX / BERGSBO wardrobe, gray-beige/gray-beige: /products/pax-wardrobes-with-doors/59562319.txt
+- PAX / BERGSBO wardrobe, gray-beige/gray-beige: /products/pax-wardrobes-with-doors/19562316.txt
+- PAX / BERGSBO wardrobe combination, white/white: /products/pax-wardrobes-with-doors/89559061.txt
+- PAX / BERGSBO wardrobe combination, white/white: /products/pax-wardrobes-with-doors/79559071.txt
+- PAX / BERGSBO wardrobe combination, white/white: /products/pax-wardrobes-with-doors/69559057.txt
+- PAX / BERGSBO wardrobe combination, white/white: /products/pax-wardrobes-with-doors/59559072.txt
+- PAX / BERGSBO wardrobe combination, white/white: /products/pax-wardrobes-with-doors/39559073.txt
+- PAX / BERGSBO wardrobe combination, white/white: /products/pax-wardrobes-with-doors/39559054.txt
+- PAX / BERGSBO wardrobe combination, white/white: /products/pax-wardrobes-with-doors/19568436.txt
+- PAX / BERGSBO wardrobe combination, white/white: /products/pax-wardrobes-with-doors/19559069.txt
+- PAX / BERGSBO wardrobe combination, white/white: /products/pax-wardrobes-with-doors/09559060.txt
+- PAX / BERGSBO wardrobe combination, white/white: /products/pax-wardrobes-with-doors/09559055.txt
+- PAX / BERGSBO wardrobe combination, white/frosted glass white: /products/pax-wardrobes-with-doors/99568404.txt
+- PAX / BERGSBO wardrobe combination, white/frosted glass/white: /products/pax-wardrobes-with-doors/39568402.txt
+- PAX / BERGSBO wardrobe combination, white/frosted glass: /products/pax-wardrobes-with-doors/19568399.txt
+- PAX / BERGSBO wardrobe combination, gray-beige/gray-beige: /products/pax-wardrobes-with-doors/99562317.txt
+- PAX / BERGSBO wardrobe combination, gray-beige/gray-beige: /products/pax-wardrobes-with-doors/79562318.txt
+- PAX / BERGSBO wardrobe combination, dark gray: /products/pax-wardrobes-with-doors/69559062.txt
+- PAX / BERGSBO wardrobe combination, dark gray: /products/pax-wardrobes-with-doors/49559063.txt
+- PAX / BERGSBO wardrobe combination, dark gray/dark gray: /products/pax-wardrobes-with-doors/99559070.txt
+- PAX / BERGSBO wardrobe combination, dark gray/dark gray: /products/pax-wardrobes-with-doors/89559056.txt
+- PAX / BERGSBO wardrobe combination, dark gray/dark gray: /products/pax-wardrobes-with-doors/49559058.txt
+- PAX / BERGSBO wardrobe combination, dark gray/dark gray: /products/pax-wardrobes-with-doors/29559059.txt
+- PAX / BERGSBO/ÅHEIM wardrobe combination, white/mirror glass: /products/pax-wardrobes-with-doors/99559051.txt
+- PAX / BERGSBO/ÅHEIM wardrobe combination, white/mirror glass: /products/pax-wardrobes-with-doors/19559050.txt
+- PAX / BERGSBO/ÅHEIM wardrobe combination, dark gray dark gray/mirror glass: /products/pax-wardrobes-with-doors/79559052.txt
+- PAX / BERGSBO/ÅHEIM wardrobe combination, dark gray dark gray/mirror glass: /products/pax-wardrobes-with-doors/59559053.txt
+- PAX / AULI wardrobe with sliding doors, white/mirror glass: /products/pax-wardrobes-with-doors/99561346.txt
+- PAX / AULI wardrobe with sliding doors, white/mirror glass: /products/pax-wardrobes-with-doors/89561262.txt
+- PAX / AULI wardrobe with sliding doors, white/mirror glass: /products/pax-wardrobes-with-doors/89561257.txt
+- PAX / AULI wardrobe with sliding doors, white/mirror glass: /products/pax-wardrobes-with-doors/69561263.txt
+- PAX / AULI wardrobe with sliding doors, white/mirror glass: /products/pax-wardrobes-with-doors/49561264.txt
+- PAX / AULI wardrobe with sliding doors, white/mirror glass: /products/pax-wardrobes-with-doors/09561256.txt
+- PAX / AULI wardrobe with sliding doors, gray-beige/mirror glass: /products/pax-wardrobes-with-doors/49561259.txt
+- PAX / AULI wardrobe with sliding doors, gray-beige/mirror glass: /products/pax-wardrobes-with-doors/09561261.txt
+- PAX / AULI wardrobe with sliding doors, dark gray/mirror glass: /products/pax-wardrobes-with-doors/79561347.txt
+- PAX / AULI wardrobe with sliding doors, dark gray/mirror glass: /products/pax-wardrobes-with-doors/49561344.txt
+- PAX / ÅHEIM wardrobe combination, white/mirror glass: /products/pax-wardrobes-with-doors/29560982.txt
+- PAX / ÅHEIM wardrobe combination, white/mirror glass: /products/pax-wardrobes-with-doors/29560977.txt
+- PAX / ÅHEIM wardrobe combination, white/mirror glass: /products/pax-wardrobes-with-doors/09560983.txt
+- PAX / ÅHEIM wardrobe combination, white/mirror glass: /products/pax-wardrobes-with-doors/09560978.txt
+- PAX / ÅHEIM wardrobe combination, gray-beige/mirror glass: /products/pax-wardrobes-with-doors/69562347.txt
+- PAX / ÅHEIM wardrobe combination, gray-beige/mirror glass: /products/pax-wardrobes-with-doors/49562348.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

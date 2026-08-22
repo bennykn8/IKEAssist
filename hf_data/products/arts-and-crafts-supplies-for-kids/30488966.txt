@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MÅLA easel, softwood
+SKU: 30488966
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/mala-easel-softwood-30488966/
+Category: Arts and crafts supplies for kids
+Description: Explore your creativity like a professional artist. Choose your canvas – a blackboard, a whiteboard or add MÅLA drawing paper. The easel folds flat and is easy to move to your favorite view. Easy to a...
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Wooden part(s)/ Rod: Solid pine, Clear acrylic lacquer, Board part: Acrylic paint, Fiberboard, Side bar: ABS plastic
+Features: Only use whiteboard markers on the whiteboard. | May be completed with other products from the MÅLA series like chalk, whiteboard pens, a drawing paper roll – and an apron that protects clothes.
+Care: Wipe clean with a damp cloth. | The trays can be rinsed off with water.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/mala-easel-softwood__0995590_pe821771_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TARVA bed frame, pine, King
+SKU: 79516661
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tarva-bed-frame-pine-s79516661/
+Category: Bed frames
+Description: TARVA bed frame is a modern example of Scandinavian furniture tradition – a simple design and untreated wood. A timeless expression mixes nicely with a variety of other styles and furniture. You can e...
+
+# @OFFER
+Price: 121
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Solid pine, Galvanized steel
+Features: SKORVA midbeam is included in the price but packaged separately. It is required for the stability of the bed frame and to keep the mattress in place. | Slatted bed base and mattress sold separately. | Combine this bed frame with a slatted bed base with a max. thickness of 1⅝" to keep the slats hidden in the frame. The slats of a higher bed base may be visible along the sides of the bed.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tarva-bed-frame-pine__0637611_pe698421_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

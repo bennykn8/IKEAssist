@@ -1,0 +1,67 @@
+# @CATEGORY
+Name: Handmade rugs
+ProductCount: 45
+
+# @FILTERS
+PriceRange: $49.99 - $899.99
+Materials: Base: 100 % cotton, Base: 67 % cotton, 33 % wool, Decoration: 100 % wool, Pile: 100 % wool, Use surface/ Weft: 100 % wool, Use surface/ Weft: 54 % wool, 46 % cotton, Use surface/ Weft: 61 % wool, 39 % cotton, Use surface/ Weft: 64 % wool, 36 % viscose/rayon, Use surface: 100 % jute, Use surface: 100 % wool
+Brand: IKEA
+
+# @ITEMS
+- VESTERVIG rug, flatwoven, handmade multicolor/diamond pattern: /products/handmade-rugs/80521261.txt
+- VÄGNÄT rug, flatwoven, off-white gray/handmade: /products/handmade-rugs/80541481.txt
+- VÄGNÄT rug, flatwoven, off-white gray/handmade: /products/handmade-rugs/10550822.txt
+- TANNISBY rug, flatwoven, handmade/gray black: /products/handmade-rugs/70494710.txt
+- TANNISBY rug, flatwoven, handmade/gray black: /products/handmade-rugs/20557074.txt
+- STOCKHOLM rug, flatwoven, handmade/stripe black/off-white: /products/handmade-rugs/90103254.txt
+- STOCKHOLM rug, flatwoven, handmade/stripe black/off-white: /products/handmade-rugs/80104862.txt
+- STOCKHOLM rug, flatwoven, handmade/checkered brown: /products/handmade-rugs/60229033.txt
+- STOCKHOLM 2025 rug, flatwoven, white/brown/light blue handwoven: /products/handmade-rugs/70593814.txt
+- STOCKHOLM 2025 rug, flatwoven, white/brown/light blue handwoven: /products/handmade-rugs/40593815.txt
+- STOCKHOLM 2025 rug, flatwoven, green/white/black handwoven: /products/handmade-rugs/80593762.txt
+- STOCKHOLM 2025 rug, flatwoven, green/white/black handwoven: /products/handmade-rugs/30593769.txt
+- STOCKHOLM 2025 rug, flatwoven, gray/white/black handwoven: /products/handmade-rugs/60593763.txt
+- STOCKHOLM 2025 rug, flatwoven, gray/white/black handwoven: /products/handmade-rugs/40590973.txt
+- STOCKHOLM 2025 rug, flatwoven, black/white/light green handwoven: /products/handmade-rugs/50593810.txt
+- STOCKHOLM 2025 rug, flatwoven, black/white/light green handwoven: /products/handmade-rugs/10593812.txt
+- STOCKHOLM 2017 rug, flatwoven, handmade/stripe gray: /products/handmade-rugs/80345239.txt
+- SÄNDNING rug, high pile, white: /products/handmade-rugs/60556223.txt
+- RYSSGRÄS rug, flatwoven, gray-yellow/handmade: /products/handmade-rugs/90583017.txt
+- RASTPLATS rug, flatwoven, handmade beige/black: /products/handmade-rugs/90560313.txt
+- RAKLEV rug, flatwoven, handmade natural/multicolor: /products/handmade-rugs/80408024.txt
+- PLANKORSNING rug, low pile, gray/beige: /products/handmade-rugs/10556225.txt
+- NICKGRÄS rug, flatwoven, multicolor/handmade: /products/handmade-rugs/70583018.txt
+- NICKGRÄS rug, flatwoven, multicolor/handmade: /products/handmade-rugs/60583009.txt
+- LYNGSBÄK rug, handmade/multicolor: /products/handmade-rugs/20506032.txt
+- LOKALGATA rug, flatwoven, beige: /products/handmade-rugs/00556221.txt
+- LENTÅTEL rug, high pile, beige/handmade: /products/handmade-rugs/50576151.txt
+- KVASTGRÄS rug, low pile, gray/handmade: /products/handmade-rugs/90576149.txt
+- KOLLUND rug, flatwoven, beige: /products/handmade-rugs/90556900.txt
+- KNYLHAVREN rug, flatwoven, brown/handmade: /products/handmade-rugs/10576148.txt
+- KLAPPERSTARR rug, high pile, blue/handmade: /products/handmade-rugs/00583026.txt
+- JULGRANSGRÄS rug, high pile, white/handmade: /products/handmade-rugs/50576146.txt
+- HJORTSVANG rug, handmade/off-white: /products/handmade-rugs/80442527.txt
+- HALVED rug, flatwoven, handmade multicolor: /products/handmade-rugs/20328228.txt
+- GYRSTINGE rug, flatwoven, handmade multicolor/green: /products/handmade-rugs/40494716.txt
+- BUDDINGE rug, flatwoven, handmade multicolor/stripe pattern: /products/handmade-rugs/10514179.txt
+- BRÖNDEN rug, low pile, handmade multicolor/red: /products/handmade-rugs/10532927.txt
+- BRÖNDEN rug, low pile, handmade multicolor/red: /products/handmade-rugs/00532975.txt
+- BRÖNDEN rug, low pile, handmade beige: /products/handmade-rugs/70532972.txt
+- BRÖNDEN rug, low pile, handmade beige: /products/handmade-rugs/10480551.txt
+- BEFODRAN rug, high pile, yellow/handmade: /products/handmade-rugs/80540165.txt
+- BEFODRAN rug, high pile, red-pink/handmade: /products/handmade-rugs/30540163.txt
+- BEFODRAN rug, high pile, light blue/handmade: /products/handmade-rugs/50540162.txt
+- BANKKONTOR rug, high pile, beige/handmade: /products/handmade-rugs/10551077.txt
+- AXHAVREN rug, high pile, beige/handmade: /products/handmade-rugs/00583012.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

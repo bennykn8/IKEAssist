@@ -1,0 +1,37 @@
+# @CATEGORY
+Name: Round mirrors
+ProductCount: 15
+
+# @FILTERS
+PriceRange: $7.99 - $159.99
+Materials: Fixing device: Layer-glued wood veneer, Fixing device: Plywood, Layer-glued wood veneer, Frame: Aluminium (min. 70% recycled), Anodized, Frame: Aluminium (min. 70% recycled), Powder coating, Frame: Fiberboard, Tinted clear polyurethane lacquer, Frame: Layer-glued wood veneer, Ash veneer, Clear lacquer, Frame: Layer-glued wood veneer, Ash veneer, Stain, Clear acrylic lacquer, Frame: Layer-glued wood veneer, Oak veneer, Tinted lacquer, Frame: Layer-glued wood veneer, Paper foil, Tinted lacquer, Frame: Layer-glued wood veneer, Walnut veneer, Tinted lacquer
+Brand: IKEA
+
+# @ITEMS
+- SVARTBJÖRK decorative convex mirror, black: /products/round-mirrors/50544462.txt
+- STOCKHOLM mirror, walnut veneer: /products/round-mirrors/60503791.txt
+- STOCKHOLM mirror, walnut veneer: /products/round-mirrors/20503793.txt
+- STOCKHOLM mirror, oak veneer: /products/round-mirrors/50591590.txt
+- STOCKHOLM mirror, oak veneer: /products/round-mirrors/10591587.txt
+- STOCKHOLM mirror, ash veneer: /products/round-mirrors/40503792.txt
+- SANDANE mirror, black-brown veneer: /products/round-mirrors/00339789.txt
+- ROTSUND mirror, white: /products/round-mirrors/70503677.txt
+- LINDBYN mirror, gold: /products/round-mirrors/70506119.txt
+- LINDBYN mirror, blue: /products/round-mirrors/40590807.txt
+- LINDBYN mirror, black: /products/round-mirrors/60507204.txt
+- LINDBYN mirror, black: /products/round-mirrors/30590450.txt
+- LINDBYN mirror, black: /products/round-mirrors/30506116.txt
+- BLÅSER mirror: /products/round-mirrors/90534338.txt
+- ALMARÖD mirror, black: /products/round-mirrors/60506129.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

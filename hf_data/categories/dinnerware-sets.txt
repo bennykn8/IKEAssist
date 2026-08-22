@@ -1,0 +1,36 @@
+# @CATEGORY
+Name: Dinnerware sets
+ProductCount: 14
+
+# @FILTERS
+PriceRange: $6.99 - $79.99
+Materials: Feldspar porcelain, Feldspar porcelain, Colored glaze, Stoneware, Stoneware, Colored glaze, Tempered opal glass
+Brand: IKEA
+
+# @ITEMS
+- VÄRDERA 18-piece dinnerware set, white: /products/dinnerware-sets/70277354.txt
+- UPPLAGA 18-piece dinnerware set, white: /products/dinnerware-sets/00443804.txt
+- STRIMMIG 18-piece dinnerware set, white: /products/dinnerware-sets/60559306.txt
+- MOSSMAL plate/bowl set of 3, dot pattern/light green: /products/dinnerware-sets/30582780.txt
+- IKEA 365+ 18-piece dinnerware set, white: /products/dinnerware-sets/40341101.txt
+- GODMIDDAG 18-piece dinnerware set, white: /products/dinnerware-sets/10564683.txt
+- GLADELIG 18-piece dinnerware set, gray: /products/dinnerware-sets/50588682.txt
+- GLADELIG 18-piece dinnerware set, blue: /products/dinnerware-sets/80588685.txt
+- FAVORISERA 12 piece dinnerware set, white: /products/dinnerware-sets/40458600.txt
+- FÄRGKLAR 18-piece dinnerware set, matte light turquoise: /products/dinnerware-sets/80564689.txt
+- FÄRGKLAR 18-piece dinnerware set, matte light gray: /products/dinnerware-sets/20564705.txt
+- FÄRGKLAR 18-piece dinnerware set, matte green: /products/dinnerware-sets/60564708.txt
+- FÄRGKLAR 18-piece dinnerware set, matte dark gray: /products/dinnerware-sets/20564710.txt
+- FÄRGKLAR 18-piece dinnerware set, light pink: /products/dinnerware-sets/20600609.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

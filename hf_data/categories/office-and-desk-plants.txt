@@ -1,0 +1,48 @@
+# @CATEGORY
+Name: Office & desk plants
+ProductCount: 26
+
+# @FILTERS
+PriceRange: $2.99 - $49.99
+Materials: Body: Feldspar porcelain, Colored glaze, Main parts: Earthenware, Pigmented powder coating, Main parts: Tempered glass, Plant/ Substrate: Cultivated potted plant, Pot: Polypropylene
+Brand: IKEA
+
+# @ITEMS
+- ZAMIOCULCAS potted plant, Aroid palm: /products/office-and-desk-plants/10069107.txt
+- TROPISK potted plant, tropical plant/assorted species plants: /products/office-and-desk-plants/70219137.txt
+- SUCCULENT potted plant, assorted species plants/Succulent: /products/office-and-desk-plants/60197230.txt
+- SUCCULENT plant with pot, assorted species plants/Succulent, 2 ½": /products/office-and-desk-plants/10426724.txt
+- SUCCULENT plant with pot, arrangement/assorted species plants: /products/office-and-desk-plants/90493677.txt
+- SPATHIPHYLLUM potted plant, Peace lily: /products/office-and-desk-plants/00197902.txt
+- SANSEVIERIA TRIFASCIATA potted plant, Mother-in-law's tongue: /products/office-and-desk-plants/90296969.txt
+- PACHIRA AQUATICA potted plant, Guinea chestnut: /products/office-and-desk-plants/90617550.txt
+- PACHIRA AQUATICA potted plant, Guinea chestnut: /products/office-and-desk-plants/40399173.txt
+- GYMNOCALYCIUM potted plant, grafted cactus: /products/office-and-desk-plants/80426725.txt
+- FICUS plant with pot, bonsai/assorted colors, 8 ¾": /products/office-and-desk-plants/90610596.txt
+- FICUS plant with pot, bonsai/assorted colors, 5 ½": /products/office-and-desk-plants/10610595.txt
+- FICUS LYRATA potted plant, fiddle-leaf fig/stem: /products/office-and-desk-plants/30568185.txt
+- EPIPREMNUM potted plant, Golden Pothos: /products/office-and-desk-plants/80305361.txt
+- DRACAENA plant, Lucky bamboo/spiral: /products/office-and-desk-plants/90105781.txt
+- DRACAENA plant, Lucky bamboo: /products/office-and-desk-plants/30063595.txt
+- DRACAENA MARGINATA potted plant, Dragon tree/3-stem: /products/office-and-desk-plants/80303531.txt
+- DRACAENA MARGINATA potted plant, Dragon tree/1 stem, 4 ¼": /products/office-and-desk-plants/80177170.txt
+- CHAMAEDOREA ELEGANS potted plant, Parlor palm: /products/office-and-desk-plants/70120061.txt
+- CACTACEAE plant with pot, cactus/assorted species plants, 2 ¼": /products/office-and-desk-plants/40445797.txt
+- BROMELIACEAE potted plant, Bromeliad, 4 ½": /products/office-and-desk-plants/00287040.txt
+- BLADVERK potted plant in mug, assorted species plants, 3 ½": /products/office-and-desk-plants/70528324.txt
+- BEAUCARNEA RECURVATA potted plant, Elephant's foot: /products/office-and-desk-plants/10120064.txt
+- ANANAS potted plant, Pineapple: /products/office-and-desk-plants/60598242.txt
+- ALOE VERA potted plant, Aloe: /products/office-and-desk-plants/20282758.txt
+- ALOCASIA AMAZONICA potted plant, Elephant ear: /products/office-and-desk-plants/90516358.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

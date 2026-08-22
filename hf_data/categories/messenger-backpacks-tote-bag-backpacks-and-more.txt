@@ -1,0 +1,25 @@
+# @CATEGORY
+Name: Messenger backpacks, tote bag backpacks & more
+ProductCount: 3
+
+# @FILTERS
+PriceRange: $17.99 - $45.99
+Materials: 100% polyester (min. 90% recycled), Fabric/ Lining: 100% polyester (min. 90% recycled), Filling: Polyethylene foam, Webbing: 100 % polypropylene
+Brand: IKEA
+
+# @ITEMS
+- VÄRLDENS backpack, black, 12 ¼x6x19 ¼"/7 gallon: /products/messenger-backpacks-tote-bag-backpacks-and-more/60487927.txt
+- VÄRLDENS backpack, black, 12 ¼x6x19 ¼"/7 gallon: /products/messenger-backpacks-tote-bag-backpacks-and-more/50604045.txt
+- STARTTID backpack, white/bright lilac, 10 ¾x3 ½x15"x3 gallon: /products/messenger-backpacks-tote-bag-backpacks-and-more/80580057.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

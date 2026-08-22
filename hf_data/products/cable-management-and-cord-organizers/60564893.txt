@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HÖNSNÄT cable management box, natural, 15x7x5 ½"
+SKU: 60564893
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hoensnaet-cable-management-box-natural-60564893/
+Category: Cable management & cord organizers
+Description: Tired of cables and power strips getting tangled? You can hide everything neat and tidy in this box of molded paperboard – and put the lid on to protect them from dust. Big enough to hold two KOPPLA s...
+
+# @OFFER
+Price: 6.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Molded paper pulp
+Features: Always follow the instructions in the manual for charging electronic equipment. We recommend that the power is switched off when leaving electronic equipment unattended for a long time. | Product is possible to recycle or use for energy recovery, if available in your community.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hoensnaet-cable-management-box-natural__1216062_pe912323_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

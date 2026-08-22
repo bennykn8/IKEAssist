@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: BOAXEL wardrobe combination, anthracite/oak
+SKU: 49551222
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/boaxel-wardrobe-combination-anthracite-oak-s49551222/
+Category: BOAXEL storage combinations
+Description: , 733/4x153/4x79" You can fit more than you think in a limited area. BOAXEL wall-mounted storage system is easy to mount and takes care of all your clothes and shoes in the bedroom and in smaller walk...
+
+# @OFFER
+Price: 252
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Galvanized steel, Epoxy/polyester powder coating, Steel, Epoxy/polyester powder coating, Particleboard, Paper foil, Plastic edging
+Dimensions: The mounting rail can be cut to an exact width if needed. Only applicable when using more than one mounting rail or for the adjustable clothes rail and shelf.
+Features: Be aware that different wall materials are able to support different loads of weight. For instance, walls made of drywall cannot support as much weight as walls made of wood, concrete, or brick. | Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | If you are uncertain about what type of mounting devices to use, please contact your local hardware store.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/boaxel-wardrobe-combination-anthracite-oak__1302026_pe937613_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

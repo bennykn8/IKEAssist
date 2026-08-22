@@ -1,0 +1,30 @@
+# @CATEGORY
+Name: IDÅSEN parts
+ProductCount: 8
+
+# @FILTERS
+PriceRange: $114.00 - $500.00
+Materials: Cable management: 70 % rubber, 30 % polyester, Stainless steel, Foot ring: Steel, Epoxy/polyester powder coating, Stainless steel, 100 % polyester, Frame: Steel, Epoxy/polyester powder coating, Inside frame/ Inside leg: Steel, Leg: Steel, Steel, Epoxy/polyester powder coating, Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Ash veneer, Stain, Clear acrylic lacquer, Plastic edging, Particleboard, Ash veneer, Stain, Clear acrylic lacquer, Plastic edging, Supporting rail/ Outer tube/ Inside tube/ Cross-brace/ Foot ring: Steel, Pigmented epoxy/polyester powder coating, Supporting rail/ Top rail/ Cross rail/ Outer tube/ Inside tube/ Housing/ Cross-brace: Steel, Epoxy/polyester powder coating, Top rail/ Cross rail/ Housing: Steel, Epoxy/polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- IDÅSEN underframe for table top, dark gray: /products/idåsen-parts/80397916.txt
+- IDÅSEN underframe for table top, dark gray: /products/idåsen-parts/30483822.txt
+- IDÅSEN Tabletop, brown: /products/idåsen-parts/50382191.txt
+- IDÅSEN Tabletop, brown: /products/idåsen-parts/40360991.txt
+- IDÅSEN tabletop, black: /products/idåsen-parts/60403881.txt
+- IDÅSEN tabletop, black: /products/idåsen-parts/50483816.txt
+- IDÅSEN Tabletop, black: /products/idåsen-parts/20403878.txt
+- IDÅSEN Sit/stand underframe for table top, dark gray: /products/idåsen-parts/20412175.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

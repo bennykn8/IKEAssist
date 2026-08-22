@@ -1,0 +1,72 @@
+# @CATEGORY
+Name: Outdoor bistro sets
+ProductCount: 50
+
+# @FILTERS
+PriceRange: $49.99 - $369.00
+Materials: 100% polyester (min. 90% recycled), Back cover/ Seat cover/ Base fabric: 100% polyester (min. 90% recycled), Clip/ Sleeve/ Feet: Polyamide, Cover/ Smolder resistant lining: Polyester wadding, Cushion cover/ Fabric: 100% polyester (min. 90% recycled), Fabric/ Cushion cover/ Filling: 100 % polyester (100% recycled), Fabric/ Cushion cover: 100% polyester (min. 90% recycled), Feet/ Protector: Polypropylene, Feet: Polyamide, Polyamide, Polyamide, Feet: Polypropylene
+Brand: IKEA
+
+# @ITEMS
+- TÄRNÖ table+2 chairs, outdoor, white/green: /products/outdoor-bistro-sets/19490777.txt
+- TÄRNÖ table+2 chairs, outdoor, white/green foldable/foldable Kuddarna light gray-beige: /products/outdoor-bistro-sets/59576038.txt
+- TÄRNÖ table+2 chairs, outdoor, foldable black/light brown stained/foldable Klösan dark blue: /products/outdoor-bistro-sets/09576352.txt
+- TÄRNÖ table+2 chairs, outdoor, black/light brown stained: /products/outdoor-bistro-sets/69898415.txt
+- TÄRNÖ table+2 chairs, outdoor, black/light brown stained foldable/foldable Kuddarna light gray-beige: /products/outdoor-bistro-sets/59576043.txt
+- SUNDSÖ table and 2 folding chairs, outdoor off-white/off-white: /products/outdoor-bistro-sets/59573025.txt
+- SUNDSÖ table and 2 folding chairs, outdoor off-white/off-white: /products/outdoor-bistro-sets/39573026.txt
+- SUNDSÖ table and 2 folding chairs, outdoor off-white/off-white Kuddarna light gray-beige: /products/outdoor-bistro-sets/79573388.txt
+- SUNDSÖ table and 2 folding chairs, outdoor off-white/off-white Kuddarna light gray-beige: /products/outdoor-bistro-sets/59573346.txt
+- SUNDSÖ table and 2 folding chairs, outdoor off-white/off-white Klösan dark blue: /products/outdoor-bistro-sets/49573342.txt
+- SUNDSÖ table and 2 folding chairs, outdoor off-white/off-white Klösan dark blue: /products/outdoor-bistro-sets/29573381.txt
+- SUNDSÖ table and 2 folding chairs, outdoor light green/light green: /products/outdoor-bistro-sets/89573024.txt
+- SUNDSÖ table and 2 folding chairs, outdoor light green/light green Kuddarna light gray-beige: /products/outdoor-bistro-sets/29573376.txt
+- SUNDSÖ table and 2 folding chairs, outdoor dark blue/dark blue: /products/outdoor-bistro-sets/09573023.txt
+- SUNDSÖ table and 2 folding chairs, outdoor dark blue/dark blue Kuddarna light gray-beige: /products/outdoor-bistro-sets/19573372.txt
+- SUNDSÖ table and 2 folding chairs, outdoor bright yellow/bright yellow: /products/outdoor-bistro-sets/29573022.txt
+- SUNDSÖ table and 2 folding chairs, outdoor bright yellow/bright yellow Kuddarna light gray-beige: /products/outdoor-bistro-sets/99573368.txt
+- SUNDSÖ table and 2 folding chairs, outdoor bright red/bright red: /products/outdoor-bistro-sets/49573021.txt
+- SUNDSÖ table and 2 folding chairs, outdoor bright red/bright red Kuddarna light gray-beige: /products/outdoor-bistro-sets/89573364.txt
+- SUNDSÖ table and 2 folding chairs, outdoor bright orange/bright orange: /products/outdoor-bistro-sets/69573020.txt
+- SUNDSÖ table and 2 folding chairs, outdoor bright orange/bright orange Kuddarna light gray-beige: /products/outdoor-bistro-sets/09573358.txt
+- SUNDSÖ table and 2 folding chairs, outdoor anthracite/anthracite: /products/outdoor-bistro-sets/19573027.txt
+- SUNDSÖ table and 2 folding chairs, outdoor anthracite/anthracite: /products/outdoor-bistro-sets/09573018.txt
+- SUNDSÖ table and 2 folding chairs, outdoor anthracite/anthracite Kuddarna light gray-beige: /products/outdoor-bistro-sets/99573354.txt
+- SUNDSÖ table and 2 folding chairs, outdoor anthracite/anthracite Kuddarna light gray-beige: /products/outdoor-bistro-sets/69573336.txt
+- SUNDSÖ table and 2 folding chairs, outdoor anthracite/anthracite Klösan dark blue: /products/outdoor-bistro-sets/79573350.txt
+- SUNDSÖ table and 2 folding chairs, outdoor anthracite/anthracite Klösan dark blue: /products/outdoor-bistro-sets/59573332.txt
+- NÄMMARÖ table and 2 folding chairs, outdoor, light brown stained: /products/outdoor-bistro-sets/79533868.txt
+- NÄMMARÖ table and 2 folding chairs, outdoor, light brown stained: /products/outdoor-bistro-sets/19579312.txt
+- NÄMMARÖ table and 2 folding chairs, outdoor, light brown stained/Kuddarna light grey-beige: /products/outdoor-bistro-sets/49576034.txt
+- NÄMMARÖ table+2 armchairs, outdoor, light brown stained: /products/outdoor-bistro-sets/19544577.txt
+- NÄMMARÖ / ENSHOLM table and 2 chairs, outdoor light brown stained/green: /products/outdoor-bistro-sets/59544740.txt
+- LÄCKÖ table+2 chairs, outdoor, gray: /products/outdoor-bistro-sets/49898435.txt
+- LÄCKÖ table+2 chairs, outdoor, gray/Kuddarna light gray-beige: /products/outdoor-bistro-sets/09575395.txt
+- LÄCKÖ table+2 chairs, outdoor, gray/Klösan dark blue: /products/outdoor-bistro-sets/69576311.txt
+- LÄCKÖ table+2 chairs, outdoor, gray/Frösön/Duvholmen beige: /products/outdoor-bistro-sets/39269021.txt
+- FURUÖN dining table w 2 chairs+2 footstl, brown/outdoor: /products/outdoor-bistro-sets/30543736.txt
+- FEJAN table and 2 folding chairs, outdoor, white/white: /products/outdoor-bistro-sets/59434949.txt
+- DUVSKÄR bistro set, outdoor/black-blue: /products/outdoor-bistro-sets/79494862.txt
+- DJUPÖN / ASKHOLMEN table and 2 folding chairs, outdoor folding/brown dark brown: /products/outdoor-bistro-sets/19608102.txt
+- ASKHOLMEN wall table & folding chair, outdoor, dark brown: /products/outdoor-bistro-sets/69529094.txt
+- ASKHOLMEN wall table & folding chair, outdoor, dark brown/Kuddarna light grey-beige: /products/outdoor-bistro-sets/39579877.txt
+- ASKHOLMEN wall table & folding chair, outdoor, dark brown/Frösön/Duvholmen beige: /products/outdoor-bistro-sets/49529245.txt
+- ASKHOLMEN wall table+2 folding chairs,outdoor, dark brown: /products/outdoor-bistro-sets/39529986.txt
+- ASKHOLMEN wall table+2 folding chairs,outdoor, dark brown/Kuddarna light grey-beige: /products/outdoor-bistro-sets/69579885.txt
+- ASKHOLMEN wall table+2 folding chairs,outdoor, dark brown/Frösön/Duvholmen beige: /products/outdoor-bistro-sets/59529914.txt
+- ASKHOLMEN table and 2 folding chairs, outdoor, foldable dark brown/Klösan dark blue: /products/outdoor-bistro-sets/59576279.txt
+- ASKHOLMEN table and 2 folding chairs, outdoor, dark brown: /products/outdoor-bistro-sets/79529098.txt
+- ASKHOLMEN table and 2 folding chairs, outdoor, dark brown/Kuddarna light grey-beige: /products/outdoor-bistro-sets/79576056.txt
+- ASKHOLMEN table and 2 folding chairs, outdoor, dark brown/Frösön/Duvholmen beige: /products/outdoor-bistro-sets/29529944.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

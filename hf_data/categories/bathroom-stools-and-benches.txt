@@ -1,0 +1,32 @@
+# @CATEGORY
+Name: Bathroom stools & benches
+ProductCount: 10
+
+# @FILTERS
+PriceRange: $9.99 - $199.00
+Materials: Bamboo, Clear acrylic lacquer, Chair: Steel, Powder coating, Feet: Thermoplastic elastomer, Foot/ Knob: Thermoplastic elastomer, Foot: Thermoplastic elastomer, Frame: Fiberboard, Pigmented polyester powder coating, Seat: Polypropylene, Side panel: Particleboard, Melamine foil, Acrylic paint, Side rail/ Ladder frame: Steel, Powder coating, Solid acacia wood, Clear lacquer
+Brand: IKEA
+
+# @ITEMS
+- STOREDAMM bench, acacia: /products/bathroom-stools-and-benches/20576162.txt
+- RÅGRUND bench, bamboo: /products/bathroom-stools-and-benches/60549416.txt
+- MUSKAN storage stool, white: /products/bathroom-stools-and-benches/00360587.txt
+- MUSKAN bench, white: /products/bathroom-stools-and-benches/50345957.txt
+- HEMNES Storage bench w/towel rail+4 hooks, white: /products/bathroom-stools-and-benches/30396655.txt
+- HEMNES bench, gray: /products/bathroom-stools-and-benches/70349011.txt
+- BOLMEN step stool, white: /products/bathroom-stools-and-benches/30574431.txt
+- BOLMEN step stool, light turquoise: /products/bathroom-stools-and-benches/80594945.txt
+- BÄSINGEN step stool with handrail, anthracite: /products/bathroom-stools-and-benches/80597492.txt
+- BÄSINGEN shower chair, anthracite: /products/bathroom-stools-and-benches/10595967.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

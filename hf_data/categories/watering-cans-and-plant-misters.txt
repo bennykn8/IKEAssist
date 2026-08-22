@@ -1,0 +1,29 @@
+# @CATEGORY
+Name: Watering cans & plant misters
+ProductCount: 7
+
+# @FILTERS
+PriceRange: $1.99 - $29.99
+Materials: Body: Galvanized steel, Powder coating, Handle: Solid acacia wood, Stainless steel, Oil, Handle: Solid birch, Oil, Handle: Stainless steel, Metallized, Main parts/ Bracket: Steel, Polyester powder coating, Main parts: Galvanized steel, Polyester powder coating, Polypropylene
+Brand: IKEA
+
+# @ITEMS
+- VATTENKRASSE watering can, ivory/gold, 30 oz: /products/watering-cans-and-plant-misters/40394118.txt
+- VATTENKRASSE watering can, black-green/gold, 68 oz: /products/watering-cans-and-plant-misters/50561989.txt
+- SALLADSKÅL watering can, indoor/outdoor beige, 304 oz: /products/watering-cans-and-plant-misters/50585570.txt
+- IKEA PS 2002 watering can, white, 41 oz: /products/watering-cans-and-plant-misters/60289946.txt
+- IKEA PS 2002 watering can, orange, 41 oz: /products/watering-cans-and-plant-misters/60585188.txt
+- ÅKERBÄR watering can, indoor/outdoor dark blue, 34 oz: /products/watering-cans-and-plant-misters/70584800.txt
+- ÅKERBÄR watering can, indoor/outdoor dark blue, 169 oz: /products/watering-cans-and-plant-misters/30584802.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

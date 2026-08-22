@@ -1,0 +1,167 @@
+# @CATEGORY
+Name: Three-seat sofas
+ProductCount: 145
+
+# @FILTERS
+PriceRange: $199.00 - $2249.00
+Materials: Armrest frame: Fiberboard, Plywood, Armrest frame: Fiberboard, Solid wood, Plywood, Particleboard, Armrest frame: Particleboard, Solid wood, Polyurethane foam 1.2 lb/cu.ft., Polyurethane foam 1.5 lb/cu.ft., Laminated veneer lumber, Fiberboard, Armrest frame: Plywood, Solid pine, Polyurethane foam 1.5 lb/cu.ft., Particleboard, Fiberboard, Armrest: 100% polyester (min. 40% recycled), Paperboard (100% recycled), Laminated veneer lumber, Particleboard, Plywood, Polyurethane foam 1.5 lb/cu.ft., Fiberboard, Armrest: Particleboard, Plywood, Polyurethane foam 1.5 lb/cu.ft., Solid wood, Fiberboard, Armrest: Plywood, Polyurethane foam 1.2 lb/cu.ft., 100% recycled solid cardboard, Fiberboard, Fiberboard, Back and seat frame: Fiberboard, Plywood, Solid wood, Particleboard, Back and seat frame: Particleboard, Plywood, Fiberboard, Solid wood, Polyurethane foam 1.2 lb/cu.ft., Back and seat frame: Particleboard, Plywood, Solid wood, Polyurethane foam 1.2 lb/cu.ft., Laminated veneer lumber, Fiberboard
+Brand: IKEA
+
+# @ITEMS
+- VISKAFORS sofa, Lejde light beige/brown: /products/three-seat-sofas/29443375.txt
+- VISKAFORS sofa, Lejde light beige/birch: /products/three-seat-sofas/69443335.txt
+- VISKAFORS sofa, Lejde gray/green/brown: /products/three-seat-sofas/39443370.txt
+- VISKAFORS sofa, Lejde/gray/green birch: /products/three-seat-sofas/69443340.txt
+- VISKAFORS sofa, Lejde anthracite/brown: /products/three-seat-sofas/39443365.txt
+- VISKAFORS sofa, Lejde anthracite/birch: /products/three-seat-sofas/79443330.txt
+- VISKAFORS sofa, Högalid brown/brown: /products/three-seat-sofas/49443360.txt
+- VISKAFORS sofa, Högalid brown/birch: /products/three-seat-sofas/49443355.txt
+- VINLIDEN sofa, Hillared anthracite: /products/three-seat-sofas/89304668.txt
+- VINLIDEN sofa, Hakebo dark gray: /products/three-seat-sofas/39304656.txt
+- VINLIDEN sofa, Hakebo beige: /products/three-seat-sofas/69304645.txt
+- UPPLAND sofa, Kilanda light beige: /products/three-seat-sofas/39442484.txt
+- UPPLAND sofa, Kilanda dark blue: /products/three-seat-sofas/79442482.txt
+- UPPLAND sofa, Kelinge rust: /products/three-seat-sofas/39499970.txt
+- UPPLAND sofa, Kelinge gray-turquoise: /products/three-seat-sofas/59499969.txt
+- UPPLAND sofa, Kelinge beige: /products/three-seat-sofas/79499968.txt
+- UPPLAND sofa, Kelinge anthracite: /products/three-seat-sofas/99499967.txt
+- UPPLAND sofa, Karlshov gray-beige: /products/three-seat-sofas/59488621.txt
+- UPPLAND sofa, Hillared dark blue: /products/three-seat-sofas/19499966.txt
+- UPPLAND sofa, Hillared beige: /products/three-seat-sofas/39499965.txt
+- UPPLAND sofa, Hillared anthracite: /products/three-seat-sofas/69499964.txt
+- UPPLAND sofa, Hakebo gray/green: /products/three-seat-sofas/19442480.txt
+- UPPLAND sofa, Hakebo dark gray: /products/three-seat-sofas/59442478.txt
+- UPPLAND sofa, Blekinge white: /products/three-seat-sofas/19384116.txt
+- STOCKHOLM Sofa, Seglora natural: /products/three-seat-sofas/20245049.txt
+- STOCKHOLM 2025 sofa, Sundhamn beige: /products/three-seat-sofas/00586096.txt
+- STOCKHOLM 2025 sectional, 4-seat, Djurmo gray/white: /products/three-seat-sofas/39574323.txt
+- STOCKHOLM 2025 sectional, 4-seat, Alhamn dark turquoise: /products/three-seat-sofas/39574318.txt
+- STOCKHOLM 2025 sectional, 4-seat, Alhamn dark brown: /products/three-seat-sofas/29574314.txt
+- STOCKHOLM 2025 sectional, 4-seat, Alhamn beige: /products/three-seat-sofas/89574311.txt
+- STOCKHOLM 2025 3-seat sofa, Djurmo gray/white: /products/three-seat-sofas/89574306.txt
+- STOCKHOLM 2025 3-seat sofa, Alhamn dark turquoise: /products/three-seat-sofas/79574302.txt
+- STOCKHOLM 2025 3-seat sofa, Alhamn dark brown: /products/three-seat-sofas/79574298.txt
+- STOCKHOLM 2025 3-seat sofa, Alhamn beige: /products/three-seat-sofas/69574294.txt
+- SÖDERHAMN sofa, with open end/Viarp beige/brown: /products/three-seat-sofas/09305695.txt
+- SÖDERHAMN sofa, with open end/Tonerud red: /products/three-seat-sofas/99514468.txt
+- SÖDERHAMN sofa, with open end/Tonerud gray: /products/three-seat-sofas/39452109.txt
+- SÖDERHAMN sofa, with open end/Tallmyra light green: /products/three-seat-sofas/39499852.txt
+- SÖDERHAMN sofa, with open end/Tallmyra dark green: /products/three-seat-sofas/59499851.txt
+- SÖDERHAMN sofa, with open end/Kelinge rust: /products/three-seat-sofas/89514633.txt
+- SÖDERHAMN sofa, with open end/Kelinge gray-turquoise: /products/three-seat-sofas/09514552.txt
+- SÖDERHAMN sofa, with open end/Hillared dark blue: /products/three-seat-sofas/59499766.txt
+- SÖDERHAMN sofa, with open end/Hillared beige: /products/three-seat-sofas/79499765.txt
+- SÖDERHAMN sofa, with open end/Fridtuna light beige: /products/three-seat-sofas/99449699.txt
+- SÖDERHAMN sofa, with open end/Fridtuna dark gray: /products/three-seat-sofas/49449630.txt
+- SÖDERHAMN sofa, Viarp beige/brown: /products/three-seat-sofas/59305706.txt
+- SÖDERHAMN sofa, Tonerud red: /products/three-seat-sofas/09514463.txt
+- SÖDERHAMN sofa, Tonerud gray: /products/three-seat-sofas/19452105.txt
+- SÖDERHAMN sofa, Tallmyra light green: /products/three-seat-sofas/39499847.txt
+- SÖDERHAMN sofa, Tallmyra dark green: /products/three-seat-sofas/59499846.txt
+- SÖDERHAMN sofa, Kelinge rust: /products/three-seat-sofas/89514628.txt
+- SÖDERHAMN sofa, Kelinge gray-turquoise: /products/three-seat-sofas/49514545.txt
+- SÖDERHAMN sofa, Hillared dark blue: /products/three-seat-sofas/29499763.txt
+- SÖDERHAMN sofa, Hillared beige: /products/three-seat-sofas/49499762.txt
+- SÖDERHAMN sofa, Gransel natural: /products/three-seat-sofas/79442161.txt
+- SÖDERHAMN sofa, Fridtuna light beige: /products/three-seat-sofas/09449694.txt
+- SÖDERHAMN sofa, Fridtuna dark gray: /products/three-seat-sofas/49449625.txt
+- SMEDSTORP sofa, Viarp beige/brown/oak: /products/three-seat-sofas/39442436.txt
+- SMEDSTORP sofa, Viarp beige/brown/black: /products/three-seat-sofas/59442435.txt
+- SMEDSTORP sofa, Lejde/red/brown oak: /products/three-seat-sofas/89442434.txt
+- SMEDSTORP sofa, Lejde red/brown/black: /products/three-seat-sofas/09442433.txt
+- SLATORP sofa, Vissle yellow-green: /products/three-seat-sofas/90594370.txt
+- SLATORP sofa, Hakebo yellow-brown: /products/three-seat-sofas/50594391.txt
+- SLATORP sofa, Hakebo dark gray: /products/three-seat-sofas/30594387.txt
+- PÄRUP sofa, Vissle yellow-brown: /products/three-seat-sofas/49514263.txt
+- PÄRUP sofa, Vissle gray: /products/three-seat-sofas/19389468.txt
+- PÄRUP sofa, Gunnared dark gray: /products/three-seat-sofas/49389476.txt
+- PÄRUP sofa, Gunnared beige: /products/three-seat-sofas/29389463.txt
+- MORABO sofa, Gunnared light green/wood: /products/three-seat-sofas/09318339.txt
+- MORABO sofa, Gunnared light green/metal: /products/three-seat-sofas/29318338.txt
+- MORABO sofa, Gunnared dark gray/wood: /products/three-seat-sofas/89318321.txt
+- MORABO sofa, Gunnared dark gray/metal: /products/three-seat-sofas/09318320.txt
+- MORABO sofa, Grann/Bomstad gray-green/wood: /products/three-seat-sofas/89317859.txt
+- MORABO sofa, Grann/Bomstad gray-green/metal: /products/three-seat-sofas/09317858.txt
+- MORABO sofa, Grann/Bomstad golden brown/wood: /products/three-seat-sofas/29317758.txt
+- MORABO sofa, Grann/Bomstad golden brown/metal: /products/three-seat-sofas/49317757.txt
+- MORABO sofa, Grann/Bomstad black/wood: /products/three-seat-sofas/69316672.txt
+- MORABO sofa, Grann/Bomstad black/metal: /products/three-seat-sofas/09316670.txt
+- MORABO sofa, Djuparp dark blue/wood: /products/three-seat-sofas/19416508.txt
+- MORABO sofa, Djuparp dark blue/metal: /products/three-seat-sofas/39416507.txt
+- LINANÄS sofa, Vissle dark gray: /products/three-seat-sofas/80512247.txt
+- LINANÄS sofa, Vissle beige: /products/three-seat-sofas/80512233.txt
+- LÅNGARYD sofa, Lejde light gray/wood: /products/three-seat-sofas/39506046.txt
+- LÅNGARYD sofa, Lejde light gray/metal: /products/three-seat-sofas/59506045.txt
+- LÅNGARYD sofa, Lejde gray/black/wood: /products/three-seat-sofas/89506044.txt
+- LÅNGARYD sofa, Lejde gray/black/metal: /products/three-seat-sofas/09506043.txt
+- KIVIK sofa, Tresund light beige: /products/three-seat-sofas/19482838.txt
+- KIVIK sofa, Tresund anthracite: /products/three-seat-sofas/39482837.txt
+- KIVIK sofa, Tibbleby beige/gray: /products/three-seat-sofas/39440593.txt
+- KIVIK sofa, Tallmyra white/black: /products/three-seat-sofas/79499713.txt
+- KIVIK sofa, Tallmyra light green: /products/three-seat-sofas/19499711.txt
+- KIVIK sofa, Tallmyra dark green: /products/three-seat-sofas/39499710.txt
+- KIVIK sofa, Tallmyra blue: /products/three-seat-sofas/59499709.txt
+- KIVIK sofa, Kelinge gray-turquoise: /products/three-seat-sofas/59443053.txt
+- KIVIK sofa, Gunnared medium gray: /products/three-seat-sofas/99499707.txt
+- KIVIK sofa, Gunnared light green: /products/three-seat-sofas/19499706.txt
+- KIVIK sofa, Gunnared light brown-pink: /products/three-seat-sofas/39499705.txt
+- KIVIK sofa, Gunnared blue: /products/three-seat-sofas/69499704.txt
+- KIVIK sofa, Gunnared beige: /products/three-seat-sofas/89499703.txt
+- KIVIK sofa, Grann/Bomstad black: /products/three-seat-sofas/80519531.txt
+- HYLTARP sofa, Tallmyra white/black: /products/three-seat-sofas/19514957.txt
+- HYLTARP sofa, Tallmyra dark green: /products/three-seat-sofas/29514952.txt
+- HYLTARP sofa, Tallmyra blue: /products/three-seat-sofas/49514946.txt
+- HYLTARP sofa, Kilanda pale blue: /products/three-seat-sofas/19489651.txt
+- HYLTARP sofa, Hemmesta light beige: /products/three-seat-sofas/59514941.txt
+- HYLTARP sofa, Hemmesta gray-green: /products/three-seat-sofas/79514935.txt
+- HYLTARP sofa, Hallarp white: /products/three-seat-sofas/39489645.txt
+- HYLTARP sofa, Gransel natural: /products/three-seat-sofas/69489639.txt
+- HYLTARP sofa, Gransel gray: /products/three-seat-sofas/89514930.txt
+- HYLTARP sofa, Gransel gray-brown: /products/three-seat-sofas/99489633.txt
+- GLOSTAD sofa, Knisa dark gray: /products/three-seat-sofas/40595942.txt
+- GAMMALBYN sofa, beige: /products/three-seat-sofas/50556285.txt
+- FINNALA sofa, with open end/Tallmyra black/gray: /products/three-seat-sofas/09319094.txt
+- FINNALA sofa, with headrest/Gunnared beige: /products/three-seat-sofas/99336107.txt
+- FINNALA sofa, with headrest/Grann/Bomstad golden brown: /products/three-seat-sofas/89336117.txt
+- FINNALA sofa, with headrest/Grann/Bomstad black: /products/three-seat-sofas/09336116.txt
+- FINNALA sofa, Tallmyra black/gray: /products/three-seat-sofas/49319068.txt
+- FINNALA sofa, Gunnared medium gray: /products/three-seat-sofas/79319062.txt
+- FINNALA sofa, Gunnared beige: /products/three-seat-sofas/19319060.txt
+- FINNALA sofa, Grann/Bomstad golden brown: /products/three-seat-sofas/09319070.txt
+- FINNALA sofa, Grann/Bomstad black: /products/three-seat-sofas/29319069.txt
+- ESSEBODA 3-seat sofa, Tallmyra medium gray/brown: /products/three-seat-sofas/09443507.txt
+- ESSEBODA 3-seat sofa, Tallmyra/medium gray birch: /products/three-seat-sofas/99443517.txt
+- ESSEBODA 3-seat sofa, Tallmyra blue/brown: /products/three-seat-sofas/19443502.txt
+- ESSEBODA 3-seat sofa, Tallmyra/blue birch: /products/three-seat-sofas/09443512.txt
+- ESSEBODA 3-seat sofa, Knäbäck light beige/brown: /products/three-seat-sofas/89443527.txt
+- ESSEBODA 3-seat sofa, Knäbäck/light beige birch: /products/three-seat-sofas/79443537.txt
+- ESSEBODA 3-seat sofa, Knäbäck anthracite/brown: /products/three-seat-sofas/99443522.txt
+- ESSEBODA 3-seat sofa, Knäbäck/anthracite birch: /products/three-seat-sofas/89443532.txt
+- EKHOLMA sofa, Kilanda pale blue: /products/three-seat-sofas/09579949.txt
+- EKHOLMA sofa, Kilanda light beige: /products/three-seat-sofas/19537421.txt
+- EKHOLMA sofa, Kilanda gray-brown: /products/three-seat-sofas/09579954.txt
+- EKHOLMA sofa, Kilanda brown-red: /products/three-seat-sofas/99537417.txt
+- EKHOLMA sofa, Hemmesta gray-green: /products/three-seat-sofas/19579944.txt
+- EKHOLMA sofa, Hakebo dark gray: /products/three-seat-sofas/69537414.txt
+- EKHOLMA sofa, Hakebo beige: /products/three-seat-sofas/29537411.txt
+- BACKSÄLEN sofa, Katorp natural: /products/three-seat-sofas/59393166.txt
+- BACKSÄLEN sofa, Hallarp gray: /products/three-seat-sofas/69393161.txt
+- BACKSÄLEN sofa, Blekinge white: /products/three-seat-sofas/59393152.txt
+- ÄPPLARYD sofa, Lejde light gray: /products/three-seat-sofas/90506236.txt
+- ÄPPLARYD sofa, Lejde gray/black: /products/three-seat-sofas/90506241.txt
+- ÄPPLARYD sofa, Gunnared light blue: /products/three-seat-sofas/60575085.txt
+- ÄPPLARYD sofa, Gunnared black/gray: /products/three-seat-sofas/50575076.txt
+- ÄPPLARYD sofa, Djuparp red-brown: /products/three-seat-sofas/10504302.txt
+- ÄPPLARYD sofa, Djuparp dark blue: /products/three-seat-sofas/90504303.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,77 @@
+# @CATEGORY
+Name: HYLTARP covers
+ProductCount: 55
+
+# @FILTERS
+PriceRange: $129.00 - $499.00
+Materials: Back fabric: 100 % polyester (100% recycled), Fabric: 100% polyester (min. 90% recycled), Fabric: 43 % cotton, 27 % viscose/rayon, 18 % polyester (100% recycled), 12 % linen, Fabric: 43 % cotton, 27 % viscose/rayon, 18% polyester (min. 90% recycled), 12 % linen, Fabric: 78 % cotton, 22 % polyester (100% recycled), Fabric: 80 % cotton, 20 % polyester (100% recycled)
+Brand: IKEA
+
+# @ITEMS
+- HYLTARP cover for sofa, Tallmyra white/black: /products/hyltarp-covers/30566332.txt
+- HYLTARP cover for sofa, Tallmyra dark green: /products/hyltarp-covers/00566512.txt
+- HYLTARP cover for sofa, Tallmyra blue: /products/hyltarp-covers/40566303.txt
+- HYLTARP cover for sofa, Kilanda pale blue: /products/hyltarp-covers/50547314.txt
+- HYLTARP cover for sofa, Hemmesta light beige: /products/hyltarp-covers/40558459.txt
+- HYLTARP cover for sofa, Hemmesta gray-green: /products/hyltarp-covers/00566277.txt
+- HYLTARP cover for sofa, Hallarp white: /products/hyltarp-covers/50547309.txt
+- HYLTARP cover for sofa, Gransel natural: /products/hyltarp-covers/70547407.txt
+- HYLTARP cover for sofa, Gransel gray-brown: /products/hyltarp-covers/70547412.txt
+- HYLTARP cover for sofa, Gransel gray: /products/hyltarp-covers/00549914.txt
+- HYLTARP cover for sleeper sofa, Kilanda pale blue: /products/hyltarp-covers/30547334.txt
+- HYLTARP cover for sleeper sofa, Hallarp white: /products/hyltarp-covers/30547329.txt
+- HYLTARP cover for sleeper sofa, Gransel natural: /products/hyltarp-covers/50547451.txt
+- HYLTARP cover for sleeper sofa, Gransel gray-brown: /products/hyltarp-covers/50547446.txt
+- HYLTARP cover for sleeper sofa, Gransel gray: /products/hyltarp-covers/90549924.txt
+- HYLTARP cover for sectional, 4-seat, Tallmyra white/black: /products/hyltarp-covers/10566333.txt
+- HYLTARP cover for sectional, 4-seat, Tallmyra dark green: /products/hyltarp-covers/10566516.txt
+- HYLTARP cover for sectional, 4-seat, Tallmyra blue: /products/hyltarp-covers/30566308.txt
+- HYLTARP cover for sectional, 4-seat, Kilanda pale blue: /products/hyltarp-covers/60547323.txt
+- HYLTARP cover for sectional, 4-seat, Hemmesta light beige: /products/hyltarp-covers/60558463.txt
+- HYLTARP cover for sectional, 4-seat, Hemmesta gray-green: /products/hyltarp-covers/00566282.txt
+- HYLTARP cover for sectional, 4-seat, Hallarp white: /products/hyltarp-covers/40547319.txt
+- HYLTARP cover for sectional, 4-seat, Gransel natural: /products/hyltarp-covers/40547418.txt
+- HYLTARP cover for sectional, 4-seat, Gransel gray-brown: /products/hyltarp-covers/60547436.txt
+- HYLTARP cover for sectional, 4-seat, Gransel gray: /products/hyltarp-covers/10549918.txt
+- HYLTARP cover for loveseat, Tallmyra white/black: /products/hyltarp-covers/10566328.txt
+- HYLTARP cover for loveseat, Tallmyra dark green: /products/hyltarp-covers/00566507.txt
+- HYLTARP cover for loveseat, Tallmyra blue: /products/hyltarp-covers/00566300.txt
+- HYLTARP cover for loveseat, Kilanda pale blue: /products/hyltarp-covers/20547301.txt
+- HYLTARP cover for loveseat, Hemmesta light beige: /products/hyltarp-covers/20558455.txt
+- HYLTARP cover for loveseat, Hemmesta gray-green: /products/hyltarp-covers/40566275.txt
+- HYLTARP cover for loveseat, Hallarp white: /products/hyltarp-covers/20547297.txt
+- HYLTARP cover for loveseat, Gransel natural: /products/hyltarp-covers/20547396.txt
+- HYLTARP cover for loveseat, Gransel gray-brown: /products/hyltarp-covers/80547402.txt
+- HYLTARP cover for loveseat, Gransel gray: /products/hyltarp-covers/10549904.txt
+- HYLTARP cover f 3-seat sofa w chaise right, Tallmyra white/black: /products/hyltarp-covers/00566319.txt
+- HYLTARP cover f 3-seat sofa w chaise right, Tallmyra dark green: /products/hyltarp-covers/20566498.txt
+- HYLTARP cover f 3-seat sofa w chaise right, Tallmyra blue: /products/hyltarp-covers/10566291.txt
+- HYLTARP cover f 3-seat sofa w chaise right, Kilanda pale blue: /products/hyltarp-covers/10547354.txt
+- HYLTARP cover f 3-seat sofa w chaise right, Hemmesta light beige: /products/hyltarp-covers/70558410.txt
+- HYLTARP cover f 3-seat sofa w chaise right, Hemmesta gray-green: /products/hyltarp-covers/10566267.txt
+- HYLTARP cover f 3-seat sofa w chaise right, Hallarp white: /products/hyltarp-covers/40547338.txt
+- HYLTARP cover f 3-seat sofa w chaise right, Gransel natural: /products/hyltarp-covers/50547366.txt
+- HYLTARP cover f 3-seat sofa w chaise right, Gransel gray-brown: /products/hyltarp-covers/00547378.txt
+- HYLTARP cover f 3-seat sofa w chaise right, Gransel gray: /products/hyltarp-covers/00549909.txt
+- HYLTARP cover f 3-seat sofa w chaise left, Tallmyra white/black: /products/hyltarp-covers/20566323.txt
+- HYLTARP cover f 3-seat sofa w chaise left, Tallmyra dark green: /products/hyltarp-covers/20566506.txt
+- HYLTARP cover f 3-seat sofa w chaise left, Tallmyra blue: /products/hyltarp-covers/00566296.txt
+- HYLTARP cover f 3-seat sofa w chaise left, Kilanda pale blue: /products/hyltarp-covers/50548276.txt
+- HYLTARP cover f 3-seat sofa w chaise left, Hemmesta light beige: /products/hyltarp-covers/50558449.txt
+- HYLTARP cover f 3-seat sofa w chaise left, Hemmesta gray-green: /products/hyltarp-covers/50566270.txt
+- HYLTARP cover f 3-seat sofa w chaise left, Hallarp white: /products/hyltarp-covers/60548271.txt
+- HYLTARP cover f 3-seat sofa w chaise left, Gransel natural: /products/hyltarp-covers/30548282.txt
+- HYLTARP cover f 3-seat sofa w chaise left, Gransel gray-brown: /products/hyltarp-covers/20548287.txt
+- HYLTARP cover f 3-seat sofa w chaise left, Gransel gray: /products/hyltarp-covers/30549899.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

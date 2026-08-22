@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: SEKTION corner base cab w pull-out fitting, white/Axstad gray-green
+SKU: 89582556
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sektion-corner-base-cab-w-pull-out-fitting-white-axstad-gray-green-s89582556/
+Category: Base cabinets
+Description: , 50x24x30" SEKTION kitchen system gives you endless possibilities to design your dream kitchen. Paired with AXSTAD fronts in grey-green, you get a timeless look that can feel either modern or traditi...
+
+# @OFFER
+Price: 461
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Fiberboard, Front side: Plastic foil (min. 80% recycled), Back side: Melamine foil
+Dimensions: The hinge is adjustable in height, depth and width.
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Suspension rail sold separately. | To be finished with legs and plinth, sold separately.
+Care: Wipe clean with a damp cloth.  Use only water or a non-abrasive detergent. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sektion-corner-base-cab-w-pull-out-fitting-white-axstad-gray-green__1398717_pe968041_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

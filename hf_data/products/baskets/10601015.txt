@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MÄVINN basket, banana fiber handmade, 11x9 ¾x
+SKU: 10601015
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/maevinn-basket-banana-fiber-handmade-10601015/
+Category: Baskets
+Description: 13" The basket’s open structure creates an airy expression while the hand-braided banana fibers spread a warm feeling enhanced by small pompoms on the side. Perfect for storing throws, cushions and cl...
+
+# @OFFER
+Price: 39.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Wickerpart: Banana fibers, Clear lacquer, Decoration: 100 % cotton
+Features: Only keep in dry locations.
+Care: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/maevinn-basket-banana-fiber-handmade__1382276_pe962241_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

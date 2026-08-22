@@ -1,0 +1,37 @@
+# @CATEGORY
+Name: Gaming Desks
+ProductCount: 15
+
+# @FILTERS
+PriceRange: $129.99 - $849.00
+Materials: Cable management: 100 % polyester (100% recycled), Fiberboard, Acrylic paint, Printed acrylic paint, Printed acrylic paint, Frame/ Ladder frame/ Cable management: Steel, Epoxy/polyester powder coating, Frame/ Support: Steel, Epoxy/polyester powder coating, Leg/ Top rail/ Support rail, back: Steel, Epoxy/polyester powder coating, Leg: Steel, Steel, Epoxy/polyester powder coating, Part 1: Steel, Epoxy/polyester powder coating, Polypropylene, Part 2/ Part 05/ Part 06: Steel, Epoxy/polyester powder coating, Synthetic rubber, Part 3: Steel, Epoxy/polyester powder coating, Synthetic rubber, Steel, Pocket: Plastic edging
+Brand: IKEA
+
+# @ITEMS
+- UTVISNING gaming desk with shelf, black: /products/gaming-desks/40586400.txt
+- UTVISNING gaming desk with shelf, ash effect/white: /products/gaming-desks/00586398.txt
+- UTESPELARE gaming desk, black: /products/gaming-desks/80507627.txt
+- UTESPELARE gaming desk, ash effect/gray: /products/gaming-desks/10571532.txt
+- UPPSPEL tabletop, black: /products/gaming-desks/70511347.txt
+- UPPSPEL tabletop, black: /products/gaming-desks/50511329.txt
+- UPPSPEL sit/stand underframe for table top, black: /products/gaming-desks/70511352.txt
+- UPPSPEL gaming desk, black: /products/gaming-desks/79430163.txt
+- UPPSPEL gaming desk, black: /products/gaming-desks/59430197.txt
+- HUVUDSPELARE gaming desk, black: /products/gaming-desks/90539166.txt
+- HUVUDSPELARE gaming desk, beige: /products/gaming-desks/70539167.txt
+- FREDDE Desk, black: /products/gaming-desks/50219044.txt
+- FREDDE gaming desk, black: /products/gaming-desks/10496062.txt
+- BRÄNNBOLL gaming station, light gray/white: /products/gaming-desks/40586462.txt
+- BOLLSIDAN desk sit/stand, electric/white: /products/gaming-desks/90609814.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

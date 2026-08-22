@@ -1,0 +1,76 @@
+# @CATEGORY
+Name: Outdoor dining chairs
+ProductCount: 54
+
+# @FILTERS
+PriceRange: $15.00 - $170.00
+Materials: 100% polyester (min. 90% recycled), Armrest/ Front rail/ Back rail/ Back/ Main parts: Solid eucalyptus wood, Acrylic stain, Back cover/ Seat cover/ Base fabric: 100% polyester (min. 90% recycled), Back/ Seat/ Leg: Steel, Polyester powder coating, Back/ Seat: Polyethylene, Polyethylene, Polypropylene, Cover/ Smolder resistant lining: Polyester wadding, Cover: Polypropylene, Cushion cover/ Fabric: 100% polyester (min. 90% recycled), Elastic webbing: 60 % polypropylene, 40 % rubber, Fabric/ Cushion cover/ Filling: 100 % polyester (100% recycled)
+Brand: IKEA
+
+# @ITEMS
+- VITTSKÄR armchair, plastic rattan outdoor/dark gray: /products/outdoor-dining-chairs/20575167.txt
+- VASSHOLMEN chair, in/outdoor, black/white: /products/outdoor-dining-chairs/30503740.txt
+- VÄSMAN armchair, outdoor, brown: /products/outdoor-dining-chairs/70563402.txt
+- VÄSMAN armchair, outdoor, black: /products/outdoor-dining-chairs/40211637.txt
+- VÄRMANSÖ chair, outdoor, brown: /products/outdoor-dining-chairs/20536393.txt
+- TORPARÖ reclining chair, outdoor, white/gray: /products/outdoor-dining-chairs/20537854.txt
+- TEGELÖN chair, in/outdoor, dark gray/black: /products/outdoor-dining-chairs/00503807.txt
+- TÄRNÖ chair, outdoor, foldable white/green: /products/outdoor-dining-chairs/70530949.txt
+- TÄRNÖ chair, outdoor, foldable black/light brown stained/Klösan dark blue: /products/outdoor-dining-chairs/89576329.txt
+- TÄRNÖ chair, outdoor, foldable black/light brown stained/Klösan dark blue: /products/outdoor-dining-chairs/79576315.txt
+- TÄRNÖ chair, outdoor, foldable black/light brown stained: /products/outdoor-dining-chairs/90095428.txt
+- SUNDSÖ folding chair, off-white outdoor: /products/outdoor-dining-chairs/90575885.txt
+- SUNDSÖ folding chair, light green outdoor: /products/outdoor-dining-chairs/10575889.txt
+- SUNDSÖ folding chair, dark blue outdoor: /products/outdoor-dining-chairs/50575887.txt
+- SUNDSÖ folding chair, bright yellow outdoor: /products/outdoor-dining-chairs/90575890.txt
+- SUNDSÖ folding chair, bright red outdoor: /products/outdoor-dining-chairs/70575891.txt
+- SUNDSÖ folding chair, bright orange outdoor: /products/outdoor-dining-chairs/30575888.txt
+- SUNDSÖ folding chair, anthracite outdoor: /products/outdoor-dining-chairs/40575883.txt
+- SUNDSÖ chair, outdoor, gray: /products/outdoor-dining-chairs/90503351.txt
+- STACKHOLMEN Stool, outdoor, light brown stained: /products/outdoor-dining-chairs/20411425.txt
+- SEGERÖN bar stool, outdoor, white/beige: /products/outdoor-dining-chairs/90510808.txt
+- SEGERÖN bar stool, outdoor, swivel white/beige: /products/outdoor-dining-chairs/90503346.txt
+- SEGERÖN armchair, outdoor, white/beige/Frösön/Duvholmen beige: /products/outdoor-dining-chairs/19500818.txt
+- SEGERÖN armchair, outdoor, white/beige: /products/outdoor-dining-chairs/50510810.txt
+- SEGERÖN armchair, outdoor, dark green/Frösön/Duvholmen stripe pattern: /products/outdoor-dining-chairs/79533038.txt
+- SEGERÖN armchair, outdoor, dark green/Frösön/Duvholmen beige: /products/outdoor-dining-chairs/09500809.txt
+- SEGERÖN armchair, outdoor, dark green: /products/outdoor-dining-chairs/10514754.txt
+- NORRMANSÖ chair, outdoor, indoor/outdoor beige/acacia: /products/outdoor-dining-chairs/40511080.txt
+- NÄMMARÖ stool, outdoor, foldable/light brown stained: /products/outdoor-dining-chairs/70510300.txt
+- NÄMMARÖ reclining chair, outdoor, light brown stained/Kuddarna light gray-beige: /products/outdoor-dining-chairs/89610253.txt
+- NÄMMARÖ reclining chair, outdoor, light brown stained Frösön/Duvholmen/multicolor stripe pattern: /products/outdoor-dining-chairs/19535200.txt
+- NÄMMARÖ reclining chair, outdoor, light brown stained/Frösön/Duvholmen beige: /products/outdoor-dining-chairs/99609027.txt
+- NÄMMARÖ reclining chair, outdoor, foldable light brown stained: /products/outdoor-dining-chairs/50510301.txt
+- NÄMMARÖ chair, outdoor folding/light brown stained Kuddarna light gray-beige: /products/outdoor-dining-chairs/19610261.txt
+- NÄMMARÖ chair, outdoor folding/light brown stained Frösön/Duvholmen beige: /products/outdoor-dining-chairs/99610257.txt
+- NÄMMARÖ chair, outdoor, foldable light brown stained/Frösön/Duvholmen stripe pattern: /products/outdoor-dining-chairs/39535176.txt
+- NÄMMARÖ chair, outdoor, foldable/light brown stained: /products/outdoor-dining-chairs/50503353.txt
+- NÄMMARÖ bar stool, outdoor, light brown stained: /products/outdoor-dining-chairs/70510296.txt
+- NÄMMARÖ armchair, outdoor, light brown stained/Kuddarna light gray-beige: /products/outdoor-dining-chairs/49610269.txt
+- NÄMMARÖ armchair, outdoor, light brown stained/Frösön/Duvholmen stripe pattern: /products/outdoor-dining-chairs/29535073.txt
+- NÄMMARÖ armchair, outdoor, light brown stained/Frösön/Duvholmen beige: /products/outdoor-dining-chairs/29610265.txt
+- NÄMMARÖ armchair, outdoor, light brown stained: /products/outdoor-dining-chairs/90511105.txt
+- LÄCKÖ Chair, outdoor, gray: /products/outdoor-dining-chairs/60151840.txt
+- HÖGSTEN Armchair, outdoor, white, Width: 28 3/: /products/outdoor-dining-chairs/20209862.txt
+- FEJAN Chair, outdoor, white foldable white: /products/outdoor-dining-chairs/10255307.txt
+- ENSHOLM chair, green outdoor: /products/outdoor-dining-chairs/10543737.txt
+- DUVSKÄR chair, in/outdoor, black-blue: /products/outdoor-dining-chairs/70515760.txt
+- BONDHOLMEN reclining chair, outdoor, brown: /products/outdoor-dining-chairs/00558178.txt
+- BONDHOLMEN armchair, outdoor, brown: /products/outdoor-dining-chairs/30558172.txt
+- ASKHOLMEN chair, outdoor, foldable dark brown/Kuddarna light grey-beige: /products/outdoor-dining-chairs/69576047.txt
+- ASKHOLMEN chair, outdoor, foldable dark brown/Klösan dark blue: /products/outdoor-dining-chairs/19576257.txt
+- ASKHOLMEN chair, outdoor, foldable dark brown/Frösön/Duvholmen beige: /products/outdoor-dining-chairs/39529222.txt
+- ASKHOLMEN chair, outdoor, foldable dark brown: /products/outdoor-dining-chairs/20557502.txt
+- ASKHOLMEN armchair, outdoor, dark brown: /products/outdoor-dining-chairs/50535684.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

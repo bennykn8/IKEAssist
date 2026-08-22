@@ -1,0 +1,35 @@
+# @CATEGORY
+Name: Artificial indoor trees & faux floor plants
+ProductCount: 13
+
+# @FILTERS
+PriceRange: $12.99 - $99.99
+Materials: Flower: 100 % polyester (100% recycled), Polyethylene plastic (min. 50% recycled), Inner plant pot: Polypropylene plastic (min. 70% recycled), Concrete, Inner plant pot: Polypropylene plastic (min. 70% recycled), Non-potable water, Polyethylene, Inner plant pot: Polypropylene plastic (min. 70% recycled), Polyethylene, Non-potable water, Inner plant pot: Polypropylene plastic (min. 70% recycled), Polypropylene plastic (min. 70% recycled), Concrete, Leaf/ Stem: Polyethylene plastic (min. 50% recycled), Steel, Leaf: 100 % PEVA, Polyethylene plastic (min. 20% recycled), Steel, Paint, Leaf: 100 % PEVA, Steel, Polyethylene plastic (min. 50% recycled), Leaf: 100 % polyester (100% recycled), Polyethylene plastic (min. 50% recycled), Leaf: 100 % polyester (100% recycled), Polyethylene plastic (min. 70% recycled)
+Brand: IKEA
+
+# @ITEMS
+- FEJKA artificial potted plant, indoor/outdoor Winterbourn, 7 ½": /products/artificial-indoor-trees-and-faux-floor-plants/70600862.txt
+- FEJKA artificial potted plant, indoor/outdoor Weeping fig, 8 ¼": /products/artificial-indoor-trees-and-faux-floor-plants/70491575.txt
+- FEJKA artificial potted plant, indoor/outdoor Rubber plant: /products/artificial-indoor-trees-and-faux-floor-plants/60548313.txt
+- FEJKA artificial potted plant, indoor/outdoor Olive tree, 7 ½": /products/artificial-indoor-trees-and-faux-floor-plants/40596885.txt
+- FEJKA artificial potted plant, indoor/outdoor monstera, 7 ½": /products/artificial-indoor-trees-and-faux-floor-plants/40395288.txt
+- FEJKA artificial potted plant, indoor/outdoor Kentia palm: /products/artificial-indoor-trees-and-faux-floor-plants/80548185.txt
+- FEJKA artificial potted plant, indoor/outdoor fiddle-leaf fig, 7 ½": /products/artificial-indoor-trees-and-faux-floor-plants/80568890.txt
+- FEJKA artificial potted plant, indoor/outdoor eucalyptus, 7 ½": /products/artificial-indoor-trees-and-faux-floor-plants/80600885.txt
+- FEJKA artificial potted plant, indoor/outdoor calathea: /products/artificial-indoor-trees-and-faux-floor-plants/30593222.txt
+- FEJKA artificial potted plant, indoor/outdoor Bird of paradise, 7 ½": /products/artificial-indoor-trees-and-faux-floor-plants/50593235.txt
+- FEJKA artificial potted plant, indoor/outdoor Bird of paradise: /products/artificial-indoor-trees-and-faux-floor-plants/30578071.txt
+- FEJKA artificial potted plant, indoor/outdoor bamboo: /products/artificial-indoor-trees-and-faux-floor-plants/40568892.txt
+- FEJKA artificial potted plant, grass, 6 ¾": /products/artificial-indoor-trees-and-faux-floor-plants/70186660.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

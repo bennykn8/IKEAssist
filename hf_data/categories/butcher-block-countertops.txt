@@ -1,0 +1,44 @@
+# @CATEGORY
+Name: Butcher block countertops
+ProductCount: 22
+
+# @FILTERS
+PriceRange: $169.00 - $399.00
+Materials: Back side: Laminate, Bamboo, Bamboo, Bamboo, Plastic edging, Oil-acrylic, Particleboard, Oil-acrylic, Clear acrylic lacquer, Wax, Main parts: Particleboard, Top/ Back side/ Edge: Thick oak veneer, Oil-acrylic, Top/ Edge: Thick ash veneer, Oil-acrylic, Top/ Edge: Thick birch veneer, Oil-acrylic, Top/ Edge: Thick oak veneer, Oil-acrylic, Top/ Edge: Thick walnut veneer, Oil-acrylic
+Brand: IKEA
+
+# @ITEMS
+- VRENA countertop, oak/veneer: /products/butcher-block-countertops/30437156.txt
+- VRENA countertop, oak/veneer: /products/butcher-block-countertops/00437153.txt
+- SKOGSÅ countertop, oak/veneer: /products/butcher-block-countertops/90382995.txt
+- SKOGSÅ Countertop, oak, veneer: /products/butcher-block-countertops/20382994.txt
+- PINNARP Countertop, walnut, veneer: /products/butcher-block-countertops/20467479.txt
+- PINNARP Countertop, walnut, veneer: /products/butcher-block-countertops/00467475.txt
+- PINNARP countertop, ash/veneer: /products/butcher-block-countertops/70372313.txt
+- PINNARP Countertop, ash, veneer: /products/butcher-block-countertops/50372314.txt
+- MÖLLEKULLA countertop, oak/veneer: /products/butcher-block-countertops/80301136.txt
+- MÖLLEKULLA Countertop, oak, veneer: /products/butcher-block-countertops/00301135.txt
+- KARLBY countertop, walnut/veneer: /products/butcher-block-countertops/70335212.txt
+- KARLBY Countertop, walnut, veneer: /products/butcher-block-countertops/50335208.txt
+- KARLBY countertop, oak/veneer: /products/butcher-block-countertops/90335211.txt
+- KARLBY countertop, oak/veneer: /products/butcher-block-countertops/70335207.txt
+- KARLBY Countertop for kitchen island, walnut, veneer: /products/butcher-block-countertops/30297641.txt
+- KARLBY Countertop for kitchen island, oak, veneer: /products/butcher-block-countertops/50297640.txt
+- KARLBY countertop, birch/veneer: /products/butcher-block-countertops/90335206.txt
+- KARLBY Countertop, birch, veneer: /products/butcher-block-countertops/10335210.txt
+- HOLMARED countertop, bamboo/veneer: /products/butcher-block-countertops/80557387.txt
+- HOLMARED countertop, bamboo/veneer: /products/butcher-block-countertops/00557386.txt
+- BARKABODA countertop, walnut/veneer: /products/butcher-block-countertops/90331473.txt
+- BARKABODA Countertop, walnut, veneer: /products/butcher-block-countertops/10331472.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

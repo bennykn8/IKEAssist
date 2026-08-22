@@ -1,0 +1,38 @@
+# @CATEGORY
+Name: Cooking accessories
+ProductCount: 16
+
+# @FILTERS
+PriceRange: $1.49 - $24.99
+Materials: Ball: 100 % wool, Bamboo veneer, Cork, Foot: Synthetic rubber, Polypropylene, Lock: Stainless steel, Magnet: Neodymium, Main parts: Silicone rubber, Main parts: Stainless steel, Polypropylene, Rope: 100 % cotton
+Brand: IKEA
+
+# @ITEMS
+- PRICKIG microwave lid, gray: /products/cooking-accessories/70186090.txt
+- LÄMPLIG Trivet, stainless steel, Length:: /products/cooking-accessories/30111087.txt
+- KNORRHAJ pot stand, light green: /products/cooking-accessories/90602172.txt
+- KLOCKREN universal lid, set of 3, silicone: /products/cooking-accessories/10578128.txt
+- KLOCKREN steamer, bamboo, 5 qt: /products/cooking-accessories/70449181.txt
+- KLOCKREN splatter screen: /products/cooking-accessories/70578125.txt
+- KLOCKREN lid, silicone, 14 ¼x10 ¼": /products/cooking-accessories/20578123.txt
+- KLOCKREN lid, glass, 8 ¼": /products/cooking-accessories/60578121.txt
+- KLOCKREN lid for pan, glass, 11 ½": /products/cooking-accessories/70576975.txt
+- KLOCKREN lid for pan, glass, 9 ¾": /products/cooking-accessories/20576973.txt
+- KLOCKREN lid for pan, glass: /products/cooking-accessories/00578124.txt
+- IKEA 365+ GUNSTIG trivet, magnetic, red/dark gray: /products/cooking-accessories/50175276.txt
+- HEAT trivet, dark brown: /products/cooking-accessories/20602726.txt
+- HEAT trivet, cork: /products/cooking-accessories/87077700.txt
+- HEAT trivet, cork: /products/cooking-accessories/10521170.txt
+- HALVNÄBB trivet, extendable bright red/pine: /products/cooking-accessories/70602173.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

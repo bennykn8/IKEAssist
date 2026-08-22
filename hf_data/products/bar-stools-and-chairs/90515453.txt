@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GRÅSALA bar stool, gray
+SKU: 90515453
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/grasala-bar-stool-gray-90515453/
+Category: Bar stools & chairs
+Description: , 291/2" This bar stool combines a modern expression with good comfort in a sturdy yet neat design that’s both durable and pleasing to the eye. Assembles in no time - but the strong construction will ...
+
+# @OFFER
+Price: 65
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100% polyester (min. 90% recycled), Leg frame/ Cross rail/ Footrest: Steel, Epoxy/polyester powder coating, Seat: Layer-glued wood veneer
+Features: Recommended for indoor use only. | May be completed with FIXA stick-on floor protectors to protect the underlying surface against wear.
+Care: Wipe clean with a mild soapy solution. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/grasala-bar-stool-gray__1157548_pe887743_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

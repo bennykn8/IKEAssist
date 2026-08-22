@@ -1,0 +1,33 @@
+# @CATEGORY
+Name: Hallway benches
+ProductCount: 11
+
+# @FILTERS
+PriceRange: $39.99 - $249.99
+Materials: Back panel: Solid wood, Acrylic paint, Bottom panel: Particleboard, Coated fabric: 100 % polyurethane, 75 %polyester, 25 % cotton, Core filling: Polyurethane foam 2.0 lb/cu.ft., Polyester wadding, Cushion cover: 100 % polyester, Drawer side/ Drawer back/ Drawer support: Solid pine, Adhesive, Fabric: 100 % polyester (100% recycled), Frame: Solid wood, Acrylic paint, Main parts/ Shelf: Steel, Powder coating, Main parts: Solid pine, Stain, Clear acrylic lacquer
+Brand: IKEA
+
+# @ITEMS
+- TJUSIG bench with shoe storage, white: /products/hallway-benches/70152702.txt
+- TJUSIG Bench with shoe storage, black: /products/hallway-benches/50152703.txt
+- PANGET storage bench, white: /products/hallway-benches/10474159.txt
+- NIPÅSEN bench with shoe storage, black: /products/hallway-benches/20586142.txt
+- KALLSÖ storage bench, gray: /products/hallway-benches/80599325.txt
+- KALLSÖ bench with shoe storage, gray: /products/hallway-benches/20599328.txt
+- HEMNES bench with shoe storage, black-brown: /products/hallway-benches/70245872.txt
+- GULLABERG storage bench, white: /products/hallway-benches/80573957.txt
+- GULLABERG storage bench, gray: /products/hallway-benches/40573959.txt
+- EKENÄSET bench, Kelinge gray-turquoise: /products/hallway-benches/70533542.txt
+- EKENÄSET bench, Jonsbyn black: /products/hallway-benches/40533548.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

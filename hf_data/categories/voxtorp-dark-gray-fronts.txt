@@ -1,0 +1,59 @@
+# @CATEGORY
+Name: VOXTORP dark gray fronts
+ProductCount: 37
+
+# @FILTERS
+PriceRange: $79.00 - $389.00
+Materials: Back side: Plastic foil, Backside: Plastic foil, Frontside: Plastic foil (min. 90% recycled), Main parts: Fiberboard, Main parts: Particleboard
+Brand: IKEA
+
+# @ITEMS
+- VOXTORP drawer front, dark gray: /products/voxtorp-dark-gray-fronts/90456175.txt
+- VOXTORP drawer front, dark gray: /products/voxtorp-dark-gray-fronts/80456171.txt
+- VOXTORP drawer front, dark gray: /products/voxtorp-dark-gray-fronts/80456166.txt
+- VOXTORP drawer front, dark gray: /products/voxtorp-dark-gray-fronts/70456176.txt
+- VOXTORP drawer front, dark gray: /products/voxtorp-dark-gray-fronts/60456172.txt
+- VOXTORP drawer front, dark gray: /products/voxtorp-dark-gray-fronts/60456167.txt
+- VOXTORP Drawer front, dark gray: /products/voxtorp-dark-gray-fronts/50456177.txt
+- VOXTORP Drawer front, dark gray: /products/voxtorp-dark-gray-fronts/40456173.txt
+- VOXTORP Drawer front, dark gray: /products/voxtorp-dark-gray-fronts/40456168.txt
+- VOXTORP Drawer front, dark gray: /products/voxtorp-dark-gray-fronts/30456178.txt
+- VOXTORP Drawer front, dark gray: /products/voxtorp-dark-gray-fronts/20456174.txt
+- VOXTORP Drawer front, dark gray: /products/voxtorp-dark-gray-fronts/20456169.txt
+- VOXTORP Drawer front, dark gray: /products/voxtorp-dark-gray-fronts/10456179.txt
+- VOXTORP Drawer front, dark gray: /products/voxtorp-dark-gray-fronts/00456170.txt
+- VOXTORP Drawer front, dark gray: /products/voxtorp-dark-gray-fronts/00456165.txt
+- VOXTORP door, dark gray: /products/voxtorp-dark-gray-fronts/90456161.txt
+- VOXTORP door, dark gray: /products/voxtorp-dark-gray-fronts/90456156.txt
+- VOXTORP door, dark gray: /products/voxtorp-dark-gray-fronts/90456137.txt
+- VOXTORP door, dark gray: /products/voxtorp-dark-gray-fronts/80456147.txt
+- VOXTORP door, dark gray: /products/voxtorp-dark-gray-fronts/70456162.txt
+- VOXTORP door, dark gray: /products/voxtorp-dark-gray-fronts/70456157.txt
+- VOXTORP door, dark gray: /products/voxtorp-dark-gray-fronts/70456143.txt
+- VOXTORP door, dark gray: /products/voxtorp-dark-gray-fronts/70456138.txt
+- VOXTORP door, dark gray: /products/voxtorp-dark-gray-fronts/60456153.txt
+- VOXTORP door, dark gray: /products/voxtorp-dark-gray-fronts/60456148.txt
+- VOXTORP Door, dark gray: /products/voxtorp-dark-gray-fronts/50456158.txt
+- VOXTORP Door, dark gray: /products/voxtorp-dark-gray-fronts/50456144.txt
+- VOXTORP Door, dark gray: /products/voxtorp-dark-gray-fronts/50456139.txt
+- VOXTORP Door, dark gray: /products/voxtorp-dark-gray-fronts/40456149.txt
+- VOXTORP Door, dark gray: /products/voxtorp-dark-gray-fronts/30456159.txt
+- VOXTORP Door, dark gray: /products/voxtorp-dark-gray-fronts/10456155.txt
+- VOXTORP Door, dark gray: /products/voxtorp-dark-gray-fronts/10456141.txt
+- VOXTORP Door, dark gray: /products/voxtorp-dark-gray-fronts/10456136.txt
+- VOXTORP Door, dark gray: /products/voxtorp-dark-gray-fronts/00456151.txt
+- VOXTORP Door, dark gray: /products/voxtorp-dark-gray-fronts/00456146.txt
+- VOXTORP 2-p door/corner base cabinet set, right-handed dark gray: /products/voxtorp-dark-gray-fronts/50456163.txt
+- VOXTORP 2-p door/corner base cabinet set, left-handed dark gray: /products/voxtorp-dark-gray-fronts/30456164.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,33 @@
+# @CATEGORY
+Name: Free-standing refrigerators & freezers
+ProductCount: 12
+
+# @FILTERS
+PriceRange: $124.99 - $2999.00
+Brand: IKEA
+
+# @ITEMS
+- VÄLGRUNDAD bottom-freezer refrigerator, Stainless steel, 19 cu.ft: /products/free-standing-refrigerators-and-freezers/70462158.txt
+- TILLREDA refrigerator, freestanding/white, 2 cu.ft: /products/free-standing-refrigerators-and-freezers/20497023.txt
+- STJÄRNSTATUS french door refrigerator, stainless steel color/counter-depth, 22.6 cu.ft: /products/free-standing-refrigerators-and-freezers/20522287.txt
+- STJÄRNSTATUS french door refrigerator, black counter-depth, 22.6 cu.ft: /products/free-standing-refrigerators-and-freezers/40522286.txt
+- OLOFSFORS top-freezer refrigerator, Stainless steel, 18.0 cu.ft: /products/free-standing-refrigerators-and-freezers/10587608.txt
+- ÖVERSKÅDLIG french door refrigerator, 4-door/stainless steel color, 22 cu.ft: /products/free-standing-refrigerators-and-freezers/60462154.txt
+- NUMRERAD 52-bottle wine cooler, Stainless steel: /products/free-standing-refrigerators-and-freezers/40462150.txt
+- LAGAN top-freezer refrigerator, white, 18.0 cu.ft: /products/free-standing-refrigerators-and-freezers/30587626.txt
+- LAGAN top-freezer refrigerator, white, 13.9 cu.ft: /products/free-standing-refrigerators-and-freezers/00462152.txt
+- LAGAN fridge with freezer compartment, compact/white, 4.0 cu.ft: /products/free-standing-refrigerators-and-freezers/50490119.txt
+- FRYSBAR top-freezer refrigerator, Stainless steel, 13.9 cu.ft: /products/free-standing-refrigerators-and-freezers/80462148.txt
+- FÄRSKHET bottom-freezer refrigerator, stainless steel color, 10.4 cu.ft: /products/free-standing-refrigerators-and-freezers/30462155.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

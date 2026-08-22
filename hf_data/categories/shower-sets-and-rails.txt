@@ -1,0 +1,26 @@
+# @CATEGORY
+Name: Shower sets & rails
+ProductCount: 4
+
+# @FILTERS
+PriceRange: $39.99 - $199.99
+Materials: Handheld showerhead inner housing/ Overhead showerhead inner housing/ Faceplate: Acetal plastic, Handheld showerhead inner housing: Acetal plastic, Handheld showerhead outer housing/ Overhead showerhead outer housing: ABS plastic, Chrome plated, Handheld showerhead outer housing/ Rail fixture: ABS plastic, Chrome plated, Nozzle: Synthetic rubber
+Brand: IKEA
+
+# @ITEMS
+- VOXNAN Bath/shower set thermostatic faucet, chrome plated: /products/shower-sets-and-rails/00342621.txt
+- VALLAMOSSE riser rail with hand shower/outlet, chrome plated: /products/shower-sets-and-rails/70351933.txt
+- BROGRUND Riser rail with hand shower/outlet, chrome plated: /products/shower-sets-and-rails/50342628.txt
+- BROGRUND bath/shower set thermostatic faucet, chrome plated: /products/shower-sets-and-rails/90342626.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

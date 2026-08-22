@@ -1,0 +1,64 @@
+# @CATEGORY
+Name: Desk chairs for home
+ProductCount: 42
+
+# @FILTERS
+PriceRange: $10.00 - $384.99
+Materials: Adapter: Steel, Epoxy/polyester powder coating, Adjustment lever/ Seat frame/ Armrest frame/ Mounting plate/ Hub/ Leg frame: Steel, Epoxy/polyester powder coating, Adjustment lever: Thermoplastic elastomer, Armrest: Polyurethane foam., Reinforced polyamide, Steel, Acetal plastic, Back fabric: 100 %polyester, Back foam: Polyurethane foam., Back frame/ Armrest frame/ Back bar: Steel, Epoxy/polyester powder coating, Back frame: 100 % polyester, Reinforced polyamide, Steel, Back frame: Steel, Epoxy/polyester powder coating, Backrest frame/ Mechanism/ Gas cylinder/ Leg: Steel, Epoxy/polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- TOSSBERG / MALSKÄR swivel chair, Gunnared dark gray/white: /products/desk-chairs-for-home/49508243.txt
+- TOSSBERG / MALSKÄR swivel chair, Gunnared dark gray/black: /products/desk-chairs-for-home/89508236.txt
+- TOSSBERG / MALSKÄR swivel chair, Gunnared beige/white: /products/desk-chairs-for-home/19508230.txt
+- TOSSBERG / MALSKÄR swivel chair, Gunnared beige/black: /products/desk-chairs-for-home/49508224.txt
+- TOSSBERG / MALSKÄR swivel chair, Grann light brown/white: /products/desk-chairs-for-home/69508218.txt
+- TOSSBERG / MALSKÄR swivel chair, Grann light brown/black: /products/desk-chairs-for-home/69508204.txt
+- TOSSBERG / MALSKÄR swivel chair, Grann black/white: /products/desk-chairs-for-home/29508197.txt
+- TOSSBERG / MALSKÄR swivel chair, Grann black/black: /products/desk-chairs-for-home/19508174.txt
+- STIGBYGEL swivel chair with armrests, brown/black: /products/desk-chairs-for-home/20571193.txt
+- STIGBYGEL swivel chair with armrests, beige/white: /products/desk-chairs-for-home/50556431.txt
+- SMÄLLEN swivel chair, black: /products/desk-chairs-for-home/00503435.txt
+- ROSENTORP swivel chair, white/Kilanda beige: /products/desk-chairs-for-home/00576549.txt
+- RENBERGET swivel chair, Bomstad black: /products/desk-chairs-for-home/20503284.txt
+- PYNTEN seat pad, orange, 16 ¼x: /products/desk-chairs-for-home/30607356.txt
+- PYNTEN seat pad, dark gray, 16 ¼x: /products/desk-chairs-for-home/90474990.txt
+- ÖRFJÄLL swivel chair, white/Vissle light gray: /products/desk-chairs-for-home/79416015.txt
+- ÖRFJÄLL swivel chair, white/Vissle green: /products/desk-chairs-for-home/99602139.txt
+- ÖRFJÄLL swivel chair, white/Vissle dark blue: /products/desk-chairs-for-home/99501102.txt
+- ÖRFJÄLL swivel chair, black/Vissle red: /products/desk-chairs-for-home/59501081.txt
+- ODGER swivel chair, white/beige: /products/desk-chairs-for-home/70308685.txt
+- NILSERIK standing support, black/Vissle dark gray: /products/desk-chairs-for-home/30491898.txt
+- NILSERIK standing support, beige/Vissle dark gray: /products/desk-chairs-for-home/10486831.txt
+- MULLSJÖ swivel chair, Gräsnäs dark gray: /products/desk-chairs-for-home/90576583.txt
+- MILLBERGET swivel chair, Murum dark brown: /products/desk-chairs-for-home/80489402.txt
+- MILLBERGET swivel chair, Murum black: /products/desk-chairs-for-home/00489397.txt
+- MILLBERGET swivel chair, Murum beige: /products/desk-chairs-for-home/90489393.txt
+- MARKUS office chair, Vissle dark gray, Large: /products/desk-chairs-for-home/50588804.txt
+- LOBERGET / MALSKÄR swivel chair, white: /products/desk-chairs-for-home/19445469.txt
+- LOBERGET / MALSKÄR swivel chair, white/black: /products/desk-chairs-for-home/29488571.txt
+- LOBERGET / MALSKÄR swivel chair + pad, white/orange: /products/desk-chairs-for-home/79602022.txt
+- LOBERGET / MALSKÄR swivel chair + pad, white/dark gray: /products/desk-chairs-for-home/59445453.txt
+- LOBERGET / MALSKÄR swivel chair + pad, white black/dark gray: /products/desk-chairs-for-home/09331939.txt
+- KRYLBO swivel chair, Tonerud dark beige: /products/desk-chairs-for-home/70573590.txt
+- KRYLBO swivel chair, Tonerud blue: /products/desk-chairs-for-home/30573592.txt
+- ELDBERGET / MALSKÄR swivel chair + pad, dark gray/orange: /products/desk-chairs-for-home/09603968.txt
+- ELDBERGET / MALSKÄR swivel chair + pad, dark gray/black: /products/desk-chairs-for-home/49331904.txt
+- ELDBERGET / MALSKÄR swivel chair, dark gray/black: /products/desk-chairs-for-home/59331847.txt
+- CENTERHALV office chair, black: /products/desk-chairs-for-home/10601124.txt
+- BLECKBERGET swivel chair, Klovsta white/orange-brown: /products/desk-chairs-for-home/10564329.txt
+- BLECKBERGET swivel chair, Klovsta white/gray: /products/desk-chairs-for-home/20573272.txt
+- BJÖRKBERGET swivel chair, Idekulla blue: /products/desk-chairs-for-home/40487160.txt
+- BJÖRKBERGET swivel chair, Idekulla beige: /products/desk-chairs-for-home/80487158.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

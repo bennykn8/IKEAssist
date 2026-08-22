@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BRIMNES Bookcase, black
+SKU: 40301223
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/brimnes-bookcase-black-40301223/
+Category: Bookshelves & bookcases
+Description: , 23 5/8x74 3/4". Adjustable shelves, so you can customize your storage as needed. Smooth-running drawers with drawer stops to keep them in place.
+
+# @OFFER
+Price: 129
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel: Particleboard, Paper foil, Plastic edging, Back panel/ Drawer bottom: Fiberboard, Acrylic paint, Drawer front: Fiberboard, Particleboard, Particleboard, Paper foil, Plastic edging
+Features: Keep in mind that you need enough space between the top of the furniture and the ceiling to be able to anchor the product to the wall.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/brimnes-bookcase-black__0427999_pe583197_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

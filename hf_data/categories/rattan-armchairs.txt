@@ -1,0 +1,35 @@
+# @CATEGORY
+Name: Rattan armchairs
+ProductCount: 13
+
+# @FILTERS
+PriceRange: $99.99 - $419.00
+Materials: Chair: Rattan, Rattan, Clear acrylic lacquer, Comfort filling: 70% cut polyurethane foam/ 30% polyester fibers, Fabric/ Cover: 53 % linen, 47 % viscose/rayon, Fabric/ Top fabric: 43 % cotton, 27 % viscose/rayon, 18 % polyester (100% recycled), 12 % linen, Fabric: 75 % cotton, 25 % polyester (100% recycled), Feet: Polyethylene, Frame: Bamboo, Rattan, Clear acrylic lacquer, Frame: Rattan, Clear acrylic lacquer, Frame: Steel, Lining/ Back fabric: 100 % polyester (100% recycled)
+Brand: IKEA
+
+# @ITEMS
+- ULRIKSBERG armchair, rattan/anthracite: /products/rattan-armchairs/90434310.txt
+- STOCKHOLM 2025 armchair, rattan/Djurmo gray/white: /products/rattan-armchairs/69578268.txt
+- SALNÖ / GRYTTOM chair with cushion: /products/rattan-armchairs/69534415.txt
+- SALNÖ armchair, rattan: /products/rattan-armchairs/60500778.txt
+- RÅDVIKEN Armchair, dark brown, black: /products/rattan-armchairs/50295472.txt
+- ORRESLÄTT armchair: /products/rattan-armchairs/30555098.txt
+- FRYKSÅS chair with cushion, rattan/Risane natural: /products/rattan-armchairs/99563166.txt
+- FRYKSÅS armchair, rattan: /products/rattan-armchairs/80540033.txt
+- FRYKSÅS armchair and ottoman, rattan/Risane natural: /products/rattan-armchairs/99563171.txt
+- BUSKBO armchair, rattan/Djupvik white: /products/rattan-armchairs/69299012.txt
+- BUSKBO armchair, rattan: /products/rattan-armchairs/70434311.txt
+- AGEN chair with cushion, rattan/Norna natural: /products/rattan-armchairs/79390770.txt
+- AGEN Armchair, rattan, bamboo: /products/rattan-armchairs/50058376.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

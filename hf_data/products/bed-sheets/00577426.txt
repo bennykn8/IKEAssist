@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: NATTJASMIN flat sheet, light beige, Full/Double
+SKU: 00577426
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/nattjasmin-flat-sheet-light-beige-00577426/
+Category: Bed sheets
+Description: Like a dream – a silky-soft sheet with a beautiful luster. Sateen-woven from the finest yarn made of lyocell and sustainably grown cotton. Natural materials that feel good against your skin Just as ea...
+
+# @OFFER
+Price: 21.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 60 % cotton, 40 % lyocell
+Features: 310 thread count. | Thread count indicates the number of threads per square inch of fabric. The higher the thread count the more densely woven the fabric. | Comprises: 1 flat sheet (81⅛x96⅛").
+Care: Shrinkage maximum 4%. | Machine wash warm (max 140°F/60°C) normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/nattjasmin-flat-sheet-light-beige__1248538_pe923157_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

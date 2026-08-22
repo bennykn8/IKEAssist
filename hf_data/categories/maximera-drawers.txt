@@ -1,0 +1,55 @@
+# @CATEGORY
+Name: MAXIMERA drawers
+ProductCount: 33
+
+# @FILTERS
+PriceRange: $14.00 - $86.00
+Materials: Drawer bottom: Particleboard, Melamine foil, Melamine foil, Drawer/ Drawer back/ Drawer rail: Steel, Epoxy/polyester powder coating, Drawer/ Drawer back: Steel, Epoxy/polyester powder coating, Runners: Galvanized steel, Tempered glass
+Brand: IKEA
+
+# @ITEMS
+- MAXIMERA Pull-out interior fittings: /products/maximera-drawers/30297274.txt
+- MAXIMERA drawer, medium, white: /products/maximera-drawers/80265671.txt
+- MAXIMERA drawer, medium, white: /products/maximera-drawers/80265666.txt
+- MAXIMERA Drawer, medium, white: /products/maximera-drawers/60265672.txt
+- MAXIMERA Drawer, medium, white: /products/maximera-drawers/60265667.txt
+- MAXIMERA Drawer, medium, white: /products/maximera-drawers/40265673.txt
+- MAXIMERA Drawer, medium, white: /products/maximera-drawers/40265668.txt
+- MAXIMERA Drawer, medium, white: /products/maximera-drawers/30265664.txt
+- MAXIMERA Drawer, medium, white: /products/maximera-drawers/20265674.txt
+- MAXIMERA Drawer, medium, white: /products/maximera-drawers/20265669.txt
+- MAXIMERA drawer, medium, white: /products/maximera-drawers/00265670.txt
+- MAXIMERA drawer, medium, white: /products/maximera-drawers/00265665.txt
+- MAXIMERA drawer, low, white: /products/maximera-drawers/90265661.txt
+- MAXIMERA drawer, low, white: /products/maximera-drawers/90265656.txt
+- MAXIMERA drawer, low, white: /products/maximera-drawers/70265662.txt
+- MAXIMERA drawer, low, white: /products/maximera-drawers/70265657.txt
+- MAXIMERA Drawer, low, white: /products/maximera-drawers/50265663.txt
+- MAXIMERA Drawer, low, white: /products/maximera-drawers/50265658.txt
+- MAXIMERA Drawer, low, white: /products/maximera-drawers/40265654.txt
+- MAXIMERA Drawer, low, white: /products/maximera-drawers/30265659.txt
+- MAXIMERA Drawer, low, white: /products/maximera-drawers/10265660.txt
+- MAXIMERA Drawer, low, white: /products/maximera-drawers/10265655.txt
+- MAXIMERA drawer, high, white: /products/maximera-drawers/70265676.txt
+- MAXIMERA Drawer, high, white: /products/maximera-drawers/50265682.txt
+- MAXIMERA Drawer, high, white: /products/maximera-drawers/40276695.txt
+- MAXIMERA Drawer, high, white: /products/maximera-drawers/30265678.txt
+- MAXIMERA Drawer, high, white: /products/maximera-drawers/20276696.txt
+- MAXIMERA Drawer, high, white: /products/maximera-drawers/10265684.txt
+- MAXIMERA Drawer, high, white: /products/maximera-drawers/10265679.txt
+- MAXIMERA Drawer, high, white: /products/maximera-drawers/00276697.txt
+- MAXIMERA add-on side for drawer, medium, glass: /products/maximera-drawers/70238862.txt
+- MAXIMERA Add-on side for drawer, medium, glass: /products/maximera-drawers/30238859.txt
+- MAXIMERA Add-on side for drawer, high, glass: /products/maximera-drawers/50238858.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

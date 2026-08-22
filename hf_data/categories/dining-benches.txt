@@ -1,0 +1,29 @@
+# @CATEGORY
+Name: Dining benches
+ProductCount: 7
+
+# @FILTERS
+PriceRange: $30.00 - $399.00
+Materials: Fabric/ Top fabric: 43 % cotton, 27 % viscose/rayon, 18 % polyester (100% recycled), 12 % linen, Leg: Plywood, Ash veneer, Stain, Clear acrylic lacquer, Lining/ Back fabric: 100 % polyester (100% recycled), Particleboard, Thick oak veneer, Thick oak veneer, Stained and waxed, Rattan, Clear acrylic lacquer, Solid pine, Top panel: Particleboard, Ash veneer, Stain, Clear acrylic lacquer, Ash veneer, Top panel: Particleboard, Solid oak, Thick oak veneer, Thick oak veneer, Oil-acrylic, Underframe: Particleboard, Solid oak, Thick oak veneer, Oil-acrylic, Underframe: Solid pine, Ash veneer, Stain, Clear acrylic lacquer
+Brand: IKEA
+
+# @ITEMS
+- SALNÖ / GRYTTOM bench with pad, armrests rattan/Gransel natural: /products/dining-benches/99564613.txt
+- SALNÖ bench, rattan: /products/dining-benches/30551203.txt
+- PERJOHAN bench with storage, pine: /products/dining-benches/60485339.txt
+- MÖRBYLÅNGA bench, oak veneer/brown stained: /products/dining-benches/50348258.txt
+- MÖCKELBY bench, oak: /products/dining-benches/30348259.txt
+- GRYTTOM cushion, Gransel natural: /products/dining-benches/90576682.txt
+- EKEDALEN Bench, dark brown: /products/dining-benches/40340762.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: LEN crib duvet insert, white
+SKU: 72899110
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/len-crib-duvet-insert-white-72899110/
+Category: Baby comforters & pillows
+Description: , 43x49" A lightweight, fluffy and super soft duvet filled with hollow fiber made of recycled polyester that’s surrounded by a cotton fabric with seams that hold the filling in place. Made for beautif...
+
+# @OFFER
+Price: 15.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 65 % polyester (100% recycled), 35 % cotton, Filling material: 100 % polyester - hollow fiber (100% recycled)
+Care: Machine wash warm (max 140°F/60°C) normal cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/len-crib-duvet-insert-white__0598057_pe677421_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,26 @@
+# @CATEGORY
+Name: RELATERA desk tops & underframes
+ProductCount: 4
+
+# @FILTERS
+PriceRange: $20.00 - $109.99
+Materials: End cap: Acetal plastic, Frame/ Foot/ Bracket/ Cable management/ Outer tube/ Inner tube/ Hook: Steel, Epoxy powder coating, Particleboard, Melamine foil, Plastic edging, Plastic edging, Shaft: Steel, Steel, Galvanized, Steel, Epoxy powder coating
+Brand: IKEA
+
+# @ITEMS
+- RELATERA underframe sit/stand f table top, white: /products/relatera-desk-tops-and-underframes/80540306.txt
+- RELATERA underframe for table top, white: /products/relatera-desk-tops-and-underframes/10540319.txt
+- RELATERA table top, white: /products/relatera-desk-tops-and-underframes/30540295.txt
+- RELATERA table top, white: /products/relatera-desk-tops-and-underframes/00526366.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,59 @@
+# @CATEGORY
+Name: ASKERSUND light ash effect fronts
+ProductCount: 37
+
+# @FILTERS
+PriceRange: $16.00 - $100.00
+Materials: Back side: Melamine foil, Paper foil, Front side: Paper foil, Melamine foil, Main parts: Particleboard
+Brand: IKEA
+
+# @ITEMS
+- ASKERSUND drawer front, light ash effect: /products/askersund-light-ash-effect-fronts/90348384.txt
+- ASKERSUND drawer front, light ash effect: /products/askersund-light-ash-effect-fronts/90348379.txt
+- ASKERSUND drawer front, light ash effect: /products/askersund-light-ash-effect-fronts/80348389.txt
+- ASKERSUND drawer front, light ash effect: /products/askersund-light-ash-effect-fronts/70348380.txt
+- ASKERSUND drawer front, light ash effect: /products/askersund-light-ash-effect-fronts/60348390.txt
+- ASKERSUND drawer front, light ash effect: /products/askersund-light-ash-effect-fronts/60348385.txt
+- ASKERSUND drawer front, light ash effect: /products/askersund-light-ash-effect-fronts/50348381.txt
+- ASKERSUND drawer front, light ash effect: /products/askersund-light-ash-effect-fronts/40348391.txt
+- ASKERSUND drawer front, light ash effect: /products/askersund-light-ash-effect-fronts/40348386.txt
+- ASKERSUND drawer front, light ash effect: /products/askersund-light-ash-effect-fronts/30348382.txt
+- ASKERSUND drawer front, light ash effect: /products/askersund-light-ash-effect-fronts/20348392.txt
+- ASKERSUND drawer front, light ash effect: /products/askersund-light-ash-effect-fronts/20348387.txt
+- ASKERSUND drawer front, light ash effect: /products/askersund-light-ash-effect-fronts/10348383.txt
+- ASKERSUND drawer front, light ash effect: /products/askersund-light-ash-effect-fronts/10348378.txt
+- ASKERSUND drawer front, light ash effect: /products/askersund-light-ash-effect-fronts/00348388.txt
+- ASKERSUND door, light ash effect: /products/askersund-light-ash-effect-fronts/90348360.txt
+- ASKERSUND door, light ash effect: /products/askersund-light-ash-effect-fronts/90348355.txt
+- ASKERSUND door, light ash effect: /products/askersund-light-ash-effect-fronts/80348370.txt
+- ASKERSUND door, light ash effect: /products/askersund-light-ash-effect-fronts/80348365.txt
+- ASKERSUND door, light ash effect: /products/askersund-light-ash-effect-fronts/70348375.txt
+- ASKERSUND door, light ash effect: /products/askersund-light-ash-effect-fronts/70348361.txt
+- ASKERSUND door, light ash effect: /products/askersund-light-ash-effect-fronts/70348356.txt
+- ASKERSUND door, light ash effect: /products/askersund-light-ash-effect-fronts/60348371.txt
+- ASKERSUND door, light ash effect: /products/askersund-light-ash-effect-fronts/60348366.txt
+- ASKERSUND door, light ash effect: /products/askersund-light-ash-effect-fronts/50348376.txt
+- ASKERSUND door, light ash effect: /products/askersund-light-ash-effect-fronts/50348362.txt
+- ASKERSUND door, light ash effect: /products/askersund-light-ash-effect-fronts/50348357.txt
+- ASKERSUND door, light ash effect: /products/askersund-light-ash-effect-fronts/40348372.txt
+- ASKERSUND door, light ash effect: /products/askersund-light-ash-effect-fronts/40348367.txt
+- ASKERSUND door, light ash effect: /products/askersund-light-ash-effect-fronts/30348363.txt
+- ASKERSUND door, light ash effect: /products/askersund-light-ash-effect-fronts/30348358.txt
+- ASKERSUND door, light ash effect: /products/askersund-light-ash-effect-fronts/20348373.txt
+- ASKERSUND door, light ash effect: /products/askersund-light-ash-effect-fronts/20348368.txt
+- ASKERSUND door, light ash effect: /products/askersund-light-ash-effect-fronts/10348364.txt
+- ASKERSUND door, light ash effect: /products/askersund-light-ash-effect-fronts/10348359.txt
+- ASKERSUND door, light ash effect: /products/askersund-light-ash-effect-fronts/00348374.txt
+- ASKERSUND 2-p door/corner base cabinet set, light ash effect: /products/askersund-light-ash-effect-fronts/30348377.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

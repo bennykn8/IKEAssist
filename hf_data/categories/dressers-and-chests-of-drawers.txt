@@ -1,0 +1,127 @@
+# @CATEGORY
+Name: Dressers & chests of drawers
+ProductCount: 105
+
+# @FILTERS
+PriceRange: $15.00 - $499.99
+Materials: Back panel/ Back: Fiberboard, Back panel/ Bottom panel: Particleboard, Back panel/ Bottom panel: Particleboard, Paper foil, Paper foil, Back panel/ Plinth,middle/ Drawer side/ Drawer back: Particleboard, Back panel/ Shelf: Particleboard, Back panel: Fiberboard, Back panel: Fiberboard, Acrylic paint, Back panel: Fiberboard, Paper foil, Back panel: Particleboard, Back panel: Particleboard, Fiberboard, Paper foil
+Brand: IKEA
+
+# @ITEMS
+- VIHALS 6-drawer dresser, white/anchor/unlock function: /products/dressers-and-chests-of-drawers/90483249.txt
+- VIHALS 6-drawer dresser, white/anchor/unlock function: /products/dressers-and-chests-of-drawers/30490115.txt
+- VIHALS 4-drawer chest, white/anchor/unlock function: /products/dressers-and-chests-of-drawers/60483241.txt
+- TONSTAD 6-drawer dresser, off-white: /products/dressers-and-chests-of-drawers/40614629.txt
+- TONSTAD 6-drawer dresser, oak veneer: /products/dressers-and-chests-of-drawers/00614626.txt
+- TONSTAD 6-drawer dresser, brown stained oak veneer: /products/dressers-and-chests-of-drawers/10614621.txt
+- TONSTAD 4-drawer chest, off-white: /products/dressers-and-chests-of-drawers/30614620.txt
+- TONSTAD 4-drawer chest, oak veneer: /products/dressers-and-chests-of-drawers/90614617.txt
+- TONSTAD 4-drawer chest, brown stained oak veneer: /products/dressers-and-chests-of-drawers/00614612.txt
+- TARVA 6-drawer chest, pine: /products/dressers-and-chests-of-drawers/50589870.txt
+- TARVA 5-drawer chest, pine: /products/dressers-and-chests-of-drawers/70589869.txt
+- TARVA 3-drawer chest, pine: /products/dressers-and-chests-of-drawers/30589871.txt
+- STORKLINTA glass top, clear: /products/dressers-and-chests-of-drawers/60562785.txt
+- STORKLINTA glass top, clear: /products/dressers-and-chests-of-drawers/40562786.txt
+- STORKLINTA glass top, clear: /products/dressers-and-chests-of-drawers/20562787.txt
+- STORKLINTA glass top, clear: /products/dressers-and-chests-of-drawers/00562788.txt
+- STORKLINTA 6-drawer dresser, white/anchor/unlock function: /products/dressers-and-chests-of-drawers/60561248.txt
+- STORKLINTA 6-drawer dresser, oak effect/anchor/unlock function: /products/dressers-and-chests-of-drawers/00561246.txt
+- STORKLINTA 6-drawer dresser, dark brown/oak effect anchor/unlock function: /products/dressers-and-chests-of-drawers/50561244.txt
+- STORKLINTA 6-drawer chest, white/anchor/unlock function: /products/dressers-and-chests-of-drawers/10559281.txt
+- STORKLINTA 6-drawer chest, oak effect/anchor/unlock function: /products/dressers-and-chests-of-drawers/50559279.txt
+- STORKLINTA 6-drawer chest, dark brown/oak effect anchor/unlock function: /products/dressers-and-chests-of-drawers/70559278.txt
+- STORKLINTA 5-drawer chest, white/anchor/unlock function: /products/dressers-and-chests-of-drawers/20559285.txt
+- STORKLINTA 5-drawer chest, oak effect/anchor/unlock function: /products/dressers-and-chests-of-drawers/00559286.txt
+- STORKLINTA 5-drawer chest, dark brown/oak effect anchor/unlock function: /products/dressers-and-chests-of-drawers/80559287.txt
+- STORKLINTA 4-drawer chest, white/anchor/unlock function: /products/dressers-and-chests-of-drawers/40559289.txt
+- STORKLINTA 4-drawer chest, oak effect/anchor/unlock function: /products/dressers-and-chests-of-drawers/20559290.txt
+- STORKLINTA 4-drawer chest, dark brown/oak effect anchor/unlock function: /products/dressers-and-chests-of-drawers/60559288.txt
+- STORKLINTA 3-drawer chest, white/anchor/unlock function: /products/dressers-and-chests-of-drawers/00559291.txt
+- STORKLINTA 3-drawer chest, oak effect/anchor/unlock function: /products/dressers-and-chests-of-drawers/80559292.txt
+- STORKLINTA 3-drawer chest, gray/green/anchor/unlock function: /products/dressers-and-chests-of-drawers/80574645.txt
+- STORKLINTA 3-drawer chest, dark brown/oak effect anchor/unlock function: /products/dressers-and-chests-of-drawers/60559293.txt
+- STOREMOLLA 8-drawer dresser, light grey-beige stained: /products/dressers-and-chests-of-drawers/80522393.txt
+- STOREMOLLA 8-drawer dresser, gray-brown stained: /products/dressers-and-chests-of-drawers/60522394.txt
+- STOREMOLLA 5-drawer chest, light grey-beige stained: /products/dressers-and-chests-of-drawers/10590903.txt
+- STOREMOLLA 5-drawer chest, gray-brown stained: /products/dressers-and-chests-of-drawers/70590900.txt
+- STOREMOLLA 3-drawer chest, light grey-beige stained: /products/dressers-and-chests-of-drawers/70590919.txt
+- STOREMOLLA 3-drawer chest, gray-brown stained: /products/dressers-and-chests-of-drawers/50590915.txt
+- SONGESAND 6-drawer dresser, white: /products/dressers-and-chests-of-drawers/50572836.txt
+- SONGESAND 6-drawer dresser, brown: /products/dressers-and-chests-of-drawers/00575804.txt
+- SONGESAND 6-drawer chest, white: /products/dressers-and-chests-of-drawers/30572837.txt
+- SONGESAND 6-drawer chest, brown: /products/dressers-and-chests-of-drawers/20575803.txt
+- SONGESAND 4-drawer chest, white: /products/dressers-and-chests-of-drawers/70572835.txt
+- SONGESAND 4-drawer chest, brown: /products/dressers-and-chests-of-drawers/40575802.txt
+- SONGESAND 3-drawer chest, white: /products/dressers-and-chests-of-drawers/00572834.txt
+- SONGESAND 3-drawer chest, brown: /products/dressers-and-chests-of-drawers/60575801.txt
+- RAST 6-drawer dresser, pine: /products/dressers-and-chests-of-drawers/00582164.txt
+- RAST 3-drawer chest, pine: /products/dressers-and-chests-of-drawers/70582165.txt
+- RÅDMANSÖ 6-drawer dresser, brown walnut effect: /products/dressers-and-chests-of-drawers/40593839.txt
+- RÅDMANSÖ 5-drawer chest, brown walnut effect: /products/dressers-and-chests-of-drawers/60593838.txt
+- RÅDMANSÖ 3-drawer chest, brown walnut effect: /products/dressers-and-chests-of-drawers/80593837.txt
+- RACKNÄS 3-drawer chest, white: /products/dressers-and-chests-of-drawers/00573145.txt
+- NORDLI 6-drawer dresser, white: /products/dressers-and-chests-of-drawers/90622071.txt
+- NORDLI 6-drawer dresser, anthracite: /products/dressers-and-chests-of-drawers/10622070.txt
+- NORDLI 4-drawer dresser, white: /products/dressers-and-chests-of-drawers/50589078.txt
+- NORDLI 4-drawer dresser, anthracite: /products/dressers-and-chests-of-drawers/90589076.txt
+- NORDLI 2-drawer chest, white: /products/dressers-and-chests-of-drawers/30589079.txt
+- NORDLI 2-drawer chest, anthracite: /products/dressers-and-chests-of-drawers/70589077.txt
+- MALM 2-drawer chest, gray stained: /products/dressers-and-chests-of-drawers/50454908.txt
+- LOTE 3-drawer chest, white: /products/dressers-and-chests-of-drawers/50293722.txt
+- KULLEN 6-drawer dresser, white: /products/dressers-and-chests-of-drawers/10583894.txt
+- KULLEN 5-drawer chest, white: /products/dressers-and-chests-of-drawers/30583893.txt
+- KILBERGET 6-drawer chest, white/anchor/unlock function: /products/dressers-and-chests-of-drawers/70561672.txt
+- KILBERGET 5-drawer chest, white/anchor/unlock function: /products/dressers-and-chests-of-drawers/10561670.txt
+- KILBERGET 3-drawer chest, white/anchor/unlock function: /products/dressers-and-chests-of-drawers/50561668.txt
+- IDANÄS glass top, clear: /products/dressers-and-chests-of-drawers/50469434.txt
+- IDANÄS glass top, clear: /products/dressers-and-chests-of-drawers/40469439.txt
+- IDANÄS glass top, clear: /products/dressers-and-chests-of-drawers/00469436.txt
+- HEMNES glass top, transparent: /products/dressers-and-chests-of-drawers/60430021.txt
+- HEMNES Glass top, transparent: /products/dressers-and-chests-of-drawers/50430012.txt
+- HEMNES Glass top, transparent: /products/dressers-and-chests-of-drawers/00430019.txt
+- HEMNES 8-drawer dresser, white stain: /products/dressers-and-chests-of-drawers/10576191.txt
+- HEMNES 8-drawer dresser, black-brown: /products/dressers-and-chests-of-drawers/30576190.txt
+- HEMNES 6-drawer chest, white stain: /products/dressers-and-chests-of-drawers/00576196.txt
+- HEMNES 6-drawer chest, black-brown: /products/dressers-and-chests-of-drawers/60576198.txt
+- HEMNES 3-drawer chest, white stain: /products/dressers-and-chests-of-drawers/70576193.txt
+- HEMNES 3-drawer chest, dark gray stained: /products/dressers-and-chests-of-drawers/90483471.txt
+- HEMNES 3-drawer chest, black-brown: /products/dressers-and-chests-of-drawers/20576195.txt
+- HEMNES 2-drawer chest, white stain: /products/dressers-and-chests-of-drawers/80242627.txt
+- HEMNES 2-drawer chest, black-brown: /products/dressers-and-chests-of-drawers/50242619.txt
+- HAUGA 8-drawer dresser, white: /products/dressers-and-chests-of-drawers/30572823.txt
+- HAUGA 8-drawer dresser, gray: /products/dressers-and-chests-of-drawers/60576179.txt
+- HAUGA 4-drawer chest, white: /products/dressers-and-chests-of-drawers/50572822.txt
+- HAUGA 4-drawer chest, gray: /products/dressers-and-chests-of-drawers/80576178.txt
+- HAUGA 2-drawer chest, white: /products/dressers-and-chests-of-drawers/10572824.txt
+- HAUGA 2-drawer chest, gray: /products/dressers-and-chests-of-drawers/00576177.txt
+- GULLABERG glass top, clear: /products/dressers-and-chests-of-drawers/60569433.txt
+- GULLABERG glass top, clear: /products/dressers-and-chests-of-drawers/40569434.txt
+- GULLABERG glass top, clear: /products/dressers-and-chests-of-drawers/10569435.txt
+- GULLABERG 8-drawer dresser, white/anchor/unlock function: /products/dressers-and-chests-of-drawers/00590395.txt
+- GULLABERG 8-drawer dresser, gray/anchor/unlock function: /products/dressers-and-chests-of-drawers/80590396.txt
+- GULLABERG 8-drawer chest, white/anchor/unlock function: /products/dressers-and-chests-of-drawers/40561782.txt
+- GULLABERG 8-drawer chest, gray/anchor/unlock function: /products/dressers-and-chests-of-drawers/20561783.txt
+- GULLABERG 6-drawer dresser, white/anchor/unlock function: /products/dressers-and-chests-of-drawers/50561772.txt
+- GULLABERG 6-drawer dresser, gray/anchor/unlock function: /products/dressers-and-chests-of-drawers/30561773.txt
+- GULLABERG 6-drawer chest, white/anchor/unlock function: /products/dressers-and-chests-of-drawers/40561777.txt
+- GULLABERG 6-drawer chest, gray/anchor/unlock function: /products/dressers-and-chests-of-drawers/60561776.txt
+- GULLABERG 3-drawer chest, white/anchor/unlock function: /products/dressers-and-chests-of-drawers/10561769.txt
+- GULLABERG 3-drawer chest, gray/anchor/unlock function: /products/dressers-and-chests-of-drawers/30561768.txt
+- BRIMNES 4-drawer dresser, gray/frosted glass: /products/dressers-and-chests-of-drawers/10598391.txt
+- BRIMNES 4-drawer chest, white: /products/dressers-and-chests-of-drawers/20572833.txt
+- BRIMNES 4-drawer chest, black: /products/dressers-and-chests-of-drawers/70574245.txt
+- BRIMNES 3-drawer chest, white: /products/dressers-and-chests-of-drawers/40572832.txt
+- BRIMNES 3-drawer chest, gray/frosted glass: /products/dressers-and-chests-of-drawers/30598390.txt
+- BRIMNES 3-drawer chest, black: /products/dressers-and-chests-of-drawers/20574243.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

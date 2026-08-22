@@ -1,0 +1,36 @@
+# @CATEGORY
+Name: TÄNNFORSEN vanity units without sink
+ProductCount: 14
+
+# @FILTERS
+PriceRange: $219.00 - $399.00
+Materials: Bottom panel: Particleboard, Plastic foil (min. 70% recycled), Plastic foil, Plastic edging, Plastic edging (min. 50% recycled), Inner side filling/ Door filling: Fiberboard, Plastic foil (min. 70% recycled), Melamine foil, Inner side filling/ Drawer front panel: Fiberboard, Plastic foil (min. 70% recycled), Melamine foil, Middle rail/ Drawer divider/ Drawer sides: Particleboard, Plastic foil, Plastic edging, Plastic edging (min. 50% recycled), Side frame/ Support rail/ Door frame: Fiberboard, Plastic foil (min. 70% recycled), Plastic edging, Plastic edging (min. 50% recycled), Side frame/ Support rail/ Drawer front frame: Fiberboard, Plastic foil (min. 70% recycled), Plastic edging, Plastic edging (min. 50% recycled)
+Brand: IKEA
+
+# @ITEMS
+- TÄNNFORSEN Bathroom vanity with drawers, white: /products/tännforsen-vanity-units-without-sink/90535432.txt
+- TÄNNFORSEN Bathroom vanity with drawers, white: /products/tännforsen-vanity-units-without-sink/80535456.txt
+- TÄNNFORSEN Bathroom vanity with drawers, white: /products/tännforsen-vanity-units-without-sink/60535438.txt
+- TÄNNFORSEN Bathroom vanity with drawers, white: /products/tännforsen-vanity-units-without-sink/40535444.txt
+- TÄNNFORSEN Bathroom vanity with drawers, white: /products/tännforsen-vanity-units-without-sink/10535450.txt
+- TÄNNFORSEN Bathroom vanity with drawers, light gray: /products/tännforsen-vanity-units-without-sink/70535447.txt
+- TÄNNFORSEN Bathroom vanity with drawers, light gray: /products/tännforsen-vanity-units-without-sink/50535453.txt
+- TÄNNFORSEN Bathroom vanity with drawers, light gray: /products/tännforsen-vanity-units-without-sink/20535459.txt
+- TÄNNFORSEN Bathroom vanity with drawers, light gray: /products/tännforsen-vanity-units-without-sink/20535435.txt
+- TÄNNFORSEN Bathroom vanity with drawers, light gray: /products/tännforsen-vanity-units-without-sink/00535441.txt
+- TÄNNFORSEN Bathroom vanity with doors, white: /products/tännforsen-vanity-units-without-sink/60535462.txt
+- TÄNNFORSEN Bathroom vanity with doors, white: /products/tännforsen-vanity-units-without-sink/10535469.txt
+- TÄNNFORSEN Bathroom vanity with doors, light gray: /products/tännforsen-vanity-units-without-sink/70535466.txt
+- TÄNNFORSEN Bathroom vanity with doors, light gray: /products/tännforsen-vanity-units-without-sink/10535474.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: BOAXEL wardrobe combination, white
+SKU: 49332376
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/boaxel-wardrobe-combination-white-s49332376/
+Category: BOAXEL storage combinations
+Description: , 491/8x153/4x79" You can fit more than you think in a limited area. BOAXEL wall-mounted storage system is easy to mount and takes care of all your clothes and shoes in the bedroom and in smaller walk...
+
+# @OFFER
+Price: 150
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Epoxy/polyester powder coating, Frame: Steel, Steel, Epoxy/polyester powder coating, Mesh: Steel, Epoxy/polyester powder coating
+Dimensions: The mounting rail can be cut to an exact width if needed. Only applicable when using more than one mounting rail or for the adjustable clothes rail and shelf.
+Features: BOAXEL clothes rail, 24", holds approx. 20 shirts on hangers. | BOAXEL mesh basket, 24", has room for approx. 6 pairs of folded pants or 10 t-shirts. | BOAXEL shoe shelf, 24", has room for approx. 3 pairs of shoes.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/boaxel-wardrobe-combination-white__0802047_pe770102_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,34 @@
+# @CATEGORY
+Name: ENHET mirror & mirror cabinets
+ProductCount: 12
+
+# @FILTERS
+PriceRange: $85.00 - $130.00
+Materials: Back panel: Fiberboard, Plastic foil, Door: Particleboard, Plastic foil, Plastic edging, Mirror: Glass, Plastic foil, Rail/ Panel: Fiberboard, Plastic foil, Rail: Steel, Polyester powder coating, Side panel/ Bottom panel/ Top panel/ Back rail/ Shelf: Particleboard, Plastic foil, Plastic edging, Side panel/ Bottom panel/ Top panel/ Shelf: Particleboard, Plastic foil, Plastic edging
+Brand: IKEA
+
+# @ITEMS
+- ENHET mirror cab/2 door, white/white frame: /products/enhet-mirror-and-mirror-cabinets/89434660.txt
+- ENHET mirror cab/2 door, white/white frame: /products/enhet-mirror-and-mirror-cabinets/19434692.txt
+- ENHET mirror cab/2 door, white: /products/enhet-mirror-and-mirror-cabinets/99434693.txt
+- ENHET mirror cab/2 door, white: /products/enhet-mirror-and-mirror-cabinets/69434661.txt
+- ENHET mirror cab/2 door, gray: /products/enhet-mirror-and-mirror-cabinets/69434656.txt
+- ENHET mirror cab/2 door, gray/gray frame: /products/enhet-mirror-and-mirror-cabinets/49434657.txt
+- ENHET mirror cab/1 door, white/white frame: /products/enhet-mirror-and-mirror-cabinets/49434577.txt
+- ENHET mirror cab/1 door, white/white frame: /products/enhet-mirror-and-mirror-cabinets/29434658.txt
+- ENHET mirror cab/1 door, white: /products/enhet-mirror-and-mirror-cabinets/89434575.txt
+- ENHET mirror cab/1 door, white: /products/enhet-mirror-and-mirror-cabinets/09434659.txt
+- ENHET mirror cab/1 door, gray: /products/enhet-mirror-and-mirror-cabinets/69434576.txt
+- ENHET mirror cab/1 door, gray/gray frame: /products/enhet-mirror-and-mirror-cabinets/19434574.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

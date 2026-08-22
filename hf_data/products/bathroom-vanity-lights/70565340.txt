@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KÖLVATTEN LED lighting with sensor, white/battery operated
+SKU: 70565340
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/koelvatten-led-lighting-with-sensor-white-battery-operated-70565340/
+Category: Bathroom vanity lights
+Description: , 12" Use this lighting to avoid waking up your family members, since a soft light automatically turns on when you open your wardrobe or drawer. Place it where you like – it’s battery operated and rec...
+
+# @OFFER
+Price: 15
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Base/ Housing: ABS plastic (min. 50% recycled), Diffuser: Polycarbonate plastic
+Features: Rechargeable batteries are sold separately. The charging function of this product only works with rechargeable batteries. IKEA recommends LADDA 2450 mAh HR06 AA 1.2V. 2 pcs are required. | USB-C cable and USB charger are sold separately. | With new, fully charged LADDA AA 2450 mAh rechargeable batteries, one charging will last approx. 60 days if the lighting strip is used 5 minutes per day.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/koelvatten-led-lighting-with-sensor-white-battery-operated__1327489_pe944481_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

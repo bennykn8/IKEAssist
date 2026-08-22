@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: PATRULL door stop, white
+SKU: 90599551
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/patrull-door-stop-white-90599551/
+Category: Baby proofing & child safety
+Description: Made with the safety of children in mind, but also to be loved by adults. These door stops keep the door open, which reduces the risk of fingers getting caught in the door.
+
+# @OFFER
+Price: 4.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Acetal plastic, Plate: ABS plastic, Synthetic rubber
+Features: Fits doors with a maximum thickness of 1¾". The distance between floor and door must be 15/32 - ¼" for the door stop to function.
+Care: Wipe clean with a mild soapy solution. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/patrull-door-stop-white__0710894_pe727826_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

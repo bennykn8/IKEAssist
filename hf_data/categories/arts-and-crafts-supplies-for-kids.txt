@@ -1,0 +1,56 @@
+# @CATEGORY
+Name: Arts and crafts supplies for kids
+ProductCount: 34
+
+# @FILTERS
+PriceRange: $1.99 - $43.97
+Materials: 100 % polyester (100% recycled), Aluminum, Anodized, Barrel: Polypropylene, Polypropylene, Acrylic paint, Barrel: Polypropylene, Polypropylene, Printed acrylic paint, Bead: Polyethylene, Blade: Steel, Galvanized, Board part: Acrylic paint, Fiberboard, Body: Wax, Bottle: PET plastic, Bottle: Polyethylene
+Brand: IKEA
+
+# @ITEMS
+- UNDERHÅLLA cards w letters, numbers, signs: /products/arts-and-crafts-supplies-for-kids/60552159.txt
+- SOLFÅGEL roll-up pencil case, beige: /products/arts-and-crafts-supplies-for-kids/10556348.txt
+- SOLFÅGEL colored pencil, mixed colors: /products/arts-and-crafts-supplies-for-kids/20544232.txt
+- SOLFÅGEL canvas pad, 16 pieces: /products/arts-and-crafts-supplies-for-kids/10544223.txt
+- SOLFÅGEL acrylic paint, mixed colors, 13 oz: /products/arts-and-crafts-supplies-for-kids/40562649.txt
+- SOLFÅGEL 3-piece painting set: /products/arts-and-crafts-supplies-for-kids/49529009.txt
+- SOLFÅGEL 3-piece easel and accessories set: /products/arts-and-crafts-supplies-for-kids/20539080.txt
+- SOLFÅGEL 3-piece drawing set: /products/arts-and-crafts-supplies-for-kids/29529005.txt
+- SKOGSDUVA coloring roll, enchanted forest: /products/arts-and-crafts-supplies-for-kids/30578844.txt
+- PYSSLA beads, mixed colors, 1 lb5 oz: /products/arts-and-crafts-supplies-for-kids/50128572.txt
+- PYSSLA bead shape set of 4, mixed colors: /products/arts-and-crafts-supplies-for-kids/70128571.txt
+- MÅLA whiteboard pen with holder/eraser, mixed colors: /products/arts-and-crafts-supplies-for-kids/90477620.txt
+- MÅLA whiteboard pen, mixed colors: /products/arts-and-crafts-supplies-for-kids/40477632.txt
+- MÅLA wax crayon, mixed colors: /products/arts-and-crafts-supplies-for-kids/30477623.txt
+- MÅLA watercolor box with 14 colors, mixed colors: /products/arts-and-crafts-supplies-for-kids/00477629.txt
+- MÅLA watercolor box, mixed colors: /products/arts-and-crafts-supplies-for-kids/20193267.txt
+- MÅLA scissors: /products/arts-and-crafts-supplies-for-kids/50477617.txt
+- MÅLA portable drawing case, red: /products/arts-and-crafts-supplies-for-kids/40459893.txt
+- MÅLA paper roll holder with storage: /products/arts-and-crafts-supplies-for-kids/70488969.txt
+- MÅLA paper, mixed colors/mixed sizes: /products/arts-and-crafts-supplies-for-kids/30193323.txt
+- MÅLA paintbrush, set of: /products/arts-and-crafts-supplies-for-kids/10193319.txt
+- MÅLA paint, mixed colors, 14 oz: /products/arts-and-crafts-supplies-for-kids/20477614.txt
+- MÅLA modeling dough, mixed colors: /products/arts-and-crafts-supplies-for-kids/60493669.txt
+- MÅLA fluorescent/glitter paint, mixed colors: /products/arts-and-crafts-supplies-for-kids/70266299.txt
+- MÅLA Felt-tip pen, mixed colors assorted colors: /products/arts-and-crafts-supplies-for-kids/10237752.txt
+- MÅLA felt-tip pen, mixed colors: /products/arts-and-crafts-supplies-for-kids/00477610.txt
+- MÅLA easel, softwood: /products/arts-and-crafts-supplies-for-kids/30488966.txt
+- MÅLA drawing paper roll: /products/arts-and-crafts-supplies-for-kids/70461088.txt
+- MÅLA colored pencil, mixed colors: /products/arts-and-crafts-supplies-for-kids/50477599.txt
+- MÅLA chalk, mixed colors: /products/arts-and-crafts-supplies-for-kids/40237755.txt
+- MÅLA apron with long sleeves, yellow: /products/arts-and-crafts-supplies-for-kids/30485350.txt
+- MÅLA 4-piece modelling dough toolset, multicolor: /products/arts-and-crafts-supplies-for-kids/20559407.txt
+- MÅLA 10-pc cardboard town template set: /products/arts-and-crafts-supplies-for-kids/30495354.txt
+- BLÅVINGAD modelling dough cutters, set of 5, aluminum color: /products/arts-and-crafts-supplies-for-kids/80526503.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

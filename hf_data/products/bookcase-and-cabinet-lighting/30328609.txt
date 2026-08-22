@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: RAMSTA LED mini lamp, battery operated white
+SKU: 30328609
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ramsta-led-mini-lamp-battery-operated-white-30328609/
+Category: Bookcase & cabinet lighting
+Description: The LED light source consumes up to 85% less energy and lasts 20 times longer than incandescent bulbs.
+
+# @OFFER
+Price: 6.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: ABS plastic, Shade: Acrylic
+Features: Batteries are sold separately; 3 pcs LR03 AAA size 1.5V batteries required. | Built-in LED light source. | Light color: warm white (2700 Kelvin).
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ramsta-led-mini-lamp-battery-operated-white__0504058_pe633082_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

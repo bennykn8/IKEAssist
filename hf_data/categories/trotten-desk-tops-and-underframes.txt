@@ -1,0 +1,35 @@
+# @CATEGORY
+Name: TROTTEN desk tops & underframes
+ProductCount: 13
+
+# @FILTERS
+PriceRange: $44.99 - $235.00
+Materials: Center support beam/ Leg/ Side rail/ Crank: Steel, Epoxy/polyester powder coating, Feet: Steel, Steel, Epoxy/polyester powder coating, Handle: Reinforced polyamide, Inside frame: Steel, Leg/ Midbeam/ Bracket/ Hook: Steel, Epoxy/polyester powder coating, Leg/ Midbeam/ Bracket: Steel, Epoxy/polyester powder coating, Main parts: Steel, Epoxy/polyester powder coating, Particleboard, Melamine foil, Plastic edging, Plastic parts: Polypropylene
+Brand: IKEA
+
+# @ITEMS
+- TROTTEN underframe sit/stand f table top, white: /products/trotten-desk-tops-and-underframes/40507342.txt
+- TROTTEN underframe sit/stand f table top, anthracite: /products/trotten-desk-tops-and-underframes/00510389.txt
+- TROTTEN underframe for table top, white: /products/trotten-desk-tops-and-underframes/70487187.txt
+- TROTTEN underframe for table top, white: /products/trotten-desk-tops-and-underframes/40474756.txt
+- TROTTEN underframe for table top, white: /products/trotten-desk-tops-and-underframes/30474752.txt
+- TROTTEN underframe for table top, anthracite: /products/trotten-desk-tops-and-underframes/90474848.txt
+- TROTTEN underframe for table top, anthracite: /products/trotten-desk-tops-and-underframes/40487184.txt
+- TROTTEN tabletop, white: /products/trotten-desk-tops-and-underframes/70474750.txt
+- TROTTEN tabletop, white: /products/trotten-desk-tops-and-underframes/50474751.txt
+- TROTTEN tabletop, white: /products/trotten-desk-tops-and-underframes/00474758.txt
+- TROTTEN tabletop, beige: /products/trotten-desk-tops-and-underframes/80474844.txt
+- TROTTEN tabletop, beige: /products/trotten-desk-tops-and-underframes/50474845.txt
+- TROTTEN tabletop, beige: /products/trotten-desk-tops-and-underframes/10474847.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

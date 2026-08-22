@@ -1,0 +1,24 @@
+# @CATEGORY
+Name: Picnic accessories
+ProductCount: 2
+
+# @FILTERS
+PriceRange: $9.99 - $9.99
+Materials: Elastic band: 61 % nylon, 28 %polyester, 11% elastane, Fabric: 100% polyester (min. 90% recycled), Leg frame: Steel, Polyester powder coating, Mesh: 100% polyester (min. 90% recycled), Tray/ Plate/ Mug/ Spoon/ Knife/ Fork: Polypropylene
+Brand: IKEA
+
+# @ITEMS
+- STRANDÖN folding stool, green: /products/picnic-accessories/30575845.txt
+- MARULK 21-pieces picnic set, mixed colors: /products/picnic-accessories/50594503.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

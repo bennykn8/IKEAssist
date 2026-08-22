@@ -1,0 +1,81 @@
+# @CATEGORY
+Name: Upholstered chairs
+ProductCount: 59
+
+# @FILTERS
+PriceRange: $25.00 - $280.00
+Materials: Armrest frame/ Backrest frame: Solid wood, 100% recycled solid cardboard, Adhesive, Back frame/ Side frame: Solid wood, 100% recycled solid cardboard, Polyurethane foam 1.5 lb/cu.ft., Polyester wadding, Back: Polyethylene, Polyurethane foam 1.5 lb/cu.ft., Back: Solid eucalyptus wood, Fiberboard, Polyurethane foam 1.4 lb/cu.ft., Polyester wadding, Backrest frame: Steel, Base fabric: 100 % polyester (100% recycled), Base/ Base plate/ Threaded column: Reinforced polyamide, Coated fabric parts: 100 % polyurethane, 75 % polyester, 25 % cotton, Comfort filling: Polyurethane foam 2.2 lb/cu.ft., Polyester wadding, Comfort material: Polyurethane foam 2.2 lb/cu.ft., Polyester wadding
+Brand: IKEA
+
+# @ITEMS
+- VEDBO Chair, black, Gunnared dark gray: /products/upholstered-chairs/40417983.txt
+- TOSSBERG chair, metal black/Gunnared dark gray: /products/upholstered-chairs/80582645.txt
+- TOSSBERG chair, metal black/Grann black: /products/upholstered-chairs/20584435.txt
+- TONSTAD chair, Fridtuna light beige/off-white: /products/upholstered-chairs/59599662.txt
+- TONSTAD chair, Fridtuna light beige/oak effect: /products/upholstered-chairs/39599658.txt
+- TONSTAD chair, Fridtuna light beige/brown oak effect: /products/upholstered-chairs/99599655.txt
+- STEFAN chair, brown-black/Knisa gray/beige: /products/upholstered-chairs/00512091.txt
+- SAKARIAS armchair, black/Sporda dark gray: /products/upholstered-chairs/89280790.txt
+- SAKARIAS armchair, black/Kvillsfors: /products/upholstered-chairs/99481712.txt
+- ÖSTANÖ chair, red-brown Remmarn/red-brown: /products/upholstered-chairs/90538647.txt
+- ÖSTANÖ chair, black Remmarn/dark gray: /products/upholstered-chairs/60545362.txt
+- MÅRENÄS chair with armrests, black/Gunnared red-brown: /products/upholstered-chairs/89515133.txt
+- MÅRENÄS chair with armrests, black/Gunnared dark gray: /products/upholstered-chairs/29516084.txt
+- MÅRENÄS chair with armrests, black/Gunnared beige: /products/upholstered-chairs/69515129.txt
+- MÅNHULT chair, black/Hakebo gray-green: /products/upholstered-chairs/10547052.txt
+- MÅNHULT chair, black/Hakebo deep red: /products/upholstered-chairs/30547051.txt
+- LUSTEBO chair, Viarp beige/brown: /products/upholstered-chairs/70541165.txt
+- LISABO chair, black/Tallmyra black/gray: /products/upholstered-chairs/90561039.txt
+- LISABO chair, ash/Tallmyra white/black: /products/upholstered-chairs/90561044.txt
+- LILLÅNÄS chair, chrome plated/Gunnared dark gray: /products/upholstered-chairs/10534771.txt
+- LILLÅNÄS chair, chrome plated/Gunnared beige: /products/upholstered-chairs/50534774.txt
+- LILLÅNÄS chair, chrome plated/Glose black: /products/upholstered-chairs/00534776.txt
+- LILLÅNÄS chair, chrome plated/Bomstad black: /products/upholstered-chairs/70534773.txt
+- KRYLBO chair, Tonerud dark beige: /products/upholstered-chairs/20566752.txt
+- KRYLBO chair, Tonerud blue: /products/upholstered-chairs/20566747.txt
+- KARLPETTER chair, Gunnared medium gray/Sefast white: /products/upholstered-chairs/69481426.txt
+- KARLPETTER chair, Gunnared medium gray/Sefast chrome plated: /products/upholstered-chairs/59481422.txt
+- KARLPETTER chair, Gunnared medium gray/Sefast black: /products/upholstered-chairs/59481417.txt
+- KARLPETTER chair, Gunnared light green/Sefast white: /products/upholstered-chairs/89481449.txt
+- KARLPETTER chair, Gunnared light green/Sefast chrome plated: /products/upholstered-chairs/89481430.txt
+- KARLPETTER chair, Gunnared light green/Sefast black: /products/upholstered-chairs/89481454.txt
+- KÄTTIL chair, white/Knisa light gray: /products/upholstered-chairs/70500344.txt
+- INGOLF chair, white/Hallarp beige: /products/upholstered-chairs/30473069.txt
+- INGOLF chair, brown-black/Nolhaga gray-beige: /products/upholstered-chairs/20492346.txt
+- HANSOLLE chair, black-brown: /products/upholstered-chairs/10449607.txt
+- GRÅSALA chair, gray: /products/upholstered-chairs/10515471.txt
+- EBBALYCKE chair, Idekulla beige: /products/upholstered-chairs/70568857.txt
+- DANDERYD chair, white/Vissle gray: /products/upholstered-chairs/70521134.txt
+- BERGMUND chair with long cover, white/Inseros white: /products/upholstered-chairs/49471715.txt
+- BERGMUND chair with long cover, oak effect/Inseros white: /products/upholstered-chairs/19477399.txt
+- BERGMUND chair with long cover, black/Inseros white: /products/upholstered-chairs/79471714.txt
+- BERGMUND chair, white/Orrsta light gray: /products/upholstered-chairs/59471710.txt
+- BERGMUND chair, white/Gunnared medium gray: /products/upholstered-chairs/69471700.txt
+- BERGMUND chair, white/Fågelfors multicolor: /products/upholstered-chairs/29471698.txt
+- BERGMUND chair w medium long cover, white/Ryrane dark blue: /products/upholstered-chairs/79471728.txt
+- BERGMUND chair w medium long cover, white/Inseros white: /products/upholstered-chairs/89471723.txt
+- BERGMUND chair w medium long cover, oak effect/Ryrane dark blue: /products/upholstered-chairs/99471727.txt
+- BERGMUND chair w medium long cover, oak effect/Inseros white: /products/upholstered-chairs/09471722.txt
+- BERGMUND chair w medium long cover, black/Ryrane dark blue: /products/upholstered-chairs/19471726.txt
+- BERGMUND chair w medium long cover, black/Inseros white: /products/upholstered-chairs/29471721.txt
+- BERGMUND chair, oak effect/Orrsta light gray: /products/upholstered-chairs/79471709.txt
+- BERGMUND chair, oak effect/Gunnared medium gray: /products/upholstered-chairs/49471701.txt
+- BERGMUND chair, oak effect/Fågelfors multicolor: /products/upholstered-chairs/49471697.txt
+- BERGMUND chair, black/Orrsta light gray: /products/upholstered-chairs/99471708.txt
+- BERGMUND chair, black/Gunnared medium gray: /products/upholstered-chairs/09471699.txt
+- BERGMUND chair, black/Fågelfors multicolor: /products/upholstered-chairs/69471696.txt
+- BALTSAR swivel chair, white: /products/upholstered-chairs/40532134.txt
+- BALTSAR swivel chair, black: /products/upholstered-chairs/20532130.txt
+- BALTSAR chair, white: /products/upholstered-chairs/60532147.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

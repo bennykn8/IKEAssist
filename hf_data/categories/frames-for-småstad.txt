@@ -1,0 +1,28 @@
+# @CATEGORY
+Name: Frames for SMÅSTAD
+ProductCount: 6
+
+# @FILTERS
+PriceRange: $35.00 - $649.00
+Materials: Back panel: Fiberboard, Paper foil, Paper foil, Back panel: Particleboard, Paper foil, Plastic edging, Back panel: Plastic foil, Fiberboard, Back side: Fiberboard, Particleboard, Honeycomb structure paper filling (100% recycled), ABS plastic, Acrylic paint, Bedside/ Ladder: Fiberboard, Particleboard, Plastic edging, Acrylic paint, Paper foil, Bottom panel: Fiberboard, Paper foil, Paper foil, Plastic edging, Head/footboard/ Guard rail/ Bottom panel/ Back panel/ Bottom: Fiberboard, Particleboard, Honeycomb structure paper filling (100% recycled), Plastic edging, Acrylic paint, Side panel/ Top panel/ Bottom panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Paper foil, Plastic edging, Side panel/ Top panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Paper foil, Plastic edging, Side panel: Particleboard, Fiberboard, Paper foil, Paper foil, Plastic edging
+Brand: IKEA
+
+# @ITEMS
+- UPPFÖRA frame, white: /products/frames-for-småstad/90576502.txt
+- UPPFÖRA frame, white: /products/frames-for-småstad/30576500.txt
+- UPPFÖRA frame, white: /products/frames-for-småstad/10576501.txt
+- SMÅSTAD wall storage, white: /products/frames-for-småstad/00433522.txt
+- SMÅSTAD loft bed frame, desk and storage, white, Twin: /products/frames-for-småstad/50454041.txt
+- SMÅSTAD bench, white: /products/frames-for-småstad/80433542.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

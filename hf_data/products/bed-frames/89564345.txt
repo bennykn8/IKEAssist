@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TÄRNKULLEN upholstered bed frame, Tibbleby beige/gray/Luröy, King
+SKU: 89564345
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/taernkullen-upholstered-bed-frame-tibbleby-beige-gray-luroey-s89564345/
+Category: Bed frames
+Description: This bed frame has a soft cover with a tight fit, snug look and carefully sewn details. The cover can be removed and machine washed – so that the bed stays fresh year after year The sturdy oak legs co...
+
+# @OFFER
+Price: 388
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Back fabric/ Lining: 100 % polyester (100% recycled), Fabric: 100% polyester (min. 90% recycled), Filling: 100% polyester (min. 70% recycled)
+Features: The back of the headboard is finished with a grey fabric. | LURÖY slatted bed base is included in the price, but is packaged separately. | Center support beam included.
+Care: Frame: Wipe clean using a damp cloth and a mild cleaner. | Frame: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/taernkullen-upholstered-bed-frame-tibbleby-beige-gray-luroey__1323491_pe942718_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

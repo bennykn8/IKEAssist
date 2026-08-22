@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TONSTAD bed frame, off-white/Luröy, Full
+SKU: 39577736
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tonstad-bed-frame-off-white-luroey-s39577736/
+Category: Bed frames
+Description: Classic design meets a graceful finish in the TONSTAD series in off-white, giving the furniture a solid sense of quality. This bed frame has a modern style with a timeless look – easy to love for year...
+
+# @OFFER
+Price: 369
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Bottom panel/ Panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Acrylic paint, Plastic edging, Side panel: Particleboard, Acrylic paint, Melamine foil, Plastic edging, Leg: Solid wood, Adhesive, Acrylic paint
+Features: Mattress and bedlinens are sold separately. | Center support beam included. | LURÖY slatted bed base is included in the price, but is packaged separately.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tonstad-bed-frame-off-white-luroey__1385649_pe963602_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

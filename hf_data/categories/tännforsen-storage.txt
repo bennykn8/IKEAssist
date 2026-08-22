@@ -1,0 +1,26 @@
+# @CATEGORY
+Name: TÄNNFORSEN storage
+ProductCount: 4
+
+# @FILTERS
+PriceRange: $149.00 - $339.00
+Materials: Door filling: Fiberboard, Plastic foil (min. 70% recycled), Melamine foil, Door frame: Fiberboard, Plastic foil (min. 70% recycled), Plastic edging, Plastic edging (min. 50% recycled), Fixed shelf/ Adjustable shelf: Particleboard, Plastic foil (min. 70% recycled), Plastic edging, Plastic edging (min. 50% recycled), Frame: Particleboard, Plastic foil (min. 70% recycled), Plastic edging, Plastic edging (min. 50% recycled), Side frame/ Door frame: Fiberboard, Plastic foil (min. 70% recycled), Plastic edging, Plastic edging (min. 50% recycled), Top panel/ Bottom panel: Particleboard, Plastic foil (min. 70% recycled), Plastic foil, Plastic edging, Plastic edging (min. 50% recycled)
+Brand: IKEA
+
+# @ITEMS
+- TÄNNFORSEN wall cabinet with door, white: /products/tännforsen-storage/40535420.txt
+- TÄNNFORSEN wall cabinet with door, light gray: /products/tännforsen-storage/80535423.txt
+- TÄNNFORSEN high cabinet with doors, white: /products/tännforsen-storage/10535426.txt
+- TÄNNFORSEN high cabinet with doors, light gray: /products/tännforsen-storage/50535429.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

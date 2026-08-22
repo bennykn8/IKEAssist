@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SMYCKA artificial flower, indoor/outdoor/Dahlia pink, 11 ¾"
+SKU: 60587173
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/smycka-artificial-flower-indoor-outdoor-dahlia-pink-60587173/
+Category: Artificial flower stems
+Description: Dahlias are just as beautiful as easy-care and bloom for a long time. Especially this one. Made from plastic, of which at least 50% is recycled – so it stays just as fresh each year, even on your terr...
+
+# @OFFER
+Price: 0.69
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Flower/ Leaf: 100 % polyester (100% recycled), Polyethylene plastic (min. 50% recycled), Stem: Polyethylene plastic (min. 50% recycled)
+Features: Suitable for indoor and outdoor use.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/smycka-artificial-flower-indoor-outdoor-dahlia-pink__1375835_pe960373_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

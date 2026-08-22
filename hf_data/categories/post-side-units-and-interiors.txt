@@ -1,0 +1,39 @@
+# @CATEGORY
+Name: Post, side units & interiors
+ProductCount: 17
+
+# @FILTERS
+PriceRange: $5.00 - $85.00
+Materials: Aluminium (min. 70% recycled), Epoxy/polyester powder coating, Bamboo, Bamboo, Honeycomb structure paper filling (min. 70% recycled), Clear acrylic lacquer, Clothes rail: Steel, Anti-corrosive phosphate coating, Epoxy/polyester powder coating, Main parts: Steel, Anti-corrosive phosphate coating, Epoxy/polyester powder coating, Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Acrylic paint, Plastic edging, Pin: Steel, Galvanized, Steel, Epoxy/polyester powder coating, Tube/ Tube cap/ Holder: Reinforced polyamide
+Brand: IKEA
+
+# @ITEMS
+- ELVARLI side unit, white: /products/post-side-units-and-interiors/80296168.txt
+- ELVARLI Side unit, white: /products/post-side-units-and-interiors/00317532.txt
+- ELVARLI Shoe shelf, white: /products/post-side-units-and-interiors/50317290.txt
+- ELVARLI Shoe shelf, white: /products/post-side-units-and-interiors/10317292.txt
+- ELVARLI Shelf, white: /products/post-side-units-and-interiors/60313282.txt
+- ELVARLI Shelf, white: /products/post-side-units-and-interiors/60296174.txt
+- ELVARLI Shelf, white: /products/post-side-units-and-interiors/20313284.txt
+- ELVARLI Shelf, white: /products/post-side-units-and-interiors/10296176.txt
+- ELVARLI shelf, bamboo: /products/post-side-units-and-interiors/80296291.txt
+- ELVARLI Shelf, bamboo: /products/post-side-units-and-interiors/20296289.txt
+- ELVARLI Post, white: /products/post-side-units-and-interiors/40296170.txt
+- ELVARLI Cross-brace, white: /products/post-side-units-and-interiors/60309572.txt
+- ELVARLI Cross-brace, white: /products/post-side-units-and-interiors/00309594.txt
+- ELVARLI Clothes rail, white: /products/post-side-units-and-interiors/40296212.txt
+- ELVARLI Clothes rail, white: /products/post-side-units-and-interiors/00296214.txt
+- ELVARLI Bracket for post, white: /products/post-side-units-and-interiors/00317527.txt
+- ELVARLI Bracket for post, white: /products/post-side-units-and-interiors/00296172.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MÖLLEKULLA Countertop, oak, veneer
+SKU: 00301135
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/moellekulla-countertop-oak-veneer-00301135/
+Category: Butcher block countertops
+Description: , 74x1 1/2". This wood countertop combines the best of solid wood and veneer. With efficient use of natural resources, it offers a unique pattern and a durable surface that can be sanded.
+
+# @OFFER
+Price: 199
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top/ Edge: Thick oak veneer, Oil-acrylic, Back side: Laminate, Main parts: Particleboard
+Features: Oak is an exceedingly strong and durable hardwood with a prominent grain. It darkens beautifully with age acquiring a golden-brown undertone. | Not suitable for use in damp rooms. | Please note that the actual colors of our products may vary slightly from the colors shown online.
+Care: The worktop surface is pre-treated at the factory with hard wax oil. Due to the nature of the material, treat the edges and cut-outs with STOCKARYD or TRIXIG wood treatment oil, prior to installation.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/moellekulla-countertop-oak-veneer__0738194_pe741404_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

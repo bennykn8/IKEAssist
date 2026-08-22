@@ -1,0 +1,24 @@
+# @CATEGORY
+Name: Sewing supplies & accessories
+ProductCount: 2
+
+# @FILTERS
+PriceRange: $3.00 - $14.99
+Materials: 100 % nylon, Box/ Lid/ Insert: Polypropylene plastic (min. 50% recycled), Needle: Steel, Nickel plated, Patch: 100 %polyester
+Brand: IKEA
+
+# @ITEMS
+- TRIXIG 39-piece mending kit: /products/sewing-supplies-and-accessories/30578250.txt
+- SY Iron-on hemming tape: /products/sewing-supplies-and-accessories/50078746.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

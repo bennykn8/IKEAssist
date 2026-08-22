@@ -1,0 +1,31 @@
+# @CATEGORY
+Name: Ceiling lamps
+ProductCount: 9
+
+# @FILTERS
+PriceRange: $9.99 - $89.99
+Materials: Base: Steel, Powder coating, Ceiling bracket/ Frame: Steel, Powder coating, Ceiling bracket: Steel, Ceiling cup: Polypropylene plastic (min. 50% recycled), Cover plate/ Tube/ Shade holder: Steel, Nickel plated, Decoration: Steel, Nickel plated, Acrylic coating, Paint, Diffuser: Acrylic, Diffuser: Polycarbonate plastic, Frame: Steel, Powder coating, Housing: Steel, Brush finish nickel-plated
+Brand: IKEA
+
+# @ITEMS
+- VIRRMO LED ceiling lamp, nickel plated, 14"800 Lumen: /products/ceiling-lamps/30455664.txt
+- SOLKLINT ceiling lamp, brass/gray clear glass: /products/ceiling-lamps/90472038.txt
+- NYMÅNE LED ceiling lamp, white: /products/ceiling-lamps/30359771.txt
+- NYMÅNE LED ceiling lamp, anthracite: /products/ceiling-lamps/30415098.txt
+- NÖSUND ceiling lamp, birch: /products/ceiling-lamps/50513738.txt
+- KRANBALK ceiling lamp, beige: /products/ceiling-lamps/10592515.txt
+- KATTARP Ceiling lamp, glass black: /products/ceiling-lamps/10466866.txt
+- HAMNFYR ceiling lamp, white: /products/ceiling-lamps/60592990.txt
+- DEJSA ceiling lamp with 3 lights, chrome plated/opal glass: /products/ceiling-lamps/90478035.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

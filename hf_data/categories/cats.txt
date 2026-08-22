@@ -1,0 +1,26 @@
+# @CATEGORY
+Name: Cats
+ProductCount: 4
+
+# @FILTERS
+PriceRange: $7.99 - $79.99
+Materials: Fabric: 100% polyester (min. 90% recycled), Feet: Polyamide, Filling: 100 % polyester - hollow fiber (100% recycled), Frame/ Leg: Steel, Powder coating, Hemming tape: 100 % cotton, Inner fabric: 100 % polypropylene, Insert: Paperboard (min. 30% recycled), Main part: 100% polyester (min. 90% recycled), Main parts: 50 % jute, 50 % sisal, Metal fitting: Steel
+Brand: IKEA
+
+# @ITEMS
+- UTSÅDD scratching mat, natural: /products/cats/50595946.txt
+- UTSÅDD play tunnel for cat, white/orange: /products/cats/20572121.txt
+- UTSÅDD cat house on legs, rattan: /products/cats/90570883.txt
+- UTSÅDD cat house, gray-blue: /products/cats/00572117.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

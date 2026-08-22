@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: ÄNGSFRÄKEN chair pad, green/white
+SKU: 40602829
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/aengsfraeken-chair-pad-green-white-40602829/
+Category: Chair pads & seat cushions
+Description: , 14" Add a layer of comfort and freshen up your seat with ÄNGSFRÄKEN checkered seat cushion. The round shape fits most chairs and benches, and the anti-slip surface on the underside keeps the pad in ...
+
+# @OFFER
+Price: 3.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top fabric/ Back fabric: 100 % polyester (100% recycled), Filling: Polyurethane foam 2.2 lb/cu.ft.
+Care: Machine wash warm, normal cycle. | To be washed separately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/aengsfraeken-chair-pad-green-white__1407197_pe971441_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

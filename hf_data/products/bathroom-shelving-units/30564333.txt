@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MOSSJÖN glass-door cabinet with 2 doors, anthracite
+SKU: 30564333
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/mossjoen-glass-door-cabinet-with-2-doors-anthracite-30564333/
+Category: Bathroom shelving units
+Description: , 235/8x133/8x571/2" Reeded glass doors where light can sprinkle in and open shelves for decorative boxes. Use the free-standing MOSSJÖN cabinet in a bathroom to create order with style while hiding a...
+
+# @OFFER
+Price: 169.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Panel/ Frame: Steel, Powder coating, Shelf: Tempered glass, Door frame/ Side frame: Aluminum, Powder coating
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home.
+Care: Frame: Wipe clean using a damp cloth and a mild cleaner. | Frame: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/mossjoen-glass-door-cabinet-with-2-doors-anthracite__1239710_pe919027_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

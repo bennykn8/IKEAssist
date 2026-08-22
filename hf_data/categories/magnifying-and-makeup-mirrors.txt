@@ -1,0 +1,26 @@
+# @CATEGORY
+Name: Magnifying & makeup mirrors
+ProductCount: 4
+
+# @FILTERS
+PriceRange: $9.99 - $34.99
+Materials: Bracket/ Extension rail/ Holder/ Frame: Stainless steel, Diffuser: Polycarbonate plastic, Holder/ Frame/ Foot: Stainless steel, Mirror glass: Glass, Mirror glass: Glass, Glass, Upper body/ Base: Polycarbonate plastic (min. 50% recycled)
+Brand: IKEA
+
+# @ITEMS
+- TRENSUM Mirror, stainless steel: /products/magnifying-and-makeup-mirrors/24524485.txt
+- FRÄCK Mirror, stainless steel: /products/magnifying-and-makeup-mirrors/38006200.txt
+- EKFÄNN table mirror w integrated lighting, dimmable/black: /products/magnifying-and-makeup-mirrors/40602711.txt
+- EKFÄNN mirror with built-in light, dimmable wall mounted/black: /products/magnifying-and-makeup-mirrors/10602703.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

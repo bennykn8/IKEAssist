@@ -1,0 +1,27 @@
+# @CATEGORY
+Name: Faux wall plants & panels
+ProductCount: 5
+
+# @FILTERS
+PriceRange: $5.99 - $7.99
+Materials: Frame: 100 % polyester (100% recycled), Polyethylene plastic (min. 50% recycled), Leaf: Polyethylene plastic (min. 50% recycled), EVA plastic, Plant: 100 % polyester (100% recycled), EVA plastic, Polyethylene plastic (min. 80% recycled), Plant: Polyethylene plastic (min. 50% recycled), Stem: Polyethylene plastic (min. 50% recycled), Vase: Polypropylene plastic (min. 50% recycled)
+Brand: IKEA
+
+# @ITEMS
+- FEJKA artificial plant with wall holder, indoor/outdoor/green/lilac: /products/faux-wall-plants-and-panels/30548625.txt
+- FEJKA artificial plant with wall holder, indoor/outdoor/green: /products/faux-wall-plants-and-panels/70548628.txt
+- FEJKA artificial plant, wall mounted indoor/outdoor/moss green, 10 ¼x10 ¼": /products/faux-wall-plants-and-panels/30559044.txt
+- FEJKA artificial plant, wall mounted/indoor/outdoor green/lilac, 10 ¼x10 ¼": /products/faux-wall-plants-and-panels/50546569.txt
+- FEJKA artificial plant, wall mounted/indoor/outdoor green, 10 ¼x10 ¼": /products/faux-wall-plants-and-panels/90546572.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

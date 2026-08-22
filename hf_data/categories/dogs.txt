@@ -1,0 +1,45 @@
+# @CATEGORY
+Name: Dogs
+ProductCount: 23
+
+# @FILTERS
+PriceRange: $1.99 - $129.00
+Materials: 100 % polyester (100% recycled), Base material/ Base fabric: 100 % polyester (100% recycled), Bed base frame/ Side frame/ Frame/ Roof: Steel, Polyester powder coating, Cushion cover/ Filling: 100 % polyester (100% recycled), Cushion cover: 100 % polyester (100% recycled), Fabric: 100 % polyester (100% recycled), Feet: Polyethylene, Filling: 100% polyester (min. 80% recycled), Filling: 100% polyester - hollow fiber, Filling: Polyurethane foam
+Brand: IKEA
+
+# @ITEMS
+- UTSÅDD soft toy for dog, yellow: /products/dogs/00572122.txt
+- UTSÅDD soft toy for dog, blue: /products/dogs/60572124.txt
+- UTSÅDD snuffle mat for dog, blue: /products/dogs/60572119.txt
+- UTSÅDD place mat for food bowl, gray-green: /products/dogs/00569214.txt
+- UTSÅDD pet cushion, blue, 19x29 ½": /products/dogs/20567742.txt
+- UTSÅDD pet cushion, blue: /products/dogs/20567737.txt
+- UTSÅDD pet cushion, blue, 25 ¼x40 ¼": /products/dogs/10567752.txt
+- UTSÅDD pet cushion, blue, 34 ¾x: /products/dogs/00567757.txt
+- UTSÅDD pet bowl, stripe pattern black-blue/gray-green, 7 ½": /products/dogs/30569203.txt
+- UTSÅDD pet bowl, stripe pattern black-blue/gray-blue, 4 ½": /products/dogs/10569204.txt
+- UTSÅDD pet bowl, stripe pattern black-blue/dark blue: /products/dogs/50569202.txt
+- UTSÅDD pet blanket, green, 39 ¼x: /products/dogs/20567799.txt
+- UTSÅDD pet bed, light gray, XL: /products/dogs/60573821.txt
+- UTSÅDD pet bed, light gray, M: /products/dogs/50570583.txt
+- UTSÅDD pet bed, light gray, S: /products/dogs/30570579.txt
+- UTSÅDD pet bed, light gray, L: /products/dogs/20570594.txt
+- UTSÅDD dog toy, gray-blue: /products/dogs/60569211.txt
+- UTSÅDD dog toy, food and treat hide/gray-green: /products/dogs/00569209.txt
+- UTSÅDD dog toy, dark blue: /products/dogs/20569213.txt
+- UTSÅDD dog bed, rattan, 31 ½x19 ¾x7 ¾": /products/dogs/70570884.txt
+- UTSÅDD dog bed, light gray, M: /products/dogs/20567775.txt
+- UTSÅDD dog bed, light gray, L: /products/dogs/10567785.txt
+- BOLMSÖ dog bed, outdoor dark gray: /products/dogs/90564641.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

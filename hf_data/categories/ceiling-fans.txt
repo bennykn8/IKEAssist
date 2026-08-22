@@ -1,0 +1,32 @@
+# @CATEGORY
+Name: Ceiling fans
+ProductCount: 10
+
+# @FILTERS
+PriceRange: $10.00 - $149.99
+Materials: Blade: Plywood, Paper foil, Bracket/ Wheel: Aluminum, Nickel plated, Ceiling cup/ Tube/ Cover/ Housing/ Bracket/ Shade: Steel, Powder coating, Ceiling cup/ Tube/ Housing/ Bracket: Steel, Powder coating, Cover/ Handle: ABS plastic, Hanger/ Ball joint/ Joint: Aluminum, Epoxy coating, Joint/ Hanger: Aluminum, Epoxy coating, Optical lens: Polycarbonate plastic, Shade holder/ Bracket/ Ceiling cup/ Housing/ Tube/ Cover/ Wheel/ Mounting plate: Steel, Powder coating, Shade: Acrylic
+Brand: IKEA
+
+# @ITEMS
+- BRUNALGER extension downrod for ceiling fan, white: /products/ceiling-fans/30605244.txt
+- BRUNALGER extension downrod for ceiling fan, silver color: /products/ceiling-fans/80605246.txt
+- BRUNALGER extension downrod for ceiling fan, gray: /products/ceiling-fans/60605247.txt
+- BRUNALGER extension downrod for ceiling fan, dark gray: /products/ceiling-fans/00605245.txt
+- BRUNALGER extension downrod for ceiling fan, beige: /products/ceiling-fans/40605248.txt
+- BACKLAG ceiling fan with light, white: /products/ceiling-fans/00595454.txt
+- AKTERTOFTER LED ceiling fan with light, dimmable/wood effect silver color: /products/ceiling-fans/80595450.txt
+- AKTERSTAGAD ceiling fan with light, wood effect gray: /products/ceiling-fans/60595451.txt
+- AKTERSTAGAD ceiling fan with light, wood effect beige: /products/ceiling-fans/50597262.txt
+- AKTERSKARP LED ceiling fan with light, dimmable/wood effect dark gray: /products/ceiling-fans/20595453.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

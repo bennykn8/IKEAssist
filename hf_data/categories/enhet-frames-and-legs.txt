@@ -1,0 +1,52 @@
+# @CATEGORY
+Name: ENHET frames & legs
+ProductCount: 30
+
+# @FILTERS
+PriceRange: $10.00 - $120.00
+Materials: Back panel: Fiberboard, Plastic foil, Bottom panel/ Back rail: Particleboard, Plastic foil, Drawer: Steel, Epoxy/polyester powder coating, Foot: Polypropylene plastic (min. 20% recycled), Insert nut: Steel, Epoxy/Acrylic coating, Rail/ Tubes: Steel, Powder coating, Rivet: Steel, Epoxy/Acrylic coating, Shelf: Galvanized steel, Powder coating, Side panel/ Bottom panel/ Back rail/ Shelf/ Filling: Particleboard, Plastic foil, Plastic edging, Side panel/ Bottom panel/ Top panel/ Shelf: Particleboard, Plastic foil, Plastic edging
+Brand: IKEA
+
+# @ITEMS
+- ENHET wall fr w shelves, white: /products/enhet-frames-and-legs/20515885.txt
+- ENHET wall fr w shelves, white: /products/enhet-frames-and-legs/10514457.txt
+- ENHET wall fr w shelves, anthracite: /products/enhet-frames-and-legs/70515883.txt
+- ENHET wall fr w shelves, anthracite: /products/enhet-frames-and-legs/30514456.txt
+- ENHET Wall cabinet with 2 shelves, white: /products/enhet-frames-and-legs/80515571.txt
+- ENHET Wall cabinet with 2 shelves, white: /products/enhet-frames-and-legs/40515573.txt
+- ENHET Wall cabinet with 2 shelves, gray: /products/enhet-frames-and-legs/60515572.txt
+- ENHET Wall cabinet with 2 shelves, gray: /products/enhet-frames-and-legs/00515570.txt
+- ENHET supporting side panel/leg, white: /products/enhet-frames-and-legs/70530242.txt
+- ENHET supporting side panel/leg, anthracite: /products/enhet-frames-and-legs/50530243.txt
+- ENHET legs f frame, white: /products/enhet-frames-and-legs/50515879.txt
+- ENHET legs f frame, anthracite: /products/enhet-frames-and-legs/60515874.txt
+- ENHET legs f cabinet, white: /products/enhet-frames-and-legs/20514428.txt
+- ENHET legs f cabinet, anthracite: /products/enhet-frames-and-legs/40514427.txt
+- ENHET high fr w shelves, white: /products/enhet-frames-and-legs/80515892.txt
+- ENHET high fr w shelves, anthracite: /products/enhet-frames-and-legs/00515891.txt
+- ENHET High cabinet with 4 shelves, white: /products/enhet-frames-and-legs/20515569.txt
+- ENHET High cabinet with 4 shelves, gray: /products/enhet-frames-and-legs/40515568.txt
+- ENHET Base cabinet for sink with 2 drawers, white: /products/enhet-frames-and-legs/70515307.txt
+- ENHET Base cabinet for sink with 2 drawers, white: /products/enhet-frames-and-legs/10515305.txt
+- ENHET Base cabinet for sink with 2 drawers, gray: /products/enhet-frames-and-legs/90515306.txt
+- ENHET Base cabinet for sink with 2 drawers, gray: /products/enhet-frames-and-legs/40515304.txt
+- ENHET base fr w shelves, white: /products/enhet-frames-and-legs/60515888.txt
+- ENHET base fr w shelves, anthracite: /products/enhet-frames-and-legs/80515887.txt
+- ENHET Base cabinet for sink with shelf, white: /products/enhet-frames-and-legs/90515575.txt
+- ENHET Base cabinet for sink with shelf, white: /products/enhet-frames-and-legs/60515567.txt
+- ENHET Base cabinet for sink with shelf, white: /products/enhet-frames-and-legs/30515564.txt
+- ENHET Base cabinet for sink with shelf, gray: /products/enhet-frames-and-legs/80515566.txt
+- ENHET Base cabinet for sink with shelf, gray: /products/enhet-frames-and-legs/20515574.txt
+- ENHET Base cabinet for sink with shelf, gray: /products/enhet-frames-and-legs/00515565.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

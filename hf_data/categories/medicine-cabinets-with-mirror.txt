@@ -1,0 +1,41 @@
+# @CATEGORY
+Name: Medicine cabinets with mirror
+ProductCount: 19
+
+# @FILTERS
+PriceRange: $19.99 - $399.00
+Materials: Adjustable shelf: Tempered glass, Cord anchorage: Polyamide, Cover/ Bottom/ Cover cap/ Cable organizer: ABS plastic, Door: Fiberboard, Plastic foil, Plastic foil, Plastic edging, Frame/ Shelf: Particleboard, Plastic foil, Plastic edging (min. 50% recycled), Plastic edging, Frame: Fiberboard, Plastic foil, Plastic edging, Frame: Steel, Powder coating, Hook bracket: Stainless steel, Magnet: Neodymium, Nickel plated, Main parts/ Door frame: polypropylene (min. 50% recycled)
+Brand: IKEA
+
+# @ITEMS
+- TREASJÖN mirror cabinet w/1 door & light: /products/medicine-cabinets-with-mirror/10576676.txt
+- STORJORM Mirror cabinet w/2 doors & light, white: /products/medicine-cabinets-with-mirror/60250067.txt
+- LETTAN mirror cabinet with doors, mirror effect/mirror glass: /products/medicine-cabinets-with-mirror/90535502.txt
+- LETTAN mirror cabinet with doors, mirror effect/mirror glass: /products/medicine-cabinets-with-mirror/80535499.txt
+- LETTAN mirror cabinet with doors, mirror effect/mirror glass: /products/medicine-cabinets-with-mirror/20535505.txt
+- IVÖSJÖN mirror cabinet with 1 door, green: /products/medicine-cabinets-with-mirror/10569096.txt
+- FAXÄLVEN mirror with built-in lighting: /products/medicine-cabinets-with-mirror/99516778.txt
+- FAXÄLVEN mirror with built-in lighting: /products/medicine-cabinets-with-mirror/59516775.txt
+- FAXÄLVEN mirror with built-in lighting: /products/medicine-cabinets-with-mirror/39516776.txt
+- FAXÄLVEN mirror with built-in lighting: /products/medicine-cabinets-with-mirror/19516777.txt
+- FAXÄLVEN mirror cabinet w built-in lighting, white: /products/medicine-cabinets-with-mirror/69516826.txt
+- FAXÄLVEN mirror cabinet w built-in lighting, white: /products/medicine-cabinets-with-mirror/49516827.txt
+- FAXÄLVEN mirror cabinet w built-in lighting, white: /products/medicine-cabinets-with-mirror/29516828.txt
+- FAXÄLVEN mirror cabinet w built-in lighting, oak effect: /products/medicine-cabinets-with-mirror/89516825.txt
+- FAXÄLVEN mirror cabinet w built-in lighting, oak effect: /products/medicine-cabinets-with-mirror/39516823.txt
+- FAXÄLVEN mirror cabinet w built-in lighting, oak effect: /products/medicine-cabinets-with-mirror/19516824.txt
+- FAXÄLVEN mirror cabinet w built-in lighting, brown oak effect: /products/medicine-cabinets-with-mirror/99516820.txt
+- FAXÄLVEN mirror cabinet w built-in lighting, brown oak effect: /products/medicine-cabinets-with-mirror/79516821.txt
+- FAXÄLVEN mirror cabinet w built-in lighting, brown oak effect: /products/medicine-cabinets-with-mirror/59516822.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BESTÅ storage combination with drawers, dark gray Lappviken/Sindvik/Stubbarp dark gray
+SKU: 69555832
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/besta-storage-combination-with-drawers-dark-gray-lappviken-sindvik-stubbarp-dark-gray-s69555832/
+Category: BESTÅ sideboards
+Description: , 707/8x161/2x291/8" Everything you need for storing and keeping things organized at home. This is one of many, many possible combinations. Choose a ready-made one already now or create your own with ...
+
+# @OFFER
+Price: 425
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Bottom panel/ Side panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Plastic edging, Back panel: Fiberboard, Paper foil, Plastic foil, Tempered glass
+Features: This combination is made of several separate units. Use BESTÅ top panel, sold separately, to cover the joint between the frames and create a uniform look. | Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | The push-open function requires a space between the frame and the drawer front to allow the drawer to be pushed to open. The small gap is necessary to allow this function and is not a product deviation.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/besta-storage-combination-with-drawers-dark-gray-lappviken-sindvik-stubbarp-dark-gray__1209717_pe909408_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

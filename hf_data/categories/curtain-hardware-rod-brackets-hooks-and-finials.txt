@@ -1,0 +1,52 @@
+# @CATEGORY
+Name: Curtain hardware: rod brackets, hooks & finials
+ProductCount: 30
+
+# @FILTERS
+PriceRange: $1.00 - $14.00
+Materials: Acetal plastic, Body: Glass, Tinted lacquer, Bush: Aluminum, Epoxy/polyester powder coating, Bush: Aluminum, Powder coating, Ceiling bracket: Steel, Epoxy/polyester powder coating, Cover cap: Polypropylene, Cover: Polypropylene, Hook/ Clip: Steel, Paint, Hook/ Mechanism/ Cover cap/ Sleeve/ Holder: Acetal plastic, Hook: Steel, Steel, Epoxy powder coating
+Brand: IKEA
+
+# @ITEMS
+- VIDGA wall bracket, white, 4 ¾": /products/curtain-hardware-rod-brackets-hooks-and-finials/70299148.txt
+- VIDGA wall bracket, white, 2 ¼": /products/curtain-hardware-rod-brackets-hooks-and-finials/10299151.txt
+- VIDGA glider with hook, white: /products/curtain-hardware-rod-brackets-hooks-and-finials/20483002.txt
+- VIDGA ceiling bracket for 2 curtain rails, white: /products/curtain-hardware-rod-brackets-hooks-and-finials/20586076.txt
+- UDDNATE finials, 1 pair, white: /products/curtain-hardware-rod-brackets-hooks-and-finials/20561269.txt
+- UDDNATE finials, 1 pair, black: /products/curtain-hardware-rod-brackets-hooks-and-finials/30564875.txt
+- SYRLIG curtain ring with clip and hook, white: /products/curtain-hardware-rod-brackets-hooks-and-finials/50217238.txt
+- SYRLIG curtain ring with clip and hook, white: /products/curtain-hardware-rod-brackets-hooks-and-finials/40224098.txt
+- SYRLIG curtain ring with clip and hook, nickel plated: /products/curtain-hardware-rod-brackets-hooks-and-finials/80489789.txt
+- SYRLIG curtain ring with clip and hook, nickel plated: /products/curtain-hardware-rod-brackets-hooks-and-finials/10305798.txt
+- SYRLIG curtain ring with clip and hook, brass color: /products/curtain-hardware-rod-brackets-hooks-and-finials/10495208.txt
+- SYRLIG curtain ring with clip and hook, black: /products/curtain-hardware-rod-brackets-hooks-and-finials/80224096.txt
+- SYRLIG curtain ring with clip and hook, black: /products/curtain-hardware-rod-brackets-hooks-and-finials/10217240.txt
+- STINKSYSKA finials, 1 pair, black: /products/curtain-hardware-rod-brackets-hooks-and-finials/20564871.txt
+- RIKTIG Draw rod, extendable: /products/curtain-hardware-rod-brackets-hooks-and-finials/30316296.txt
+- RIKTIG curtain hook, 20 pack: /products/curtain-hardware-rod-brackets-hooks-and-finials/40212203.txt
+- RAFFIG finials, 1 pair, white: /products/curtain-hardware-rod-brackets-hooks-and-finials/50217182.txt
+- RAFFIG finials, 1 pair, black: /products/curtain-hardware-rod-brackets-hooks-and-finials/20219936.txt
+- PALPMOSSMAL finials, 1 pair, white: /products/curtain-hardware-rod-brackets-hooks-and-finials/30549366.txt
+- PADDFOT finials, 1 pair, metal/white: /products/curtain-hardware-rod-brackets-hooks-and-finials/40561268.txt
+- PADDFOT finials, 1 pair, metal/black: /products/curtain-hardware-rod-brackets-hooks-and-finials/20561274.txt
+- KNÖLFLY tieback, white: /products/curtain-hardware-rod-brackets-hooks-and-finials/00317914.txt
+- KNÖLFLY tieback, black: /products/curtain-hardware-rod-brackets-hooks-and-finials/20317913.txt
+- INSEKTSMAL finials, 1 pair, white/glass: /products/curtain-hardware-rod-brackets-hooks-and-finials/10549367.txt
+- INSEKTSMAL finials, 1 pair, glass/black: /products/curtain-hardware-rod-brackets-hooks-and-finials/60561272.txt
+- BLÅST finials, 1 pair, black: /products/curtain-hardware-rod-brackets-hooks-and-finials/40217248.txt
+- BETYDLIG Wall/ceiling bracket, white: /products/curtain-hardware-rod-brackets-hooks-and-finials/30219889.txt
+- BETYDLIG Wall/ceiling bracket, black: /products/curtain-hardware-rod-brackets-hooks-and-finials/60217228.txt
+- BETYDLIG curtain rod holder, white: /products/curtain-hardware-rod-brackets-hooks-and-finials/60219897.txt
+- BETYDLIG curtain rod holder, black: /products/curtain-hardware-rod-brackets-hooks-and-finials/50219893.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,58 @@
+# @CATEGORY
+Name: Bath sheets
+ProductCount: 36
+
+# @FILTERS
+PriceRange: $9.99 - $23.99
+Materials: 100 % cotton, 80 % cotton, 20 % viscose/rayon
+Brand: IKEA
+
+# @ITEMS
+- VALLASÅN bath sheet, light green: /products/bath-sheets/30531333.txt
+- VALLASÅN bath sheet, light gray/brown: /products/bath-sheets/20502128.txt
+- VÅGSJÖN bath sheet, pink: /products/bath-sheets/60609194.txt
+- VÅGSJÖN bath sheet, orange-red: /products/bath-sheets/30609195.txt
+- VÅGSJÖN bath sheet, light green: /products/bath-sheets/10609196.txt
+- VÅGSJÖN bath sheet, light beige: /products/bath-sheets/50494612.txt
+- VÅGSJÖN bath sheet, bright pink: /products/bath-sheets/80571086.txt
+- VÅGSJÖN bath sheet, bright green: /products/bath-sheets/60571129.txt
+- VÅGSJÖN bath sheet, bright blue: /products/bath-sheets/20576256.txt
+- SVENSKFIBBLA bath sheet, yellow/green: /products/bath-sheets/60590463.txt
+- SVENSKFIBBLA bath sheet, light blue: /products/bath-sheets/00590456.txt
+- SLÅNHÖSTMAL bath sheet, orange/pink stripe: /products/bath-sheets/90577219.txt
+- SLÅNHÖSTMAL bath sheet, bright blue/light blue stripe: /products/bath-sheets/20576039.txt
+- SLÅNHÖSTMAL bath sheet, black/light beige stripe: /products/bath-sheets/30576029.txt
+- SALVIKEN bath sheet, white: /products/bath-sheets/10313227.txt
+- SALVIKEN bath sheet, natural: /products/bath-sheets/20512504.txt
+- SALVIKEN bath sheet, light green: /products/bath-sheets/20512542.txt
+- SALVIKEN bath sheet, anthracite: /products/bath-sheets/90349345.txt
+- GULYXNE beach towel, blue/floral pattern: /products/bath-sheets/40600646.txt
+- GULVIAL bath sheet, white: /products/bath-sheets/60579663.txt
+- GULVIAL bath sheet, turquoise: /products/bath-sheets/10579694.txt
+- GULVIAL bath sheet, red-brown: /products/bath-sheets/20579740.txt
+- GULVIAL bath sheet, pale pink: /products/bath-sheets/40579720.txt
+- GULVIAL bath sheet, pale gray-green: /products/bath-sheets/30579730.txt
+- GULVIAL bath sheet, dark gray-blue: /products/bath-sheets/70579709.txt
+- GULVIAL bath sheet, black: /products/bath-sheets/30579674.txt
+- GULVIAL bath sheet, beige: /products/bath-sheets/20579684.txt
+- FREDRIKSJÖN bath sheet, white: /products/bath-sheets/40496720.txt
+- FREDRIKSJÖN bath sheet, gray-turquoise: /products/bath-sheets/20572687.txt
+- FREDRIKSJÖN bath sheet, deep red: /products/bath-sheets/80552752.txt
+- FREDRIKSJÖN bath sheet, dark gray: /products/bath-sheets/90496708.txt
+- FREDRIKSJÖN bath sheet, dark blue: /products/bath-sheets/50496673.txt
+- FJÄLLSTARR bath sheet, white/gray: /products/bath-sheets/30571220.txt
+- FJÄLLSTARR bath sheet, dark gray: /products/bath-sheets/70580500.txt
+- DÅRREPE bath sheet, white: /products/bath-sheets/30570857.txt
+- DÅRREPE bath sheet, brown: /products/bath-sheets/20573031.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

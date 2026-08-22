@@ -1,0 +1,42 @@
+# @CATEGORY
+Name: Toilet brushes
+ProductCount: 20
+
+# @FILTERS
+PriceRange: $1.99 - $19.99
+Materials: Adapter: Stainless steel, Stainless steel, Back: Reinforced polyamide, Bar/ Holder: Stainless steel, Bar/ Shelf: Steel, Powder coating, Bin: Stainless steel, Stainless steel, Body: Polypropylene plastic (min. 50% recycled), Bolt: Stainless steel, Bottom/ Bristles: Polypropylene, Bracket: Zinc, Chrome plated, Bristle: Polypropylene
+Brand: IKEA
+
+# @ITEMS
+- TRONNAN replacement brush, white: /products/toilet-brushes/10457027.txt
+- TISKEN toilet roll holder with suction cup, white: /products/toilet-brushes/40381291.txt
+- STORAVAN toilet brush, white/black: /products/toilet-brushes/80423816.txt
+- SKOGSVIKEN toilet roll holder, black: /products/toilet-brushes/20423824.txt
+- KROKFJORDEN toilet roll stand, zinc plated: /products/toilet-brushes/60454026.txt
+- KALKGRUND Toilet roll holder, chrome plated: /products/toilet-brushes/00291476.txt
+- ENUDDEN Toilet brush, white: /products/toilet-brushes/30197260.txt
+- EKOLN toilet brush, light gray-turquoise: /products/toilet-brushes/10593727.txt
+- EKOLN toilet brush, dark gray: /products/toilet-brushes/80427310.txt
+- EKOLN toilet brush, beige: /products/toilet-brushes/90493007.txt
+- BROGRUND Toilet roll holder, stainless steel: /products/toilet-brushes/00328540.txt
+- BROGRUND Toilet brush, stainless steel: /products/toilet-brushes/40328538.txt
+- BROFJÄRDEN toilet roll holder, chrome effect: /products/toilet-brushes/70581552.txt
+- BROFJÄRDEN toilet brush, chrome effect: /products/toilet-brushes/10581550.txt
+- BOLMEN toilet brush/holder, white: /products/toilet-brushes/40574435.txt
+- BOLMEN toilet brush/holder, black: /products/toilet-brushes/90574433.txt
+- BAREN toilet brush, stainless steel: /products/toilet-brushes/94528885.txt
+- BALUNGEN Toilet roll holder, chrome plated: /products/toilet-brushes/30291502.txt
+- BALUNGEN toilet brush/holder, white: /products/toilet-brushes/20291499.txt
+- BÄSINGEN toilet roll holder, anthracite: /products/toilet-brushes/10595986.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

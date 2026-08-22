@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: FRIDANS black-out roller blind, white, 27x76 ¾"
+SKU: 70396941
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/fridans-black-out-roller-blind-white-70396941/
+Category: Blackout blinds & shades
+Description: The unique rod is like a wand that magically positions the blind exactly where you want it. The block-out coating prevents all light from coming in – so you can enjoy sleeping in late in the morning. ...
+
+# @OFFER
+Price: 34.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100 % polyester (100% recycled), Fabric treatment: Polyethylene, Wallbracket: Acetal plastic
+Dimensions: To ensure proper function when cutting the blind to fit a smaller window, do not exceed the max. cut length stated in the product information/assembly instructions. Save documents for future reference.
+Features: 2 brackets for wall or ceiling mounting included. | Screws and any other fasteners you might need to attach your solution securely to the wall (e.g. wall anchors) are not included. | Different wall/ceiling materials require different types of fasteners. Use fasteners suitable for the wall/ceiling in your home (not included).
+Care: Do not wash. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/fridans-black-out-roller-blind-white__0588039_pe672903_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

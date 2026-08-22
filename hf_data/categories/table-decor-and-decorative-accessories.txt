@@ -1,0 +1,47 @@
+# @CATEGORY
+Name: Table decor & decorative accessories
+ProductCount: 25
+
+# @FILTERS
+PriceRange: $3.99 - $29.99
+Materials: Bag: 100 %polyester, Base: Solid wood, Clear lacquer, Base: Stainless steel, Steel, Polypropylene, Metallized, Epoxy/polyester powder coating, Base: Steel, Body: Polyethylene, Acrylic paint, Body: Solid pine, Body: Solid pine, Tinted clear acrylic lacquer, Fitting: ABS plastic, Galvanized steel, Paint, Glass
+Brand: IKEA
+
+# @ITEMS
+- TJÄRLEK hanging ornaments, set of 6, multicolor: /products/table-decor-and-decorative-accessories/50588050.txt
+- TILLSYN decorative hourglass, clear glass/white, 6 ¼": /products/table-decor-and-decorative-accessories/10497839.txt
+- SJÄLSLIGT decoration, set of 3, green: /products/table-decor-and-decorative-accessories/00343282.txt
+- MÄVINN wall decoration, set of 2, banana fiber handmade: /products/table-decor-and-decorative-accessories/00600993.txt
+- LINDRANDE decoration, globe black, 13 ¾": /products/table-decor-and-decorative-accessories/90431137.txt
+- KUSTFYR hanging decoration, spider black, 13 ¾": /products/table-decor-and-decorative-accessories/10599710.txt
+- KUSTFYR hanging decoration, ghost white: /products/table-decor-and-decorative-accessories/50599708.txt
+- KUSTFYR decoration, cat dark gray, 4 ¾": /products/table-decor-and-decorative-accessories/50599614.txt
+- KALKKÄRR decoration, set of 3, bamboo/pine: /products/table-decor-and-decorative-accessories/50591076.txt
+- KÄNGSLEBODA wall decoration, white, 12 ½x: /products/table-decor-and-decorative-accessories/10508116.txt
+- HÖSTAGILLE decorative bowl with lid, yellow-brown, 7 ½": /products/table-decor-and-decorative-accessories/20600317.txt
+- HÖSTAGILLE decoration pumpkin, set of 5, mixed colors: /products/table-decor-and-decorative-accessories/20600355.txt
+- HÖSTAGILLE decoration pumpkin, set of 5, mixed colors: /products/table-decor-and-decorative-accessories/20582276.txt
+- HÖSTAGILLE decoration pumpkin, set of 2, paper mixed colors: /products/table-decor-and-decorative-accessories/90600366.txt
+- HÖSTAGILLE decoration, moose, pine/black: /products/table-decor-and-decorative-accessories/60600297.txt
+- HÖSTAGILLE decoration, moose, orange/beige-yellow: /products/table-decor-and-decorative-accessories/90600309.txt
+- HANDSKALAD decoration, hand, natural: /products/table-decor-and-decorative-accessories/90424146.txt
+- GESTALTA artist's figure, natural: /products/table-decor-and-decorative-accessories/40255462.txt
+- FRÖJDA hanging decoration, chrome effect, 11 ¾": /products/table-decor-and-decorative-accessories/10581404.txt
+- FRÖJDA garland, white, 3 ¼ yard: /products/table-decor-and-decorative-accessories/90581400.txt
+- FÄLTLÖNN decorative house, set of 3, solid wood/multicolor: /products/table-decor-and-decorative-accessories/30537655.txt
+- EFTERTÄNKA decorative hourglass, clear glass/sand: /products/table-decor-and-decorative-accessories/00495483.txt
+- DVÄRGTALL decorative figure, set of 3, solid wood/black: /products/table-decor-and-decorative-accessories/50537664.txt
+- BEGÅVNING glass dome with base: /products/table-decor-and-decorative-accessories/70343938.txt
+- BEGÅVNING glass dome with base: /products/table-decor-and-decorative-accessories/50343939.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

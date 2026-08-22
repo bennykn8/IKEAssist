@@ -1,0 +1,90 @@
+# @CATEGORY
+Name: Wall Storage
+ProductCount: 68
+
+# @FILTERS
+PriceRange: $2.00 - $59.99
+Materials: 100 % polyester, Container: PET plastic, Cord: Synthetic rubber, Hook: Acetal plastic, Main parts: Fiberboard, Acrylic paint, Main parts: Fiberboard, Clear acrylic lacquer, Main parts: Steel, Epoxy/polyester powder coating, Main parts: Steel, Galvanized, Powder coating, Main parts: Steel, Powder coating, Metal parts: Steel, Powder coating
+Brand: IKEA
+
+# @ITEMS
+- SKÅDIS storage basket, set of 3, white: /products/wall-storage/50517760.txt
+- SKÅDIS storage basket, set of 3, green: /products/wall-storage/40597470.txt
+- SKÅDIS storage basket, set of 3, black: /products/wall-storage/40569943.txt
+- SKÅDIS storage basket, gray: /products/wall-storage/10599499.txt
+- SKÅDIS shelf, white: /products/wall-storage/00320799.txt
+- SKÅDIS shelf, pink: /products/wall-storage/30606031.txt
+- SKÅDIS shelf, black: /products/wall-storage/80569941.txt
+- SKÅDIS pegboard, wood: /products/wall-storage/90347172.txt
+- SKÅDIS pegboard, wood, 14 ¼x: /products/wall-storage/70347173.txt
+- SKÅDIS Pegboard, wood, Width: 30" Height:: /products/wall-storage/10347171.txt
+- SKÅDIS Pegboard, white, Width: 14 ¼" Height:: /products/wall-storage/50320805.txt
+- SKÅDIS Pegboard, white: /products/wall-storage/10321618.txt
+- SKÅDIS Pegboard, white, Width: 22" Height:: /products/wall-storage/00320803.txt
+- SKÅDIS pegboard combination, wood: /products/wall-storage/09217062.txt
+- SKÅDIS pegboard combination, white, 14 ¼x: /products/wall-storage/99546501.txt
+- SKÅDIS pegboard combination, white: /products/wall-storage/89515977.txt
+- SKÅDIS pegboard combination, white, 14 ¼x: /products/wall-storage/79561804.txt
+- SKÅDIS pegboard combination, white: /products/wall-storage/79546521.txt
+- SKÅDIS pegboard combination, white, 14 ¼x: /products/wall-storage/79515973.txt
+- SKÅDIS pegboard combination, white: /products/wall-storage/49515941.txt
+- SKÅDIS pegboard combination, white: /products/wall-storage/49217381.txt
+- SKÅDIS pegboard combination, white: /products/wall-storage/49216697.txt
+- SKÅDIS pegboard combination, white, 14 ¼x: /products/wall-storage/39216589.txt
+- SKÅDIS pegboard combination, white, 14 ¼x: /products/wall-storage/29303898.txt
+- SKÅDIS pegboard combination, white, 14 ¼x: /products/wall-storage/19590135.txt
+- SKÅDIS pegboard combination, white, 22x14 ½": /products/wall-storage/19564481.txt
+- SKÅDIS pegboard combination, white, 14 ¼x: /products/wall-storage/09590131.txt
+- SKÅDIS pegboard combination, white: /products/wall-storage/09284669.txt
+- SKÅDIS pegboard combination, white, 14 ¼x: /products/wall-storage/09217123.txt
+- SKÅDIS pegboard combination, white: /products/wall-storage/09216595.txt
+- SKÅDIS pegboard combination: /products/wall-storage/89406365.txt
+- SKÅDIS pegboard combination: /products/wall-storage/29406368.txt
+- SKÅDIS pegboard combination, black, 14 ¼x: /products/wall-storage/69590133.txt
+- SKÅDIS pegboard combination, black, 14 ¼x: /products/wall-storage/69546499.txt
+- SKÅDIS pegboard combination, black: /products/wall-storage/59515945.txt
+- SKÅDIS pegboard combination, black: /products/wall-storage/29515980.txt
+- SKÅDIS pegboard combination, black, 14 ¼x: /products/wall-storage/29515975.txt
+- SKÅDIS pegboard combination, black: /products/wall-storage/19546519.txt
+- SKÅDIS pegboard, black, 14 ¼x: /products/wall-storage/80534372.txt
+- SKÅDIS pegboard, black: /products/wall-storage/50534378.txt
+- SKÅDIS pegboard, black: /products/wall-storage/10534375.txt
+- SKÅDIS magazine holder, black: /products/wall-storage/20569939.txt
+- SKÅDIS hook, white: /products/wall-storage/50335618.txt
+- SKÅDIS hook, white, ¾": /products/wall-storage/20519888.txt
+- SKÅDIS hook, white: /products/wall-storage/20320802.txt
+- SKÅDIS hook rack, white: /products/wall-storage/40519887.txt
+- SKÅDIS hook rack, black: /products/wall-storage/00569935.txt
+- SKÅDIS hook, orange: /products/wall-storage/20606135.txt
+- SKÅDIS hook, black: /products/wall-storage/60569937.txt
+- SKÅDIS hook, black: /products/wall-storage/50569933.txt
+- SKÅDIS free-standing peg board, white, 22x14 ½": /products/wall-storage/00541574.txt
+- SKÅDIS elastic cord, gray: /products/wall-storage/40321631.txt
+- SKÅDIS elastic cord, black: /products/wall-storage/50569928.txt
+- SKÅDIS display shelf, white: /products/wall-storage/20591841.txt
+- SKÅDIS display shelf, black: /products/wall-storage/60603427.txt
+- SKÅDIS container with lid, white: /products/wall-storage/80335909.txt
+- SKÅDIS container with lid, transparent/black: /products/wall-storage/90569926.txt
+- SKÅDIS container, white: /products/wall-storage/20320798.txt
+- SKÅDIS container, blue: /products/wall-storage/80606024.txt
+- SKÅDIS container, black: /products/wall-storage/40569924.txt
+- SKÅDIS Connector, white: /products/wall-storage/10320789.txt
+- SKÅDIS connector for wardrobe, white: /products/wall-storage/10477643.txt
+- SKÅDIS connector for SKÅDIS pegboards, white: /products/wall-storage/40477646.txt
+- SKÅDIS clip, white: /products/wall-storage/00321614.txt
+- SKÅDIS clip, green: /products/wall-storage/20606022.txt
+- SKÅDIS clip, black: /products/wall-storage/80569922.txt
+- SKÅDIS 7-piece accessories set, white: /products/wall-storage/20586420.txt
+- SKÅDIS 7-piece accessories set, black: /products/wall-storage/60586418.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

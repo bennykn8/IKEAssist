@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BESTÅ wall-mounted cabinet combination, black-brown/Kallviken concrete effect
+SKU: 79412456
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/besta-wall-mounted-cabinet-combination-black-brown-kallviken-concrete-effect-s79412456/
+Category: Cabinets, hutches & cupboards
+Description: , 707/8x161/2x251/4" You can easily mount this cabinet combination on the wall by using the included wall rails. It’s a solution that feels airy and frees up floor space at home – while also offering ...
+
+# @OFFER
+Price: 465
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Fiberboard, Paper foil, Plastic edging, Plastic edging, Plastic edging, Paper foil, Top panel/ Bottom panel/ Side panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Plastic edging, Back panel: Fiberboard, Paper foil, Plastic foil
+Features: This combination is made of several separate units. Use BESTÅ top panel, sold separately, to cover the joint between the frames and create a uniform look. | If you choose the soft closing function for your BESTÅ, we recommend complementing the fronts with knobs/handles to make the drawers/cabinets more convenient to open. | BESTÅ suspension rails for wall mounting are included.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/besta-wall-mounted-cabinet-combination-black-brown-kallviken-concrete-effect__0719260_pe731964_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

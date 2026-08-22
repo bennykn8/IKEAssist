@@ -1,0 +1,52 @@
+# @CATEGORY
+Name: TROFAST boxes & lids
+ProductCount: 30
+
+# @FILTERS
+PriceRange: $1.50 - $12.00
+Materials: Polypropylene, Polypropylene, Steel, Epoxy/polyester powder coating, polypropylene (min. 50% recycled)
+Brand: IKEA
+
+# @ITEMS
+- TROFAST storage tray with compartments, white, 16 ½x11 ¾x: /products/trofast-boxes-and-lids/70581788.txt
+- TROFAST storage tray with compartments, turquoise, 16 ½x11 ¾x: /products/trofast-boxes-and-lids/40520008.txt
+- TROFAST storage tray with compartments, red, 16 ½x11 ¾x: /products/trofast-boxes-and-lids/30582105.txt
+- TROFAST storage box, white, 16 ½x11 ¾x: /products/trofast-boxes-and-lids/80089239.txt
+- TROFAST storage box, white, 7 ¾x11 ¾x: /products/trofast-boxes-and-lids/70091412.txt
+- TROFAST storage box, white, 16 ½x11 ¾x: /products/trofast-boxes-and-lids/50582072.txt
+- TROFAST storage box, white, 16 ½x11 ¾x: /products/trofast-boxes-and-lids/40582100.txt
+- TROFAST storage box, white, 16 ½x11 ¾x14 ¼": /products/trofast-boxes-and-lids/30582087.txt
+- TROFAST storage box, white, 16 ½x11 ¾x14 ¼": /products/trofast-boxes-and-lids/20089242.txt
+- TROFAST storage box, white, 7 ¾x11 ¾x37/: /products/trofast-boxes-and-lids/10582093.txt
+- TROFAST storage box, red, 16 ½x11 ¾x: /products/trofast-boxes-and-lids/70582085.txt
+- TROFAST storage box, orange, 16 ½x11 ¾x: /products/trofast-boxes-and-lids/30466281.txt
+- TROFAST storage box, lilac, 16 ½x11 ¾x: /products/trofast-boxes-and-lids/00582098.txt
+- TROFAST storage box, light orange, 16 ½x11 ¾x: /products/trofast-boxes-and-lids/20582083.txt
+- TROFAST storage box, light green, 16 ½x11 ¾x: /products/trofast-boxes-and-lids/90582089.txt
+- TROFAST storage box, light blue, 16 ½x11 ¾x: /products/trofast-boxes-and-lids/50582091.txt
+- TROFAST storage box, gray, 16 ½x11 ¾x: /products/trofast-boxes-and-lids/30589531.txt
+- TROFAST storage box, bright green, 16 ½x11 ¾x: /products/trofast-boxes-and-lids/40582096.txt
+- TROFAST mesh storage box, light red: /products/trofast-boxes-and-lids/90518456.txt
+- TROFAST mesh storage box, light red: /products/trofast-boxes-and-lids/00530085.txt
+- TROFAST mesh storage box, light green-gray: /products/trofast-boxes-and-lids/90530081.txt
+- TROFAST mesh storage box, light green-gray: /products/trofast-boxes-and-lids/90518574.txt
+- TROFAST mesh storage box, gray-blue: /products/trofast-boxes-and-lids/60530068.txt
+- TROFAST mesh storage box, gray-blue: /products/trofast-boxes-and-lids/60518575.txt
+- TROFAST mesh storage box, gray-blue: /products/trofast-boxes-and-lids/40530074.txt
+- TROFAST mesh storage box, dark gray: /products/trofast-boxes-and-lids/70518565.txt
+- TROFAST mesh storage box, dark gray: /products/trofast-boxes-and-lids/60518453.txt
+- TROFAST mesh storage box, dark gray: /products/trofast-boxes-and-lids/10518568.txt
+- TROFAST lid, white, 7 ¾x: /products/trofast-boxes-and-lids/30582068.txt
+- TROFAST lid, white, 15 ¾x: /products/trofast-boxes-and-lids/00582079.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

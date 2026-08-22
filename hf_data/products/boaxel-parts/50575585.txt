@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: BOAXEL adjustable clothes rail, anthracite
+SKU: 50575585
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/boaxel-adjustable-clothes-rail-anthracite-50575585/
+Category: BOAXEL parts
+Description: , 77/8-113/4" Organize and take care of your clothes by using this adjustable clothes rail. You can combine with other items in BOAXEL wall-mounted storage system to utilize your wall space in the bes...
+
+# @OFFER
+Price: 4
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Tube/ Bracket: Steel, Epoxy/polyester powder coating, Bushing/ End cap: Polypropylene
+Dimensions: The mounting rail can be cut to an exact width if needed. Only applicable when using more than one mounting rail or for the adjustable clothes rail and shelf.
+Features: The shelf can be adjusted between 8-12". | BOAXEL clothes rail, 8-12", holds approx. 6-10 hangers. | The recommended maximum weight applies when the weight load is evenly distributed across the surface.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/boaxel-adjustable-clothes-rail-anthracite__1259642_pe926742_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

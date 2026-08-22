@@ -1,0 +1,34 @@
+# @CATEGORY
+Name: Kitchen trash cans & bins
+ProductCount: 12
+
+# @FILTERS
+PriceRange: $3.99 - $130.00
+Materials: Body/ Slide: Acetal plastic, Bucket/ Lid/ Hinge/ Ring: Polypropylene plastic (min. 50% recycled), Corner fitting: Reinforced polypropylene plastic (min. 20% recycled), Cover: Steel, Brush finish nickel-plated, Handle: Reinforced polyamide plastic (min. 20% recycled), Hook: Steel, Brush finish nickel-plated, Main parts: Polyamide, Polypropylene, Polypropylene plastic (min. 50% recycled), Runners: Steel
+Brand: IKEA
+
+# @ITEMS
+- VARIERA trash can, white, 3 gallon: /products/kitchen-trash-cans-and-bins/80182237.txt
+- VARIERA plastic bag dispenser, white: /products/kitchen-trash-cans-and-bins/80010222.txt
+- UTRUSTA Push opener, electrical: /products/kitchen-trash-cans-and-bins/30238703.txt
+- UTRUSTA push opener: /products/kitchen-trash-cans-and-bins/80230224.txt
+- SKOLÄST trash can for cabinet with door, light gray: /products/kitchen-trash-cans-and-bins/40561013.txt
+- HÅLLBAR recycling solution, with pull-out/light gray, 5 gallon: /products/kitchen-trash-cans-and-bins/79308803.txt
+- HÅLLBAR recycling solution, with pull-out/light gray, 6 gallon: /products/kitchen-trash-cans-and-bins/09308825.txt
+- HÅLLBAR Pull-out frame for recycling, light gray: /products/kitchen-trash-cans-and-bins/20422853.txt
+- HÅLLBAR bin with lid, light gray, 101 oz: /products/kitchen-trash-cans-and-bins/90432194.txt
+- HÅLLBAR bin with lid, light gray, 3 gallon: /products/kitchen-trash-cans-and-bins/80398058.txt
+- HÅLLBAR Bin with lid, light gray, Lower outer measure depth: 11 7/: /products/kitchen-trash-cans-and-bins/50420206.txt
+- HÅLLBAR Bin with lid, light gray, Lower outer measure depth: 12 5/: /products/kitchen-trash-cans-and-bins/20420203.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

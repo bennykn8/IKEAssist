@@ -1,0 +1,41 @@
+# @CATEGORY
+Name: Lamp bases & cords
+ProductCount: 19
+
+# @FILTERS
+PriceRange: $10.00 - $105.00
+Materials: Acetal plastic, Base/ Spacer/ Tube/ Lampholder cup/ Bracket/ Shade ring/ Chain: Steel, Brush finish nickel-plated, Base: ABS plastic (min. 50% recycled), Base: Marble, Base: Polypropylene, Ceiling cord set: PVC, Ceiling cup: 100 % polypropylene, Ceiling cup: Polypropylene, Cover/ Tube/ Lampholder cup/ Shade ring: Steel, Acrylic coating, Cover/ Tube/ Shade ring/ Lampholder cup: Steel, Epoxy/polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- SUNNEBY cord set, white textile: /products/lamp-bases-and-cords/80420262.txt
+- SUNNEBY cord set, black textile: /products/lamp-bases-and-cords/90420209.txt
+- STRÅLA Table lamp base with LED bulb, white: /products/lamp-bases-and-cords/40335459.txt
+- STRÅLA table lamp base, white: /products/lamp-bases-and-cords/60333195.txt
+- STRÅLA Cord set with LED bulb, white: /products/lamp-bases-and-cords/50371512.txt
+- STRÅLA cord set, white: /products/lamp-bases-and-cords/90371505.txt
+- SKAFTET triple cord set with ceiling mount, rectangle brass: /products/lamp-bases-and-cords/30493500.txt
+- SKAFTET floor lamp base, nickel plated: /products/lamp-bases-and-cords/40405536.txt
+- SKAFTET floor lamp base, arched, black: /products/lamp-bases-and-cords/70405530.txt
+- MARKFROST Table lamp, marble black: /products/lamp-bases-and-cords/00462675.txt
+- KRYSSMAST table lamp base, nickel plated: /products/lamp-bases-and-cords/80405643.txt
+- JÄLLBY cord set, textile nickel plated: /products/lamp-bases-and-cords/00466367.txt
+- JÄLLBY cord set, textile brass plated: /products/lamp-bases-and-cords/60466369.txt
+- HEMMA Cord set, white: /products/lamp-bases-and-cords/50386580.txt
+- HEMMA cord set, black: /products/lamp-bases-and-cords/90386597.txt
+- HAVSRIS cord set with switch, white: /products/lamp-bases-and-cords/80490052.txt
+- HAVSRIS cord set with switch, black: /products/lamp-bases-and-cords/60490053.txt
+- GRÅVACKA cord set for bulb, dark blue: /products/lamp-bases-and-cords/60504941.txt
+- GRÅVACKA cord set for bulb, beige: /products/lamp-bases-and-cords/50504932.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

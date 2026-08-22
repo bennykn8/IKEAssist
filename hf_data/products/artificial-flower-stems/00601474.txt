@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SMYCKA artificial flower, indoor/outdoor scabiosa, 11 ¾"
+SKU: 00601474
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/smycka-artificial-flower-indoor-outdoor-scabiosa-00601474/
+Category: Artificial flower stems
+Description: Add color and greenery to everyday life! The plastic is made with a minimum of 50% recycled plastic and the artificial flowers blooms every day in your home – from holiday dinners to Monday breakfasts...
+
+# @OFFER
+Price: 1.49
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Flower: 100 % polyester (100% recycled), Polyethylene plastic (min. 50% recycled), Stem: Polyethylene plastic (min. 50% recycled)
+Features: Suitable for indoor and outdoor use.
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/smycka-artificial-flower-indoor-outdoor-scabiosa__1288968_pe934351_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

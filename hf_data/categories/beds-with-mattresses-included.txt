@@ -1,0 +1,115 @@
+# @CATEGORY
+Name: Beds with mattresses included
+ProductCount: 93
+
+# @FILTERS
+PriceRange: $368.00 - $1548.00
+Materials: Back fabric: 100 % polyester (100% recycled), Base fabric/ Supporting fabric: 100% polyester (min. 90% recycled), Bed base slats: Solid pine, Bed slats: Layer-glued wood veneer, Adhesive resin as coating, Bedside: Particleboard, Fiberboard, Ash veneer, Paper, Stain, Clear acrylic lacquer, Printed and embossed acrylic paint, Plastic edging, Bedside: Particleboard, Fiberboard, Oak veneer, Clear acrylic lacquer, Printed and embossed acrylic paint, Paper, Plastic edging, Bedside: Particleboard, Fiberboard, Printed and embossed acrylic paint, Paper, Plastic edging, Board on frame: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Plastic edging, Acrylic paint, Center support beam: Galvanized steel, Drawer bottom: Fiberboard, Paper foil
+Brand: IKEA
+
+# @ITEMS
+- TÄLLÅSEN upholstered bed frame with mattress, Kulsta light beige/Vesteröy medium firm, Full: /products/beds-with-mattresses-included/39537533.txt
+- TÄLLÅSEN upholstered bed frame with mattress, Kulsta light beige/Vesteröy medium firm, Queen: /products/beds-with-mattresses-included/19537505.txt
+- TÄLLÅSEN upholstered bed frame with mattress, Kulsta light beige/Vesteröy medium firm, King: /products/beds-with-mattresses-included/09537539.txt
+- TÄLLÅSEN upholstered bed frame with mattress, Kulsta light beige/Valevåg medium firm, Full: /products/beds-with-mattresses-included/79537531.txt
+- TÄLLÅSEN upholstered bed frame with mattress, Kulsta light beige/Valevåg medium firm, Queen: /products/beds-with-mattresses-included/69537503.txt
+- TÄLLÅSEN upholstered bed frame with mattress, Kulsta light beige/Valevåg medium firm, King: /products/beds-with-mattresses-included/49537537.txt
+- TÄLLÅSEN upholstered bed frame with mattress, Kulsta light beige/Valevåg firm, King: /products/beds-with-mattresses-included/89537535.txt
+- TÄLLÅSEN upholstered bed frame with mattress, Kulsta light beige/Valevåg firm, Full: /products/beds-with-mattresses-included/19537529.txt
+- TÄLLÅSEN upholstered bed frame with mattress, Kulsta light beige/Valevåg firm, Queen: /products/beds-with-mattresses-included/09537501.txt
+- TÄLLÅSEN upholstered bed frame with mattress, Kulsta gray-green/Vesteröy medium firm, Full: /products/beds-with-mattresses-included/99537139.txt
+- TÄLLÅSEN upholstered bed frame with mattress, Kulsta gray-green/Vesteröy medium firm, Queen: /products/beds-with-mattresses-included/49537429.txt
+- TÄLLÅSEN upholstered bed frame with mattress, Kulsta gray-green/Vesteröy medium firm, King: /products/beds-with-mattresses-included/39537241.txt
+- TÄLLÅSEN upholstered bed frame with mattress, Kulsta gray-green/Valevåg medium firm, Queen: /products/beds-with-mattresses-included/89537432.txt
+- TÄLLÅSEN upholstered bed frame with mattress, Kulsta gray-green/Valevåg medium firm, King: /products/beds-with-mattresses-included/19537242.txt
+- TÄLLÅSEN upholstered bed frame with mattress, Kulsta gray-green/Valevåg medium firm, Full: /products/beds-with-mattresses-included/19537138.txt
+- TÄLLÅSEN upholstered bed frame with mattress, Kulsta gray-green/Valevåg firm, Queen: /products/beds-with-mattresses-included/89537427.txt
+- TÄLLÅSEN upholstered bed frame with mattress, Kulsta gray-green/Valevåg firm, King: /products/beds-with-mattresses-included/89537371.txt
+- TÄLLÅSEN upholstered bed frame with mattress, Kulsta gray-green/Valevåg firm, Full: /products/beds-with-mattresses-included/59537141.txt
+- NORDLI bed frame with storage and mattress, with headboard white/Valevåg medium firm, King: /products/beds-with-mattresses-included/49545033.txt
+- NORDLI bed frame with storage and mattress, with headboard white/Valevåg medium firm, Queen: /products/beds-with-mattresses-included/39545000.txt
+- NORDLI bed frame with storage and mattress, with headboard white/Valevåg firm, Queen: /products/beds-with-mattresses-included/59544995.txt
+- NORDLI bed frame with storage and mattress, with headboard white/Valevåg firm, King: /products/beds-with-mattresses-included/09545025.txt
+- NORDLI bed frame with storage and mattress, with headboard white/Vågstranda plush, Queen: /products/beds-with-mattresses-included/89545007.txt
+- NORDLI bed frame with storage and mattress, with headboard white/Vågstranda plush, King: /products/beds-with-mattresses-included/59545037.txt
+- NORDLI bed frame with storage and mattress, with headboard white/Vågstranda medium firm, King: /products/beds-with-mattresses-included/99545035.txt
+- NORDLI bed frame with storage and mattress, with headboard white/Vågstranda medium firm, Queen: /products/beds-with-mattresses-included/59545004.txt
+- NORDLI bed frame with storage and mattress, with headboard white/Vågstranda firm, King: /products/beds-with-mattresses-included/69545027.txt
+- NORDLI bed frame with storage and mattress, with headboard white/Vågstranda firm, Queen: /products/beds-with-mattresses-included/19544997.txt
+- NORDLI bed frame with storage and mattress, with headboard anthracite/Valevåg medium firm, King: /products/beds-with-mattresses-included/89545045.txt
+- NORDLI bed frame with storage and mattress, with headboard anthracite/Valevåg medium firm, Queen: /products/beds-with-mattresses-included/59559227.txt
+- NORDLI bed frame with storage and mattress, with headboard anthracite/Valevåg firm, Queen: /products/beds-with-mattresses-included/99559225.txt
+- NORDLI bed frame with storage and mattress, with headboard anthracite/Valevåg firm, King: /products/beds-with-mattresses-included/39545038.txt
+- NORDLI bed frame with storage and mattress, with headboard anthracite/Vågstranda plush, King: /products/beds-with-mattresses-included/49545052.txt
+- NORDLI bed frame with storage and mattress, with headboard anthracite/Vågstranda plush, Queen: /products/beds-with-mattresses-included/39559233.txt
+- NORDLI bed frame with storage and mattress, with headboard anthracite/Vågstranda medium firm, Queen: /products/beds-with-mattresses-included/79559231.txt
+- NORDLI bed frame with storage and mattress, with headboard anthracite/Vågstranda medium firm, King: /products/beds-with-mattresses-included/29545048.txt
+- NORDLI bed frame with storage and mattress, with headboard anthracite/Vågstranda firm, King: /products/beds-with-mattresses-included/99545040.txt
+- NORDLI bed frame with storage and mattress, with headboard anthracite/Vågstranda firm, Queen: /products/beds-with-mattresses-included/19559229.txt
+- NORDLI bed frame with storage and mattress, white/Valevåg medium firm, Queen: /products/beds-with-mattresses-included/59544938.txt
+- NORDLI bed frame with storage and mattress, white/Valevåg medium firm, King: /products/beds-with-mattresses-included/49544953.txt
+- NORDLI bed frame with storage and mattress, white/Valevåg firm, Queen: /products/beds-with-mattresses-included/99544941.txt
+- NORDLI bed frame with storage and mattress, white/Valevåg firm, King: /products/beds-with-mattresses-included/89544951.txt
+- NORDLI bed frame with storage and mattress, white/Vågstranda plush, King: /products/beds-with-mattresses-included/59544957.txt
+- NORDLI bed frame with storage and mattress, white/Vågstranda plush, Queen: /products/beds-with-mattresses-included/59544943.txt
+- NORDLI bed frame with storage and mattress, white/Vågstranda medium firm, King: /products/beds-with-mattresses-included/99544955.txt
+- NORDLI bed frame with storage and mattress, white/Vågstranda medium firm, Queen: /products/beds-with-mattresses-included/39544939.txt
+- NORDLI bed frame with storage and mattress, white/Vågstranda firm, Queen: /products/beds-with-mattresses-included/79544942.txt
+- NORDLI bed frame with storage and mattress, white/Vågstranda firm, King: /products/beds-with-mattresses-included/49544948.txt
+- NORDLI bed frame with storage and mattress, anthracite/Valevåg medium firm, Queen: /products/beds-with-mattresses-included/39559214.txt
+- NORDLI bed frame with storage and mattress, anthracite/Valevåg medium firm, King: /products/beds-with-mattresses-included/39544963.txt
+- NORDLI bed frame with storage and mattress, anthracite/Valevåg firm, Queen: /products/beds-with-mattresses-included/79559212.txt
+- NORDLI bed frame with storage and mattress, anthracite/Valevåg firm, King: /products/beds-with-mattresses-included/39544958.txt
+- NORDLI bed frame with storage and mattress, anthracite/Vågstranda plush, King: /products/beds-with-mattresses-included/49544967.txt
+- NORDLI bed frame with storage and mattress, anthracite/Vågstranda plush, Queen: /products/beds-with-mattresses-included/09559220.txt
+- NORDLI bed frame with storage and mattress, anthracite/Vågstranda medium firm, King: /products/beds-with-mattresses-included/89544965.txt
+- NORDLI bed frame with storage and mattress, anthracite/Vågstranda medium firm, Queen: /products/beds-with-mattresses-included/49559218.txt
+- NORDLI bed frame with storage and mattress, anthracite/Vågstranda firm, King: /products/beds-with-mattresses-included/99544960.txt
+- NORDLI bed frame with storage and mattress, anthracite/Vågstranda firm, Queen: /products/beds-with-mattresses-included/89559216.txt
+- MALM bed frame with mattress, white/Vesteröy medium firm, Full: /products/beds-with-mattresses-included/99544837.txt
+- MALM bed frame with mattress, white/Vesteröy medium firm, Twin: /products/beds-with-mattresses-included/99544700.txt
+- MALM bed frame with mattress, white/Vesteröy medium firm, Queen: /products/beds-with-mattresses-included/79544857.txt
+- MALM bed frame with mattress, white/Vesteröy medium firm, King: /products/beds-with-mattresses-included/79544843.txt
+- MALM bed frame with mattress, white/Valevåg medium firm, Full: /products/beds-with-mattresses-included/59544839.txt
+- MALM bed frame with mattress, white/Valevåg medium firm, Twin: /products/beds-with-mattresses-included/39544699.txt
+- MALM bed frame with mattress, white/Valevåg medium firm, Queen: /products/beds-with-mattresses-included/19544855.txt
+- MALM bed frame with mattress, white/Valevåg medium firm, King: /products/beds-with-mattresses-included/09544846.txt
+- MALM bed frame with mattress, white/Valevåg firm, Queen: /products/beds-with-mattresses-included/99544856.txt
+- MALM bed frame with mattress, white/Valevåg firm, Twin: /products/beds-with-mattresses-included/79544697.txt
+- MALM bed frame with mattress, white/Valevåg firm, Full: /products/beds-with-mattresses-included/39544835.txt
+- MALM bed frame with mattress, white/Valevåg firm, King: /products/beds-with-mattresses-included/29544845.txt
+- MALM bed frame with mattress, white stained oak veneer/Vesteröy medium firm, King: /products/beds-with-mattresses-included/29544176.txt
+- MALM bed frame with mattress, white stained oak veneer/Valevåg medium firm, King: /products/beds-with-mattresses-included/79544174.txt
+- MALM bed frame with mattress, white stained oak veneer/Valevåg firm, King: /products/beds-with-mattresses-included/19544172.txt
+- MALM bed frame with mattress, black-brown/Vesteröy medium firm, King: /products/beds-with-mattresses-included/49544528.txt
+- MALM bed frame with mattress, black-brown/Valevåg medium firm, King: /products/beds-with-mattresses-included/49544533.txt
+- MALM bed frame with mattress, black-brown/Valevåg firm, King: /products/beds-with-mattresses-included/29544534.txt
+- HEMNES bed frame with mattress, white stain/Valevåg medium firm, Queen: /products/beds-with-mattresses-included/89543169.txt
+- HEMNES bed frame with mattress, white stain/Valevåg medium firm, Twin: /products/beds-with-mattresses-included/89541995.txt
+- HEMNES bed frame with mattress, white stain/Valevåg medium firm, King: /products/beds-with-mattresses-included/49543152.txt
+- HEMNES bed frame with mattress, white stain/Valevåg medium firm, Full: /products/beds-with-mattresses-included/19543139.txt
+- HEMNES bed frame with mattress, white stain/Valevåg firm, Queen: /products/beds-with-mattresses-included/99543159.txt
+- HEMNES bed frame with mattress, white stain/Valevåg firm, King: /products/beds-with-mattresses-included/29543148.txt
+- HEMNES bed frame with mattress, white stain/Valevåg firm, Full: /products/beds-with-mattresses-included/29543134.txt
+- HEMNES bed frame with mattress, white stain/Valevåg firm, Twin: /products/beds-with-mattresses-included/19541989.txt
+- HEMNES bed frame with mattress, dark gray stained/Valevåg medium firm, Twin: /products/beds-with-mattresses-included/69543325.txt
+- HEMNES bed frame with mattress, dark gray stained/Valevåg firm, Twin: /products/beds-with-mattresses-included/39543322.txt
+- GLAMBERGET extendable bed w stor/2 mattresses, pine/Åsvang medium firm, Twin: /products/beds-with-mattresses-included/39568440.txt
+- GLAMBERGET bed frame with storage and mattress, pine/Vesteröy medium firm, Full: /products/beds-with-mattresses-included/59568528.txt
+- GLAMBERGET bed frame with storage and mattress, pine/Vesteröy medium firm, Twin: /products/beds-with-mattresses-included/39568529.txt
+- GLAMBERGET bed frame with storage and mattress, pine/Åkrehamn medium firm, Full: /products/beds-with-mattresses-included/59568533.txt
+- GLAMBERGET bed frame with storage and mattress, pine/Åkrehamn medium firm, Twin: /products/beds-with-mattresses-included/09568535.txt
+- GLAMBERGET bed frame with storage and mattress, pine/Åkrehamn firm, Full: /products/beds-with-mattresses-included/69568537.txt
+- GLAMBERGET bed frame with storage and mattress, pine/Åkrehamn firm, Twin: /products/beds-with-mattresses-included/29568539.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

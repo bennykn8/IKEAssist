@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: EKEDALEN bar stool with backrest, dark brown/Orrsta light gray
+SKU: 50400538
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ekedalen-bar-stool-with-backrest-dark-brown-orrsta-light-gray-50400538/
+Category: Bar stools & chairs
+Description: , 291/2" Big, bigger, biggest - our super comfy EKEDALEN chairs keep the conversation going until you ask the guests to leave. Available in 3 heights for a perfect match with EKEDALEN bar table or din...
+
+# @OFFER
+Price: 125
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric/ Cover: 65% polyester (min. 90% recycled), 35 % cotton, Frame: Solid eucalyptus wood, Stain, Clear acrylic lacquer, Seat: Fiberboard, Polyurethane foam 2.2 lb/cu.ft.
+Dimensions: Suitable for bar height 43¼".
+Features: Recommended for indoor use only. | A screwdriver is required to assemble this chair, sold separately as a part of FIXA 17-piece toolset. | To prevent surface scratches, complete with TRIXIG stick-on floor protectors, sold separately.
+Care: Cover: Machine wash warm, normal cycle. | Cover: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ekedalen-bar-stool-with-backrest-dark-brown-orrsta-light-gray__0657901_pe710031_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

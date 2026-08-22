@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: NATTJASMIN flat sheet, blue-green, Full/Double
+SKU: 40597446
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/nattjasmin-flat-sheet-blue-green-40597446/
+Category: Bed sheets
+Description: Like a dream – a silky smooth sheet in blue-green with a beautiful lustre and pleated edge. Sateen-woven from the finest yarn made of lyocell and cotton. Natural materials that feel good against your ...
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 60 % cotton, 40 % lyocell
+Features: Thread count: 122 threads/cm² or 310 threads/inch². | Thread count indicates the number of threads per square inch of fabric. The higher the thread count the more densely woven the fabric.
+Care: Shrinkage maximum 4%. | Machine wash warm (max 140°F/60°C) normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/nattjasmin-flat-sheet-blue-green__1432606_pe982853_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

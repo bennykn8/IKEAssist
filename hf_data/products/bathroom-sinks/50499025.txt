@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: OXMYREN countertop sink, glass/dark gray, 22x13 ¾"
+SKU: 50499025
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/oxmyren-countertop-sink-glass-dark-gray-50499025/
+Category: Bathroom sinks
+Description: This elegant and generously sized statement piece in dark grey glass brings an unexpected and refined look to your bathroom. Pairs beautifully with our wash-basin cabinets and TOLKEN countertops. Prac...
+
+# @OFFER
+Price: 190
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Body: Tempered glass, Support: Zinc, Chrome plated, Sealing ring/ Seal/ Washer: Synthetic rubber
+Features: Included screws not needed for ceramic, stone, or quartz countertops, use glue instead (not included). Consult your local hardware specialist if you are uncertain which glue to use. | If you are uncertain about the installation, contact a professional. The installation shall be made in accordance with valid local building and plumbing regulations. | Let the silicone underneath the sink harden for 2 hours before connecting the water trap.
+Care: Wipe clean with a dry cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/oxmyren-countertop-sink-glass-dark-gray__1166612_pe891193_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

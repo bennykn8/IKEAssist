@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TVÄLLEN sink with water trap, white
+SKU: 79443090
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tvaellen-sink-with-water-trap-white-s79443090/
+Category: Bathroom sinks
+Description: , 195/8x191/8" Since the ceramic wash-basin is manufactured with care and with the best materials, we proudly offer a 10-year guarantee. The water trap is included, all you have to do is chose a mixer...
+
+# @OFFER
+Price: 120
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Ceramic, Colored glaze, Water trap frame/ Nut/ Outlet pipe: Polypropylene, Washer: Synthetic rubber
+Features: May be fit into a sink cabinet or hung on a wall.
+Care: Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary. | Do not use scouring powder, steel wool, hard or sharp tools which can scratch the surface of the sink.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tvaellen-sink-with-water-trap-white__1079115_pe857437_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

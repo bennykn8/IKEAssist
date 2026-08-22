@@ -1,0 +1,59 @@
+# @CATEGORY
+Name: SINARP brown fronts
+ProductCount: 37
+
+# @FILTERS
+PriceRange: $59.00 - $368.00
+Materials: Edge: Solid wood, Stain, Tinted lacquer, Clear acrylic lacquer, Front side/ Back side: Oak veneer, Stain, Tinted lacquer, Clear acrylic lacquer, Main parts: Particleboard
+Brand: IKEA
+
+# @ITEMS
+- SINARP drawer front, brown: /products/sinarp-brown-fronts/90404718.txt
+- SINARP drawer front, brown: /products/sinarp-brown-fronts/90404704.txt
+- SINARP drawer front, brown: /products/sinarp-brown-fronts/80404714.txt
+- SINARP drawer front, brown: /products/sinarp-brown-fronts/80404709.txt
+- SINARP drawer front, brown: /products/sinarp-brown-fronts/70404719.txt
+- SINARP drawer front, brown: /products/sinarp-brown-fronts/60404705.txt
+- SINARP drawer front, brown: /products/sinarp-brown-fronts/50404715.txt
+- SINARP drawer front, brown: /products/sinarp-brown-fronts/40404711.txt
+- SINARP drawer front, brown: /products/sinarp-brown-fronts/40404706.txt
+- SINARP drawer front, brown: /products/sinarp-brown-fronts/30404716.txt
+- SINARP drawer front, brown: /products/sinarp-brown-fronts/20404712.txt
+- SINARP drawer front, brown: /products/sinarp-brown-fronts/20404707.txt
+- SINARP drawer front, brown: /products/sinarp-brown-fronts/10404717.txt
+- SINARP drawer front, brown: /products/sinarp-brown-fronts/00404713.txt
+- SINARP drawer front, brown: /products/sinarp-brown-fronts/00404708.txt
+- SINARP door, brown: /products/sinarp-brown-fronts/90404681.txt
+- SINARP door, brown: /products/sinarp-brown-fronts/80404691.txt
+- SINARP door, brown: /products/sinarp-brown-fronts/80404686.txt
+- SINARP door, brown: /products/sinarp-brown-fronts/70404700.txt
+- SINARP door, brown: /products/sinarp-brown-fronts/70404696.txt
+- SINARP door, brown: /products/sinarp-brown-fronts/70404682.txt
+- SINARP door, brown: /products/sinarp-brown-fronts/60404692.txt
+- SINARP door, brown: /products/sinarp-brown-fronts/60404687.txt
+- SINARP door, brown: /products/sinarp-brown-fronts/50404701.txt
+- SINARP door, brown: /products/sinarp-brown-fronts/50404697.txt
+- SINARP door, brown: /products/sinarp-brown-fronts/50404683.txt
+- SINARP door, brown: /products/sinarp-brown-fronts/40404693.txt
+- SINARP door, brown: /products/sinarp-brown-fronts/40404688.txt
+- SINARP door, brown: /products/sinarp-brown-fronts/30404702.txt
+- SINARP door, brown: /products/sinarp-brown-fronts/30404698.txt
+- SINARP door, brown: /products/sinarp-brown-fronts/30404684.txt
+- SINARP door, brown: /products/sinarp-brown-fronts/20404694.txt
+- SINARP door, brown: /products/sinarp-brown-fronts/20404689.txt
+- SINARP door, brown: /products/sinarp-brown-fronts/10404699.txt
+- SINARP door, brown: /products/sinarp-brown-fronts/00404690.txt
+- SINARP door, brown: /products/sinarp-brown-fronts/00404685.txt
+- SINARP 2-p door/corner base cabinet set, brown: /products/sinarp-brown-fronts/10404703.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,27 @@
+# @CATEGORY
+Name: Hanging clothes organizers
+ProductCount: 5
+
+# @FILTERS
+PriceRange: $0.99 - $19.99
+Materials: Fabric: 100% polyester (min. 90% recycled), Insert: Polypropylene, Polyethylene plastic (min. 50% recycled)
+Brand: IKEA
+
+# @ITEMS
+- STUK storage with 7 compartments, white/gray, 11 ¾x11 ¾x35 ½": /products/hanging-clothes-organizers/40481304.txt
+- SKUBB organizer with 6 compartments, white, 13 ¾x17 ¾x49 ¼": /products/hanging-clothes-organizers/40300049.txt
+- SKUBB organizer with 6 compartments, dark gray, 13 ¾x17 ¾x49 ¼": /products/hanging-clothes-organizers/50472993.txt
+- RENSHACKA clothes cover, transparent white: /products/hanging-clothes-organizers/50530101.txt
+- BLÄDDRARE hanging storage with 7 compartments, gray/patterned, 11 ¾x11 ¾x35 ½": /products/hanging-clothes-organizers/80474405.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

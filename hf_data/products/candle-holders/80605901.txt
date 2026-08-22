@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TALLTITA tealight holder, set of 2, pink/brown
+SKU: 80605901
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/talltita-tealight-holder-set-of-2-pink-brown-80605901/
+Category: Candle holders
+Description: Simple and elegant tealight holders designed by Lisa Hilland. Use them individually or place the higher one inside the wider one to create nice color effects. Also great for storing small items. Can a...
+
+# @OFFER
+Price: 4.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Glass, Paint
+Dimensions: Comprises: 1 tealight holder (dia. 3⅞", height 2") and 1 tealight holder (dia. 2¾", height 2¾").
+Care: You easily remove hardened wax by washing the surface with warm water.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/talltita-tealight-holder-set-of-2-pink-brown__1386483_pe963810_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

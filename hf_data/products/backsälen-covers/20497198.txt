@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BACKSÄLEN cover for loveseat, Blekinge white
+SKU: 20497198
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/backsaelen-cover-for-loveseat-blekinge-white-20497198/
+Category: BACKSÄLEN covers
+Description: This cover is made of a cotton fabric with a slight texture when combined with the white color, gives the sofa a light and bright look. The cover is easy to keep clean since it is removable and machin...
+
+# @OFFER
+Price: 69
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Back fabric: 100 % polyester (100% recycled), Fabric: 100 % cotton
+Features: This product is an extra cover. Frame is sold separately.
+Care: Removable cover: Machine wash warm (max 140°F/60°C) normal cycle. | Removable cover: To be washed separately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/backsaelen-cover-for-loveseat-blekinge-white__1208569_pe908634_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

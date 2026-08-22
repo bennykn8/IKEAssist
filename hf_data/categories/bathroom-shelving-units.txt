@@ -1,0 +1,37 @@
+# @CATEGORY
+Name: Bathroom shelving units
+ProductCount: 15
+
+# @FILTERS
+PriceRange: $11.99 - $169.99
+Materials: Bamboo, Clear acrylic lacquer, Door frame/ Side frame: Aluminum, Powder coating, Fabric: 100% polyester (min. 90% recycled), Leg: Solid birch, Solid birch, Stain, Clear polyurethane/acrylic lacquer, Panel/ Frame: Steel, Powder coating, Plastic part: Polypropylene, Polypropylene plastic (min. 50% recycled), Rod: Solid birch, Stain, Clear polyurethane/acrylic lacquer, Shelf/ Rod: Solid birch, Stain, Clear polyurethane/acrylic lacquer, Shelf/ Rod: Steel, Powder coating
+Brand: IKEA
+
+# @ITEMS
+- VILTO towel stand, black: /products/bathroom-shelving-units/00358754.txt
+- VILTO shelf unit, black: /products/bathroom-shelving-units/70358741.txt
+- VESKEN Shelf unit, white: /products/bathroom-shelving-units/40307866.txt
+- VESKEN Shelf unit, black: /products/bathroom-shelving-units/30450807.txt
+- STOREDAMM shelf unit, acacia: /products/bathroom-shelving-units/30576166.txt
+- STOREDAMM shelf unit, acacia: /products/bathroom-shelving-units/10576167.txt
+- RÅGRUND Sink shelf/corner shelf, bamboo: /products/bathroom-shelving-units/40253076.txt
+- RÅGRUND shelf unit, bamboo: /products/bathroom-shelving-units/80549420.txt
+- RÅGRUND Bamboo Shelf Unit - Popular & Practical: /products/bathroom-shelving-units/30253067.txt
+- MUSKAN shelf unit, white: /products/bathroom-shelving-units/50424327.txt
+- MOSSJÖN glass-door cabinet with 2 doors, anthracite: /products/bathroom-shelving-units/30564333.txt
+- IVÖSJÖN cabinet with doors, green: /products/bathroom-shelving-units/30569095.txt
+- FRÖSJÖN shelf unit, black: /products/bathroom-shelving-units/30574902.txt
+- FRÖSJÖN over-the-toilet shelf, black: /products/bathroom-shelving-units/60574905.txt
+- FRÖSJÖN corner shelf unit, black: /products/bathroom-shelving-units/10574899.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

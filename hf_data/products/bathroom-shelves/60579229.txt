@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SKOGHALL hook, self-adhesive, black
+SKU: 60579229
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/skoghall-hook-self-adhesive-black-60579229/
+Category: Bathroom shelves
+Description: No tools are needed for this 3-pack of hooks in black – just attach to the wall using the self-adhesive tape on the back. A simple way to make your walls useful without having to drill holes. Easy to ...
+
+# @OFFER
+Price: 6.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Aluminum, Epoxy/polyester powder coating
+Features: The adhesive tape can leave marks when the product is removed. | Max. load: 6.6 lbs.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/skoghall-hook-self-adhesive-black__1271386_pe929453_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,27 @@
+# @CATEGORY
+Name: Rechargeable lamps
+ProductCount: 5
+
+# @FILTERS
+PriceRange: $14.99 - $29.99
+Materials: Base/ Housing/ Lid: Polycarbonate plastic, Base/ Switch cover/ Lid: Polycarbonate plastic (min. 50% recycled), Cover: Polycarbonate plastic (min. 50% recycled), Diffuser: Polycarbonate plastic, Handle: Thermoplastic elastomer, Shade/ Cap: Polycarbonate plastic, Shade: Glass, Paint, Shade: Polypropylene, Shade: Polypropylene plastic (min. 50% recycled), Tube/ Handle/ Base/ Decoration: Steel, Nickel plated, Acrylic coating
+Brand: IKEA
+
+# @ITEMS
+- TVÅMASTAD LED portable lamp, battery operated brass/opal glass: /products/rechargeable-lamps/50597785.txt
+- NÖDMAST LED portable lamp, battery operated, white/black, 10 ¼": /products/rechargeable-lamps/50582576.txt
+- NÖDMAST LED portable lamp, battery operated, light pink/dark gray-green, 10 ¼": /products/rechargeable-lamps/40578457.txt
+- LAMPAN LED portable lamp, battery operated adjustable color/outdoor white, 9 ½": /products/rechargeable-lamps/40594612.txt
+- LÄNSPORT LED portable lamp, battery operated, white/dark gray, 8 ¾": /products/rechargeable-lamps/60578456.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,38 @@
+# @CATEGORY
+Name: Wall clocks
+ProductCount: 16
+
+# @FILTERS
+PriceRange: $3.99 - $79.99
+Materials: Back side: Polystyrene, Backing: Polystyrene, Clock face/ Hands/ Pendulum: Aluminum, Clock face: Polypropylene, Clock face: Steel, Epoxy/polyester powder coating, Clock frame: Layer-glued wood veneer, Ash veneer, Clear acrylic lacquer, Clock frame: Polypropylene plastic (min. 20% recycled), Clock frame: Polystyrene plastic (min. 20% recycled), Clock frame: Polystyrene, Acrylic paint, Clock frame: Stainless steel
+Brand: IKEA
+
+# @ITEMS
+- TUNNIS wall clock, black, 11 ¾": /products/wall-clocks/00540485.txt
+- TROMMA wall clock, white, 9 ¾": /products/wall-clocks/30557078.txt
+- TJALLA wall clock, silver color: /products/wall-clocks/80540882.txt
+- SYKOMORLÖNN wall clock, white/blue, 11 ¾": /products/wall-clocks/00582461.txt
+- STURSK wall clock, black, 10 ¼": /products/wall-clocks/00540862.txt
+- SÖNDRUM wall clock, white, 13 ¾": /products/wall-clocks/60540864.txt
+- SKÄRIG wall clock, blue, 10 ¼": /products/wall-clocks/00540857.txt
+- ROTBLÖTA wall clock, ash veneer/light gray, 16 ½": /products/wall-clocks/40540855.txt
+- PUGG wall clock, stainless steel, 12 ½": /products/wall-clocks/90540853.txt
+- PLUTTIS wall clock, red: /products/wall-clocks/30540851.txt
+- PLUTTIS wall clock, black: /products/wall-clocks/10540847.txt
+- KUTTERSMYCKE wall clock, black: /products/wall-clocks/10520514.txt
+- IKEA PS 1995 clock, blue: /products/wall-clocks/10575064.txt
+- BRAVUR wall clock, black, 23 ¼": /products/wall-clocks/60540473.txt
+- BONDIS wall clock, orange: /products/wall-clocks/90601709.txt
+- BONDIS wall clock, black: /products/wall-clocks/10543092.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

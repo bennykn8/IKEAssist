@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: VOXNAN bath faucet, chrome plated
+SKU: 70533274
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/voxnan-bath-faucet-chrome-plated-70533274/
+Category: Bathroom faucets & sink taps
+Description: You save hot water and energy every time you lift the lever. The cold start function avoids the unnecessary use of hot water for daily rituals like washing your hands or brushing your teeth. Chrome-pl...
+
+# @OFFER
+Price: 90
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Body: Brass, Metallized, Spout: Brass, Brass, Metallized
+Dimensions: Connection hoses with 9/16" connection included. Length: 13¾".
+Features: Water and energy saving aerator (1.2 gal/min.) for high-pressure systems included. | A tool is included that makes it easy to install the faucet in place. | Flow rate: 1.2 gal./min. (4.5 l/min.)
+Care: Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary. | Never use scouring powder, steel wool or a detergent that is calcium-dissolving, sour or contains alcohol or an abrasive.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/voxnan-bath-faucet-chrome-plated__0755175_pe748302_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

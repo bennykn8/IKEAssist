@@ -1,0 +1,31 @@
+# @CATEGORY
+Name: String lights
+ProductCount: 9
+
+# @FILTERS
+PriceRange: $5.99 - $69.99
+Materials: Battery box/ Cover: ABS plastic, Battery box: ABS plastic, Cover, upper side/ Cover, underside/ Battery box: ABS plastic, Housing: Thermoplastic elastomer, Insulation: Polycarbonate plastic, Lock: Polyamide, Polycarbonate plastic, Screw: Polyamide, Shade holder/ Cover/ Battery box: ABS plastic, Shade/ Battery box: ABS plastic
+Brand: IKEA
+
+# @ITEMS
+- SOLVINDEN LED string light with 12 lights, battery operated/white: /products/string-lights/70570600.txt
+- SOLVINDEN LED string light with 12 lights, battery operated/leaf: /products/string-lights/60593942.txt
+- SOLVINDEN LED string light with 12 lights, battery operated/beige: /products/string-lights/30593156.txt
+- SOLVINDEN LED string light with 12 lights, battery operated/beige: /products/string-lights/10570599.txt
+- LEDFYR LED string light with 24 lights, indoor silver color: /products/string-lights/90421020.txt
+- LEDFYR LED string light with 12 lights, indoor, battery operated silver color: /products/string-lights/30421023.txt
+- KUSTFYR LED lighting chain with 32 lights, ghost/battery operated indoor: /products/string-lights/60605450.txt
+- KASTTÅG LED string light with 24 lights, black/outdoor: /products/string-lights/40552565.txt
+- BLÖTSNÖ LED string light with 12 lights, indoor, battery operated black: /products/string-lights/50401509.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

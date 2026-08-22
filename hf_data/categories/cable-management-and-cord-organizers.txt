@@ -1,0 +1,42 @@
+# @CATEGORY
+Name: Cable management & cord organizers
+ProductCount: 20
+
+# @FILTERS
+PriceRange: $2.50 - $39.99
+Materials: ABS plastic, Polycarbonate plastic, Box/ Lid/ Divider: Polypropylene plastic (min. 50% recycled), Cable clip/ Cable hanger: Polyethylene, Housing: Polycarbonate plastic (min. 50% recycled), Knob: Polypropylene, Magnet: Strontium ferrite, Main parts: ABS plastic, Synthetic rubber, Molded paper pulp, Nail: Steel, Galvanized, Polycarbonate plastic
+Brand: IKEA
+
+# @ITEMS
+- TRIXIG 150-piece cable management set: /products/cable-management-and-cord-organizers/60563737.txt
+- SKOTAT extension cord, green: /products/cable-management-and-cord-organizers/20558441.txt
+- SIGNUM Cable management, horizontal, silver color: /products/cable-management-and-cord-organizers/30200253.txt
+- MONTERA cable management, white: /products/cable-management-and-cord-organizers/30147425.txt
+- KOPPLA extension cord, ungrounded white, 141 ¾": /products/cable-management-and-cord-organizers/60065201.txt
+- KOPPLA 6-way adaptor plug, grounded white: /products/cable-management-and-cord-organizers/70085345.txt
+- KOPPLA 6 outlet power strip with switch, grounded white, 19 ¾": /products/cable-management-and-cord-organizers/70086401.txt
+- KOPPLA 5 outlet power strip & 2 USB ports, white: /products/cable-management-and-cord-organizers/10280825.txt
+- KOPPLA 5 outlet power strip & 2 USB ports, black/white/textile: /products/cable-management-and-cord-organizers/10464264.txt
+- KOPPLA 3 outlet power strip, grounded, white: /products/cable-management-and-cord-organizers/00086428.txt
+- KALKSTUFF cable holder, set of 3, white: /products/cable-management-and-cord-organizers/30573021.txt
+- KALKSTUFF cable holder, set of 3, dark gray: /products/cable-management-and-cord-organizers/50573020.txt
+- HORNFELS extension cord, yellow: /products/cable-management-and-cord-organizers/90558428.txt
+- HORNFELS extension cord, dark gray: /products/cable-management-and-cord-organizers/20558417.txt
+- HÖNSNÄT cable organizer for drawer, natural, 11 ½x8 ¼": /products/cable-management-and-cord-organizers/00564891.txt
+- HÖNSNÄT cable management box, natural, 15x7x5 ½": /products/cable-management-and-cord-organizers/60564893.txt
+- HAVSKÅL 2-piece, USB anchor, black/yellow: /products/cable-management-and-cord-organizers/90555745.txt
+- FÖRSÄSONG cable management tray, white: /products/cable-management-and-cord-organizers/00573188.txt
+- FÖRSÄSONG cable management tray, light green: /products/cable-management-and-cord-organizers/20607333.txt
+- ALFORSIT cable tie, set of: /products/cable-management-and-cord-organizers/40534618.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

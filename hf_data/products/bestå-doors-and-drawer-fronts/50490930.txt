@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BERGSVIKEN door, black marble effect
+SKU: 50490930
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/bergsviken-door-black-marble-effect-50490930/
+Category: BESTÅ doors & drawer fronts
+Description: , 231/2x251/8" BERGSVIKEN black front with a tactile surface and marble expression creates a sophisticated look in the home. Complete with stylish metal legs and knobs or handles to complete the elega...
+
+# @OFFER
+Price: 75
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Laminated paper foil, Plastic edging
+Features: To be completed with BESTÅ hinges. One door requires one pack of hinges, sold separately. | May be completed with knobs or handles, sold separately.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/bergsviken-door-black-marble-effect__0990432_pe818945_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

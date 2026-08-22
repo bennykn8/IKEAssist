@@ -1,0 +1,73 @@
+# @CATEGORY
+Name: BOAXEL storage combinations
+ProductCount: 51
+
+# @FILTERS
+PriceRange: $72.00 - $342.00
+Materials: Bracket: Steel, Epoxy/polyester powder coating, Frame/ Wire: Steel, Steel, Epoxy/polyester powder coating, Frame: Steel, Steel, Epoxy/polyester powder coating, Galvanized steel, Epoxy/polyester powder coating, Mesh: Steel, Epoxy/polyester powder coating, Particleboard, Paper foil, Plastic edging, Steel, Epoxy/polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- BOAXEL wardrobe combination, white: /products/boaxel-storage-combinations/99469475.txt
+- BOAXEL wardrobe combination, white: /products/boaxel-storage-combinations/89527503.txt
+- BOAXEL wardrobe combination, white: /products/boaxel-storage-combinations/89465604.txt
+- BOAXEL wardrobe combination, white: /products/boaxel-storage-combinations/89384014.txt
+- BOAXEL wardrobe combination, white: /products/boaxel-storage-combinations/79467571.txt
+- BOAXEL wardrobe combination, white: /products/boaxel-storage-combinations/59465634.txt
+- BOAXEL wardrobe combination, white: /products/boaxel-storage-combinations/49332376.txt
+- BOAXEL wardrobe combination, white: /products/boaxel-storage-combinations/49332362.txt
+- BOAXEL wardrobe combination, white: /products/boaxel-storage-combinations/49332357.txt
+- BOAXEL wardrobe combination, white: /products/boaxel-storage-combinations/39469478.txt
+- BOAXEL wardrobe combination, white: /products/boaxel-storage-combinations/19332373.txt
+- BOAXEL wardrobe combination, white: /products/boaxel-storage-combinations/19332368.txt
+- BOAXEL wardrobe combination, white: /products/boaxel-storage-combinations/09465641.txt
+- BOAXEL wardrobe combination, white/oak: /products/boaxel-storage-combinations/59575784.txt
+- BOAXEL wardrobe combination, white/oak: /products/boaxel-storage-combinations/19575818.txt
+- BOAXEL wardrobe combination, white/oak: /products/boaxel-storage-combinations/09575786.txt
+- BOAXEL wardrobe combination, anthracite: /products/boaxel-storage-combinations/89548987.txt
+- BOAXEL wardrobe combination, anthracite: /products/boaxel-storage-combinations/89548973.txt
+- BOAXEL wardrobe combination, anthracite: /products/boaxel-storage-combinations/79548916.txt
+- BOAXEL wardrobe combination, anthracite: /products/boaxel-storage-combinations/69590128.txt
+- BOAXEL wardrobe combination, anthracite: /products/boaxel-storage-combinations/69548950.txt
+- BOAXEL wardrobe combination, anthracite: /products/boaxel-storage-combinations/49548994.txt
+- BOAXEL wardrobe combination, anthracite: /products/boaxel-storage-combinations/49548970.txt
+- BOAXEL wardrobe combination, anthracite: /products/boaxel-storage-combinations/49548932.txt
+- BOAXEL wardrobe combination, anthracite: /products/boaxel-storage-combinations/39548961.txt
+- BOAXEL wardrobe combination, anthracite: /products/boaxel-storage-combinations/39548956.txt
+- BOAXEL wardrobe combination, anthracite: /products/boaxel-storage-combinations/19548919.txt
+- BOAXEL wardrobe combination, anthracite: /products/boaxel-storage-combinations/09548991.txt
+- BOAXEL wardrobe combination, anthracite/oak: /products/boaxel-storage-combinations/69551202.txt
+- BOAXEL wardrobe combination, anthracite/oak: /products/boaxel-storage-combinations/49590129.txt
+- BOAXEL wardrobe combination, anthracite/oak: /products/boaxel-storage-combinations/49551222.txt
+- BOAXEL wardrobe combination, anthracite/metal: /products/boaxel-storage-combinations/99564477.txt
+- BOAXEL wardrobe combination, anthracite/metal: /products/boaxel-storage-combinations/79564478.txt
+- BOAXEL wardrobe combination, anthracite/metal: /products/boaxel-storage-combinations/39564475.txt
+- BOAXEL wardrobe combination, anthracite/metal: /products/boaxel-storage-combinations/19564476.txt
+- BOAXEL shelving unit, white: /products/boaxel-storage-combinations/09392616.txt
+- BOAXEL shelving unit, white/oak: /products/boaxel-storage-combinations/79575815.txt
+- BOAXEL shelving unit, anthracite: /products/boaxel-storage-combinations/29590130.txt
+- BOAXEL shelving unit, anthracite: /products/boaxel-storage-combinations/09590126.txt
+- BOAXEL shelving unit, anthracite/oak: /products/boaxel-storage-combinations/89590127.txt
+- BOAXEL laundry combination, white: /products/boaxel-storage-combinations/89386485.txt
+- BOAXEL laundry combination, white: /products/boaxel-storage-combinations/69385571.txt
+- BOAXEL laundry combination, white: /products/boaxel-storage-combinations/69332399.txt
+- BOAXEL laundry combination, white: /products/boaxel-storage-combinations/59386482.txt
+- BOAXEL laundry combination, white/metal: /products/boaxel-storage-combinations/89332402.txt
+- BOAXEL laundry combination, white/metal: /products/boaxel-storage-combinations/79332407.txt
+- BOAXEL laundry combination, white/metal: /products/boaxel-storage-combinations/19332410.txt
+- BOAXEL laundry combination, anthracite: /products/boaxel-storage-combinations/99548864.txt
+- BOAXEL laundry combination, anthracite: /products/boaxel-storage-combinations/49548890.txt
+- BOAXEL laundry combination, anthracite/metal: /products/boaxel-storage-combinations/69548912.txt
+- BOAXEL laundry combination, anthracite/metal: /products/boaxel-storage-combinations/69548894.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

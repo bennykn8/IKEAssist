@@ -1,0 +1,81 @@
+# @CATEGORY
+Name: Coffee tables
+ProductCount: 59
+
+# @FILTERS
+PriceRange: $19.99 - $449.98
+Materials: Bottom panel: Particleboard, Paper foil, Paper foil, Plastic edging, Plastic edging, Cover cap: Aluminum, Cross rail: Solid beech, Acrylic paint, Cross rail: Steel, Steel, Nickel plated, Drawer side/ Drawer back: Particleboard, Plastic foil, Plastic edging, Fabric: 100% polyester (min. 90% recycled), Filling material: Paper, Frame: Steel, Epoxy/polyester powder coating, Glass panel: Tempered glass, Glass panel: Tempered glass, Paint
+Brand: IKEA
+
+# @ITEMS
+- VITTSJÖ coffee table, black-brown/glass: /products/coffee-tables/80213309.txt
+- VITTERYD adjustable coffee table, white: /products/coffee-tables/20530065.txt
+- VIHALS coffee table, white: /products/coffee-tables/50488734.txt
+- VIHALS coffee table, dark gray: /products/coffee-tables/90542932.txt
+- TORSJÖ coffee table, gold effect/glass: /products/coffee-tables/50590406.txt
+- TONSTAD coffee table, off-white: /products/coffee-tables/90491560.txt
+- TONSTAD coffee table, oak veneer: /products/coffee-tables/10489311.txt
+- TONSTAD coffee table, brown stained oak veneer: /products/coffee-tables/70489308.txt
+- STOCKHOLM coffee table, walnut veneer: /products/coffee-tables/70239710.txt
+- STOCKHOLM 2025 coffee table, pine/natural: /products/coffee-tables/50594763.txt
+- STOCKHOLM 2025 coffee table, oak veneer glass: /products/coffee-tables/20586552.txt
+- STOCKHOLM 2025 coffee table, oak veneer dark brown: /products/coffee-tables/50586555.txt
+- SKRUVBY coffee table, white: /products/coffee-tables/40531988.txt
+- ÖSTAVALL adjustable coffee table, white: /products/coffee-tables/00530066.txt
+- ÖSTAVALL adjustable coffee table, black: /products/coffee-tables/40534152.txt
+- LISTERBY coffee table, oak veneer: /products/coffee-tables/50515313.txt
+- LISTERBY coffee table, oak veneer: /products/coffee-tables/30513904.txt
+- LISTERBY coffee table, dark brown beech veneer: /products/coffee-tables/90562246.txt
+- LISTERBY coffee table, dark brown beech veneer: /products/coffee-tables/40562244.txt
+- LACK Coffee table, white stained oak effect: /products/coffee-tables/50319029.txt
+- LACK Coffee table, white stained oak effect: /products/coffee-tables/40431535.txt
+- LACK coffee table, white: /products/coffee-tables/90449905.txt
+- LACK coffee table, white: /products/coffee-tables/80449901.txt
+- LACK Coffee table, black-brown: /products/coffee-tables/40104294.txt
+- LACK Coffee table, black-brown: /products/coffee-tables/00104291.txt
+- KVISTBRO Storage table, white: /products/coffee-tables/30349452.txt
+- KVISTBRO storage table, black: /products/coffee-tables/90480401.txt
+- KRAGSTA Coffee table, white: /products/coffee-tables/20286638.txt
+- KRAGSTA coffee table, black: /products/coffee-tables/80262253.txt
+- JAKOBSFORS coffee table, oak veneer: /products/coffee-tables/90500121.txt
+- JAKOBSFORS coffee table, dark brown stained oak veneer: /products/coffee-tables/50515167.txt
+- JÄTTESTA coffee table, white/light bamboo: /products/coffee-tables/30538792.txt
+- JÄTTESTA coffee table, black: /products/coffee-tables/80521911.txt
+- IDANÄS coffee table, white: /products/coffee-tables/40500005.txt
+- IDANÄS coffee table, white: /products/coffee-tables/20487873.txt
+- IDANÄS coffee table, dark brown stained: /products/coffee-tables/10500002.txt
+- HOLMERUD coffee table, oak effect: /products/coffee-tables/90540706.txt
+- HOLMERUD coffee table, dark brown: /products/coffee-tables/00541418.txt
+- HEMNES Coffee table, white stain, light brown: /products/coffee-tables/30413495.txt
+- HAVSTA Coffee table, white: /products/coffee-tables/00404204.txt
+- HAVSTA coffee table, gray-beige: /products/coffee-tables/30565530.txt
+- HAVSTA coffee table, black: /products/coffee-tables/60565538.txt
+- GUTTANE coffee table, oak: /products/coffee-tables/10587712.txt
+- GLADOM tray table, white: /products/coffee-tables/70337819.txt
+- GLADOM tray table, dark gray-green: /products/coffee-tables/70578451.txt
+- GLADOM tray table, dark gray-beige: /products/coffee-tables/30513763.txt
+- GLADOM tray table, bright orange: /products/coffee-tables/90604034.txt
+- GLADOM Tray table, black: /products/coffee-tables/50411990.txt
+- GARNANÄS coffee table, white: /products/coffee-tables/10555099.txt
+- GARNANÄS coffee table, green: /products/coffee-tables/00556508.txt
+- FRÖTORP nesting tables, set of 2, anthracite marble effect/black glass: /products/coffee-tables/39603995.txt
+- FRÖTORP coffee table, anthracite marble effect/black glass: /products/coffee-tables/70497582.txt
+- FJÄLLBO storage cube, black: /products/coffee-tables/90539576.txt
+- FJÄLLBO coffee table, black: /products/coffee-tables/70335486.txt
+- BORGEBY coffee table, black: /products/coffee-tables/30500355.txt
+- BORGEBY coffee table, birch veneer: /products/coffee-tables/70389356.txt
+- ÄSPERÖD coffee table, black/glass black: /products/coffee-tables/00461888.txt
+- ÄNGESBYN storage table, black/pine light brown stained: /products/coffee-tables/30492275.txt
+- ÄNGESBYN storage table, black/pine light brown stained: /products/coffee-tables/00497806.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

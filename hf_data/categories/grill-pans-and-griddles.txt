@@ -1,0 +1,26 @@
+# @CATEGORY
+Name: Grill pans & griddles
+ProductCount: 4
+
+# @FILTERS
+PriceRange: $19.99 - $49.99
+Materials: Body: Stainless steel, Sol-gel ceramic non-stick coating, Cast iron, Oil, Disc: Aluminum, Disc: Stainless steel, Handle: Polyamide, Polyurethane paint, Handle: Solid beech, Stainless steel, Clear lacquer, Main parts: Aluminum, Sol-gel ceramic non-stick coating, Silicone resin paint, Protecting plate/ Flame guard/ Rivet: Stainless steel
+Brand: IKEA
+
+# @ITEMS
+- VARDAGEN grill pan, cast iron: /products/grill-pans-and-griddles/80576630.txt
+- MIDDAGSMAT grill pan, non-stick coating/stainless steel: /products/grill-pans-and-griddles/00580594.txt
+- HUSKNUT grill pan, non-stick coating black, 14 ¼x10 ¼": /products/grill-pans-and-griddles/90576601.txt
+- GRILLA grill pan, non-stick coating, 14 ¼x10 ¼": /products/grill-pans-and-griddles/70590943.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

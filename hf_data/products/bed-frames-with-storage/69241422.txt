@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: NORDLI bed with headboard and storage, white, Queen
+SKU: 69241422
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/nordli-bed-with-headboard-and-storage-white-s69241422/
+Category: Bed frames with storage
+Description: There’s plenty of space in the drawers for clothes, extra duvets and sweet dreams – and you can position the headboard’s box and shelf so your favorite book is easy to reach. A perfect combination!
+
+# @OFFER
+Price: 699
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top frame/ Drawer front/ Head/footboard: Fiberboard, Printed acrylic paint, Bed base slats: Solid pine, Board on frame: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Plastic edging, Acrylic paint
+Features: Mattress and bedlinens are sold separately. | Coordinates with other furniture in the NORDLI series. | Fits mattresses 59-63" wide and up to 79½" long.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/nordli-bed-with-headboard-and-storage-white__1151039_pe884742_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

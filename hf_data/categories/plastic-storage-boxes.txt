@@ -1,0 +1,55 @@
+# @CATEGORY
+Name: Plastic storage boxes
+ProductCount: 33
+
+# @FILTERS
+PriceRange: $0.99 - $29.99
+Materials: Main part: Polypropylene, Main parts: Solid pine, Other parts: Steel, Galvanized, Polypropylene, Polypropylene plastic (min. 20% recycled), Polypropylene plastic (min. 50% recycled), Wheel: Acetal plastic, polypropylene (min. 50% recycled)
+Brand: IKEA
+
+# @ITEMS
+- UPPSNOFSAD storage box with lid, black, 13 ¾x9 ¾x5 ½"/2 gallon: /products/plastic-storage-boxes/99393107.txt
+- UPPSNOFSAD storage box, black, 13 ¾x9 ¾x5 ½"/2 gallon: /products/plastic-storage-boxes/90440764.txt
+- UPPSNOFSAD lid, black, 13 ¾x9 ¾": /products/plastic-storage-boxes/00440768.txt
+- SOCKERBIT storage box with lid, white, 15x30x11 ¾": /products/plastic-storage-boxes/40522088.txt
+- SOCKERBIT box with lid, white, 15x20x11 ¾": /products/plastic-storage-boxes/80316067.txt
+- SOCKERBIT box with lid, white, 15x9 ¾x: /products/plastic-storage-boxes/40316069.txt
+- SAMLA lid for box, 3/6 gallon, clear: /products/plastic-storage-boxes/90455086.txt
+- SAMLA lid for box, 15&34 gallon, clear: /products/plastic-storage-boxes/30455089.txt
+- SAMLA lid for box, 12/17 gallon, clear: /products/plastic-storage-boxes/70455087.txt
+- SAMLA lid for box, 1 gallon, clear: /products/plastic-storage-boxes/50455088.txt
+- SAMLA insert for box 3 and 6 gallon, clear, 14 ½x9 ¾x4 ¾": /products/plastic-storage-boxes/50102973.txt
+- SAMLA clip lock for box, 15/34 gallon, black: /products/plastic-storage-boxes/50590604.txt
+- SAMLA clip lock for box 12/17 gal, black: /products/plastic-storage-boxes/70590603.txt
+- SAMLA box with lid, clear, 22 ½x15 ¼x16 ½"/17 gallon: /products/plastic-storage-boxes/99440774.txt
+- SAMLA box with lid, clear, 15 ¼x11x5 ½"/3 gallon: /products/plastic-storage-boxes/69440836.txt
+- SAMLA box with lid, clear, 15 ¼x11x11"/6 gallon: /products/plastic-storage-boxes/69440822.txt
+- SAMLA box with lid, clear, 22 ½x15 ¼x11"/12 gallon: /products/plastic-storage-boxes/69440761.txt
+- SAMLA box with lid, clear, 31x22 ½x7"/15 gallon: /products/plastic-storage-boxes/39440814.txt
+- SAMLA box with lid, clear, 31x22 ½x17"/34 gallon: /products/plastic-storage-boxes/29440819.txt
+- SAMLA box, clear, 30 ¾x22x17"/34 gallon: /products/plastic-storage-boxes/90102971.txt
+- SAMLA box, clear, 15 ¼x11x11"/6 gallon: /products/plastic-storage-boxes/80102976.txt
+- SAMLA box, clear, 11x7 ½x5 ½"/1 gallon: /products/plastic-storage-boxes/70102972.txt
+- SAMLA box, clear, 15 ¼x11x5 ½"/3 gallon: /products/plastic-storage-boxes/40102978.txt
+- SAMLA box, clear, 22x15 ¼x11"/12 gallon: /products/plastic-storage-boxes/30102974.txt
+- SAMLA box, clear, 30 ¾x22x7"/15 gallon: /products/plastic-storage-boxes/00130129.txt
+- SAMLA box, clear, 22x15 ¼x16 ½"/17 gallon: /products/plastic-storage-boxes/00102975.txt
+- RYKTA storage box with lid, transparent gray-blue, 7x9 ½x4 ¾"/1 gallon: /products/plastic-storage-boxes/80533198.txt
+- RYKTA storage box with lid, transparent gray-blue, 3 ½x9 ½x2 ¾"/0 gallon: /products/plastic-storage-boxes/40533204.txt
+- RYKTA storage box with lid, transparent gray-blue, 4 ¾x7x4 ¾"/0 gallon: /products/plastic-storage-boxes/30533209.txt
+- RYKTA storage box with lid, transparent gray-blue, 9 ½x14 ¼x9"/4 gallon: /products/plastic-storage-boxes/10533205.txt
+- RYKTA storage box with lid, transparent gray-blue, 14 ¼x19 ¾x13 ¾"/12 gallon: /products/plastic-storage-boxes/00533201.txt
+- KNAGGLIG box, pine, 18x12 ¼x9 ¾": /products/plastic-storage-boxes/70292359.txt
+- KNAGGLIG Box, pine, 9x12 ¼x: /products/plastic-storage-boxes/10292357.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

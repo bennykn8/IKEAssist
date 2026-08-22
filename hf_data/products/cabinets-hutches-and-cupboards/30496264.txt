@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KALKNÄS cabinet with sliding doors, white
+SKU: 30496264
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kalknaes-cabinet-with-sliding-doors-white-30496264/
+Category: Cabinets, hutches & cupboards
+Description: , 325/8x167/8x537/8" Hide all clutter behind the finely embossed doors and display your decorative objects behind the glass doors. KALKNÄS cabinet also comes prepared for cable management so you can e...
+
+# @OFFER
+Price: 199.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Side panel/ Bottom panel: Particleboard, Honeycomb structure paper filling (min. 70% recycled), Fiberboard, Printed acrylic paint, Plastic edging, Back panel: Fiberboard, Plastic foil, Shelf: Particleboard, Particleboard, Honeycomb structure paper filling (min. 70% recycled), Fiberboard, Printed acrylic paint, Plastic edging
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | If you are uncertain about what type of mounting devices to use, please contact your local hardware store.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kalknaes-cabinet-with-sliding-doors-white__0981163_pe815277_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

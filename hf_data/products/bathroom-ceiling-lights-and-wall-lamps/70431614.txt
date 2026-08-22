@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FRIHULT ceiling/wall lamp, stainless steel color
+SKU: 70431614
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/frihult-ceiling-wall-lamp-stainless-steel-color-70431614/
+Category: Bathroom ceiling lights & wall lamps
+Description: The soft, round shapes and use of metal and glass create a timeless look that resembles lamps of the past. It is approved for bathroom use and is also a good solution for hallways. Tested and approved...
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Ceiling cup: Aluminum, Anodized, Shade: Glass
+Features: Light bulb sold separately. IKEA recommends LED bulb E12 chandelier opal white. | Screws are sold separately. | Hardwired installation.
+Care: Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/frihult-ceiling-wall-lamp-stainless-steel-color__0689510_pe723007_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

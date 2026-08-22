@@ -1,0 +1,84 @@
+# @CATEGORY
+Name: Table lamps
+ProductCount: 62
+
+# @FILTERS
+PriceRange: $5.99 - $279.99
+Materials: Amino resin paint, Glass, Arm: Nickel plated, Acrylic coating, Steel, Base weight: Cast iron, Base/ Cup: Steel, Nickel plated, Epoxy coating, Base/ Shade/ Handle: Bamboo, Clear acrylic lacquer, Base/ Shade: Glass, Base/ Spacer/ Tube/ Lampholder cup/ Bracket/ Chain: Steel, Brush finish nickel-plated, Base/ Tube/ Lampholder cup: Steel, Chrome plated, Base/ Tube: Aluminum, Anodized, Base: Bamboo, Clear polyurethane/acrylic lacquer
+Brand: IKEA
+
+# @ITEMS
+- VINDKAST table lamp, white: /products/table-lamps/90539208.txt
+- VARMBLIXT LED table/wall lamp, orange glass/round: /products/table-lamps/90525150.txt
+- UPPVIND table lamp, nickel plated/white: /products/table-lamps/40437702.txt
+- UPPVIND table lamp, brass plated/white: /products/table-lamps/80488285.txt
+- TVÄRHAND table lamp, black/bamboo: /products/table-lamps/60518410.txt
+- TVÄRFOT Table lamp, black, white: /products/table-lamps/00467526.txt
+- TONVIS table lamp, smoked glass/white: /products/table-lamps/00459970.txt
+- TOMELILLA table lamp with LED bulb, nickel plated/white: /products/table-lamps/70464001.txt
+- TOMELILLA table lamp, nickel plated/white: /products/table-lamps/30472164.txt
+- TOKABO table lamp, glass opal: /products/table-lamps/80358019.txt
+- TÄRNABY table lamp, dimmable dark yellow: /products/table-lamps/70577692.txt
+- TÄRNABY table lamp, dimmable beige: /products/table-lamps/10508079.txt
+- TÄRNABY table lamp, dimmable anthracite: /products/table-lamps/00323887.txt
+- STRANDAD table lamp, white/black: /products/table-lamps/40594853.txt
+- STORSEGEL table lamp, ash/white: /products/table-lamps/60573576.txt
+- STOCKHOLM 2025 table lamp, yellow/textile: /products/table-lamps/30586226.txt
+- STOCKHOLM 2025 table lamp, white textile/brass plated: /products/table-lamps/80585936.txt
+- STOCKHOLM 2025 table lamp, black multicolor/textile: /products/table-lamps/30585948.txt
+- SPETSBOJ table lamp, dimmable/yellow: /products/table-lamps/60583858.txt
+- SPETSBOJ table lamp, dimmable/white: /products/table-lamps/70589119.txt
+- SPETSBOJ table lamp, dimmable/green: /products/table-lamps/60591622.txt
+- SOLKLINT table lamp, brass/gray clear glass: /products/table-lamps/10464283.txt
+- SNÖBYAR table lamp, gray-turquoise ceramic/gray: /products/table-lamps/20459846.txt
+- SIMRISHAMN table lamp, chrome plated/opal glass: /products/table-lamps/40437684.txt
+- SAXHYTTAN table lamp, beige/black: /products/table-lamps/90504992.txt
+- REMTÅNG table lamp, gray-green: /products/table-lamps/90566409.txt
+- NYMÅNE table lamp, white: /products/table-lamps/70594328.txt
+- MISTERHULT table lamp, bamboo/handmade: /products/table-lamps/90437634.txt
+- MARKFROST / MOLNART table lamp with LED bulb, marble black/tube-shaped white/clear glass: /products/table-lamps/69507855.txt
+- MARKFROST / MOLNART table lamp with LED bulb, marble black/globe gray clear glass: /products/table-lamps/89597478.txt
+- MARKFROST / MOLNART table lamp with LED bulb, marble black/globe brown clear glass: /products/table-lamps/59597333.txt
+- MARKFROST / MOLNART table lamp with LED bulb, marble black/ellipse shaped multicolor: /products/table-lamps/69507803.txt
+- MARKFROST / MOLNART table lamp with LED bulb, black/marble black: /products/table-lamps/09597321.txt
+- MARKFROST / MOLNART table lamp with LED bulb, black/gray clear glass: /products/table-lamps/39490173.txt
+- MARKFROST / LUNNOM table lamp with LED bulb, marble black/globe: /products/table-lamps/09505369.txt
+- MARKFROST / LUNNOM table lamp with LED bulb, marble black/globe clear: /products/table-lamps/59501156.txt
+- LAUTERS table lamp, brown ash/white: /products/table-lamps/40405819.txt
+- LAUTERS table lamp, ash/white: /products/table-lamps/20404905.txt
+- LAMPAN table lamp, white: /products/table-lamps/20055421.txt
+- KUDDLAVA table lamp, pleated white: /products/table-lamps/10601204.txt
+- KRYSSMAST table lamp, nickel plated: /products/table-lamps/60496333.txt
+- KNUBBIG table lamp, cherry-blossoms white: /products/table-lamps/40222339.txt
+- HÖGVIND table lamp, nickel plated/gray glass: /products/table-lamps/80568220.txt
+- GRÖNÖ table lamp, frosted glass white: /products/table-lamps/10373221.txt
+- FLYGHÖJD table lamp, nickel plated/white: /products/table-lamps/50559986.txt
+- FLYGHÖJD table lamp, brass/beige: /products/table-lamps/90524462.txt
+- FADO table lamp, white: /products/table-lamps/70096377.txt
+- EVEDAL table lamp, marble/gray: /products/table-lamps/10405745.txt
+- DEJSA table lamp, beige/opal glass: /products/table-lamps/00404987.txt
+- BÖJA table lamp, bamboo/handmade: /products/table-lamps/90155040.txt
+- BLIDVÄDER table lamp, off-white ceramic/beige: /products/table-lamps/80514171.txt
+- BLÅSVERK table lamp, yellow: /products/table-lamps/20547985.txt
+- BLÅSVERK table lamp, red: /products/table-lamps/40585617.txt
+- BLÅSVERK table lamp, beige: /products/table-lamps/80520935.txt
+- BARLAST table lamp, black/white: /products/table-lamps/90504567.txt
+- BÄCKNATE table lamp, white: /products/table-lamps/60583504.txt
+- ÅSKMULLER table lamp, dimmable light yellow/green: /products/table-lamps/30578274.txt
+- ÅSKMULLER table lamp, dimmable light pink/red: /products/table-lamps/40576236.txt
+- ÅSKMULLER table lamp, dimmable light gray: /products/table-lamps/30576251.txt
+- ÅRSTID table lamp, nickel plated/white: /products/table-lamps/60280639.txt
+- ÅRSTID table lamp, brass/white: /products/table-lamps/80321380.txt
+- AKTERSPRING table lamp, opal glass/brass plated: /products/table-lamps/60591655.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

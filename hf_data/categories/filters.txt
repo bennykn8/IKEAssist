@@ -1,0 +1,27 @@
+# @CATEGORY
+Name: Filters
+ProductCount: 6
+
+# @FILTERS
+PriceRange: $34.99 - $66.99
+Brand: IKEA
+
+# @ITEMS
+- NYTTIG FIL 50 charcoal filter with conversion kit, Stainless steel: /products/filters/00484291.txt
+- NYTTIG FIL 30 charcoal filter with conversion kit, Stainless steel: /products/filters/20482677.txt
+- NYTTIG FIL 20 charcoal filter with conversion kit, Stainless steel: /products/filters/80471157.txt
+- NYTTIG FIL 10 charcoal filter with conversion kit, Stainless steel: /products/filters/20471160.txt
+- NYTTIG FIL 02 charcoal filter: /products/filters/20484290.txt
+- NYTTIG FIL 01 charcoal filter: /products/filters/40477043.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

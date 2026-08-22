@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: IKEA 365+ serving stand, acacia, 15x8 ¼"
+SKU: 30603037
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ikea-365-serving-stand-acacia-30603037/
+Category: Cake & serving stands
+Description: Whether it’s an everyday breakfast or a formal dinner party, the beauty and practicality of the acacia cross-shaped stand enhance the overall dining experience, transforming the way you present food t...
+
+# @OFFER
+Price: 3
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Solid acacia wood, Clear acrylic lacquer
+Features: Acacia has a rich brown color and distinctive grain pattern. It is highly durable, resistant to scratches and water, ideal for heavy-use. Acacia darkens slightly with age. | Product is possible to recycle or use for energy recovery, if available in your community.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ikea-365-serving-stand-acacia__1409120_pe972148_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

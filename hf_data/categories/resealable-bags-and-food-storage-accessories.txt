@@ -1,0 +1,37 @@
+# @CATEGORY
+Name: Resealable bags & food storage accessories
+ProductCount: 15
+
+# @FILTERS
+PriceRange: $1.99 - $9.99
+Materials: Clamp: ABS plastic, Elastic band: 100 % polyester, 100 % rubber, Fabric: 100% polyester (min. 90% recycled), Lining: EVA plastic, Main parts: Solid cardboard, Polypropylene, Polyethylene, Polypropylene, Polypropylene (min. 50% recycled), Polypropylene plastic (min. 20% recycled), Silicone rubber
+Brand: IKEA
+
+# @ITEMS
+- ÖVERMÄTT food cover, silicone: /products/resealable-bags-and-food-storage-accessories/40497932.txt
+- ÖVERMÄTT food cover, set of 3, silicone multicolor: /products/resealable-bags-and-food-storage-accessories/80417311.txt
+- ÖVERMÄTT food cover, set of 2, silicone: /products/resealable-bags-and-food-storage-accessories/30497923.txt
+- ÖRINGABBORRE sealing clip, set of 9, multicolor: /products/resealable-bags-and-food-storage-accessories/60556708.txt
+- KUSTFYR resealable bag, cat pattern gray, 34 oz: /products/resealable-bags-and-food-storage-accessories/50599609.txt
+- ISTAD resealable bag, patterned red/pink, 3/1 qt: /products/resealable-bags-and-food-storage-accessories/60577961.txt
+- ISTAD resealable bag, patterned/green, 6/5 qt: /products/resealable-bags-and-food-storage-accessories/40577962.txt
+- ISTAD resealable bag, patterned black/yellow, 3/1 qt: /products/resealable-bags-and-food-storage-accessories/80577960.txt
+- ISTAD resealable bag, patterned/black yellow, 34/14 oz: /products/resealable-bags-and-food-storage-accessories/20577963.txt
+- IKEA 365+ insert for food container, set of 2, dark blue: /products/resealable-bags-and-food-storage-accessories/00500899.txt
+- FRAMTUNG lunch bag, black, 8 ¾x6 ¾x13 ¾": /products/resealable-bags-and-food-storage-accessories/00510643.txt
+- FÖNSTERFIKUS label with string, set of 9, white: /products/resealable-bags-and-food-storage-accessories/90582386.txt
+- FLADDRIG lunch bag, patterned gray, 9 ¾x6 ¼x10 ¾": /products/resealable-bags-and-food-storage-accessories/10497212.txt
+- BEVARA sealing clip, set of 26, mixed colors: /products/resealable-bags-and-food-storage-accessories/00524174.txt
+- BEVARA sealing clip, anthracite/dark yellow: /products/resealable-bags-and-food-storage-accessories/90524179.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

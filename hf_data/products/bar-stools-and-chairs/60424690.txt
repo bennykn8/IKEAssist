@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: NORDVIKEN bar stool with backrest, white
+SKU: 60424690
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/nordviken-bar-stool-with-backrest-white-60424690/
+Category: Bar stools & chairs
+Description: , 243/8" NORDVIKEN counter-height stool with a deepening in the seat and curved backrest will keep you comfortably seated for long conversations at the kitchen island. The look is easy to combine in a...
+
+# @OFFER
+Price: 105
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Leg/ Rail: Solid pine, Stain, Clear acrylic lacquer, Seat: Layer-glued wood veneer, Beech veneer, Beech veneer, Layer-glued wood veneer, Stain, Clear acrylic lacquer
+Dimensions: Suitable for bar height 35⅜".
+Care: Wipe clean with a mild soapy solution. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/nordviken-bar-stool-with-backrest-white__0714174_pe729957_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

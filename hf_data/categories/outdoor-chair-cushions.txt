@@ -1,0 +1,89 @@
+# @CATEGORY
+Name: Outdoor chair cushions
+ProductCount: 67
+
+# @FILTERS
+PriceRange: $5.00 - $190.00
+Materials: 100% polyester (min. 90% recycled), Core filling: High-resilience polyurethane foam (cold foam), Core filling: Polyurethane foam, Cover/ Smolder resistant lining: Polyester wadding, Cover: Polyester wadding, Cushion cover/ Fabric: 100% polyester (min. 90% recycled), Cushion cover/ Filling/ Fabric: 100 % polyester (100% recycled), Cushion cover: 100% polyester (min. 90% recycled), Fabric/ Cushion cover/ Filling: 100 % polyester (100% recycled), Fabric/ Cushion cover: 100% polyester (min. 90% recycled)
+Brand: IKEA
+
+# @ITEMS
+- KUDDARNA sun lounger cushion, outdoor, light grey-beige: /products/outdoor-chair-cushions/80547261.txt
+- KUDDARNA seat pad, outdoor, light grey-beige: /products/outdoor-chair-cushions/10547250.txt
+- KUDDARNA seat/back pad, outdoor, light grey-beige: /products/outdoor-chair-cushions/40547244.txt
+- KUDDARNA chair pad, outdoor, light grey-beige: /products/outdoor-chair-cushions/90547232.txt
+- KUDDARNA chair pad, outdoor, light grey-beige: /products/outdoor-chair-cushions/60547238.txt
+- KUDDARNA chair pad, outdoor, light grey-beige: /products/outdoor-chair-cushions/10547226.txt
+- KUDDARNA chair pad, outdoor, light grey-beige: /products/outdoor-chair-cushions/00584182.txt
+- KUDDARNA bench pad, outdoor, light grey-beige: /products/outdoor-chair-cushions/80584183.txt
+- KUDDARNA back cushion, outdoor, light grey-beige: /products/outdoor-chair-cushions/80547256.txt
+- KUDDARNA back cushion, outdoor, beige: /products/outdoor-chair-cushions/00586671.txt
+- KLÖSAN chair pad, outdoor, dark blue: /products/outdoor-chair-cushions/70583805.txt
+- KLÖSAN chair pad, outdoor, dark blue: /products/outdoor-chair-cushions/50583806.txt
+- KLÖSAN chair pad, outdoor, dark blue: /products/outdoor-chair-cushions/30583807.txt
+- KLÖSAN chair pad, outdoor, dark blue: /products/outdoor-chair-cushions/20583803.txt
+- KLÖSAN chair pad, outdoor, dark blue: /products/outdoor-chair-cushions/00583804.txt
+- JÄRPÖN/DUVHOLMEN seat pad, outdoor, anthracite: /products/outdoor-chair-cushions/89304913.txt
+- JÄRPÖN/DUVHOLMEN seat/back pad, outdoor, white: /products/outdoor-chair-cushions/79412833.txt
+- JÄRPÖN/DUVHOLMEN seat/back pad, outdoor, anthracite: /products/outdoor-chair-cushions/39412825.txt
+- JÄRPÖN/DUVHOLMEN chair pad, outdoor, anthracite: /products/outdoor-chair-cushions/69304872.txt
+- JÄRPÖN/DUVHOLMEN back cushion, outdoor, anthracite: /products/outdoor-chair-cushions/89304932.txt
+- JÄRPÖN cover for seat pad, outdoor anthracite: /products/outdoor-chair-cushions/20445331.txt
+- JÄRPÖN cover for seat/back pad, outdoor white: /products/outdoor-chair-cushions/50483524.txt
+- JÄRPÖN cover for seat/back pad, outdoor anthracite: /products/outdoor-chair-cushions/40483478.txt
+- JÄRPÖN cover for chair pad, outdoor anthracite: /products/outdoor-chair-cushions/10445317.txt
+- JÄRPÖN cover for back cushion, outdoor anthracite: /products/outdoor-chair-cushions/50445301.txt
+- HAVSTEN seat/back pad, outdoor, beige: /products/outdoor-chair-cushions/40549262.txt
+- FRÖSÖN sun lounger cushion cover, outdoor dark gray: /products/outdoor-chair-cushions/10509903.txt
+- FRÖSÖN sun lounger cushion cover, outdoor beige: /products/outdoor-chair-cushions/00509885.txt
+- FRÖSÖN/DUVHOLMEN seat pad, outdoor, dark gray: /products/outdoor-chair-cushions/39583935.txt
+- FRÖSÖN/DUVHOLMEN seat pad, outdoor, beige: /products/outdoor-chair-cushions/69583905.txt
+- FRÖSÖN/DUVHOLMEN seat/back pad, outdoor, dark gray: /products/outdoor-chair-cushions/69253132.txt
+- FRÖSÖN/DUVHOLMEN seat/back pad, outdoor, beige: /products/outdoor-chair-cushions/69253127.txt
+- FRÖSÖN/DUVHOLMEN chaise pad, dark gray: /products/outdoor-chair-cushions/79444155.txt
+- FRÖSÖN/DUVHOLMEN chaise pad, beige: /products/outdoor-chair-cushions/69444151.txt
+- FRÖSÖN/DUVHOLMEN chair pad, outdoor, dark gray: /products/outdoor-chair-cushions/69291365.txt
+- FRÖSÖN/DUVHOLMEN chair pad, outdoor, dark gray: /products/outdoor-chair-cushions/29253450.txt
+- FRÖSÖN/DUVHOLMEN chair pad, outdoor, beige: /products/outdoor-chair-cushions/89291331.txt
+- FRÖSÖN/DUVHOLMEN chair pad, outdoor, beige: /products/outdoor-chair-cushions/89252891.txt
+- FRÖSÖN/DUVHOLMEN chair pad, outdoor, beige: /products/outdoor-chair-cushions/59253444.txt
+- FRÖSÖN/DUVHOLMEN back cushion, outdoor, dark gray: /products/outdoor-chair-cushions/89253112.txt
+- FRÖSÖN/DUVHOLMEN back cushion, outdoor, beige: /products/outdoor-chair-cushions/89253107.txt
+- FRÖSÖN cover for seat pad, outdoor dark gray: /products/outdoor-chair-cushions/90587063.txt
+- FRÖSÖN cover for seat pad, outdoor beige: /products/outdoor-chair-cushions/70587059.txt
+- FRÖSÖN cover for seat pad, outdoor beige: /products/outdoor-chair-cushions/60592396.txt
+- FRÖSÖN cover for seat pad, dark gray outdoor: /products/outdoor-chair-cushions/20574422.txt
+- FRÖSÖN cover for seat/back pad, outdoor/multicolor stripe pattern: /products/outdoor-chair-cushions/70547191.txt
+- FRÖSÖN cover for seat/back pad, outdoor dark gray: /products/outdoor-chair-cushions/30391752.txt
+- FRÖSÖN cover for seat/back pad, outdoor beige: /products/outdoor-chair-cushions/50391751.txt
+- FRÖSÖN cover for chair pad, outdoor/multicolor stripe pattern: /products/outdoor-chair-cushions/80547181.txt
+- FRÖSÖN cover for chair pad, outdoor/multicolor stripe pattern: /products/outdoor-chair-cushions/70547186.txt
+- FRÖSÖN cover for chair pad, outdoor dark gray: /products/outdoor-chair-cushions/60412946.txt
+- FRÖSÖN cover for chair pad, outdoor dark gray: /products/outdoor-chair-cushions/10391748.txt
+- FRÖSÖN cover for chair pad, outdoor beige: /products/outdoor-chair-cushions/50391746.txt
+- FRÖSÖN cover for chair pad, outdoor beige: /products/outdoor-chair-cushions/30391747.txt
+- FRÖSÖN cover for chair pad, outdoor beige: /products/outdoor-chair-cushions/20412934.txt
+- FRÖSÖN cover for back cushion, outdoor dark gray: /products/outdoor-chair-cushions/00391744.txt
+- FRÖSÖN cover for back cushion, outdoor beige: /products/outdoor-chair-cushions/50592392.txt
+- FRÖSÖN cover for back cushion, outdoor beige: /products/outdoor-chair-cushions/20391743.txt
+- DUVHOLMEN inner seat pad, outdoor white: /products/outdoor-chair-cushions/50592405.txt
+- DUVHOLMEN inner seat pad, outdoor white: /products/outdoor-chair-cushions/40391855.txt
+- DUVHOLMEN inner pad for seat/back pad, outdoor off-white: /products/outdoor-chair-cushions/20391861.txt
+- DUVHOLMEN inner chaise pad: /products/outdoor-chair-cushions/30509935.txt
+- DUVHOLMEN inner chair pad, outdoor white: /products/outdoor-chair-cushions/80417896.txt
+- DUVHOLMEN inner chair pad, outdoor white: /products/outdoor-chair-cushions/70391849.txt
+- DUVHOLMEN inner chair pad, outdoor white: /products/outdoor-chair-cushions/00391843.txt
+- DUVHOLMEN inner back cushion, outdoor white: /products/outdoor-chair-cushions/20592402.txt
+- DUVHOLMEN inner back cushion, outdoor white: /products/outdoor-chair-cushions/00391838.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

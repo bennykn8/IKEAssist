@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: SEKTION base cabinet with shelves/2 doors, white Enköping/white wood effect
+SKU: 79472285
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sektion-base-cabinet-with-shelves-2-doors-white-enkoeping-white-wood-effect-s79472285/
+Category: Base cabinets
+Description: , 36x24x30" SEKTION kitchen system gives you endless possibilities to design your dream kitchen. Paired with ENKÖPING fronts in white foil with subtle grain structure you get a classic look with warm ...
+
+# @OFFER
+Price: 252
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Door frame: Fiberboard, Plastic foil, Plastic edging, Door filling: Fiberboard, Plastic foil, Frame: Particleboard, Melamine foil, Plastic edging
+Dimensions: The hinge is adjustable in height, depth and width.
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Requires a knob or a handle | To be completed with SEKTION suspension rail for mounting the cabinet to the wall.
+Care: Wipe clean with a damp cloth.  Use only water or a non-abrasive detergent. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sektion-base-cabinet-with-shelves-2-doors-white-enkoeping-white-wood-effect__1072961_pe855303_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

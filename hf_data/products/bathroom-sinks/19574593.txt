@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: VÄSTERSJÖN countertop sink w water trap, white
+SKU: 19574593
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vaestersjoen-countertop-sink-w-water-trap-white-s19574593/
+Category: Bathroom sinks
+Description: , 153/4x51/2x31/2" Ceramic countertop wash-basin with round bowl and raised back which give it a traditional character. Pair it with your choice of wash-basin cabinet, countertop and tall wash-basin m...
+
+# @OFFER
+Price: 160
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Ceramic, Colored glaze, Water trap frame/ Nut/ Outlet pipe: Polypropylene, Washer: Synthetic rubber
+Dimensions: May be completed with TOLKEN or ÅLSKEN countertop and TÄNNFORSEN wash-stand, minimum width 23⅝ in.
+Features: Strainer and water-trap included. | Let the silicone underneath the sink harden for 2 hours before connecting the water trap. | If you are uncertain about the installation, contact a professional. The installation shall be made in accordance with valid local building and plumbing regulations.
+Care: Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary. | Do not use scouring powder, steel wool, hard or sharp tools which can scratch the surface of the sink.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vaestersjoen-countertop-sink-w-water-trap-white__1376518_pe960459_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

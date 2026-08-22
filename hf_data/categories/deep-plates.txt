@@ -1,0 +1,44 @@
+# @CATEGORY
+Name: Deep plates
+ProductCount: 22
+
+# @FILTERS
+PriceRange: $0.49 - $19.99
+Materials: Feldspar porcelain, Feldspar porcelain, Colored glaze, Fine china, Glaze, Polypropylene, Stoneware, Stoneware, Colored glaze, Tempered glass, Tempered opal glass
+Brand: IKEA
+
+# @ITEMS
+- VITABBORRE deep plate/bowl, blue, 7 ¾": /products/deep-plates/30611179.txt
+- VITABBORRE deep plate/bowl, beige, 7 ¾": /products/deep-plates/50611201.txt
+- VÄRDERA deep plate/bowl, white, 7 ¾x7 ¾": /products/deep-plates/90277348.txt
+- UPPLAGA deep plate/bowl, white: /products/deep-plates/50462423.txt
+- STRIMMIG deep plate/bowl, white: /products/deep-plates/00468210.txt
+- STOCKHOLM 2025 deep plate/bowl, white: /products/deep-plates/80592423.txt
+- SILVERSIDA deep plate/bowl, patterned/blue, 7 ½": /products/deep-plates/30565686.txt
+- SANDSKÄDDA deep plate/bowl, light grey-beige, 8 ½": /products/deep-plates/10559441.txt
+- PARADISISK deep plate/bowl, off-white, 8 ½": /products/deep-plates/40483464.txt
+- OFTAST deep plate/bowl, white: /products/deep-plates/00318942.txt
+- OFTAST deep plate/bowl, light green: /products/deep-plates/30608252.txt
+- NÄTBARB deep plate/bowl, black, 7 ½": /products/deep-plates/90563694.txt
+- KRUSTISTEL deep plate/bowl, patterned/light beige, 7 ½": /products/deep-plates/90584328.txt
+- KRUSTISTEL deep plate/bowl, patterned/gray, 7 ½": /products/deep-plates/20595151.txt
+- IKEA 365+ bowl, angled sides white: /products/deep-plates/90279700.txt
+- GODMIDDAG deep plate/bowl, white: /products/deep-plates/50585018.txt
+- GLADELIG deep plate/bowl, gray, 8 ½": /products/deep-plates/60600754.txt
+- GLADELIG deep plate/bowl, dark gray, 8 ½": /products/deep-plates/40596989.txt
+- GLADELIG deep plate/bowl, blue, 8 ½": /products/deep-plates/00600714.txt
+- FÄRGKLAR deep plate/bowl, matte light gray: /products/deep-plates/20479383.txt
+- FÄRGKLAR deep plate/bowl, matte green: /products/deep-plates/40478165.txt
+- FÄRGKLAR deep plate/bowl, light pink: /products/deep-plates/10600412.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

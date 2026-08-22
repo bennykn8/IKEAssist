@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LÖVRÄFSA basket, bamboo, 19 ¾x12 ½"
+SKU: 80556854
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/loevraefsa-basket-bamboo-80556854/
+Category: Baskets
+Description: This basket, with its fine details and beautiful shape, is braided by hand. The beautiful craftsmanship suits your blankets by the sofa just as well as towels in the bathroom. The natural material dev...
+
+# @OFFER
+Price: 34.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Bamboo, Clear acrylic lacquer, Top frame: Bamboo, Stain, Clear acrylic lacquer, Binding/ Foot ring: Rattan, Clear acrylic lacquer
+Features: Recommended for indoor use only. | Bamboo is a natural fiber that might change color over time. | Each basket is a unique, handmade work of art with natural variations in color and shape.
+Care: Dry with a cloth. Do not use pressure washers which may damage the bamboo. | Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/loevraefsa-basket-bamboo__1258631_pe926396_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,84 @@
+# @CATEGORY
+Name: BESTÅ media combinations
+ProductCount: 62
+
+# @FILTERS
+PriceRange: $532.00 - $1870.00
+Materials: Back panel: Fiberboard, Fiberboard, Paper foil, Plastic foil, Back panel: Fiberboard, Paper foil, Back panel: Fiberboard, Paper foil, Plastic foil, Panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Paper foil, Plastic edging, Plastic edging, Plastic edging, Paper foil, Panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Plastic edging, Plastic edging, Plastic edging, Paper foil, Panel: Particleboard, Honeycomb structure paper filling (100% recycled), Fiberboard, Paper foil, Plastic edging, Top panel/ Bottom panel/ Side panel/ Partition: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Paper foil, Plastic edging, Plastic edging, Plastic edging, Top panel/ Bottom panel/ Side panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Plastic edging, Top panel/ Bottom panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Paper foil, Plastic edging, Plastic edging, Plastic edging, Top: Particleboard, Honeycomb structure paper filling (100% recycled), Fiberboard, Paper foil, Paper foil, Plastic edging, Plastic edging, Paper foil
+Brand: IKEA
+
+# @ITEMS
+- BESTÅ TV storage combination/glass doors, white Sutterviken/Sindvik white clear glass: /products/bestå-media-combinations/89569258.txt
+- BESTÅ TV storage combination/glass doors, white Sutterviken/Sindvik white clear glass: /products/bestå-media-combinations/19569285.txt
+- BESTÅ TV storage combination/glass doors, white stained oak effect/Lappviken wht stained oak effect clear glass: /products/bestå-media-combinations/89568800.txt
+- BESTÅ TV storage combination/glass doors, white stained oak effect/Lappviken wht stained oak effect clear glass: /products/bestå-media-combinations/59569288.txt
+- BESTÅ TV storage combination/glass doors, white stained oak effect/Lappviken wht stained oak effect clear glass: /products/bestå-media-combinations/49568784.txt
+- BESTÅ TV storage combination/glass doors, white stained oak effect/Lappviken wht stained oak effect clear glass: /products/bestå-media-combinations/39569265.txt
+- BESTÅ TV storage combination/glass doors, white Smeviken/Ostvik white clear glass: /products/bestå-media-combinations/49569284.txt
+- BESTÅ TV storage combination/glass doors, white Smeviken/Ostvik white clear glass: /products/bestå-media-combinations/09569257.txt
+- BESTÅ TV storage combination/glass doors, white/Selsviken high gloss/beige frosted glass: /products/bestå-media-combinations/99569272.txt
+- BESTÅ TV storage combination/glass doors, white/Selsviken high gloss/beige frosted glass: /products/bestå-media-combinations/89569263.txt
+- BESTÅ TV storage combination/glass doors, white/Selsviken high gloss/beige frosted glass: /products/bestå-media-combinations/79568773.txt
+- BESTÅ TV storage combination/glass doors, white/Selsviken high gloss/beige frosted glass: /products/bestå-media-combinations/29568799.txt
+- BESTÅ TV storage combination/glass doors, white/Selsviken high gloss/beige clear glass: /products/bestå-media-combinations/99568772.txt
+- BESTÅ TV storage combination/glass doors, white/Selsviken high gloss/beige clear glass: /products/bestå-media-combinations/49568798.txt
+- BESTÅ TV storage combination/glass doors, white/Selsviken high gloss/beige clear glass: /products/bestå-media-combinations/19569271.txt
+- BESTÅ TV storage combination/glass doors, white/Selsviken high gloss/beige clear glass: /products/bestå-media-combinations/09569262.txt
+- BESTÅ TV storage combination/glass doors, white/Lappviken white clear glass: /products/bestå-media-combinations/79569287.txt
+- BESTÅ TV storage combination/glass doors, white/Lappviken white clear glass: /products/bestå-media-combinations/69568797.txt
+- BESTÅ TV storage combination/glass doors, white/Lappviken white clear glass: /products/bestå-media-combinations/69568783.txt
+- BESTÅ TV storage combination/glass doors, white/Lappviken white clear glass: /products/bestå-media-combinations/29569261.txt
+- BESTÅ TV storage combination/glass doors, white/Hanviken white clear glass: /products/bestå-media-combinations/99569286.txt
+- BESTÅ TV storage combination/glass doors, white/Hanviken white clear glass: /products/bestå-media-combinations/89568796.txt
+- BESTÅ TV storage combination/glass doors, white/Hanviken white clear glass: /products/bestå-media-combinations/89568782.txt
+- BESTÅ TV storage combination/glass doors, white/Hanviken white clear glass: /products/bestå-media-combinations/49569260.txt
+- BESTÅ TV storage combination/glass doors, white Glassvik/Bergsviken black: /products/bestå-media-combinations/09568804.txt
+- BESTÅ TV storage combination/glass doors, white Glassvik/Bergsviken black: /products/bestå-media-combinations/09568795.txt
+- BESTÅ TV storage combination/glass doors, dark gray Lappviken/Sindvik dark gray: /products/bestå-media-combinations/89564171.txt
+- BESTÅ TV storage combination/glass doors, dark gray Lappviken/Sindvik dark gray: /products/bestå-media-combinations/79569268.txt
+- BESTÅ TV storage combination/glass doors, dark gray Lappviken/Sindvik dark gray: /products/bestå-media-combinations/79564181.txt
+- BESTÅ TV storage combination/glass doors, dark gray Lappviken/Sindvik dark gray: /products/bestå-media-combinations/49568802.txt
+- BESTÅ TV storage combination/glass doors, dark gray Lappviken/Fällsvik anthracite: /products/bestå-media-combinations/99569267.txt
+- BESTÅ TV storage combination/glass doors, dark gray Lappviken/Fällsvik anthracite: /products/bestå-media-combinations/99564180.txt
+- BESTÅ TV storage combination/glass doors, dark gray Lappviken/Fällsvik anthracite: /products/bestå-media-combinations/69568801.txt
+- BESTÅ TV storage combination/glass doors, dark gray Lappviken/Fällsvik anthracite: /products/bestå-media-combinations/09564170.txt
+- BESTÅ TV storage combination/glass doors, black-brown/Selsviken high gloss/black smoked glass: /products/bestå-media-combinations/99568791.txt
+- BESTÅ TV storage combination/glass doors, black-brown/Selsviken high gloss/black smoked glass: /products/bestå-media-combinations/59569250.txt
+- BESTÅ TV storage combination/glass doors, black-brown/Selsviken high gloss/black smoked glass: /products/bestå-media-combinations/49568779.txt
+- BESTÅ TV storage combination/glass doors, black-brown/Selsviken high gloss/black smoked glass: /products/bestå-media-combinations/29569280.txt
+- BESTÅ TV storage combination/glass doors, black-brown/Selsviken high gloss/black clear glass: /products/bestå-media-combinations/79569249.txt
+- BESTÅ TV storage combination/glass doors, black-brown/Selsviken high gloss/black clear glass: /products/bestå-media-combinations/69569278.txt
+- BESTÅ TV storage combination/glass doors, black-brown/Selsviken high gloss/black clear glass: /products/bestå-media-combinations/69568778.txt
+- BESTÅ TV storage combination/glass doors, black-brown/Selsviken high gloss/black clear glass: /products/bestå-media-combinations/19568790.txt
+- BESTÅ TV storage combination/glass doors, black-brown/Selsviken high gloss/beige smoked glass: /products/bestå-media-combinations/89569277.txt
+- BESTÅ TV storage combination/glass doors, black-brown/Selsviken high gloss/beige smoked glass: /products/bestå-media-combinations/89568777.txt
+- BESTÅ TV storage combination/glass doors, black-brown/Selsviken high gloss/beige smoked glass: /products/bestå-media-combinations/59568788.txt
+- BESTÅ TV storage combination/glass doors, black-brown/Selsviken high gloss/beige smoked glass: /products/bestå-media-combinations/19569247.txt
+- BESTÅ TV storage combination/glass doors, black-brown/Selsviken high gloss/beige clear glass: /products/bestå-media-combinations/39569246.txt
+- BESTÅ TV storage combination/glass doors, black-brown/Selsviken high gloss/beige clear glass: /products/bestå-media-combinations/39568789.txt
+- BESTÅ TV storage combination/glass doors, black-brown/Selsviken high gloss/beige clear glass: /products/bestå-media-combinations/09569276.txt
+- BESTÅ TV storage combination/glass doors, black-brown/Selsviken high gloss/beige clear glass: /products/bestå-media-combinations/09568776.txt
+- BESTÅ TV storage combination/glass doors, black-brown/Lappviken black-brown clear glass: /products/bestå-media-combinations/79568787.txt
+- BESTÅ TV storage combination/glass doors, black-brown/Lappviken black-brown clear glass: /products/bestå-media-combinations/59569245.txt
+- BESTÅ TV storage combination/glass doors, black-brown/Lappviken black-brown clear glass: /products/bestå-media-combinations/29569275.txt
+- BESTÅ TV storage combination/glass doors, black-brown/Lappviken black-brown clear glass: /products/bestå-media-combinations/29568775.txt
+- BESTÅ TV storage combination/glass doors, black-brown/Hanviken black-brown clear glass: /products/bestå-media-combinations/89569244.txt
+- BESTÅ TV storage combination/glass doors, black-brown/Hanviken black-brown clear glass: /products/bestå-media-combinations/59569274.txt
+- BESTÅ TV storage combination/glass doors, black-brown/Hanviken black-brown clear glass: /products/bestå-media-combinations/59568774.txt
+- BESTÅ TV storage combination/glass doors, black-brown/Hanviken black-brown clear glass: /products/bestå-media-combinations/19568785.txt
+- BESTÅ / EKET TV storage combination, white/white stained oak effect: /products/bestå-media-combinations/69572916.txt
+- BESTÅ / EKET TV storage combination, white/white stained oak effect: /products/bestå-media-combinations/49572917.txt
+- BESTÅ / EKET TV storage combination, white: /products/bestå-media-combinations/89572915.txt
+- BESTÅ / EKET TV storage combination, white: /products/bestå-media-combinations/39572913.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

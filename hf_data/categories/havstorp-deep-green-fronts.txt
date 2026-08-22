@@ -1,0 +1,59 @@
+# @CATEGORY
+Name: HAVSTORP deep green fronts
+ProductCount: 37
+
+# @FILTERS
+PriceRange: $15.00 - $82.00
+Materials: Fiberboard, Acrylic paint
+Brand: IKEA
+
+# @ITEMS
+- HAVSTORP drawer front, deep green: /products/havstorp-deep-green-fronts/90576432.txt
+- HAVSTORP drawer front, deep green: /products/havstorp-deep-green-fronts/90576427.txt
+- HAVSTORP drawer front, deep green: /products/havstorp-deep-green-fronts/80576423.txt
+- HAVSTORP drawer front, deep green: /products/havstorp-deep-green-fronts/70576433.txt
+- HAVSTORP drawer front, deep green: /products/havstorp-deep-green-fronts/70576428.txt
+- HAVSTORP drawer front, deep green: /products/havstorp-deep-green-fronts/60576424.txt
+- HAVSTORP drawer front, deep green: /products/havstorp-deep-green-fronts/60576419.txt
+- HAVSTORP drawer front, deep green: /products/havstorp-deep-green-fronts/50576429.txt
+- HAVSTORP drawer front, deep green: /products/havstorp-deep-green-fronts/40576420.txt
+- HAVSTORP drawer front, deep green: /products/havstorp-deep-green-fronts/30576430.txt
+- HAVSTORP drawer front, deep green: /products/havstorp-deep-green-fronts/30576425.txt
+- HAVSTORP drawer front, deep green: /products/havstorp-deep-green-fronts/20576421.txt
+- HAVSTORP drawer front, deep green: /products/havstorp-deep-green-fronts/10576431.txt
+- HAVSTORP drawer front, deep green: /products/havstorp-deep-green-fronts/10576426.txt
+- HAVSTORP drawer front, deep green: /products/havstorp-deep-green-fronts/00576422.txt
+- HAVSTORP door, deep green: /products/havstorp-deep-green-fronts/90576413.txt
+- HAVSTORP door, deep green: /products/havstorp-deep-green-fronts/90576408.txt
+- HAVSTORP door, deep green: /products/havstorp-deep-green-fronts/80576404.txt
+- HAVSTORP door, deep green: /products/havstorp-deep-green-fronts/70576414.txt
+- HAVSTORP door, deep green: /products/havstorp-deep-green-fronts/70576409.txt
+- HAVSTORP door, deep green: /products/havstorp-deep-green-fronts/60576400.txt
+- HAVSTORP door, deep green: /products/havstorp-deep-green-fronts/60576396.txt
+- HAVSTORP door, deep green: /products/havstorp-deep-green-fronts/50576410.txt
+- HAVSTORP door, deep green: /products/havstorp-deep-green-fronts/40576415.txt
+- HAVSTORP door, deep green: /products/havstorp-deep-green-fronts/40576401.txt
+- HAVSTORP door, deep green: /products/havstorp-deep-green-fronts/40576397.txt
+- HAVSTORP door, deep green: /products/havstorp-deep-green-fronts/30576411.txt
+- HAVSTORP door, deep green: /products/havstorp-deep-green-fronts/30576406.txt
+- HAVSTORP door, deep green: /products/havstorp-deep-green-fronts/20576416.txt
+- HAVSTORP door, deep green: /products/havstorp-deep-green-fronts/20576402.txt
+- HAVSTORP door, deep green: /products/havstorp-deep-green-fronts/20576398.txt
+- HAVSTORP door, deep green: /products/havstorp-deep-green-fronts/10576412.txt
+- HAVSTORP door, deep green: /products/havstorp-deep-green-fronts/10576407.txt
+- HAVSTORP door, deep green: /products/havstorp-deep-green-fronts/00576417.txt
+- HAVSTORP door, deep green: /products/havstorp-deep-green-fronts/00576403.txt
+- HAVSTORP door, deep green: /products/havstorp-deep-green-fronts/00576399.txt
+- HAVSTORP 2-p door/corner base cabinet set, deep green: /products/havstorp-deep-green-fronts/80576418.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

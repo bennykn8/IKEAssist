@@ -1,0 +1,27 @@
+# @CATEGORY
+Name: VRETSTORP covers
+ProductCount: 5
+
+# @FILTERS
+PriceRange: $99.00 - $199.00
+Materials: Back fabric: 100 % polyester (100% recycled), Cord: 100 % polyester, Fabric/ Back fabric: 100 % polyester (100% recycled), Fabric: 100 % cotton, Fabric: 100% polyester (min. 90% recycled)
+Brand: IKEA
+
+# @ITEMS
+- VRETSTORP cover for sleeper sofa, Kilanda light beige: /products/vretstorp-covers/90545191.txt
+- VRETSTORP cover for sleeper sofa, Kilanda dark blue: /products/vretstorp-covers/10545185.txt
+- VRETSTORP cover for sleeper sofa, Karlshov beige/multicolor: /products/vretstorp-covers/00547627.txt
+- VRETSTORP cover for sleeper sofa, Hakebo gray-green: /products/vretstorp-covers/40545179.txt
+- VRETSTORP cover for sleeper sofa, Hakebo dark gray: /products/vretstorp-covers/70545173.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

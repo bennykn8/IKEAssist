@@ -1,0 +1,51 @@
+# @CATEGORY
+Name: BESTÅ fittings & inside organizers
+ProductCount: 29
+
+# @FILTERS
+PriceRange: $2.99 - $25.00
+Materials: Bamboo, Tinted lacquer, Bottom: 100% polyester (min. 90% recycled), Box: 100 % polyester, Drawer back/ Drawer side: Particleboard, Plastic foil, Drawer bottom: Particleboard, Plastic foil, Paper foil, Galvanized steel, Metal part: Steel, Nickel plated, PET plastic (min. 50% recycled), Particleboard, Fiberboard, Paper foil, Plastic edging, Plastic edging, Plastic edging, Paper foil, Particleboard, Paper foil, Plastic edging, Plastic edging, Paper foil
+Brand: IKEA
+
+# @ITEMS
+- KUGGIS box with lid, light gray, 7x10 ¼x: /products/bestå-fittings-and-inside-organizers/49596763.txt
+- KUGGIS box with lid, light gray, 7x10 ¼x3 ¼": /products/bestå-fittings-and-inside-organizers/29596764.txt
+- KUGGIS box with lid, light gray/bamboo, 7x10 ¼x3 ¼": /products/bestå-fittings-and-inside-organizers/89596822.txt
+- KUGGIS box with lid, light gray/bamboo, 7x10 ¼x: /products/bestå-fittings-and-inside-organizers/89596817.txt
+- KUGGIS box, light gray, 7x10 ¼x: /products/bestå-fittings-and-inside-organizers/60599152.txt
+- BESTÅ suspension rail, silver color: /products/bestå-fittings-and-inside-organizers/70488318.txt
+- BESTÅ soft closing/push-open hinge: /products/bestå-fittings-and-inside-organizers/80261258.txt
+- BESTÅ shelf, white stained oak effect: /products/bestå-fittings-and-inside-organizers/20295548.txt
+- BESTÅ shelf, white stained oak effect: /products/bestå-fittings-and-inside-organizers/00295549.txt
+- BESTÅ Shelf, white: /products/bestå-fittings-and-inside-organizers/40295552.txt
+- BESTÅ Shelf, white: /products/bestå-fittings-and-inside-organizers/00295554.txt
+- BESTÅ shelf, dark gray: /products/bestå-fittings-and-inside-organizers/80538624.txt
+- BESTÅ shelf, dark gray: /products/bestå-fittings-and-inside-organizers/10538627.txt
+- BESTÅ shelf, black-brown: /products/bestå-fittings-and-inside-organizers/80295526.txt
+- BESTÅ Shelf, black-brown: /products/bestå-fittings-and-inside-organizers/40295528.txt
+- BESTÅ Glass shelf, glass: /products/bestå-fittings-and-inside-organizers/60295532.txt
+- BESTÅ Glass shelf, glass: /products/bestå-fittings-and-inside-organizers/00295530.txt
+- BESTÅ Drawer runner, soft-closing: /products/bestå-fittings-and-inside-organizers/40348715.txt
+- BESTÅ drawer runner, push-open: /products/bestå-fittings-and-inside-organizers/30488315.txt
+- BESTÅ drawer frame, white stained oak effect: /products/bestå-fittings-and-inside-organizers/60351518.txt
+- BESTÅ drawer frame, white stained oak effect: /products/bestå-fittings-and-inside-organizers/50351514.txt
+- BESTÅ drawer frame, white: /products/bestå-fittings-and-inside-organizers/80351517.txt
+- BESTÅ drawer frame, white: /products/bestå-fittings-and-inside-organizers/70351513.txt
+- BESTÅ drawer frame, dark gray: /products/bestå-fittings-and-inside-organizers/50538951.txt
+- BESTÅ drawer frame, dark gray: /products/bestå-fittings-and-inside-organizers/10538948.txt
+- BESTÅ Drawer frame, black-brown: /products/bestå-fittings-and-inside-organizers/40351246.txt
+- BESTÅ Drawer frame, black-brown: /products/bestå-fittings-and-inside-organizers/00351248.txt
+- BESTÅ box, gray: /products/bestå-fittings-and-inside-organizers/80307553.txt
+- BESTÅ box, gray: /products/bestå-fittings-and-inside-organizers/00307552.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

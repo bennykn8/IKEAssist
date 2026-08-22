@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: SILKESTRÄD candle dish, light green
+SKU: 00570528
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/silkestraed-candle-dish-light-green-00570528/
+Category: Candle holders
+Description: , 7" The punched-out pattern on this candle dish is inspired by traditional Chinese paper art – and is adapted to a more modern expression. Light a pillar candle and enjoy the warm and welcoming atmos...
+
+# @OFFER
+Price: 1.49
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Powder coating
+Care: You easily remove hardened wax by washing the surface with warm water.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/silkestraed-candle-dish-light-green__1314644_pe940172_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

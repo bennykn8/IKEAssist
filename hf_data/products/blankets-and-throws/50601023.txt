@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: KLIBBKORSÖRT throw, multicolor
+SKU: 50601023
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/klibbkorsoert-throw-multicolor-50601023/
+Category: Blankets & throws
+Description: , 47x63" KLIBBKORSÖRT throw with bright splashes of color brings a fresh and cheerful spring feeling into your home. The soft fleece fabric is made from polyester of which 90% is recycled. Made of 90%...
+
+# @OFFER
+Price: 4.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100% polyester (min. 90% recycled)
+Care: Shrinkage maximum 4%. | Machine wash warm, normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/klibbkorsoert-throw-multicolor__1344375_pe949866_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

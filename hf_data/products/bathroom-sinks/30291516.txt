@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: TÖRNVIKEN Countertop sink, white
+SKU: 30291516
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/toernviken-countertop-sink-white-30291516/
+Category: Bathroom sinks
+Description: , 17 3/4". Ceramic sink are admired for their smooth, durability beauty. Made with quality materials and the best manufacturing techniques, we proudly offer a 10-year warranty on all our ceramic sinks...
+
+# @OFFER
+Price: 110
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: China, Colored glaze, Water trap/ Washer: Polypropylene, Screw: Brass, Chrome plated
+Dimensions: May be completed with TOLKEN or ÅLSKEN countertop and TÄNNFORSEN wash-stand, minimum width 23⅝ in.
+Features: Strainer and water-trap included. | Use the included measuring template before attaching the sink to the countertop. | Let the silicone underneath the sink harden for 2 hours before connecting the water trap.
+Care: Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary. | Do not use scouring powder, steel wool, hard or sharp tools which can scratch the surface of the sink.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/toernviken-countertop-sink-white__0756226_pe748837_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

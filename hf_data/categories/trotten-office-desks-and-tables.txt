@@ -1,0 +1,41 @@
+# @CATEGORY
+Name: TROTTEN office desks & tables
+ProductCount: 19
+
+# @FILTERS
+PriceRange: $119.99 - $454.98
+Materials: Center support beam/ Leg/ Side rail/ Crank: Steel, Epoxy/polyester powder coating, Feet: Steel, Steel, Epoxy/polyester powder coating, Leg/ Midbeam/ Bracket/ Hook: Steel, Epoxy/polyester powder coating, Leg/ Midbeam/ Bracket: Steel, Epoxy/polyester powder coating, Particleboard, Melamine foil, Plastic edging, Plastic parts: Polypropylene
+Brand: IKEA
+
+# @ITEMS
+- TROTTEN / MATCHSPEL desk and chair, white/light gray: /products/trotten-office-desks-and-tables/19537789.txt
+- TROTTEN / MATCHSPEL desk and chair, beige/white light gray: /products/trotten-office-desks-and-tables/99537752.txt
+- TROTTEN / MATCHSPEL desk and chair, beige/white light gray: /products/trotten-office-desks-and-tables/59537693.txt
+- TROTTEN/FLINTAN / EKENABBEN desk and storage combination, and swivel chair beige/white: /products/trotten-office-desks-and-tables/19436832.txt
+- TROTTEN / FLINTAN desk and storage combination, and swivel chair white/beige: /products/trotten-office-desks-and-tables/79424949.txt
+- TROTTEN desk, white: /products/trotten-office-desks-and-tables/99429559.txt
+- TROTTEN desk, white: /products/trotten-office-desks-and-tables/29424942.txt
+- TROTTEN desk, white/anthracite: /products/trotten-office-desks-and-tables/49429571.txt
+- TROTTEN desk sit/stand, white: /products/trotten-office-desks-and-tables/99429578.txt
+- TROTTEN desk sit/stand, white: /products/trotten-office-desks-and-tables/79429602.txt
+- TROTTEN desk sit/stand, white/anthracite: /products/trotten-office-desks-and-tables/59429599.txt
+- TROTTEN desk sit/stand, white/anthracite: /products/trotten-office-desks-and-tables/39429581.txt
+- TROTTEN desk sit/stand, beige/white: /products/trotten-office-desks-and-tables/89434127.txt
+- TROTTEN desk sit/stand, beige/white: /products/trotten-office-desks-and-tables/29434130.txt
+- TROTTEN desk sit/stand, beige/anthracite: /products/trotten-office-desks-and-tables/79429584.txt
+- TROTTEN desk sit/stand, beige/anthracite: /products/trotten-office-desks-and-tables/19429596.txt
+- TROTTEN desk, beige/white: /products/trotten-office-desks-and-tables/69434270.txt
+- TROTTEN desk, beige/white: /products/trotten-office-desks-and-tables/49434389.txt
+- TROTTEN desk, beige/anthracite: /products/trotten-office-desks-and-tables/09429568.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

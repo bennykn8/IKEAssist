@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: UNDVIKA baby monitor, white/gray
+SKU: 70470101
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/undvika-baby-monitor-white-gray-70470101/
+Category: Baby proofing & child safety
+Description: UNDVIKA baby monitor has many smart features and is so small that it fits in your pocket. A secure solution that allows you to move freely around the home and still monitor your baby's tiniest sounds....
+
+# @OFFER
+Price: 39.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polycarbonate/ABS plastic
+Features: Only for indoor use. | The radiation from the baby unit is very low and the baby unit does not transmit continuously in stand-by mode. | The distance between the units can be max. 328 yds in an open space. Obstacles/placement can affect the wireless range and communication. ALWAYS CHECK THE FUNCTIONALITY BEFORE USING THE BABY MONITOR.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/undvika-baby-monitor-white-gray__0898018_pe782450_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

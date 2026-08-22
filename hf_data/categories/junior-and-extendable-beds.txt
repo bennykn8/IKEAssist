@@ -1,0 +1,36 @@
+# @CATEGORY
+Name: Junior & extendable beds
+ProductCount: 14
+
+# @FILTERS
+PriceRange: $20.00 - $299.00
+Materials: Bed end filling: Fiberboard, Acrylic paint, Paper foil, Bed end filling: Fiberboard, Paper foil, Bed slats: Layer-glued wood veneer, Adhesive resin as coating, Bedside: Fiberboard, Acrylic paint, Clear acrylic lacquer, Bedside: Particleboard, Fiberboard, Acrylic paint, Plastic foil, Fabric: 100% polyester (min. 90% recycled), Fiberboard, Acrylic paint, Fiberboard, Acrylic paint, Plastic edging, Fiberboard, Printed and embossed acrylic paint, Printed acrylic paint, Plastic edging, Head/footboard: Fiberboard, Particleboard, Fiberboard, Honeycomb structure paper filling (100% recycled), Fiberboard, Plastic foil
+Brand: IKEA
+
+# @ITEMS
+- SUNDVIK ext bed frame with slatted bed base, white: /products/junior-and-extendable-beds/69046072.txt
+- SUNDVIK ext bed frame with slatted bed base, gray: /products/junior-and-extendable-beds/09421666.txt
+- SNIGLAR bed frame with slatted bed base, beech: /products/junior-and-extendable-beds/19185433.txt
+- SLÄKT headboard with cover, Vissle beige: /products/junior-and-extendable-beds/40594099.txt
+- SLÄKT headboard, white: /products/junior-and-extendable-beds/70456483.txt
+- SLÄKT headboard, birch: /products/junior-and-extendable-beds/40456465.txt
+- SLÄKT ext bed frame with slatted bed base, white: /products/junior-and-extendable-beds/69326548.txt
+- SLÄKT ext bed frame with slatted bed base, white/birch: /products/junior-and-extendable-beds/09326612.txt
+- NATTAPA guard rail, white: /products/junior-and-extendable-beds/40465832.txt
+- MINNEN ext bed frame with slatted bed base, white: /products/junior-and-extendable-beds/59124621.txt
+- MINNEN ext bed frame with slatted bed base, light pink: /products/junior-and-extendable-beds/89418815.txt
+- MINNEN ext bed frame with slatted bed base, gray-blue: /products/junior-and-extendable-beds/49580130.txt
+- KRITTER bed frame with slatted bed base, white: /products/junior-and-extendable-beds/69185435.txt
+- BUSUNGE extendable bed, white: /products/junior-and-extendable-beds/90305704.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

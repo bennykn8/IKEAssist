@@ -1,0 +1,264 @@
+# @CATEGORY
+Name: TROFAST combinations
+ProductCount: 242
+
+# @FILTERS
+PriceRange: $22.99 - $191.99
+Materials: Drawer rail: Polypropylene, Main parts: Particleboard, Paper foil, Main parts: Particleboard, Paper foil, Plastic edging, Main parts: Particleboard, Paper foil, Plastic edging, Plastic edging, Plastic edging, Plastic edging, Particleboard, Paper foil, Plastic edging, Polypropylene, Polypropylene, Solid pine, Tinted clear acrylic lacquer, Steel, Epoxy/polyester powder coating, polypropylene (min. 50% recycled)
+Brand: IKEA
+
+# @ITEMS
+- TROFAST wall storage, white/white: /products/trofast-combinations/99575490.txt
+- TROFAST wall storage, white/white, 39x8 ¼x11 ¾": /products/trofast-combinations/79898306.txt
+- TROFAST wall storage, white/white, 39x8 ¼x11 ¾": /products/trofast-combinations/39533361.txt
+- TROFAST wall storage, white/white: /products/trofast-combinations/19575516.txt
+- TROFAST wall storage, white/white: /products/trofast-combinations/09484084.txt
+- TROFAST wall storage, white/gray-blue: /products/trofast-combinations/59533360.txt
+- TROFAST wall storage, white/gray-blue: /products/trofast-combinations/39478208.txt
+- TROFAST wall storage, white/gray-blue: /products/trofast-combinations/19480354.txt
+- TROFAST wall storage, white/dark gray: /products/trofast-combinations/79478193.txt
+- TROFAST wall storage, white/dark gray: /products/trofast-combinations/49480343.txt
+- TROFAST wall storage, light white stained pine/white: /products/trofast-combinations/89585362.txt
+- TROFAST wall storage, light white stained pine/white: /products/trofast-combinations/49102304.txt
+- TROFAST wall storage, light white stained pine/white: /products/trofast-combinations/19575489.txt
+- TROFAST wall storage, light white stained pine/gray-blue: /products/trofast-combinations/49478203.txt
+- TROFAST wall storage, light white stained pine/gray-blue: /products/trofast-combinations/29525597.txt
+- TROFAST wall storage, light white stained pine/gray-blue: /products/trofast-combinations/19533357.txt
+- TROFAST wall storage, light white stained pine/dark gray: /products/trofast-combinations/69525595.txt
+- TROFAST wall storage, light white stained pine/dark gray: /products/trofast-combinations/49478199.txt
+- TROFAST wall storage, light white stained pine/dark gray: /products/trofast-combinations/39533356.txt
+- TROFAST wall storage, gray/white: /products/trofast-combinations/79575491.txt
+- TROFAST wall storage, gray/white: /products/trofast-combinations/49516097.txt
+- TROFAST wall storage, gray/white: /products/trofast-combinations/39575515.txt
+- TROFAST wall storage, gray/gray-blue: /products/trofast-combinations/99515123.txt
+- TROFAST wall storage, gray/gray-blue: /products/trofast-combinations/89516095.txt
+- TROFAST wall storage, gray/dark gray: /products/trofast-combinations/59515120.txt
+- TROFAST wall storage, gray/dark gray: /products/trofast-combinations/29515310.txt
+- TROFAST storage combination with shelves, white: /products/trofast-combinations/49487679.txt
+- TROFAST storage combination with boxes, white/white: /products/trofast-combinations/99575471.txt
+- TROFAST storage combination with boxes, white/white: /products/trofast-combinations/89573241.txt
+- TROFAST storage combination with boxes, white/white: /products/trofast-combinations/79480450.txt
+- TROFAST storage combination with boxes, white/white: /products/trofast-combinations/69573402.txt
+- TROFAST storage combination with boxes, white/white: /products/trofast-combinations/59574732.txt
+- TROFAST storage combination with boxes, white/white: /products/trofast-combinations/59574459.txt
+- TROFAST storage combination with boxes, white/white: /products/trofast-combinations/59573313.txt
+- TROFAST storage combination with boxes, white/white: /products/trofast-combinations/49123405.txt
+- TROFAST storage combination with boxes, white/white: /products/trofast-combinations/39575445.txt
+- TROFAST storage combination with boxes, white/white: /products/trofast-combinations/29575196.txt
+- TROFAST storage combination with boxes, white/white: /products/trofast-combinations/29574451.txt
+- TROFAST storage combination with boxes, white/white: /products/trofast-combinations/29573220.txt
+- TROFAST storage combination with boxes, white/white: /products/trofast-combinations/29228470.txt
+- TROFAST storage combination with boxes, white/white: /products/trofast-combinations/19606688.txt
+- TROFAST storage combination with boxes, white/white: /products/trofast-combinations/19574951.txt
+- TROFAST storage combination with boxes, white white/red: /products/trofast-combinations/99575193.txt
+- TROFAST storage combination with boxes, white white/red: /products/trofast-combinations/69573398.txt
+- TROFAST storage combination with boxes, white white/red: /products/trofast-combinations/29575455.txt
+- TROFAST storage combination with boxes, white white/orange: /products/trofast-combinations/39335511.txt
+- TROFAST storage combination with boxes, white white/multicolor: /products/trofast-combinations/79573406.txt
+- TROFAST storage combination with boxes, white white/lilac: /products/trofast-combinations/79574463.txt
+- TROFAST storage combination with boxes, white white/lilac: /products/trofast-combinations/39575450.txt
+- TROFAST storage combination with boxes, white white/lilac: /products/trofast-combinations/29606659.txt
+- TROFAST storage combination with boxes, white white/lilac: /products/trofast-combinations/29575158.txt
+- TROFAST storage combination with boxes, white white/light blue: /products/trofast-combinations/99575447.txt
+- TROFAST storage combination with boxes, white white/light blue: /products/trofast-combinations/69575156.txt
+- TROFAST storage combination with boxes, white white/light blue: /products/trofast-combinations/19574461.txt
+- TROFAST storage combination with boxes, white white/gray: /products/trofast-combinations/89575457.txt
+- TROFAST storage combination with boxes, white white/gray: /products/trofast-combinations/89575160.txt
+- TROFAST storage combination with boxes, white white/gray: /products/trofast-combinations/89574467.txt
+- TROFAST storage combination with boxes, white white/bright green: /products/trofast-combinations/79575453.txt
+- TROFAST storage combination with boxes, white white/bright green: /products/trofast-combinations/29574465.txt
+- TROFAST storage combination with boxes, white white/bright green: /products/trofast-combinations/09575164.txt
+- TROFAST storage combination with boxes, white/red: /products/trofast-combinations/99575206.txt
+- TROFAST storage combination with boxes, white/red: /products/trofast-combinations/19606650.txt
+- TROFAST storage combination with boxes, white/red: /products/trofast-combinations/19601978.txt
+- TROFAST storage combination with boxes, white/red: /products/trofast-combinations/09575480.txt
+- TROFAST storage combination with boxes, white/orange: /products/trofast-combinations/99533202.txt
+- TROFAST storage combination with boxes, white/orange: /products/trofast-combinations/89335981.txt
+- TROFAST storage combination with boxes, white/orange: /products/trofast-combinations/49533209.txt
+- TROFAST storage combination with boxes, white/orange: /products/trofast-combinations/29335899.txt
+- TROFAST storage combination with boxes, white/multicolor: /products/trofast-combinations/99606651.txt
+- TROFAST storage combination with boxes, white/multicolor: /products/trofast-combinations/99573405.txt
+- TROFAST storage combination with boxes, white/multicolor: /products/trofast-combinations/19575168.txt
+- TROFAST storage combination with boxes, white/lilac: /products/trofast-combinations/29575200.txt
+- TROFAST storage combination with boxes, white/lilac: /products/trofast-combinations/09601974.txt
+- TROFAST storage combination with boxes, white/lilac: /products/trofast-combinations/09575475.txt
+- TROFAST storage combination with boxes, white/lilac: /products/trofast-combinations/09573320.txt
+- TROFAST storage combination with boxes, white/light red: /products/trofast-combinations/79533316.txt
+- TROFAST storage combination with boxes, white/light red: /products/trofast-combinations/79479833.txt
+- TROFAST storage combination with boxes, white/light red: /products/trofast-combinations/69533312.txt
+- TROFAST storage combination with boxes, white/light red: /products/trofast-combinations/59478721.txt
+- TROFAST storage combination with boxes, white/light red: /products/trofast-combinations/09478728.txt
+- TROFAST storage combination with boxes, white/light orange: /products/trofast-combinations/89574453.txt
+- TROFAST storage combination with boxes, white/light orange: /products/trofast-combinations/59606691.txt
+- TROFAST storage combination with boxes, white/light orange: /products/trofast-combinations/09573221.txt
+- TROFAST storage combination with boxes, white light orange/red: /products/trofast-combinations/89574472.txt
+- TROFAST storage combination with boxes, white light orange/gray: /products/trofast-combinations/59575190.txt
+- TROFAST storage combination with boxes, white light orange/bright green: /products/trofast-combinations/99574457.txt
+- TROFAST storage combination with boxes, white/light orange bright green: /products/trofast-combinations/99573226.txt
+- TROFAST storage combination with boxes, white light orange/bright green: /products/trofast-combinations/59575166.txt
+- TROFAST storage combination with boxes, white light green/white: /products/trofast-combinations/19574475.txt
+- TROFAST storage combination with boxes, white/light green: /products/trofast-combinations/49573224.txt
+- TROFAST storage combination with boxes, white/light green: /products/trofast-combinations/39574455.txt
+- TROFAST storage combination with boxes, white light green/red: /products/trofast-combinations/39574728.txt
+- TROFAST storage combination with boxes, white light green/lilac: /products/trofast-combinations/19574480.txt
+- TROFAST storage combination with boxes, white light green/light blue: /products/trofast-combinations/79574477.txt
+- TROFAST storage combination with boxes, white light green/gray: /products/trofast-combinations/99574730.txt
+- TROFAST storage combination with boxes, white/light green-gray: /products/trofast-combinations/89480322.txt
+- TROFAST storage combination with boxes, white/light green-gray: /products/trofast-combinations/69480460.txt
+- TROFAST storage combination with boxes, white light green/gray: /products/trofast-combinations/19575187.txt
+- TROFAST storage combination with boxes, white light green-gray/light red: /products/trofast-combinations/49480319.txt
+- TROFAST storage combination with boxes, white light green-gray/gray-blue: /products/trofast-combinations/99478724.txt
+- TROFAST storage combination with boxes, white light green-gray/gray-blue: /products/trofast-combinations/19533239.txt
+- TROFAST storage combination with boxes, white light green/bright green white: /products/trofast-combinations/59575185.txt
+- TROFAST storage combination with boxes, white/light green bright green: /products/trofast-combinations/79601980.txt
+- TROFAST storage combination with boxes, white light green/bright green: /products/trofast-combinations/79574482.txt
+- TROFAST storage combination with boxes, white/light blue: /products/trofast-combinations/89575198.txt
+- TROFAST storage combination with boxes, white/light blue: /products/trofast-combinations/59575473.txt
+- TROFAST storage combination with boxes, white/light blue: /products/trofast-combinations/49601972.txt
+- TROFAST storage combination with boxes, white/light blue: /products/trofast-combinations/49573318.txt
+- TROFAST storage combination with boxes, white light blue/red: /products/trofast-combinations/49573399.txt
+- TROFAST storage combination with boxes, white/gray: /products/trofast-combinations/69575477.txt
+- TROFAST storage combination with boxes, white/gray: /products/trofast-combinations/49575204.txt
+- TROFAST storage combination with boxes, white/gray: /products/trofast-combinations/49573323.txt
+- TROFAST storage combination with boxes, white gray/red: /products/trofast-combinations/59573389.txt
+- TROFAST storage combination with boxes, white/gray-blue: /products/trofast-combinations/59533341.txt
+- TROFAST storage combination with boxes, white/gray-blue: /products/trofast-combinations/49479839.txt
+- TROFAST storage combination with boxes, white/gray-blue: /products/trofast-combinations/09480868.txt
+- TROFAST storage combination with boxes, white/dark gray: /products/trofast-combinations/99533315.txt
+- TROFAST storage combination with boxes, white/dark gray: /products/trofast-combinations/39478717.txt
+- TROFAST storage combination with boxes, white/dark gray: /products/trofast-combinations/29533309.txt
+- TROFAST storage combination with boxes, white/dark gray: /products/trofast-combinations/29479835.txt
+- TROFAST storage combination with boxes, white/dark gray: /products/trofast-combinations/29478732.txt
+- TROFAST storage combination with boxes, white dark gray/light green-gray: /products/trofast-combinations/89480317.txt
+- TROFAST storage combination with boxes, white dark gray/light green-gray: /products/trofast-combinations/69533265.txt
+- TROFAST storage combination with boxes, white/bright green: /products/trofast-combinations/89575481.txt
+- TROFAST storage combination with boxes, white/bright green: /products/trofast-combinations/89575202.txt
+- TROFAST storage combination with boxes, white/bright green: /products/trofast-combinations/79573326.txt
+- TROFAST storage combination with boxes, white/bright green: /products/trofast-combinations/59601976.txt
+- TROFAST storage combination with boxes, light white stained pine/white: /products/trofast-combinations/99584442.txt
+- TROFAST storage combination with boxes, light white stained pine/white: /products/trofast-combinations/79584438.txt
+- TROFAST storage combination with boxes, light white stained pine/white: /products/trofast-combinations/79575212.txt
+- TROFAST storage combination with boxes, light white stained pine/white: /products/trofast-combinations/79102958.txt
+- TROFAST storage combination with boxes, light white stained pine/white: /products/trofast-combinations/39574865.txt
+- TROFAST storage combination with boxes, light white stained pine/white: /products/trofast-combinations/39573408.txt
+- TROFAST storage combination with boxes, light white stained pine/white: /products/trofast-combinations/29606697.txt
+- TROFAST storage combination with boxes, light white stained pine/white: /products/trofast-combinations/29575436.txt
+- TROFAST storage combination with boxes, light white stained pine/white: /products/trofast-combinations/19574734.txt
+- TROFAST storage combination with boxes, light white stained pine/white: /products/trofast-combinations/19533215.txt
+- TROFAST storage combination with boxes, light white stained pine/white: /products/trofast-combinations/09574942.txt
+- TROFAST storage combination with boxes, light white stained pine/white: /products/trofast-combinations/09102532.txt
+- TROFAST storage combination with boxes, light white stained pine white/red: /products/trofast-combinations/79602003.txt
+- TROFAST storage combination with boxes, light white stained pine white/red: /products/trofast-combinations/49574332.txt
+- TROFAST storage combination with boxes, light white stained pine white/orange: /products/trofast-combinations/89533212.txt
+- TROFAST storage combination with boxes, light white stained pine white/orange: /products/trofast-combinations/79331592.txt
+- TROFAST storage combination with boxes, light white stained pine white/multicolor: /products/trofast-combinations/79574439.txt
+- TROFAST storage combination with boxes, light white stained pine white/lilac: /products/trofast-combinations/19601997.txt
+- TROFAST storage combination with boxes, light white stained pine white/light blue: /products/trofast-combinations/89601994.txt
+- TROFAST storage combination with boxes, light white stained pine white/gray: /products/trofast-combinations/79574892.txt
+- TROFAST storage combination with boxes, light white stained pine white/bright green: /products/trofast-combinations/59575208.txt
+- TROFAST storage combination with boxes, light white stained pine white/bright green: /products/trofast-combinations/59574888.txt
+- TROFAST storage combination with boxes, light white stained pine white/bright green: /products/trofast-combinations/39602000.txt
+- TROFAST storage combination with boxes, light white stained pine/red white: /products/trofast-combinations/89575443.txt
+- TROFAST storage combination with boxes, light white stained pine/red: /products/trofast-combinations/89575438.txt
+- TROFAST storage combination with boxes, light white stained pine/red: /products/trofast-combinations/49574327.txt
+- TROFAST storage combination with boxes, light white stained pine/orange: /products/trofast-combinations/29335941.txt
+- TROFAST storage combination with boxes, light white stained pine/multicolor: /products/trofast-combinations/99606707.txt
+- TROFAST storage combination with boxes, light white stained pine/multicolor: /products/trofast-combinations/59574336.txt
+- TROFAST storage combination with boxes, light white stained pine/lilac: /products/trofast-combinations/89573415.txt
+- TROFAST storage combination with boxes, light white stained pine/lilac: /products/trofast-combinations/69606704.txt
+- TROFAST storage combination with boxes, light white stained pine/light red: /products/trofast-combinations/59477910.txt
+- TROFAST storage combination with boxes, light white stained pine/light red: /products/trofast-combinations/39480857.txt
+- TROFAST storage combination with boxes, light white stained pine/light red: /products/trofast-combinations/19533258.txt
+- TROFAST storage combination with boxes, light white stained pine/light orange: /products/trofast-combinations/59584439.txt
+- TROFAST storage combination with boxes, light white stained pine/light orange: /products/trofast-combinations/09574857.txt
+- TROFAST storage combination with boxes, light white stained pine light orange/red: /products/trofast-combinations/49574898.txt
+- TROFAST storage combination with boxes, light white stained pine light orange/gray: /products/trofast-combinations/89574900.txt
+- TROFAST storage combination with boxes, light white stained pine light orange/gray: /products/trofast-combinations/79575434.txt
+- TROFAST storage combination with boxes, light white stained pine light orange/bright green: /products/trofast-combinations/79584443.txt
+- TROFAST storage combination with boxes, light white stained pine/light orange bright green: /products/trofast-combinations/59575430.txt
+- TROFAST storage combination with boxes, light white stained pine light orange/bright green: /products/trofast-combinations/09574895.txt
+- TROFAST storage combination with boxes, light white stained pine light orange/bright green: /products/trofast-combinations/09574334.txt
+- TROFAST storage combination with boxes, light white stained pine/light green: /products/trofast-combinations/69574859.txt
+- TROFAST storage combination with boxes, light white stained pine/light green: /products/trofast-combinations/39584440.txt
+- TROFAST storage combination with boxes, light white stained pine light green/light blue: /products/trofast-combinations/49602009.txt
+- TROFAST storage combination with boxes, light white stained pine/light green-gray: /products/trofast-combinations/79533241.txt
+- TROFAST storage combination with boxes, light white stained pine light green/gray: /products/trofast-combinations/69574939.txt
+- TROFAST storage combination with boxes, light white stained pine/light green gray: /products/trofast-combinations/19575432.txt
+- TROFAST storage combination with boxes, light white stained pine/light green-gray: /products/trofast-combinations/09480854.txt
+- TROFAST storage combination with boxes, light white stained pine light green/bright green: /products/trofast-combinations/09602006.txt
+- TROFAST storage combination with boxes, light white stained pine light green/bright green: /products/trofast-combinations/09574918.txt
+- TROFAST storage combination with boxes, light white stained pine/light blue: /products/trofast-combinations/59573412.txt
+- TROFAST storage combination with boxes, light white stained pine/light blue: /products/trofast-combinations/29606701.txt
+- TROFAST storage combination with boxes, light white stained pine green-gray/gray-blue: /products/trofast-combinations/29477488.txt
+- TROFAST storage combination with boxes, light white stained pine/gray: /products/trofast-combinations/59573600.txt
+- TROFAST storage combination with boxes, light white stained pine/gray-blue: /products/trofast-combinations/79533260.txt
+- TROFAST storage combination with boxes, light white stained pine/gray-blue: /products/trofast-combinations/79533236.txt
+- TROFAST storage combination with boxes, light white stained pine/gray-blue: /products/trofast-combinations/59477482.txt
+- TROFAST storage combination with boxes, light white stained pine/gray-blue: /products/trofast-combinations/39480843.txt
+- TROFAST storage combination with boxes, light white stained pine gray-blue/light green-gray: /products/trofast-combinations/99533278.txt
+- TROFAST storage combination with boxes, light white stained pine gray-blue/light green-gray: /products/trofast-combinations/19480820.txt
+- TROFAST storage combination with boxes, light white stained pine gray-blue/dark gray: /products/trofast-combinations/79480817.txt
+- TROFAST storage combination with boxes, light white stained pine gray-blue/dark gray: /products/trofast-combinations/19533277.txt
+- TROFAST storage combination with boxes, light white stained pine/dark gray: /products/trofast-combinations/49480828.txt
+- TROFAST storage combination with boxes, light white stained pine/dark gray: /products/trofast-combinations/49477492.txt
+- TROFAST storage combination with boxes, light white stained pine/dark gray: /products/trofast-combinations/39477973.txt
+- TROFAST storage combination with boxes, light white stained pine/bright green: /products/trofast-combinations/99573467.txt
+- TROFAST storage combination with boxes, light white stained pine/bright green: /products/trofast-combinations/29575441.txt
+- TROFAST storage combination with boxes, gray/white: /products/trofast-combinations/99573306.txt
+- TROFAST storage combination with boxes, gray/white: /products/trofast-combinations/89516104.txt
+- TROFAST storage combination with boxes, gray/white: /products/trofast-combinations/79573307.txt
+- TROFAST storage combination with boxes, gray/white: /products/trofast-combinations/59584509.txt
+- TROFAST storage combination with boxes, gray/white: /products/trofast-combinations/39574945.txt
+- TROFAST storage combination with boxes, gray white/gray: /products/trofast-combinations/59574949.txt
+- TROFAST storage combination with boxes, gray white/gray: /products/trofast-combinations/29584515.txt
+- TROFAST storage combination with boxes, gray lilac/gray: /products/trofast-combinations/69584523.txt
+- TROFAST storage combination with boxes, gray/light red: /products/trofast-combinations/19515103.txt
+- TROFAST storage combination with boxes, gray light orange/white: /products/trofast-combinations/79574948.txt
+- TROFAST storage combination with boxes, gray/light orange: /products/trofast-combinations/19574946.txt
+- TROFAST storage combination with boxes, gray light orange/gray: /products/trofast-combinations/99574947.txt
+- TROFAST storage combination with boxes, gray/light green-gray: /products/trofast-combinations/69515110.txt
+- TROFAST storage combination with boxes, gray light green/gray: /products/trofast-combinations/39574950.txt
+- TROFAST storage combination with boxes, gray light blue/gray: /products/trofast-combinations/89584517.txt
+- TROFAST storage combination with boxes, gray/gray: /products/trofast-combinations/19584511.txt
+- TROFAST storage combination with boxes, gray/dark gray: /products/trofast-combinations/69515105.txt
+- TROFAST storage combination with boxes, gray/dark gray: /products/trofast-combinations/69515073.txt
+- TROFAST storage combination with boxes, gray/dark gray: /products/trofast-combinations/09515071.txt
+- TROFAST storage combination with box, white/white: /products/trofast-combinations/39601982.txt
+- TROFAST storage combination with box/trays, white/white: /products/trofast-combinations/99573245.txt
+- TROFAST storage combination with box/trays, white white/lilac: /products/trofast-combinations/49601986.txt
+- TROFAST storage combination with box/trays, white white/light blue: /products/trofast-combinations/99601984.txt
+- TROFAST storage combination with box/trays, white white/gray: /products/trofast-combinations/59573228.txt
+- TROFAST storage combination with box/trays, white turquoise/gray-blue: /products/trofast-combinations/09480793.txt
+- TROFAST storage combination with box/trays, white red/light blue: /products/trofast-combinations/99573231.txt
+- TROFAST storage combination with box/trays, white red/gray: /products/trofast-combinations/59573233.txt
+- TROFAST storage combination with box/trays, light white stained pine/white: /products/trofast-combinations/89584447.txt
+- TROFAST storage combination with box/trays, light white stained pine/white: /products/trofast-combinations/29584445.txt
+- TROFAST storage combination with box/trays, light white stained pine white/lilac: /products/trofast-combinations/09602011.txt
+- TROFAST storage combination with box/trays, light white stained pine white/light blue: /products/trofast-combinations/49602014.txt
+- TROFAST storage combination with box/trays, light white stained pine white/gray: /products/trofast-combinations/09584446.txt
+- TROFAST storage combination with box/trays, light white stained pine red/white: /products/trofast-combinations/59602018.txt
+- TROFAST storage combination with box/trays, gray/white: /products/trofast-combinations/19573310.txt
+- TROFAST storage combination with box/trays, gray white/gray: /products/trofast-combinations/39573309.txt
+- TROFAST storage combination with box, light white stained pine/white: /products/trofast-combinations/99606873.txt
+- TROFAST storage combination, white/orange: /products/trofast-combinations/99533221.txt
+- TROFAST storage combination, white/orange: /products/trofast-combinations/49335539.txt
+- TROFAST storage combination w boxes/trays, white/white: /products/trofast-combinations/39573248.txt
+- TROFAST storage combination w boxes/trays, white white/light orange: /products/trofast-combinations/69601990.txt
+- TROFAST storage combination w boxes/trays, white white/dark gray: /products/trofast-combinations/19575521.txt
+- TROFAST storage combination w boxes/trays, white red/white: /products/trofast-combinations/09601988.txt
+- TROFAST storage combination w boxes/trays, white red/light green: /products/trofast-combinations/09573235.txt
+- TROFAST storage combination w boxes/trays, gray/white: /products/trofast-combinations/99573311.txt
+- TROFAST storage combination w boxes/trays, gray white/dark gray: /products/trofast-combinations/19575559.txt
+- TROFAST storage combination, light white stained pine/orange: /products/trofast-combinations/99335565.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

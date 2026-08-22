@@ -1,0 +1,75 @@
+# @CATEGORY
+Name: Bedspreads
+ProductCount: 53
+
+# @FILTERS
+PriceRange: $9.99 - $89.99
+Materials: 100 % cotton, 100 % polyester (100% recycled), 100% polyester (min. 90% recycled), 75 % cotton, 25 %polyester, Fabric: 100 % polyester (100% recycled), Filling: 100% polyester (min. 80% recycled), Filling: 100% polyester (min. 90% recycled), Outer fabric: 100 % polyester (100% recycled)
+Brand: IKEA
+
+# @ITEMS
+- VETEJORDFLY bedspread, white/beige, Twin/Twin X-long: /products/bedspreads/90606071.txt
+- VETEJORDFLY bedspread, white/beige, Full/Queen: /products/bedspreads/60606077.txt
+- VETEJORDFLY bedspread, white/beige, King: /products/bedspreads/50606073.txt
+- VETEJORDFLY bedspread, pink/white, Twin/Twin X-long: /products/bedspreads/80606726.txt
+- VETEJORDFLY bedspread, pink/white, Full/Queen: /products/bedspreads/30606724.txt
+- VETEJORDFLY bedspread, pink/white, King: /products/bedspreads/00606725.txt
+- VÅRELD bedspread, white: /products/bedspreads/40384020.txt
+- VÅRELD bedspread, white: /products/bedspreads/00384017.txt
+- VÅRELD bedspread, dark gray: /products/bedspreads/60346447.txt
+- VÅRELD bedspread, dark gray: /products/bedspreads/00346445.txt
+- TRATTVIVA bedspread, yellow-brown, Queen/King: /products/bedspreads/80566730.txt
+- TRATTVIVA bedspread, yellow-brown, Twin/Full: /products/bedspreads/60566731.txt
+- TRATTVIVA bedspread, red, Twin/Full: /products/bedspreads/10584469.txt
+- TRATTVIVA bedspread, off-white, Twin/Full: /products/bedspreads/80566725.txt
+- TRATTVIVA bedspread, off-white, Queen/King: /products/bedspreads/60566726.txt
+- TRATTVIVA bedspread, light gray-green, Queen/King: /products/bedspreads/20566728.txt
+- TRATTVIVA bedspread, light gray-green, Twin/Full: /products/bedspreads/00566729.txt
+- TRATTVIVA bedspread, black-blue, Twin/Full: /products/bedspreads/90584446.txt
+- TJÄRBLOMSTER bedspread, gray: /products/bedspreads/30424385.txt
+- PRAKTVIAL bedspread, off-white, Twin: /products/bedspreads/60565109.txt
+- PRAKTVIAL bedspread, off-white, Full/Queen: /products/bedspreads/20564277.txt
+- PRAKTVIAL bedspread, off-white, King: /products/bedspreads/00564278.txt
+- PRAKTVIAL bedspread, gray-blue, King: /products/bedspreads/90564293.txt
+- PRAKTVIAL bedspread, gray-blue, Twin: /products/bedspreads/40565110.txt
+- PRAKTVIAL bedspread, gray-blue, Full/Queen: /products/bedspreads/10564292.txt
+- PELARTUJA bedspread, white, Twin/Twin X-long: /products/bedspreads/90600385.txt
+- PELARTUJA bedspread, white, Full/Queen: /products/bedspreads/40600383.txt
+- PELARTUJA bedspread, white, King: /products/bedspreads/20600384.txt
+- PELARTUJA bedspread, red-brown/beige, Full/Queen: /products/bedspreads/50600392.txt
+- PELARTUJA bedspread, red-brown/beige, King: /products/bedspreads/30600393.txt
+- PELARTUJA bedspread, red-brown/beige, Twin/Twin X-long: /products/bedspreads/10600394.txt
+- PELARTUJA bedspread, green-gray/white, Full/Queen: /products/bedspreads/40600401.txt
+- PELARTUJA bedspread, green-gray/white, King: /products/bedspreads/20600402.txt
+- PELARTUJA bedspread, green-gray/white, Twin/Twin X-long: /products/bedspreads/00600403.txt
+- PELARTUJA bedspread, dark gray/light gray, Full/Queen: /products/bedspreads/80600437.txt
+- PELARTUJA bedspread, dark gray/light gray, King: /products/bedspreads/60600438.txt
+- PELARTUJA bedspread, dark gray/light gray, Twin/Twin X-long: /products/bedspreads/40600439.txt
+- KÖLAX bedspread, gray-green, Full/Queen: /products/bedspreads/10513429.txt
+- JAKOBSLILJA bedspread, off-white/anthracite, Full/Queen: /products/bedspreads/30587075.txt
+- JAKOBSLILJA bedspread, off-white/anthracite, King: /products/bedspreads/10592370.txt
+- JAKOBSLILJA bedspread, off-white/anthracite, Twin/Twin X-long: /products/bedspreads/10587076.txt
+- INDIRA bedspread, yellow-beige, Queen/King: /products/bedspreads/80582631.txt
+- INDIRA bedspread, yellow-beige, Twin/Full: /products/bedspreads/60582632.txt
+- INDIRA bedspread, natural/unbleached cotton, Queen/King: /products/bedspreads/30581059.txt
+- INDIRA bedspread, natural/unbleached cotton, Twin/Full: /products/bedspreads/10581060.txt
+- INDIRA bedspread, gray-green, Queen/King: /products/bedspreads/60582627.txt
+- INDIRA bedspread, gray-green, Twin/Full: /products/bedspreads/40582628.txt
+- GULLNATTLJUS bedspread, white/floral pattern, Twin: /products/bedspreads/70602998.txt
+- GULLNATTLJUS bedspread, white/floral pattern, Full/Queen: /products/bedspreads/70600353.txt
+- GULLNATTLJUS bedspread, white/floral pattern, King: /products/bedspreads/50602999.txt
+- DÅDROR bedspread, white, Full/Queen: /products/bedspreads/90608862.txt
+- DÅDROR bedspread, white, King: /products/bedspreads/10608861.txt
+- BJÖRKGRÅMAL comforter set, black white/dotted, Full/Queen: /products/bedspreads/70602248.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,70 @@
+# @CATEGORY
+Name: Faux desk plants
+ProductCount: 48
+
+# @FILTERS
+PriceRange: $1.99 - $34.99
+Materials: Cover: Polypropylene plastic (min. 70% recycled), Flower/ Leaf: 100 % polyester (100% recycled), Polyethylene plastic (min. 50% recycled), Flower: 100 % polyester (100% recycled), Polyethylene plastic (min. 50% recycled), Paint, Flower: 100 % polyester (100% recycled), Polyethylene plastic (min. 70% recycled), Inner plant pot/ Cover cap: Polypropylene plastic (min. 80% recycled), Inner plant pot: Polyethylene plastic (min. 20% recycled), Polyethylene, Polyethylene, Non-potable water, Inner plant pot: Polypropylene plastic (min. 40% recycled), Polypropylene plastic (min. 70% recycled), Inner plant pot: Polypropylene plastic (min. 50% recycled), Inner plant pot: Polypropylene plastic (min. 50% recycled), Polypropylene plastic (min. 70% recycled), Inner plant pot: Polypropylene plastic (min. 70% recycled)
+Brand: IKEA
+
+# @ITEMS
+- VINTERFINT artificial potted plant, indoor/outdoor Poinsettia/red, 4 ¾": /products/faux-desk-plants/90586916.txt
+- VINTERFINT artificial potted plant, indoor/outdoor/christmas tree green, 6 ¾": /products/faux-desk-plants/60585876.txt
+- FEJKA artificial potted plant with pot, indoor/outdoor Succulent, 2 ¼"3 pack: /products/faux-desk-plants/50519764.txt
+- FEJKA artificial potted plant with pot, indoor/outdoor monstera, 2 ¼": /products/faux-desk-plants/80593205.txt
+- FEJKA artificial potted plant with pot, indoor/outdoor grass: /products/faux-desk-plants/10508456.txt
+- FEJKA artificial potted plant, thyme, 3 ½": /products/faux-desk-plants/90375155.txt
+- FEJKA artificial potted plant, Rosemary, 3 ½": /products/faux-desk-plants/90382113.txt
+- FEJKA artificial potted plant, oregano, 3 ½": /products/faux-desk-plants/10375159.txt
+- FEJKA artificial potted plant, Orchid white, 4 ¾": /products/faux-desk-plants/80285909.txt
+- FEJKA artificial potted plant, Orchid white, 3 ½": /products/faux-desk-plants/00285908.txt
+- FEJKA artificial potted plant, indoor/outdoor Wondrous cerces: /products/faux-desk-plants/60600867.txt
+- FEJKA artificial potted plant, indoor/outdoor Whitley Giant, 3 ½": /products/faux-desk-plants/50493349.txt
+- FEJKA artificial potted plant, indoor/outdoor/Weeping fig stem, 4 ¾": /products/faux-desk-plants/00395308.txt
+- FEJKA artificial potted plant, indoor/outdoor/wax plant hanging, 3 ½": /products/faux-desk-plants/00593214.txt
+- FEJKA artificial potted plant, indoor/outdoor Succulent, 3 ½": /products/faux-desk-plants/70395300.txt
+- FEJKA artificial potted plant, indoor/outdoor Spiderwort/lilac, 4 ¾": /products/faux-desk-plants/50600858.txt
+- FEJKA artificial potted plant, indoor/outdoor smoke tree, 4 ¾": /products/faux-desk-plants/60582509.txt
+- FEJKA artificial potted plant, indoor/outdoor smoke tree, 4 ¾": /products/faux-desk-plants/40601472.txt
+- FEJKA artificial potted plant, indoor/outdoor/Rose pink, 4 ¾": /products/faux-desk-plants/90532773.txt
+- FEJKA artificial potted plant, indoor/outdoor/Ranunculus pink, 4 ¾": /products/faux-desk-plants/00395290.txt
+- FEJKA artificial potted plant, indoor/outdoor Pilea, 3 ½": /products/faux-desk-plants/30600859.txt
+- FEJKA artificial potted plant, indoor/outdoor Philodendron/green/white: /products/faux-desk-plants/90600856.txt
+- FEJKA artificial potted plant, indoor/outdoor Philodendron/green/pink: /products/faux-desk-plants/90600861.txt
+- FEJKA artificial potted plant, indoor/outdoor Painted nettle/red, 3 ½": /products/faux-desk-plants/80601470.txt
+- FEJKA artificial potted plant, indoor/outdoor/noble dendrobium pink, 4 ¾": /products/faux-desk-plants/70593220.txt
+- FEJKA artificial potted plant, indoor/outdoor monstera, 4 ¾": /products/faux-desk-plants/30493350.txt
+- FEJKA artificial potted plant, indoor/outdoor Mint, 3 ½": /products/faux-desk-plants/20600850.txt
+- FEJKA artificial potted plant, indoor/outdoor Jewel orchid, 3 ½": /products/faux-desk-plants/40600868.txt
+- FEJKA artificial potted plant, indoor/outdoor House bamboo, 3 ½": /products/faux-desk-plants/60433939.txt
+- FEJKA artificial potted plant, indoor/outdoor Heather, 3 ½": /products/faux-desk-plants/90601714.txt
+- FEJKA artificial potted plant, indoor/outdoor hanging/Ivy: /products/faux-desk-plants/80600852.txt
+- FEJKA artificial potted plant, indoor/outdoor grass, 3 ½": /products/faux-desk-plants/00433942.txt
+- FEJKA artificial potted plant, indoor/outdoor fern, 3 ½": /products/faux-desk-plants/30433945.txt
+- FEJKA artificial potted plant, indoor/outdoor eucalyptus: /products/faux-desk-plants/40452368.txt
+- FEJKA artificial potted plant, indoor/outdoor decoration/grass, 3 ½": /products/faux-desk-plants/20433936.txt
+- FEJKA artificial potted plant, indoor/outdoor croton, 4 ¾": /products/faux-desk-plants/10600855.txt
+- FEJKA artificial potted plant, indoor/outdoor Crocodile fern, 4 ¾": /products/faux-desk-plants/40600873.txt
+- FEJKA artificial potted plant, indoor/outdoor Crimson glory vine: /products/faux-desk-plants/00493342.txt
+- FEJKA artificial potted plant, indoor/outdoor Clusia, 4 ¾": /products/faux-desk-plants/70493348.txt
+- FEJKA artificial potted plant, indoor/outdoor calathea, 4 ¾": /products/faux-desk-plants/50600863.txt
+- FEJKA artificial potted plant, indoor/outdoor cactus, 2 ¼": /products/faux-desk-plants/60587154.txt
+- FEJKA artificial potted plant, indoor/outdoor Banana tree, 4 ¾": /products/faux-desk-plants/10600860.txt
+- FEJKA artificial potted plant, indoor/outdoor Baby’s tears, 3 ½": /products/faux-desk-plants/00532777.txt
+- FEJKA artificial potted plant, indoor/outdoor Areca palm, 4 ¾": /products/faux-desk-plants/30508403.txt
+- FEJKA artificial potted plant, indoor/outdoor Aralia, 4 ¾": /products/faux-desk-plants/60600853.txt
+- FEJKA artificial potted plant, indoor/outdoor Alocasia, 4 ¾": /products/faux-desk-plants/00600870.txt
+- FEJKA artifi potted plant w pot, set of 3, indoor/outdoor leaves, 2 ¼": /products/faux-desk-plants/00601469.txt
+- FEJKA artifi potted plant w pot, set of 3, indoor/outdoor herbs: /products/faux-desk-plants/40508407.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

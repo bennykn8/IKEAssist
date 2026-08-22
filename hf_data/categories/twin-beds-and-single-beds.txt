@@ -1,0 +1,93 @@
+# @CATEGORY
+Name: Twin beds & single beds
+ProductCount: 71
+
+# @FILTERS
+PriceRange: $44.00 - $617.00
+Materials: Bed base frame: Solid pine, Adhesive, Bed base slats: Layer-glued wood veneer, Paper foil, Adhesive resin as coating, Bed end filling/ Rail/ Bedside: Particleboard, Paper foil, Plastic edging, Bed slats: Layer-glued wood veneer, Adhesive resin as coating, Bedside: Particleboard, Fiberboard, Acrylic paint, Acrylic paint, Plastic edging, Bedside: Particleboard, Fiberboard, Ash veneer, Stain, Clear acrylic lacquer, Printed and embossed acrylic paint, Paper, Plastic edging, Bedside: Particleboard, Fiberboard, Printed and embossed acrylic paint, Paper, Plastic edging, Bedside: Solid pine, Stain, Clear acrylic lacquer, Stain, Clear acrylic lacquer, Bottom panel/ Panel/ Side panel: Particleboard, Oak veneer, Clear acrylic lacquer, Paper foil, Oak veneer, Paper edging, Drawer bottom: Fiberboard, Paper foil
+Brand: IKEA
+
+# @ITEMS
+- VIHALS bed frame, white/Luröy, Twin: /products/twin-beds-and-single-beds/39581856.txt
+- VIHALS bed frame, white, Twin: /products/twin-beds-and-single-beds/10602449.txt
+- VEVELSTAD bed frame with 3 headboards, white/Tolkning rattan, Twin: /products/twin-beds-and-single-beds/89441830.txt
+- VEVELSTAD bed frame with 2 headboards, white/Tolkning rattan, Twin: /products/twin-beds-and-single-beds/69441812.txt
+- VEVELSTAD bed frame with 1 headboard, white/Tolkning rattan, Twin: /products/twin-beds-and-single-beds/39441781.txt
+- VEVELSTAD bed frame, white, Twin: /products/twin-beds-and-single-beds/10518276.txt
+- TONSTAD bed frame, off-white/Lyngör white, Twin: /products/twin-beds-and-single-beds/09575814.txt
+- TONSTAD bed frame, off-white/Luröy, Twin: /products/twin-beds-and-single-beds/89577748.txt
+- TONSTAD bed frame, off-white/Lönset, Twin: /products/twin-beds-and-single-beds/69577749.txt
+- TONSTAD bed frame, off-white, Twin: /products/twin-beds-and-single-beds/90603553.txt
+- TONSTAD bed frame, off-white, Full: /products/twin-beds-and-single-beds/60603620.txt
+- TONSTAD bed frame, oak veneer/Lyngör white, Twin: /products/twin-beds-and-single-beds/49575812.txt
+- TONSTAD bed frame, oak veneer/Luröy, Twin: /products/twin-beds-and-single-beds/39577722.txt
+- TONSTAD bed frame, oak veneer/Lönset, Twin: /products/twin-beds-and-single-beds/19577723.txt
+- TONSTAD bed frame, oak veneer, Twin: /products/twin-beds-and-single-beds/00603642.txt
+- TONSTAD bed frame, brown stained oak veneer/Lyngör dark gray, Twin: /products/twin-beds-and-single-beds/89575810.txt
+- TONSTAD bed frame, brown stained oak veneer/Luröy, Twin: /products/twin-beds-and-single-beds/79577701.txt
+- TONSTAD bed frame, brown stained oak veneer/Lönset, Twin: /products/twin-beds-and-single-beds/59577702.txt
+- TONSTAD bed frame, brown stained oak veneer, Twin: /products/twin-beds-and-single-beds/70603610.txt
+- TARVA bed frame, white stained/Luröy, Twin: /products/twin-beds-and-single-beds/19553963.txt
+- TARVA bed frame, white stained, Twin: /products/twin-beds-and-single-beds/30586212.txt
+- TARVA bed frame, pine/Luröy, Twin: /products/twin-beds-and-single-beds/89009573.txt
+- TARVA bed frame, pine, Twin: /products/twin-beds-and-single-beds/70261268.txt
+- STJÄRNÖ bed frame, white/Lyngör white, Twin: /products/twin-beds-and-single-beds/79564567.txt
+- STJÄRNÖ bed frame, white/Luröy, Twin: /products/twin-beds-and-single-beds/19563368.txt
+- STJÄRNÖ bed frame, white/Lönset, Twin: /products/twin-beds-and-single-beds/39563391.txt
+- STJÄRNÖ bed frame, white, Twin: /products/twin-beds-and-single-beds/20579504.txt
+- STJÄRNÖ bed frame, anthracite/Lyngör dark gray, Twin: /products/twin-beds-and-single-beds/09564655.txt
+- STJÄRNÖ bed frame, anthracite/Luröy, Twin: /products/twin-beds-and-single-beds/09563340.txt
+- STJÄRNÖ bed frame, anthracite/Lönset, Twin: /products/twin-beds-and-single-beds/59563413.txt
+- STJÄRNÖ bed frame, anthracite, Twin: /products/twin-beds-and-single-beds/40575369.txt
+- SONGESAND bed frame with 2 storage boxes, brown, Twin: /products/twin-beds-and-single-beds/99240987.txt
+- SONGESAND bed frame with 2 storage boxes, brown/Luröy, Twin: /products/twin-beds-and-single-beds/09240977.txt
+- SONGESAND bed frame with 2 storage boxes, brown/Lönset, Twin: /products/twin-beds-and-single-beds/89240978.txt
+- SONGESAND bed frame, white/Luröy, Twin: /products/twin-beds-and-single-beds/69241040.txt
+- SONGESAND bed frame, white/Lönset, Twin: /products/twin-beds-and-single-beds/49241041.txt
+- SONGESAND bed frame, white, Twin: /products/twin-beds-and-single-beds/90372562.txt
+- SONGESAND bed frame, brown/Luröy, Twin: /products/twin-beds-and-single-beds/49240923.txt
+- SONGESAND bed frame, brown/Lönset, Twin: /products/twin-beds-and-single-beds/39240952.txt
+- SONGESAND Bed frame, brown, Twin: /products/twin-beds-and-single-beds/10372561.txt
+- NEIDEN bed frame, pine/Luröy, Twin: /products/twin-beds-and-single-beds/59248607.txt
+- NEIDEN Bed frame, pine, Twin: /products/twin-beds-and-single-beds/00395252.txt
+- MALM bed frame, white/Luröy, Twin: /products/twin-beds-and-single-beds/49009952.txt
+- MALM bed frame, white/Lönset, Twin: /products/twin-beds-and-single-beds/19019599.txt
+- MALM Bed frame, high, white, Twin: /products/twin-beds-and-single-beds/40249490.txt
+- MALM bed frame: /products/twin-beds-and-single-beds/49574394.txt
+- MALM bed frame, dark brown veneer/Lönset, Twin: /products/twin-beds-and-single-beds/69574393.txt
+- MALM bed frame, dark brown veneer, Twin: /products/twin-beds-and-single-beds/20599446.txt
+- IDANÄS bed frame, white/Lyngör white, Twin: /products/twin-beds-and-single-beds/29567281.txt
+- IDANÄS bed frame, white/Luröy, Twin: /products/twin-beds-and-single-beds/59386571.txt
+- IDANÄS bed frame, white, Twin: /products/twin-beds-and-single-beds/50459661.txt
+- IDANÄS bed frame, dark brown stained, Twin: /products/twin-beds-and-single-beds/70459660.txt
+- IDANÄS bed frame, dark brown/Lyngör dark gray, Twin: /products/twin-beds-and-single-beds/49567280.txt
+- IDANÄS bed frame, dark brown/Luröy, Twin: /products/twin-beds-and-single-beds/99386569.txt
+- HEMNES bed frame, white stain/Lyngör white, Twin: /products/twin-beds-and-single-beds/89567532.txt
+- HEMNES bed frame, white stain/Luröy, Twin: /products/twin-beds-and-single-beds/09011674.txt
+- HEMNES bed frame, white stain/Lönset, Twin: /products/twin-beds-and-single-beds/79019577.txt
+- HEMNES Bed frame, white stain, Twin: /products/twin-beds-and-single-beds/40249560.txt
+- HEMNES bed frame, dark gray stained/Lyngör white, Twin: /products/twin-beds-and-single-beds/99582508.txt
+- HEMNES bed frame, dark gray stained/Lyngör dark gray, Twin: /products/twin-beds-and-single-beds/09582503.txt
+- HEMNES bed frame, dark gray stained/Luröy, Twin: /products/twin-beds-and-single-beds/69240644.txt
+- HEMNES bed frame, dark gray stained/Lönset, Twin: /products/twin-beds-and-single-beds/79240648.txt
+- HEMNES bed frame, dark gray stained, Twin: /products/twin-beds-and-single-beds/60381756.txt
+- HEMNES bed frame, black-brown/Lyngör white, Twin: /products/twin-beds-and-single-beds/49575831.txt
+- HEMNES bed frame, black-brown/Lyngör dark gray, Twin: /products/twin-beds-and-single-beds/29567506.txt
+- HEMNES bed frame, black-brown/Luröy, Twin: /products/twin-beds-and-single-beds/29011673.txt
+- HEMNES bed frame, black-brown/Lönset, Twin: /products/twin-beds-and-single-beds/99019576.txt
+- HEMNES Bed frame, black-brown, Twin: /products/twin-beds-and-single-beds/30249551.txt
+- GRIMSBU bed frame, white, Twin: /products/twin-beds-and-single-beds/00508517.txt
+- GRIMSBU bed frame, gray, Twin: /products/twin-beds-and-single-beds/20508516.txt
+- GLAMBERGET extendable bed w stor/2 mattresses, pine/Vannareid firm, Twin: /products/twin-beds-and-single-beds/99568437.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,29 @@
+# @CATEGORY
+Name: Induction cooktops
+ProductCount: 8
+
+# @FILTERS
+PriceRange: $59.99 - $2099.00
+Brand: IKEA
+
+# @ITEMS
+- TILLREDA portable induction cooktop, 1 zone white: /products/induction-cooktops/10493520.txt
+- TILLREDA portable induction cooktop, 1 zone black: /products/induction-cooktops/30546508.txt
+- NEDERSTA induction cooktop, black: /products/induction-cooktops/10587613.txt
+- HIDINGSTA induction cooktop, black: /products/induction-cooktops/30587612.txt
+- FÖRNEBO Induction cooktop w/downdraft vent: /products/induction-cooktops/70537757.txt
+- FLACKSTA induction cooktop, black: /products/induction-cooktops/50587611.txt
+- BLACKSTAD induction cooktop, black: /products/induction-cooktops/70540533.txt
+- ÄLMESTAD induction cooktop, black: /products/induction-cooktops/10540531.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

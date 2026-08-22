@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MJÖLKKANNA basket, bamboo, 9 ¾x13 ¾x
+SKU: 80556887
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/mjoelkkanna-basket-bamboo-80556887/
+Category: Baskets
+Description: 7" Add more harmony to your everyday life with MJÖLKKANNA baskets. Handmade from bamboo – a natural material that spreads a calm, warm feeling that transforms any room into a pleasant oasis for body a...
+
+# @OFFER
+Price: 14.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts/ Top frame/ Corner protection: Bamboo, Clear acrylic lacquer, Binding: Rattan, Clear acrylic lacquer
+Features: Bamboo is a natural fiber that might change color over time. | Each basket is a unique, handmade work of art with natural variations in color and shape. | Product is possible to recycle or use for energy recovery, if available in your community.
+Care: Dry with a cloth. Do not use pressure washers which may damage the bamboo. | Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/mjoelkkanna-basket-bamboo__1224557_pe915026_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

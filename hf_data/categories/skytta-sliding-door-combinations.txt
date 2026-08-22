@@ -1,0 +1,109 @@
+# @CATEGORY
+Name: SKYTTA sliding door combinations
+ProductCount: 87
+
+# @FILTERS
+PriceRange: $500.00 - $2470.00
+Materials: Aluminum, Anodized, Aluminum, Anodized, Acrylic coating, Cover strip: Aluminum, Anodized, Cover strip: Aluminum, Anodized, Acrylic coating, Fiberboard, Paper foil, Fiberboard, Plastic foil, Plastic foil, Glass, Plastic foil, Steel, Acetal plastic, Reinforced polyamide, Galvanized, Tempered glass, Glass enamel
+Brand: IKEA
+
+# @ITEMS
+- SKYTTA / SVARTISDAL sliding door, black/white paper: /products/skytta-sliding-door-combinations/69424049.txt
+- SKYTTA / SVARTISDAL sliding door, black/white paper: /products/skytta-sliding-door-combinations/29422740.txt
+- SKYTTA / SVARTISDAL sliding door, black/white paper effect: /products/skytta-sliding-door-combinations/29581140.txt
+- SKYTTA / SVARTISDAL sliding door, aluminum/white paper: /products/skytta-sliding-door-combinations/59422734.txt
+- SKYTTA / SVARTISDAL sliding door, aluminum/white paper: /products/skytta-sliding-door-combinations/49424050.txt
+- SKYTTA / PAX walk-in wardrobe with sliding doors, white Mehamn/Auli/gray-beige mirror glass: /products/skytta-sliding-door-combinations/39572767.txt
+- SKYTTA / PAX walk-in wardrobe with sliding doors, white Mehamn/Auli/gray-beige mirror glass: /products/skytta-sliding-door-combinations/19572768.txt
+- SKYTTA / PAX walk-in wardrobe with sliding doors, white double sided/Mehamn light green: /products/skytta-sliding-door-combinations/99572774.txt
+- SKYTTA / PAX walk-in wardrobe with sliding doors, white double sided/Mehamn light green: /products/skytta-sliding-door-combinations/19572773.txt
+- SKYTTA / PAX walk-in wardrobe with sliding doors, white double sided/Mehamn light blue: /products/skytta-sliding-door-combinations/59572771.txt
+- SKYTTA / PAX walk-in wardrobe with sliding doors, white double sided/Mehamn light blue: /products/skytta-sliding-door-combinations/39572772.txt
+- SKYTTA / PAX walk-in wardrobe with sliding doors, white double sided/Mehamn light blue/light green: /products/skytta-sliding-door-combinations/69572775.txt
+- SKYTTA / PAX walk-in wardrobe with sliding doors, white double sided/Mehamn light blue/light green: /products/skytta-sliding-door-combinations/49572776.txt
+- SKYTTA / PAX walk-in wardrobe with sliding doors, white double sided/Mehamn light blue/light green: /products/skytta-sliding-door-combinations/29572777.txt
+- SKYTTA / PAX walk-in wardrobe with sliding doors, white double sided/Mehamn light blue/light green: /products/skytta-sliding-door-combinations/09572778.txt
+- SKYTTA / PAX walk-in wardrobe with sliding doors, black/Hokksund high-gloss light gray: /products/skytta-sliding-door-combinations/29572763.txt
+- SKYTTA / PAX walk-in wardrobe with sliding doors, black dark gray/Mehamn light green: /products/skytta-sliding-door-combinations/69572756.txt
+- SKYTTA / PAX walk-in wardrobe with sliding doors, black dark gray/Mehamn light green: /products/skytta-sliding-door-combinations/49572757.txt
+- SKYTTA / PAX walk-in wardrobe with sliding doors, black dark gray/Mehamn light blue: /products/skytta-sliding-door-combinations/99572769.txt
+- SKYTTA / PAX walk-in wardrobe with sliding doors, black dark gray/Mehamn light blue: /products/skytta-sliding-door-combinations/89572755.txt
+- SKYTTA / PAX walk-in wardrobe with sliding doors, black dark gray/Mehamn light blue/light green: /products/skytta-sliding-door-combinations/69572761.txt
+- SKYTTA / PAX walk-in wardrobe with sliding doors, black dark gray/Mehamn light blue/light green: /products/skytta-sliding-door-combinations/49572762.txt
+- SKYTTA / PAX walk-in wardrobe with sliding doors, black dark gray/Mehamn light blue/light green: /products/skytta-sliding-door-combinations/29572758.txt
+- SKYTTA / PAX walk-in wardrobe with sliding doors, black dark gray/Mehamn light blue/light green: /products/skytta-sliding-door-combinations/09572759.txt
+- SKYTTA / PAX walk-in wardrobe with sliding doors, black/Auli mirror glass: /products/skytta-sliding-door-combinations/89572779.txt
+- SKYTTA / PAX walk-in wardrobe with sliding doors, black/Auli mirror glass: /products/skytta-sliding-door-combinations/49572781.txt
+- SKYTTA / MEHAMN sliding door, white/double sided white stained oak effect: /products/skytta-sliding-door-combinations/89424048.txt
+- SKYTTA / MEHAMN sliding door, white/double sided white stained oak effect: /products/skytta-sliding-door-combinations/09422736.txt
+- SKYTTA / MEHAMN sliding door, white/double sided white: /products/skytta-sliding-door-combinations/79500274.txt
+- SKYTTA / MEHAMN sliding door, white/double sided white: /products/skytta-sliding-door-combinations/49500280.txt
+- SKYTTA / MEHAMN sliding door, black/double sided white stained oak effect: /products/skytta-sliding-door-combinations/99499571.txt
+- SKYTTA / MEHAMN sliding door, black/double sided white stained oak effect: /products/skytta-sliding-door-combinations/19499570.txt
+- SKYTTA / MEHAMN sliding door, black/double sided white: /products/skytta-sliding-door-combinations/89499576.txt
+- SKYTTA / MEHAMN sliding door, black/double sided white: /products/skytta-sliding-door-combinations/39499574.txt
+- SKYTTA / MEHAMN sliding door, black/double sided dark gray: /products/skytta-sliding-door-combinations/69499582.txt
+- SKYTTA / MEHAMN sliding door, black/double sided dark gray: /products/skytta-sliding-door-combinations/39500285.txt
+- SKYTTA / MEHAMN sliding door, black/double sided dark gray: /products/skytta-sliding-door-combinations/29499584.txt
+- SKYTTA / MEHAMN sliding door, black/double sided dark gray: /products/skytta-sliding-door-combinations/09500282.txt
+- SKYTTA / MEHAMN/AULI sliding door, white/white stained oak effect mirror glass: /products/skytta-sliding-door-combinations/39575921.txt
+- SKYTTA / MEHAMN/AULI sliding door, white/white stained oak effect mirror glass: /products/skytta-sliding-door-combinations/19575922.txt
+- SKYTTA / MEHAMN/AULI sliding door, white double sided/gray-beige mirror glass: /products/skytta-sliding-door-combinations/79575924.txt
+- SKYTTA / MEHAMN/AULI sliding door, white double sided/gray-beige mirror glass: /products/skytta-sliding-door-combinations/29575926.txt
+- SKYTTA / MEHAMN/AULI sliding door, black/dark gray mirror glass: /products/skytta-sliding-door-combinations/49575906.txt
+- SKYTTA / MEHAMN/AULI sliding door, black/dark gray mirror glass: /products/skytta-sliding-door-combinations/09575908.txt
+- SKYTTA / MEHAMN/AULI sliding door, aluminum/white stained oak effect mirror glass: /products/skytta-sliding-door-combinations/69575905.txt
+- SKYTTA / MEHAMN/AULI sliding door, aluminum/white stained oak effect mirror glass: /products/skytta-sliding-door-combinations/19575903.txt
+- SKYTTA / MEHAMN/AULI sliding door, aluminum/white mirror glass: /products/skytta-sliding-door-combinations/69575934.txt
+- SKYTTA / MEHAMN/AULI sliding door, aluminum/white mirror glass: /products/skytta-sliding-door-combinations/39575935.txt
+- SKYTTA / MEHAMN/AULI sliding door, aluminum double sided/white stained oak effect mirror glass: /products/skytta-sliding-door-combinations/39575916.txt
+- SKYTTA / MEHAMN/AULI sliding door, aluminum double sided/white stained oak effect mirror glass: /products/skytta-sliding-door-combinations/19575917.txt
+- SKYTTA / MEHAMN/AULI sliding door, aluminum double sided/gray-beige mirror glass: /products/skytta-sliding-door-combinations/49575911.txt
+- SKYTTA / MEHAMN/AULI sliding door, aluminum double sided/gray-beige mirror glass: /products/skytta-sliding-door-combinations/09575913.txt
+- SKYTTA / MEHAMN/AULI sliding door, aluminum/dark gray mirror glass: /products/skytta-sliding-door-combinations/89575928.txt
+- SKYTTA / MEHAMN/AULI sliding door, aluminum/dark gray mirror glass: /products/skytta-sliding-door-combinations/29575931.txt
+- SKYTTA / HOKKSUND sliding door, black/high-gloss light gray: /products/skytta-sliding-door-combinations/69422743.txt
+- SKYTTA / HOKKSUND/AULI sliding door, aluminum/high-gloss light gray mirror glass: /products/skytta-sliding-door-combinations/59575859.txt
+- SKYTTA / BOAXEL walk-in wardrobe with sliding doors, black metal/Mehamn light blue: /products/skytta-sliding-door-combinations/49564502.txt
+- SKYTTA / BOAXEL walk-in wardrobe with sliding doors, black metal/Mehamn light blue: /products/skytta-sliding-door-combinations/29564503.txt
+- SKYTTA / BOAXEL walk-in wardrobe with sliding doors, black anthracite/Mehamn light green: /products/skytta-sliding-door-combinations/99567490.txt
+- SKYTTA / BOAXEL walk-in wardrobe with sliding doors, black anthracite/Mehamn light green: /products/skytta-sliding-door-combinations/19567489.txt
+- SKYTTA / BOAXEL walk-in wardrobe with sliding doors, aluminum/Auli mirror glass: /products/skytta-sliding-door-combinations/79562177.txt
+- SKYTTA / BOAXEL walk-in wardrobe with sliding doors, aluminum/Auli mirror glass: /products/skytta-sliding-door-combinations/19562175.txt
+- SKYTTA / BOAXEL reach-in wardrobe with sliding door, white Mehamn/Auli/white stained oak effect mirror glass: /products/skytta-sliding-door-combinations/79562196.txt
+- SKYTTA / BOAXEL reach-in wardrobe with sliding door, white Mehamn/Auli/white stained oak effect mirror glass: /products/skytta-sliding-door-combinations/29562194.txt
+- SKYTTA / BOAXEL reach-in wardrobe with sliding door, black metal/Mehamn light green: /products/skytta-sliding-door-combinations/89564487.txt
+- SKYTTA / BOAXEL reach-in wardrobe with sliding door, black metal/Mehamn light green: /products/skytta-sliding-door-combinations/69557690.txt
+- SKYTTA / BOAXEL reach-in wardrobe with sliding door, black metal/Mehamn light green: /products/skytta-sliding-door-combinations/49564489.txt
+- SKYTTA / BOAXEL reach-in wardrobe with sliding door, black metal/Mehamn light green: /products/skytta-sliding-door-combinations/09557688.txt
+- SKYTTA / BOAXEL reach-in wardrobe with sliding door, black double sided/Mehamn white stained oak effect: /products/skytta-sliding-door-combinations/89523114.txt
+- SKYTTA / BOAXEL reach-in wardrobe with sliding door, black double sided/Mehamn white stained oak effect: /products/skytta-sliding-door-combinations/69515148.txt
+- SKYTTA / BOAXEL reach-in wardrobe with sliding door, black double sided/Mehamn dark gray: /products/skytta-sliding-door-combinations/39523239.txt
+- SKYTTA / BOAXEL reach-in wardrobe with sliding door, black double sided/Mehamn dark gray: /products/skytta-sliding-door-combinations/39516007.txt
+- SKYTTA / BOAXEL reach-in wardrobe with sliding door, aluminum Mehamn/Auli/gray-beige mirror glass: /products/skytta-sliding-door-combinations/69562173.txt
+- SKYTTA / BOAXEL reach-in wardrobe with sliding door, aluminum Mehamn/Auli/gray-beige mirror glass: /products/skytta-sliding-door-combinations/09562171.txt
+- SKYTTA / AURDAL walk-in wardrobe with sliding doors, white white/Mehamn light green: /products/skytta-sliding-door-combinations/59552565.txt
+- SKYTTA / AURDAL walk-in wardrobe with sliding doors, white Mehamn/Auli/white stained oak effect mirror glass: /products/skytta-sliding-door-combinations/79562182.txt
+- SKYTTA / AURDAL walk-in wardrobe with sliding doors, black dark gray/Mehamn light blue: /products/skytta-sliding-door-combinations/99552549.txt
+- SKYTTA / AURDAL reach-in wardrobe with sliding door, white white/Mehamn light green: /products/skytta-sliding-door-combinations/79552569.txt
+- SKYTTA / AURDAL reach-in wardrobe with sliding door, black Mehamn/white stained oak effect dark gray: /products/skytta-sliding-door-combinations/19521463.txt
+- SKYTTA / AURDAL reach-in wardrobe with sliding door, black dark gray/Mehamn white: /products/skytta-sliding-door-combinations/29528218.txt
+- SKYTTA / AURDAL reach-in wardrobe with sliding door, black dark gray/Mehamn light blue: /products/skytta-sliding-door-combinations/69552536.txt
+- SKYTTA / AULI sliding door, black/mirror glass: /products/skytta-sliding-door-combinations/89575853.txt
+- SKYTTA / AULI sliding door, black/mirror glass: /products/skytta-sliding-door-combinations/29575851.txt
+- SKYTTA / AULI sliding door, aluminum/mirror glass: /products/skytta-sliding-door-combinations/99575857.txt
+- SKYTTA / AULI sliding door, aluminum/mirror glass: /products/skytta-sliding-door-combinations/69575849.txt
+- SKYTTA / AULI sliding door, aluminum/mirror glass: /products/skytta-sliding-door-combinations/39575855.txt
+- SKYTTA / AULI sliding door, aluminum/mirror glass: /products/skytta-sliding-door-combinations/09575847.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,25 @@
+# @CATEGORY
+Name: Toy boxes & shelves
+ProductCount: 3
+
+# @FILTERS
+PriceRange: $24.99 - $119.99
+Materials: Back panel: Fiberboard, Acrylic paint, Acrylic paint, Fixed shelf/ Drawer side/ Drawer back: Particleboard, Paper foil, Front rail/ Partition/ Support rail: Fiberboard, Paper foil, Particleboard, Acrylic paint, Side panel/ Top panel/ Drawer front: Particleboard, Paper foil, Plastic edging, Top panel/ Side panel/ Fixed shelf/ Bottom panel/ Mounting plate: Particleboard, Melamine foil, Plastic edging
+Brand: IKEA
+
+# @ITEMS
+- SMUSSLA bedside table/shelf unit, white: /products/toy-boxes-and-shelves/10469493.txt
+- SMÅGÖRA shelf unit, white: /products/toy-boxes-and-shelves/60465529.txt
+- BERGIG book display with storage, white: /products/toy-boxes-and-shelves/60598100.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

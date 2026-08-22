@@ -1,0 +1,24 @@
+# @CATEGORY
+Name: Under cabinet and built-in range hoods
+ProductCount: 3
+
+# @FILTERS
+PriceRange: $399.00 - $699.00
+Brand: IKEA
+
+# @ITEMS
+- UTDRAGBAR under cabinet range hood, Stainless steel: /products/under-cabinet-and-built-in-range-hoods/90462138.txt
+- PLANENLIG under cabinet range hood, Stainless steel: /products/under-cabinet-and-built-in-range-hoods/30462141.txt
+- ÖMSINNAD under cabinet range hood, Stainless steel: /products/under-cabinet-and-built-in-range-hoods/40462145.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

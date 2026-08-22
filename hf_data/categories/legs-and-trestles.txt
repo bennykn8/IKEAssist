@@ -1,0 +1,35 @@
+# @CATEGORY
+Name: Legs & trestles
+ProductCount: 13
+
+# @FILTERS
+PriceRange: $6.00 - $50.00
+Materials: Foot: Polypropylene, Hook and loop fastener: Polyamide, Leg/ Rail/ Mounting plate: Steel, Epoxy/polyester powder coating, Leg/ Top rail/ Supporting rail/ Tray/ Bracket: Steel, Epoxy/polyester powder coating, Leg: Bamboo, Clear acrylic lacquer, Main parts: Steel, Epoxy/polyester powder coating, Mesh: 100 % polyester (100% recycled), Metal part: Steel, Epoxy/polyester powder coating, Mounting plate: Steel, Epoxy/polyester powder coating, Part 2: Reinforced polyamide
+Brand: IKEA
+
+# @ITEMS
+- TILLSLAG trestle, white metal: /products/legs-and-trestles/50497192.txt
+- TILLSLAG trestle, green metal: /products/legs-and-trestles/10522424.txt
+- SPÄND table leg with storage, white: /products/legs-and-trestles/80569470.txt
+- SPÄND leg, white: /products/legs-and-trestles/10569464.txt
+- OLOV Leg, adjustable, white: /products/legs-and-trestles/10264302.txt
+- OLOV Leg, adjustable, black: /products/legs-and-trestles/30264301.txt
+- NÄRSPEL trestle, dark gray metal: /products/legs-and-trestles/10471245.txt
+- MITTBACK trestle, birch: /products/legs-and-trestles/30459997.txt
+- KRILLE Leg with caster, white: /products/legs-and-trestles/30250257.txt
+- KRILLE leg with caster, black: /products/legs-and-trestles/70562761.txt
+- HILVER cone-shaped leg, bamboo: /products/legs-and-trestles/80278273.txt
+- ADILS leg, white: /products/legs-and-trestles/90217972.txt
+- ADILS leg, black: /products/legs-and-trestles/70217973.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

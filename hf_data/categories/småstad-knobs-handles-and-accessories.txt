@@ -1,0 +1,33 @@
+# @CATEGORY
+Name: SMÅSTAD knobs, handles & accessories
+ProductCount: 11
+
+# @FILTERS
+PriceRange: $3.00 - $10.00
+Materials: Aluminium (min. 70% recycled), Epoxy/polyester powder coating, Bead: Solid birch, Clear acrylic lacquer, Frame: Polypropylene, Handle: Zinc, Epoxy/polyester powder coating, Label holder: PET plastic, Label: Paper, Chlorine free bleached paper, Mirror: Acrylic, Steel, Epoxy/polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- LATMASK clip-on handle, white, 23/8"2 pack: /products/småstad-knobs-handles-and-accessories/10472042.txt
+- LATMASK clip-on handle, orange, 23/8"2 pack: /products/småstad-knobs-handles-and-accessories/70574090.txt
+- LAPPMES handle, birch: /products/småstad-knobs-handles-and-accessories/40446122.txt
+- JÄRNSPARV handle, black/arrow: /products/småstad-knobs-handles-and-accessories/60446121.txt
+- HÄNGIG mirror, white/round: /products/småstad-knobs-handles-and-accessories/70446154.txt
+- HÄNGIG label holder: /products/småstad-knobs-handles-and-accessories/00451323.txt
+- BEGRIPA handle, yellow/half-round: /products/småstad-knobs-handles-and-accessories/50572600.txt
+- BEGRIPA handle, white/half-round: /products/småstad-knobs-handles-and-accessories/70540081.txt
+- BEGRIPA handle, lilac/half-round: /products/småstad-knobs-handles-and-accessories/40573209.txt
+- BEGRIPA handle, light red/half-round: /products/småstad-knobs-handles-and-accessories/20572593.txt
+- BEGRIPA handle, light blue/half-round: /products/småstad-knobs-handles-and-accessories/80573207.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

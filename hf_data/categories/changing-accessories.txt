@@ -1,0 +1,32 @@
+# @CATEGORY
+Name: Changing accessories
+ProductCount: 10
+
+# @FILTERS
+PriceRange: $6.99 - $25.00
+Materials: 100 % cotton, Backing: Polyurethane, Edge fabric: 100 % polyester (100% recycled), Edging: 100 % polyester, Edging: 100 %polyester, Fabric/ Cover: 100 % cotton, Fabric: 100 % cotton, Fabric: 80 % cotton, 20 % polyester (100% recycled), Filling material: Polyester wadding, Polyethylene foam, Filling material: Polyurethane foam 1.5 lb/cu.ft.
+Brand: IKEA
+
+# @ITEMS
+- VÄDRA cover for changing pad, white: /products/changing-accessories/10489212.txt
+- VÄDRA cover for changing pad, dotted/gray: /products/changing-accessories/70503371.txt
+- VÄDRA cover for changing pad, beige/blue: /products/changing-accessories/50573614.txt
+- VÄDRA changing pad: /products/changing-accessories/20269016.txt
+- SKÖTSAM cover for changing pad, gray: /products/changing-accessories/90489227.txt
+- SKÖTSAM cover for changing pad, beige: /products/changing-accessories/10573611.txt
+- SKÖTSAM changing pad, white: /products/changing-accessories/70251797.txt
+- ÖNSKLIG Racks for changing table, set of 4, white: /products/changing-accessories/30199283.txt
+- LEN changing pad, dotted/gray: /products/changing-accessories/60453913.txt
+- GRÖNFINK changing pad, foldable/green: /products/changing-accessories/60577720.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

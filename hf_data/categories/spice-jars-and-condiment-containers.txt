@@ -1,0 +1,44 @@
+# @CATEGORY
+Name: Spice jars & condiment containers
+ProductCount: 22
+
+# @FILTERS
+PriceRange: $0.79 - $24.99
+Materials: Body: Glass, Body: Stoneware, Pigmented glaze, Bottle: Stoneware, Pigmented glaze, Bottom: Polystyrene, Polyethylene, Acetal plastic, Feldspar porcelain, Colored glaze, Glass, Polypropylene, Grinder: Ceramic material, Grinder: Ceramic material, ABS plastic, Acetal plastic, Grinder: Ceramic material, Polypropylene, ABS plastic, Acetal plastic, Insert: Polypropylene
+Brand: IKEA
+
+# @ITEMS
+- VARIERA Lazy susan: /products/spice-jars-and-condiment-containers/10536157.txt
+- UPPLAGA sugar bowl, white: /products/spice-jars-and-condiment-containers/50560292.txt
+- RAJTAN spice jar, glass/aluminum color, 5 oz: /products/spice-jars-and-condiment-containers/40064702.txt
+- PLATS salt & pepper shaker, set of 2, stainless steel: /products/spice-jars-and-condiment-containers/00578218.txt
+- INTRESSANT spice mill, acacia, 10 ¾": /products/spice-jars-and-condiment-containers/70578192.txt
+- IKEA 365+ IHÄRDIG spice mill, black: /products/spice-jars-and-condiment-containers/60578183.txt
+- HALVTOM spice mill, glass/brown, 7 ½": /products/spice-jars-and-condiment-containers/90578167.txt
+- HALVTOM spice jars/bottles tray, gray-beige, 6 ¾x6 ¾": /products/spice-jars-and-condiment-containers/80539459.txt
+- HALVTOM salt and pepper shakers, glass/brown, 4 ¾": /products/spice-jars-and-condiment-containers/10578166.txt
+- HALVTOM bottle with pour spout, glass/brown, 7 ½": /products/spice-jars-and-condiment-containers/30578165.txt
+- GULDFISK spice jar, clear glass/stainless steel, 2 oz: /products/spice-jars-and-condiment-containers/80578356.txt
+- GRILLTIDER squeeze bottle, plastic/clear, 11 oz: /products/spice-jars-and-condiment-containers/40577896.txt
+- CITRONHAJ sugar shaker, clear glass/stainless steel: /products/spice-jars-and-condiment-containers/30578349.txt
+- CITRONHAJ spice mill, clear glass/stainless steel: /products/spice-jars-and-condiment-containers/50578348.txt
+- CITRONHAJ spice jar, clear glass/stainless steel, 3 oz: /products/spice-jars-and-condiment-containers/90578346.txt
+- CITRONHAJ spice jar, clear glass/stainless steel, 12 oz: /products/spice-jars-and-condiment-containers/70578347.txt
+- CITRONHAJ salt and pepper shakers, clear glass/stainless steel, 3 ¼": /products/spice-jars-and-condiment-containers/40578344.txt
+- CITRONHAJ salt and pepper shakers, clear glass/stainless steel, 4 ¾": /products/spice-jars-and-condiment-containers/10578345.txt
+- CITRONHAJ oil/vinegar bottle, clear glass/stainless steel, 6 ¼": /products/spice-jars-and-condiment-containers/60578343.txt
+- BRUGDHAJ salt & pepper shaker, set of 2, brown: /products/spice-jars-and-condiment-containers/50596173.txt
+- BRUGDHAJ oil/vinegar bottle, blue, 7 ½": /products/spice-jars-and-condiment-containers/60596177.txt
+- BRUGDHAJ oil/vinegar bottle, beige, 7 ½": /products/spice-jars-and-condiment-containers/30596174.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

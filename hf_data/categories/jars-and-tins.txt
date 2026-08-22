@@ -1,0 +1,56 @@
+# @CATEGORY
+Name: Jars & tins
+ProductCount: 34
+
+# @FILTERS
+PriceRange: $1.49 - $29.99
+Materials: Air vent/ Sealing ring: Silicone rubber, Body/ Lid: Glass, Body: Glass, Polyurethane glazing paint, Box/ Lid: Bamboo veneer, Closing flap: Polypropylene, Glass, Glass, Natural rubber, Stainless steel, Jar/ Lid: Polystyrene-acrylic plastic, Jar: Glass, Jar: Glass, Paint
+Brand: IKEA
+
+# @ITEMS
+- VARDAGEN jar with lid, clear glass, 61 oz: /products/jars-and-tins/90584210.txt
+- VARDAGEN jar with lid, clear glass, 64 oz: /products/jars-and-tins/70584211.txt
+- TRUMFISK jar, clear glass, 14 oz: /products/jars-and-tins/70551687.txt
+- TRUMFISK jar, clear glass, 10 oz: /products/jars-and-tins/50551688.txt
+- SPINNARHAJ jar with lid, off-white: /products/jars-and-tins/60541849.txt
+- RÖDMULLE coffee/tea canister, with spoon bamboo veneer, 8 ¾": /products/jars-and-tins/00567984.txt
+- MAGASIN bread bin: /products/jars-and-tins/66914300.txt
+- KUSTFYR jar with lid, black/white, 34 oz: /products/jars-and-tins/20615564.txt
+- KORKEN jar with lid, clear glass, 34 oz: /products/jars-and-tins/90227985.txt
+- KORKEN jar with lid, clear glass, 1.9 qt: /products/jars-and-tins/70227986.txt
+- KORKEN Jar with lid, clear glass, Height: 12" Diameter: 4 3/: /products/jars-and-tins/50227987.txt
+- KORKEN Jar with lid, clear glass, Height: 2 ¾" Diameter: 2 ¾": /products/jars-and-tins/40378571.txt
+- KORKEN Jar with lid, clear glass, Height: 4" Diameter: 4 3/: /products/jars-and-tins/20227984.txt
+- KORKEN jar with lid, brown-red, 34 oz: /products/jars-and-tins/00592728.txt
+- KORKEN bottle-shaped jar with lid, clear glass, 34 oz: /products/jars-and-tins/90577974.txt
+- KORKEN bottle-shaped jar with lid, clear glass, 47 oz: /products/jars-and-tins/60577975.txt
+- KORKEN bottle-shaped jar with lid, clear glass, 14 oz: /products/jars-and-tins/10577973.txt
+- KORALLVIPPA dry food jar with lid, set of 6, clear: /products/jars-and-tins/50599416.txt
+- IKEA 365+ jar with lid, glass/plastic, 57 oz: /products/jars-and-tins/99567169.txt
+- IKEA 365+ jar with lid, glass/plastic, 112 oz: /products/jars-and-tins/59567171.txt
+- IKEA 365+ jar with lid, glass/bamboo, 112 oz: /products/jars-and-tins/79567170.txt
+- IKEA 365+ jar with lid, glass/bamboo, 57 oz: /products/jars-and-tins/19567168.txt
+- IKEA 365+ jar, round/glass, 57 oz: /products/jars-and-tins/80393249.txt
+- IKEA 365+ jar, round/glass, 112 oz: /products/jars-and-tins/20393247.txt
+- IKEA 365+ dry food jar with lid, clear/white, 2 qt: /products/jars-and-tins/80578182.txt
+- IKEA 365+ dry food jar with lid, clear/white, 44 oz: /products/jars-and-tins/00578181.txt
+- EKLATERA jar with lid, black, 37 oz: /products/jars-and-tins/30333125.txt
+- BRUGDHAJ jar with lid, blue, 34 oz: /products/jars-and-tins/80596176.txt
+- BRUGDHAJ jar with lid, blue, 10 oz: /products/jars-and-tins/00596175.txt
+- BRUGDHAJ jar with lid, beige, 41 oz: /products/jars-and-tins/70596172.txt
+- BRUGDHAJ jar with lid, beige, 34 oz: /products/jars-and-tins/30596169.txt
+- BRUGDHAJ jar with lid, beige, 10 oz: /products/jars-and-tins/10596170.txt
+- BLOMNING coffee/tea canister: /products/jars-and-tins/20373206.txt
+- BLOMNING coffee/tea canister, 4 ¼x2 ¾x7 ¾": /products/jars-and-tins/00373207.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

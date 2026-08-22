@@ -1,0 +1,58 @@
+# @CATEGORY
+Name: Standard light bulbs
+ProductCount: 36
+
+# @FILTERS
+PriceRange: $2.49 - $10.99
+Materials: Dome: Polycarbonate plastic, Polycarbonate plastic, Glass, Housing/ Heat sink: Polyamide, Housing: Heat resistant glass, Optical lens: Polycarbonate plastic (min. 20% recycled), Polycarbonate plastic, Pin: Copper, Nickel plated, Polycarbonate plastic
+Brand: IKEA
+
+# @ITEMS
+- SOLHETTA LED bulb GU10 600 lumen, dimmable: /products/standard-light-bulbs/10548419.txt
+- SOLHETTA LED bulb GU10 380 lumen, dimmable: /products/standard-light-bulbs/70584112.txt
+- SOLHETTA LED bulb GU10 380 lumen, dimmable: /products/standard-light-bulbs/30530121.txt
+- SOLHETTA LED bulb GU10 380 lumen, 5000 K: /products/standard-light-bulbs/80591536.txt
+- SOLHETTA LED bulb GU10 253 lumen: /products/standard-light-bulbs/40584948.txt
+- SOLHETTA LED bulb E26 800 lumen, globe opal, 5000 K: /products/standard-light-bulbs/50591509.txt
+- SOLHETTA LED bulb E26 800 lumen, globe opal, 5000 K: /products/standard-light-bulbs/10591506.txt
+- SOLHETTA LED bulb E26 800 lumen, dimmable/globe opal: /products/standard-light-bulbs/60583943.txt
+- SOLHETTA LED bulb E26 800 lumen, dimmable/globe opal: /products/standard-light-bulbs/20583935.txt
+- SOLHETTA LED bulb E26 450 lumen, globe opal: /products/standard-light-bulbs/70591476.txt
+- SOLHETTA LED bulb E26 450 lumen, globe opal: /products/standard-light-bulbs/10591479.txt
+- SOLHETTA LED bulb E26 450 lumen, globe clear: /products/standard-light-bulbs/50591444.txt
+- SOLHETTA LED bulb E26 450 lumen, globe clear: /products/standard-light-bulbs/10591441.txt
+- SOLHETTA LED bulb E26 1600 lumen, dimmable/globe opal: /products/standard-light-bulbs/90591545.txt
+- SOLHETTA LED bulb E26 1600 lumen, dimmable/globe opal: /products/standard-light-bulbs/70510423.txt
+- SOLHETTA LED bulb E26 1600 lumen, dimmable/globe opal: /products/standard-light-bulbs/30548437.txt
+- SOLHETTA LED bulb E26 1600 lumen, dimmable/globe opal: /products/standard-light-bulbs/10548438.txt
+- SOLHETTA LED bulb E26 1100 lumen, dimmable/globe opal: /products/standard-light-bulbs/70591462.txt
+- SOLHETTA LED bulb E26 1100 lumen, dimmable/globe opal: /products/standard-light-bulbs/30591459.txt
+- SOLHETTA LED bulb E17 reflector R14 550 lm, dimmable: /products/standard-light-bulbs/80550512.txt
+- SOLHETTA LED bulb E17 reflector R14 550 lm, dimmable: /products/standard-light-bulbs/00550511.txt
+- SOLHETTA LED bulb E12 800 lm, dimmable/globe opal: /products/standard-light-bulbs/80550499.txt
+- SOLHETTA LED bulb E12 800 lm, dimmable/globe opal: /products/standard-light-bulbs/00550498.txt
+- SOLHETTA LED bulb E12 450 lumen, globe opal, 5000 K: /products/standard-light-bulbs/90591499.txt
+- SOLHETTA LED bulb E12 450 lumen, globe opal: /products/standard-light-bulbs/90583965.txt
+- SOLHETTA LED bulb E12 450 lumen, globe opal: /products/standard-light-bulbs/60583962.txt
+- SOLHETTA LED bulb E12 450 lumen, globe opal, 5000 K: /products/standard-light-bulbs/00591494.txt
+- SOLHETTA LED bulb E12 450 lumen, chandelier/opal: /products/standard-light-bulbs/50584014.txt
+- SOLHETTA LED bulb E12 450 lumen, chandelier/opal: /products/standard-light-bulbs/10584011.txt
+- SOLHETTA LED bulb E12 250 lumen, globe opal: /products/standard-light-bulbs/80583980.txt
+- SOLHETTA LED bulb E12 250 lumen, globe opal: /products/standard-light-bulbs/20583983.txt
+- SOLHETTA LED bulb E12 250 lumen, chandelier/opal: /products/standard-light-bulbs/50584033.txt
+- SOLHETTA LED bulb E12 250 lumen, chandelier/opal: /products/standard-light-bulbs/10584030.txt
+- SOLHETTA LED bulb E12 250 lumen, chandelier/clear: /products/standard-light-bulbs/90498769.txt
+- SOLHETTA LED bulb E12 250 lumen, chandelier/clear: /products/standard-light-bulbs/20591426.txt
+- RYET LED bulb G4 100 lumen, opal, 2700 K: /products/standard-light-bulbs/30496424.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

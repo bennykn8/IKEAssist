@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SÖDERSJÖN bath mat, dark gray
+SKU: 40550482
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/soedersjoen-bath-mat-dark-gray-40550482/
+Category: Bath mats & rugs
+Description: , 24x47" Getting ready for the day has never felt so appealing. This dark-grey bath mat with a thick pile in cotton gives you and your feet a soft and cozy start – just like the matching SÖDERSJÖN ped...
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Pile: 100 % cotton, Backing: 50 % natural/ 50 % synthetic latex
+Features: Only for indoor use.
+Care: Machine wash warm, normal cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/soedersjoen-bath-mat-dark-gray__1155641_pe886709_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

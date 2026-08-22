@@ -1,0 +1,26 @@
+# @CATEGORY
+Name: Children's hooks & wall organization
+ProductCount: 4
+
+# @FILTERS
+PriceRange: $5.99 - $30.00
+Materials: Acrylic, Board part: Birch plywood, Frame/ Back panel: Fiberboard, Printed acrylic paint, Knob: Bamboo, Clear acrylic lacquer, Ladder: Polyethylene, Mirror: Glass, Plastic foil, Nail: Galvanized steel, Sleeve/ Tube cap: Polypropylene, Top rail/ Metal tube: Steel, Powder coating
+Brand: IKEA
+
+# @ITEMS
+- SMYGA mirror for desk/wall, light gray: /products/childrens-hooks-and-wall-organization/90510587.txt
+- LUSTIGT Wall shelf: /products/childrens-hooks-and-wall-organization/30381852.txt
+- DRÖMMARE mirror: /products/childrens-hooks-and-wall-organization/50252397.txt
+- BÄRFIS hanger for door, adjustable: /products/childrens-hooks-and-wall-organization/50527127.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

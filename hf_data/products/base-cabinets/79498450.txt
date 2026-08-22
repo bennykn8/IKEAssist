@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SEKTION / MAXIMERA base cabinet w 3 fronts/4 drawers, white/Nickebo matte anthracite
+SKU: 79498450
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sektion-maximera-base-cabinet-w-3-fronts-4-drawers-white-nickebo-matte-anthracite-s79498450/
+Category: Base cabinets
+Description: , 36x24x30" SEKTION kitchen system gives you endless possibilities to design your dream kitchen. Paired with NICKEBO fronts in matt black, you get a stylish and modern look that is easy to personalize...
+
+# @OFFER
+Price: 557
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Particleboard, Frontside/ Backside: Plastic foil (min. 90% recycled), Edge: Plastic edging (min. 50% recycled)
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Requires a knob or a handle | To be completed with SEKTION suspension rail for mounting the cabinet to the wall.
+Care: Wipe clean with a damp cloth.  Use only water or a non-abrasive detergent. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sektion-maximera-base-cabinet-w-3-fronts-4-drawers-white-nickebo-matte-anthracite__1144696_pe882050_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

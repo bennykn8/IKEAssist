@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: HUSBONDE 12-piece sticker set, trash & recycling
+SKU: 80606142
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/husbonde-12-piece-sticker-set-trash-recycling-80606142/
+Category: Bags
+Description: HUSBONDE stickers make sorting correctly in waste bins easier and more fun. The 12 clear symbols are easy to understand – even for the youngest members of the family. Just as easy to fix in place as t...
+
+# @OFFER
+Price: 1.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polypropylene, Paper, Clear acrylic lacquer
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/husbonde-12-piece-sticker-set-trash-recycling__1391300_pe965742_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

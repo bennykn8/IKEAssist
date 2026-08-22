@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LIXHULT cabinet, metal/anthracite
+SKU: 20476520
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lixhult-cabinet-metal-anthracite-20476520/
+Category: Cabinets, hutches & cupboards
+Description: , 133/4x235/8" Challenge the ordinary! Combine different shapes and sizes, stack and combine, with or without legs, and let loose with a palette of different colors. Have fun! The cabinet can be used ...
+
+# @OFFER
+Price: 59
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Epoxy/polyester powder coating
+Features: The 13¾x23⅝" and 23⅝x13¾" cabinets are stackable, but cannot be mounted to the wall.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lixhult-cabinet-metal-anthracite__0914419_pe784005_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

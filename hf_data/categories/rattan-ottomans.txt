@@ -1,0 +1,27 @@
+# @CATEGORY
+Name: Rattan ottomans
+ProductCount: 5
+
+# @FILTERS
+PriceRange: $64.99 - $120.00
+Materials: Binding: Rattan, Clear acrylic lacquer, Bottom panel: Plywood, Stain, Clear acrylic lacquer, Fabric/ Cover: 53 % linen, 47 % viscose/rayon, Frame: Steel, Epoxy/polyester powder coating, Frame: Steel, Powder coating, Main parts: Banana leaves, Clear acrylic lacquer, Main parts: Rattan, Clear acrylic lacquer, Seat frame/ Leg frame/ Cross rail: Steel, Epoxy/polyester powder coating, Seat frame/ Leg: Steel, Epoxy/polyester powder coating, Weaving: Rattan, Clear acrylic lacquer
+Brand: IKEA
+
+# @ITEMS
+- TOLKNING ottoman with storage, handmade rattan: /products/rattan-ottomans/90512666.txt
+- GAMLEHULT Ottoman with storage, rattan, anthracite: /products/rattan-ottomans/10434309.txt
+- FRYKSÅS ottoman, rattan Risane/natural: /products/rattan-ottomans/49563164.txt
+- FRYKSÅS ottoman, rattan: /products/rattan-ottomans/90574094.txt
+- ALSEDA Banana Fiber Rattan Stool - Popular & Comfy: /products/rattan-ottomans/20033919.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,29 @@
+# @CATEGORY
+Name: Potties & baby baths
+ProductCount: 7
+
+# @FILTERS
+PriceRange: $6.49 - $14.99
+Materials: Base/ Ring: Polypropylene, Main parts: Polypropylene, Mesh: 100% polyester (min. 90% recycled), Polypropylene, Synthetic rubber, Polypropylene, Thermoplastic elastomer, Synthetic rubber, Slide protection: Synthetic rubber, Soft parts: Thermoplastic elastomer
+Brand: IKEA
+
+# @ITEMS
+- TOSSIG toilet seat, white/turquoise: /products/potties-and-baby-baths/80591579.txt
+- TOSSIG toilet seat, white/green: /products/potties-and-baby-baths/10272788.txt
+- LOCKIG children's potty, white/turquoise: /products/potties-and-baby-baths/40591581.txt
+- LILLA children's potty, turquoise: /products/potties-and-baby-baths/00591583.txt
+- LILLA children's potty, green: /products/potties-and-baby-baths/30193163.txt
+- LÄTTSAM baby bath, white/turquoise: /products/potties-and-baby-baths/00591578.txt
+- ÄNGSHUMLA 4-piece bath toy set: /products/potties-and-baby-baths/10582267.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

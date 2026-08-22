@@ -1,0 +1,60 @@
+# @CATEGORY
+Name: Chair pads & seat cushions
+ProductCount: 38
+
+# @FILTERS
+PriceRange: $2.99 - $24.99
+Materials: Back fabric: 100 % polyester (100% recycled), Back fabric: 100 % polyester (100% recycled), Silicone treatment, Back fabric: 100 % polypropylene, Back fabric: 100% polyester (min. 90% recycled), Backing: 100 % Synthetic rubber, Coated fabric parts: 100 % polyurethane, 75 % polyester, 25 % cotton, Cushion cover: 100% polyester (min. 90% recycled), Fabric/ Fabric: 100% polyester (min. 90% recycled), Fabric/ Outer fabric: 100% polyester (min. 90% recycled), Fabric/ Top fabric: 43 % cotton, 27 % viscose/rayon, 18 % polyester (100% recycled), 12 % linen
+Brand: IKEA
+
+# @ITEMS
+- VIPPÄRT chair pad, dark gray: /products/chair-pads-and-seat-cushions/40599049.txt
+- VIPPÄRT chair pad, beige: /products/chair-pads-and-seat-cushions/40599285.txt
+- VIPPÄRT chair pad, beige: /products/chair-pads-and-seat-cushions/40586985.txt
+- VATTENMOTT chair pad, gray: /products/chair-pads-and-seat-cushions/00573008.txt
+- VATTENMOTT chair pad, beige: /products/chair-pads-and-seat-cushions/70573019.txt
+- STAGGSTARR chair pad, red: /products/chair-pads-and-seat-cushions/40508756.txt
+- STAGGSTARR chair pad, light gray: /products/chair-pads-and-seat-cushions/70508726.txt
+- STAGGSTARR chair pad, black: /products/chair-pads-and-seat-cushions/60508741.txt
+- PÄRLETERNELL chair pad, Grann black: /products/chair-pads-and-seat-cushions/80552101.txt
+- NORDVIKEN chair pad, beige: /products/chair-pads-and-seat-cushions/40444321.txt
+- MALÖRTSMOTT chair pad, gray: /products/chair-pads-and-seat-cushions/90553157.txt
+- MALINDA chair pad, stripe gray: /products/chair-pads-and-seat-cushions/20513301.txt
+- MALINDA chair pad, light beige: /products/chair-pads-and-seat-cushions/90586983.txt
+- MALINDA chair pad, green: /products/chair-pads-and-seat-cushions/50577315.txt
+- MALINDA chair pad, gray: /products/chair-pads-and-seat-cushions/30477977.txt
+- MALINDA chair pad, dark red: /products/chair-pads-and-seat-cushions/00572805.txt
+- MALINDA chair pad, bright red: /products/chair-pads-and-seat-cushions/10586982.txt
+- MALINDA chair pad, beige: /products/chair-pads-and-seat-cushions/00571575.txt
+- MADONNALILJA chair pad, beige: /products/chair-pads-and-seat-cushions/70559730.txt
+- JUSTINA chair pad, red gray/stripe pattern: /products/chair-pads-and-seat-cushions/80587153.txt
+- JUSTINA chair pad, natural: /products/chair-pads-and-seat-cushions/30586981.txt
+- JUSTINA chair pad, light green: /products/chair-pads-and-seat-cushions/10563551.txt
+- JUSTINA chair pad, gray-blue: /products/chair-pads-and-seat-cushions/60567603.txt
+- JUSTINA chair pad, gray: /products/chair-pads-and-seat-cushions/50586980.txt
+- JUSTINA chair pad, black: /products/chair-pads-and-seat-cushions/90586978.txt
+- GRYTTOM cushion, Gransel natural: /products/chair-pads-and-seat-cushions/50576679.txt
+- DVÄRGDUNÖRT chair pad, gray/white: /products/chair-pads-and-seat-cushions/80586974.txt
+- BRÄMÖN chair pad, gray-beige indoor/outdoor: /products/chair-pads-and-seat-cushions/80484664.txt
+- ÅKERVINDEFLY chair pad, gray: /products/chair-pads-and-seat-cushions/20554358.txt
+- ÅKERVINDEFLY chair pad, dark gray: /products/chair-pads-and-seat-cushions/30607993.txt
+- ÅKERVINDEFLY chair pad, beige: /products/chair-pads-and-seat-cushions/30560207.txt
+- ÅKERVINDEFLY chair pad, beige: /products/chair-pads-and-seat-cushions/10607989.txt
+- ÄNGSFRÄKEN chair pad, green/white: /products/chair-pads-and-seat-cushions/40602829.txt
+- ÄNGSFRÄKEN chair pad, black/white: /products/chair-pads-and-seat-cushions/50602819.txt
+- ÄNGSFRÄKEN chair pad, black: /products/chair-pads-and-seat-cushions/50573058.txt
+- ÄLVGRÄSMAL chair pad, red: /products/chair-pads-and-seat-cushions/80586988.txt
+- ÄLVGRÄSMAL chair pad, gray: /products/chair-pads-and-seat-cushions/00586987.txt
+- ÄLVGRÄSMAL chair pad, beige: /products/chair-pads-and-seat-cushions/20586986.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,29 @@
+# @CATEGORY
+Name: Bar tables sets
+ProductCount: 7
+
+# @FILTERS
+PriceRange: $229.99 - $849.99
+Materials: Base: Aluminum, Epoxy/polyester powder coating, Fabric: 100% polyester (min. 90% recycled), Leg/ Frame/ Seat/ Leg: Solid pine, Adhesive, Stain, Clear acrylic lacquer, Leg/ Rail: Steel, Epoxy/polyester powder coating, Leg: Plywood, Ash veneer, Stain, Tinted clear acrylic lacquer, Particleboard, Laminate, Plastic edging, Laminate, Particleboard, Melamine foil, Plastic edging, Plastic edging, Melamine foil, Seat: Layer-glued wood veneer, Birch veneer, Tinted lacquer, Side frame/ Cross rail: Solid birch, Tinted lacquer, Steel, Epoxy/polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- STENSELE / NORRARYD bar table and 2 bar stools, anthracite anthracite/black: /products/bar-tables-sets/29297227.txt
+- RÖNNINGE / RÖNNINGE bar table and 4 bar stools, birch/birch: /products/bar-tables-sets/09442305.txt
+- RÖNNINGE / RÖNNINGE bar table and 2 bar stools, birch/birch: /products/bar-tables-sets/69442331.txt
+- HÄGERNÄS bar table and 4 bar stools, black stained pine: /products/bar-tables-sets/80606585.txt
+- HÄGERNÄS bar table and 4 bar stools, antique stain pine: /products/bar-tables-sets/30606583.txt
+- GRÅSALA / GRÅSALA bar table and 2 bar stools, gray gray/gray: /products/bar-tables-sets/49484058.txt
+- EKEDALEN / EKEDALEN bar table and 4 bar stools, dark brown/Orrsta light gray: /products/bar-tables-sets/19304228.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

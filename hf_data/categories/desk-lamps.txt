@@ -1,0 +1,55 @@
+# @CATEGORY
+Name: Desk lamps
+ProductCount: 33
+
+# @FILTERS
+PriceRange: $4.99 - $129.99
+Materials: Arm: Steel, Epoxy/polyester powder coating, Arm: Steel, Paint, Back panel/ Plate: Steel, Powder coating, Base cover/ Arm/ Shade/ Flexi joint: Steel, Chrome plated, Base cover/ Arm: Steel, Powder coating, Base/ Tube/ Shade: Steel, Powder coating, Base/ Tube: Steel, Powder coating, Base: ABS plastic, Base: Solid birch, Bottom: ABS plastic
+Brand: IKEA
+
+# @ITEMS
+- TERTIAL work lamp, light blue: /products/desk-lamps/70504295.txt
+- TERTIAL work lamp, dark gray: /products/desk-lamps/20355434.txt
+- SVALLET work lamp, dark gray/white: /products/desk-lamps/80358496.txt
+- STÄNKREGN LED ring lamp, dimmable/turquoise: /products/desk-lamps/70542160.txt
+- SKURUP work lamp, black: /products/desk-lamps/10516786.txt
+- SAMBORD desk lamp, black/white: /products/desk-lamps/90586959.txt
+- RÖDFLIK desk lamp, light beige: /products/desk-lamps/40584057.txt
+- RÖDFLIK desk lamp, gray-green: /products/desk-lamps/70582716.txt
+- RANARP work lamp, off-white: /products/desk-lamps/50231319.txt
+- RANARP work lamp, black: /products/desk-lamps/10331392.txt
+- NYMÅNE work lamp with wireless charging, white: /products/desk-lamps/40448611.txt
+- NYMÅNE work lamp with wireless charging, anthracite: /products/desk-lamps/40477750.txt
+- NYMÅNE work lamp w/charging+LED bulb, anthracite: /products/desk-lamps/20477751.txt
+- NÄVLINGE LED work lamp, white: /products/desk-lamps/00404925.txt
+- NÄVLINGE LED work lamp, black: /products/desk-lamps/40404914.txt
+- NÄVLINGE LED wall/clamp spotlight, white: /products/desk-lamps/30408309.txt
+- NÄVLINGE LED wall/clamp spotlight, black: /products/desk-lamps/30408328.txt
+- NÄVLINGE LED desk lamp, yellow/white: /products/desk-lamps/70574721.txt
+- MODERMOLN work lamp with LED bulb, chrome plated: /products/desk-lamps/30546476.txt
+- MODERMOLN work lamp, chrome plated: /products/desk-lamps/20546453.txt
+- LAGERGÅNG LED lamp for screen, dimmable/turquoise: /products/desk-lamps/40542430.txt
+- JANSJÖ LED USB lamp, black: /products/desk-lamps/70291232.txt
+- ISNÅLEN LED work lamp, white/brass color: /products/desk-lamps/00514373.txt
+- ISNÅLEN LED work lamp, red/brass color: /products/desk-lamps/30520018.txt
+- HEKTAR work lamp with wireless charging, dark gray: /products/desk-lamps/40323437.txt
+- HEKTAR work lamp, dark gray: /products/desk-lamps/20349382.txt
+- FORSÅ work lamp, nickel plated: /products/desk-lamps/60146764.txt
+- FLOTTILJ desk lamp, dark blue: /products/desk-lamps/40549771.txt
+- FLOTTILJ desk lamp, beige: /products/desk-lamps/80552318.txt
+- ENSMÄRKE desk lamp, white: /products/desk-lamps/30595570.txt
+- BRUNBÅGE LED work lamp, with storage dimmable/turquoise: /products/desk-lamps/30540196.txt
+- ANKARSPEL work lamp with LED bulb, pewter effect: /products/desk-lamps/70494343.txt
+- ANKARSPEL work lamp, pewter effect: /products/desk-lamps/40494349.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

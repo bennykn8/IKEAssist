@@ -1,0 +1,24 @@
+# @CATEGORY
+Name: Wall-mounted tables
+ProductCount: 2
+
+# @FILTERS
+PriceRange: $59.99 - $109.99
+Materials: Plastic fitting: Polyamide, Polyethylene, Polypropylene, Table top/ Top rail: Particleboard, Plastic edging, Melamine foil, Table top: Particleboard, Ash veneer, Stain, Clear acrylic lacquer, Top rail: Particleboard, Ash veneer, Ash veneer, Stain, Clear acrylic lacquer, Underframe/ Mounting plate: Steel, Epoxy/polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- NORBERG wall-mount drop-leaf tbl w storage, white: /products/wall-mounted-tables/20497928.txt
+- BJURSTA wall-mounted drop-leaf table, brown-black: /products/wall-mounted-tables/80217524.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

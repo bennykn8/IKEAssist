@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: AKTERTOFTER LED ceiling fan with light, dimmable/wood effect silver color
+SKU: 80595450
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/aktertofter-led-ceiling-fan-with-light-dimmable-wood-effect-silver-color-80595450/
+Category: Ceiling fans
+Description: AKTERTOFTER ceiling fan with its five 56-inch blades circulate air efficiently in big rooms. Use the remote to easily control its 6 speeds, LED lighting and reverse airflow to enjoy year-round comfort...
+
+# @OFFER
+Price: 149.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Bracket/ Wheel: Aluminum, Nickel plated, Blade: Plywood, Paper foil, Joint/ Hanger: Aluminum, Epoxy coating
+Features: Built-in LED light source that lasts approx. 25,000 hours. | Can be mounted to ceilings with a slope up to 18°. | Suitable for room sizes: 23-37 m2 (250-400 sq feet).
+Care: Check the support connections, brackets and blade attachments twice per year to ensure they are secure. The fan does not need to be removed from the ceiling. | Clean your fan regularly with a soft brush or lint-free cloth. Never use abrasive cleaners or chemical solvents as this can damage the product.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/aktertofter-led-ceiling-fan-with-light-dimmable-wood-effect-silver-color__1385438_pe963313_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,23 @@
+# @CATEGORY
+Name: IDÅSEN conference & meeting tables
+ProductCount: 1
+
+# @FILTERS
+PriceRange: $264.00 - $264.00
+Materials: Frame: Steel, Epoxy/polyester powder coating, Inside frame/ Inside leg: Steel, Particleboard, Ash veneer, Stain, Clear acrylic lacquer, Plastic edging
+Brand: IKEA
+
+# @ITEMS
+- IDÅSEN table, black/dark gray: /products/idåsen-conference-and-meeting-tables/69395891.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

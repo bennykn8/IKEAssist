@@ -1,0 +1,27 @@
+# @CATEGORY
+Name: Flameless candles
+ProductCount: 5
+
+# @FILTERS
+PriceRange: $7.99 - $19.99
+Materials: Base/ Shade: Polypropylene, Base: Polycarbonate plastic, Decoration: ABS plastic, Polypropylene, Shade/ Decoration: ABS plastic
+Brand: IKEA
+
+# @ITEMS
+- ÄDELLÖVTRÄD LED candle, white/indoor: /products/flameless-candles/70520262.txt
+- ÄDELLÖVTRÄD LED block candle, white/indoor: /products/flameless-candles/60530167.txt
+- ÄDELLÖVTRÄD LED block candle, set of 3, white/indoor: /products/flameless-candles/80530166.txt
+- ÄDELLÖVSKOG LED block candle, white/indoor/outdoor: /products/flameless-candles/30520259.txt
+- ÄDELLÖVSKOG LED block candle in/out, set of: /products/flameless-candles/10520255.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

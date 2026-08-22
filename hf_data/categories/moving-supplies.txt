@@ -1,0 +1,26 @@
+# @CATEGORY
+Name: Moving supplies
+ProductCount: 4
+
+# @FILTERS
+PriceRange: $5.00 - $49.99
+Materials: Bar holder/ Panel/ Wire mesh: Steel, Epoxy/polyester powder coating, Feet: Polypropylene, Polypropylene (min. 60% recycled), Steel, Epoxy/polyester powder coating, Wheel: Polypropylene, Synthetic rubber
+Brand: IKEA
+
+# @ITEMS
+- RULLEBÖR / FRAKTA hand cart with storage bag, black/blue: /products/moving-supplies/89491028.txt
+- RULLEBÖR cart, black: /products/moving-supplies/10516772.txt
+- INVALLNING utility cart, for boxes white: /products/moving-supplies/10569398.txt
+- FRAKTA storage bag for cart, blue, 28 ¾x13 ¾x11 ¾"20 gallon: /products/moving-supplies/90149148.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

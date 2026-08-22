@@ -1,0 +1,100 @@
+# @CATEGORY
+Name: KIVIK covers
+ProductCount: 78
+
+# @FILTERS
+PriceRange: $29.00 - $229.00
+Materials: 100 % polyester (100% recycled), 100% polyester (min. 90% recycled), 78 % cotton, 22 % polyester (100% recycled), Back fabric/ Mattress cover: 100 % polyester (100% recycled), Back fabric: 100 % polyester (100% recycled), Fabric/ Mattress cover/ Back fabric: 100 % polyester (100% recycled), Fabric: 100% polyester (min. 90% recycled), Fabric: 78 % cotton, 22 % polyester (100% recycled), Lining, underside: 100 % polypropylene, Mattress cover/ Back fabric: 100 % polyester (100% recycled)
+Brand: IKEA
+
+# @ITEMS
+- KIVIK sofa cover, Tresund light beige: /products/kivik-covers/60527551.txt
+- KIVIK sofa cover, Tresund anthracite: /products/kivik-covers/80527526.txt
+- KIVIK sofa cover, Tibbleby beige/gray: /products/kivik-covers/70526914.txt
+- KIVIK sofa cover, Kelinge gray-turquoise: /products/kivik-covers/00526979.txt
+- KIVIK loveseat cover, Tresund light beige: /products/kivik-covers/60527546.txt
+- KIVIK loveseat cover, Tresund anthracite: /products/kivik-covers/90527521.txt
+- KIVIK loveseat cover, Tibbleby beige/gray: /products/kivik-covers/50526910.txt
+- KIVIK loveseat cover, Kelinge gray-turquoise: /products/kivik-covers/30526973.txt
+- KIVIK cover for sofa, Tallmyra white/black: /products/kivik-covers/70557707.txt
+- KIVIK cover for sofa, Tallmyra light green: /products/kivik-covers/90557706.txt
+- KIVIK cover for sofa, Tallmyra dark green: /products/kivik-covers/10557705.txt
+- KIVIK cover for sofa, Tallmyra blue: /products/kivik-covers/40557704.txt
+- KIVIK cover for sofa, Gunnared medium gray: /products/kivik-covers/60557703.txt
+- KIVIK cover for sofa, Gunnared light green: /products/kivik-covers/80557702.txt
+- KIVIK cover for sofa, Gunnared light brown-pink: /products/kivik-covers/00557701.txt
+- KIVIK cover for sofa, Gunnared blue: /products/kivik-covers/10557687.txt
+- KIVIK cover for sofa, Gunnared beige: /products/kivik-covers/30557686.txt
+- KIVIK cover for ottoman with storage, Tresund light beige: /products/kivik-covers/70527541.txt
+- KIVIK cover for ottoman with storage, Tresund anthracite: /products/kivik-covers/10527515.txt
+- KIVIK cover for ottoman with storage, Tibbleby beige/gray: /products/kivik-covers/30526906.txt
+- KIVIK cover for ottoman with storage, Tallmyra white/black: /products/kivik-covers/90557768.txt
+- KIVIK cover for ottoman with storage, Tallmyra light green: /products/kivik-covers/10557767.txt
+- KIVIK cover for ottoman with storage, Tallmyra dark green: /products/kivik-covers/30557766.txt
+- KIVIK cover for ottoman with storage, Tallmyra blue: /products/kivik-covers/50557765.txt
+- KIVIK cover for ottoman with storage, Kelinge gray-turquoise: /products/kivik-covers/30526968.txt
+- KIVIK cover for ottoman with storage, Gunnared medium gray: /products/kivik-covers/80557764.txt
+- KIVIK cover for ottoman with storage, Gunnared light green: /products/kivik-covers/00557763.txt
+- KIVIK cover for ottoman with storage, Gunnared light brown-pink: /products/kivik-covers/20557762.txt
+- KIVIK cover for ottoman with storage, Gunnared blue: /products/kivik-covers/40557761.txt
+- KIVIK cover for ottoman with storage, Gunnared beige: /products/kivik-covers/60557760.txt
+- KIVIK cover for loveseat, Tallmyra white/black: /products/kivik-covers/50557685.txt
+- KIVIK cover for loveseat, Tallmyra light green: /products/kivik-covers/80557684.txt
+- KIVIK cover for loveseat, Tallmyra dark green: /products/kivik-covers/00557683.txt
+- KIVIK cover for loveseat, Tallmyra blue: /products/kivik-covers/20557682.txt
+- KIVIK cover for loveseat, Gunnared medium gray: /products/kivik-covers/40557681.txt
+- KIVIK cover for loveseat, Gunnared light green: /products/kivik-covers/60557680.txt
+- KIVIK cover for loveseat, Gunnared light brown-pink: /products/kivik-covers/80557679.txt
+- KIVIK cover for loveseat, Gunnared blue: /products/kivik-covers/00557678.txt
+- KIVIK cover for loveseat, Gunnared beige: /products/kivik-covers/20557677.txt
+- KIVIK cover for corner section, Tresund light beige: /products/kivik-covers/80527531.txt
+- KIVIK cover for corner section, Tresund anthracite: /products/kivik-covers/50527504.txt
+- KIVIK cover for corner section, Tibbleby beige/gray: /products/kivik-covers/80526918.txt
+- KIVIK cover for corner section, Tallmyra white/black: /products/kivik-covers/80557759.txt
+- KIVIK cover for corner section, Tallmyra light green: /products/kivik-covers/00557758.txt
+- KIVIK cover for corner section, Tallmyra dark green: /products/kivik-covers/20557757.txt
+- KIVIK cover for corner section, Tallmyra blue: /products/kivik-covers/40557756.txt
+- KIVIK cover for corner section, Kelinge gray-turquoise: /products/kivik-covers/60526957.txt
+- KIVIK cover for corner section, Gunnared medium gray: /products/kivik-covers/60557755.txt
+- KIVIK cover for corner section, Gunnared light green: /products/kivik-covers/10557668.txt
+- KIVIK cover for corner section, Gunnared light brown-pink: /products/kivik-covers/70557665.txt
+- KIVIK cover for corner section, Gunnared blue: /products/kivik-covers/30557667.txt
+- KIVIK cover for corner section, Gunnared beige: /products/kivik-covers/50557666.txt
+- KIVIK cover for 1-seat sleeper sofa, Tresund light beige: /products/kivik-covers/50527556.txt
+- KIVIK cover for 1-seat sleeper sofa, Tresund anthracite: /products/kivik-covers/50527561.txt
+- KIVIK cover for 1-seat sleeper sofa, Tibbleby beige/gray: /products/kivik-covers/40527571.txt
+- KIVIK cover for 1-seat sleeper sofa, Tallmyra white/black: /products/kivik-covers/40557676.txt
+- KIVIK cover for 1-seat sleeper sofa, Tallmyra light green: /products/kivik-covers/60557675.txt
+- KIVIK cover for 1-seat sleeper sofa, Tallmyra dark green: /products/kivik-covers/90557674.txt
+- KIVIK cover for 1-seat sleeper sofa, Tallmyra blue: /products/kivik-covers/10557673.txt
+- KIVIK cover for 1-seat sleeper sofa, Kelinge gray-turquoise: /products/kivik-covers/80540231.txt
+- KIVIK cover for 1-seat sleeper sofa, Gunnared medium gray: /products/kivik-covers/30557672.txt
+- KIVIK cover for 1-seat sleeper sofa, Gunnared light green: /products/kivik-covers/30557691.txt
+- KIVIK cover for 1-seat sleeper sofa, Gunnared light brown-pink: /products/kivik-covers/90557688.txt
+- KIVIK cover for 1-seat sleeper sofa, Gunnared blue: /products/kivik-covers/50557690.txt
+- KIVIK cover for 1-seat sleeper sofa, Gunnared beige: /products/kivik-covers/70557689.txt
+- KIVIK chaise cover, Tresund light beige: /products/kivik-covers/70527536.txt
+- KIVIK chaise cover, Tresund anthracite: /products/kivik-covers/20527510.txt
+- KIVIK chaise cover, Tibbleby beige/gray: /products/kivik-covers/20526902.txt
+- KIVIK chaise cover, Tallmyra white/black: /products/kivik-covers/20557700.txt
+- KIVIK chaise cover, Tallmyra light green: /products/kivik-covers/60557699.txt
+- KIVIK chaise cover, Tallmyra dark green: /products/kivik-covers/80557698.txt
+- KIVIK chaise cover, Tallmyra blue: /products/kivik-covers/00557697.txt
+- KIVIK chaise cover, Kelinge gray-turquoise: /products/kivik-covers/40526963.txt
+- KIVIK chaise cover, Gunnared medium gray: /products/kivik-covers/20557696.txt
+- KIVIK chaise cover, Gunnared light green: /products/kivik-covers/40557695.txt
+- KIVIK chaise cover, Gunnared light brown-pink: /products/kivik-covers/70557694.txt
+- KIVIK chaise cover, Gunnared blue: /products/kivik-covers/90557693.txt
+- KIVIK chaise cover, Gunnared beige: /products/kivik-covers/10557692.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,44 @@
+# @CATEGORY
+Name: Natural & down duvet inserts
+ProductCount: 22
+
+# @FILTERS
+PriceRange: $39.99 - $279.00
+Materials: Fabric: 100 % cotton, Filling material: 75% duck down, 25% duck feathers, Filling material: 90% duck down, 10% duck feathers, Filling material: 90% duck feathers, 10% duck down
+Brand: IKEA
+
+# @ITEMS
+- FJÄLLHAVRE duvet insert, warm, King: /products/natural-and-down-duvet-inserts/70458062.txt
+- FJÄLLHAVRE Comforter, warm, Full/Queen: /products/natural-and-down-duvet-inserts/10458060.txt
+- FJÄLLBRÄCKA duvet insert, warm, Twin: /products/natural-and-down-duvet-inserts/90458546.txt
+- FJÄLLBRÄCKA duvet insert, warm, Full/Queen: /products/natural-and-down-duvet-inserts/80458542.txt
+- FJÄLLBRÄCKA Comforter, warm, King: /products/natural-and-down-duvet-inserts/40458544.txt
+- FJÄLLBRÄCKA duvet insert, light warm, King: /products/natural-and-down-duvet-inserts/90456854.txt
+- FJÄLLBRÄCKA Comforter, light warm, Twin: /products/natural-and-down-duvet-inserts/40456856.txt
+- FJÄLLBRÄCKA Comforter, light warm, Full/Queen: /products/natural-and-down-duvet-inserts/30456852.txt
+- FJÄLLBRÄCKA duvet insert, extra warm, Twin: /products/natural-and-down-duvet-inserts/70458745.txt
+- FJÄLLBRÄCKA duvet insert, extra warm, Full/Queen: /products/natural-and-down-duvet-inserts/60458741.txt
+- FJÄLLBRÄCKA Comforter, extra warm, King: /products/natural-and-down-duvet-inserts/20458743.txt
+- FJÄLLARNIKA duvet insert, warm, Twin: /products/natural-and-down-duvet-inserts/60459062.txt
+- FJÄLLARNIKA duvet insert, warm, King: /products/natural-and-down-duvet-inserts/60459057.txt
+- FJÄLLARNIKA Comforter, warm, Full/Queen: /products/natural-and-down-duvet-inserts/50459053.txt
+- FJÄLLARNIKA duvet insert, light warm, King: /products/natural-and-down-duvet-inserts/90457472.txt
+- FJÄLLARNIKA Comforter, light warm, Twin: /products/natural-and-down-duvet-inserts/50457474.txt
+- FJÄLLARNIKA Comforter, light warm, Full/Queen: /products/natural-and-down-duvet-inserts/30457470.txt
+- FJÄLLARNIKA duvet insert, extra warm, Twin: /products/natural-and-down-duvet-inserts/90459305.txt
+- FJÄLLARNIKA duvet insert, extra warm, Full/Queen: /products/natural-and-down-duvet-inserts/80459301.txt
+- FJÄLLARNIKA Comforter, extra warm, King: /products/natural-and-down-duvet-inserts/40459303.txt
+- FJÄLLARNIKA all seasons duvet insert, Full/Queen: /products/natural-and-down-duvet-inserts/70592211.txt
+- FJÄLLARNIKA all seasons duvet insert, King: /products/natural-and-down-duvet-inserts/50592212.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

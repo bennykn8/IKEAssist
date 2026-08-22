@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ENEBY Battery pack
+SKU: 20414264
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/eneby-battery-pack-20414264/
+Category: Bluetooth speakers
+Description: . You can bring the music to where you are and your friends are. The battery powers your ENEBY 8x8" speaker when there are no outlets to be found nearby.
+
+# @OFFER
+Price: 29
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polycarbonate plastic
+Features: Fits ENEBY and VAPPEBY speaker 8x8". | The battery charges inside the speaker when it is plugged into an outlet. | For rechargeable batteries, only use the intended charger.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/eneby-battery-pack__0564110_pe664068_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

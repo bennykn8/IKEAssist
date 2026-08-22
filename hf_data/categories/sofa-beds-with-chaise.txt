@@ -1,0 +1,36 @@
+# @CATEGORY
+Name: Sofa beds with chaise
+ProductCount: 14
+
+# @FILTERS
+PriceRange: $549.00 - $2799.00
+Materials: Armrest frame: Plywood, Particleboard, Solid wood, Back frame: Plywood, Fiberboard, Polyurethane foam 1.2 lb/cu.ft., Particleboard, Solid wood, Back frame: Solid wood, Plywood, Fiberboard, Polyurethane foam 1.2 lb/cu.ft., Particleboard, Backrest: Plywood, Particleboard, Solid wood, Polyurethane foam 1.5 lb/cu.ft., Bed box: Particleboard, Solid wood, Paperboard (100% recycled), Laminated veneer lumber, Plywood, Fiberboard, Fabric: 100% polyester (min. 90% recycled), Frame: Plywood, Polyurethane foam 2.0 lb/cu.ft., Polyurethane foam 1.5 lb/cu.ft., Particleboard, Fiberboard, Felt liner, Solid wood, Laminated veneer lumber, Front rail: Plywood, Particleboard, Seat cushion: High-resilience polyurethane foam (cold foam) 2.2 lb/cu.ft., Seat frame: Laminated veneer lumber, Plywood
+Brand: IKEA
+
+# @ITEMS
+- FINNALA sleeper sofa, with chaise/Tallmyra black/gray: /products/sofa-beds-with-chaise/69542892.txt
+- FINNALA sleeper sofa, with chaise/Gunnared medium gray: /products/sofa-beds-with-chaise/09542885.txt
+- FINNALA sleeper sofa, with chaise/Gunnared beige: /products/sofa-beds-with-chaise/59542883.txt
+- FINNALA sleeper sofa, with chaise/Grann/Bomstad golden brown: /products/sofa-beds-with-chaise/59542878.txt
+- FINNALA sleeper sofa, with chaise/Grann/Bomstad black: /products/sofa-beds-with-chaise/99542876.txt
+- FINNALA 3-seat sleeper sofa with chaise, Tallmyra black/gray: /products/sofa-beds-with-chaise/49575690.txt
+- FINNALA 3-seat sleeper sofa with chaise, Gunnared medium gray: /products/sofa-beds-with-chaise/69575694.txt
+- FINNALA 3-seat sleeper sofa with chaise, Gunnared beige: /products/sofa-beds-with-chaise/09575692.txt
+- FINNALA 3-seat sleeper sofa with chaise, Grann/Bomstad golden brown: /products/sofa-beds-with-chaise/29575686.txt
+- FINNALA 3-seat sleeper sofa with chaise, Grann/Bomstad black: /products/sofa-beds-with-chaise/49575685.txt
+- BÅRSLÖV 3-seat sleeper sofa with chaise, Tibbleby light gray-turquoise: /products/sofa-beds-with-chaise/10541597.txt
+- BÅRSLÖV 3-seat sleeper sofa with chaise, Tibbleby beige/gray: /products/sofa-beds-with-chaise/50541581.txt
+- ÄLVDALEN 3-seat sleeper sofa with chaise, Knisa gray-beige: /products/sofa-beds-with-chaise/10530674.txt
+- ÄLVDALEN 3-seat sleeper sofa with chaise, Knisa dark gray: /products/sofa-beds-with-chaise/50530667.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,164 @@
+# @CATEGORY
+Name: Picture & photo frames
+ProductCount: 142
+
+# @FILTERS
+PriceRange: $1.49 - $44.99
+Materials: Back frame: Polypropylene, Back panel: Fiberboard, Clip: Steel, Epoxy/polyester powder coating, Frame/ Base: ABS plastic (min. 20% recycled), Frame/ Inside frame: Fiberboard, Paper foil, Frame: ABS plastic (min. 20% recycled), Frame: Aluminum, Aluminum, Epoxy/polyester powder coating, Anodized, Frame: Fiberboard, Paper foil, Frame: Fiberboard, Plastic foil, Frame: Steel, Nickel plated, Clear lacquer
+Brand: IKEA
+
+# @ITEMS
+- YLLEVAD frame, black: /products/picture-and-photo-frames/90429771.txt
+- YLLEVAD frame, black, 8 ¼x11 ¾": /products/picture-and-photo-frames/30429774.txt
+- VISBÄCK Poster hanger, bamboo: /products/picture-and-photo-frames/20421764.txt
+- VISBÄCK Poster hanger, bamboo: /products/picture-and-photo-frames/00423028.txt
+- VÄSTANHED frame, white, 7 ¾x9 ¾": /products/picture-and-photo-frames/40479216.txt
+- VÄSTANHED frame, black, 7 ¾x9 ¾": /products/picture-and-photo-frames/00479218.txt
+- SILVERHÖJDEN Frame, silver color: /products/picture-and-photo-frames/60297437.txt
+- SILVERHÖJDEN Frame, silver color: /products/picture-and-photo-frames/40297438.txt
+- SILVERHÖJDEN frame, gold: /products/picture-and-photo-frames/90555496.txt
+- SILVERHÖJDEN frame, gold: /products/picture-and-photo-frames/90381707.txt
+- SILVERHÖJDEN frame, gold, 24x35 ¾": /products/picture-and-photo-frames/50550014.txt
+- SILVERHÖJDEN Frame, gold: /products/picture-and-photo-frames/40370400.txt
+- SILVERHÖJDEN Frame, gold: /products/picture-and-photo-frames/20381503.txt
+- SILVERHÖJDEN frame, gold, 19 ¾x27 ½": /products/picture-and-photo-frames/10550011.txt
+- SANNAHED frame, white, 19 ¾x19 ¾": /products/picture-and-photo-frames/80528168.txt
+- SANNAHED frame, white, 9 ¾x9 ¾": /products/picture-and-photo-frames/00459116.txt
+- SANNAHED frame, walnut effect, 9 ¾x9 ¾": /products/picture-and-photo-frames/30553117.txt
+- SANNAHED frame, walnut effect, 19 ¾x19 ¾": /products/picture-and-photo-frames/10553123.txt
+- SANNAHED frame, red, 19 ¾x19 ¾": /products/picture-and-photo-frames/60568909.txt
+- SANNAHED frame, red, 9 ¾x9 ¾": /products/picture-and-photo-frames/00568907.txt
+- SANNAHED frame, oak effect, 19 ¾x19 ¾": /products/picture-and-photo-frames/80568913.txt
+- SANNAHED frame, oak effect, 9 ¾x9 ¾": /products/picture-and-photo-frames/20568911.txt
+- SANNAHED frame, black, 9 ¾x9 ¾": /products/picture-and-photo-frames/60459118.txt
+- SANNAHED frame, black, 19 ¾x19 ¾": /products/picture-and-photo-frames/40528165.txt
+- SANNAHED frame, birch effect, 19 ¾x19 ¾": /products/picture-and-photo-frames/50553588.txt
+- SANNAHED frame, birch effect, 9 ¾x9 ¾": /products/picture-and-photo-frames/10553585.txt
+- RÖDALM frame, white, 19 ¾x27 ½": /products/picture-and-photo-frames/90548929.txt
+- RÖDALM frame, white, 27 ½x39 ¼": /products/picture-and-photo-frames/80548944.txt
+- RÖDALM frame, white: /products/picture-and-photo-frames/70548893.txt
+- RÖDALM frame, white: /products/picture-and-photo-frames/50548907.txt
+- RÖDALM frame, white: /products/picture-and-photo-frames/50548865.txt
+- RÖDALM frame, white: /products/picture-and-photo-frames/40548936.txt
+- RÖDALM frame, white: /products/picture-and-photo-frames/10548872.txt
+- RÖDALM frame, white: /products/picture-and-photo-frames/00548900.txt
+- RÖDALM frame, walnut effect: /products/picture-and-photo-frames/90548892.txt
+- RÖDALM frame, walnut effect: /products/picture-and-photo-frames/70548906.txt
+- RÖDALM frame, walnut effect: /products/picture-and-photo-frames/60548935.txt
+- RÖDALM frame, walnut effect: /products/picture-and-photo-frames/40548899.txt
+- RÖDALM frame, walnut effect: /products/picture-and-photo-frames/30548871.txt
+- RÖDALM frame, walnut effect: /products/picture-and-photo-frames/20548862.txt
+- RÖDALM frame, walnut effect, 19 ¾x27 ½": /products/picture-and-photo-frames/10548928.txt
+- RÖDALM frame, walnut effect, 27 ½x39 ¼": /products/picture-and-photo-frames/00548943.txt
+- RÖDALM frame, red: /products/picture-and-photo-frames/90566372.txt
+- RÖDALM frame, red: /products/picture-and-photo-frames/80566358.txt
+- RÖDALM frame, red, 27 ½x39 ¼": /products/picture-and-photo-frames/50566374.txt
+- RÖDALM frame, red: /products/picture-and-photo-frames/50566369.txt
+- RÖDALM frame, red, 19 ¾x27 ½": /products/picture-and-photo-frames/30566370.txt
+- RÖDALM frame, red: /products/picture-and-photo-frames/20566361.txt
+- RÖDALM frame, red: /products/picture-and-photo-frames/20566356.txt
+- RÖDALM frame, red: /products/picture-and-photo-frames/10566366.txt
+- RÖDALM frame, oak effect: /products/picture-and-photo-frames/80566400.txt
+- RÖDALM frame, oak effect, 27 ½x39 ¼": /products/picture-and-photo-frames/70566405.txt
+- RÖDALM frame, oak effect: /products/picture-and-photo-frames/70566392.txt
+- RÖDALM frame, oak effect, 19 ¾x27 ½": /products/picture-and-photo-frames/60566401.txt
+- RÖDALM frame, oak effect: /products/picture-and-photo-frames/60566397.txt
+- RÖDALM frame, oak effect: /products/picture-and-photo-frames/50566388.txt
+- RÖDALM frame, oak effect: /products/picture-and-photo-frames/20566403.txt
+- RÖDALM frame, oak effect: /products/picture-and-photo-frames/10566390.txt
+- RÖDALM frame, black, 27 ½x39 ¼": /products/picture-and-photo-frames/80548939.txt
+- RÖDALM frame, black, 19 ¾x27 ½": /products/picture-and-photo-frames/70548925.txt
+- RÖDALM frame, black: /products/picture-and-photo-frames/50548889.txt
+- RÖDALM frame, black: /products/picture-and-photo-frames/40548903.txt
+- RÖDALM frame, black: /products/picture-and-photo-frames/30548932.txt
+- RÖDALM frame, black: /products/picture-and-photo-frames/10548867.txt
+- RÖDALM frame, black: /products/picture-and-photo-frames/00548896.txt
+- RÖDALM frame, black: /products/picture-and-photo-frames/00548863.txt
+- RÖDALM frame, birch effect: /products/picture-and-photo-frames/70548888.txt
+- RÖDALM frame, birch effect: /products/picture-and-photo-frames/60548902.txt
+- RÖDALM frame, birch effect: /products/picture-and-photo-frames/50548931.txt
+- RÖDALM frame, birch effect: /products/picture-and-photo-frames/40548861.txt
+- RÖDALM frame, birch effect: /products/picture-and-photo-frames/30548866.txt
+- RÖDALM frame, birch effect: /products/picture-and-photo-frames/20548895.txt
+- RÖDALM frame, birch effect, 27 ½x39 ¼": /products/picture-and-photo-frames/00548938.txt
+- RÖDALM frame, birch effect, 19 ¾x27 ½": /products/picture-and-photo-frames/00548924.txt
+- PLOMMONTRÄD frame, white stained pine effect: /products/picture-and-photo-frames/90559545.txt
+- PLOMMONTRÄD frame, white stained pine effect, 19 ¾x27 ½": /products/picture-and-photo-frames/60559537.txt
+- PLOMMONTRÄD frame, white stained pine effect: /products/picture-and-photo-frames/20559539.txt
+- LOMVIKEN frame, gold: /products/picture-and-photo-frames/90518197.txt
+- LOMVIKEN frame, gold, 19 ¾x27 ½": /products/picture-and-photo-frames/80419602.txt
+- LOMVIKEN frame, gold: /products/picture-and-photo-frames/70419396.txt
+- LOMVIKEN frame, gold, 24x35 ¾": /products/picture-and-photo-frames/10419530.txt
+- LOMVIKEN frame, gold: /products/picture-and-photo-frames/10419460.txt
+- LOMVIKEN frame, gold: /products/picture-and-photo-frames/00419413.txt
+- LOMVIKEN frame, black: /products/picture-and-photo-frames/70518202.txt
+- LOMVIKEN frame, black, 19 ¾x27 ½": /products/picture-and-photo-frames/70286773.txt
+- LOMVIKEN frame, black: /products/picture-and-photo-frames/50504512.txt
+- LOMVIKEN frame, black: /products/picture-and-photo-frames/30314315.txt
+- LOMVIKEN frame, black, 24x35 ¾": /products/picture-and-photo-frames/30286770.txt
+- LOMVIKEN frame, black: /products/picture-and-photo-frames/10504514.txt
+- LOMVIKEN frame, black, 12 ½x12 ½": /products/picture-and-photo-frames/00335852.txt
+- LOMVIKEN Frame, aluminum: /products/picture-and-photo-frames/30369906.txt
+- LOMVIKEN frame, aluminum, 12 ½x12 ½": /products/picture-and-photo-frames/20335851.txt
+- LERBODA frame, silver color, 6 ¼x6 ¼": /products/picture-and-photo-frames/60516307.txt
+- LERBODA frame, silver color, 7 ¾x9 ¾": /products/picture-and-photo-frames/00516310.txt
+- KNOPPÄNG frame, white, 19 ¾x27 ½": /products/picture-and-photo-frames/80427305.txt
+- KNOPPÄNG frame, white, 24x35 ¾": /products/picture-and-photo-frames/80427287.txt
+- KNOPPÄNG frame, white: /products/picture-and-photo-frames/80427268.txt
+- KNOPPÄNG frame, white: /products/picture-and-photo-frames/70427278.txt
+- KNOPPÄNG frame, white: /products/picture-and-photo-frames/60427293.txt
+- KNOPPÄNG Frame, white: /products/picture-and-photo-frames/00427314.txt
+- KNOPPÄNG frame, black: /products/picture-and-photo-frames/90387139.txt
+- KNOPPÄNG frame, black: /products/picture-and-photo-frames/80387125.txt
+- KNOPPÄNG frame, black, 19 ¾x27 ½": /products/picture-and-photo-frames/70387140.txt
+- KNOPPÄNG Frame, black: /products/picture-and-photo-frames/30387118.txt
+- KNOPPÄNG Frame, black, 24x35 ¾": /products/picture-and-photo-frames/10429652.txt
+- KNOPPÄNG Frame, black: /products/picture-and-photo-frames/10387124.txt
+- FISKBO frame, white: /products/picture-and-photo-frames/90295663.txt
+- FISKBO frame, white: /products/picture-and-photo-frames/70584937.txt
+- FISKBO Frame, white, 19 ¾x27 ½": /products/picture-and-photo-frames/60300374.txt
+- FISKBO Frame, white: /products/picture-and-photo-frames/10300381.txt
+- FISKBO Frame, white: /products/picture-and-photo-frames/00300391.txt
+- FISKBO Frame, white: /products/picture-and-photo-frames/00295653.txt
+- FISKBO frame, light gray-green: /products/picture-and-photo-frames/70585036.txt
+- FISKBO frame, light gray-green: /products/picture-and-photo-frames/60584933.txt
+- FISKBO frame, light gray-green: /products/picture-and-photo-frames/60584914.txt
+- FISKBO frame, light gray-green: /products/picture-and-photo-frames/40584910.txt
+- FISKBO frame, light gray-green: /products/picture-and-photo-frames/00584912.txt
+- FISKBO frame, dark gray-blue: /products/picture-and-photo-frames/90584936.txt
+- FISKBO frame, dark gray-blue: /products/picture-and-photo-frames/60584928.txt
+- FISKBO frame, dark gray-blue: /products/picture-and-photo-frames/50584924.txt
+- FISKBO frame, dark gray-blue: /products/picture-and-photo-frames/10585039.txt
+- FISKBO frame, dark gray-blue: /products/picture-and-photo-frames/00584926.txt
+- FISKBO frame, black: /products/picture-and-photo-frames/90300358.txt
+- FISKBO Frame, black: /products/picture-and-photo-frames/60295650.txt
+- FISKBO frame, black: /products/picture-and-photo-frames/50584938.txt
+- FISKBO Frame, black: /products/picture-and-photo-frames/40295665.txt
+- FISKBO Frame, black: /products/picture-and-photo-frames/00300353.txt
+- FIKONTRÄD frame, white: /products/picture-and-photo-frames/60518716.txt
+- FIKONTRÄD frame, light pink: /products/picture-and-photo-frames/50601706.txt
+- EDSBRUK frame, white: /products/picture-and-photo-frames/80427329.txt
+- EDSBRUK frame, white, 19 ¾x27 ½": /products/picture-and-photo-frames/60427330.txt
+- EDSBRUK frame, white: /products/picture-and-photo-frames/60427325.txt
+- EDSBRUK Frame, white: /products/picture-and-photo-frames/10427318.txt
+- EDSBRUK frame, black stained, 24x35 ¾": /products/picture-and-photo-frames/80427635.txt
+- EDSBRUK frame, black stained: /products/picture-and-photo-frames/70427631.txt
+- EDSBRUK frame, black stained: /products/picture-and-photo-frames/60427617.txt
+- EDSBRUK Frame, black stained, 19 ¾x27 ½": /products/picture-and-photo-frames/50427632.txt
+- EDSBRUK Frame, black stained: /products/picture-and-photo-frames/50427627.txt
+- EDSBRUK Frame, black stained: /products/picture-and-photo-frames/00427620.txt
+- DALSKÄRR frame, wood effect/light brown: /products/picture-and-photo-frames/60387602.txt
+- ALFTA double-sided tape: /products/picture-and-photo-frames/70451782.txt
+- ALFTA adhesive hook for frame, white: /products/picture-and-photo-frames/50382841.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

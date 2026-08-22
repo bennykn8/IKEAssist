@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TONSTAD bed frame, oak veneer/Luröy, Full
+SKU: 89577710
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tonstad-bed-frame-oak-veneer-luroey-s89577710/
+Category: Bed frames
+Description: Classic design meets beautifully brushed veneer in the TONSTAD series, giving the furniture a unique character. This bed frame has a modern style with a timeless look – easy to love for years.
+
+# @OFFER
+Price: 419
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Oak veneer, Oak veneer, Clear acrylic lacquer, Oak veneer, Paper edging, Bottom panel/ Panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Oak veneer, Clear acrylic lacquer, Paper foil, Oak veneer, Paper edging, Side panel: Particleboard, Oak veneer, Clear acrylic lacquer, Paper foil, Oak veneer, Paper edging
+Features: Mattress and bedlinens are sold separately. | Center support beam included. | LURÖY slatted bed base is included in the price, but is packaged separately.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tonstad-bed-frame-oak-veneer-luroey__1385644_pe963600_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

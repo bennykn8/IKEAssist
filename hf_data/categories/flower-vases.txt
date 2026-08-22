@@ -1,0 +1,84 @@
+# @CATEGORY
+Name: Flower vases
+ProductCount: 62
+
+# @FILTERS
+PriceRange: $0.99 - $39.99
+Materials: Aluminum, Powder coating, Aluminum, Tinted lacquer, Base: Glass, Galvanized steel, Steel, Powder coating, Glass, Glass, Tinted lacquer, Lid: Stainless steel, Metallized, Stainless steel, Powder coating, Steel, Enamel, Stoneware, Colored glaze
+Brand: IKEA
+
+# @ITEMS
+- VINTERDRÄKT vase, glass: /products/flower-vases/50473129.txt
+- VINDFLÄKT vase, gold: /products/flower-vases/90425631.txt
+- VINDFLÄKT vase, black: /products/flower-vases/60540048.txt
+- VINDFLÄKT vase, black: /products/flower-vases/60539709.txt
+- VINDFLÄKT vase, black: /products/flower-vases/20539711.txt
+- VILJESTARK vase, clear glass, 3 ¼": /products/flower-vases/00339794.txt
+- VILJESTARK vase, clear glass, 6 ¾": /products/flower-vases/00338577.txt
+- STOCKHOLM 2025 vase, brown, 7 ¾": /products/flower-vases/90590490.txt
+- STOCKHOLM 2025 vase, black, 10 ¾": /products/flower-vases/20590498.txt
+- STOCKHOLM 2025 vase, black, 12 ½": /products/flower-vases/10590494.txt
+- STILREN vase, white, 4 ¾": /products/flower-vases/10592365.txt
+- STILREN vase, white, 8 ¾": /products/flower-vases/10442045.txt
+- STILREN vase, light turquoise, 8 ¾": /products/flower-vases/50597993.txt
+- SOCKERÄRT vase/jug, white, 8 ¾": /products/flower-vases/80148465.txt
+- SOCKERÄRT vase/jug, white: /products/flower-vases/10148464.txt
+- SMÄLLSPIREA vase, clear glass/patterned, 6 ¾": /products/flower-vases/90542178.txt
+- SMÄLLSPIREA vase, clear glass/patterned, 8 ¾": /products/flower-vases/20542172.txt
+- SKOGSTUNDRA vase, white, 10 ¾": /products/flower-vases/00566263.txt
+- SKOGSTUNDRA vase, light blue: /products/flower-vases/00555603.txt
+- SKOGSTUNDRA vase, green: /products/flower-vases/20555602.txt
+- SKOGSTUNDRA vase, black, 10 ¾": /products/flower-vases/70555096.txt
+- RÄFFELBJÖRK vase, mother-of-pearl color, 4 ¾": /products/flower-vases/10537656.txt
+- RÄFFELBJÖRK vase, mother-of-pearl color, 7 ¾": /products/flower-vases/00537652.txt
+- POMP vase/candle holder, clear glass: /products/flower-vases/80326537.txt
+- PELARBJÖRK vase, white, 5 ½": /products/flower-vases/80607311.txt
+- PELARBJÖRK vase, gray-green, 7 ¾": /products/flower-vases/00607310.txt
+- PÄRLHÄGG vase, yellow-beige, 8 ¾": /products/flower-vases/40607308.txt
+- PÅDRAG vase, clear glass, 6 ¾": /products/flower-vases/10470991.txt
+- MÄVINN vase, green, 7 ½": /products/flower-vases/30600915.txt
+- KOPPARBJÖRK vase, bright yellow, 8 ¼": /products/flower-vases/30559548.txt
+- KONSTFULL vase, green-brown, 6 ¼": /products/flower-vases/10511963.txt
+- KONSTFULL vase, gray, 6 ¼": /products/flower-vases/50586602.txt
+- KONSTFULL vase, gray: /products/flower-vases/30586599.txt
+- KONSTFULL vase, clear glass/patterned, 10 ¼": /products/flower-vases/20511953.txt
+- KAPKASTANJ vase, off-white: /products/flower-vases/70607316.txt
+- KAPKASTANJ vase, off-white, 5 ¾": /products/flower-vases/20607314.txt
+- KÄLLARHALS vase, yellow, 8 ¾": /products/flower-vases/70583711.txt
+- KÄLLARHALS vase, orange, 10 ¼": /products/flower-vases/50583712.txt
+- HÖSTAGILLE vase, brown, 8 ¼": /products/flower-vases/70600334.txt
+- HÄCKOXEL vase, white, 7 ¾": /products/flower-vases/90594619.txt
+- GRADVIS vase with metal insert, clear glass/gold, 8 ¼": /products/flower-vases/40502919.txt
+- GRADVIS vase, pink, 8 ¼": /products/flower-vases/60334703.txt
+- GRADVIS vase, gray, 7 ½": /products/flower-vases/80502922.txt
+- GRADVIS vase, dark gray, 8 ¼": /products/flower-vases/50586409.txt
+- GLANSGRAN vase, beige/black: /products/flower-vases/80607306.txt
+- FRÖVÄXT vase, white, 7 ¾": /products/flower-vases/60591919.txt
+- FRÖVÄXT vase, brown-orange, 5 ½": /products/flower-vases/20591921.txt
+- DOFTBRÄKEN vase, dark blue: /products/flower-vases/10591926.txt
+- CYLINDER vase, set of 3, clear glass: /products/flower-vases/60175092.txt
+- CYLINDER Vase, clear glass: /products/flower-vases/60223328.txt
+- CHILIFRUKT vase/watering can, bright blue, 6 ¾": /products/flower-vases/10597792.txt
+- BLODBJÖRK vase, yellow, 6 ¼": /products/flower-vases/70607298.txt
+- BLODBJÖRK vase, stripe white/yellow, 9 ¾": /products/flower-vases/10607296.txt
+- BLODBJÖRK vase, pale pink/blue, 6 ¼": /products/flower-vases/30607295.txt
+- BLODBJÖRK vase, pale pink, 9 ¾": /products/flower-vases/50607299.txt
+- BLODBJÖRK vase, beige, 6 ¼": /products/flower-vases/90607297.txt
+- BERÄKNA vase, clear glass: /products/flower-vases/80457774.txt
+- BERÄKNA Vase, clear glass, Height: 17 ¾": /products/flower-vases/40327949.txt
+- BERÄKNA vase, clear glass, 11 ¾": /products/flower-vases/20406297.txt
+- BERÄKNA vase, clear glass: /products/flower-vases/20327945.txt
+- BEGÄRLIG vase, clear glass, 11 ½": /products/flower-vases/30309781.txt
+- ÄRTBUSKE vase/watering can, bright green, 9 ½": /products/flower-vases/60537654.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

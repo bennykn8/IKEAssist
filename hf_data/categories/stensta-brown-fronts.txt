@@ -1,0 +1,30 @@
+# @CATEGORY
+Name: STENSTA brown fronts
+ProductCount: 8
+
+# @FILTERS
+PriceRange: $46.00 - $77.00
+Materials: Drawer front: Particleboard, Frontside/ Backside/ Edge: Ash veneer, Stain, Clear acrylic lacquer, Handle: Solid beech, Stain, Clear acrylic lacquer
+Brand: IKEA
+
+# @ITEMS
+- STENSTA drawer front, dark brown ash veneer: /products/stensta-brown-fronts/90560964.txt
+- STENSTA drawer front, dark brown ash veneer: /products/stensta-brown-fronts/80592828.txt
+- STENSTA drawer front, dark brown ash veneer: /products/stensta-brown-fronts/60560965.txt
+- STENSTA drawer front, dark brown ash veneer: /products/stensta-brown-fronts/40560966.txt
+- STENSTA drawer front, dark brown ash veneer: /products/stensta-brown-fronts/20560967.txt
+- STENSTA drawer front, dark brown ash veneer: /products/stensta-brown-fronts/10560963.txt
+- STENSTA drawer front, dark brown ash veneer: /products/stensta-brown-fronts/00592827.txt
+- STENSTA drawer front, dark brown ash veneer: /products/stensta-brown-fronts/00560968.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

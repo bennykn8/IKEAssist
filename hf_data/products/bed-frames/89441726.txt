@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VEVELSTAD bed frame with 2 headboards, white/Tolkning rattan, Queen
+SKU: 89441726
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vevelstad-bed-frame-with-2-headboards-white-tolkning-rattan-s89441726/
+Category: Bed frames
+Description: By combining the 2 TOLKNING headboards in natural fibers with VEVELSTAD bed frame, you create a warm expression while protecting the wall. A simple way to make your bedroom feel cozy and snug.
+
+# @OFFER
+Price: 249
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Bed slats: Layer-glued wood veneer, Adhesive resin as coating, Headboard/ Footboard/ Bedside/ Leg/ Midbeam: Steel, Epoxy/polyester powder coating, Main parts: Rattan, Clear acrylic lacquer
+Features: Mattress and bedlinens are sold separately. | Slatted bed base and midbeam are included.
+Care: Rattan: If placed close to a radiator or other source of heat, the material can dry out and deteriorate. | Rattan is happiest in dry, cool environments with an constant temperature.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vevelstad-bed-frame-with-2-headboards-white-tolkning-rattan__1115627_pe872169_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

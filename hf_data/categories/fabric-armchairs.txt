@@ -1,0 +1,238 @@
+# @CATEGORY
+Name: Fabric armchairs
+ProductCount: 216
+
+# @FILTERS
+PriceRange: $99.00 - $799.00
+Materials: Armrest frame/ Rail: Birch veneer, Clear acrylic lacquer, Armrest frame: Plywood, Solid pine, Polyurethane foam 1.5 lb/cu.ft., Particleboard, Fiberboard, Armrest: Polyester wadding, Particleboard, Solid wood, Polyurethane foam 1.2 lb/cu.ft., Polyurethane foam 1.5 lb/cu.ft., Laminated veneer lumber, Fiberboard, Back and seat frame: Plywood, Solid pine, Particleboard, Fiberboard, Back crossbar/ Seat crossbar/ Rail/ Backrest frame/ Seat frame/ Armrest frame: Layer-glued wood veneer, Birch veneer, Clear lacquer, Back cushion: 100% polyester - hollow fiber, Back cushion: Polyurethane foam 1.2 lb/cu.ft., Polyester wadding, Back cushion: Polyurethane foam 1.5 lb/cu.ft., Back fabric: 100 % polyester (100% recycled), Back frame: Particleboard, Plywood, Polyurethane foam 1.2 lb/cu.ft., Laminated veneer lumber, Fiberboard
+Brand: IKEA
+
+# @ITEMS
+- VISKAFORS 1.5-seat armchair, Lejde light beige/brown: /products/fabric-armchairs/99443305.txt
+- VISKAFORS 1.5-seat armchair, Lejde light beige/birch: /products/fabric-armchairs/29443281.txt
+- VISKAFORS 1.5-seat armchair, Lejde gray/green/brown: /products/fabric-armchairs/09443300.txt
+- VISKAFORS 1.5-seat armchair, Lejde/gray/green birch: /products/fabric-armchairs/19443267.txt
+- VISKAFORS 1.5-seat armchair, Lejde anthracite/brown: /products/fabric-armchairs/29443295.txt
+- VISKAFORS 1.5-seat armchair, Lejde anthracite/birch: /products/fabric-armchairs/29443276.txt
+- VEDBO high back armchair, Gunnared light green: /products/fabric-armchairs/90494262.txt
+- VEDBO Armchair, Gunnared light brown-pink, Width: 31 1/: /products/fabric-armchairs/50423592.txt
+- VEDBO Armchair, Gunnared dark gray, Width: 31 1/: /products/fabric-armchairs/50424134.txt
+- VEDBO Armchair, Gunnared blue, Width: 31 1/: /products/fabric-armchairs/50423587.txt
+- VEDBO armchair, Gunnared light green: /products/fabric-armchairs/60494249.txt
+- VEDBO armchair, Gunnared light brown-pink: /products/fabric-armchairs/80423581.txt
+- VEDBO Armchair, Gunnared dark gray, Height including back cushions: 29 1/: /products/fabric-armchairs/50424129.txt
+- VEDBO armchair, Gunnared blue: /products/fabric-armchairs/80423576.txt
+- UPPLAND armchair, Kilanda light beige: /products/fabric-armchairs/79553842.txt
+- UPPLAND armchair, Kilanda dark blue: /products/fabric-armchairs/39553839.txt
+- UPPLAND armchair, Kelinge rust: /products/fabric-armchairs/59553843.txt
+- UPPLAND armchair, Kelinge gray-turquoise: /products/fabric-armchairs/39567006.txt
+- UPPLAND armchair, Kelinge beige: /products/fabric-armchairs/89553846.txt
+- UPPLAND armchair, Kelinge anthracite: /products/fabric-armchairs/49553848.txt
+- UPPLAND armchair, Karlshov beige/multicolor: /products/fabric-armchairs/59553838.txt
+- UPPLAND armchair, Hillared dark blue: /products/fabric-armchairs/99553841.txt
+- UPPLAND armchair, Hillared beige: /products/fabric-armchairs/39553844.txt
+- UPPLAND armchair, Hillared anthracite: /products/fabric-armchairs/79553837.txt
+- UPPLAND armchair, Hakebo gray-green: /products/fabric-armchairs/19553840.txt
+- UPPLAND armchair, Hakebo dark gray: /products/fabric-armchairs/09553845.txt
+- UPPLAND armchair, Blekinge white: /products/fabric-armchairs/89384108.txt
+- UPPLAND armchair and ottoman, Kilanda light beige: /products/fabric-armchairs/49575553.txt
+- UPPLAND armchair and ottoman, Kilanda dark blue: /products/fabric-armchairs/29575549.txt
+- UPPLAND armchair and ottoman, Kelinge rust: /products/fabric-armchairs/49575548.txt
+- UPPLAND armchair and ottoman, Kelinge gray-turquoise: /products/fabric-armchairs/69575547.txt
+- UPPLAND armchair and ottoman, Kelinge beige: /products/fabric-armchairs/89575546.txt
+- UPPLAND armchair and ottoman, Kelinge anthracite: /products/fabric-armchairs/09575545.txt
+- UPPLAND armchair and ottoman, Karlshov beige/multicolor: /products/fabric-armchairs/79575542.txt
+- UPPLAND armchair and ottoman, Hakebo gray-green: /products/fabric-armchairs/59575538.txt
+- UPPLAND armchair and ottoman, Hakebo dark gray: /products/fabric-armchairs/19575535.txt
+- TULLSTA armchair, Nordvalla medium gray: /products/fabric-armchairs/69284666.txt
+- TULLSTA armchair, Nordvalla light green: /products/fabric-armchairs/59272715.txt
+- TULLSTA armchair, Lofallet beige: /products/fabric-armchairs/89272714.txt
+- STRANDMON Wing chair, Vibberbo black/beige: /products/fabric-armchairs/40456960.txt
+- STRANDMON Wing chair, Skiftebo yellow: /products/fabric-armchairs/20361897.txt
+- STRANDMON wing chair, Nordvalla dark gray: /products/fabric-armchairs/90359829.txt
+- STRANDMON wing chair, Kelinge beige: /products/fabric-armchairs/60492815.txt
+- STRANDMON wing chair, Djuparp dark green: /products/fabric-armchairs/90359848.txt
+- STRANDMON armchair and ottoman, Vibberbo black/beige: /products/fabric-armchairs/69487876.txt
+- STRANDMON armchair and ottoman, Skiftebo yellow: /products/fabric-armchairs/89487875.txt
+- STRANDMON armchair and ottoman, Nordvalla dark gray: /products/fabric-armchairs/19487874.txt
+- STRANDMON armchair and ottoman, Kelinge beige: /products/fabric-armchairs/39487873.txt
+- STRANDMON armchair and ottoman, Djuparp dark green: /products/fabric-armchairs/79487871.txt
+- SÖDERHAMN armchair, Viarp beige: /products/fabric-armchairs/69329764.txt
+- SÖDERHAMN armchair, Tonerud red: /products/fabric-armchairs/19514405.txt
+- SÖDERHAMN armchair, Tonerud gray: /products/fabric-armchairs/49452062.txt
+- SÖDERHAMN armchair, Tallmyra light green: /products/fabric-armchairs/09499797.txt
+- SÖDERHAMN armchair, Tallmyra dark green: /products/fabric-armchairs/29499796.txt
+- SÖDERHAMN armchair, Kelinge rust: /products/fabric-armchairs/99514581.txt
+- SÖDERHAMN armchair, Kelinge gray-turquoise: /products/fabric-armchairs/99514492.txt
+- SÖDERHAMN armchair, Hillared dark blue: /products/fabric-armchairs/59499733.txt
+- SÖDERHAMN armchair, Hillared beige: /products/fabric-armchairs/79499732.txt
+- SÖDERHAMN armchair, Gransel natural: /products/fabric-armchairs/39442101.txt
+- SÖDERHAMN armchair, Fridtuna light beige: /products/fabric-armchairs/09449651.txt
+- SÖDERHAMN armchair, Fridtuna dark gray: /products/fabric-armchairs/79449577.txt
+- SKÅPAFORS chair, Viarp beige/brown: /products/fabric-armchairs/10505028.txt
+- SKÅPAFORS chair, Gunnared dark gray: /products/fabric-armchairs/50505031.txt
+- SKÅPAFORS chair, dot pattern brown/beige: /products/fabric-armchairs/90505029.txt
+- SKÅPAFORS chair, brown/beige: /products/fabric-armchairs/30505027.txt
+- SKÅPAFORS chair, beige: /products/fabric-armchairs/70505030.txt
+- ROCKSJÖN armchair with ottoman, Klovsta gray/white: /products/fabric-armchairs/09514689.txt
+- ROCKSJÖN armchair with ottoman, Kilanda light beige: /products/fabric-armchairs/49508894.txt
+- ROCKSJÖN armchair with ottoman, Blekinge white: /products/fabric-armchairs/19508895.txt
+- ROCKSJÖN armchair, Klovsta gray/white: /products/fabric-armchairs/09514694.txt
+- ROCKSJÖN armchair, Kilanda light beige: /products/fabric-armchairs/49508851.txt
+- ROCKSJÖN armchair, Blekinge white: /products/fabric-armchairs/69508850.txt
+- POÄNG rocking chair: /products/fabric-armchairs/29575097.txt
+- POÄNG rocking chair, brown/Skiftebo yellow: /products/fabric-armchairs/79395857.txt
+- POÄNG rocking chair, brown/Skiftebo dark gray: /products/fabric-armchairs/39395840.txt
+- POÄNG rocking chair, brown/Knisa light beige: /products/fabric-armchairs/39429265.txt
+- POÄNG rocking chair, brown/Knisa black: /products/fabric-armchairs/69429240.txt
+- POÄNG rocking chair, brown/Hillared dark blue: /products/fabric-armchairs/49429156.txt
+- POÄNG rocking chair, brown/Hillared beige: /products/fabric-armchairs/89429183.txt
+- POÄNG rocking chair, brown/Hillared anthracite: /products/fabric-armchairs/79429131.txt
+- POÄNG rocking chair, brown/Gunnared light green: /products/fabric-armchairs/39501968.txt
+- POÄNG rocking chair, brown/Gunnared dark gray: /products/fabric-armchairs/59502127.txt
+- POÄNG rocking chair, brown/Gunnared blue: /products/fabric-armchairs/79502211.txt
+- POÄNG rocking chair, brown/Gunnared beige: /products/fabric-armchairs/39502048.txt
+- POÄNG rocking chair, black-brown/Skiftebo yellow: /products/fabric-armchairs/69395853.txt
+- POÄNG rocking chair, black-brown/Skiftebo dark gray: /products/fabric-armchairs/39395835.txt
+- POÄNG rocking chair, black-brown/Knisa light beige: /products/fabric-armchairs/29429261.txt
+- POÄNG rocking chair, black-brown/Knisa black: /products/fabric-armchairs/49429236.txt
+- POÄNG rocking chair, black-brown/Hillared dark blue: /products/fabric-armchairs/69429160.txt
+- POÄNG rocking chair, black-brown/Hillared beige: /products/fabric-armchairs/89429178.txt
+- POÄNG rocking chair, black-brown/Hillared anthracite: /products/fabric-armchairs/59429127.txt
+- POÄNG rocking chair, black-brown/Gunnared light green: /products/fabric-armchairs/99501965.txt
+- POÄNG rocking chair, black-brown/Gunnared dark gray: /products/fabric-armchairs/49502123.txt
+- POÄNG rocking chair, black-brown/Gunnared blue: /products/fabric-armchairs/79502206.txt
+- POÄNG rocking chair, black-brown/Gunnared beige: /products/fabric-armchairs/99502045.txt
+- POÄNG rocking chair, birch veneer/Skiftebo yellow: /products/fabric-armchairs/69395848.txt
+- POÄNG rocking chair, birch veneer/Skiftebo dark gray: /products/fabric-armchairs/69395829.txt
+- POÄNG rocking chair, birch veneer/Knisa light beige: /products/fabric-armchairs/49429255.txt
+- POÄNG rocking chair, birch veneer/Knisa black: /products/fabric-armchairs/59429231.txt
+- POÄNG rocking chair, birch veneer/Hillared dark blue: /products/fabric-armchairs/59429165.txt
+- POÄNG rocking chair, birch veneer/Hillared beige: /products/fabric-armchairs/79429174.txt
+- POÄNG rocking chair, birch veneer/Hillared anthracite: /products/fabric-armchairs/69429122.txt
+- POÄNG rocking chair, birch veneer/Gunnared light green: /products/fabric-armchairs/89501961.txt
+- POÄNG rocking chair, birch veneer/Gunnared dark gray: /products/fabric-armchairs/69502117.txt
+- POÄNG rocking chair, birch veneer/Gunnared blue: /products/fabric-armchairs/69502202.txt
+- POÄNG rocking chair, birch veneer/Gunnared beige: /products/fabric-armchairs/49502038.txt
+- POÄNG low-back armchair, red/Vissle red: /products/fabric-armchairs/89551588.txt
+- POÄNG low-back armchair, red/Vissle black: /products/fabric-armchairs/19551582.txt
+- POÄNG low-back armchair, red/Katorp natural/beige: /products/fabric-armchairs/99551615.txt
+- POÄNG low-back armchair, natural/beige/Vissle red: /products/fabric-armchairs/89551593.txt
+- POÄNG low-back armchair, natural/beige/Vissle black: /products/fabric-armchairs/59551599.txt
+- POÄNG low-back armchair, natural/beige/Katorp natural/beige: /products/fabric-armchairs/09551610.txt
+- POÄNG low-back armchair, black-brown/Vissle red: /products/fabric-armchairs/19551577.txt
+- POÄNG low-back armchair, black-brown/Vissle black: /products/fabric-armchairs/89551569.txt
+- POÄNG low-back armchair, black-brown/Katorp natural/beige: /products/fabric-armchairs/39551604.txt
+- POÄNG armchair: /products/fabric-armchairs/79575033.txt
+- POÄNG armchair, brown/Skiftebo yellow: /products/fabric-armchairs/19387110.txt
+- POÄNG armchair, brown/Skiftebo dark gray: /products/fabric-armchairs/89388470.txt
+- POÄNG armchair, brown/Knisa light beige: /products/fabric-armchairs/09336022.txt
+- POÄNG armchair, brown/Knisa black: /products/fabric-armchairs/89336023.txt
+- POÄNG armchair, brown/Hillared dark blue: /products/fabric-armchairs/69336024.txt
+- POÄNG armchair, brown/Hillared beige: /products/fabric-armchairs/39336025.txt
+- POÄNG armchair, brown/Hillared anthracite: /products/fabric-armchairs/19336026.txt
+- POÄNG armchair, brown/Gunnared light green: /products/fabric-armchairs/49501915.txt
+- POÄNG armchair, brown/Gunnared dark gray: /products/fabric-armchairs/99502069.txt
+- POÄNG armchair, brown/Gunnared blue: /products/fabric-armchairs/09502144.txt
+- POÄNG armchair, brown/Gunnared beige: /products/fabric-armchairs/59501991.txt
+- POÄNG armchair, black-brown/Skiftebo yellow: /products/fabric-armchairs/49387095.txt
+- POÄNG armchair, black-brown/Skiftebo dark gray: /products/fabric-armchairs/69388466.txt
+- POÄNG armchair, black-brown/Knisa light beige: /products/fabric-armchairs/69306545.txt
+- POÄNG armchair, black-brown/Knisa black: /products/fabric-armchairs/49306546.txt
+- POÄNG armchair, black-brown/Hillared dark blue: /products/fabric-armchairs/29306547.txt
+- POÄNG armchair, black-brown/Hillared beige: /products/fabric-armchairs/09306548.txt
+- POÄNG armchair, black-brown/Hillared anthracite: /products/fabric-armchairs/89306549.txt
+- POÄNG armchair, black-brown/Gunnared light green: /products/fabric-armchairs/39501911.txt
+- POÄNG armchair, black-brown/Gunnared dark gray: /products/fabric-armchairs/79502065.txt
+- POÄNG armchair, black-brown/Gunnared blue: /products/fabric-armchairs/09502139.txt
+- POÄNG armchair, black-brown/Gunnared beige: /products/fabric-armchairs/59501986.txt
+- POÄNG armchair, birch veneer/Skiftebo yellow: /products/fabric-armchairs/69387080.txt
+- POÄNG armchair, birch veneer/Skiftebo dark gray: /products/fabric-armchairs/79388461.txt
+- POÄNG armchair, birch veneer/Knisa light beige: /products/fabric-armchairs/59305928.txt
+- POÄNG armchair, birch veneer/Knisa black: /products/fabric-armchairs/79305927.txt
+- POÄNG armchair, birch veneer/Hillared dark blue: /products/fabric-armchairs/99305926.txt
+- POÄNG armchair, birch veneer/Hillared beige: /products/fabric-armchairs/19305925.txt
+- POÄNG armchair, birch veneer/Hillared anthracite: /products/fabric-armchairs/49305924.txt
+- POÄNG armchair, birch veneer/Gunnared light green: /products/fabric-armchairs/39501906.txt
+- POÄNG armchair, birch veneer/Gunnared dark gray: /products/fabric-armchairs/09502059.txt
+- POÄNG armchair, birch veneer/Gunnared blue: /products/fabric-armchairs/89502135.txt
+- POÄNG armchair, birch veneer/Gunnared beige: /products/fabric-armchairs/69501981.txt
+- POÄNG armchair and ottoman: /products/fabric-armchairs/09575055.txt
+- POÄNG armchair and ottoman, brown/Skiftebo yellow: /products/fabric-armchairs/59487805.txt
+- POÄNG armchair and ottoman, brown/Skiftebo dark gray: /products/fabric-armchairs/59484307.txt
+- POÄNG armchair and ottoman, brown/Knisa light beige: /products/fabric-armchairs/79484226.txt
+- POÄNG armchair and ottoman, brown/Knisa black: /products/fabric-armchairs/69484203.txt
+- POÄNG armchair and ottoman, brown/Hillared dark blue: /products/fabric-armchairs/59484289.txt
+- POÄNG armchair and ottoman, brown/Hillared beige: /products/fabric-armchairs/09484258.txt
+- POÄNG armchair and ottoman, brown/Hillared anthracite: /products/fabric-armchairs/19484253.txt
+- POÄNG armchair and ottoman, brown/Gunnared light green: /products/fabric-armchairs/09501936.txt
+- POÄNG armchair and ottoman, brown/Gunnared dark gray: /products/fabric-armchairs/79502089.txt
+- POÄNG armchair and ottoman, brown/Gunnared blue: /products/fabric-armchairs/09502163.txt
+- POÄNG armchair and ottoman, brown/Gunnared beige: /products/fabric-armchairs/39502010.txt
+- POÄNG armchair and ottoman, black-brown/Skiftebo yellow: /products/fabric-armchairs/49487801.txt
+- POÄNG armchair and ottoman, black-brown/Skiftebo dark gray: /products/fabric-armchairs/49484303.txt
+- POÄNG armchair and ottoman, black-brown/Knisa light beige: /products/fabric-armchairs/99484230.txt
+- POÄNG armchair and ottoman, black-brown/Knisa black: /products/fabric-armchairs/89484216.txt
+- POÄNG armchair and ottoman, black-brown/Hillared dark blue: /products/fabric-armchairs/39484285.txt
+- POÄNG armchair and ottoman, black-brown/Hillared beige: /products/fabric-armchairs/29484262.txt
+- POÄNG armchair and ottoman, black-brown/Hillared anthracite: /products/fabric-armchairs/99484249.txt
+- POÄNG armchair and ottoman, black-brown/Gunnared light green: /products/fabric-armchairs/19501931.txt
+- POÄNG armchair and ottoman, black-brown/Gunnared dark gray: /products/fabric-armchairs/59502085.txt
+- POÄNG armchair and ottoman, black-brown/Gunnared blue: /products/fabric-armchairs/29502157.txt
+- POÄNG armchair and ottoman, black-brown/Gunnared beige: /products/fabric-armchairs/19502006.txt
+- POÄNG armchair and ottoman, birch veneer/Skiftebo yellow: /products/fabric-armchairs/49487797.txt
+- POÄNG armchair and ottoman, birch veneer/Skiftebo dark gray: /products/fabric-armchairs/69484298.txt
+- POÄNG armchair and ottoman, birch veneer/Knisa light beige: /products/fabric-armchairs/89484235.txt
+- POÄNG armchair and ottoman, birch veneer/Knisa black: /products/fabric-armchairs/39484209.txt
+- POÄNG armchair and ottoman, birch veneer/Hillared dark blue: /products/fabric-armchairs/49484280.txt
+- POÄNG armchair and ottoman, birch veneer/Hillared beige: /products/fabric-armchairs/19484267.txt
+- POÄNG armchair and ottoman, birch veneer/Hillared anthracite: /products/fabric-armchairs/09484244.txt
+- POÄNG armchair and ottoman, birch veneer/Gunnared light green: /products/fabric-armchairs/39501925.txt
+- POÄNG armchair and ottoman, birch veneer/Gunnared dark gray: /products/fabric-armchairs/89502079.txt
+- POÄNG armchair and ottoman, birch veneer/Gunnared blue: /products/fabric-armchairs/19502153.txt
+- POÄNG armchair and ottoman, birch veneer/Gunnared beige: /products/fabric-armchairs/89501999.txt
+- OSKARSHAMN wing chair with ottoman, Tonerud red: /products/fabric-armchairs/49485345.txt
+- OSKARSHAMN wing chair with ottoman, Tibbleby beige/gray: /products/fabric-armchairs/79485339.txt
+- OSKARSHAMN wing chair with ottoman, Gunnared black/gray: /products/fabric-armchairs/29485332.txt
+- OSKARSHAMN wing chair, Tonerud red: /products/fabric-armchairs/70521681.txt
+- OSKARSHAMN wing chair, Tibbleby beige/gray: /products/fabric-armchairs/30523615.txt
+- OSKARSHAMN wing chair, Gunnared black-gray: /products/fabric-armchairs/70521662.txt
+- ÖNNESTAD armchair, Radbyn white/green: /products/fabric-armchairs/29554467.txt
+- ÖNNESTAD armchair, Katorp beige: /products/fabric-armchairs/19554477.txt
+- MORABO armchair, Gunnared light green/wood: /products/fabric-armchairs/59318327.txt
+- MORABO armchair, Gunnared light green/metal: /products/fabric-armchairs/79318326.txt
+- MORABO armchair, Gunnared dark gray/wood: /products/fabric-armchairs/59318308.txt
+- MORABO armchair, Gunnared dark gray/metal: /products/fabric-armchairs/79318307.txt
+- MORABO armchair, Djuparp dark blue/wood: /products/fabric-armchairs/99416496.txt
+- MORABO armchair, Djuparp dark blue/metal: /products/fabric-armchairs/19416495.txt
+- GAMMALBYN armchair, gray: /products/fabric-armchairs/40550217.txt
+- GAMMALBYN armchair, beige: /products/fabric-armchairs/00556283.txt
+- FLINSHULT armchair, Gunnared dark gray: /products/fabric-armchairs/60505021.txt
+- FLINSHULT armchair, Djuparp dark green: /products/fabric-armchairs/80505020.txt
+- FLINSHULT armchair, brown/beige: /products/fabric-armchairs/40505022.txt
+- FLINSHULT armchair, beige: /products/fabric-armchairs/00505024.txt
+- FINNALA armchair, Tallmyra black/gray: /products/fabric-armchairs/09505171.txt
+- FINNALA armchair, Gunnared medium gray: /products/fabric-armchairs/69505168.txt
+- FINNALA armchair, Gunnared beige: /products/fabric-armchairs/89505167.txt
+- EKERÖ armchair, Skiftebo yellow: /products/fabric-armchairs/70262890.txt
+- EKERÖ armchair, Skiftebo orange: /products/fabric-armchairs/90262889.txt
+- EKERÖ armchair, Skiftebo dark gray: /products/fabric-armchairs/90494587.txt
+- EKERÖ Armchair, Skiftebo dark blue: /products/fabric-armchairs/40262877.txt
+- BACKSÄLEN 1.5-seat armchair, Katorp natural: /products/fabric-armchairs/99393211.txt
+- BACKSÄLEN 1.5-seat armchair, Hallarp gray: /products/fabric-armchairs/99393206.txt
+- BACKSÄLEN 1.5-seat armchair, Blekinge white: /products/fabric-armchairs/29393200.txt
+- ÅRSUNDA armchair, Knisa light gray: /products/fabric-armchairs/30535897.txt
+- ÄLEBY swivel chair, Gunnared medium gray/dark gray: /products/fabric-armchairs/70569593.txt
+- ÄLEBY armchair with ottoman: /products/fabric-armchairs/39578482.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

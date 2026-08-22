@@ -1,0 +1,56 @@
+# @CATEGORY
+Name: Down alternative duvet inserts
+ProductCount: 34
+
+# @FILTERS
+PriceRange: $7.99 - $119.00
+Materials: Fabric: 100 % cotton, Fabric: 100 % lyocell, Fabric: 100 % polyester (100% recycled), Fabric: 100 % polypropylene, Fabric: 55 % lyocell, 45 % cotton, Fabric: 65 % polyester (100% recycled), 35 % cotton, Filling material: 100 % polyester - hollow fiber (100% recycled), Filling material: 100% polyester - hollow fiber (100% recycled), Filling material: 50 % Lyocell fiber, 50 % polyester - hollow fiber (100% recycled), Filling material: 50% lyocell / 50% polyester (min. 70% recycled)
+Brand: IKEA
+
+# @ITEMS
+- STRANDMOLKE duvet insert, warm, King: /products/down-alternative-duvet-inserts/80459202.txt
+- STRANDMOLKE Comforter, warm, Full/Queen: /products/down-alternative-duvet-inserts/00459201.txt
+- STRANDMOLKE duvet insert, light warm, King: /products/down-alternative-duvet-inserts/90457212.txt
+- STRANDMOLKE Comforter, light warm, Full/Queen: /products/down-alternative-duvet-inserts/30457210.txt
+- STJÄRNSTARR Comforter, cool, King: /products/down-alternative-duvet-inserts/20457258.txt
+- STJÄRNBRÄCKA duvet insert, warm, King: /products/down-alternative-duvet-inserts/90458103.txt
+- STJÄRNBRÄCKA Comforter, warm, Twin: /products/down-alternative-duvet-inserts/40458105.txt
+- STJÄRNBRÄCKA Comforter, warm, Full/Queen: /products/down-alternative-duvet-inserts/30458101.txt
+- STJÄRNBRÄCKA duvet insert, light warm, Twin: /products/down-alternative-duvet-inserts/80457137.txt
+- STJÄRNBRÄCKA duvet insert, light warm, Full/Queen: /products/down-alternative-duvet-inserts/70457133.txt
+- STJÄRNBRÄCKA Comforter, light warm, King: /products/down-alternative-duvet-inserts/20457135.txt
+- STJÄRNBRÄCKA duvet insert, extra warm, Full/Queen: /products/down-alternative-duvet-inserts/70458646.txt
+- STJÄRNBRÄCKA Comforter, extra warm, Twin: /products/down-alternative-duvet-inserts/50458652.txt
+- STJÄRNBRÄCKA Comforter, extra warm, King: /products/down-alternative-duvet-inserts/30458648.txt
+- SMÅSPORRE duvet insert, warm, Twin: /products/down-alternative-duvet-inserts/90457995.txt
+- SMÅSPORRE duvet insert, warm, Full/Queen: /products/down-alternative-duvet-inserts/80457991.txt
+- SMÅSPORRE Comforter, warm, King: /products/down-alternative-duvet-inserts/40457993.txt
+- SMÅSPORRE duvet insert, light warm, Full/Queen: /products/down-alternative-duvet-inserts/80457019.txt
+- SMÅSPORRE Comforter, light warm, King: /products/down-alternative-duvet-inserts/40457021.txt
+- SMÅSPORRE Comforter, light warm, Twin: /products/down-alternative-duvet-inserts/00457023.txt
+- SMÅSPORRE duvet insert, all seasons, King: /products/down-alternative-duvet-inserts/80592215.txt
+- SMÅSPORRE duvet insert, all seasons, Full/Queen: /products/down-alternative-duvet-inserts/10592214.txt
+- SANDGRÄSMAL duvet insert, light warm, Twin: /products/down-alternative-duvet-inserts/60598789.txt
+- SÄFFEROT duvet insert, warm, Twin: /products/down-alternative-duvet-inserts/90565725.txt
+- SÄFFEROT duvet insert, warm, Full/Queen: /products/down-alternative-duvet-inserts/40565723.txt
+- SÄFFEROT Comforter, light warm, Twin: /products/down-alternative-duvet-inserts/40457078.txt
+- SÄFFEROT Comforter, light warm, Full/Queen: /products/down-alternative-duvet-inserts/30457074.txt
+- MYSKGRÄS duvet insert, cooler, Twin: /products/down-alternative-duvet-inserts/40271891.txt
+- GRÄSROTSFLY duvet insert, cool, Twin: /products/down-alternative-duvet-inserts/40602400.txt
+- GRÄSROTSFLY duvet insert, cool, Full/Queen: /products/down-alternative-duvet-inserts/40602396.txt
+- GRÄSROTSFLY duvet insert, cool, King: /products/down-alternative-duvet-inserts/00602398.txt
+- BLÅNEPETA duvet insert, cool, light blue, King: /products/down-alternative-duvet-inserts/80579860.txt
+- BLÅNEPETA duvet insert, cool, light blue, Twin: /products/down-alternative-duvet-inserts/60579861.txt
+- BLÅNEPETA duvet insert, cool, light blue, Full/Queen: /products/down-alternative-duvet-inserts/00579859.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: UTSÅDD cat house on legs, rattan
+SKU: 90570883
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/utsadd-cat-house-on-legs-rattan-90570883/
+Category: Cats
+Description: A cozy, safe and decorative house where your cat can crawl in and rest. Made of rattan and is simple to lift and move. Complete with a soft cushion for even better comfort. The sturdy legs elevate the...
+
+# @OFFER
+Price: 79.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame/ Leg: Steel, Powder coating, Weaving: Rattan, Rattan, Rattan, Clear acrylic lacquer, Feet: Polyamide
+Features: May be combined with UTSÅDD pet cushion 13x15 in. | For cats. | Only for indoor use.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/utsadd-cat-house-on-legs-rattan__1227190_pe915573_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

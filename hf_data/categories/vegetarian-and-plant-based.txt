@@ -1,0 +1,28 @@
+# @CATEGORY
+Name: Vegetarian & plant based
+ProductCount: 7
+
+# @FILTERS
+PriceRange: $4.49 - $11.99
+Brand: IKEA
+
+# @ITEMS
+- SLAGVERK breaded wheat-based pieces, frozen, 0 oz: /products/vegetarian-and-plant-based/20580814.txt
+- LÄTTLAGAT plant balls with mashed potatoes, ready meal frozen, 13 oz: /products/vegetarian-and-plant-based/90526282.txt
+- HUVUDROLL vegetable balls, frozen, 2 lb3 oz: /products/vegetarian-and-plant-based/70487856.txt
+- HUVUDROLL plant balls, frozen, 1 lb2 oz: /products/vegetarian-and-plant-based/20483592.txt
+- GRÖNSAKSKAKA vegetable medallion, frozen: /products/vegetarian-and-plant-based/40212482.txt
+- GÅNGLÅT shredded potato pancakes, frozen, 1 lb1 oz: /products/vegetarian-and-plant-based/70579078.txt
+- ALLEMANSRÄTTEN mashed potatoes, frozen, 21 oz: /products/vegetarian-and-plant-based/30351280.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

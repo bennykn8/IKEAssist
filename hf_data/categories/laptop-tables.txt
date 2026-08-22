@@ -1,0 +1,34 @@
+# @CATEGORY
+Name: Laptop tables
+ProductCount: 12
+
+# @FILTERS
+PriceRange: $5.99 - $99.99
+Materials: Cover cap/ Foot: Reinforced polyamide, Fabric/ Fabric/ Fabric: 100% polyester (min. 90% recycled), Filling: 100 % polyester, Frame: Layer-glued wood veneer, Fiberboard, High-pressure laminate, Handle: ABS plastic, Hinge: Reinforced polyamide, Acetal plastic, Layer-glued wood veneer, Fiberboard, Birch veneer, Clear lacquer, Lining: 100 % polypropylene, Main parts: Steel, Epoxy/polyester powder coating, Rail: Plywood, Fiberboard, High-pressure laminate
+Brand: IKEA
+
+# @ITEMS
+- VITTSJÖ laptop stand, white/glass: /products/laptop-tables/90303446.txt
+- VITTSJÖ laptop stand, black-brown/glass: /products/laptop-tables/00250249.txt
+- VATTENKAR laptop/monitor stand, birch: /products/laptop-tables/80541565.txt
+- STENERIK laptop support: /products/laptop-tables/30564012.txt
+- ÖJULF laptop support, dark gray: /products/laptop-tables/00559026.txt
+- DUBBLA laptop stand, white: /products/laptop-tables/80534701.txt
+- DUBBLA laptop stand, orange: /products/laptop-tables/80607330.txt
+- DRÖNJÖNS laptop support, white: /products/laptop-tables/30596800.txt
+- BOLLSIDAN laptop stand, white: /products/laptop-tables/30574370.txt
+- BJÖRKÅSEN laptop stand, blue: /products/laptop-tables/10607357.txt
+- BJÖRKÅSEN laptop stand, beige: /products/laptop-tables/90467838.txt
+- BJÖRKÅSEN laptop stand, anthracite: /products/laptop-tables/20476474.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

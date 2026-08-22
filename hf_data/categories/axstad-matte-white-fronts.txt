@@ -1,0 +1,63 @@
+# @CATEGORY
+Name: AXSTAD matte white fronts
+ProductCount: 41
+
+# @FILTERS
+PriceRange: $32.00 - $266.00
+Materials: Back side: Melamine foil, Backside: Melamine foil, Front side: Plastic foil (min. 90% recycled), Frontside: Plastic foil (min. 90% recycled), Main parts: Fiberboard, Main parts: Fiberboard, Tempered glass
+Brand: IKEA
+
+# @ITEMS
+- AXSTAD glass door, matte white: /products/axstad-matte-white-fronts/90429436.txt
+- AXSTAD glass door, matte white: /products/axstad-matte-white-fronts/60429433.txt
+- AXSTAD Glass door, matt white: /products/axstad-matte-white-fronts/40429434.txt
+- AXSTAD Glass door, matt white: /products/axstad-matte-white-fronts/10429435.txt
+- AXSTAD drawer front, matte white: /products/axstad-matte-white-fronts/90426070.txt
+- AXSTAD drawer front, matte white: /products/axstad-matte-white-fronts/90426065.txt
+- AXSTAD drawer front, matte white: /products/axstad-matte-white-fronts/80426075.txt
+- AXSTAD drawer front, matte white: /products/axstad-matte-white-fronts/80426061.txt
+- AXSTAD drawer front, matte white: /products/axstad-matte-white-fronts/70426071.txt
+- AXSTAD drawer front, matte white: /products/axstad-matte-white-fronts/70426066.txt
+- AXSTAD drawer front, matte white: /products/axstad-matte-white-fronts/60426062.txt
+- AXSTAD Drawer front, matt white: /products/axstad-matte-white-fronts/50426072.txt
+- AXSTAD Drawer front, matt white: /products/axstad-matte-white-fronts/50426067.txt
+- AXSTAD Drawer front, matt white: /products/axstad-matte-white-fronts/40426063.txt
+- AXSTAD Drawer front, matt white: /products/axstad-matte-white-fronts/30426073.txt
+- AXSTAD Drawer front, matt white: /products/axstad-matte-white-fronts/30426068.txt
+- AXSTAD Drawer front, matt white: /products/axstad-matte-white-fronts/20426064.txt
+- AXSTAD Drawer front, matt white: /products/axstad-matte-white-fronts/10426074.txt
+- AXSTAD Drawer front, matt white: /products/axstad-matte-white-fronts/10426069.txt
+- AXSTAD door, matte white: /products/axstad-matte-white-fronts/90426051.txt
+- AXSTAD door, matte white: /products/axstad-matte-white-fronts/90426046.txt
+- AXSTAD door, matte white: /products/axstad-matte-white-fronts/80426080.txt
+- AXSTAD door, matte white: /products/axstad-matte-white-fronts/80426056.txt
+- AXSTAD door, matte white: /products/axstad-matte-white-fronts/70426052.txt
+- AXSTAD door, matte white: /products/axstad-matte-white-fronts/70426047.txt
+- AXSTAD door, matte white: /products/axstad-matte-white-fronts/60426081.txt
+- AXSTAD door, matte white: /products/axstad-matte-white-fronts/60426076.txt
+- AXSTAD door, matte white: /products/axstad-matte-white-fronts/60426057.txt
+- AXSTAD Door, matt white: /products/axstad-matte-white-fronts/50426053.txt
+- AXSTAD Door, matt white: /products/axstad-matte-white-fronts/50426048.txt
+- AXSTAD Door, matt white: /products/axstad-matte-white-fronts/40426082.txt
+- AXSTAD Door, matt white: /products/axstad-matte-white-fronts/40426077.txt
+- AXSTAD Door, matt white: /products/axstad-matte-white-fronts/40426058.txt
+- AXSTAD Door, matt white: /products/axstad-matte-white-fronts/30426054.txt
+- AXSTAD Door, matt white: /products/axstad-matte-white-fronts/30426049.txt
+- AXSTAD Door, matt white: /products/axstad-matte-white-fronts/20426078.txt
+- AXSTAD Door, matt white: /products/axstad-matte-white-fronts/10426050.txt
+- AXSTAD Door, matt white: /products/axstad-matte-white-fronts/10426045.txt
+- AXSTAD Door, matt white: /products/axstad-matte-white-fronts/00426079.txt
+- AXSTAD Door, matt white: /products/axstad-matte-white-fronts/00426055.txt
+- AXSTAD 2-p door/corner base cabinet set, matt white: /products/axstad-matte-white-fronts/20426083.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

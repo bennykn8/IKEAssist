@@ -1,0 +1,70 @@
+# @CATEGORY
+Name: Nightstands
+ProductCount: 48
+
+# @FILTERS
+PriceRange: $14.99 - $199.99
+Materials: Back panel/ Drawer bottom: Fiberboard, Acrylic paint, Back panel/ Drawer bottom: Fiberboard, Paper foil, Back panel/ Drawer bottom: Fiberboard, Printed acrylic paint, Back panel: Fiberboard, Back panel: Particleboard, Acrylic paint, Melamine foil, Paper, Back panel: Particleboard, Oak veneer, Clear acrylic lacquer, Oak veneer, Paper foil, Back panel: Particleboard, Paper foil, Back panel: Particleboard, Paper foil, Paper foil, Back/ Drawer bottom: Fiberboard, Acrylic paint, Back/ Drawer bottom: Fiberboard, Paper foil
+Brand: IKEA
+
+# @ITEMS
+- YTTERVÅG nightstand, gray-brown: /products/nightstands/80499397.txt
+- VIKHAMMER nightstand, walnut veneer: /products/nightstands/60596667.txt
+- VIKHAMMER nightstand, black: /products/nightstands/90388978.txt
+- VIHALS nightstand, white: /products/nightstands/80488737.txt
+- TYSSEDAL nightstand, white: /products/nightstands/70299959.txt
+- TONSTAD nightstand, off-white: /products/nightstands/80510007.txt
+- TONSTAD nightstand, oak veneer: /products/nightstands/80489322.txt
+- TONSTAD nightstand, brown stained oak veneer: /products/nightstands/40489319.txt
+- TOLKNING nightstand, handmade, 20 ½": /products/nightstands/10539212.txt
+- TARVA nightstand, pine: /products/nightstands/50219609.txt
+- STORKLINTA nightstand, white/with 2 drawers: /products/nightstands/90559296.txt
+- STORKLINTA nightstand, white/with 1 drawer: /products/nightstands/30561155.txt
+- STORKLINTA nightstand, oak effect/with 2 drawers: /products/nightstands/80561153.txt
+- STORKLINTA nightstand, oak effect/with 1 drawer: /products/nightstands/50559298.txt
+- STORKLINTA nightstand, gray/green/with 2 drawers: /products/nightstands/10574644.txt
+- STORKLINTA nightstand, dark brown oak effect/with 2 drawers: /products/nightstands/70559297.txt
+- STORKLINTA nightstand, dark brown oak effect/with 1 drawer: /products/nightstands/20561151.txt
+- STOMSÖ wall-mounted bedside table, birch effect white/blue: /products/nightstands/70567805.txt
+- SONGESAND Nightstand, white: /products/nightstands/30367441.txt
+- SONGESAND nightstand, brown: /products/nightstands/70367444.txt
+- SETSKOG nightstand, black: /products/nightstands/70338041.txt
+- RÅDMANSÖ nightstand, brown walnut effect: /products/nightstands/80593597.txt
+- OLDERDALEN nightstand, gray-green/pine: /products/nightstands/30500893.txt
+- NORDKISA nightstand, bamboo: /products/nightstands/60447677.txt
+- NORDKISA Nightstand, bamboo, Width: 23 5/: /products/nightstands/00430745.txt
+- LILLBERGET nightstand, white: /products/nightstands/10567568.txt
+- KNARREVIK nightstand, black: /products/nightstands/20569977.txt
+- IDANÄS nightstand, white: /products/nightstands/90458810.txt
+- IDANÄS nightstand, dark brown stained: /products/nightstands/80458815.txt
+- HEMNES Nightstand, white stain: /products/nightstands/20200456.txt
+- HEMNES Nightstand, gray dark gray stained: /products/nightstands/00381735.txt
+- HEMNES nightstand, black-brown: /products/nightstands/90121234.txt
+- HAUGA nightstand, white: /products/nightstands/00488963.txt
+- HAUGA nightstand, gray: /products/nightstands/40488961.txt
+- HATTÅSEN bedside table/shelf unit, white: /products/nightstands/80569234.txt
+- HATTÅSEN bedside table/shelf unit, black: /products/nightstands/40569231.txt
+- GURSKEN nightstand, light beige: /products/nightstands/80486328.txt
+- GULLABERG nightstand, with 1 drawer with shelf/white: /products/nightstands/20561740.txt
+- GULLABERG nightstand, with 1 drawer with shelf/gray: /products/nightstands/60561743.txt
+- GULLABERG nightstand, with 1 drawer with door/white: /products/nightstands/20561764.txt
+- GULLABERG nightstand, with 1 drawer with door/gray: /products/nightstands/40561763.txt
+- GRÅFJÄLLET nightstand, white: /products/nightstands/00583106.txt
+- GRÅFJÄLLET nightstand, anthracite: /products/nightstands/20570221.txt
+- BRIMNES Nightstand, white: /products/nightstands/10234942.txt
+- BRIMNES nightstand, gray: /products/nightstands/40598257.txt
+- BRIMNES nightstand, black: /products/nightstands/80340454.txt
+- BJÖRKSNÄS nightstand, black: /products/nightstands/30407357.txt
+- BJÖRKSNÄS nightstand, birch: /products/nightstands/70407360.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

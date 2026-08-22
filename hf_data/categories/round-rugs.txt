@@ -1,0 +1,28 @@
+# @CATEGORY
+Name: Round rugs
+ProductCount: 6
+
+# @FILTERS
+PriceRange: $59.99 - $129.99
+Materials: 100 % jute, Backing: 100 % Synthetic rubber, Use surface/ Back fabric: 100 % polypropylene, Use surface: 100 % polypropylene
+Brand: IKEA
+
+# @ITEMS
+- STOENSE rug, low pile, off-white: /products/round-rugs/70426801.txt
+- STOENSE rug, low pile, medium gray: /products/round-rugs/80495592.txt
+- STOENSE rug, low pile, medium gray: /products/round-rugs/50426840.txt
+- LOHALS rug, flatwoven, natural: /products/round-rugs/80515104.txt
+- LOHALS rug, flatwoven, natural: /products/round-rugs/10504024.txt
+- BRÄNNBOLL gaming rug, black: /products/round-rugs/80586530.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

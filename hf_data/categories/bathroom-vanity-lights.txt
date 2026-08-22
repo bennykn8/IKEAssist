@@ -1,0 +1,33 @@
+# @CATEGORY
+Name: Bathroom vanity lights
+ProductCount: 11
+
+# @FILTERS
+PriceRange: $15.00 - $59.99
+Materials: Base/ Housing: ABS plastic (min. 50% recycled), Base/ Shade: Steel, Chrome plated, Bracket: ABS plastic (min. 20% recycled), Cover plate: Polycarbonate plastic, Cover: Polycarbonate plastic, Diffuser/ Cover plate: Polycarbonate plastic, Diffuser: Polycarbonate plastic, Housing: Aluminum, Lamp house: Aluminum, Powder coating, Mounting plate: Steel
+Brand: IKEA
+
+# @ITEMS
+- VÅTHULT LED cabinet/mirror light, aluminum color: /products/bathroom-vanity-lights/40467553.txt
+- SILVERGLANS LED bathroom lighting strip, dimmable white: /products/bathroom-vanity-lights/30439650.txt
+- SILVERGLANS LED bathroom lighting strip, dimmable anthracite: /products/bathroom-vanity-lights/90439671.txt
+- SILVERGLANS driver for wireless control, smart white, 30 W: /products/bathroom-vanity-lights/50474826.txt
+- KÖLVATTEN LED lighting with sensor, white/battery operated: /products/bathroom-vanity-lights/70565340.txt
+- KÖLVATTEN LED lighting with sensor, white/battery operated: /products/bathroom-vanity-lights/50571974.txt
+- KÖLVATTEN LED lighting with sensor, white/battery operated: /products/bathroom-vanity-lights/30571951.txt
+- KÖLVATTEN LED lighting with sensor, gray/battery operated: /products/bathroom-vanity-lights/70599142.txt
+- KÖLVATTEN LED lighting with sensor, gray/battery operated: /products/bathroom-vanity-lights/70599137.txt
+- KÖLVATTEN LED lighting with sensor, gray/battery operated: /products/bathroom-vanity-lights/10599140.txt
+- FLASKPOST LED cabinet/wall light, chrome plated: /products/bathroom-vanity-lights/60591537.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

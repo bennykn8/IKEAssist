@@ -1,0 +1,25 @@
+# @CATEGORY
+Name: Up to 8 seats
+ProductCount: 3
+
+# @FILTERS
+PriceRange: $649.00 - $999.00
+Materials: Cross rail: Particleboard, Solid oak, Oak veneer, Clear acrylic lacquer, Leg/ Underframe: Particleboard, Solid oak, Thick oak veneer, Clear acrylic lacquer, Particleboard, Layer-glued wood veneer, Honeycomb structure paper filling (100% recycled), Oak veneer, Oak veneer, Clear acrylic lacquer, Oak veneer, Clear acrylic lacquer, Fiberboard, Oak veneer, Clear acrylic lacquer, Side rail/ Cross rail/ Bottom rail: Solid beech, Adhesive, Stain, Clear acrylic lacquer, Solid wood, Oak veneer, Clear acrylic lacquer, Table top: Particleboard, Beech veneer, Beech veneer, Beech veneer, Stain, Clear acrylic lacquer, Table top: Particleboard, Oak veneer, Clear acrylic lacquer, Oak veneer, Clear acrylic lacquer, Trestle: Solid beech, Solid beech, Stain, Clear acrylic lacquer
+Brand: IKEA
+
+# @ITEMS
+- STOCKHOLM 2025 table, oak veneer/oak veneer: /products/up-to-8-seats/79579984.txt
+- MÖCKELBY Table, oak: /products/up-to-8-seats/00293772.txt
+- KLIMPFJÄLL dining table, gray-brown: /products/up-to-8-seats/30434657.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

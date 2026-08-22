@@ -1,0 +1,80 @@
+# @CATEGORY
+Name: Floor lamps
+ProductCount: 58
+
+# @FILTERS
+PriceRange: $7.99 - $349.99
+Materials: Adapter: Polycarbonate plastic, Adjustment nut/ Mounting bracket: Aluminum, Powder coating, Arm: Steel, Paint, Base cover/ Tube/ Cover: Steel, Powder coating, Base cover/ Tube/ Flexibile joint/ Arm/ Cover: Steel, Powder coating, Base joint/ Tube/ Knob: Steel, Nickel plated, Base plate/ Tube: Steel, Brush finish nickel-plated, Acrylic coating, Base plate/ Tube: Steel, Nickel plated, Acrylic coating, Base plate: Clear lacquer, Aluminum, Base weight/ Tube: Steel, Nickel plated, Acrylic coating
+Brand: IKEA
+
+# @ITEMS
+- VINDKAST floor lamp, white: /products/floor-lamps/60539097.txt
+- VIDJA floor lamp, white: /products/floor-lamps/10309206.txt
+- UPPVIND floor lamp, nickel plated/white: /products/floor-lamps/70437828.txt
+- UPPVIND floor lamp, brass plated/white: /products/floor-lamps/70488295.txt
+- TRINDSNÖ floor lamp, white metal/birch veneer: /products/floor-lamps/20553306.txt
+- TOMELILLA floor lamp, nickel plated/white: /products/floor-lamps/30469374.txt
+- TÅGARP floor uplighter/reading lamp, black/white: /products/floor-lamps/70486395.txt
+- TÅGARP floor uplighter, black/white: /products/floor-lamps/60464049.txt
+- STRANDAD floor lamp, white/black: /products/floor-lamps/70594842.txt
+- STOCKHOLM 2025 floor lamp, white textile/brass plated: /products/floor-lamps/00585921.txt
+- SKOTTORP / SKAFTET floor lamp, arched, light gray: /products/floor-lamps/59387542.txt
+- SINNERLIG floor lamp, bamboo/handmade: /products/floor-lamps/80501220.txt
+- SIMRISHAMN floor lamp, chrome plated/opal glass: /products/floor-lamps/50437773.txt
+- SAMBORD floor/reading lamp, black/white: /products/floor-lamps/90573358.txt
+- RÖDFLIK floor/reading lamp, light beige: /products/floor-lamps/10563570.txt
+- RÖDFLIK floor/reading lamp, gray-green: /products/floor-lamps/80563581.txt
+- RINGSTA / SKAFTET floor lamp, white/nickel plated: /products/floor-lamps/59387448.txt
+- REGNSKUR / SKAFTET floor lamp, arched, turquoise/black: /products/floor-lamps/99535828.txt
+- RANARP floor/reading lamp, off-white: /products/floor-lamps/90231303.txt
+- RANARP floor/reading lamp, black: /products/floor-lamps/00331383.txt
+- ÖKENSAND floor lamp, beech/white: /products/floor-lamps/90541536.txt
+- NYMÅNE Floor/reading lamp, white: /products/floor-lamps/60336783.txt
+- NYMÅNE floor lamp with 3-spotlights, white: /products/floor-lamps/50477052.txt
+- NYFORS floor lamp, nickel plated white: /products/floor-lamps/50303113.txt
+- LERSTA floor/reading lamp, aluminum chrome effect: /products/floor-lamps/20110903.txt
+- LAUTERS floor lamp, brown ash/white: /products/floor-lamps/60405941.txt
+- LAUTERS floor lamp, ash/white: /products/floor-lamps/00405048.txt
+- LÅGTRYCK floor lamp, white: /products/floor-lamps/90513208.txt
+- KRYSSMAST floor lamp, nickel plated: /products/floor-lamps/10496335.txt
+- KLÖVING floor lamp, anthracite: /products/floor-lamps/20573564.txt
+- KINNAHULT floor lamp, ash/white: /products/floor-lamps/20559266.txt
+- ISJAKT LED floor uplighter/reading lamp, dimmable/nickel plated: /products/floor-lamps/70459716.txt
+- HEKTOGRAM floor uplighter, silver color/white: /products/floor-lamps/20477732.txt
+- HEKTOGRAM floor uplighter/reading lamp, silver color/white: /products/floor-lamps/30477717.txt
+- HEKTAR Floor lamp with LED bulb, dark gray: /products/floor-lamps/40416281.txt
+- HEKTAR floor lamp with 3-spotlights, dark gray: /products/floor-lamps/40393618.txt
+- HEKTAR floor lamp with 3-spotlights, brown-red: /products/floor-lamps/40577472.txt
+- HEKTAR floor lamp, dark gray: /products/floor-lamps/70216544.txt
+- HÅRSLINGA / TRÅDFRI floor lamp with LED bulb, white/smart white spectrum: /products/floor-lamps/49516813.txt
+- HÅRSLINGA / TRÅDFRI floor lamp with LED bulb, black/smart white spectrum: /products/floor-lamps/59525831.txt
+- HÅRSLINGA / MOLNART floor lamp with LED bulb, white/mushroom brown clear glass: /products/floor-lamps/39596674.txt
+- HÅRSLINGA / MOLNART floor lamp with LED bulb, white/ellipse shaped multicolor: /products/floor-lamps/59516737.txt
+- HÅRSLINGA / MOLNART floor lamp with LED bulb, black/globe gray clear glass: /products/floor-lamps/59517001.txt
+- HÅRSLINGA / MOLNART floor lamp with LED bulb, black/donut-shaped opal: /products/floor-lamps/89596370.txt
+- HÅRSLINGA / LUNNOM floor lamp with LED bulb, white/clear glass: /products/floor-lamps/39516856.txt
+- HÅRSLINGA / LUNNOM floor lamp with LED bulb, black/clear glass: /products/floor-lamps/19516961.txt
+- HÅRSLINGA floor lamp, white: /products/floor-lamps/60538899.txt
+- HÅRSLINGA floor lamp, black: /products/floor-lamps/70556500.txt
+- FOLKBÅT floor lamp with 2-spot, black: /products/floor-lamps/70566679.txt
+- FLYGHÖJD floor lamp, brass/green-gray: /products/floor-lamps/00543846.txt
+- FLYGHÖJD floor lamp, brass/beige: /products/floor-lamps/70524444.txt
+- EVEDAL floor lamp, marble/gray: /products/floor-lamps/60357916.txt
+- BLÄNKFYR floor lamp, nickel plated: /products/floor-lamps/90566697.txt
+- BARLAST floor lamp, black/white: /products/floor-lamps/70437814.txt
+- ÅRSTID floor lamp, nickel plated/white: /products/floor-lamps/50163867.txt
+- ÅRSTID floor lamp, brass/white: /products/floor-lamps/60321324.txt
+- ANKARSPEL floor/reading lamp with LED bulb, pewter effect: /products/floor-lamps/20494331.txt
+- ANKARSPEL floor/reading lamp, pewter effect: /products/floor-lamps/80494328.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

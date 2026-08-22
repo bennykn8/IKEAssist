@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GRIMSBU bed frame, gray/Luröy, Queen
+SKU: 19437803
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/grimsbu-bed-frame-gray-luroey-s19437803/
+Category: Bed frames
+Description: Simple, sturdy and easy to place. The low height is perfect under windows or sloped ceilings and there’s still plenty of space for storage boxes underneath. Assembles in a few easy steps. The powder-c...
+
+# @OFFER
+Price: 117
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Head/foot board/ Bedside/ Midbeam/ Leg/ Bracket: Steel, Epoxy/polyester powder coating, Feet: Polypropylene, Bed slats: Layer-glued wood veneer, Adhesive resin as coating
+Features: Center support beam included. | LURÖY slatted bed base is included in the price, but is packaged separately. | May be combined with KNARREVIK nightstand.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/grimsbu-bed-frame-gray-luroey__0749249_pe747240_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

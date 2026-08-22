@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SEKTION wall top cabinet frame, white
+SKU: 00265509
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sektion-wall-top-cabinet-frame-white-00265509/
+Category: Cabinets for built-in appliances
+Description: , 36x24x15" 25-year Limited Warranty. Read about the terms in the Limited Warranty brochure. Sturdy frame construction, ¾" thick. An air duct gives good ventilation. The melamine surface is moisture- ...
+
+# @OFFER
+Price: 82
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Particleboard, Melamine foil, Plastic edging, Back: Fiberboard, Acrylic paint
+Features: Suspension rail sold separately. | Hinges are sold separately. | Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sektion-wall-top-cabinet-frame-white__0258472_pe406166_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

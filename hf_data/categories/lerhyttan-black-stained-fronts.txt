@@ -1,0 +1,63 @@
+# @CATEGORY
+Name: LERHYTTAN black stained fronts
+ProductCount: 41
+
+# @FILTERS
+PriceRange: $44.00 - $383.00
+Materials: Frame: Solid ash, Stain, Clear acrylic lacquer, Glass: Tempered glass, Panel back side: Ash veneer, Stain, Clear acrylic lacquer, Panel: Fiberboard, Ash veneer, Stain, Clear acrylic lacquer, Solid ash, Stain, Clear acrylic lacquer
+Brand: IKEA
+
+# @ITEMS
+- LERHYTTAN glass door, black stained: /products/lerhyttan-black-stained-fronts/90355968.txt
+- LERHYTTAN glass door, black stained: /products/lerhyttan-black-stained-fronts/70355969.txt
+- LERHYTTAN glass door, black stained: /products/lerhyttan-black-stained-fronts/50355970.txt
+- LERHYTTAN glass door, black stained: /products/lerhyttan-black-stained-fronts/10355967.txt
+- LERHYTTAN drawer front, black stained: /products/lerhyttan-black-stained-fronts/90355954.txt
+- LERHYTTAN drawer front, black stained: /products/lerhyttan-black-stained-fronts/80355964.txt
+- LERHYTTAN drawer front, black stained: /products/lerhyttan-black-stained-fronts/80355959.txt
+- LERHYTTAN drawer front, black stained: /products/lerhyttan-black-stained-fronts/60355960.txt
+- LERHYTTAN drawer front, black stained: /products/lerhyttan-black-stained-fronts/60355955.txt
+- LERHYTTAN drawer front, black stained: /products/lerhyttan-black-stained-fronts/50355965.txt
+- LERHYTTAN drawer front, black stained: /products/lerhyttan-black-stained-fronts/40355961.txt
+- LERHYTTAN drawer front, black stained: /products/lerhyttan-black-stained-fronts/40355956.txt
+- LERHYTTAN drawer front, black stained: /products/lerhyttan-black-stained-fronts/30355966.txt
+- LERHYTTAN drawer front, black stained: /products/lerhyttan-black-stained-fronts/30355952.txt
+- LERHYTTAN drawer front, black stained: /products/lerhyttan-black-stained-fronts/20355962.txt
+- LERHYTTAN drawer front, black stained: /products/lerhyttan-black-stained-fronts/20355957.txt
+- LERHYTTAN drawer front, black stained: /products/lerhyttan-black-stained-fronts/10355953.txt
+- LERHYTTAN drawer front, black stained: /products/lerhyttan-black-stained-fronts/00355963.txt
+- LERHYTTAN drawer front, black stained: /products/lerhyttan-black-stained-fronts/00355958.txt
+- LERHYTTAN door, black stained: /products/lerhyttan-black-stained-fronts/90355949.txt
+- LERHYTTAN door, black stained: /products/lerhyttan-black-stained-fronts/90355930.txt
+- LERHYTTAN door, black stained: /products/lerhyttan-black-stained-fronts/80355940.txt
+- LERHYTTAN door, black stained: /products/lerhyttan-black-stained-fronts/80355935.txt
+- LERHYTTAN door, black stained: /products/lerhyttan-black-stained-fronts/70355950.txt
+- LERHYTTAN door, black stained: /products/lerhyttan-black-stained-fronts/70355945.txt
+- LERHYTTAN door, black stained: /products/lerhyttan-black-stained-fronts/70355931.txt
+- LERHYTTAN Door, black stained: /products/lerhyttan-black-stained-fronts/60355941.txt
+- LERHYTTAN Door, black stained: /products/lerhyttan-black-stained-fronts/60355936.txt
+- LERHYTTAN door, black stained: /products/lerhyttan-black-stained-fronts/50355946.txt
+- LERHYTTAN door, black stained: /products/lerhyttan-black-stained-fronts/50355932.txt
+- LERHYTTAN Door, black stained: /products/lerhyttan-black-stained-fronts/40355942.txt
+- LERHYTTAN door, black stained: /products/lerhyttan-black-stained-fronts/40355937.txt
+- LERHYTTAN door, black stained: /products/lerhyttan-black-stained-fronts/30355947.txt
+- LERHYTTAN door, black stained: /products/lerhyttan-black-stained-fronts/30355933.txt
+- LERHYTTAN door, black stained: /products/lerhyttan-black-stained-fronts/20355938.txt
+- LERHYTTAN door, black stained: /products/lerhyttan-black-stained-fronts/10355948.txt
+- LERHYTTAN door, black stained: /products/lerhyttan-black-stained-fronts/10355934.txt
+- LERHYTTAN door, black stained: /products/lerhyttan-black-stained-fronts/10355929.txt
+- LERHYTTAN door, black stained: /products/lerhyttan-black-stained-fronts/00355944.txt
+- LERHYTTAN door, black stained: /products/lerhyttan-black-stained-fronts/00355939.txt
+- LERHYTTAN 2-p door/corner base cabinet set, black stained: /products/lerhyttan-black-stained-fronts/50355951.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

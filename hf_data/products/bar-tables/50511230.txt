@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: RÖNNINGE bar table, birch
+SKU: 50511230
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/roenninge-bar-table-birch-50511230/
+Category: Bar tables
+Description: , 291/2x291/2" A stable construction in solid wood and hardwood veneer that makes each table unique, with varying grain patterns and natural color shifts that are part of the charm of wood. The metal ...
+
+# @OFFER
+Price: 299.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top: Particleboard, Birch veneer, Tinted clear acrylic lacquer, Birch veneer, Clear acrylic lacquer, Birch veneer, Tinted clear acrylic lacquer, Side rail: Solid birch, Adhesive, Birch veneer, Tinted clear acrylic lacquer, Bottom frame/ Leg: Solid birch, Adhesive, Tinted clear acrylic lacquer
+Features: Recommended for indoor use only. | Seats 2-4.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/roenninge-bar-table-birch__1044552_pe842223_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

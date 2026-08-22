@@ -1,0 +1,68 @@
+# @CATEGORY
+Name: Coffee mugs & tea cups
+ProductCount: 46
+
+# @FILTERS
+PriceRange: $0.89 - $24.99
+Materials: Feldspar porcelain, Feldspar porcelain, Colored glaze, Feldspar porcelain, Glaze, Heat resistant glass, Stoneware, Stoneware, Colored glaze, Tempered glass
+Brand: IKEA
+
+# @ITEMS
+- VÄRDERA mug, white, 10 oz: /products/coffee-mugs-and-tea-cups/10277366.txt
+- VÄRDERA coffee cup and saucer, white, 7 oz: /products/coffee-mugs-and-tea-cups/60277463.txt
+- UPPLAGA mug, white, 12 oz: /products/coffee-mugs-and-tea-cups/80443800.txt
+- UPPLAGA cup and saucer, white, 8 oz: /products/coffee-mugs-and-tea-cups/80560304.txt
+- STRIMMIG mug, white, 12 oz: /products/coffee-mugs-and-tea-cups/10468219.txt
+- STRIMMIG mug, stoneware pale gray-green, 12 oz: /products/coffee-mugs-and-tea-cups/20569897.txt
+- STRIMMIG mug, stoneware gray, 12 oz: /products/coffee-mugs-and-tea-cups/70443184.txt
+- STOCKHOLM 2025 tumbler, brown, 7 oz: /products/coffee-mugs-and-tea-cups/00592417.txt
+- STELNA mug, clear glass, 8 oz: /products/coffee-mugs-and-tea-cups/70258911.txt
+- SKUGGSTUBB mug, mixed colors green/brown, 14 oz: /products/coffee-mugs-and-tea-cups/10594717.txt
+- SKUGGSTUBB mug, mixed colors brown/green, 14 oz: /products/coffee-mugs-and-tea-cups/30594716.txt
+- SKEDSTÖR mug, mixed colors yellow/black, 10 oz: /products/coffee-mugs-and-tea-cups/80594714.txt
+- SILVERSIDA mug, patterned/blue, 14 oz: /products/coffee-mugs-and-tea-cups/20601798.txt
+- SANDSKÄDDA mug, light grey-beige, 9 oz: /products/coffee-mugs-and-tea-cups/90559456.txt
+- PIGGÅL mug, white/green, 10 oz: /products/coffee-mugs-and-tea-cups/50561828.txt
+- OFANTLIGT mug, white, 10.5 oz: /products/coffee-mugs-and-tea-cups/00319022.txt
+- MOSSMAL mug, dot pattern/light green, 15 oz: /products/coffee-mugs-and-tea-cups/20582766.txt
+- KUSTFYR mug, white/spider black, 12 oz: /products/coffee-mugs-and-tea-cups/50617359.txt
+- KUSTFYR mug, white/cat black, 12 oz: /products/coffee-mugs-and-tea-cups/90617357.txt
+- KUSTFYR mug, white/black, 12 oz: /products/coffee-mugs-and-tea-cups/70617358.txt
+- KUSTFYR mug, black/ghost white, 12 oz: /products/coffee-mugs-and-tea-cups/10617356.txt
+- KLIPPAKLEJA tumbler, patterned/yellow pink, 8 oz: /products/coffee-mugs-and-tea-cups/00599536.txt
+- KEJSERLIG mug, dark pink, 10 oz: /products/coffee-mugs-and-tea-cups/10511500.txt
+- IKEA 365+ mug, white, 12 oz: /products/coffee-mugs-and-tea-cups/80278367.txt
+- IKEA 365+ mug, white, 8 oz: /products/coffee-mugs-and-tea-cups/20282942.txt
+- IKEA 365+ mug, clear glass, 12 oz: /products/coffee-mugs-and-tea-cups/90279724.txt
+- IKEA 365+ mug, clear glass, 8 oz: /products/coffee-mugs-and-tea-cups/10279723.txt
+- IKEA 365+ espresso cup and saucer, white, 2 oz: /products/coffee-mugs-and-tea-cups/10283409.txt
+- GLADELIG tumbler, mixed colors, 10 oz: /products/coffee-mugs-and-tea-cups/00583781.txt
+- GLADELIG tumbler, gray, 10 oz: /products/coffee-mugs-and-tea-cups/90581462.txt
+- GLADELIG mug, gray, 13 oz: /products/coffee-mugs-and-tea-cups/70457152.txt
+- GLADELIG mug, dark gray, 13 oz: /products/coffee-mugs-and-tea-cups/60597025.txt
+- GLADELIG mug, blue, 13 oz: /products/coffee-mugs-and-tea-cups/40503626.txt
+- GLADELIG mug, beige-green, 13 oz: /products/coffee-mugs-and-tea-cups/50598983.txt
+- GLADELIG espresso cup, gray, 3 oz: /products/coffee-mugs-and-tea-cups/80581467.txt
+- FÄRGRIK mug, turquoise, 8.5 oz: /products/coffee-mugs-and-tea-cups/50234803.txt
+- FÄRGRIK mug, stoneware white, 8.5 oz: /products/coffee-mugs-and-tea-cups/60143992.txt
+- FÄRGRIK mug, dark turquoise, 8.5 oz: /products/coffee-mugs-and-tea-cups/80330563.txt
+- FÄRGKLAR mug, matte green, 13 oz: /products/coffee-mugs-and-tea-cups/40478189.txt
+- FÄRGKLAR mug, light pink, 14 oz: /products/coffee-mugs-and-tea-cups/50604880.txt
+- FÄRGKLAR mug, glossy beige, 13 oz: /products/coffee-mugs-and-tea-cups/60479437.txt
+- ENTUSIASM tumbler, patterned/blue, 7 oz: /products/coffee-mugs-and-tea-cups/10417244.txt
+- DRÖMBILD mug, clear glass, 8 oz: /products/coffee-mugs-and-tea-cups/00417452.txt
+- DINERA mug, dark gray, 10 oz: /products/coffee-mugs-and-tea-cups/30362820.txt
+- DINERA mug, beige, 10 oz: /products/coffee-mugs-and-tea-cups/60350646.txt
+- BATIKBOTIA mug, yellow, 10 oz: /products/coffee-mugs-and-tea-cups/40594184.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

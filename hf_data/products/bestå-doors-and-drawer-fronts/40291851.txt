@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HANVIKEN Drawer front, white
+SKU: 40291851
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hanviken-drawer-front-white-40291851/
+Category: BESTÅ doors & drawer fronts
+Description: , 23 5/8x10 1/4". HANVIKEN white is a framed front that adds a warm, natural feeling and a traditional touch to your storage. Complement with SINDVIK glass doors.
+
+# @OFFER
+Price: 15
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fiberboard, Paper foil, Plastic edging
+Features: To be completed with BESTÅ drawer frame 23⅝X5¾X15¾" and BESTÅ drawer runner, sold separately. | May be completed with knobs or handles, sold separately. | Due to the design of HANVIKEN, knobs/handles can only be mounted in the outer frame of the door/drawer front, not in the center part.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hanviken-drawer-front-white__0376975_pe513787_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

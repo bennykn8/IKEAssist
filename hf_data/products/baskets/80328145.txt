@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: FRYKEN box with lid, set of 3, seagrass
+SKU: 80328145
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/fryken-box-with-lid-set-of-3-seagrass-80328145/
+Category: Baskets
+Description: These boxes are woven in seagrass by skilled craftsmen. The neat sizes are perfect for smaller things and make them easy to place, adding charm and character to the office, bathroom or bookshelf. Each...
+
+# @OFFER
+Price: 18.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Box: Seagrass, Binding: Rattan
+Dimensions: Sizes: 1 pc dia. 4", height 2", 1 pc dia. 6", height 3", and 1 pc dia. 8", height 4".
+Features: Comes in 3 pieces. | Not suitable for bathrooms or high humidity areas.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/fryken-box-with-lid-set-of-3-seagrass__0711860_pe728524_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

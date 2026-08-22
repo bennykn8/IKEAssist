@@ -1,0 +1,312 @@
+# @CATEGORY
+Name: Storage shelves & shelving units
+ProductCount: 290
+
+# @FILTERS
+PriceRange: $5.00 - $1480.00
+Materials: Back panel: Fiberboard, Back panel: Fiberboard, Acrylic paint, Back panel: Fiberboard, Paper foil, Acrylic paint, Back panel: Fiberboard, Paper foil, Plastic foil, Back panel: Fiberboard, Plastic foil, Back panel: Particleboard, Paper foil, Bottom panel/ Partition/ Shelf: Particleboard, Acrylic paint, Plastic edging, Bottom panel/ Plinth front/ Plinth side: Particleboard, Acrylic paint, Paper foil, Plastic edging, Bottom panel/ Top panel: Particleboard, Melamine foil, Plastic edging, Bottom panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Oak veneer, Clear acrylic lacquer, Paper foil
+Brand: IKEA
+
+# @ITEMS
+- VITTSJÖ storage combination, white/glass: /products/storage-shelves-and-shelving-units/89294551.txt
+- VITTSJÖ storage combination, white/glass: /products/storage-shelves-and-shelving-units/79294523.txt
+- VITTSJÖ storage combination, white/glass: /products/storage-shelves-and-shelving-units/59294557.txt
+- VITTSJÖ storage combination, white/glass: /products/storage-shelves-and-shelving-units/49294529.txt
+- VITTSJÖ storage combination, white/glass: /products/storage-shelves-and-shelving-units/19294535.txt
+- VITTSJÖ storage combination, white/glass: /products/storage-shelves-and-shelving-units/09294545.txt
+- VITTSJÖ storage combination, black-brown/glass: /products/storage-shelves-and-shelving-units/89294532.txt
+- VITTSJÖ storage combination, black-brown/glass: /products/storage-shelves-and-shelving-units/79294542.txt
+- VITTSJÖ storage combination, black-brown/glass: /products/storage-shelves-and-shelving-units/59902658.txt
+- VITTSJÖ storage combination, black-brown/glass: /products/storage-shelves-and-shelving-units/49294548.txt
+- VITTSJÖ storage combination, black-brown/glass: /products/storage-shelves-and-shelving-units/29294554.txt
+- VITTSJÖ storage combination, black-brown/glass: /products/storage-shelves-and-shelving-units/09294526.txt
+- VITTSJÖ shelving unit with laptop table, white/glass: /products/storage-shelves-and-shelving-units/99294517.txt
+- VITTSJÖ shelving unit with laptop table, white/glass: /products/storage-shelves-and-shelving-units/19294489.txt
+- VITTSJÖ shelf unit, yellow/glass: /products/storage-shelves-and-shelving-units/80595544.txt
+- VITTSJÖ shelf unit, white/glass: /products/storage-shelves-and-shelving-units/80303437.txt
+- VITTSJÖ Shelf unit, white, glass, Width: 39 3/: /products/storage-shelves-and-shelving-units/40303439.txt
+- VITTSJÖ Shelf unit, white, glass: /products/storage-shelves-and-shelving-units/10305802.txt
+- VITTSJÖ shelf unit, black-brown/glass: /products/storage-shelves-and-shelving-units/90305803.txt
+- VITTSJÖ Shelf unit, black-brown, glass, Width: 20 1/: /products/storage-shelves-and-shelving-units/50214678.txt
+- VITTSJÖ Shelf unit, black-brown, glass, Width: 39 3/: /products/storage-shelves-and-shelving-units/20213312.txt
+- VIHALS storage combination, white: /products/storage-shelves-and-shelving-units/49447476.txt
+- VIHALS storage combination, white: /products/storage-shelves-and-shelving-units/29447477.txt
+- VIHALS storage combination w/glass doors, white/clear glass: /products/storage-shelves-and-shelving-units/89521092.txt
+- VIHALS storage combination w/glass doors, white/clear glass: /products/storage-shelves-and-shelving-units/59521215.txt
+- VIHALS storage combination w/glass doors, white/clear glass: /products/storage-shelves-and-shelving-units/19537713.txt
+- VIHALS storage combination w/glass doors, white/clear glass: /products/storage-shelves-and-shelving-units/19521095.txt
+- VIHALS storage combination w/glass doors, dark gray/clear glass: /products/storage-shelves-and-shelving-units/89521214.txt
+- VIHALS storage combination w/glass doors, dark gray/clear glass: /products/storage-shelves-and-shelving-units/69521093.txt
+- VIHALS storage combination w/glass doors, dark gray/clear glass: /products/storage-shelves-and-shelving-units/49521094.txt
+- VIHALS storage combination w/glass doors, dark gray/clear glass: /products/storage-shelves-and-shelving-units/39537712.txt
+- VIHALS storage combination w/glass doors, dark gray/clear glass: /products/storage-shelves-and-shelving-units/09521208.txt
+- VIHALS storage combination, dark gray: /products/storage-shelves-and-shelving-units/99537709.txt
+- VIHALS storage combination, dark gray: /products/storage-shelves-and-shelving-units/99521204.txt
+- VIHALS shelving unit with 6 shelves, white: /products/storage-shelves-and-shelving-units/80483283.txt
+- VIHALS shelving unit with 6 shelves, dark gray: /products/storage-shelves-and-shelving-units/80542918.txt
+- VIHALS shelving unit with 4 shelves, white: /products/storage-shelves-and-shelving-units/50483289.txt
+- VIHALS shelving unit with 4 shelves, dark gray: /products/storage-shelves-and-shelving-units/30542911.txt
+- VIHALS shelving unit with 10 shelves, white: /products/storage-shelves-and-shelving-units/70483274.txt
+- VIHALS shelving unit with 10 shelves, dark gray: /products/storage-shelves-and-shelving-units/50542905.txt
+- VIHALS shelving combination, white: /products/storage-shelves-and-shelving-units/99440566.txt
+- VIHALS shelving combination, white: /products/storage-shelves-and-shelving-units/69440600.txt
+- VIHALS shelving combination, white: /products/storage-shelves-and-shelving-units/19440565.txt
+- VIHALS shelving combination, dark gray: /products/storage-shelves-and-shelving-units/69521069.txt
+- VIHALS shelving combination, dark gray: /products/storage-shelves-and-shelving-units/49521070.txt
+- VIHALS shelving combination, dark gray: /products/storage-shelves-and-shelving-units/29521071.txt
+- TONSTAD shelving unit, off-white: /products/storage-shelves-and-shelving-units/20488877.txt
+- TONSTAD shelving unit, oak veneer: /products/storage-shelves-and-shelving-units/50489291.txt
+- TONSTAD shelving unit, brown stained oak veneer: /products/storage-shelves-and-shelving-units/70489290.txt
+- STOCKHOLM 2025 shelving unit/bench, oak veneer: /products/storage-shelves-and-shelving-units/90586515.txt
+- SPIKSMED open shelf unit, light gray: /products/storage-shelves-and-shelving-units/90565513.txt
+- SÅGMÄSTARE shelf unit, light gray-blue: /products/storage-shelves-and-shelving-units/30570249.txt
+- RÅVAROR Open storage unit on casters, oak veneer: /products/storage-shelves-and-shelving-units/20454504.txt
+- LÅDMAKARE storage combination, with shelves/oak effect: /products/storage-shelves-and-shelving-units/69613422.txt
+- LÅDMAKARE storage combination w sliding doors, with shelves/oak effect: /products/storage-shelves-and-shelving-units/29613424.txt
+- LÅDMAKARE storage combination w sliding doors, with 9 shelves/oak effect: /products/storage-shelves-and-shelving-units/69563988.txt
+- LÅDMAKARE storage combination w sliding doors, with 7 shelves/oak effect: /products/storage-shelves-and-shelving-units/59566671.txt
+- LÅDMAKARE storage combination w sliding doors, with 6 shelves/oak effect: /products/storage-shelves-and-shelving-units/19564674.txt
+- LÅDMAKARE storage combination w sliding doors, with 3 shelves/oak effect: /products/storage-shelves-and-shelving-units/89564675.txt
+- LÅDMAKARE storage combination w sliding doors, with 2 shelves/oak effect: /products/storage-shelves-and-shelving-units/29564678.txt
+- LÅDMAKARE storage combination w sliding doors, with 2 shelf inserts/oak effect: /products/storage-shelves-and-shelving-units/19564688.txt
+- LÅDMAKARE storage combination w sliding doors, with 11 shelves/oak effect: /products/storage-shelves-and-shelving-units/39566672.txt
+- LÅDMAKARE side panel, left + right/oak effect: /products/storage-shelves-and-shelving-units/50597295.txt
+- LÅDMAKARE shelf, oak effect: /products/storage-shelves-and-shelving-units/70584433.txt
+- LÅDMAKARE shelf, oak effect: /products/storage-shelves-and-shelving-units/60584730.txt
+- LÅDMAKARE middle panel, oak effect: /products/storage-shelves-and-shelving-units/90584724.txt
+- LÅDMAKARE insert with compartments, oak effect: /products/storage-shelves-and-shelving-units/20584732.txt
+- LÅDMAKARE cabinet with sliding doors, oak effect: /products/storage-shelves-and-shelving-units/60584725.txt
+- LACK Wall shelf unit, white: /products/storage-shelves-and-shelving-units/60282186.txt
+- LACK wall shelf unit, black-brown: /products/storage-shelves-and-shelving-units/80430591.txt
+- KRÖNIKÖR open storage, red: /products/storage-shelves-and-shelving-units/30574596.txt
+- KALLAX Wire basket, brass color: /products/storage-shelves-and-shelving-units/10345073.txt
+- KALLAX shelving unit with underframe, with 4 drawers/with 2 shelf inserts white: /products/storage-shelves-and-shelving-units/19552911.txt
+- KALLAX shelving unit with underframe, with 2 shelf inserts/white: /products/storage-shelves-and-shelving-units/99552912.txt
+- KALLAX shelving unit with underframe, with 2 doors/with 2 shelf inserts white: /products/storage-shelves-and-shelving-units/39552910.txt
+- KALLAX shelving unit with underframe, with 2 doors/4 drawers/white stained oak effect: /products/storage-shelves-and-shelving-units/29552915.txt
+- KALLAX shelving unit with underframe, with 2 doors/4 drawers/white: /products/storage-shelves-and-shelving-units/79552913.txt
+- KALLAX shelving unit with underframe, with 2 doors/4 drawers/black-brown: /products/storage-shelves-and-shelving-units/59552914.txt
+- KALLAX shelving unit with underframe, white/white: /products/storage-shelves-and-shelving-units/89442641.txt
+- KALLAX shelving unit with underframe, white/white: /products/storage-shelves-and-shelving-units/79442694.txt
+- KALLAX shelving unit with underframe, white/white: /products/storage-shelves-and-shelving-units/59442666.txt
+- KALLAX shelving unit with underframe, white/white: /products/storage-shelves-and-shelving-units/49442676.txt
+- KALLAX shelving unit with underframe, white/white: /products/storage-shelves-and-shelving-units/29442615.txt
+- KALLAX shelving unit with underframe, white/white: /products/storage-shelves-and-shelving-units/09442720.txt
+- KALLAX shelving unit with underframe, white stained oak effect/white: /products/storage-shelves-and-shelving-units/99442674.txt
+- KALLAX shelving unit with underframe, white stained oak effect/white: /products/storage-shelves-and-shelving-units/89442721.txt
+- KALLAX shelving unit with underframe, white stained oak effect/white: /products/storage-shelves-and-shelving-units/89442655.txt
+- KALLAX shelving unit with underframe, white stained oak effect/white: /products/storage-shelves-and-shelving-units/59442628.txt
+- KALLAX shelving unit with underframe, white stained oak effect/white: /products/storage-shelves-and-shelving-units/39442686.txt
+- KALLAX shelving unit with underframe, white stained oak effect/white: /products/storage-shelves-and-shelving-units/19442710.txt
+- KALLAX shelving unit with underframe, white stained oak effect/black: /products/storage-shelves-and-shelving-units/99442711.txt
+- KALLAX shelving unit with underframe, white stained oak effect/black: /products/storage-shelves-and-shelving-units/79442627.txt
+- KALLAX shelving unit with underframe, white stained oak effect/black: /products/storage-shelves-and-shelving-units/59442685.txt
+- KALLAX shelving unit with underframe, white stained oak effect/black: /products/storage-shelves-and-shelving-units/49442718.txt
+- KALLAX shelving unit with underframe, white stained oak effect/black: /products/storage-shelves-and-shelving-units/39442672.txt
+- KALLAX shelving unit with underframe, white stained oak effect/black: /products/storage-shelves-and-shelving-units/19442654.txt
+- KALLAX shelving unit with underframe, white/black: /products/storage-shelves-and-shelving-units/99442693.txt
+- KALLAX shelving unit with underframe, white/black: /products/storage-shelves-and-shelving-units/79442665.txt
+- KALLAX shelving unit with underframe, white/black: /products/storage-shelves-and-shelving-units/69442675.txt
+- KALLAX shelving unit with underframe, white/black: /products/storage-shelves-and-shelving-units/29442719.txt
+- KALLAX shelving unit with underframe, white/black: /products/storage-shelves-and-shelving-units/29442620.txt
+- KALLAX shelving unit with underframe, white/black: /products/storage-shelves-and-shelving-units/09442640.txt
+- KALLAX shelving unit with underframe, high-gloss/white/white: /products/storage-shelves-and-shelving-units/99442645.txt
+- KALLAX shelving unit with underframe, high-gloss/white/white: /products/storage-shelves-and-shelving-units/79442689.txt
+- KALLAX shelving unit with underframe, high-gloss/white/white: /products/storage-shelves-and-shelving-units/09442621.txt
+- KALLAX shelving unit with underframe, high-gloss/white/black: /products/storage-shelves-and-shelving-units/89442622.txt
+- KALLAX shelving unit with underframe, high-gloss/white/black: /products/storage-shelves-and-shelving-units/79442646.txt
+- KALLAX shelving unit with underframe, high-gloss/white/black: /products/storage-shelves-and-shelving-units/59442690.txt
+- KALLAX shelving unit with underframe, dark green/black: /products/storage-shelves-and-shelving-units/99563581.txt
+- KALLAX shelving unit with underframe, dark green/black: /products/storage-shelves-and-shelving-units/19563580.txt
+- KALLAX shelving unit with underframe, black-brown/white: /products/storage-shelves-and-shelving-units/59442713.txt
+- KALLAX shelving unit with underframe, black-brown/white: /products/storage-shelves-and-shelving-units/49442643.txt
+- KALLAX shelving unit with underframe, black-brown/white: /products/storage-shelves-and-shelving-units/19442692.txt
+- KALLAX shelving unit with underframe, black-brown/white: /products/storage-shelves-and-shelving-units/09442678.txt
+- KALLAX shelving unit with underframe, black-brown/white: /products/storage-shelves-and-shelving-units/09442664.txt
+- KALLAX shelving unit with underframe, black-brown/white: /products/storage-shelves-and-shelving-units/09442616.txt
+- KALLAX shelving unit with underframe, black-brown/black: /products/storage-shelves-and-shelving-units/89442617.txt
+- KALLAX shelving unit with underframe, black-brown/black: /products/storage-shelves-and-shelving-units/79442712.txt
+- KALLAX shelving unit with underframe, black-brown/black: /products/storage-shelves-and-shelving-units/69442642.txt
+- KALLAX shelving unit with underframe, black-brown/black: /products/storage-shelves-and-shelving-units/39442691.txt
+- KALLAX shelving unit with underframe, black-brown/black: /products/storage-shelves-and-shelving-units/29442677.txt
+- KALLAX shelving unit with underframe, black-brown/black: /products/storage-shelves-and-shelving-units/29442663.txt
+- KALLAX shelving unit with 6 inserts, white stained oak effect: /products/storage-shelves-and-shelving-units/59278265.txt
+- KALLAX shelving unit with 6 inserts, white: /products/storage-shelves-and-shelving-units/29278262.txt
+- KALLAX shelving unit with 6 inserts, black-brown: /products/storage-shelves-and-shelving-units/89278259.txt
+- KALLAX shelving unit, with 4 drawers/with 2 shelf inserts white: /products/storage-shelves-and-shelving-units/79552951.txt
+- KALLAX shelving unit, with 4 drawers/with 2 shelf inserts white: /products/storage-shelves-and-shelving-units/19552893.txt
+- KALLAX shelving unit, with 4 drawers with 2 shelf inserts/wave shaped white: /products/storage-shelves-and-shelving-units/69552942.txt
+- KALLAX shelving unit, with 4 drawers/white stained oak effect: /products/storage-shelves-and-shelving-units/99552950.txt
+- KALLAX shelving unit, with 4 drawers/white: /products/storage-shelves-and-shelving-units/19552949.txt
+- KALLAX shelving unit, with 4 drawers white/light gray-blue wave shaped: /products/storage-shelves-and-shelving-units/09579968.txt
+- KALLAX shelving unit, with 4 drawers wave shaped/white: /products/storage-shelves-and-shelving-units/69552956.txt
+- KALLAX shelving unit, with 2 shelf inserts/white: /products/storage-shelves-and-shelving-units/39552905.txt
+- KALLAX shelving unit, with 2 doors with 4 drawers/wave shaped white: /products/storage-shelves-and-shelving-units/09552940.txt
+- KALLAX shelving unit, with 2 doors/with 2 shelf inserts white: /products/storage-shelves-and-shelving-units/79552908.txt
+- KALLAX shelving unit, with 2 doors/with 2 shelf inserts white: /products/storage-shelves-and-shelving-units/59552952.txt
+- KALLAX shelving unit, with 2 doors with 2 shelf inserts/wave shaped white: /products/storage-shelves-and-shelving-units/89552955.txt
+- KALLAX shelving unit, with 2 doors with 2 shelf inserts/wave shaped white: /products/storage-shelves-and-shelving-units/89552941.txt
+- KALLAX shelving unit, with 2 doors/wave shaped white: /products/storage-shelves-and-shelving-units/89563893.txt
+- KALLAX shelving unit, with 2 doors/black-brown: /products/storage-shelves-and-shelving-units/39552953.txt
+- KALLAX shelf unit with doors, white stained oak effect: /products/storage-shelves-and-shelving-units/89197423.txt
+- KALLAX shelf unit with doors, white stained oak effect: /products/storage-shelves-and-shelving-units/59197453.txt
+- KALLAX shelf unit with doors, white: /products/storage-shelves-and-shelving-units/99017186.txt
+- KALLAX shelf unit with doors, white: /products/storage-shelves-and-shelving-units/19278272.txt
+- KALLAX shelf unit with doors, high-gloss/white: /products/storage-shelves-and-shelving-units/89278297.txt
+- KALLAX shelf unit with doors, high-gloss/white: /products/storage-shelves-and-shelving-units/89278278.txt
+- KALLAX shelf unit with doors, black-brown: /products/storage-shelves-and-shelving-units/99017445.txt
+- KALLAX shelf unit with 8 inserts, white: /products/storage-shelves-and-shelving-units/69017475.txt
+- KALLAX shelf unit with 4 inserts, white/white stained oak effect: /products/storage-shelves-and-shelving-units/69227671.txt
+- KALLAX shelf unit with 4 inserts, white stained oak effect: /products/storage-shelves-and-shelving-units/49278256.txt
+- KALLAX shelf unit with 4 inserts, white stained oak effect: /products/storage-shelves-and-shelving-units/49197420.txt
+- KALLAX shelf unit with 4 inserts, white stained oak effect: /products/storage-shelves-and-shelving-units/29197572.txt
+- KALLAX shelf unit with 4 inserts, white stained oak effect: /products/storage-shelves-and-shelving-units/19197596.txt
+- KALLAX shelf unit with 4 inserts, white: /products/storage-shelves-and-shelving-units/79278250.txt
+- KALLAX shelf unit with 4 inserts, white: /products/storage-shelves-and-shelving-units/59278307.txt
+- KALLAX shelf unit with 4 inserts, white: /products/storage-shelves-and-shelving-units/39017486.txt
+- KALLAX shelf unit with 4 inserts, white: /products/storage-shelves-and-shelving-units/19278328.txt
+- KALLAX shelf unit with 4 inserts, white/glass: /products/storage-shelves-and-shelving-units/09573198.txt
+- KALLAX shelf unit with 4 inserts, high-gloss/white: /products/storage-shelves-and-shelving-units/89278301.txt
+- KALLAX shelf unit with 4 inserts, high-gloss/white: /products/storage-shelves-and-shelving-units/59278331.txt
+- KALLAX shelf unit with 4 inserts, high-gloss/white: /products/storage-shelves-and-shelving-units/29278323.txt
+- KALLAX shelf unit with 4 inserts, black-brown: /products/storage-shelves-and-shelving-units/79278325.txt
+- KALLAX shelf unit with 4 inserts, black-brown: /products/storage-shelves-and-shelving-units/29278304.txt
+- KALLAX shelf unit with 4 inserts, black-brown: /products/storage-shelves-and-shelving-units/19278253.txt
+- KALLAX shelf unit with 4 inserts, black-brown: /products/storage-shelves-and-shelving-units/09017483.txt
+- KALLAX shelf unit with 2 inserts, with 4 drawers/white stained oak effect: /products/storage-shelves-and-shelving-units/79197584.txt
+- KALLAX shelf unit with 2 inserts, with 4 drawers/white: /products/storage-shelves-and-shelving-units/79278293.txt
+- KALLAX shelf unit with 2 inserts, with 4 drawers/black-brown: /products/storage-shelves-and-shelving-units/39278290.txt
+- KALLAX shelf unit with 10 inserts, white stained oak effect: /products/storage-shelves-and-shelving-units/09197605.txt
+- KALLAX shelf unit with 10 inserts, white: /products/storage-shelves-and-shelving-units/09278338.txt
+- KALLAX shelf unit with 10 inserts, black-brown: /products/storage-shelves-and-shelving-units/69278335.txt
+- KALLAX shelf unit, white stained oak effect: /products/storage-shelves-and-shelving-units/90324509.txt
+- KALLAX shelf unit, white stained oak effect: /products/storage-shelves-and-shelving-units/60324520.txt
+- KALLAX shelf unit, white stained oak effect: /products/storage-shelves-and-shelving-units/40409935.txt
+- KALLAX shelf unit, white stained oak effect: /products/storage-shelves-and-shelving-units/40324516.txt
+- KALLAX shelf unit, white stained oak effect: /products/storage-shelves-and-shelving-units/10324513.txt
+- KALLAX shelf unit, white stained oak effect: /products/storage-shelves-and-shelving-units/00324518.txt
+- KALLAX shelf unit, white: /products/storage-shelves-and-shelving-units/90301555.txt
+- KALLAX shelf unit, white: /products/storage-shelves-and-shelving-units/80275887.txt
+- KALLAX shelf unit, white: /products/storage-shelves-and-shelving-units/70301537.txt
+- KALLAX Shelf unit, white: /products/storage-shelves-and-shelving-units/30275861.txt
+- KALLAX shelf unit, white: /products/storage-shelves-and-shelving-units/20301554.txt
+- KALLAX Shelf unit, white: /products/storage-shelves-and-shelving-units/20275814.txt
+- KALLAX Shelf unit, white: /products/storage-shelves-and-shelving-units/10409932.txt
+- KALLAX Shelf unit, white: /products/storage-shelves-and-shelving-units/00415599.txt
+- KALLAX Shelf unit, white: /products/storage-shelves-and-shelving-units/00275848.txt
+- KALLAX Shelf unit, high gloss white: /products/storage-shelves-and-shelving-units/50305739.txt
+- KALLAX Shelf unit, high gloss white: /products/storage-shelves-and-shelving-units/20305745.txt
+- KALLAX Shelf unit, high gloss white: /products/storage-shelves-and-shelving-units/10305741.txt
+- KALLAX shelf unit, dark green: /products/storage-shelves-and-shelving-units/40562079.txt
+- KALLAX shelf unit, black-brown: /products/storage-shelves-and-shelving-units/70309840.txt
+- KALLAX shelf unit, black-brown: /products/storage-shelves-and-shelving-units/70301542.txt
+- KALLAX Shelf unit, black-brown: /products/storage-shelves-and-shelving-units/60275812.txt
+- KALLAX Shelf unit, black-brown: /products/storage-shelves-and-shelving-units/40415601.txt
+- KALLAX shelf unit, black-brown: /products/storage-shelves-and-shelving-units/40311873.txt
+- KALLAX Shelf unit, black-brown: /products/storage-shelves-and-shelving-units/40275846.txt
+- KALLAX Shelf unit, black-brown: /products/storage-shelves-and-shelving-units/20409936.txt
+- KALLAX Shelf unit, black-brown: /products/storage-shelves-and-shelving-units/20275885.txt
+- KALLAX Shelf unit, black-brown: /products/storage-shelves-and-shelving-units/10275862.txt
+- KALLAX / LINNMON workstation, white: /products/storage-shelves-and-shelving-units/39481692.txt
+- KALLAX / LINNMON workstation, white: /products/storage-shelves-and-shelving-units/29481701.txt
+- KALLAX / LINNMON workstation, white: /products/storage-shelves-and-shelving-units/09481698.txt
+- KALLAX / LINNMON workstation, black/black-brown: /products/storage-shelves-and-shelving-units/99481694.txt
+- KALLAX / LINNMON workstation, black/black-brown: /products/storage-shelves-and-shelving-units/59481691.txt
+- KALLAX / LINNMON workstation, black/black-brown: /products/storage-shelves-and-shelving-units/49481700.txt
+- KALLAX / LAGKAPTEN workstation, white: /products/storage-shelves-and-shelving-units/79481652.txt
+- KALLAX / LAGKAPTEN workstation, white: /products/storage-shelves-and-shelving-units/69481681.txt
+- KALLAX / LAGKAPTEN workstation, white: /products/storage-shelves-and-shelving-units/59481653.txt
+- KALLAX / LAGKAPTEN workstation, white: /products/storage-shelves-and-shelving-units/29481659.txt
+- KALLAX / LAGKAPTEN workstation, white: /products/storage-shelves-and-shelving-units/09481684.txt
+- KALLAX / LAGKAPTEN workstation, white: /products/storage-shelves-and-shelving-units/09481679.txt
+- KALLAX / LAGKAPTEN workstation, black/black-brown: /products/storage-shelves-and-shelving-units/99481651.txt
+- KALLAX / LAGKAPTEN workstation, black/black-brown: /products/storage-shelves-and-shelving-units/89481680.txt
+- KALLAX / LAGKAPTEN workstation, black/black-brown: /products/storage-shelves-and-shelving-units/49481658.txt
+- KALLAX / LAGKAPTEN workstation, black/black-brown: /products/storage-shelves-and-shelving-units/29481683.txt
+- KALLAX / LAGKAPTEN workstation, black/black-brown: /products/storage-shelves-and-shelving-units/29481678.txt
+- KALLAX / LAGKAPTEN workstation, black/black-brown: /products/storage-shelves-and-shelving-units/09481655.txt
+- KALLAX insert with pegboard, white: /products/storage-shelves-and-shelving-units/20416197.txt
+- KALLAX insert with mirror door: /products/storage-shelves-and-shelving-units/00423721.txt
+- KALLAX insert with lockable door, white: /products/storage-shelves-and-shelving-units/40544274.txt
+- KALLAX insert with glass door, white: /products/storage-shelves-and-shelving-units/70340299.txt
+- KALLAX insert with door, white stained oak effect: /products/storage-shelves-and-shelving-units/30324507.txt
+- KALLAX Insert with door, white: /products/storage-shelves-and-shelving-units/20278167.txt
+- KALLAX insert with door, wave shaped/white: /products/storage-shelves-and-shelving-units/10508507.txt
+- KALLAX insert with door, wave shaped/pale turquoise: /products/storage-shelves-and-shelving-units/60496738.txt
+- KALLAX insert with door, wave shaped/pale pink: /products/storage-shelves-and-shelving-units/40496739.txt
+- KALLAX insert with door, wave shaped/light gray-blue: /products/storage-shelves-and-shelving-units/60592805.txt
+- KALLAX insert with door, wave shaped/dark gray: /products/storage-shelves-and-shelving-units/20507710.txt
+- KALLAX insert with door, wave shaped/blue: /products/storage-shelves-and-shelving-units/50562149.txt
+- KALLAX insert with door, wave shaped/blackboard surface: /products/storage-shelves-and-shelving-units/80508504.txt
+- KALLAX insert with door, wave shaped/beige: /products/storage-shelves-and-shelving-units/30562150.txt
+- KALLAX Insert with door, high gloss white: /products/storage-shelves-and-shelving-units/40314640.txt
+- KALLAX insert with door, groove milled/white: /products/storage-shelves-and-shelving-units/90561727.txt
+- KALLAX insert with door, groove milled/gray: /products/storage-shelves-and-shelving-units/20562136.txt
+- KALLAX Insert with door, black-brown: /products/storage-shelves-and-shelving-units/60278170.txt
+- KALLAX insert with 4 shelves, white stained/oak effect: /products/storage-shelves-and-shelving-units/50601004.txt
+- KALLAX insert with 4 shelves, white: /products/storage-shelves-and-shelving-units/40423719.txt
+- KALLAX insert with 4 shelves, pine: /products/storage-shelves-and-shelving-units/20580588.txt
+- KALLAX insert with 4 shelves, black-brown: /products/storage-shelves-and-shelving-units/70601003.txt
+- KALLAX insert with 2 drawers, white stained oak effect: /products/storage-shelves-and-shelving-units/50324511.txt
+- KALLAX insert with 2 drawers, white: /products/storage-shelves-and-shelving-units/70286645.txt
+- KALLAX insert with 2 drawers, wave shaped/white: /products/storage-shelves-and-shelving-units/90508508.txt
+- KALLAX insert with 2 drawers, wave shaped/pale turquoise: /products/storage-shelves-and-shelving-units/60496743.txt
+- KALLAX insert with 2 drawers, wave shaped/pale pink: /products/storage-shelves-and-shelving-units/40496744.txt
+- KALLAX insert with 2 drawers, wave shaped/light gray-blue: /products/storage-shelves-and-shelving-units/10592803.txt
+- KALLAX insert with 2 drawers, wave shaped/dark gray: /products/storage-shelves-and-shelving-units/80507712.txt
+- KALLAX insert with 2 drawers, wave shaped/blue: /products/storage-shelves-and-shelving-units/70562167.txt
+- KALLAX insert with 2 drawers, wave shaped/beige: /products/storage-shelves-and-shelving-units/90562166.txt
+- KALLAX Insert with 2 drawers, high gloss white: /products/storage-shelves-and-shelving-units/00314642.txt
+- KALLAX insert with 2 drawers, black-brown: /products/storage-shelves-and-shelving-units/90286649.txt
+- KALLAX insert with 1 shelf, white stained/oak effect: /products/storage-shelves-and-shelving-units/90601021.txt
+- KALLAX insert with 1 shelf, white: /products/storage-shelves-and-shelving-units/20423720.txt
+- KALLAX insert with 1 shelf, pine: /products/storage-shelves-and-shelving-units/40580587.txt
+- KALLAX insert with 1 shelf, black-brown: /products/storage-shelves-and-shelving-units/70601022.txt
+- KALLAX insert for bottles, white: /products/storage-shelves-and-shelving-units/80401292.txt
+- KALLAX cat house, white: /products/storage-shelves-and-shelving-units/10416211.txt
+- KALLAX base on legs, white: /products/storage-shelves-and-shelving-units/90495596.txt
+- KALLAX base on legs, white: /products/storage-shelves-and-shelving-units/40501892.txt
+- KALLAX base on legs, black: /products/storage-shelves-and-shelving-units/30495599.txt
+- KALLAX base on legs, black: /products/storage-shelves-and-shelving-units/00501889.txt
+- JÄTTESTA storage combination, white/light bamboo: /products/storage-shelves-and-shelving-units/89497214.txt
+- JÄTTESTA storage combination, white/light bamboo: /products/storage-shelves-and-shelving-units/59497215.txt
+- JÄTTESTA storage combination, white/light bamboo: /products/storage-shelves-and-shelving-units/09497213.txt
+- JÄTTESTA storage combination, black: /products/storage-shelves-and-shelving-units/89494828.txt
+- JÄTTESTA storage combination, black: /products/storage-shelves-and-shelving-units/69494829.txt
+- JÄTTESTA storage combination, black: /products/storage-shelves-and-shelving-units/09494832.txt
+- JÄTTESTA shelf unit, white/light bamboo: /products/storage-shelves-and-shelving-units/70538846.txt
+- JÄTTESTA shelf unit, white/light bamboo: /products/storage-shelves-and-shelving-units/10538849.txt
+- JÄTTESTA shelf unit, black: /products/storage-shelves-and-shelving-units/80512959.txt
+- JÄTTESTA shelf unit, black: /products/storage-shelves-and-shelving-units/00521905.txt
+- HAVSTA storage combination w/glass doors, white: /products/storage-shelves-and-shelving-units/49534893.txt
+- HAVSTA shelving unit with base, white: /products/storage-shelves-and-shelving-units/19534644.txt
+- HAVSTA shelving unit with base, gray-beige: /products/storage-shelves-and-shelving-units/79534641.txt
+- HAVSTA shelving unit with base, black: /products/storage-shelves-and-shelving-units/39534643.txt
+- HAVSTA shelf unit, white: /products/storage-shelves-and-shelving-units/60529277.txt
+- HAVSTA shelf unit, gray-beige: /products/storage-shelves-and-shelving-units/50529273.txt
+- HAVSTA shelf unit, black: /products/storage-shelves-and-shelving-units/00529275.txt
+- HAVSTA base frame, white: /products/storage-shelves-and-shelving-units/90539656.txt
+- HAVSTA base frame, white: /products/storage-shelves-and-shelving-units/40539649.txt
+- HAVSTA base frame, black: /products/storage-shelves-and-shelving-units/80539647.txt
+- HAVSTA base frame, black: /products/storage-shelves-and-shelving-units/40539654.txt
+- FJÄLLBO shelf unit, black: /products/storage-shelves-and-shelving-units/70342199.txt
+- FJÄLLBO shelf unit, black: /products/storage-shelves-and-shelving-units/70339291.txt
+- FJÄLLBO Shelf unit, black: /products/storage-shelves-and-shelving-units/50339292.txt
+- FJÄLLBO shelf unit, black: /products/storage-shelves-and-shelving-units/20473593.txt
+- EKENABBEN open shelf unit, aspen/white: /products/storage-shelves-and-shelving-units/80487813.txt
+- EKENABBEN open shelf unit, aspen/white: /products/storage-shelves-and-shelving-units/10487816.txt
+- EKENABBEN open shelf unit, aspen/blue: /products/storage-shelves-and-shelving-units/90596393.txt
+- EKENABBEN open shelf unit, aspen/blue: /products/storage-shelves-and-shelving-units/40596395.txt
+- BAGGEBO shelf unit, metal/white: /products/storage-shelves-and-shelving-units/50481172.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

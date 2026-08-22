@@ -1,0 +1,28 @@
+# @CATEGORY
+Name: Futons
+ProductCount: 6
+
+# @FILTERS
+PriceRange: $50.00 - $240.00
+Materials: Comfort material: Polyurethane foam 1.7 lb/cu.ft., Core filling: Polyurethane foam 1.5 lb/cu.ft., Lining/ Lining, underside: 100 % polypropylene, Mattress base: Polyurethane foam 1.7 lb/cu.ft., Mattress cover: 76 % cotton, 24 %polyester, Mattress outer cover: 100 %polyester, Pocket spring unit: Steel, Quilting: 100 % polypropylene, 70 % viscose, 30 % polyester, Quilting: 70 % viscose, 30 % polyester, Smolder resistant lining: 70 % viscose, 30 % polyester
+Brand: IKEA
+
+# @ITEMS
+- NYHAMN Pocket spring mattress, firm: /products/futons/00349627.txt
+- NYHAMN Foam mattress, firm: /products/futons/40349625.txt
+- LYCKSELE LÖVÅS Mattress: /products/futons/20102074.txt
+- KLAGSHAMN mattress cover: /products/futons/80586262.txt
+- KLAGSHAMN back cushion, Skiftebo dark gray: /products/futons/49444312.txt
+- KLAGSHAMN back cushion, Skiftebo blue: /products/futons/99444319.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

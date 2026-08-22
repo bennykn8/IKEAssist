@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BESTÅ Frame, white
+SKU: 10245846
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/besta-frame-white-10245846/
+Category: BESTÅ frames
+Description: , 47 1/4x15 3/4x25 1/4". You can choose to stand the frame on the floor or mount it on the wall to free up floor space. If you want to organize inside you can complement with BESTÅ interior fittings.
+
+# @OFFER
+Price: 75
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Bottom panel/ Side panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Plastic edging, Back panel: Fiberboard, Paper foil, Plastic foil
+Features: Must be completed with BESTÅ suspension rail if you choose to mount the frame on the wall. This frame requires 2 suspension rails, sold separately. | The max load for a wall-hung frame depends on the wall material. | 47¼" wide frames require 5 legs, or 4 legs and 1 BESTÅ supporting leg.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/besta-frame-white__0376959_pe513544_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

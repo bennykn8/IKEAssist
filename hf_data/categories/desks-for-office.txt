@@ -1,0 +1,28 @@
+# @CATEGORY
+Name: Desks for office
+ProductCount: 6
+
+# @FILTERS
+PriceRange: $50.99 - $389.99
+Materials: Bracket/ Hook/ Cross rail/ Inside leg/ Leg/ Connecting plate/ Underside foot/ Upper side foot/ Middle rail/ Side rail/ Housing: Steel, Epoxy/polyester powder coating, Cable management: 70 % rubber, 30 % polyester, Cable management: Felt, Crossbar/ Support/ Column/ Foot/ Housing/ Washer: Steel, Epoxy/polyester powder coating, Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Acrylic paint, Plastic edging, Particleboard, Ash veneer, Stain, Clear acrylic lacquer, Ash veneer, Stain, Clear acrylic lacquer, Paper foil, Total composition: 100 % polyester
+Brand: IKEA
+
+# @ITEMS
+- RODULF underframe sit/stand f table top, electric/white: /products/desks-for-office/40497376.txt
+- RODULF tabletop, white: /products/desks-for-office/00565503.txt
+- RODULF desk sit/stand, electric/white: /products/desks-for-office/19581796.txt
+- MITTZON desk, black stained ash veneer/black white: /products/desks-for-office/69591378.txt
+- MITTZON desk, black stained ash veneer/black white: /products/desks-for-office/69591340.txt
+- MITTZON desk, black stained ash veneer/black white: /products/desks-for-office/09591376.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

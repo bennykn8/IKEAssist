@@ -1,0 +1,81 @@
+# @CATEGORY
+Name: Desks for home
+ProductCount: 59
+
+# @FILTERS
+PriceRange: $24.99 - $529.00
+Materials: Back panel/ Front rail: Particleboard, Paper foil, Plastic edging, Back panel: Layer-glued wood veneer, Oak veneer, Stain, Tinted clear acrylic lacquer, Oak veneer, Stain, Tinted clear acrylic lacquer, Back panel: Layer-glued wood veneer, Oak veneer, Tinted clear acrylic lacquer, Oak veneer, Tinted clear acrylic lacquer, Back panel: Particleboard, Beech veneer, Stain, Clear acrylic lacquer, Beech veneer, Stain, Clear acrylic lacquer, Beech veneer, Stain, Paper edging, Clear acrylic lacquer, Back panel: Particleboard, Melamine foil, Acrylic paint, Melamine foil, Acrylic paint, Plastic edging, Paper edging, Base plate/ Reinforcement/ Tube/ Mounting plate/ Inside tube/ Outer tube/ Tube/ Mounting bracket: Steel, Epoxy/polyester powder coating, Bottom panel: Particleboard, Paper foil, Paper foil, Plastic edging, Cable management/ Back rail/ Shelf/ Front: Particleboard, Paper foil, Plastic edging, Plastic edging, Casters: Solid birch, Stain, Clear acrylic lacquer, Center support beam/ Side rail: Steel, Epoxy/polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- VITTSJÖ Laptop table, white, glass: /products/desks-for-home/40303444.txt
+- VEBJÖRN desk, beige: /products/desks-for-home/60460838.txt
+- TORALD desk, white: /products/desks-for-home/90493955.txt
+- TONSTAD desk, off-white: /products/desks-for-home/80538209.txt
+- TONSTAD desk, off-white: /products/desks-for-home/70538200.txt
+- TONSTAD desk, off-white: /products/desks-for-home/30538202.txt
+- TONSTAD desk, oak veneer: /products/desks-for-home/60538205.txt
+- TONSTAD desk, oak veneer: /products/desks-for-home/40538206.txt
+- TONSTAD desk, oak veneer: /products/desks-for-home/30538198.txt
+- TONSTAD desk, brown stained oak veneer: /products/desks-for-home/20538212.txt
+- TONSTAD desk, brown stained oak veneer: /products/desks-for-home/20538207.txt
+- TONSTAD desk, brown stained oak veneer: /products/desks-for-home/10538203.txt
+- SEGRARE desk sit/stand, dark gray: /products/desks-for-home/40534703.txt
+- RIDSPÖ desk, oak: /products/desks-for-home/00485224.txt
+- RIDSPÖ desk, anthracite: /products/desks-for-home/20538580.txt
+- MULLSJÖ desk, oak veneer: /products/desks-for-home/30553240.txt
+- MITTZON laptop table with casters, black: /products/desks-for-home/00515594.txt
+- MITTPLAN desk, white: /products/desks-for-home/10549428.txt
+- MICKE desk, white/anthracite: /products/desks-for-home/10489839.txt
+- MICKE desk, white: /products/desks-for-home/90214308.txt
+- MICKE desk, white: /products/desks-for-home/80213074.txt
+- MICKE Desk, white: /products/desks-for-home/30213076.txt
+- MICKE Desk, black-brown: /products/desks-for-home/60244745.txt
+- MICKE Desk, black-brown: /products/desks-for-home/20244747.txt
+- MICKE Desk, black-brown, 41 3/8x19 5/8". Learn more!: /products/desks-for-home/10244743.txt
+- MICKE desk, anthracite/red: /products/desks-for-home/80489850.txt
+- MICKE Corner workstation, white: /products/desks-for-home/50250713.txt
+- MICKE Corner workstation, black-brown: /products/desks-for-home/50244741.txt
+- LOMMARP desk, light beige: /products/desks-for-home/90442824.txt
+- LISABO Desk, ash veneer: /products/desks-for-home/30299070.txt
+- LILLÅSEN desk, bamboo: /products/desks-for-home/90278277.txt
+- LAGKAPTEN / ALEX desk, white: /products/desks-for-home/69607671.txt
+- LAGKAPTEN / ALEX desk, white: /products/desks-for-home/59607681.txt
+- KALLAX desk, white stained/oak effect: /products/desks-for-home/90585101.txt
+- KALLAX desk, white: /products/desks-for-home/30582445.txt
+- KALLAX desk, black-brown: /products/desks-for-home/00582442.txt
+- IDANÄS desk, white: /products/desks-for-home/10514155.txt
+- IDANÄS desk, brown: /products/desks-for-home/60514153.txt
+- HEMNES desk with 2 drawers, white stain/light brown: /products/desks-for-home/30534954.txt
+- HEMNES desk with 2 drawers, black-brown/light brown: /products/desks-for-home/50534953.txt
+- HEMNES desk, white stain/light brown: /products/desks-for-home/20535044.txt
+- HEMNES desk, black-brown/light brown: /products/desks-for-home/30535048.txt
+- HEMNES Desk, black-brown: /products/desks-for-home/40339792.txt
+- HAUGA desk, white: /products/desks-for-home/90477677.txt
+- HAUGA desk, gray: /products/desks-for-home/60477674.txt
+- GLADHÖJDEN desk sit/stand, white: /products/desks-for-home/30493939.txt
+- GLADHÖJDEN desk sit/stand, light gray/anthracite: /products/desks-for-home/20541610.txt
+- FRYKSÅS desk, rattan: /products/desks-for-home/60574104.txt
+- FJÄLLBO Laptop table, black: /products/desks-for-home/30339735.txt
+- FJÄLLBO desk, black: /products/desks-for-home/90587690.txt
+- ALEX desk, white: /products/desks-for-home/80483438.txt
+- ALEX desk, white: /products/desks-for-home/10473555.txt
+- ALEX desk, gray-turquoise: /products/desks-for-home/80483805.txt
+- ALEX desk, gray-turquoise: /products/desks-for-home/20483808.txt
+- ALEX desk, dark gray: /products/desks-for-home/80588888.txt
+- ALEX desk, dark gray: /products/desks-for-home/40588885.txt
+- ALEX desk, black-brown: /products/desks-for-home/50473563.txt
+- ALEX desk, black-brown: /products/desks-for-home/00483442.txt
+- ALEX desk, black-blue: /products/desks-for-home/70590472.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

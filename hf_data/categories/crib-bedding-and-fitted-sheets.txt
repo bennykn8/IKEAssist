@@ -1,0 +1,40 @@
+# @CATEGORY
+Name: Crib bedding & fitted sheets
+ProductCount: 18
+
+# @FILTERS
+PriceRange: $4.99 - $34.99
+Materials: 100 % cotton, 54 % cotton, 46 % viscose/rayon, 80 % cotton, 20 % viscose/rayon
+Brand: IKEA
+
+# @ITEMS
+- RÖDHAKE duvet cover 1 pillowcase f crib, rabbit pattern/white/beige: /products/crib-bedding-and-fitted-sheets/30440173.txt
+- ÖGONLOCKSMAL 3-piece bedlinen set for crib, flower white/yellow: /products/crib-bedding-and-fitted-sheets/40598525.txt
+- LENAST duvet cover 1 pillowcase f crib, white: /products/crib-bedding-and-fitted-sheets/30492303.txt
+- LENAST crib fitted sheet, dotted/moon: /products/crib-bedding-and-fitted-sheets/20457606.txt
+- LEN duvet cover 1 pillowcase f crib: /products/crib-bedding-and-fitted-sheets/20488943.txt
+- LEN crib fitted sheet, white/pink: /products/crib-bedding-and-fitted-sheets/20320190.txt
+- LEN crib fitted sheet, white: /products/crib-bedding-and-fitted-sheets/00130879.txt
+- LEN crib fitted sheet, light blue: /products/crib-bedding-and-fitted-sheets/00427106.txt
+- GULDVÄVARE duvet cover 1 pillowcase f crib, white/floral pattern: /products/crib-bedding-and-fitted-sheets/90573631.txt
+- GULDVÄVARE duvet cover 1 pillowcase f crib, blue/white floral pattern: /products/crib-bedding-and-fitted-sheets/00573635.txt
+- GULDVÄVARE crib fitted sheet, dark yellow/blue: /products/crib-bedding-and-fitted-sheets/50573652.txt
+- GULDVÄVARE 3-piece bedlinen set for crib, pale pink/beige: /products/crib-bedding-and-fitted-sheets/60588587.txt
+- GULDVÄVARE 3-piece bedlinen set for crib, dark yellow/beige: /products/crib-bedding-and-fitted-sheets/20530287.txt
+- GRÖNFINK duvet cover 1 pillowcase f crib, multicolor/stripe: /products/crib-bedding-and-fitted-sheets/60572379.txt
+- GRÖNFINK duvet cover 1 pillowcase f crib, multicolor: /products/crib-bedding-and-fitted-sheets/00572377.txt
+- GRÖNFINK crib fitted sheet, white/tree pattern: /products/crib-bedding-and-fitted-sheets/80572383.txt
+- GRÖNFINK 3-piece bedlinen set for crib, green/turquoise, 27 ½x: /products/crib-bedding-and-fitted-sheets/10572367.txt
+- BARNDRÖM duvet cover 1 pillowcase f crib, heart pattern/white red: /products/crib-bedding-and-fitted-sheets/20595900.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

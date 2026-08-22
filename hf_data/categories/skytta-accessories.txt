@@ -1,0 +1,48 @@
+# @CATEGORY
+Name: SKYTTA accessories
+ProductCount: 26
+
+# @FILTERS
+PriceRange: $30.00 - $140.00
+Materials: Aluminum, Anodized, Aluminum, Anodized, Acrylic coating, Cover strip: Aluminum, Anodized, Cover strip: Aluminum, Anodized, Acrylic coating, Fiberboard, Plastic foil, Particleboard, Paper foil, Paper edging, Solid pine, Steel, Acetal plastic, Reinforced polyamide, Galvanized, Support rail: Solid pine, Stain
+Brand: IKEA
+
+# @ITEMS
+- SKYTTA top cover panel, paintable beige: /products/skytta-accessories/20500068.txt
+- SKYTTA stop bar, 3 tracks, set of 3, white: /products/skytta-accessories/80513237.txt
+- SKYTTA stop bar, 2 tracks, set of 2, white: /products/skytta-accessories/00513236.txt
+- SKYTTA sliding door frame, white: /products/skytta-accessories/60497728.txt
+- SKYTTA sliding door frame, white: /products/skytta-accessories/50497738.txt
+- SKYTTA sliding door frame, white: /products/skytta-accessories/10497735.txt
+- SKYTTA sliding door frame, white: /products/skytta-accessories/00497731.txt
+- SKYTTA sliding door frame, black: /products/skytta-accessories/80497732.txt
+- SKYTTA sliding door frame, black: /products/skytta-accessories/80497727.txt
+- SKYTTA sliding door frame, black: /products/skytta-accessories/70497737.txt
+- SKYTTA sliding door frame, black: /products/skytta-accessories/40497734.txt
+- SKYTTA sliding door frame, aluminum: /products/skytta-accessories/90497736.txt
+- SKYTTA sliding door frame, aluminum: /products/skytta-accessories/60497733.txt
+- SKYTTA sliding door frame, aluminum: /products/skytta-accessories/40497729.txt
+- SKYTTA sliding door frame, aluminum: /products/skytta-accessories/00497726.txt
+- SKYTTA rail for sliding door frame, 3 tracks white: /products/skytta-accessories/00512642.txt
+- SKYTTA rail for sliding door frame, 3 tracks black: /products/skytta-accessories/80512643.txt
+- SKYTTA rail for sliding door frame, 3 tracks aluminum color: /products/skytta-accessories/70467085.txt
+- SKYTTA rail for sliding door frame, 2 tracks white: /products/skytta-accessories/40512640.txt
+- SKYTTA rail for sliding door frame, 2 tracks black: /products/skytta-accessories/20512641.txt
+- SKYTTA rail for sliding door frame, 2 tracks aluminum color: /products/skytta-accessories/30500063.txt
+- SKYTTA hardware package for middle door: /products/skytta-accessories/60500066.txt
+- SKYTTA Hardware pack for double track rail: /products/skytta-accessories/10500064.txt
+- SKYTTA hardware pack f triple track rail: /products/skytta-accessories/80500065.txt
+- SKYTTA ceiling height reducer, 3 tracks: /products/skytta-accessories/00511096.txt
+- SKYTTA ceiling height reducer, 2 tracks: /products/skytta-accessories/40500067.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

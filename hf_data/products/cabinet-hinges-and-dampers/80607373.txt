@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: UTRUSTA hinge for kitchen corner cabinet, with built-in damper, 95 °
+SKU: 80607373
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/utrusta-hinge-for-kitchen-corner-cabinet-with-built-in-damper-80607373/
+Category: Cabinet hinges & dampers
+Description: How do you want your kitchen to look and work? In order to get the right work flow and to use the space efficiently, the hinges are important details. Whatever solutions you want, IKEA has hinges that...
+
+# @OFFER
+Price: 16
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Nickel plated
+Features: Fits METOD corner base cabinet, 50⅜x26¾". | Fits SEKTION corner base cabinet, 50x26". | Screws included.
+Care: Wipe dry with a clean cloth. | Wipe clean with a soft cloth dampened in water.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/utrusta-hinge-for-kitchen-corner-cabinet-with-built-in-damper__1397104_pe967501_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

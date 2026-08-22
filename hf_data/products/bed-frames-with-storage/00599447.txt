@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MALM storage bed, dark brown veneer, Full
+SKU: 00599447
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/malm-storage-bed-dark-brown-veneer-00599447/
+Category: Bed frames with storage
+Description: This bed gives you spacious storage without taking up more floor space. Simply flip up the bed base and hide your things inside. Place it freestanding or with the headboard against a wall.
+
+# @OFFER
+Price: 459
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Head/foot board: Particleboard, Fiberboard, Honeycomb structure paper filling (min. 70% recycled), Ash veneer, Stain, Clear acrylic lacquer, Printed and embossed acrylic paint, Plastic edging, Bedside: Particleboard, Fiberboard, Honeycomb structure paper filling (min. 70% recycled), Ash veneer, Stain, Clear acrylic lacquer, Printed and embossed acrylic paint, Paper foil, Plastic edging, Bed base: Steel, Epoxy/polyester powder coating
+Features: Mattress and bedlinens for the cot are sold separately. | Center support beam and slatted bed base are included.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/malm-storage-bed-dark-brown-veneer__1364768_pe956024_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

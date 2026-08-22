@@ -1,0 +1,118 @@
+# @CATEGORY
+Name: BESTÅ doors & drawer fronts
+ProductCount: 96
+
+# @FILTERS
+PriceRange: $10.00 - $75.00
+Materials: Edge: Plastic edging (min. 50% recycled), Fiberboard, Birch veneer, Clear acrylic lacquer, Fiberboard, Oak veneer, Clear acrylic lacquer, Fiberboard, Oak veneer, Stain, Tinted clear acrylic lacquer, Oak veneer, Fiberboard, Paper foil, Plastic edging, Fiberboard, Stain, Clear acrylic lacquer, Oak veneer, Frame: Aluminium (min. 70% recycled), Aluminium (min. 70% recycled), Epoxy/polyester powder coating, Frame: Aluminum, Epoxy/polyester powder coating, Front: Fiberboard, Acrylic paint, Front: Fiberboard, Paper foil, Plastic edging
+Brand: IKEA
+
+# @ITEMS
+- SUTTERVIKEN drawer front, white: /products/bestå-doors-and-drawer-fronts/10472891.txt
+- SUTTERVIKEN door, white: /products/bestå-doors-and-drawer-fronts/30468237.txt
+- SUTTERVIKEN door/drawer front, white: /products/bestå-doors-and-drawer-fronts/30472890.txt
+- SMEVIKEN drawer front, white: /products/bestå-doors-and-drawer-fronts/60472879.txt
+- SMEVIKEN door, white: /products/bestå-doors-and-drawer-fronts/10468243.txt
+- SMEVIKEN door/drawer front, white: /products/bestå-doors-and-drawer-fronts/80472878.txt
+- SINDVIK glass door, white stained oak effect/clear glass: /products/bestå-doors-and-drawer-fronts/50296315.txt
+- SINDVIK glass door, white stained oak effect/clear glass: /products/bestå-doors-and-drawer-fronts/10296317.txt
+- SINDVIK glass door, white/clear glass: /products/bestå-doors-and-drawer-fronts/90291858.txt
+- SINDVIK glass door, white/clear glass: /products/bestå-doors-and-drawer-fronts/80291854.txt
+- SINDVIK glass door, dark gray/clear glass: /products/bestå-doors-and-drawer-fronts/80538803.txt
+- SINDVIK glass door, dark gray/clear glass: /products/bestå-doors-and-drawer-fronts/10538806.txt
+- SINDVIK Glass door, black-brown, clear glass: /products/bestå-doors-and-drawer-fronts/40296311.txt
+- SINDVIK Glass door, black-brown, clear glass: /products/bestå-doors-and-drawer-fronts/00296313.txt
+- SELSVIKEN Drawer front, patterned high gloss brown: /products/bestå-doors-and-drawer-fronts/00296351.txt
+- SELSVIKEN Drawer front, high gloss white: /products/bestå-doors-and-drawer-fronts/10291635.txt
+- SELSVIKEN drawer front, high gloss dark olive-green: /products/bestå-doors-and-drawer-fronts/60490717.txt
+- SELSVIKEN Drawer front, high gloss black: /products/bestå-doors-and-drawer-fronts/40291629.txt
+- SELSVIKEN drawer front, high gloss beige: /products/bestå-doors-and-drawer-fronts/70294867.txt
+- SELSVIKEN door, high gloss white: /products/bestå-doors-and-drawer-fronts/80291632.txt
+- SELSVIKEN door, high gloss dark olive-green: /products/bestå-doors-and-drawer-fronts/20490700.txt
+- SELSVIKEN Door, high gloss black: /products/bestå-doors-and-drawer-fronts/00291626.txt
+- SELSVIKEN Door, high gloss beige: /products/bestå-doors-and-drawer-fronts/60298111.txt
+- SELSVIKEN Door/drawer front, high gloss white: /products/bestå-doors-and-drawer-fronts/20291630.txt
+- SELSVIKEN door/drawer front, high gloss dark olive-green: /products/bestå-doors-and-drawer-fronts/90490706.txt
+- SELSVIKEN Door/drawer front, high gloss black: /products/bestå-doors-and-drawer-fronts/50291624.txt
+- SELSVIKEN door/drawer front, high gloss beige: /products/bestå-doors-and-drawer-fronts/90294866.txt
+- RIKSVIKEN drawer front, light bronze effect: /products/bestå-doors-and-drawer-fronts/70488177.txt
+- RIKSVIKEN door, light bronze effect: /products/bestå-doors-and-drawer-fronts/70441566.txt
+- RIKSVIKEN door/drawer front, light bronze effect: /products/bestå-doors-and-drawer-fronts/90488176.txt
+- OSTVIK glass door, white/clear glass: /products/bestå-doors-and-drawer-fronts/80469654.txt
+- OSTVIK glass door, white/clear glass: /products/bestå-doors-and-drawer-fronts/10472706.txt
+- MÖRTVIKEN door, white: /products/bestå-doors-and-drawer-fronts/50490826.txt
+- MÖRTVIKEN door, white: /products/bestå-doors-and-drawer-fronts/20490823.txt
+- MÖRTVIKEN door, dark gray: /products/bestå-doors-and-drawer-fronts/80538822.txt
+- MÖRTVIKEN door, dark gray: /products/bestå-doors-and-drawer-fronts/40538819.txt
+- MÖRTVIKEN door, black: /products/bestå-doors-and-drawer-fronts/60497035.txt
+- MÖRTVIKEN door, black: /products/bestå-doors-and-drawer-fronts/40490817.txt
+- LAXVIKEN Drawer front, white: /products/bestå-doors-and-drawer-fronts/20341989.txt
+- LAXVIKEN door, white: /products/bestå-doors-and-drawer-fronts/90291698.txt
+- LAXVIKEN door/drawer front, white: /products/bestå-doors-and-drawer-fronts/80341986.txt
+- LAPPVIKEN drawer front, white stained oak effect: /products/bestå-doors-and-drawer-fronts/30291696.txt
+- LAPPVIKEN Drawer front, white: /products/bestå-doors-and-drawer-fronts/10291678.txt
+- LAPPVIKEN drawer front, dark gray: /products/bestå-doors-and-drawer-fronts/50538814.txt
+- LAPPVIKEN Drawer front, black-brown: /products/bestå-doors-and-drawer-fronts/40291672.txt
+- LAPPVIKEN door, white stained oak effect: /products/bestå-doors-and-drawer-fronts/40291691.txt
+- LAPPVIKEN Door, white: /products/bestå-doors-and-drawer-fronts/50291676.txt
+- LAPPVIKEN door/drawer front, white stained oak effect: /products/bestå-doors-and-drawer-fronts/90291684.txt
+- LAPPVIKEN Door/drawer front, white: /products/bestå-doors-and-drawer-fronts/00291674.txt
+- LAPPVIKEN door/drawer front, dark gray: /products/bestå-doors-and-drawer-fronts/10538811.txt
+- LAPPVIKEN Door/drawer front, black-brown: /products/bestå-doors-and-drawer-fronts/40291667.txt
+- LAPPVIKEN door, dark gray: /products/bestå-doors-and-drawer-fronts/50538809.txt
+- LAPPVIKEN door, black-brown: /products/bestå-doors-and-drawer-fronts/80291670.txt
+- KALLVIKEN Drawer front, dark gray concrete effect: /products/bestå-doors-and-drawer-fronts/30425988.txt
+- KALLVIKEN Door/drawer front, dark gray concrete effect: /products/bestå-doors-and-drawer-fronts/50425987.txt
+- KALLVIKEN Door, dark gray concrete effect: /products/bestå-doors-and-drawer-fronts/10364523.txt
+- HEDEVIKEN drawer front, oak veneer: /products/bestå-doors-and-drawer-fronts/80491711.txt
+- HEDEVIKEN drawer front, dark brown stained oak veneer: /products/bestå-doors-and-drawer-fronts/40491708.txt
+- HEDEVIKEN door, oak veneer: /products/bestå-doors-and-drawer-fronts/70491698.txt
+- HEDEVIKEN door/drawer front, oak veneer: /products/bestå-doors-and-drawer-fronts/00491705.txt
+- HEDEVIKEN door/drawer front, dark brown stained oak veneer: /products/bestå-doors-and-drawer-fronts/70491702.txt
+- HEDEVIKEN door, dark brown stained oak veneer: /products/bestå-doors-and-drawer-fronts/30491695.txt
+- HANVIKEN Drawer front, white: /products/bestå-doors-and-drawer-fronts/40291851.txt
+- HANVIKEN Drawer front, black-brown: /products/bestå-doors-and-drawer-fronts/60294797.txt
+- HANVIKEN Door, white: /products/bestå-doors-and-drawer-fronts/60291845.txt
+- HANVIKEN Door/drawer front, white: /products/bestå-doors-and-drawer-fronts/00291848.txt
+- HANVIKEN Door/drawer front, black-brown: /products/bestå-doors-and-drawer-fronts/00294795.txt
+- HANVIKEN Door, black-brown: /products/bestå-doors-and-drawer-fronts/50294793.txt
+- HAMMARSMED drawer front, beige: /products/bestå-doors-and-drawer-fronts/60590378.txt
+- HAMMARSMED drawer front, anthracite: /products/bestå-doors-and-drawer-fronts/50590369.txt
+- HAMMARSMED door/drawer front, beige: /products/bestå-doors-and-drawer-fronts/80590377.txt
+- HAMMARSMED door/drawer front, anthracite: /products/bestå-doors-and-drawer-fronts/70590373.txt
+- HAMMARSMED door, beige: /products/bestå-doors-and-drawer-fronts/00590376.txt
+- HAMMARSMED door, anthracite: /products/bestå-doors-and-drawer-fronts/00590362.txt
+- GLASSVIK glass door, white/light green frosted glass: /products/bestå-doors-and-drawer-fronts/90540928.txt
+- GLASSVIK glass door, white/light green frosted glass: /products/bestå-doors-and-drawer-fronts/80540900.txt
+- GLASSVIK glass door, white/light green clear glass: /products/bestå-doors-and-drawer-fronts/60540897.txt
+- GLASSVIK glass door, white/light green clear glass: /products/bestå-doors-and-drawer-fronts/40540902.txt
+- GLASSVIK glass door, dark olive-green/clear glass: /products/bestå-doors-and-drawer-fronts/60490736.txt
+- GLASSVIK glass door, dark olive-green/clear glass: /products/bestå-doors-and-drawer-fronts/30490733.txt
+- GLASSVIK glass door, black/smoked glass: /products/bestå-doors-and-drawer-fronts/90291660.txt
+- GLASSVIK Glass door, black, smoked glass: /products/bestå-doors-and-drawer-fronts/60291652.txt
+- GLASSVIK Glass door, black, clear glass: /products/bestå-doors-and-drawer-fronts/30291658.txt
+- GLASSVIK Glass door, black, clear glass: /products/bestå-doors-and-drawer-fronts/00291650.txt
+- FÄLLSVIK glass door, anthracite/reeded glass: /products/bestå-doors-and-drawer-fronts/70540321.txt
+- FÄLLSVIK glass door, anthracite/reeded glass: /products/bestå-doors-and-drawer-fronts/50540322.txt
+- BJÖRKÖVIKEN drawer front, brown stained oak veneer: /products/bestå-doors-and-drawer-fronts/50490954.txt
+- BJÖRKÖVIKEN drawer front, birch veneer: /products/bestå-doors-and-drawer-fronts/60490963.txt
+- BJÖRKÖVIKEN door/drawer front, brown stained oak veneer: /products/bestå-doors-and-drawer-fronts/10490951.txt
+- BJÖRKÖVIKEN door/drawer front, birch veneer: /products/bestå-doors-and-drawer-fronts/20490960.txt
+- BJÖRKÖVIKEN door, brown stained oak veneer: /products/bestå-doors-and-drawer-fronts/70490948.txt
+- BJÖRKÖVIKEN door, birch veneer: /products/bestå-doors-and-drawer-fronts/80490957.txt
+- BERGSVIKEN drawer front, black marble effect: /products/bestå-doors-and-drawer-fronts/00490942.txt
+- BERGSVIKEN drawer front, beige marble effect: /products/bestå-doors-and-drawer-fronts/30490945.txt
+- BERGSVIKEN door/drawer front, black marble effect: /products/bestå-doors-and-drawer-fronts/20490936.txt
+- BERGSVIKEN door, black marble effect: /products/bestå-doors-and-drawer-fronts/50490930.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

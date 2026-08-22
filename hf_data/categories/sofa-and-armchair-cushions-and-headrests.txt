@@ -1,0 +1,39 @@
+# @CATEGORY
+Name: Sofa & armchair cushions & headrests
+ProductCount: 17
+
+# @FILTERS
+PriceRange: $2.99 - $100.00
+Materials: 100 % polyester (100% recycled), 100% polyester (min. 90% recycled), Comfort filling: 70% cut polyurethane foam/ 30% polyester fibers, Comfort filling: Polyurethane foam 1.7 lb/cu.ft., Polyurethane foam 1.5 lb/cu.ft., Cord: 100 % polyester, Core filling: Polyurethane foam 1.5 lb/cu.ft., Cushion: Polyester fiber balls, Fabric/ Cover: 53 % linen, 47 % viscose/rayon, Fabric/ Outer fabric: 80 % cotton, 20 % linen, Fabric/ Top fabric: 43 % cotton, 27 % viscose/rayon, 18 % polyester (100% recycled), 12 % linen
+Brand: IKEA
+
+# @ITEMS
+- SILÄNG storage pocket for armrest, felt: /products/sofa-and-armchair-cushions-and-headrests/70578861.txt
+- RÖDEBY armrest tray, black: /products/sofa-and-armchair-cushions-and-headrests/20502939.txt
+- RÖDEBY armrest tray, bamboo: /products/sofa-and-armchair-cushions-and-headrests/40417577.txt
+- ÖNNESTAD cushion set armchair, green/white/Radbyn: /products/sofa-and-armchair-cushions-and-headrests/90572090.txt
+- ÖNNESTAD cushion set armchair, beige/Katorp: /products/sofa-and-armchair-cushions-and-headrests/30572093.txt
+- NORNA chair pad, Laila natural: /products/sofa-and-armchair-cushions-and-headrests/50080264.txt
+- KLAGSHAMN back cushion, Faringe light gray: /products/sofa-and-armchair-cushions-and-headrests/09580189.txt
+- KLAGSHAMN back cushion, Faringe brown-orange: /products/sofa-and-armchair-cushions-and-headrests/29580188.txt
+- JÄTTEBO headrest cushion, Tonerud gray: /products/sofa-and-armchair-cushions-and-headrests/79483830.txt
+- JÄTTEBO headrest cushion, Samsala gray-beige: /products/sofa-and-armchair-cushions-and-headrests/09483824.txt
+- JÄTTEBO headrest cushion, Samsala dark yellow-green: /products/sofa-and-armchair-cushions-and-headrests/49483600.txt
+- GRYTTOM cushion set, Gransel natural: /products/sofa-and-armchair-cushions-and-headrests/80576673.txt
+- FRYKSÅS cushion, Risane natural: /products/sofa-and-armchair-cushions-and-headrests/00579982.txt
+- FINNALA headrest, Orrsta black-blue: /products/sofa-and-armchair-cushions-and-headrests/69332276.txt
+- FINNALA headrest, Grann/Bomstad golden brown: /products/sofa-and-armchair-cushions-and-headrests/30456437.txt
+- FINNALA headrest, Grann/Bomstad black: /products/sofa-and-armchair-cushions-and-headrests/90455010.txt
+- DJUPVIK cushion, Blekinge white: /products/sofa-and-armchair-cushions-and-headrests/80300325.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

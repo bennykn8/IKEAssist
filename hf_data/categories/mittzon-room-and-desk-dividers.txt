@@ -1,0 +1,41 @@
+# @CATEGORY
+Name: MITTZON room & desk dividers
+ProductCount: 19
+
+# @FILTERS
+PriceRange: $10.00 - $400.00
+Materials: Back side: 100% polyester (min. 50% recycled), 100 % polyester, Cover: 100% polyester (min. 30% recycled), 100 % polypropylene, Filling: 100 % polypropylene, Wood fibers 92% / Polyethylene 4% / Polypropylene 4%, Frame: 100 % polypropylene, Solid wood, Fiberboard, Wood fibers 92% / Polyethylene 4% / Polypropylene 4%, Frame: Steel, Epoxy/polyester powder coating, Expanded polyethylene plastic, Galvanized steel, Epoxy/polyester powder coating, Steel, Epoxy/polyester powder coating, Top frame: Particleboard, Paper foil, Plastic edging, Whiteboard/ Reinforcement/ Plate/ Hook and loop fastener, white: Steel, Epoxy/polyester powder coating, Zipper: 100 % polyester
+Brand: IKEA
+
+# @ITEMS
+- MITTZON whiteboard/noticeboard, white: /products/mittzon-room-and-desk-dividers/40528636.txt
+- MITTZON frm w cstrs/whtbrd/disp shlf/cbl bx, white: /products/mittzon-room-and-desk-dividers/59514682.txt
+- MITTZON frame with castors, white: /products/mittzon-room-and-desk-dividers/10528633.txt
+- MITTZON frame with castors/display shelf, white: /products/mittzon-room-and-desk-dividers/49536175.txt
+- MITTZON frame with castors/container, white: /products/mittzon-room-and-desk-dividers/09572962.txt
+- MITTZON frame w cstrs/disp shlf/cable box, white: /products/mittzon-room-and-desk-dividers/59514677.txt
+- MITTZON frame w cstrs/clths rail/disp shlf, white: /products/mittzon-room-and-desk-dividers/79536414.txt
+- MITTZON frame w cstrs/clths rail/disp shlf, white: /products/mittzon-room-and-desk-dividers/29536421.txt
+- MITTZON frame w cstrs/clths rail/disp shlf, white: /products/mittzon-room-and-desk-dividers/29513957.txt
+- MITTZON frame w castors/disp shlf/cable box, white: /products/mittzon-room-and-desk-dividers/39562363.txt
+- MITTZON frame w castors/container/cable box, white: /products/mittzon-room-and-desk-dividers/39514678.txt
+- MITTZON display shelf for frame w castors, white: /products/mittzon-room-and-desk-dividers/00528638.txt
+- MITTZON container f frame w castors, white: /products/mittzon-room-and-desk-dividers/50528631.txt
+- MITTZON clothes rail for frame w castors, white: /products/mittzon-room-and-desk-dividers/80528639.txt
+- MITTZON cable box for frm w cstrs, white: /products/mittzon-room-and-desk-dividers/30528632.txt
+- MITTZON acoustic plant box with castors, Gunnared beige: /products/mittzon-room-and-desk-dividers/80587577.txt
+- MITTZON acoustic plant box with castors, Gunnared beige: /products/mittzon-room-and-desk-dividers/60587578.txt
+- MITTZON acoustic baffle set, Gunnared beige: /products/mittzon-room-and-desk-dividers/19603128.txt
+- MITTZON acoustic baffle, Gunnared beige: /products/mittzon-room-and-desk-dividers/80605604.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

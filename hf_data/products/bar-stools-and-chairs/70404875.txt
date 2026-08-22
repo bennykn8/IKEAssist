@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: FRANKLIN bar stool with backrest, foldable, white/white
+SKU: 70404875
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/franklin-bar-stool-with-backrest-foldable-white-white-70404875/
+Category: Bar stools & chairs
+Description: , 243/4" Simple to fold up, easy to stow away. This bar stool in fresh white is always at hand when you need a few extra seats around the bar table, countertop or kitchen island. Footrest for extra si...
+
+# @OFFER
+Price: 45
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Seat and back: Layer-glued wood veneer, High-pressure melamine laminate, Edge: Clear lacquer, Bracket: Reinforced polyamide
+Dimensions: Suitable for bar height 35⅜".
+Features: Recommended for indoor use only. | To prevent surface scratches and the sound of chair legs scraping on the floor, add FIXA self-adhesive floor protectors, sold separately.
+Care: Wipe clean with a mild soapy solution. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/franklin-bar-stool-with-backrest-foldable-white-white__0727489_pe735714_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,25 @@
+# @CATEGORY
+Name: Cleaning organizers
+ProductCount: 3
+
+# @FILTERS
+PriceRange: $9.99 - $24.98
+Materials: Polypropylene plastic (min. 20% recycled)
+Brand: IKEA
+
+# @ITEMS
+- UPPDATERA slider for box size 50x12, anthracite: /products/cleaning-organizers/40580506.txt
+- UPPDATERA box with slider, anthracite, 19 ¾x6x4 ¾": /products/cleaning-organizers/89590716.txt
+- UPPDATERA box, anthracite, 19 ¾x: /products/cleaning-organizers/50580799.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

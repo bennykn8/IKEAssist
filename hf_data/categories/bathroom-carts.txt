@@ -1,0 +1,27 @@
+# @CATEGORY
+Name: Bathroom Carts
+ProductCount: 5
+
+# @FILTERS
+PriceRange: $9.99 - $69.99
+Materials: Bamboo, Clear acrylic lacquer, Casters: Steel, Polypropylene, Galvanized, Main parts: Polypropylene plastic (min. 50% recycled), Main parts: Steel, Epoxy/polyester powder coating, Shelf/ Rod: Steel, Powder coating, Top shelf: Tempered glass, Tube: Steel, Epoxy/polyester powder coating, Wheel: Polypropylene
+Brand: IKEA
+
+# @ITEMS
+- VESKEN Cart, white: /products/bathroom-carts/00471222.txt
+- VESKEN cart, black: /products/bathroom-carts/60471224.txt
+- RÅGRUND cart, bamboo: /products/bathroom-carts/20549418.txt
+- HORNAVAN cart, white: /products/bathroom-carts/70243873.txt
+- FRÖSJÖN cart, black: /products/bathroom-carts/40574906.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

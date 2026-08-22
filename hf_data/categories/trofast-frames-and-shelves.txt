@@ -1,0 +1,43 @@
+# @CATEGORY
+Name: TROFAST frames & shelves
+ProductCount: 21
+
+# @FILTERS
+PriceRange: $10.00 - $119.99
+Materials: Drawer rail: Polypropylene, Main parts: Particleboard, Paper foil, Main parts: Particleboard, Paper foil, Plastic edging, Main parts: Particleboard, Paper foil, Plastic edging, Plastic edging, Plastic edging, Plastic edging, Particleboard, Paper foil, Plastic edging, Solid pine, Tinted clear acrylic lacquer
+Brand: IKEA
+
+# @ITEMS
+- TROFAST wall storage, white: /products/trofast-frames-and-shelves/90516075.txt
+- TROFAST wall storage, white: /products/trofast-frames-and-shelves/50171122.txt
+- TROFAST wall storage, light white stained pine: /products/trofast-frames-and-shelves/70524689.txt
+- TROFAST Wall storage, light white stained pine pine: /products/trofast-frames-and-shelves/20308701.txt
+- TROFAST wall storage, gray: /products/trofast-frames-and-shelves/90565198.txt
+- TROFAST wall storage, gray: /products/trofast-frames-and-shelves/10565197.txt
+- TROFAST shelf, white: /products/trofast-frames-and-shelves/90091454.txt
+- TROFAST shelf, gray: /products/trofast-frames-and-shelves/90573933.txt
+- TROFAST frame, white: /products/trofast-frames-and-shelves/80153800.txt
+- TROFAST frame, white: /products/trofast-frames-and-shelves/50516063.txt
+- TROFAST Frame, white: /products/trofast-frames-and-shelves/30171123.txt
+- TROFAST Frame, white: /products/trofast-frames-and-shelves/30091452.txt
+- TROFAST Frame, white: /products/trofast-frames-and-shelves/10091453.txt
+- TROFAST Frame, light white stained pine pine: /products/trofast-frames-and-shelves/60308695.txt
+- TROFAST frame, light white stained pine: /products/trofast-frames-and-shelves/50524690.txt
+- TROFAST Frame, light white stained pine pine: /products/trofast-frames-and-shelves/20308697.txt
+- TROFAST Frame, light white stained pine pine: /products/trofast-frames-and-shelves/10308693.txt
+- TROFAST frame, gray: /products/trofast-frames-and-shelves/80565194.txt
+- TROFAST frame, gray: /products/trofast-frames-and-shelves/70576334.txt
+- TROFAST frame, gray: /products/trofast-frames-and-shelves/40576335.txt
+- TROFAST frame, gray: /products/trofast-frames-and-shelves/30565196.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

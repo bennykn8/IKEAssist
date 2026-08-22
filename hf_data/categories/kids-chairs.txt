@@ -1,0 +1,29 @@
+# @CATEGORY
+Name: Kids chairs
+ProductCount: 7
+
+# @FILTERS
+PriceRange: $17.99 - $99.99
+Materials: Fabric: 100 %polyester, Plastic fitting: Reinforced polyamide, Polypropylene, Polypropylene, Polypropylene, Seat shell/ Seat/ Base cover: Polypropylene, Solid pine, Stain, Clear acrylic lacquer
+Brand: IKEA
+
+# @ITEMS
+- SUNDVIK Children's chair, white: /products/kids-chairs/60196358.txt
+- SUNDVIK children's chair, gray: /products/kids-chairs/10494020.txt
+- MAMMUT Children's chair, indoor/outdoor, white: /products/kids-chairs/40365371.txt
+- MAMMUT children's chair, indoor/outdoor/lilac: /products/kids-chairs/90581990.txt
+- MAMMUT children's chair, indoor/outdoor/light blue: /products/kids-chairs/30581988.txt
+- MAMMUT children's chair, indoor/outdoor/bright green: /products/kids-chairs/70581986.txt
+- IKEA PS LÖMSK Swivel chair, white, red: /products/kids-chairs/10407136.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

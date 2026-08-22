@@ -1,0 +1,56 @@
+# @CATEGORY
+Name: Desk accessories
+ProductCount: 34
+
+# @FILTERS
+PriceRange: $1.99 - $59.99
+Materials: 100 % polyester, 100% recycled solid cardboard, Paper, Back part/ Drawer bottom: Fiberboard, Back side/ Base fabric: 100 % polyester (100% recycled), Basket: Steel, Powder coating, Box: 100% recycled solid cardboard, Paper, Box: Bamboo, Fiberboard, Bamboo veneer, Clear polyurethane/acrylic lacquer, Core: Polyurethane foam., Cork, Polyurethane, Unbleached paper, Divider: Solid birch, Clear polyurethane lacquer
+Brand: IKEA
+
+# @ITEMS
+- VATTENKAR desktop shelf, white, 19 ¼x: /products/desk-accessories/20541568.txt
+- VATTENKAR desktop shelf, black, 19 ¼x: /products/desk-accessories/40541572.txt
+- VATTENKAR desk organizer, white, 13x8 ¼x: /products/desk-accessories/80548661.txt
+- TJOG desk organizer, dark gray, 13 ½x6 ¼": /products/desk-accessories/50503956.txt
+- TJENA desk organizer, white, 7x6 ¾": /products/desk-accessories/60395452.txt
+- SUSIG desk pad, cork, 17 ¾x25 ½": /products/desk-accessories/90457486.txt
+- STUBBERGET laptop holder with arm, white: /products/desk-accessories/20591935.txt
+- STUBBERGET bracket for monitor, white: /products/desk-accessories/50591934.txt
+- STUBBERGET bracket for 2 monitors, white: /products/desk-accessories/30591765.txt
+- STACKSTOD desk organizer, light green, 12 ½x7x6 ¼": /products/desk-accessories/10598193.txt
+- SIGFINN monitor stand-stationary height, bamboo veneer: /products/desk-accessories/20362929.txt
+- RISSLA desk pad, black: /products/desk-accessories/40246156.txt
+- RISATORP desk organizer, white, 19 ¾x6 ¼x6 ¾": /products/desk-accessories/20540494.txt
+- PLÖJA desk pad, white/clear, 25 ½x17 ¾": /products/desk-accessories/10520892.txt
+- MOPPE mini storage chest, birch plywood, 16 ½x7x125/: /products/desk-accessories/40216357.txt
+- KUGGIS desk organizer set, 2 pieces, gray-beige/dark gray-beige, 10 ¼x13 ¾x6 ¼": /products/desk-accessories/60569188.txt
+- KOLON Floor protector: /products/desk-accessories/44881100.txt
+- KLÄMMEMACKA letter tray, natural plywood: /products/desk-accessories/50428820.txt
+- KLÄMMEMACKA desk organizer, natural plywood, 13 ¾x8 ¾": /products/desk-accessories/50428815.txt
+- HARVMATTA letter tray, anthracite: /products/desk-accessories/20578585.txt
+- HÄSTVISKARE mini chest of drawers, oak effect, 12 ½x9 ½": /products/desk-accessories/30549856.txt
+- FREIVID anti-fatigue mat, Diseröd gray-green: /products/desk-accessories/00556773.txt
+- FODERTRÅG organizer for desk/wall, light gray, 9 ¾x7x: /products/desk-accessories/10590762.txt
+- FODERTRÅG organizer for desk/wall, gray-blue, 9 ¾x7x: /products/desk-accessories/30590761.txt
+- FODERTRÅG organizer for desk/wall, bright yellow, 9 ¾x7x: /products/desk-accessories/50590760.txt
+- FJÄDERHARV desk organizer, white, 6 ¼x6 ¼": /products/desk-accessories/50596899.txt
+- FJÄDERHARV desk organizer, anthracite, 6 ¼x6 ¼": /products/desk-accessories/70596902.txt
+- ELLOVEN monitor stand with drawer, white: /products/desk-accessories/50474770.txt
+- ELLOVEN monitor stand with drawer, anthracite: /products/desk-accessories/00485101.txt
+- DRÖNJÖNS pencil cup, white: /products/desk-accessories/00494879.txt
+- DRÖNJÖNS Letter tray: /products/desk-accessories/10428718.txt
+- DRÖNJÖNS Desk organizer, 9 ¾x7 ¾": /products/desk-accessories/00428827.txt
+- DAGOTTO Footrest, black: /products/desk-accessories/40240989.txt
+- ALEX drawer insert, gray: /products/desk-accessories/30595155.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

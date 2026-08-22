@@ -1,0 +1,38 @@
+# @CATEGORY
+Name: Venetian blinds
+ProductCount: 16
+
+# @FILTERS
+PriceRange: $33.99 - $54.99
+Materials: Mechanism: Stainless steel, Acetal plastic, Polycarbonate plastic, Slats: Aluminum, Paint, Stick: ABS plastic, Top rail/ Bottom rail/ Panel/ Stick: Aluminum, Anodized, Top rail/ Bottom rail: Aluminum, Powder coating
+Brand: IKEA
+
+# @ITEMS
+- VECKLARFLY Venetian blind, white: /products/venetian-blinds/90583734.txt
+- VECKLARFLY Venetian blind, white: /products/venetian-blinds/80586926.txt
+- VECKLARFLY Venetian blind, white: /products/venetian-blinds/60583735.txt
+- VECKLARFLY Venetian blind, white: /products/venetian-blinds/50583731.txt
+- VECKLARFLY Venetian blind, white: /products/venetian-blinds/40583736.txt
+- VECKLARFLY Venetian blind, white: /products/venetian-blinds/20583737.txt
+- VECKLARFLY Venetian blind, white: /products/venetian-blinds/10583733.txt
+- VECKLARFLY Venetian blind, white: /products/venetian-blinds/00583738.txt
+- VECKLARFLY Venetian blind, aluminum: /products/venetian-blinds/90585969.txt
+- VECKLARFLY Venetian blind, aluminum: /products/venetian-blinds/80585979.txt
+- VECKLARFLY Venetian blind, aluminum: /products/venetian-blinds/50585985.txt
+- VECKLARFLY Venetian blind, aluminum: /products/venetian-blinds/40586928.txt
+- VECKLARFLY Venetian blind, aluminum: /products/venetian-blinds/20585977.txt
+- VECKLARFLY Venetian blind, aluminum: /products/venetian-blinds/10585987.txt
+- VECKLARFLY Venetian blind, aluminum: /products/venetian-blinds/10585973.txt
+- VECKLARFLY Venetian blind, aluminum: /products/venetian-blinds/00585983.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

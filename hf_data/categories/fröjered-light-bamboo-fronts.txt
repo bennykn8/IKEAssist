@@ -1,0 +1,28 @@
+# @CATEGORY
+Name: FRÖJERED light bamboo fronts
+ProductCount: 6
+
+# @FILTERS
+PriceRange: $51.00 - $88.00
+Materials: Frame: Bamboo, Honeycomb structure paper filling (100% recycled), Front side/ Back side/ Edge: Bamboo, Stain, Clear acrylic lacquer
+Brand: IKEA
+
+# @ITEMS
+- FRÖJERED drawer front, light bamboo: /products/fröjered-light-bamboo-fronts/80441641.txt
+- FRÖJERED drawer front, light bamboo: /products/fröjered-light-bamboo-fronts/80441636.txt
+- FRÖJERED drawer front, light bamboo: /products/fröjered-light-bamboo-fronts/60441637.txt
+- FRÖJERED drawer front, light bamboo: /products/fröjered-light-bamboo-fronts/40441638.txt
+- FRÖJERED drawer front, light bamboo: /products/fröjered-light-bamboo-fronts/20441639.txt
+- FRÖJERED drawer front, light bamboo: /products/fröjered-light-bamboo-fronts/00441635.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

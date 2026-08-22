@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: YNGVAR bar stool, anthracite
+SKU: 60400745
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/yngvar-bar-stool-anthracite-60400745/
+Category: Bar stools & chairs
+Description: , 291/2" The soft and rounded back support feels like a nice embrace and makes the bar stool easy to hang on the table edge when it’s time to clean up. Durable and sturdy, meeting the requirements on ...
+
+# @OFFER
+Price: 165
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Leg/ Back frame/ Crossbar/ Foot rest: Steel, Epoxy/polyester powder coating, Seat/ Backrest: Layer-glued wood veneer, Beech veneer, Stain, Clear acrylic lacquer
+Dimensions: Suitable for bar height 43¼".
+Care: Information: This bar stool has been tested for public use and meets the requirements for safety, durability and stability set forth in the following standards: EN 16139-Level 1 and ANSI/BIFMA x5.4. | Wipe clean with a mild soapy solution.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/yngvar-bar-stool-anthracite__0714270_pe729999_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

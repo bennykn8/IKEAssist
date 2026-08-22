@@ -1,0 +1,27 @@
+# @CATEGORY
+Name: Step stools & step ladders
+ProductCount: 5
+
+# @FILTERS
+PriceRange: $25.99 - $54.99
+Materials: Adhesive, Solid wood, Stain, Clear acrylic lacquer, Foot: Thermoplastic elastomer, Side rail/ Ladder frame: Steel, Powder coating, Solid beech, Adhesive, Solid rubberwood, Adhesive, Clear acrylic lacquer, Solid rubberwood, Adhesive, Stain, Clear acrylic lacquer, Top/ Step: Polypropylene
+Brand: IKEA
+
+# @ITEMS
+- BEKVÄM step stool, white: /products/step-stools-and-step-ladders/40611032.txt
+- BEKVÄM step stool, rubberwood: /products/step-stools-and-step-ladders/50611022.txt
+- BEKVÄM step stool, black: /products/step-stools-and-step-ladders/30484671.txt
+- BEKVÄM step stool, beech: /products/step-stools-and-step-ladders/50484670.txt
+- BÄSINGEN step stool with handrail, 2-steps, anthracite: /products/step-stools-and-step-ladders/40597502.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

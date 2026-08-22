@@ -1,0 +1,33 @@
+# @CATEGORY
+Name: Condiments & spreads
+ProductCount: 12
+
+# @FILTERS
+PriceRange: $2.49 - $9.99
+Brand: IKEA
+
+# @ITEMS
+- VAGGSÅNG orange and elderflower spread, 15 oz: /products/condiments-and-spreads/60576160.txt
+- SYLT JORDGUBB strawberry spread, organic, 14 oz: /products/condiments-and-spreads/40554183.txt
+- SYLT HALLON & BLÅBÄR raspberry and blueberry jam, organic, 15 oz: /products/condiments-and-spreads/70288102.txt
+- SYLT BLÅBÄR bilberry spread, organic, 11 oz: /products/condiments-and-spreads/70520097.txt
+- SENAP MILD mild mustard, 1 lb2 oz: /products/condiments-and-spreads/40201676.txt
+- SÅS SENAP & DILL sauce for salmon: /products/condiments-and-spreads/20028890.txt
+- ROSTAD LÖK fried onion: /products/condiments-and-spreads/30237176.txt
+- KETCHUP tomato ketchup, 1 lb2 oz: /products/condiments-and-spreads/60225695.txt
+- ARLA SVECIA semi-hard cheese, 11 oz: /products/condiments-and-spreads/30611928.txt
+- ARLA PRÄST semi-hard cheese, 11 oz: /products/condiments-and-spreads/10611929.txt
+- ARLA HERRGÅRD semi-hard cheese, 11 oz: /products/condiments-and-spreads/80612893.txt
+- ARLA GREVE semi-hard cheese, 10 oz: /products/condiments-and-spreads/00612585.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

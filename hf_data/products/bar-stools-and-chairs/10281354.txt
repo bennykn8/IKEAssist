@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: JANINGE Bar stool, gray
+SKU: 10281354
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/janinge-bar-stool-gray-10281354/
+Category: Bar stools & chairs
+Description: . Challenged to solve the equation of combining design, function and quality in one chair, our designers came up with JANINGE chair. Durable enough for restaurant use – with a design you want to take ...
+
+# @OFFER
+Price: 155
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Base/ Outer tube/ Mounting plate: Steel, Epoxy/polyester powder coating, Cover/ Adjustment lever: Stainless steel, Foot ring/ Stop fitting: Polypropylene
+Dimensions: Suitable for bar heights between 35⅜" and 43¼".
+Care: Wipe clean with a mild soapy solution. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/janinge-bar-stool-gray__0728068_pe736041_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,88 @@
+# @CATEGORY
+Name: Display cabinets
+ProductCount: 66
+
+# @FILTERS
+PriceRange: $39.99 - $1098.00
+Materials: Adjustable shelf/ Glass panels: Tempered glass, Back panel/ Door frame: Fiberboard, Acrylic paint, Back panel/ Drawer bottom: Fiberboard, Paper foil, Paper foil, Back panel: Fiberboard, Back panel: Fiberboard, Acrylic paint, Back panel: Fiberboard, Paper foil, Acrylic paint, Back panel: Fiberboard, Paper foil, Paper foil, Back panel: Fiberboard, Paper foil, Plastic foil, Back panel: Fiberboard, Plastic foil, Back panel: Particleboard, Paper foil
+Brand: IKEA
+
+# @ITEMS
+- VIHALS storage combination w/glass doors, white/clear glass: /products/display-cabinets/89521209.txt
+- VIHALS cabinet with sliding glass doors, white: /products/display-cabinets/80542876.txt
+- VIHALS cabinet with sliding glass doors, dark gray: /products/display-cabinets/20542879.txt
+- TONSTAD storage with sliding glass doors, oak veneer/clear glass: /products/display-cabinets/99570261.txt
+- TONSTAD storage with sliding glass doors, oak veneer/clear glass: /products/display-cabinets/69570267.txt
+- TONSTAD storage with sliding glass doors, oak veneer/clear glass: /products/display-cabinets/59570263.txt
+- TONSTAD storage with sliding glass doors, brown stained oak veneer/clear glass: /products/display-cabinets/79570243.txt
+- TONSTAD storage with sliding glass doors, brown stained oak veneer/clear glass: /products/display-cabinets/39570259.txt
+- TONSTAD storage with sliding glass doors, brown stained oak veneer/clear glass: /products/display-cabinets/09570265.txt
+- TONSTAD cabinet with sliding glass doors, off-white: /products/display-cabinets/40488895.txt
+- TONSTAD cabinet with sliding glass doors, off-white: /products/display-cabinets/20488896.txt
+- TONSTAD cabinet with sliding glass doors, oak veneer: /products/display-cabinets/20489278.txt
+- TONSTAD cabinet with sliding glass doors, oak veneer: /products/display-cabinets/00489284.txt
+- TONSTAD cabinet with sliding glass doors, brown stained oak veneer: /products/display-cabinets/70489285.txt
+- TONSTAD cabinet with sliding glass doors, brown stained oak veneer: /products/display-cabinets/00489279.txt
+- STOCKHOLM 2025 glass-door cabinet, oak veneer: /products/display-cabinets/60586692.txt
+- SKRUVBY cabinet with glass doors, white: /products/display-cabinets/20508842.txt
+- SKRUVBY cabinet with glass doors, black-blue: /products/display-cabinets/70520361.txt
+- RUDSTA glass-door cabinet, blue: /products/display-cabinets/90601417.txt
+- RUDSTA glass-door cabinet, anthracite: /products/display-cabinets/60434825.txt
+- RUDSTA glass-door cabinet, anthracite: /products/display-cabinets/50450137.txt
+- REGISSÖR Glass-door cabinet, white: /products/display-cabinets/30342078.txt
+- MILSBO glass-door cabinet, white: /products/display-cabinets/20452307.txt
+- MILSBO Glass-door cabinet, white: /products/display-cabinets/00396416.txt
+- MILSBO glass-door cabinet, anthracite: /products/display-cabinets/90452304.txt
+- MILSBO Glass-door cabinet, anthracite: /products/display-cabinets/30396448.txt
+- MALSJÖ Glass-door cabinet, black stained black stained: /products/display-cabinets/60303481.txt
+- MALSJÖ Glass-door cabinet, black stained black stained: /products/display-cabinets/30303487.txt
+- LANESUND storage combination, gray-brown: /products/display-cabinets/89514727.txt
+- LANESUND storage combination, gray-brown: /products/display-cabinets/69514728.txt
+- LANESUND glass-door cabinet, gray-brown: /products/display-cabinets/80466556.txt
+- IDANÄS high cabinet w gls-drs and 1 drawer, white: /products/display-cabinets/60490109.txt
+- IDANÄS cabinet with bi-fold glass doors, white: /products/display-cabinets/70509622.txt
+- HEMNES storage combination w doors/drawers, white stain/clear glass: /products/display-cabinets/99234255.txt
+- HEMNES Glass-door cabinet with 3 drawers, black-brown, light brown: /products/display-cabinets/50452297.txt
+- HEMNES glass-door cabinet with 3 drawers, black-brown: /products/display-cabinets/70371771.txt
+- HAVSTA glass-door cabinet with base, white clear glass: /products/display-cabinets/29534672.txt
+- HAVSTA glass-door cabinet with base, white/clear glass: /products/display-cabinets/09534654.txt
+- HAVSTA glass-door cabinet with base, gray-beige/clear glass: /products/display-cabinets/89534669.txt
+- HAVSTA glass-door cabinet with base, gray-beige/clear glass: /products/display-cabinets/49534652.txt
+- HAVSTA glass-door cabinet with base, black/clear glass: /products/display-cabinets/69534670.txt
+- HAVSTA glass-door cabinet with base, black/clear glass: /products/display-cabinets/29534653.txt
+- HAVSTA glass-door cabinet, white: /products/display-cabinets/60529263.txt
+- HAVSTA glass-door cabinet, white: /products/display-cabinets/00529256.txt
+- HAVSTA glass-door cabinet, gray-beige: /products/display-cabinets/90529252.txt
+- HAVSTA glass-door cabinet, gray-beige: /products/display-cabinets/40529259.txt
+- HAVSTA glass-door cabinet, black: /products/display-cabinets/50529254.txt
+- HAVSTA glass-door cabinet, black: /products/display-cabinets/00529261.txt
+- HAUGA glass-door cabinet, white: /products/display-cabinets/30415055.txt
+- HAUGA glass-door cabinet, gray: /products/display-cabinets/80415048.txt
+- FABRIKÖR Glass-door cabinet, pale gray-green: /products/display-cabinets/50460122.txt
+- FABRIKÖR glass-door cabinet, light yellow: /products/display-cabinets/80460125.txt
+- FABRIKÖR Glass-door cabinet, dark gray: /products/display-cabinets/00242278.txt
+- FABRIKÖR Glass-door cabinet, black-blue blue: /products/display-cabinets/00363171.txt
+- BRIMNES storage combination w/glass doors, white: /products/display-cabinets/49278237.txt
+- BRIMNES storage combination w/glass doors, black: /products/display-cabinets/19278234.txt
+- BRIMNES glass-door cabinet, white: /products/display-cabinets/90409872.txt
+- BRIMNES Glass-door cabinet, black: /products/display-cabinets/10409871.txt
+- BRIMNES Cabinet with doors, glass, white: /products/display-cabinets/50300666.txt
+- BRIMNES Cabinet with doors, glass, black: /products/display-cabinets/00300664.txt
+- BOASTAD high cabinet, black/oak veneer: /products/display-cabinets/50507006.txt
+- BLÅLIDEN / STRIMSÄV glass-door cabinet with lighting, white: /products/display-cabinets/29522952.txt
+- BLÅLIDEN / STRIMSÄV glass-door cabinet with lighting, black: /products/display-cabinets/59522936.txt
+- BLÅLIDEN glass-door cabinet, white: /products/display-cabinets/00501243.txt
+- BLÅLIDEN glass-door cabinet, black: /products/display-cabinets/00520519.txt
+- BAGGEBO glass-door cabinet, metal/white: /products/display-cabinets/80502998.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

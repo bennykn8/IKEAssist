@@ -1,0 +1,40 @@
+# @CATEGORY
+Name: Smart integrated lighting
+ProductCount: 18
+
+# @FILTERS
+PriceRange: $6.00 - $44.99
+Materials: Aluminum, Bracket: Polyamide, Bracket: Polyamide, ABS plastic (min. 20% recycled), Cable clip: Reinforced polyamide, Cover strip: Polyurethane plastic, Diffuser: Polycarbonate plastic, Diffuser: Polycarbonate/ABS plastic, Housing: Polycarbonate plastic, Lamp house: Aluminum, Lamp house: Aluminum, Powder coating
+Brand: IKEA
+
+# @ITEMS
+- VÅGDAL connection cord, white: /products/smart-integrated-lighting/70463600.txt
+- SKYDRAG LED cntp/wrd lght strp w sensor, dimmable white: /products/smart-integrated-lighting/40439602.txt
+- SKYDRAG LED cntp/wrd lght strp w sensor, dimmable white: /products/smart-integrated-lighting/00439595.txt
+- SKYDRAG LED cntp/wrd lght strp w sensor, dimmable anthracite: /products/smart-integrated-lighting/90439609.txt
+- SKYDRAG LED cntp/wrd lght strp w sensor, dimmable anthracite: /products/smart-integrated-lighting/10479166.txt
+- ORMANÄS LED light strip, smart wireless dimmable/color and white spectrum: /products/smart-integrated-lighting/20541323.txt
+- MITTLED LED spotlight, dimmable white: /products/smart-integrated-lighting/40453645.txt
+- MITTLED LED spotlight, dimmable black: /products/smart-integrated-lighting/50472139.txt
+- MITTLED LED ktchn drawer lighting w sensor, dimmable white: /products/smart-integrated-lighting/60463554.txt
+- MITTLED LED ktchn drawer lighting w sensor, dimmable white: /products/smart-integrated-lighting/50472040.txt
+- MITTLED LED ktchn drawer lighting w sensor, dimmable white: /products/smart-integrated-lighting/40463526.txt
+- MITTLED LED ktchn drawer lighting w sensor, dimmable white: /products/smart-integrated-lighting/30472041.txt
+- MITTLED LED ktchn drawer lighting w sensor, dimmable white: /products/smart-integrated-lighting/20463570.txt
+- MITTLED LED kitchen cntrtp lighting strip, dimmable white: /products/smart-integrated-lighting/90472514.txt
+- MITTLED LED kitchen cntrtp lighting strip, dimmable white: /products/smart-integrated-lighting/50455427.txt
+- MITTLED LED kitchen cntrtp lighting strip, dimmable white: /products/smart-integrated-lighting/10455434.txt
+- MITTLED LED kitchen cntrtp lighting strip, dimmable white: /products/smart-integrated-lighting/00455420.txt
+- MISSMYRA LED wardrobe lighting strp w sensor, dimmable white: /products/smart-integrated-lighting/60480624.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

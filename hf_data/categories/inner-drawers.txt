@@ -1,0 +1,39 @@
+# @CATEGORY
+Name: Inner drawers
+ProductCount: 17
+
+# @FILTERS
+PriceRange: $13.00 - $50.00
+Materials: Fiberboard, Acrylic paint, Handle: Epoxy/polyester powder coating, Runners: Galvanized steel, Use surface: Particleboard, Laminate, Plastic edging
+Brand: IKEA
+
+# @ITEMS
+- UTRUSTA pull-out work surface: /products/inner-drawers/60510579.txt
+- UTRUSTA drawer front, medium: /products/inner-drawers/80265633.txt
+- UTRUSTA Drawer front, medium: /products/inner-drawers/60265634.txt
+- UTRUSTA Drawer front, medium: /products/inner-drawers/30265635.txt
+- UTRUSTA Drawer front, medium: /products/inner-drawers/20265631.txt
+- UTRUSTA Drawer front, medium: /products/inner-drawers/10265636.txt
+- UTRUSTA drawer front, medium: /products/inner-drawers/00265632.txt
+- UTRUSTA drawer front, low: /products/inner-drawers/80265628.txt
+- UTRUSTA Drawer front, low: /products/inner-drawers/60265629.txt
+- UTRUSTA Drawer front, low: /products/inner-drawers/40265625.txt
+- UTRUSTA Drawer front, low: /products/inner-drawers/20265626.txt
+- UTRUSTA drawer front, low: /products/inner-drawers/00265627.txt
+- UTRUSTA drawer front, high: /products/inner-drawers/90265642.txt
+- UTRUSTA drawer front, high: /products/inner-drawers/90265637.txt
+- UTRUSTA drawer front, high: /products/inner-drawers/70265638.txt
+- UTRUSTA Drawer front, high: /products/inner-drawers/50265639.txt
+- UTRUSTA Drawer front, high: /products/inner-drawers/30265640.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,38 @@
+# @CATEGORY
+Name: Large mirrors
+ProductCount: 16
+
+# @FILTERS
+PriceRange: $14.99 - $219.99
+Materials: Back panel: Fiberboard, Clear lacquer, Frame: Aluminium (min. 70% recycled), Anodized, Frame: Aluminium (min. 70% recycled), Plastic foil, Frame: Fiberboard, Plastic foil, Frame: Fiberboard, Tinted clear polyurethane lacquer, Frame: Polystyrene, Frame: Polystyrene, Plastic foil, Mirror glass/ Mirror glass: Glass, Mirror glass: Glass, Mirror glass: Glass, Plastic foil
+Brand: IKEA
+
+# @ITEMS
+- TOFTBYN mirror, white: /products/large-mirrors/20507220.txt
+- TOFTBYN mirror, white: /products/large-mirrors/00507216.txt
+- TOFTBYN mirror, black: /products/large-mirrors/80507222.txt
+- TOFTBYN mirror, black: /products/large-mirrors/00507221.txt
+- SANDTORG mirror, black: /products/large-mirrors/00501790.txt
+- NISSEDAL mirror, white: /products/large-mirrors/90503775.txt
+- NISSEDAL mirror, white: /products/large-mirrors/30503778.txt
+- NISSEDAL mirror, black: /products/large-mirrors/50503777.txt
+- NISSEDAL mirror, black: /products/large-mirrors/20503774.txt
+- LINDBYN mirror, black: /products/large-mirrors/10507206.txt
+- LINDBYN mirror, black: /products/large-mirrors/00507202.txt
+- LILJETRÄD mirror, black: /products/large-mirrors/00551049.txt
+- HOVET mirror, black: /products/large-mirrors/30515917.txt
+- HOVET mirror, aluminum: /products/large-mirrors/40507196.txt
+- ALMARÖD mirror, black: /products/large-mirrors/80506128.txt
+- ALMARÖD mirror, black: /products/large-mirrors/20506131.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

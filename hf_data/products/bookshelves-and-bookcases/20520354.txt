@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: SKRUVBY bookcase, black-blue
+SKU: 20520354
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/skruvby-bookcase-black-blue-20520354/
+Category: Bookshelves & bookcases
+Description: , 235/8x551/8" The SKRUVBY series has a traditional look with solitaire storage units that can be coordinated. This bookcase adds a natural and warm feel to the room, perfect for books and other nice ...
+
+# @OFFER
+Price: 99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Bottom panel: Particleboard, Paper foil, Plastic edging, Plastic edging, Side panel/ Shelf: Particleboard, Paper foil, Back: Fiberboard, Paint, Paper foil
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/skruvby-bookcase-black-blue__1128172_pe876451_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

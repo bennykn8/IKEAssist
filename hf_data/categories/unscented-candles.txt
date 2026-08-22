@@ -1,0 +1,47 @@
+# @CATEGORY
+Name: Unscented candles
+ProductCount: 25
+
+# @FILTERS
+PriceRange: $1.29 - $12.99
+Materials: Base: plant based wax, paraffin wax, Candle: Plant-based wax (min. 50%), paraffin wax, Candle: paraffin wax, Candle: paraffin wax, plant based wax, Candle: plant based wax, paraffin wax, Candle: stearin, Candlecup: Aluminum, Wick: 100 % cotton, Wick: Cotton and other cellulose based materials, paraffin wax, plant based wax
+Brand: IKEA
+
+# @ITEMS
+- LÄTTNAD unscented pillar candle, dark gray-green: /products/unscented-candles/40570475.txt
+- LÄTTNAD unscented block candle, natural: /products/unscented-candles/70338456.txt
+- KUSTFYR unscented candle, cat black, 4 ¾": /products/unscented-candles/30597574.txt
+- KLOKHET unscented candle, yellow, 9 ¾": /products/unscented-candles/40592873.txt
+- KLOKHET unscented candle, orange, 9 ¾": /products/unscented-candles/40568000.txt
+- KLOKHET unscented candle, lilac, 9 ¾": /products/unscented-candles/20592874.txt
+- KLOKHET unscented candle, light pink, 9 ¾": /products/unscented-candles/00582729.txt
+- JUBLA unscented chandelier candle, white, 7 ½": /products/unscented-candles/60191916.txt
+- JUBLA unscented candle, white, 13 ¾": /products/unscented-candles/40154401.txt
+- HÖSTAGILLE unscented pillar candle, mixed colors: /products/unscented-candles/90597566.txt
+- HEMSJÖ unscented block candle, natural, 3 ¼": /products/unscented-candles/70124262.txt
+- GLIMMA unscented tealights: /products/unscented-candles/50097995.txt
+- GLIMMA unscented candle in a metal cup: /products/unscented-candles/90108360.txt
+- FENOMEN unscented pillar candle, white, 5 ½": /products/unscented-candles/90528403.txt
+- FENOMEN unscented pillar candle, white, 7 ½": /products/unscented-candles/70528404.txt
+- FENOMEN unscented pillar candle, set of 4, red: /products/unscented-candles/30577161.txt
+- FENOMEN unscented pillar candle, red, 7 ½": /products/unscented-candles/50576127.txt
+- FENOMEN unscented pillar candle, natural, 7 ½": /products/unscented-candles/80528413.txt
+- FENOMEN unscented pillar candle, natural: /products/unscented-candles/30528415.txt
+- FENOMEN unscented pillar candle, natural, 5 ½": /products/unscented-candles/20528411.txt
+- FENOMEN unscented pillar candle, gold, 7 ½": /products/unscented-candles/50580290.txt
+- FENOMEN unscented pillar candle, dark gray-green, 7 ½": /products/unscented-candles/50570390.txt
+- FENOMEN unscented block candle, set of 5, natural: /products/unscented-candles/80377937.txt
+- CONTORTATALL unscented chandelier candle, twisted/dark yellow, 9 ¾": /products/unscented-candles/60613129.txt
+- CONTORTATALL unscented chandelier candle, twisted/brown-red, 9 ¾": /products/unscented-candles/80613128.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

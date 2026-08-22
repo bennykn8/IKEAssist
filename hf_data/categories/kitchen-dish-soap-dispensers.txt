@@ -1,0 +1,24 @@
+# @CATEGORY
+Name: Kitchen dish soap dispensers
+ProductCount: 2
+
+# @FILTERS
+PriceRange: $2.99 - $3.99
+Materials: Bottle: Polyethylene, Container: Glass, Acrylic paint, Detergent pump: ABS plastic, Lid: Polypropylene, Pump: Polypropylene, Polyethylene, Glass, Stainless steel
+Brand: IKEA
+
+# @ITEMS
+- VÄLVÅRDAD soap dispenser, brown: /products/kitchen-dish-soap-dispensers/20595434.txt
+- RINNIG soap dispenser, gray, 15 oz: /products/kitchen-dish-soap-dispensers/80424335.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,122 @@
+# @CATEGORY
+Name: Medium, large and extra-large rugs
+ProductCount: 100
+
+# @FILTERS
+PriceRange: $12.99 - $1199.99
+Materials: 100 % cotton, 100 % jute, 100 % polyester (100% recycled), 47 % jute, 45 % wool, 8 % cotton, Back fabric: 100 % cotton, Backing: 100 % EVA plastic, Backing: 100 % Synthetic rubber, Backing: Natural latex, Backing: Synthetic latex, Backing: Synthetic rubber
+Brand: IKEA
+
+# @ITEMS
+- VONSBÄK rug, low pile, dark blue: /products/medium-large-and-extra-large-rugs/70528885.txt
+- VONSBÄK rug, low pile, dark blue: /products/medium-large-and-extra-large-rugs/40528882.txt
+- VOLLERSLEV rug, high pile, white: /products/medium-large-and-extra-large-rugs/60492542.txt
+- VOLLERSLEV rug, high pile, white: /products/medium-large-and-extra-large-rugs/30492572.txt
+- VOLLERSLEV rug, high pile, gray: /products/medium-large-and-extra-large-rugs/80519159.txt
+- VOLLERSLEV rug, high pile, gray: /products/medium-large-and-extra-large-rugs/60519160.txt
+- VOLLERSLEV rug, high pile, dark blue: /products/medium-large-and-extra-large-rugs/60492561.txt
+- VOLLERSLEV rug, high pile, dark blue: /products/medium-large-and-extra-large-rugs/10492549.txt
+- VODSKOV rug, flatwoven, natural/light gray: /products/medium-large-and-extra-large-rugs/90512379.txt
+- VODSKOV rug, flatwoven, natural/light gray: /products/medium-large-and-extra-large-rugs/50512376.txt
+- VODSKOV rug, flatwoven, natural/light gray: /products/medium-large-and-extra-large-rugs/40512386.txt
+- VINDEBÄK rug, high pile, light beige: /products/medium-large-and-extra-large-rugs/40508068.txt
+- VINDEBÄK rug, high pile, light beige: /products/medium-large-and-extra-large-rugs/20507890.txt
+- VIMPELGRÄS rug, low pile, red geometric/handmade: /products/medium-large-and-extra-large-rugs/90588703.txt
+- VETIVERGRÄS rug, high pile, Pebbles: /products/medium-large-and-extra-large-rugs/00589575.txt
+- VEDBÄK rug, low pile, light gray: /products/medium-large-and-extra-large-rugs/80528903.txt
+- VEDBÄK rug, low pile, light gray: /products/medium-large-and-extra-large-rugs/40528900.txt
+- VÄNDPLATS rug, low pile, white/black dotted: /products/medium-large-and-extra-large-rugs/30600939.txt
+- UNDERVISNING rug, low pile, off-white black/handmade: /products/medium-large-and-extra-large-rugs/50560065.txt
+- TVERSTED rug, low pile, beige: /products/medium-large-and-extra-large-rugs/20560806.txt
+- TVERSTED rug, low pile, beige: /products/medium-large-and-extra-large-rugs/20497971.txt
+- TIPHEDE rug, flatwoven, natural/black: /products/medium-large-and-extra-large-rugs/40559166.txt
+- TIPHEDE rug, flatwoven, natural/black: /products/medium-large-and-extra-large-rugs/40456757.txt
+- TIPHEDE rug, flatwoven, black/natural: /products/medium-large-and-extra-large-rugs/20470047.txt
+- TIDTABELL rug, flatwoven, gray: /products/medium-large-and-extra-large-rugs/60561856.txt
+- TIDTABELL rug, flatwoven, gray: /products/medium-large-and-extra-large-rugs/20578849.txt
+- TIDTABELL rug, flatwoven, gray: /products/medium-large-and-extra-large-rugs/10561854.txt
+- TIDTABELL rug, flatwoven, beige: /products/medium-large-and-extra-large-rugs/30566643.txt
+- TIDTABELL rug, flatwoven, beige: /products/medium-large-and-extra-large-rugs/30555282.txt
+- TELEMAST rug, flatwoven, white: /products/medium-large-and-extra-large-rugs/10581357.txt
+- TELEGRAFLINJE rug, flatwoven, yellow-beige: /products/medium-large-and-extra-large-rugs/50555281.txt
+- TEBSTRUP rug, low pile, multicolor: /products/medium-large-and-extra-large-rugs/90522024.txt
+- TEBSTRUP rug, low pile, multicolor: /products/medium-large-and-extra-large-rugs/00522052.txt
+- TÅGSPÅR rug, high pile, white/beige: /products/medium-large-and-extra-large-rugs/10576351.txt
+- TÅGSPÅR rug, high pile, green: /products/medium-large-and-extra-large-rugs/90576352.txt
+- TÅGBILJETT rug, flatwoven, natural/beige: /products/medium-large-and-extra-large-rugs/90568998.txt
+- TÅGBILJETT rug, flatwoven, natural/beige: /products/medium-large-and-extra-large-rugs/70568999.txt
+- STRÖG rug, flatwoven, natural: /products/medium-large-and-extra-large-rugs/70527051.txt
+- STOENSE Rug, low pile, off-white: /products/medium-large-and-extra-large-rugs/50425529.txt
+- STOENSE Rug, low pile, off-white: /products/medium-large-and-extra-large-rugs/20426808.txt
+- STOENSE Rug, low pile, off-white: /products/medium-large-and-extra-large-rugs/10425526.txt
+- STOENSE Rug, low pile, medium gray: /products/medium-large-and-extra-large-rugs/40427005.txt
+- STOENSE Rug, low pile, medium gray: /products/medium-large-and-extra-large-rugs/30426836.txt
+- STOENSE Rug, low pile, medium gray: /products/medium-large-and-extra-large-rugs/00426828.txt
+- STOENSE rug, low pile, green: /products/medium-large-and-extra-large-rugs/90607688.txt
+- STOENSE rug, low pile, beige: /products/medium-large-and-extra-large-rugs/80607684.txt
+- STOENSE rug, low pile, beige: /products/medium-large-and-extra-large-rugs/10607668.txt
+- STARREKLINTE rug, flatwoven, natural/light green: /products/medium-large-and-extra-large-rugs/30507917.txt
+- STARREKLINTE rug, flatwoven, natural/black: /products/medium-large-and-extra-large-rugs/70569135.txt
+- STARREKLINTE rug, flatwoven, natural/black: /products/medium-large-and-extra-large-rugs/30569137.txt
+- STARREKLINTE rug, flatwoven, natural/black: /products/medium-large-and-extra-large-rugs/20569133.txt
+- STANGERUM rug, high pile, gray: /products/medium-large-and-extra-large-rugs/30471598.txt
+- STANGERUM rug, high pile, gray: /products/medium-large-and-extra-large-rugs/20510859.txt
+- SPRETGRÄS rug, high pile, Mixdala: /products/medium-large-and-extra-large-rugs/80589576.txt
+- RINGKLOCKA rug, low pile, yellow/off-white: /products/medium-large-and-extra-large-rugs/10572819.txt
+- RINGKLOCKA rug, low pile, green/off-white: /products/medium-large-and-extra-large-rugs/60578017.txt
+- RIDSTIG rug, flatwoven, off-white/red: /products/medium-large-and-extra-large-rugs/90575300.txt
+- RIDSTIG rug, flatwoven, off-white/green: /products/medium-large-and-extra-large-rugs/10603335.txt
+- PENSELRÅG rug, low pile, gray/beige/handmade: /products/medium-large-and-extra-large-rugs/00583031.txt
+- ONSEVIG rug, low pile, multicolor: /products/medium-large-and-extra-large-rugs/60497078.txt
+- ONSEVIG rug, low pile, multicolor: /products/medium-large-and-extra-large-rugs/10559894.txt
+- ONSEVIG rug, low pile, multicolor: /products/medium-large-and-extra-large-rugs/10525026.txt
+- NÖVLING rug, low pile, dark blue/yellow-brown: /products/medium-large-and-extra-large-rugs/50532992.txt
+- NÖVLING rug, low pile, dark blue/yellow-brown: /products/medium-large-and-extra-large-rugs/20532984.txt
+- MAXTAXA rug, off-white: /products/medium-large-and-extra-large-rugs/40576694.txt
+- MAXTAXA rug, multicolor: /products/medium-large-and-extra-large-rugs/10576695.txt
+- MARSTRUP rug, low pile, beige: /products/medium-large-and-extra-large-rugs/80482132.txt
+- MÄVINN rug, beige/green: /products/medium-large-and-extra-large-rugs/20601010.txt
+- LOHALS rug, flatwoven, natural: /products/medium-large-and-extra-large-rugs/50277393.txt
+- LOHALS rug, flatwoven, natural: /products/medium-large-and-extra-large-rugs/30511288.txt
+- LOHALS rug, flatwoven, natural: /products/medium-large-and-extra-large-rugs/00277395.txt
+- LANDBANA rug, flatwoven, dark green: /products/medium-large-and-extra-large-rugs/80560573.txt
+- LANDBANA rug, flatwoven, dark green: /products/medium-large-and-extra-large-rugs/00575620.txt
+- LANDBANA rug, flatwoven, dark blue: /products/medium-large-and-extra-large-rugs/50560579.txt
+- LANDBANA rug, flatwoven, dark blue: /products/medium-large-and-extra-large-rugs/30575614.txt
+- KÖBILDNING rug, low pile, beige/off-white: /products/medium-large-and-extra-large-rugs/30575303.txt
+- KNYLHAVREN rug, flatwoven, gray/handmade: /products/medium-large-and-extra-large-rugs/30576152.txt
+- KNARDRUP rug, low pile, pale pink: /products/medium-large-and-extra-large-rugs/90492611.txt
+- KNARDRUP rug, low pile, light gray: /products/medium-large-and-extra-large-rugs/60492599.txt
+- KNARDRUP rug, low pile, light gray: /products/medium-large-and-extra-large-rugs/40492595.txt
+- KLASSRUM rug, flatwoven, white/green: /products/medium-large-and-extra-large-rugs/00555863.txt
+- HOTELLRUM rug, high pile, blue/green yellow: /products/medium-large-and-extra-large-rugs/50577650.txt
+- HOTELLRUM rug, high pile, blue/green yellow: /products/medium-large-and-extra-large-rugs/40571154.txt
+- HOTELLRUM rug, high pile, blue/green white: /products/medium-large-and-extra-large-rugs/50578107.txt
+- HOTELLRUM rug, high pile, blue/green white: /products/medium-large-and-extra-large-rugs/30578028.txt
+- HOLSTEBRO rug, low pile, beige: /products/medium-large-and-extra-large-rugs/90529134.txt
+- HAMPEN rug, high pile, gray: /products/medium-large-and-extra-large-rugs/70313007.txt
+- GRUNDSKOLA rug, low pile, multicolor: /products/medium-large-and-extra-large-rugs/40519255.txt
+- GRUNDSKOLA rug, low pile, multicolor: /products/medium-large-and-extra-large-rugs/20536208.txt
+- GNETGRÄS rug, low pile, dark blue/handmade: /products/medium-large-and-extra-large-rugs/90570755.txt
+- GÅNGVÄG rug, flatwoven, gray: /products/medium-large-and-extra-large-rugs/60569193.txt
+- GÅNGVÄG rug, flatwoven, gray: /products/medium-large-and-extra-large-rugs/30541474.txt
+- GADBJERG rug, low pile, red-pink: /products/medium-large-and-extra-large-rugs/00529100.txt
+- FLYGVÄG rug, high pile, diamond-shaped: /products/medium-large-and-extra-large-rugs/30589574.txt
+- ENGELSBORG rug, low pile, beige: /products/medium-large-and-extra-large-rugs/20482125.txt
+- ELSYSTEM rug, low pile, multicolor: /products/medium-large-and-extra-large-rugs/30580922.txt
+- ELLJUSSPÅR rug, low pile, multicolor/stripe handmade: /products/medium-large-and-extra-large-rugs/60541477.txt
+- ÄRENDE rug, high pile, off-white: /products/medium-large-and-extra-large-rugs/10605075.txt
+- ÄRENDE rug, high pile, gray: /products/medium-large-and-extra-large-rugs/60605073.txt
+- ÄRENDE rug, high pile, gray: /products/medium-large-and-extra-large-rugs/00576436.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

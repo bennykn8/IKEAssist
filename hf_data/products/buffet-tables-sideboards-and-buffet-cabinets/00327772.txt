@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MALSJÖ Sideboard, black stained
+SKU: 00327772
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/malsjoe-sideboard-black-stained-00327772/
+Category: Buffet tables, sideboards & buffet cabinets
+Description: , 57 1/8x36 1/4". With a glass-door cabinet, you can show off as well as protect your glassware or your favorite collection. The attention to detail gives the furniture a distinct handcrafted characte...
+
+# @OFFER
+Price: 549
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel: Particleboard, Ash veneer, Stain, Clear acrylic lacquer, Bottom panel: Particleboard, Paper foil, Plastic edging, Back panel: Fiberboard, Paper foil, Plastic foil
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home.
+Care: Glass: Wipe clean with a damp cloth. Use only water or window-cleaner. | Glass: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/malsjoe-sideboard-black-stained__0644409_pe702649_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,30 @@
+# @CATEGORY
+Name: Recycling bins
+ProductCount: 8
+
+# @FILTERS
+PriceRange: $3.99 - $39.99
+Materials: Bin/ Lid: Polypropylene plastic (min. 50% recycled), Handle: Reinforced polyamide plastic (min. 20% recycled), Polypropylene, Polypropylene plastic (min. 20% recycled), Polypropylene plastic (min. 50% recycled)
+Brand: IKEA
+
+# @ITEMS
+- TRÖSKNING bin with lid, light gray-blue, 7 gallon: /products/recycling-bins/00592257.txt
+- SORTERA recycling bin with lid, white, 16 gallon: /products/recycling-bins/70255899.txt
+- SORTERA recycling bin with lid, white, 10 gallon: /products/recycling-bins/10255897.txt
+- LÖVKVAST bin with lid, black, 13 gallon: /products/recycling-bins/20531098.txt
+- HÖLASS bin with lid, black, 2 gallon: /products/recycling-bins/00520500.txt
+- DAMMÄNG bin with lid, gray-green, 13 gallon: /products/recycling-bins/00559979.txt
+- DAMMÄNG bin with lid, gray-beige, 7 gallon: /products/recycling-bins/60559976.txt
+- DAMMÄNG bin with lid, dark gray, 2 gallon: /products/recycling-bins/00559984.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

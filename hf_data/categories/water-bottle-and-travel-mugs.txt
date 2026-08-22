@@ -1,0 +1,28 @@
+# @CATEGORY
+Name: Water bottle & travel mugs
+ProductCount: 6
+
+# @FILTERS
+PriceRange: $1.99 - $12.99
+Materials: Body/ Bottom: Stainless steel, Body: PCTG plastic, Body: Stainless steel, Body: Stainless steel, Powder coating, Lid: Polypropylene, Nozzle/ Base: Polyethylene, Seal: Silicone rubber
+Brand: IKEA
+
+# @ITEMS
+- UNDERSÖKA insulated steel flask, black, 14 oz: /products/water-bottle-and-travel-mugs/30497268.txt
+- IKEA 365+ water bottle, dark gray, 17 oz: /products/water-bottle-and-travel-mugs/20480013.txt
+- HETLEVRAD vacuum flask, stainless steel/black, 17 oz: /products/water-bottle-and-travel-mugs/10497325.txt
+- FASTSATT sport lid, black: /products/water-bottle-and-travel-mugs/10517955.txt
+- ENVÄLDIG insulated steel flask, stainless steel/black, 12 oz: /products/water-bottle-and-travel-mugs/80511525.txt
+- ENKELSPÅRIG water bottle, stainless steel/beige, 17 oz: /products/water-bottle-and-travel-mugs/00497222.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

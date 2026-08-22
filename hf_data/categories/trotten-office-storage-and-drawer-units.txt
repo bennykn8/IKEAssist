@@ -1,0 +1,42 @@
+# @CATEGORY
+Name: TROTTEN office storage & drawer units
+ProductCount: 20
+
+# @FILTERS
+PriceRange: $69.99 - $989.97
+Materials: Bumpers: Synthetic rubber, Main parts/ Metal tube: Steel, Epoxy/polyester powder coating, Panel: 100 % polyester
+Brand: IKEA
+
+# @ITEMS
+- TROTTEN utility cart, white: /products/trotten-office-storage-and-drawer-units/80474764.txt
+- TROTTEN drawer unit, white: /products/trotten-office-storage-and-drawer-units/20474762.txt
+- TROTTEN drawer unit w 2 drawers on casters, white: /products/trotten-office-storage-and-drawer-units/20467813.txt
+- TROTTEN drawer unit, anthracite: /products/trotten-office-storage-and-drawer-units/40474841.txt
+- TROTTEN cabinet with sliding doors, white: /products/trotten-office-storage-and-drawer-units/59429660.txt
+- TROTTEN cabinet with sliding doors, white: /products/trotten-office-storage-and-drawer-units/80474759.txt
+- TROTTEN cabinet with sliding doors, white: /products/trotten-office-storage-and-drawer-units/60474760.txt
+- TROTTEN cabinet with sliding doors, white: /products/trotten-office-storage-and-drawer-units/40474761.txt
+- TROTTEN cabinet with sliding doors, anthracite: /products/trotten-office-storage-and-drawer-units/19429657.txt
+- TROTTEN cabinet with sliding doors, anthracite: /products/trotten-office-storage-and-drawer-units/80474839.txt
+- TROTTEN cabinet with sliding doors, anthracite: /products/trotten-office-storage-and-drawer-units/20474837.txt
+- TROTTEN cabinet with sliding doors, anthracite: /products/trotten-office-storage-and-drawer-units/00474838.txt
+- TROTTEN cabinet with doors, white: /products/trotten-office-storage-and-drawer-units/30474766.txt
+- TROTTEN cabinet with doors, anthracite: /products/trotten-office-storage-and-drawer-units/40474836.txt
+- TROTTEN cabinet combination, white: /products/trotten-office-storage-and-drawer-units/59442082.txt
+- TROTTEN cabinet combination, white: /products/trotten-office-storage-and-drawer-units/19441838.txt
+- TROTTEN cabinet combination, anthracite: /products/trotten-office-storage-and-drawer-units/79442076.txt
+- TROTTEN cabinet combination, anthracite: /products/trotten-office-storage-and-drawer-units/49442073.txt
+- TROTTEN cab w sliding doors/noticeboard, white: /products/trotten-office-storage-and-drawer-units/19429643.txt
+- TROTTEN cab w sliding doors/noticeboard, anthracite: /products/trotten-office-storage-and-drawer-units/49429646.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

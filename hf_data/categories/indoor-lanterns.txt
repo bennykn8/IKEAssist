@@ -1,0 +1,44 @@
+# @CATEGORY
+Name: Indoor lanterns
+ProductCount: 22
+
+# @FILTERS
+PriceRange: $1.99 - $44.99
+Materials: Binding: Rattan, Stain, Clear acrylic lacquer, Frame/ Base: Steel, Powder coating, Glass part: Glass, Glass: Glass, Tinted clear acrylic lacquer, Handle: Steel, Polyester powder coating, Main parts: Bamboo, Stain, Clear acrylic lacquer, Main parts: Sedge, Clear acrylic lacquer, Main parts: Steel, Epoxy/polyester powder coating, Main parts: Steel, Glass, Polyester powder coating, Metal part: Aluminum, Epoxy/polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- VÅRSYREN lantern for tealight, white: /products/indoor-lanterns/60581784.txt
+- VÅRSYREN lantern for tealight, brown-orange: /products/indoor-lanterns/50587442.txt
+- URSKILJA lantern for block candle, black, 8 ¾": /products/indoor-lanterns/00509710.txt
+- SLIPPRIG lantern for block candle, handmade sedge: /products/indoor-lanterns/10516526.txt
+- KUSTFYR lantern for tealight, spider: /products/indoor-lanterns/50592373.txt
+- KUSTFYR lantern for tealight, ghost: /products/indoor-lanterns/30592374.txt
+- KUSTFYR lantern for tealight, cat: /products/indoor-lanterns/70592372.txt
+- KUSTFYR lantern for pillar candle, in/out, black, 17 ¼": /products/indoor-lanterns/70599712.txt
+- KRINGSYNT lantern f/tealight, indoor/outdoor, white, 8 ¼": /products/indoor-lanterns/70509702.txt
+- HÖVISK lantern for block candle, handmade bamboo: /products/indoor-lanterns/80516523.txt
+- HÖVISK lantern for block candle, handmade bamboo: /products/indoor-lanterns/60531157.txt
+- HEDERVÄRD lantern, frosted glass/black: /products/indoor-lanterns/00510619.txt
+- ENRUM lantern for candle, indoor/outdoor, white: /products/indoor-lanterns/10525724.txt
+- ENRUM lantern for candle, indoor/outdoor, black: /products/indoor-lanterns/60526354.txt
+- ENRUM lantern f/tealight, indoor/outdoor, white, 8 ¾": /products/indoor-lanterns/90526357.txt
+- ENRUM lantern f/tealight, indoor/outdoor, black, 8 ¾": /products/indoor-lanterns/60445112.txt
+- BORRBY lantern for block candle, indoor/outdoor white, 17 ¼": /products/indoor-lanterns/90270144.txt
+- BORRBY Lantern for block candle, white indoor/outdoor white, Length:: /products/indoor-lanterns/30270142.txt
+- BORRBY lantern for block candle, indoor/outdoor black, 17 ¼": /products/indoor-lanterns/70156111.txt
+- BORRBY Lantern for block candle, black indoor/outdoor black, Length:: /products/indoor-lanterns/10156109.txt
+- BERGGRAN lantern for pillar candle, indoor/outdoor anthracite: /products/indoor-lanterns/90559404.txt
+- BEFÄSTA lantern for candle, indoor/outdoor, galvanized: /products/indoor-lanterns/50496833.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

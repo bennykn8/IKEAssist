@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: RÖNNSPIREA lid for scented candle, cork, 3 ¼"
+SKU: 70521978
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/roennspirea-lid-for-scented-candle-cork-70521978/
+Category: Candle accessories
+Description: Protect your candle and preserve the scent when it isn’t lit. This cork lid fits all our scented candle containers with 20- and 40-hour burning times – and works as a coaster too when the candle is li...
+
+# @OFFER
+Price: 1.5
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Cork
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/roennspirea-lid-for-scented-candle-cork__1059635_pe863924_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

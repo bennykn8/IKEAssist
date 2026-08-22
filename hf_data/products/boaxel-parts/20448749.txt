@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: BOAXEL Mesh basket, white
+SKU: 20448749
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/boaxel-mesh-basket-white-20448749/
+Category: BOAXEL parts
+Description: , 23 5/8x15 3/4x5 7/8 ". A perfect place for everything from sweaters and socks to shoes and bags. BOAXEL wall-mounted storage system and its mesh basket help you create a solution that suits your thi...
+
+# @OFFER
+Price: 10
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Steel, Steel, Epoxy/polyester powder coating, Mesh: Steel, Epoxy/polyester powder coating, Slide rail: Galvanized steel, Epoxy/polyester powder coating
+Dimensions: The mounting rail can be cut to an exact width if needed. Only applicable when using more than one mounting rail or for the adjustable clothes rail and shelf.
+Features: BOAXEL mesh basket, 24", has room for approx. 6 pairs of folded pants or 10 t-shirts. | The recommended maximum weight applies when the weight load is evenly distributed across the surface.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/boaxel-mesh-basket-white__0798121_pe767129_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

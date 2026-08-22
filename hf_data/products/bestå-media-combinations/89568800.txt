@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BESTÅ TV storage combination/glass doors, white stained oak effect/Lappviken wht stained oak effect clear glass
+SKU: 89568800
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/besta-tv-storage-combination-glass-doors-white-stained-oak-effect-lappviken-wht-stained-oak-effect-clear-glass-s89568800/
+Category: BESTÅ media combinations
+Description: , 1181/8x161/2x831/8" BESTÅ TV storage combinations provide a home for your TV and storage for the gadgets you need for all the activities around it. Hide the clutter and display your favorite things ...
+
+# @OFFER
+Price: 855
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Back panel: Fiberboard, Fiberboard, Paper foil, Plastic foil, Panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Plastic edging, Plastic edging, Plastic edging, Paper foil, Panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Paper foil, Plastic edging, Plastic edging, Plastic edging, Paper foil
+Features: We recommend a TV bench to be a bit wider than the TV placed on it. This TV bench suits a TV up to 72 inches. You can choose a larger TV if it’s not heavier than the specified max load for the bench’s top. | The top panel of the TV bench is intended for a TV with a maximum weight of 66 lbs. | The max load for a wall-hung frame depends on the wall material.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/besta-tv-storage-combination-glass-doors-white-stained-oak-effect-lappviken-wht-stained-oak-effect-clear-glass__0644937_pe703099_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

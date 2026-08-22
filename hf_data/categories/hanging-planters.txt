@@ -1,0 +1,29 @@
+# @CATEGORY
+Name: Hanging planters
+ProductCount: 7
+
+# @FILTERS
+PriceRange: $6.99 - $14.99
+Materials: 100 % cotton, Bracket: Galvanized steel, Powder coating, Bracket: Steel, Powder coating, Chain: Steel, Galvanized, Inner plant pot: Polypropylene, Main parts: Galvanized steel, Polyester powder coating, Main parts: Steel, Polyester powder coating, Pot: Water hyacinth, Clear acrylic lacquer, Pot: Water hyacinth, Polypropylene, Tinted clear acrylic lacquer, Clear acrylic lacquer, Rope: Jute
+Brand: IKEA
+
+# @ITEMS
+- PÄRLRÖNN hanging planter, indoor/outdoor/black: /products/hanging-planters/70582250.txt
+- MÄVINN plant pot hanger, white/handmade: /products/hanging-planters/40601009.txt
+- FRIDFULL hanging planter, water hyacinth, 4 ¾": /products/hanging-planters/50564600.txt
+- DRUVFLÄDER hanging planter, water hyacinth/gray, 5 ½": /products/hanging-planters/00241815.txt
+- CHILISTRÅN hanging planter, indoor/outdoor white, 4 ¾": /products/hanging-planters/70492264.txt
+- CHILISTRÅN hanging planter, indoor/outdoor black, 4 ¾": /products/hanging-planters/20511825.txt
+- ÅKERBÄR hanging planter, indoor/outdoor dark blue, 10 ¾": /products/hanging-planters/70584796.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

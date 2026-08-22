@@ -1,0 +1,108 @@
+# @CATEGORY
+Name: TV & media storage
+ProductCount: 86
+
+# @FILTERS
+PriceRange: $89.96 - $1449.99
+Materials: Back panel/ Door frame/ Door panel: Fiberboard, Acrylic paint, Back panel/ Drawer bottom: Fiberboard, Back panel/ Drawer bottom: Fiberboard, Acrylic paint, Back panel: Fiberboard, Back panel: Fiberboard, Acrylic paint, Back panel: Fiberboard, Acrylic paint, Paper foil, Back panel: Fiberboard, Paper foil, Acrylic paint, Back panel: Fiberboard, Paper foil, Paper foil, Back panel: Fiberboard, Paper foil, Plastic foil, Back panel: Fiberboard, Plastic foil
+Brand: IKEA
+
+# @ITEMS
+- VIHALS TV/storage combination, white: /products/tv-and-media-storage/99576244.txt
+- VIHALS TV/storage combination, white: /products/tv-and-media-storage/59576236.txt
+- VIHALS TV/storage combination, dark gray: /products/tv-and-media-storage/79576216.txt
+- VIHALS TV/storage combination, dark gray: /products/tv-and-media-storage/49576246.txt
+- VIHALS TV/storage combination, dark gray: /products/tv-and-media-storage/19576238.txt
+- VIHALS TV/storage combination, dark gray: /products/tv-and-media-storage/19576224.txt
+- VIHALS TV/storage combination, dark gray: /products/tv-and-media-storage/09576229.txt
+- TONSTAD TV storage combo with sliding doors, off-white/clear glass: /products/tv-and-media-storage/39571843.txt
+- TONSTAD TV storage combo with sliding doors, oak veneer/clear glass: /products/tv-and-media-storage/69570291.txt
+- TONSTAD TV storage combo with sliding doors, brown stained oak veneer/clear glass: /products/tv-and-media-storage/09570289.txt
+- TONSTAD TV storage combination, off-white/clear glass: /products/tv-and-media-storage/49571847.txt
+- TONSTAD TV storage combination, off-white/clear glass: /products/tv-and-media-storage/19571844.txt
+- TONSTAD TV storage combination, oak veneer/clear glass: /products/tv-and-media-storage/49570287.txt
+- TONSTAD TV storage combination, oak veneer/clear glass: /products/tv-and-media-storage/39570283.txt
+- TONSTAD TV storage combination, brown stained oak veneer/clear glass: /products/tv-and-media-storage/89570285.txt
+- TONSTAD TV storage combination, brown stained oak veneer/clear glass: /products/tv-and-media-storage/79570281.txt
+- SPIKSMED TV storage combination: /products/tv-and-media-storage/99574971.txt
+- SPIKSMED TV storage combination: /products/tv-and-media-storage/79574972.txt
+- SPIKSMED TV storage combination, light gray: /products/tv-and-media-storage/69565237.txt
+- SPIKSMED TV storage combination, light gray: /products/tv-and-media-storage/29565244.txt
+- SPIKSMED TV storage combination, light gray: /products/tv-and-media-storage/09565240.txt
+- SKRUVBY TV storage combination, white: /products/tv-and-media-storage/89494668.txt
+- SKRUVBY TV storage combination, white: /products/tv-and-media-storage/59494660.txt
+- SKRUVBY TV storage combination, black-blue: /products/tv-and-media-storage/99494658.txt
+- SKRUVBY TV storage combination, black-blue: /products/tv-and-media-storage/29494666.txt
+- LAPPLAND TV storage unit, black-brown: /products/tv-and-media-storage/30566233.txt
+- LANESUND TV storage combination, gray-brown: /products/tv-and-media-storage/99514736.txt
+- LANESUND TV storage combination, gray-brown: /products/tv-and-media-storage/19514735.txt
+- KALLAX TV storage combination, white stained oak effect: /products/tv-and-media-storage/79569447.txt
+- KALLAX TV storage combination, white: /products/tv-and-media-storage/99569451.txt
+- KALLAX TV storage combination, black-brown: /products/tv-and-media-storage/49569444.txt
+- KALLAX / LACK TV storage combination, white stained oak effect: /products/tv-and-media-storage/69569457.txt
+- KALLAX / LACK TV storage combination, white: /products/tv-and-media-storage/89569461.txt
+- KALLAX / LACK TV storage combination, black-brown: /products/tv-and-media-storage/39569454.txt
+- JÄTTESTA TV storage combination, white/light bamboo: /products/tv-and-media-storage/99508976.txt
+- JÄTTESTA TV storage combination, white/light bamboo: /products/tv-and-media-storage/19508980.txt
+- JÄTTESTA TV storage combination, black: /products/tv-and-media-storage/59508978.txt
+- JÄTTESTA TV storage combination, black: /products/tv-and-media-storage/49508974.txt
+- IDANÄS TV storage combination, white: /products/tv-and-media-storage/99572731.txt
+- IDANÄS TV storage combination, glass/white: /products/tv-and-media-storage/39572729.txt
+- IDANÄS TV storage combination, glass/dark brown stained: /products/tv-and-media-storage/59572728.txt
+- IDANÄS TV storage combination, dark brown/stained: /products/tv-and-media-storage/79572727.txt
+- HEMNES TV storage combination, white stain: /products/tv-and-media-storage/99299548.txt
+- HEMNES TV storage combination, white stain/light brown clear glass: /products/tv-and-media-storage/99299572.txt
+- HEMNES TV storage combination, white stain/clear glass: /products/tv-and-media-storage/19299566.txt
+- HEMNES TV storage combination, black-brown: /products/tv-and-media-storage/39299546.txt
+- HEMNES TV storage combination, black-brown/light brown clear glass: /products/tv-and-media-storage/09581141.txt
+- HEMNES TV storage combination, black-brown/clear glass: /products/tv-and-media-storage/29299561.txt
+- HAVSTA TV storage combination, white: /products/tv-and-media-storage/19570571.txt
+- HAVSTA TV storage combination, white: /products/tv-and-media-storage/09570581.txt
+- HAVSTA TV storage combination, gray-beige: /products/tv-and-media-storage/89570577.txt
+- HAVSTA TV storage combination, gray-beige: /products/tv-and-media-storage/49570579.txt
+- HAVSTA TV storage combination/glass doors, white: /products/tv-and-media-storage/99570572.txt
+- HAVSTA TV storage combination/glass doors, white: /products/tv-and-media-storage/49570584.txt
+- HAVSTA TV storage combination/glass doors, gray-beige: /products/tv-and-media-storage/99570586.txt
+- HAVSTA TV storage combination/glass doors, gray-beige: /products/tv-and-media-storage/69570583.txt
+- HAVSTA TV storage combination/glass doors, black: /products/tv-and-media-storage/89570582.txt
+- HAVSTA TV storage combination/glass doors, black: /products/tv-and-media-storage/19570585.txt
+- HAVSTA TV storage combination, black: /products/tv-and-media-storage/69570578.txt
+- HAVSTA TV storage combination, black: /products/tv-and-media-storage/09570576.txt
+- HAUGA TV/storage combination, white: /products/tv-and-media-storage/99572726.txt
+- HAUGA TV/storage combination, gray: /products/tv-and-media-storage/19572725.txt
+- FJÄLLBO TV storage combination, black: /products/tv-and-media-storage/99572868.txt
+- BRIMNES TV storage combination, white: /products/tv-and-media-storage/99572745.txt
+- BRIMNES TV storage combination, white: /products/tv-and-media-storage/89572741.txt
+- BRIMNES TV storage combination, white: /products/tv-and-media-storage/89572736.txt
+- BRIMNES TV storage combination, white: /products/tv-and-media-storage/49572743.txt
+- BRIMNES TV storage combination, white: /products/tv-and-media-storage/49572738.txt
+- BRIMNES TV storage combination, white: /products/tv-and-media-storage/39572734.txt
+- BRIMNES TV storage combination/glass doors, white: /products/tv-and-media-storage/59572747.txt
+- BRIMNES TV storage combination/glass doors, white: /products/tv-and-media-storage/19572749.txt
+- BRIMNES TV storage combination/glass doors, black: /products/tv-and-media-storage/79572746.txt
+- BRIMNES TV storage combination/glass doors, black: /products/tv-and-media-storage/39572748.txt
+- BRIMNES TV storage combination, black: /products/tv-and-media-storage/69572742.txt
+- BRIMNES TV storage combination, black: /products/tv-and-media-storage/69572737.txt
+- BRIMNES TV storage combination, black: /products/tv-and-media-storage/59572733.txt
+- BRIMNES TV storage combination, black: /products/tv-and-media-storage/29572744.txt
+- BRIMNES TV storage combination, black: /products/tv-and-media-storage/29572739.txt
+- BRIMNES TV storage combination, black: /products/tv-and-media-storage/09572735.txt
+- BOASTAD TV storage combination, black/oak veneer: /products/tv-and-media-storage/89563925.txt
+- BOASTAD TV storage combination, black/oak veneer: /products/tv-and-media-storage/59563922.txt
+- BOASTAD TV storage combination, black/oak veneer: /products/tv-and-media-storage/39563923.txt
+- BOASTAD TV storage combination, black/oak veneer: /products/tv-and-media-storage/19563924.txt
+- BOASTAD storage combination, black/oak veneer: /products/tv-and-media-storage/39535218.txt
+- BAGGEBO TV storage combination, white: /products/tv-and-media-storage/79572874.txt
+- BAGGEBO TV storage combination, white: /products/tv-and-media-storage/49572875.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

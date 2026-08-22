@@ -1,0 +1,38 @@
+# @CATEGORY
+Name: Kids room pillows & blankets
+ProductCount: 16
+
+# @FILTERS
+PriceRange: $9.99 - $29.99
+Materials: 100 % polyester (100% recycled), Cushion cover: 100 % cotton, Cushion cover: 100 % polyester (100% recycled), Decoration: 95 % polyester (100% recycled), 5% elastane, Embroidery thread: 100 % polyester, Fabric/ Embroidery thread: 100 % polyester (100% recycled), Fabric: 100 % cotton, Fabric: 100 % polyester, Fabric: 100 % polyester (100% recycled), Fabric: 100 %polyester
+Brand: IKEA
+
+# @ITEMS
+- VÄNKRETS cushion, banana pattern pale green: /products/kids-room-pillows-and-blankets/90510525.txt
+- VÄNKRETS blanket, light gray: /products/kids-room-pillows-and-blankets/90504746.txt
+- SKOGSDUVA cushion with pocket, acorn shaped/brown, 12 ½x14 ½": /products/kids-room-pillows-and-blankets/10576775.txt
+- SKOGSDUVA cushion, flower-shaped/white: /products/kids-room-pillows-and-blankets/00576790.txt
+- SKOGSDUVA cushion, cylinder shaped/brown: /products/kids-room-pillows-and-blankets/30578293.txt
+- NATTSLÄNDA cushion cover, floral pattern gray/white: /products/kids-room-pillows-and-blankets/30508040.txt
+- NATTHÄGER cushion cover, multicolor/jungle: /products/kids-room-pillows-and-blankets/80595332.txt
+- NATTHÄGER cushion, blue/tiger: /products/kids-room-pillows-and-blankets/00595331.txt
+- FAMNIG HJÄRTA cushion, red: /products/kids-room-pillows-and-blankets/50473209.txt
+- BUSENKEL cushion, circus tent shape red/white: /products/kids-room-pillows-and-blankets/50523186.txt
+- BLÅVINGAD cushion, penguin-shaped black/white: /products/kids-room-pillows-and-blankets/20528374.txt
+- BLÅVINGAD cushion cover, octopus pattern/pink: /products/kids-room-pillows-and-blankets/90528375.txt
+- BLÅVINGAD cushion, coral-shaped/turquoise: /products/kids-room-pillows-and-blankets/30534077.txt
+- BLÅSKATA cushion, cylinder shaped/light gray: /products/kids-room-pillows-and-blankets/60569517.txt
+- BLÅSKATA cushion cover, purple/patterned: /products/kids-room-pillows-and-blankets/40569518.txt
+- BARNDRÖM cushion with pocket, beige: /products/kids-room-pillows-and-blankets/30511066.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

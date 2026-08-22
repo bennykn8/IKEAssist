@@ -1,0 +1,48 @@
+# @CATEGORY
+Name: AURDAL parts
+ProductCount: 26
+
+# @FILTERS
+PriceRange: $5.00 - $35.00
+Materials: Drawer bottom: Fiberboard, Plastic foil, Leg/ Mounting plate/ Pin: Steel, Epoxy/polyester powder coating, Main parts/ Bracket/ Pin: Steel, Epoxy/polyester powder coating, Main parts: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Main parts: Steel, Epoxy/polyester powder coating, Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Plastic edging, Particleboard, Paper foil, Plastic part: ABS plastic, Steel, Epoxy/polyester powder coating, Steel, Powder coating
+Brand: IKEA
+
+# @ITEMS
+- AURDAL wire basket with pull-out rail, white: /products/aurdal-parts/29331542.txt
+- AURDAL wire basket with pull-out rail, dark gray: /products/aurdal-parts/09331543.txt
+- AURDAL wire basket, white: /products/aurdal-parts/70462709.txt
+- AURDAL wire basket, dark gray: /products/aurdal-parts/50462767.txt
+- AURDAL suspension rail, white: /products/aurdal-parts/70459207.txt
+- AURDAL suspension rail, white: /products/aurdal-parts/50459208.txt
+- AURDAL suspension rail, dark gray: /products/aurdal-parts/80460955.txt
+- AURDAL suspension rail, dark gray: /products/aurdal-parts/60460956.txt
+- AURDAL side panel with leg, white: /products/aurdal-parts/50460928.txt
+- AURDAL side panel with leg, dark gray: /products/aurdal-parts/10460954.txt
+- AURDAL shoe shelf, white: /products/aurdal-parts/70460932.txt
+- AURDAL shoe shelf, dark gray: /products/aurdal-parts/30460953.txt
+- AURDAL shelf, white: /products/aurdal-parts/30459209.txt
+- AURDAL shelf, dark gray: /products/aurdal-parts/50460952.txt
+- AURDAL pull-out rail for baskets, white: /products/aurdal-parts/90462708.txt
+- AURDAL pull-out rail for baskets, dark gray: /products/aurdal-parts/70462766.txt
+- AURDAL extendable clothes rail, white: /products/aurdal-parts/60460937.txt
+- AURDAL extendable clothes rail, dark gray: /products/aurdal-parts/50460947.txt
+- AURDAL drawer without front, white: /products/aurdal-parts/20460939.txt
+- AURDAL drawer without front, dark gray: /products/aurdal-parts/70460951.txt
+- AURDAL drawer, white: /products/aurdal-parts/89331544.txt
+- AURDAL drawer front, white: /products/aurdal-parts/00460940.txt
+- AURDAL drawer front, dark gray: /products/aurdal-parts/90460950.txt
+- AURDAL drawer, dark gray: /products/aurdal-parts/59331545.txt
+- AURDAL clothes rail, white: /products/aurdal-parts/30460934.txt
+- AURDAL clothes rail, dark gray: /products/aurdal-parts/10460949.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

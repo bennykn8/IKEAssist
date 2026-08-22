@@ -1,0 +1,31 @@
+# @CATEGORY
+Name: Storage shelves & racks
+ProductCount: 9
+
+# @FILTERS
+PriceRange: $2.00 - $230.00
+Materials: Polyethylene, Solid pine, Solid spruce, Steel, Galvanized
+Brand: IKEA
+
+# @ITEMS
+- HEJNE shelf unit, softwood: /products/storage-shelves-and-racks/79031414.txt
+- HEJNE shelf unit, softwood: /products/storage-shelves-and-racks/39031411.txt
+- HEJNE shelf, softwood: /products/storage-shelves-and-racks/80287809.txt
+- HEJNE Shelf, softwood, 30 3/8x11" 2 pack: /products/storage-shelves-and-racks/00287808.txt
+- HEJNE post, softwood: /products/storage-shelves-and-racks/00286677.txt
+- HEJNE end cap, gray: /products/storage-shelves-and-racks/90286673.txt
+- HEJNE 4 section shelving unit, softwood: /products/storage-shelves-and-racks/49046978.txt
+- HEJNE 3 section shelving unit, softwood: /products/storage-shelves-and-racks/99031408.txt
+- HEJNE 2 section shelving unit, with end protectors/softwood: /products/storage-shelves-and-racks/09031417.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

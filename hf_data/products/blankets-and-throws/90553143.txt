@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: STRANDÖN picnic blanket, white green/leaf pattern
+SKU: 90553143
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/strandoen-picnic-blanket-white-green-leaf-pattern-90553143/
+Category: Blankets & throws
+Description: , 44x66" Time to pack your basket with goodies and head to the beach or the park? Then STRANDÖN picnic blanket with its lovely pattern in summery colors is perfect to bring along. You can hide small v...
+
+# @OFFER
+Price: 29.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top fabric/ Back fabric/ Piping/ Bag: 100% polyester (min. 90% recycled), Filling: Polyester/recycled fiber wadding
+Care: Hand wash warm water. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/strandoen-picnic-blanket-white-green-leaf-pattern__1170596_pe892871_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,72 @@
+# @CATEGORY
+Name: Food containers
+ProductCount: 50
+
+# @FILTERS
+PriceRange: $1.49 - $12.99
+Materials: Glass, Heat resistant glass, Lid: Bamboo, Clear acrylic lacquer, Lid: Glass, Lid: Polypropylene, Polypropylene, Seal: Silicone rubber, Silicone rubber, Stainless steel, Steel, Polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- UTBJUDA stackable lunch box for dry food, light grey-beige: /products/food-containers/00518658.txt
+- UTBJUDA stackable lunch box for dry food, light green: /products/food-containers/60607114.txt
+- SPLITTERNY snack container, clear/light gray-brown, 10 oz: /products/food-containers/30586293.txt
+- IKEA 365+ jar with lid, glass, 57 oz: /products/food-containers/49567256.txt
+- IKEA 365+ jar with lid, glass, 112 oz: /products/food-containers/29567257.txt
+- IKEA 365+ food storage basket with lid, square metal/white bamboo: /products/food-containers/49580875.txt
+- IKEA 365+ food storage basket with lid, square metal/light gray-brown bamboo: /products/food-containers/49581479.txt
+- IKEA 365+ food container with lid, square stainless steel/silicone, 20 oz: /products/food-containers/19563127.txt
+- IKEA 365+ food container with lid, square stainless steel/plastic, 20 oz: /products/food-containers/69563120.txt
+- IKEA 365+ food container with lid, square stainless steel/bamboo, 20 oz: /products/food-containers/89563124.txt
+- IKEA 365+ food container with lid, square plastic/silicone, 47 oz: /products/food-containers/29567115.txt
+- IKEA 365+ food container with lid, square plastic/silicone, 25 oz: /products/food-containers/09567121.txt
+- IKEA 365+ food container with lid, square/plastic, 25 oz: /products/food-containers/89567122.txt
+- IKEA 365+ food container with lid, square/plastic, 47 oz: /products/food-containers/09567116.txt
+- IKEA 365+ food container with lid, square glass/silicone, 41 oz: /products/food-containers/59567114.txt
+- IKEA 365+ food container with lid, square glass/silicone, 20 oz: /products/food-containers/49567119.txt
+- IKEA 365+ food container with lid, square glass/plastic, 41 oz: /products/food-containers/79567113.txt
+- IKEA 365+ food container with lid, square glass/plastic, 20 oz: /products/food-containers/69567118.txt
+- IKEA 365+ food container with lid, square glass/bamboo, 41 oz: /products/food-containers/99567112.txt
+- IKEA 365+ food container with lid, square glass/bamboo, 20 oz: /products/food-containers/89567117.txt
+- IKEA 365+ food container with lid, round plastic/silicone, 15 oz: /products/food-containers/99567126.txt
+- IKEA 365+ food container with lid, round plastic/silicone, 25 oz: /products/food-containers/59567166.txt
+- IKEA 365+ food container with lid, round/plastic, 15 oz: /products/food-containers/79567127.txt
+- IKEA 365+ food container with lid, round/plastic, 25 oz: /products/food-containers/39567167.txt
+- IKEA 365+ food container with lid, round glass/silicone, 20 oz: /products/food-containers/19567149.txt
+- IKEA 365+ food container with lid, round glass/silicone, 14 oz: /products/food-containers/19567125.txt
+- IKEA 365+ food container with lid, round glass/plastic, 14 oz: /products/food-containers/49567124.txt
+- IKEA 365+ food container with lid, round glass/plastic, 20 oz: /products/food-containers/39567148.txt
+- IKEA 365+ food container with lid, round glass/bamboo, 14 oz: /products/food-containers/69567123.txt
+- IKEA 365+ food container with lid, round glass/bamboo, 20 oz: /products/food-containers/59567147.txt
+- IKEA 365+ food container with lid, rectangular stainless steel/silicone, 34 oz: /products/food-containers/19567111.txt
+- IKEA 365+ food container with lid, rectangular stainless steel/plastic, 34 oz: /products/food-containers/59567109.txt
+- IKEA 365+ food container with lid, rectangular stainless steel/bamboo, 34 oz: /products/food-containers/39567110.txt
+- IKEA 365+ food container with lid, rectangular plastic/silicone, 34 oz: /products/food-containers/59567067.txt
+- IKEA 365+ food container with lid, rectangular plastic/silicone, 68 oz: /products/food-containers/29567097.txt
+- IKEA 365+ food container with lid, rectangular/plastic, 5 qt: /products/food-containers/99567174.txt
+- IKEA 365+ food container with lid, rectangular/plastic, 11 qt: /products/food-containers/39567172.txt
+- IKEA 365+ food container with lid, rectangular/plastic, 34 oz: /products/food-containers/39567068.txt
+- IKEA 365+ food container with lid, rectangular/plastic, 68 oz: /products/food-containers/29567101.txt
+- IKEA 365+ food container with lid, rectangular/plastic, 4 qt: /products/food-containers/19567106.txt
+- IKEA 365+ food container with lid, rectangular glass/silicone, 34 oz: /products/food-containers/49567063.txt
+- IKEA 365+ food container with lid, rectangular glass/silicone, 61 oz: /products/food-containers/39567092.txt
+- IKEA 365+ food container with lid, rectangular glass/plastic, 34 oz: /products/food-containers/89567061.txt
+- IKEA 365+ food container with lid, rectangular glass/plastic, 61 oz: /products/food-containers/59567072.txt
+- IKEA 365+ food container with lid, rectangular/glass plastic, 3 qt: /products/food-containers/19567173.txt
+- IKEA 365+ food container with lid, rectangular glass/bamboo, 61 oz: /products/food-containers/79567071.txt
+- IKEA 365+ food container with lid, rectangular glass/bamboo, 34 oz: /products/food-containers/79567009.txt
+- IKEA 365+ food container with lid, large rectangular/stainless steel plastic, 101 oz: /products/food-containers/29563117.txt
+- IKEA 365+ food container with lid, glass, 14 oz: /products/food-containers/99567254.txt
+- IKEA 365+ food container with lid, glass, 20 oz: /products/food-containers/69567255.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

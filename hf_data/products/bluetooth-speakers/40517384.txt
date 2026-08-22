@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: VAPPEBY bluetooth speaker, white/gen
+SKU: 40517384
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vappeby-bluetooth-speaker-white-gen-3-40517384/
+Category: Bluetooth speakers
+Description: 3, 8x8" VAPPEBY Bluetooth speaker, gen 3 has a clear, powerful sound – and comes with the Spotify Tap™ playback function. Get two for stereo sound at home or add a battery and bring your music everywh...
+
+# @OFFER
+Price: 79.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Front panel/ Back panel/ Button: ABS plastic (min. 50% recycled), Handle: Aluminum, Knob: ABS plastic
+Features: May be completed with ENEBY battery for 25 hours of playtime, sold separately. | A button on the back allows you to choose a function that automatically turns the speaker off if no music is played for 20 minutes or to always keep the Bluetooth connection active. | VAPPEBY Bluetooth speaker 7⅞x7⅞", gen 3 is the successor of ENEBY Bluetooth speaker 7⅞x7⅞", gen 2.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vappeby-bluetooth-speaker-white-gen-3__1218130_pe913142_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

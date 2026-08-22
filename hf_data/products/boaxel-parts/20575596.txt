@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: BOAXEL suspension rail, anthracite
+SKU: 20575596
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/boaxel-suspension-rail-anthracite-20575596/
+Category: BOAXEL parts
+Description: , 321/2" Slightly slanting and crooked might be fine – but not when mounting a storage system. Not to worry – this mounting rail makes it easy to hang BOAXEL wall uprights straight and correctly on th...
+
+# @OFFER
+Price: 6
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Galvanized steel, Epoxy/polyester powder coating
+Dimensions: The mounting rail can be cut to an exact width if needed. Only applicable when using more than one mounting rail or for the adjustable clothes rail and shelf.
+Features: Together with a spirit level, use the holes at the ends of the mounting rail for the final vertical adjustments to ensure that the mounting rail is positioned straight on the wall. | The mounting rail is only a help during mounting, it should not be loaded with any weight. | Be aware that different wall materials are able to support different loads of weight. For instance, walls made of drywall cannot support as much weight as walls made of wood, concrete, or brick.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/boaxel-suspension-rail-anthracite__1259749_pe926770_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

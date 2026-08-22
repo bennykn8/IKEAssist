@@ -1,0 +1,23 @@
+# @CATEGORY
+Name: Lumbar support pillows
+ProductCount: 1
+
+# @FILTERS
+PriceRange: $11.99 - $11.99
+Materials: Core filling: Polyurethane foam., Cover: 100% polyester (min. 90% recycled)
+Brand: IKEA
+
+# @ITEMS
+- RAGGARV neck/lumbar pillow: /products/lumbar-support-pillows/20530353.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

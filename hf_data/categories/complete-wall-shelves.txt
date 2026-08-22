@@ -1,0 +1,141 @@
+# @CATEGORY
+Name: Complete wall shelves
+ProductCount: 119
+
+# @FILTERS
+PriceRange: $4.99 - $249.99
+Materials: Aluminum, Nickel plated, Clear acrylic lacquer, Aluminum, Powder coating, Back panel: Fiberboard, Back panel: Fiberboard, Acrylic paint, Bracket: Steel, Epoxy/polyester powder coating, Fiberboard, Acrylic paint, Filling material: Honeycomb structure paper filling (100% recycled), Filling material: Honeycomb structure paper filling (min. 70% recycled), Frame/ Bracket: Steel, Epoxy/polyester powder coating, Frame: Steel, Epoxy/polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- TROXHULT wall shelf, white: /products/complete-wall-shelves/60401127.txt
+- TRANHULT / SANDSHULT wall shelf, white stained aspen: /products/complete-wall-shelves/59326087.txt
+- TRANHULT / SANDSHULT wall shelf, white stained aspen: /products/complete-wall-shelves/39326093.txt
+- TRANHULT / SANDSHULT wall shelf combination, white stained aspen: /products/complete-wall-shelves/09336338.txt
+- TRANHULT / SANDSHULT wall shelf combination, aspen: /products/complete-wall-shelves/69336335.txt
+- TRANHULT / SANDSHULT wall shelf, aspen: /products/complete-wall-shelves/99326090.txt
+- TRANHULT / SANDSHULT wall shelf, aspen: /products/complete-wall-shelves/69326096.txt
+- TRANHULT / KROKSHULT wall shelf, white stained aspen: /products/complete-wall-shelves/59336326.txt
+- TRANHULT / KROKSHULT wall shelf, white stained aspen: /products/complete-wall-shelves/39336332.txt
+- TRANHULT / KROKSHULT wall shelf, aspen: /products/complete-wall-shelves/99336329.txt
+- TRANHULT / KROKSHULT wall shelf, aspen: /products/complete-wall-shelves/29336323.txt
+- SVENSHULT wall shelf, gray-green: /products/complete-wall-shelves/90557259.txt
+- SPIKSMED media shelf, light gray: /products/complete-wall-shelves/00573150.txt
+- SKOMAKARE wall shelf, white/aspen: /products/complete-wall-shelves/80550197.txt
+- LACK wall shelf, white stained oak effect: /products/complete-wall-shelves/60431073.txt
+- LACK wall shelf, white stained oak effect: /products/complete-wall-shelves/60383519.txt
+- LACK wall shelf, white: /products/complete-wall-shelves/90282180.txt
+- LACK Wall shelf, white: /products/complete-wall-shelves/50282182.txt
+- LACK Wall shelf, white: /products/complete-wall-shelves/50282177.txt
+- LACK wall shelf, red: /products/complete-wall-shelves/70595417.txt
+- LACK Wall shelf, black-brown: /products/complete-wall-shelves/40430588.txt
+- LACK Wall shelf, black-brown: /products/complete-wall-shelves/40103751.txt
+- LACK Wall shelf, black-brown: /products/complete-wall-shelves/40103633.txt
+- LACK wall shelf, black-blue: /products/complete-wall-shelves/10595420.txt
+- GULLHULT wall shelf, black/pine antique: /products/complete-wall-shelves/80417735.txt
+- FRYKSÅS wall shelf, rattan: /products/complete-wall-shelves/10549348.txt
+- FJÄLLBO wall shelf combination, black: /products/complete-wall-shelves/69338546.txt
+- FJÄLLBO wall shelf, black: /products/complete-wall-shelves/80421247.txt
+- EKBY ALEX / RAMSHULT wall shelf, white/white: /products/complete-wall-shelves/39290956.txt
+- EKBY ALEX / RAMSHULT wall shelf, white/black: /products/complete-wall-shelves/09290953.txt
+- BURHULT / SIBBHULT wall shelf, white/white: /products/complete-wall-shelves/89325963.txt
+- BURHULT / SIBBHULT wall shelf combination, white/white: /products/complete-wall-shelves/09326099.txt
+- BURHULT / SANDSHULT wall shelf, white/white stained aspen: /products/complete-wall-shelves/49325984.txt
+- BURHULT / SANDSHULT wall shelf, white/aspen: /products/complete-wall-shelves/09325981.txt
+- BOASTAD wall shelf, black/oak veneer: /products/complete-wall-shelves/50527783.txt
+- BOASTAD wall shelf, black/oak veneer: /products/complete-wall-shelves/00507018.txt
+- BERGSHULT / TOMTHULT shelf with bracket, white: /products/complete-wall-shelves/99418315.txt
+- BERGSHULT / TOMTHULT shelf with bracket, white: /products/complete-wall-shelves/79418321.txt
+- BERGSHULT / TOMTHULT shelf with bracket, white: /products/complete-wall-shelves/39418318.txt
+- BERGSHULT / TOMTHULT shelf with bracket, white: /products/complete-wall-shelves/19418324.txt
+- BERGSHULT / SANDSHULT wall shelf, white/white stained aspen: /products/complete-wall-shelves/39326026.txt
+- BERGSHULT / SANDSHULT wall shelf, white/white stained aspen: /products/complete-wall-shelves/09326042.txt
+- BERGSHULT / SANDSHULT wall shelf, white/aspen: /products/complete-wall-shelves/59326025.txt
+- BERGSHULT / SANDSHULT wall shelf, white/aspen: /products/complete-wall-shelves/29326041.txt
+- BERGSHULT / SANDSHULT wall shelf, brown-black/white stained aspen: /products/complete-wall-shelves/59326030.txt
+- BERGSHULT / SANDSHULT wall shelf, brown-black/white stained aspen: /products/complete-wall-shelves/49326016.txt
+- BERGSHULT / SANDSHULT wall shelf, brown-black/aspen: /products/complete-wall-shelves/99326014.txt
+- BERGSHULT / SANDSHULT wall shelf, brown-black/aspen: /products/complete-wall-shelves/79326029.txt
+- BERGSHULT / RAMSHULT wall shelf, white: /products/complete-wall-shelves/99325477.txt
+- BERGSHULT / RAMSHULT wall shelf, white: /products/complete-wall-shelves/99290623.txt
+- BERGSHULT / RAMSHULT wall shelf, white: /products/complete-wall-shelves/79290596.txt
+- BERGSHULT / RAMSHULT wall shelf, white: /products/complete-wall-shelves/69325469.txt
+- BERGSHULT / RAMSHULT wall shelf, walnut effect/black: /products/complete-wall-shelves/99491155.txt
+- BERGSHULT / RAMSHULT wall shelf, walnut effect/black: /products/complete-wall-shelves/79491156.txt
+- BERGSHULT / RAMSHULT wall shelf, walnut effect/black: /products/complete-wall-shelves/59491157.txt
+- BERGSHULT / RAMSHULT wall shelf, walnut effect/black: /products/complete-wall-shelves/39491158.txt
+- BERGSHULT / RAMSHULT wall shelf, gray-beige: /products/complete-wall-shelves/99563519.txt
+- BERGSHULT / RAMSHULT wall shelf, gray-beige: /products/complete-wall-shelves/79563520.txt
+- BERGSHULT / RAMSHULT wall shelf, gray-beige: /products/complete-wall-shelves/59563521.txt
+- BERGSHULT / RAMSHULT wall shelf, gray-beige: /products/complete-wall-shelves/39563517.txt
+- BERGSHULT / RAMSHULT wall shelf combination, white: /products/complete-wall-shelves/29291112.txt
+- BERGSHULT / RAMSHULT wall shelf combination, brown-black: /products/complete-wall-shelves/29291107.txt
+- BERGSHULT / RAMSHULT wall shelf, brown-black: /products/complete-wall-shelves/99290618.txt
+- BERGSHULT / RAMSHULT wall shelf, brown-black: /products/complete-wall-shelves/79325464.txt
+- BERGSHULT / RAMSHULT wall shelf, brown-black: /products/complete-wall-shelves/29290612.txt
+- BERGSHULT / RAMSHULT wall shelf, brown-black: /products/complete-wall-shelves/09325472.txt
+- BERGSHULT / PERSHULT wall shelf, white/white: /products/complete-wall-shelves/79290775.txt
+- BERGSHULT / PERSHULT wall shelf, white/white: /products/complete-wall-shelves/69290747.txt
+- BERGSHULT / PERSHULT wall shelf, white/white: /products/complete-wall-shelves/39290701.txt
+- BERGSHULT / PERSHULT wall shelf, white/white: /products/complete-wall-shelves/09290731.txt
+- BERGSHULT / PERSHULT wall shelf combination, white/white: /products/complete-wall-shelves/89323718.txt
+- BERGSHULT / PERSHULT wall shelf combination, white/white: /products/complete-wall-shelves/79323592.txt
+- BERGSHULT / PERSHULT wall shelf combination, white/white: /products/complete-wall-shelves/59291158.txt
+- BERGSHULT / PERSHULT wall shelf combination, white/white: /products/complete-wall-shelves/39291183.txt
+- BERGSHULT / PERSHULT wall shelf combination, brown-black/white: /products/complete-wall-shelves/99291180.txt
+- BERGSHULT / PERSHULT wall shelf combination, brown-black/white: /products/complete-wall-shelves/69291153.txt
+- BERGSHULT / PERSHULT wall shelf, brown-black/white: /products/complete-wall-shelves/89290765.txt
+- BERGSHULT / PERSHULT wall shelf, brown-black/white: /products/complete-wall-shelves/79290737.txt
+- BERGSHULT / PERSHULT wall shelf, brown-black/white: /products/complete-wall-shelves/29290711.txt
+- BERGSHULT / PERSHULT wall shelf, brown-black/white: /products/complete-wall-shelves/19290721.txt
+- BERGSHULT / KROKSHULT wall shelf, white/anthracite: /products/complete-wall-shelves/89326062.txt
+- BERGSHULT / KROKSHULT wall shelf, white/anthracite: /products/complete-wall-shelves/59326054.txt
+- BERGSHULT / KROKSHULT wall shelf, white/anthracite: /products/complete-wall-shelves/49326078.txt
+- BERGSHULT / KROKSHULT wall shelf, white/anthracite: /products/complete-wall-shelves/19326070.txt
+- BERGSHULT / KROKSHULT wall shelf, walnut effect/anthracite: /products/complete-wall-shelves/79491000.txt
+- BERGSHULT / KROKSHULT wall shelf, walnut effect/anthracite: /products/complete-wall-shelves/59491001.txt
+- BERGSHULT / KROKSHULT wall shelf, walnut effect/anthracite: /products/complete-wall-shelves/39491002.txt
+- BERGSHULT / KROKSHULT wall shelf, walnut effect/anthracite: /products/complete-wall-shelves/19490999.txt
+- BERGSHULT / KROKSHULT wall shelf, brown-black/anthracite: /products/complete-wall-shelves/89326057.txt
+- BERGSHULT / KROKSHULT wall shelf, brown-black/anthracite: /products/complete-wall-shelves/59326073.txt
+- BERGSHULT / KROKSHULT wall shelf, brown-black/anthracite: /products/complete-wall-shelves/59326049.txt
+- BERGSHULT / KROKSHULT wall shelf, brown-black/anthracite: /products/complete-wall-shelves/19326065.txt
+- BERGSHULT / GRANHULT wall shelf, white/nickel plated: /products/complete-wall-shelves/69290808.txt
+- BERGSHULT / GRANHULT wall shelf, white/nickel plated: /products/complete-wall-shelves/59290941.txt
+- BERGSHULT / GRANHULT wall shelf, white/nickel plated: /products/complete-wall-shelves/39290824.txt
+- BERGSHULT / GRANHULT wall shelf, white/nickel plated: /products/complete-wall-shelves/29290933.txt
+- BERGSHULT / GRANHULT wall shelf, walnut effect/nickel plated: /products/complete-wall-shelves/99491004.txt
+- BERGSHULT / GRANHULT wall shelf, walnut effect/nickel plated: /products/complete-wall-shelves/69491005.txt
+- BERGSHULT / GRANHULT wall shelf combination, white/nickel plated: /products/complete-wall-shelves/79291082.txt
+- BERGSHULT / GRANHULT wall shelf combination, white/nickel plated: /products/complete-wall-shelves/49291069.txt
+- BERGSHULT / GRANHULT wall shelf combination, brown-black/nickel plated: /products/complete-wall-shelves/79291077.txt
+- BERGSHULT / GRANHULT wall shelf combination, brown-black/nickel plated: /products/complete-wall-shelves/09291066.txt
+- BERGSHULT / GRANHULT wall shelf, brown-black/nickel plated: /products/complete-wall-shelves/79290803.txt
+- BERGSHULT / GRANHULT wall shelf, brown-black/nickel plated: /products/complete-wall-shelves/59290936.txt
+- BERGSHULT / GRANHULT wall shelf, brown-black/nickel plated: /products/complete-wall-shelves/39290819.txt
+- BERGSHULT / GRANHULT wall shelf, brown-black/nickel plated: /products/complete-wall-shelves/29290928.txt
+- BERGSHULT / FÖRLÄGGARE wall shelf, white/white: /products/complete-wall-shelves/89562723.txt
+- BERGSHULT / FÖRLÄGGARE wall shelf, white/white: /products/complete-wall-shelves/79562686.txt
+- BERGSHULT / FÖRLÄGGARE wall shelf, white/white: /products/complete-wall-shelves/49562720.txt
+- BERGSHULT / FÖRLÄGGARE wall shelf, white/white: /products/complete-wall-shelves/09562722.txt
+- BERGSHULT / FÖRLÄGGARE wall shelf, brown-black/black: /products/complete-wall-shelves/99562751.txt
+- BERGSHULT / FÖRLÄGGARE wall shelf, brown-black/black: /products/complete-wall-shelves/79562752.txt
+- BERGSHULT / FÖRLÄGGARE wall shelf, brown-black/black: /products/complete-wall-shelves/39562749.txt
+- BERGSHULT / FÖRLÄGGARE wall shelf, brown-black/black: /products/complete-wall-shelves/19562750.txt
+- BERGSHULT / FÖRLÄGGARE wall shelf, black/white: /products/complete-wall-shelves/99572793.txt
+- BERGSHULT / FÖRLÄGGARE wall shelf, black/white: /products/complete-wall-shelves/79572789.txt
+- BERGSHULT / FÖRLÄGGARE wall shelf, black/white: /products/complete-wall-shelves/39572791.txt
+- BERGSHULT / FÖRLÄGGARE wall shelf, black/white: /products/complete-wall-shelves/19572792.txt
+- APOTEKARE wall shelf, black: /products/complete-wall-shelves/00550196.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

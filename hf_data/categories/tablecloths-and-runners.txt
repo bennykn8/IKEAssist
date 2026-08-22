@@ -1,0 +1,42 @@
+# @CATEGORY
+Name: Tablecloths & runners
+ProductCount: 20
+
+# @FILTERS
+PriceRange: $5.99 - $34.99
+Materials: 100 % cotton, 100 % polyester (100% recycled), 100 % Polyacrylic, 80 % cotton, 20 % jute, 85 % cotton, 15 % jute, 90 % cotton, 10 % jute, 90 % lyocell, 10 % viscose/rayon
+Brand: IKEA
+
+# @ITEMS
+- VIPPSTARR tablecloth, stripe pattern red/natural: /products/tablecloths-and-runners/40559185.txt
+- VÅRARV table runner, dark gray/natural: /products/tablecloths-and-runners/20545854.txt
+- SVARTSENAP tablecloth, pink-red: /products/tablecloths-and-runners/50545937.txt
+- SVARTSENAP tablecloth, gray: /products/tablecloths-and-runners/00545930.txt
+- SVARTSENAP table runner, natural: /products/tablecloths-and-runners/40533063.txt
+- SVARTSENAP table runner, gray: /products/tablecloths-and-runners/10533069.txt
+- STRANDFLOKA table runner, patterned/multicolor: /products/tablecloths-and-runners/00579920.txt
+- SLÖJSTJÄRT tablecloth, white/red: /products/tablecloths-and-runners/10594067.txt
+- SILVERARV tablecloth, beige: /products/tablecloths-and-runners/80526579.txt
+- PILLERSTARR tablecloth, patterned/blue white: /products/tablecloths-and-runners/80597350.txt
+- PILLERSTARR tablecloth, multicolor/round: /products/tablecloths-and-runners/20602359.txt
+- NISSÖGA tablecloth, gray: /products/tablecloths-and-runners/00555047.txt
+- NISSÖGA tablecloth, blue: /products/tablecloths-and-runners/30555036.txt
+- NISSÖGA tablecloth, beige/white: /products/tablecloths-and-runners/00555033.txt
+- MÄVINN table runner, white red/tassel: /products/tablecloths-and-runners/00594812.txt
+- MÄVINN table runner, off-white/green stripe: /products/tablecloths-and-runners/10600916.txt
+- LIGUSTER tablecloth, patterned white: /products/tablecloths-and-runners/50568113.txt
+- KUSTFYR tablecloth, white/black: /products/tablecloths-and-runners/30620485.txt
+- KRUSTISTEL tablecloth, patterned/white light beige: /products/tablecloths-and-runners/00584224.txt
+- HÖSTAGILLE tablecloth, beige: /products/tablecloths-and-runners/50600311.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

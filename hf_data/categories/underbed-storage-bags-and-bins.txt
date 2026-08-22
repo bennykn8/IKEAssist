@@ -1,0 +1,46 @@
+# @CATEGORY
+Name: Underbed storage bags & bins
+ProductCount: 24
+
+# @FILTERS
+PriceRange: $17.99 - $100.00
+Materials: Bottom panel: Fiberboard, Acrylic paint, Paper foil, Plastic foil, Bottom panel: Fiberboard, Foil, Acrylic paint, Bottom panel: Fiberboard, Paper foil, Plastic foil, Acrylic paint, Plastic foil, Paper foil, Paper foil, Acrylic paint, Drawer back/ Drawer sides/ Partition: Particleboard, Melamine foil, Plastic foil, Paper foil, Melamine foil, Plastic edging, Drawer back: Particleboard, Paper foil, Paper edging, Drawer bottom: Fiberboard, Paint, Paper foil, Drawer bottom: Particleboard, Laminate (melamine), ABS plastic, Drawer bottom: Particleboard, Laminate, Plastic edging, Drawer bottom: Particleboard, Melamine foil, Plastic edging, Drawer front/ Drawer back/ Drawer sides/ Partition/ Rail: Particleboard, Paper foil, Plastic edging
+Brand: IKEA
+
+# @ITEMS
+- VIHALS underbed storage box, set of 2, white, Full/Double/Twin/Single: /products/underbed-storage-bags-and-bins/50595121.txt
+- VIHALS underbed storage box, set of 2, white, Queen: /products/underbed-storage-bags-and-bins/20602463.txt
+- VARDÖ underbed storage box, white: /products/underbed-storage-bags-and-bins/00222671.txt
+- VARDÖ Underbed storage box, black: /products/underbed-storage-bags-and-bins/20238223.txt
+- SONGESAND underbed storage box, set of 2, white, Queen/King: /products/underbed-storage-bags-and-bins/70372544.txt
+- SONGESAND Underbed storage box, set of 2, white, Full/Double/Twin/Single: /products/underbed-storage-bags-and-bins/10372542.txt
+- SONGESAND underbed storage box, set of 2, brown, Queen/King: /products/underbed-storage-bags-and-bins/90372543.txt
+- SONGESAND Underbed storage box, set of 2, brown, Full/Double/Twin/Single: /products/underbed-storage-bags-and-bins/30372541.txt
+- SOCKERBIT storage box with lid, white, 19 ¾x30 ¼x7 ½": /products/underbed-storage-bags-and-bins/20411524.txt
+- MALM Underbed storage box for high bed, white, Queen/King: /products/underbed-storage-bags-and-bins/20252723.txt
+- MALM underbed storage box for high bed, white, Full/Double/Twin/Single: /products/underbed-storage-bags-and-bins/00252719.txt
+- MALM underbed storage box for high bed, oak veneer, Queen/King: /products/underbed-storage-bags-and-bins/90599424.txt
+- MALM underbed storage box for high bed, oak veneer, Full/Double/Twin/Single: /products/underbed-storage-bags-and-bins/50599421.txt
+- MALM underbed storage box for high bed, dark brown veneer, Full/Double/Twin/Single: /products/underbed-storage-bags-and-bins/70599439.txt
+- MALM underbed storage box for high bed, dark brown veneer, Queen/King: /products/underbed-storage-bags-and-bins/50599440.txt
+- MALM underbed storage box for high bed, blue, Queen/King: /products/underbed-storage-bags-and-bins/50590166.txt
+- HEMNES underbed storage box, set of 2, white stain, Twin/Full: /products/underbed-storage-bags-and-bins/90326297.txt
+- HEMNES Underbed storage box, set of 2, white white stain white stained, Queen/King: /products/underbed-storage-bags-and-bins/40326290.txt
+- HEMNES Underbed storage box, set of 2, dark gray stained, Queen/King: /products/underbed-storage-bags-and-bins/10381730.txt
+- HEMNES Underbed storage box, set of 2, dark gray stained, Twin/Full: /products/underbed-storage-bags-and-bins/00381759.txt
+- HEMNES underbed storage box, set of 2, black-brown, Queen/King: /products/underbed-storage-bags-and-bins/80326288.txt
+- HEMNES Underbed storage box, set of 2, black-brown, Twin/Full: /products/underbed-storage-bags-and-bins/10326296.txt
+- GLADSTAD upholstered bed storage box, Kabusa light gray, Full/Double/Twin/Single: /products/underbed-storage-bags-and-bins/60498426.txt
+- GLADSTAD upholstered bed storage box, Kabusa light gray, Queen/King: /products/underbed-storage-bags-and-bins/40498427.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

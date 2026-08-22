@@ -1,0 +1,56 @@
+# @CATEGORY
+Name: Extendable tables
+ProductCount: 34
+
+# @FILTERS
+PriceRange: $99.99 - $799.99
+Materials: Bottom panel: Particleboard, Acrylic paint, Plastic edging, Bottom: Particleboard, Acrylic paint, Plastic edging, Cross rail: Particleboard, Plastic foil, Cross rail: Particleboard, Plastic foil, Paper foil, Cross rail: Solid birch, Adhesive, Cross rail: Solid birch, Clear acrylic lacquer, Drawer bottom: Fiberboard, Fiberboard, Drawer front/ Drawer bottom: Fiberboard, Acrylic paint, Drawer side: Fiberboard, Birch veneer, Tinted clear acrylic lacquer, Drop-leaf: Particleboard, Melamine foil, Plastic edging, Acrylic paint
+Brand: IKEA
+
+# @ITEMS
+- VIHALS extendable table, white: /products/extendable-tables/90569097.txt
+- VIHALS extendable table, white: /products/extendable-tables/20589777.txt
+- TONSTAD extendable table, off-white: /products/extendable-tables/60600725.txt
+- TONSTAD extendable table, off-white: /products/extendable-tables/40600731.txt
+- TONSTAD extendable table, oak veneer: /products/extendable-tables/40593882.txt
+- TONSTAD extendable table, brown stained oak veneer: /products/extendable-tables/40600726.txt
+- TONSTAD extendable table, brown stained oak veneer: /products/extendable-tables/20600732.txt
+- TARSELE extendable table, oak veneer/black: /products/extendable-tables/70581359.txt
+- STRANDTORP extendable table, brown: /products/extendable-tables/80388587.txt
+- SKANSNÄS extendable table, brown beech/veneer: /products/extendable-tables/70563237.txt
+- SKANSNÄS extendable table, brown beech/veneer: /products/extendable-tables/00565758.txt
+- RÖNNINGE extendable table, birch: /products/extendable-tables/50416030.txt
+- RÖNNINGE extendable table, birch: /products/extendable-tables/30507465.txt
+- PINNTORP gateleg table, light brown stained/white stained: /products/extendable-tables/70529465.txt
+- NORDVIKEN extendable table, black: /products/extendable-tables/70359991.txt
+- NORDVIKEN Extendable table, black: /products/extendable-tables/20368714.txt
+- NORDVIKEN extendable table, antique stain: /products/extendable-tables/80488544.txt
+- NORDVIKEN extendable table, antique stain: /products/extendable-tables/00488543.txt
+- NORDVIKEN drop-leaf table, black: /products/extendable-tables/70368716.txt
+- NORDEN Gateleg table, white: /products/extendable-tables/10423886.txt
+- NORDEN gateleg table, birch: /products/extendable-tables/90423887.txt
+- LANEBERG extendable table, white: /products/extendable-tables/60416138.txt
+- KALLHÄLL gateleg table with storage, white/light gray: /products/extendable-tables/00511223.txt
+- INGATORP extendable table, white: /products/extendable-tables/70221423.txt
+- INGATORP Extendable table, white, Max. length:: /products/extendable-tables/40217069.txt
+- INGATORP extendable table, gray: /products/extendable-tables/90430345.txt
+- INGATORP extendable table, black: /products/extendable-tables/90222407.txt
+- INGATORP extendable table, black: /products/extendable-tables/80217072.txt
+- IKEA PS 2012 Drop-leaf table, bamboo, white: /products/extendable-tables/20206806.txt
+- EKEDALEN extendable table, white: /products/extendable-tables/70340826.txt
+- EKEDALEN extendable table, white: /products/extendable-tables/70340807.txt
+- EKEDALEN Extendable table, dark brown, Min. length: 47 1/: /products/extendable-tables/40340804.txt
+- EKEDALEN Extendable table, dark brown, Min. length: 70 7/: /products/extendable-tables/20340758.txt
+- DANDERYD drop-leaf table, oak veneer/white: /products/extendable-tables/10516121.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

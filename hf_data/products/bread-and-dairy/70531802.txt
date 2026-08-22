@@ -1,0 +1,30 @@
+# @PRODUCT
+Name: HJÄLTEROLL Muesli, with cocoa and dried berries/Rainforest Alliance Certified, 1 lb
+SKU: 70531802
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hjaelteroll-muesli-with-cocoa-and-dried-berries-rainforest-alliance-certified-70531802/
+Category: Bread & dairy
+Description: HJÄLTEROLL is great any time of day – and for the whole family. As a good start to the morning, as a filling snack or as a light dessert in the evening. Choose between tasty granola, muesli and porrid...
+
+# @OFFER
+Price: 5.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hjaelteroll-muesli-with-cocoa-and-dried-berries-rainforest-alliance-certified__1137056_pe879561_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

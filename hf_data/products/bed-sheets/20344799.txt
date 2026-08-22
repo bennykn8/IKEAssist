@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ULLVIDE fitted sheet, gray, Twin
+SKU: 20344799
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ullvide-fitted-sheet-gray-20344799/
+Category: Bed sheets
+Description: The cool and crisp percale quality is densely woven with a high thread count from cotton and lyocell. The material breathes, absorbs moisture, is resistant to pilling – and feels irresistibly soft.
+
+# @OFFER
+Price: 14.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 85 % cotton, 15 % lyocell
+Features: 200 thread count. | Thread count indicates the number of threads per square inch of fabric. The higher the thread count the more densely woven the fabric.
+Care: Shrinkage maximum 4%. | Machine wash warm (max 140°F/60°C) normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ullvide-fitted-sheet-gray__0604097_pe681038_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

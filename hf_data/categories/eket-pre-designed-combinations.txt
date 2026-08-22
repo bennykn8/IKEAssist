@@ -1,0 +1,149 @@
+# @CATEGORY
+Name: EKET pre-designed combinations
+ProductCount: 127
+
+# @FILTERS
+PriceRange: $42.00 - $459.00
+Materials: Back panel: Fiberboard, Paper foil, Back panel: Fiberboard, Paper foil, Plastic foil, Back: Fiberboard, Paint, Paper foil, Door panel: Particleboard, Fiberboard, Paper foil, Plastic edging, Plastic edging, Plastic edging, Door panel: Particleboard, Paper foil, Plastic edging, Plastic edging, Drawer bottom: Fiberboard, Printed acrylic paint, Printed acrylic paint, Galvanized steel, Main parts/ Side panel: Particleboard, Paper foil, Plastic edging, Panel: Particleboard, Honeycomb structure paper filling (100% recycled), Fiberboard, Paper foil, Plastic edging, Plinth front: Particleboard, Paper foil
+Brand: IKEA
+
+# @ITEMS
+- EKET wall-mounted storage combination, white/walnut effect: /products/eket-pre-designed-combinations/09490320.txt
+- EKET wall-mounted storage combination, white stained oak effect/white: /products/eket-pre-designed-combinations/79336392.txt
+- EKET wall-mounted storage combination, white: /products/eket-pre-designed-combinations/69336383.txt
+- EKET wall-mounted storage combination, white/pale yellow: /products/eket-pre-designed-combinations/39521688.txt
+- EKET wall-mounted storage combination, white/light gray-blue: /products/eket-pre-designed-combinations/79521672.txt
+- EKET wall-mounted storage combination, white/light gray-blue: /products/eket-pre-designed-combinations/59521687.txt
+- EKET wall-mounted storage combination, walnut effect: /products/eket-pre-designed-combinations/49568835.txt
+- EKET wall-mounted storage combination, walnut effect: /products/eket-pre-designed-combinations/49567497.txt
+- EKET wall-mounted storage combination, walnut effect: /products/eket-pre-designed-combinations/49490295.txt
+- EKET wall-mounted storage combination, multicolor/pale yellow: /products/eket-pre-designed-combinations/59521673.txt
+- EKET wall-mounted storage combination, multicolor/gray-green: /products/eket-pre-designed-combinations/39521674.txt
+- EKET wall-mounted storage combination, dark gray: /products/eket-pre-designed-combinations/89336377.txt
+- EKET wall-mounted storage combination, dark gray/gray-green: /products/eket-pre-designed-combinations/79521686.txt
+- EKET wall-mounted cabinet combination, with 2 drawers/walnut effect: /products/eket-pre-designed-combinations/79568834.txt
+- EKET wall-mounted cabinet combination, white/white stained oak effect: /products/eket-pre-designed-combinations/19494271.txt
+- EKET wall-mounted cabinet combination, white/walnut effect: /products/eket-pre-designed-combinations/69490317.txt
+- EKET wall-mounted cabinet combination, white/walnut effect: /products/eket-pre-designed-combinations/29492691.txt
+- EKET wall-mounted cabinet combination, white stained oak effect/white: /products/eket-pre-designed-combinations/39286351.txt
+- EKET wall-mounted cabinet combination, white: /products/eket-pre-designed-combinations/99494272.txt
+- EKET wall-mounted cabinet combination, white: /products/eket-pre-designed-combinations/89307643.txt
+- EKET wall-mounted cabinet combination, white: /products/eket-pre-designed-combinations/89222502.txt
+- EKET wall-mounted cabinet combination, white: /products/eket-pre-designed-combinations/69284647.txt
+- EKET wall-mounted cabinet combination, white: /products/eket-pre-designed-combinations/59329397.txt
+- EKET wall-mounted cabinet combination, white: /products/eket-pre-designed-combinations/59189033.txt
+- EKET wall-mounted cabinet combination, white: /products/eket-pre-designed-combinations/29286281.txt
+- EKET wall-mounted cabinet combination, white: /products/eket-pre-designed-combinations/19189030.txt
+- EKET wall-mounted cabinet combination, white: /products/eket-pre-designed-combinations/09188842.txt
+- EKET wall-mounted cabinet combination, white/pale yellow: /products/eket-pre-designed-combinations/99521666.txt
+- EKET wall-mounted cabinet combination, white/multicolor: /products/eket-pre-designed-combinations/99521685.txt
+- EKET wall-mounted cabinet combination, white/multicolor: /products/eket-pre-designed-combinations/69521682.txt
+- EKET wall-mounted cabinet combination, white/multicolor: /products/eket-pre-designed-combinations/49521683.txt
+- EKET wall-mounted cabinet combination, white/multicolor: /products/eket-pre-designed-combinations/29521679.txt
+- EKET wall-mounted cabinet combination, white/multicolor: /products/eket-pre-designed-combinations/09521680.txt
+- EKET wall-mounted cabinet combination, white/multicolor: /products/eket-pre-designed-combinations/09521675.txt
+- EKET wall-mounted cabinet combination, white/light gray-blue: /products/eket-pre-designed-combinations/79521667.txt
+- EKET wall-mounted cabinet combination, walnut effect/white: /products/eket-pre-designed-combinations/49490323.txt
+- EKET wall-mounted cabinet combination, walnut effect/white gray-green: /products/eket-pre-designed-combinations/89521681.txt
+- EKET wall-mounted cabinet combination, walnut effect/white dark gray: /products/eket-pre-designed-combinations/59507733.txt
+- EKET wall-mounted cabinet combination, walnut effect: /products/eket-pre-designed-combinations/99568833.txt
+- EKET wall-mounted cabinet combination, walnut effect: /products/eket-pre-designed-combinations/89490279.txt
+- EKET wall-mounted cabinet combination, walnut effect: /products/eket-pre-designed-combinations/69567496.txt
+- EKET wall-mounted cabinet combination, pale yellow/white: /products/eket-pre-designed-combinations/89521370.txt
+- EKET wall-mounted cabinet combination, multicolor/white: /products/eket-pre-designed-combinations/99521567.txt
+- EKET wall-mounted cabinet combination, multicolor/dark gray: /products/eket-pre-designed-combinations/19521566.txt
+- EKET wall-mounted cabinet combination, light gray-blue/white stained oak effect: /products/eket-pre-designed-combinations/09521369.txt
+- EKET wall-mounted cabinet combination, gray-green/dark gray: /products/eket-pre-designed-combinations/29521368.txt
+- EKET wall-mounted cabinet combination, dark gray/walnut effect: /products/eket-pre-designed-combinations/49490337.txt
+- EKET wall-mounted cabinet combination, dark gray/walnut effect: /products/eket-pre-designed-combinations/29492747.txt
+- EKET wall-mounted cabinet combination, dark gray: /products/eket-pre-designed-combinations/89581161.txt
+- EKET wall-mounted cabinet combination, dark gray: /products/eket-pre-designed-combinations/89189098.txt
+- EKET wall-mounted cabinet combination, dark gray: /products/eket-pre-designed-combinations/79189150.txt
+- EKET wall-mounted cabinet combination, dark gray: /products/eket-pre-designed-combinations/69286340.txt
+- EKET wall-mounted cabinet combination, dark gray: /products/eket-pre-designed-combinations/59222495.txt
+- EKET wall-mounted cabinet combination, dark gray: /products/eket-pre-designed-combinations/59189127.txt
+- EKET wall-mounted cabinet combination, dark gray: /products/eket-pre-designed-combinations/49307640.txt
+- EKET wall-mounted cabinet combination, dark gray: /products/eket-pre-designed-combinations/39286394.txt
+- EKET wall-mounted cabinet combination, dark gray: /products/eket-pre-designed-combinations/19494266.txt
+- EKET wall-mounted cabinet combination, dark gray: /products/eket-pre-designed-combinations/09329390.txt
+- EKET wall-mounted cabinet combination, dark gray/gray-green: /products/eket-pre-designed-combinations/19521665.txt
+- EKET storage combination with legs, white/wood: /products/eket-pre-designed-combinations/89386107.txt
+- EKET storage combination with legs, white/wood: /products/eket-pre-designed-combinations/79388003.txt
+- EKET storage combination with legs, white/wood: /products/eket-pre-designed-combinations/79386075.txt
+- EKET storage combination with legs, white/white stained oak effect: /products/eket-pre-designed-combinations/19286413.txt
+- EKET storage combination with legs, white pale yellow/wood: /products/eket-pre-designed-combinations/29521716.txt
+- EKET storage combination with legs, white light gray-blue/wood: /products/eket-pre-designed-combinations/09521717.txt
+- EKET storage combination with legs, white dark gray/wood: /products/eket-pre-designed-combinations/19386078.txt
+- EKET storage combination with legs, walnut effect/metal black: /products/eket-pre-designed-combinations/29568841.txt
+- EKET storage combination with legs, walnut effect/metal black: /products/eket-pre-designed-combinations/29568836.txt
+- EKET storage combination with legs, dark gray/wood: /products/eket-pre-designed-combinations/39388000.txt
+- EKET storage combination with legs, dark gray/wood: /products/eket-pre-designed-combinations/19386101.txt
+- EKET storage combination with legs, dark gray/walnut effect: /products/eket-pre-designed-combinations/39490333.txt
+- EKET storage combination with legs, dark gray pale yellow/metal: /products/eket-pre-designed-combinations/99521713.txt
+- EKET storage combination with legs, dark gray/metal black: /products/eket-pre-designed-combinations/19567502.txt
+- EKET storage combination with legs, dark gray/metal black: /products/eket-pre-designed-combinations/09568837.txt
+- EKET storage combination with legs, dark gray light gray-blue/metal: /products/eket-pre-designed-combinations/79521714.txt
+- EKET storage combination with legs, dark gray gray-green/wood: /products/eket-pre-designed-combinations/49521715.txt
+- EKET storage combination with legs, dark gray gray-green/metal: /products/eket-pre-designed-combinations/19521712.txt
+- EKET storage combination with feet, white/white stained oak effect: /products/eket-pre-designed-combinations/79495084.txt
+- EKET storage combination with feet, white/white stained oak effect: /products/eket-pre-designed-combinations/39290126.txt
+- EKET storage combination with feet, white/white stained oak effect light gray-blue: /products/eket-pre-designed-combinations/29521900.txt
+- EKET storage combination with feet, white/walnut effect: /products/eket-pre-designed-combinations/79490798.txt
+- EKET storage combination with feet, white/walnut effect: /products/eket-pre-designed-combinations/49490342.txt
+- EKET storage combination with feet, white/walnut effect pale yellow: /products/eket-pre-designed-combinations/49521744.txt
+- EKET storage combination with feet, white/walnut effect light gray-blue: /products/eket-pre-designed-combinations/29521740.txt
+- EKET storage combination with feet, white/walnut effect gray-green: /products/eket-pre-designed-combinations/69521743.txt
+- EKET storage combination with feet, white/stained oak effect pale yellow: /products/eket-pre-designed-combinations/89549388.txt
+- EKET storage combination with feet, white/stained oak effect light gray-blue: /products/eket-pre-designed-combinations/09549387.txt
+- EKET storage combination with feet, white: /products/eket-pre-designed-combinations/89221055.txt
+- EKET storage combination with feet, white: /products/eket-pre-designed-combinations/49306872.txt
+- EKET storage combination with feet, white: /products/eket-pre-designed-combinations/49189203.txt
+- EKET storage combination with feet, white: /products/eket-pre-designed-combinations/19494474.txt
+- EKET storage combination with feet, white: /products/eket-pre-designed-combinations/09284650.txt
+- EKET storage combination with feet, white: /products/eket-pre-designed-combinations/09189200.txt
+- EKET storage combination with feet, white/pale yellow: /products/eket-pre-designed-combinations/49521843.txt
+- EKET storage combination with feet, white/light gray-blue: /products/eket-pre-designed-combinations/99521746.txt
+- EKET storage combination with feet, white light gray-blue/pale yellow: /products/eket-pre-designed-combinations/09522175.txt
+- EKET storage combination with feet, white/gray-green: /products/eket-pre-designed-combinations/29521844.txt
+- EKET storage combination with feet, white/dark gray: /products/eket-pre-designed-combinations/79190870.txt
+- EKET storage combination with feet, walnut effect: /products/eket-pre-designed-combinations/09568842.txt
+- EKET storage combination with feet, dark gray/walnut: /products/eket-pre-designed-combinations/29490343.txt
+- EKET storage combination with feet, dark gray/walnut effect: /products/eket-pre-designed-combinations/89492768.txt
+- EKET storage combination with feet, dark gray walnut effect/pale yellow: /products/eket-pre-designed-combinations/89521742.txt
+- EKET storage combination with feet, dark gray/walnut effect light gray-blue: /products/eket-pre-designed-combinations/69521738.txt
+- EKET storage combination with feet, dark gray/walnut effect gray-green: /products/eket-pre-designed-combinations/09521741.txt
+- EKET storage combination with feet, dark gray: /products/eket-pre-designed-combinations/99306860.txt
+- EKET storage combination with feet, dark gray: /products/eket-pre-designed-combinations/79286448.txt
+- EKET storage combination with feet, dark gray: /products/eket-pre-designed-combinations/69190936.txt
+- EKET storage combination with feet, dark gray: /products/eket-pre-designed-combinations/69190861.txt
+- EKET storage combination with feet, dark gray: /products/eket-pre-designed-combinations/19494469.txt
+- EKET storage combination with feet, dark gray/gray-green: /products/eket-pre-designed-combinations/99521845.txt
+- EKET storage combination with feet, dark gray/dark gray: /products/eket-pre-designed-combinations/49490752.txt
+- EKET storage combination with feet, dark gray dark gray/gray-green: /products/eket-pre-designed-combinations/29549386.txt
+- EKET media storage combination, white/with doors: /products/eket-pre-designed-combinations/59580993.txt
+- EKET media storage combination, white/white stained oak: /products/eket-pre-designed-combinations/29580999.txt
+- EKET media storage combination, white/white stained oak clear glass: /products/eket-pre-designed-combinations/59580988.txt
+- EKET media storage combination, white: /products/eket-pre-designed-combinations/29580980.txt
+- EKET media storage combination, white/dark gray: /products/eket-pre-designed-combinations/89581000.txt
+- EKET media storage combination, white/clear glass: /products/eket-pre-designed-combinations/79580987.txt
+- EKET media storage combination, white/brown walnut effect: /products/eket-pre-designed-combinations/49580998.txt
+- EKET media storage combination, dark gray/with doors: /products/eket-pre-designed-combinations/09580995.txt
+- EKET media storage combination, dark gray: /products/eket-pre-designed-combinations/89580982.txt
+- EKET media storage combination, dark gray/clear glass: /products/eket-pre-designed-combinations/19580985.txt
+- EKET media storage combination, brown/walnut effect with doors: /products/eket-pre-designed-combinations/39580994.txt
+- EKET media storage combination, brown/walnut effect: /products/eket-pre-designed-combinations/69580983.txt
+- EKET media storage combination, brown walnut effect/clear glass: /products/eket-pre-designed-combinations/99580986.txt
+- BILLY / EKET storage combination with doors, brown walnut effect: /products/eket-pre-designed-combinations/09506076.txt
+- BILLY / EKET storage combination with doors, brown walnut effect/clear glass: /products/eket-pre-designed-combinations/69506078.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

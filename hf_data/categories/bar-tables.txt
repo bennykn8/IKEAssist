@@ -1,0 +1,28 @@
+# @CATEGORY
+Name: Bar tables
+ProductCount: 6
+
+# @FILTERS
+PriceRange: $99.99 - $399.99
+Materials: Base: Aluminum, Epoxy/polyester powder coating, Bottom frame/ Leg: Solid birch, Adhesive, Tinted clear acrylic lacquer, Cover: ABS plastic, Drawer side/ Drawer back: Solid pine, Leg/ Rail: Steel, Epoxy/polyester powder coating, Leg: Plywood, Ash veneer, Stain, Tinted clear acrylic lacquer, Mounting plate/ Column/ Base: Steel, Epoxy/polyester powder coating, Particleboard, Laminate, Plastic edging, Particleboard, Laminate, Plastic edging, Laminate, Particleboard, Melamine foil, Plastic edging, Plastic edging, Melamine foil
+Brand: IKEA
+
+# @ITEMS
+- STENSELE bar table, anthracite/anthracite: /products/bar-tables/09288224.txt
+- RÖNNINGE bar table, birch: /products/bar-tables/50511230.txt
+- NORDVIKEN Bar table, black: /products/bar-tables/00368814.txt
+- GRÅSALA bar table, gray/gray: /products/bar-tables/19484031.txt
+- EKEDALEN bar table, dark brown: /products/bar-tables/90400517.txt
+- DOCKSTA bar table, white/white: /products/bar-tables/49418836.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

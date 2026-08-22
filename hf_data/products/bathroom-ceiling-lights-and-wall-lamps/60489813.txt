@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KABOMBA LED ceiling lamp, matte/black
+SKU: 60489813
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kabomba-led-ceiling-lamp-matte-black-60489813/
+Category: Bathroom ceiling lights & wall lamps
+Description: , 14" Ceiling lamp in a modern art deco style with a slight hotel feeling and a built-in energy-efficient LED bulb with a long lifespan. Perfect for bathrooms and other areas where you need a good gen...
+
+# @OFFER
+Price: 79.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Base/ Shade/ Tube: Steel, Powder coating, Cover: ABS plastic, Diffuser: Polycarbonate plastic
+Features: May be combined with any of the dimmable KABOMBA wall lamps. | The light source has a lifetime of approx. 25,000 hours. This corresponds to about 20 years if the lamp is on for 3 hours per day. | The lamp emits 1,600 lumen, which feels as strong as the light from a traditional 100W incandescent bulb.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kabomba-led-ceiling-lamp-matte-black__0990155_pe818782_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

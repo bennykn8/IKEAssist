@@ -1,0 +1,52 @@
+# @CATEGORY
+Name: Frying pans & skillets
+ProductCount: 30
+
+# @FILTERS
+PriceRange: $4.99 - $79.99
+Materials: Body: Aluminum, Coated with Teflon(R) Infinity., Body: Aluminum, Stainless steel, Copper, Body: Stainless steel, Aluminum, Body: Stainless steel, Sol-gel ceramic non-stick coating, Bottom: Stainless steel, Aluminum, Cast iron, Oil, Disc: Aluminum, Disc: Stainless steel, Fire protector: Aluminum, Fire protector: Aluminum, Powder coating
+Brand: IKEA
+
+# @ITEMS
+- VARDAGEN frying pan, cast iron: /products/frying-pans-and-skillets/30580205.txt
+- VARDAGEN frying pan, cast iron: /products/frying-pans-and-skillets/00576629.txt
+- VARDAGEN frying pan, carbon steel: /products/frying-pans-and-skillets/40581332.txt
+- VARDAGEN frying pan, carbon steel: /products/frying-pans-and-skillets/00581329.txt
+- TAGGHAJ frying pan, non-stick coating black: /products/frying-pans-and-skillets/90581155.txt
+- SENSUELL frying pan, stainless steel/gray: /products/frying-pans-and-skillets/40577014.txt
+- SENSUELL frying pan, stainless steel/gray: /products/frying-pans-and-skillets/10577015.txt
+- MIDDAGSMAT frying pan, non-stick coating/stainless steel: /products/frying-pans-and-skillets/60580591.txt
+- MIDDAGSMAT frying pan, non-stick coating/stainless steel: /products/frying-pans-and-skillets/40580592.txt
+- MIDDAGSMAT frying pan, non-stick coating/stainless steel: /products/frying-pans-and-skillets/20580593.txt
+- KLIPPFISK frying pan, non-stick coating/wood dark gray-blue, 9 ½": /products/frying-pans-and-skillets/90602501.txt
+- KLIPPFISK frying pan, non-stick coating/wood dark gray-blue: /products/frying-pans-and-skillets/30602504.txt
+- IKEA 365+ frying pan, stainless steel/non-stick coating: /products/frying-pans-and-skillets/90587911.txt
+- IKEA 365+ frying pan, stainless steel/non-stick coating: /products/frying-pans-and-skillets/90580702.txt
+- IKEA 365+ frying pan, stainless steel/non-stick coating: /products/frying-pans-and-skillets/60580708.txt
+- IKEA 365+ frying pan, stainless steel/non-stick coating: /products/frying-pans-and-skillets/20580705.txt
+- IKEA 365+ frying pan, stainless steel: /products/frying-pans-and-skillets/70582735.txt
+- IKEA 365+ frying pan, stainless steel: /products/frying-pans-and-skillets/10582738.txt
+- HUSKNUT frying pan, non-stick coating black: /products/frying-pans-and-skillets/10576600.txt
+- HEMLAGAD frying pan, non-stick coating black: /products/frying-pans-and-skillets/50580902.txt
+- HEMLAGAD frying pan, non-stick coating black: /products/frying-pans-and-skillets/50580898.txt
+- HEMLAGAD frying pan, non-stick coating black, 9 ½": /products/frying-pans-and-skillets/10580895.txt
+- HEMKOMST frying pan, stainless steel/non-stick coating: /products/frying-pans-and-skillets/90577021.txt
+- HEMKOMST frying pan, stainless steel/non-stick coating: /products/frying-pans-and-skillets/70577022.txt
+- HEMKOMST frying pan, stainless steel/non-stick coating: /products/frying-pans-and-skillets/30577019.txt
+- HEMKOMST frying pan, stainless steel: /products/frying-pans-and-skillets/00580018.txt
+- FJÄRSING frying pan, gray: /products/frying-pans-and-skillets/60564906.txt
+- FJÄRSING frying pan, gray: /products/frying-pans-and-skillets/50566722.txt
+- FJÄRSING crepe/pancake pan, gray: /products/frying-pans-and-skillets/70564897.txt
+- FINMAT frying pan, copper/stainless steel: /products/frying-pans-and-skillets/50578353.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

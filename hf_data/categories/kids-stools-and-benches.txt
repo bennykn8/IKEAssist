@@ -1,0 +1,30 @@
+# @CATEGORY
+Name: Kids stools & benches
+ProductCount: 8
+
+# @FILTERS
+PriceRange: $4.99 - $49.99
+Materials: Back fabric: 100 % polyester (100% recycled), Silicone rubber, Back fabric: 100 % polypropylene, Silicone rubber, Fabric: 100 % polyester (100% recycled), Fiberboard, Pigmented epoxy powder coating, Filling: 100 % polyester - hollow fiber (100% recycled), Leg: Solid pine, Tinted clear acrylic lacquer, Main parts/ Leg: Solid pine, Tinted clear acrylic lacquer, Polypropylene, Synthetic rubber, Seat: Fiberboard, Acrylic paint, Seat: Solid pine, Adhesive, Tinted clear acrylic lacquer
+Brand: IKEA
+
+# @ITEMS
+- TROGEN child's step stool, yellow: /products/kids-stools-and-benches/80371520.txt
+- SKOGSDUVA stool cover, toadstool shaped/red white: /products/kids-stools-and-benches/70578286.txt
+- FÖRSIKTIG children's stool, white/turquoise: /products/kids-stools-and-benches/10591318.txt
+- FÖRSIKTIG Children's stool, white, green: /products/kids-stools-and-benches/60248418.txt
+- FLISAT child's bench, adjustable: /products/kids-stools-and-benches/80290779.txt
+- FLISAT children's stool, pine: /products/kids-stools-and-benches/30596536.txt
+- BÄNKKAMRAT bench pad, dot pattern: /products/kids-stools-and-benches/30485779.txt
+- BÄNKKAMRAT bench pad, blue/green: /products/kids-stools-and-benches/80561959.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,38 @@
+# @CATEGORY
+Name: HEMNES vanity units without sink
+ProductCount: 16
+
+# @FILTERS
+PriceRange: $209.00 - $389.00
+Materials: Drawer bottom: Particleboard, High-pressure melamine laminate, High-pressure melamine laminate, Plastic edging, Drawer sides/ Drawer back/ Drawer divider: Solid pine, Adhesive, Clear acrylic lacquer, Drawer sides/ Drawer back: Solid pine, Adhesive, Clear acrylic lacquer, Filling, side: Particleboard, Melamine foil, Acrylic paint, Melamine foil, Frame: Fiberboard, Pigmented epoxy/polyester powder coating, Main parts/ Drawer front: Solid pine, Adhesive, Stain, Clear acrylic lacquer, Support rail: Fiberboard, Acrylic paint
+Brand: IKEA
+
+# @ITEMS
+- HEMNES Bathroom vanity with drawers, white: /products/hemnes-vanity-units-without-sink/80605312.txt
+- HEMNES Bathroom vanity with drawers, white: /products/hemnes-vanity-units-without-sink/80605307.txt
+- HEMNES Bathroom vanity with drawers, white: /products/hemnes-vanity-units-without-sink/40605314.txt
+- HEMNES Bathroom vanity with drawers, white: /products/hemnes-vanity-units-without-sink/20605310.txt
+- HEMNES Bathroom vanity with drawers, gray: /products/hemnes-vanity-units-without-sink/60605313.txt
+- HEMNES Bathroom vanity with drawers, gray: /products/hemnes-vanity-units-without-sink/40605309.txt
+- HEMNES Bathroom vanity with drawers, gray: /products/hemnes-vanity-units-without-sink/00605311.txt
+- HEMNES Bathroom vanity with drawers, gray: /products/hemnes-vanity-units-without-sink/00605306.txt
+- HEMNES Bathroom vanity with drawers, blue: /products/hemnes-vanity-units-without-sink/60605308.txt
+- HEMNES Bathroom vanity with drawers, blue: /products/hemnes-vanity-units-without-sink/20605305.txt
+- HEMNES Bathroom vanity with 4 drawers, white: /products/hemnes-vanity-units-without-sink/40567133.txt
+- HEMNES Bathroom vanity with 4 drawers, gray: /products/hemnes-vanity-units-without-sink/30567015.txt
+- HEMNES Bathroom vanity with 2 drawers, white: /products/hemnes-vanity-units-without-sink/60562323.txt
+- HEMNES Bathroom vanity with 2 drawers, white: /products/hemnes-vanity-units-without-sink/10562325.txt
+- HEMNES Bathroom vanity with 2 drawers, gray: /products/hemnes-vanity-units-without-sink/60567014.txt
+- HEMNES Bathroom vanity with 2 drawers, gray: /products/hemnes-vanity-units-without-sink/40567010.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

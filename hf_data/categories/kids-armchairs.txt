@@ -1,0 +1,34 @@
+# @CATEGORY
+Name: Kids armchairs
+ProductCount: 12
+
+# @FILTERS
+PriceRange: $15.00 - $149.99
+Materials: Back fabric: 100 % polyester (100% recycled), Back fabric: 100 %polyester, Core filling/ Filling, top: 100% polyester (min. 60% recycled), Edge fabric: 100 % cotton, Edge fabric: 65 %polyester, 35 % cotton, Fabric/ Greige fabric: 100 % cotton, Fabric/ Top fabric/ Edge fabric: 100% polyester (min. 90% recycled), Fabric: 100 % cotton, Fabric: 100 %polyester, Filling: 100 % polyester - hollow fiber (100% recycled)
+Brand: IKEA
+
+# @ITEMS
+- STRANDMON Children's armchair, Vissle gray: /products/kids-armchairs/40392548.txt
+- SMÅSKRAKE multi-functional child chair/table, green: /products/kids-armchairs/30569750.txt
+- POÄNG kid's armchair, birch veneer/Ulvsby dot pattern: /products/kids-armchairs/09598924.txt
+- POÄNG kid's armchair, birch veneer/Skogbo animal pattern: /products/kids-armchairs/29598918.txt
+- POÄNG kid's armchair, birch veneer/Knisa light beige: /products/kids-armchairs/29401436.txt
+- POÄNG children's armchair frame, birch veneer: /products/kids-armchairs/80418056.txt
+- POÄNG children's armchair cushion, Ulvsby/dot pattern: /products/kids-armchairs/80597703.txt
+- POÄNG children's armchair cushion, Skogbo animal pattern: /products/kids-armchairs/30597692.txt
+- POÄNG children's armchair cushion, Knisa light beige: /products/kids-armchairs/00489670.txt
+- BROBOCK / BJÖRKTRAST chair with cushion, rattan white/black: /products/kids-armchairs/09526017.txt
+- BROBOCK armchair, rattan: /products/kids-armchairs/90535804.txt
+- BJÖRKTRAST children's armchair cushion, white/black: /products/kids-armchairs/80553290.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

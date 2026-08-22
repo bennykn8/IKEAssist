@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MÅLA modeling dough, mixed colors
+SKU: 60493669
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/mala-modeling-dough-mixed-colors-60493669/
+Category: Arts and crafts supplies for kids
+Description: Squish, shape and create! This modelling dough in 6 colors is guaranteed to awaken the creative interest in children of all ages. Perfect for rainy days or when you just want to do something fun toget...
+
+# @OFFER
+Price: 5.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Modeling dough: Wheat flour (contains gluten), water, salt, pigments, Cup: Polypropylene, Lid: Polyethylene
+Features: Includes: 6 containers with lids and modelling dough in the colors red, pink, blue, yellow, orange, and green. | This product contains wheat (gluten). | Fun to play with, but not to eat. Pay extra attention if you create objects which are similar to food so that you do not confuse them with real food by mistake.
+Care: The dough is easy to remove from clothing and surfaces. You can wipe it off with a wet cloth or let the dough dry and scrape it away.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/mala-modeling-dough-mixed-colors__0943712_pe797004_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

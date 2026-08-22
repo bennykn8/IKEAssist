@@ -1,0 +1,46 @@
+# @CATEGORY
+Name: Cleaning accessories
+ProductCount: 24
+
+# @FILTERS
+PriceRange: $0.89 - $24.99
+Materials: 100% polyester (min. 90% recycled), 88 % polyester (100% recycled), 12 % nylon, 90 % polyester (100% recycled), 10 % nylon, Back fabric/ Back fabric: 100 % nylon, Back fabric: 100 % nylon, Blade: Synthetic rubber, Aluminum, Anodized, Body/ Handle: Polypropylene plastic (min. 20% recycled), Body/ Lid: Polypropylene plastic (min. 20% recycled), Body: Polypropylene, Body: Polypropylene plastic (min. 50% recycled)
+Brand: IKEA
+
+# @ITEMS
+- TRIXIG cleaning cloth: /products/cleaning-accessories/90581099.txt
+- PEPPRIG wash tub, foldable/yellow, 10 ¾": /products/cleaning-accessories/60567721.txt
+- PEPPRIG squeeze-clean flat mop, gray, 4 ¾x14 ½": /products/cleaning-accessories/00569855.txt
+- PEPPRIG spray bottle, 19 oz: /products/cleaning-accessories/30499535.txt
+- PEPPRIG scrubbing pad, green blue/yellow: /products/cleaning-accessories/70567650.txt
+- PEPPRIG scrubbing brush, set of 2, green: /products/cleaning-accessories/10567648.txt
+- PEPPRIG microfiber pad for flat mop, gray: /products/cleaning-accessories/30568821.txt
+- PEPPRIG microfiber pad for flat mop, gray: /products/cleaning-accessories/00567615.txt
+- PEPPRIG microfiber cloth, green blue/yellow: /products/cleaning-accessories/40567637.txt
+- PEPPRIG microfiber cloth: /products/cleaning-accessories/20575638.txt
+- PEPPRIG microfiber cleaning pad, green: /products/cleaning-accessories/60567641.txt
+- PEPPRIG gap cleaning cover, green, 17 ¾x2 ¾": /products/cleaning-accessories/80567635.txt
+- PEPPRIG gap cleaning cover, 17 ¾x2 ¾": /products/cleaning-accessories/90499561.txt
+- PEPPRIG dustpan and broom, gray/green: /products/cleaning-accessories/90567630.txt
+- PEPPRIG duster cover, yellow, 17 ¾x2 ¾": /products/cleaning-accessories/50567627.txt
+- PEPPRIG dust pan and brush, gray: /products/cleaning-accessories/10527087.txt
+- PEPPRIG cleaning set, blue/yellow: /products/cleaning-accessories/80567621.txt
+- PEPPRIG cleaning bucket and caddy, green: /products/cleaning-accessories/20567619.txt
+- PEPPRIG bristle refill for brush head, green: /products/cleaning-accessories/60567617.txt
+- PEPPRIG 3-piece bucket set with lid, gray/blue: /products/cleaning-accessories/50567613.txt
+- LILLNAGGEN shower squeegee: /products/cleaning-accessories/40243596.txt
+- FRUKTPLOCKARE lint brush, black/light grey, 4 ¾x2 ¼x1 ½": /products/cleaning-accessories/20528388.txt
+- BÄSTIS lint roller refill: /products/cleaning-accessories/30141126.txt
+- BÄSTIS lint roller, gray: /products/cleaning-accessories/90425626.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,36 @@
+# @CATEGORY
+Name: High chairs
+ProductCount: 14
+
+# @FILTERS
+PriceRange: $4.99 - $79.99
+Materials: Back/ Seat: Fiberboard, Buckle: Acetal plastic, Buckles: Polyamide, Cushion cover: 100% polyester (min. 90% recycled), Cushion: Synthetic rubber, Fabric: 100 % polyester (100% recycled), Filling: 100% polyester (min. 80% recycled), Foot: Polypropylene, Leg: Steel, Epoxy/polyester powder coating, Main parts: Solid rubberwood, Acrylic paint
+Brand: IKEA
+
+# @ITEMS
+- LANGUR seat shell for highchair, white: /products/high-chairs/80330822.txt
+- LANGUR padded seat cover for high chair, yellow: /products/high-chairs/60352650.txt
+- LANGUR High chair tray, white: /products/high-chairs/00330816.txt
+- BLÅMES high chair with tray, black: /products/high-chairs/10169003.txt
+- ANTILOP tray mat, pink: /products/high-chairs/60612498.txt
+- ANTILOP tray mat, gray: /products/high-chairs/20612495.txt
+- ANTILOP supporting cushion and cover, multicolor: /products/high-chairs/10577713.txt
+- ANTILOP supporting cushion and cover, dark yellow/white dotted: /products/high-chairs/00573697.txt
+- ANTILOP supporting cushion and cover, blue/white stripe: /products/high-chairs/70598190.txt
+- ANTILOP Seat shell for high chair, white: /products/high-chairs/50279943.txt
+- ANTILOP high chair with tray, white/white: /products/high-chairs/39597517.txt
+- ANTILOP high chair with safety belt, white/white: /products/high-chairs/09597514.txt
+- ANTILOP High chair tray, white: /products/high-chairs/50197570.txt
+- ANTILOP high chair leg, white: /products/high-chairs/20600831.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

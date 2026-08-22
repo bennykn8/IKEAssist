@@ -1,0 +1,31 @@
+# @CATEGORY
+Name: Makeup vanities & dressing tables
+ProductCount: 9
+
+# @FILTERS
+PriceRange: $99.99 - $299.99
+Materials: Back panel: Particleboard, Paper foil, Drawer bottom: Fiberboard, Drawer bottom: Fiberboard, High-pressure melamine laminate, Acrylic paint, Drawer front: Particleboard, Acrylic paint, Drawer side/ Drawer back: Solid pine, Drawer: Steel, Epoxy/polyester powder coating, Frame: Steel, Steel, Epoxy/polyester powder coating, Glass: Tempered glass, Main parts/ Drawer front: Solid pine, Stain, Clear acrylic lacquer, Rail: Solid beech, Acrylic paint
+Brand: IKEA
+
+# @ITEMS
+- SYVDE dressing table, white: /products/makeup-vanities-and-dressing-tables/80430746.txt
+- NORDKISA Dressing table, bamboo: /products/makeup-vanities-and-dressing-tables/20439472.txt
+- MALM White Dressing Table - Popular & Stylish: /products/makeup-vanities-and-dressing-tables/10203610.txt
+- HEMNES Dressing table with mirror, white: /products/makeup-vanities-and-dressing-tables/30374413.txt
+- HEMNES dressing table with mirror, black-brown: /products/makeup-vanities-and-dressing-tables/60384967.txt
+- GRÅFJÄLLET dressing table, white: /products/makeup-vanities-and-dressing-tables/60583108.txt
+- GRÅFJÄLLET dressing table, anthracite: /products/makeup-vanities-and-dressing-tables/30570225.txt
+- BRIMNES dressing table, white: /products/makeup-vanities-and-dressing-tables/70290459.txt
+- BRIMNES dressing table, gray: /products/makeup-vanities-and-dressing-tables/60598275.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

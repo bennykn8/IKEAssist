@@ -1,0 +1,52 @@
+# @CATEGORY
+Name: PAX frames for sliding doors
+ProductCount: 30
+
+# @FILTERS
+PriceRange: $280.00 - $480.00
+Materials: Fiberboard, Particleboard, Paper foil
+Brand: IKEA
+
+# @ITEMS
+- PAX 3 wardrobe frames, white: /products/pax-frames-for-sliding-doors/89556406.txt
+- PAX 3 wardrobe frames, white: /products/pax-frames-for-sliding-doors/59556403.txt
+- PAX 3 wardrobe frames, white: /products/pax-frames-for-sliding-doors/39556404.txt
+- PAX 3 wardrobe frames, white: /products/pax-frames-for-sliding-doors/09556405.txt
+- PAX 3 wardrobe frames, gray-beige: /products/pax-frames-for-sliding-doors/99562384.txt
+- PAX 3 wardrobe frames, gray-beige: /products/pax-frames-for-sliding-doors/19562383.txt
+- PAX 3 wardrobe frames, dark gray: /products/pax-frames-for-sliding-doors/79556416.txt
+- PAX 3 wardrobe frames, dark gray: /products/pax-frames-for-sliding-doors/59556417.txt
+- PAX 3 wardrobe frames, dark gray: /products/pax-frames-for-sliding-doors/39556418.txt
+- PAX 3 wardrobe frames, dark gray: /products/pax-frames-for-sliding-doors/19556419.txt
+- PAX 2 wardrobe frames, white: /products/pax-frames-for-sliding-doors/99556401.txt
+- PAX 2 wardrobe frames, white: /products/pax-frames-for-sliding-doors/99556397.txt
+- PAX 2 wardrobe frames, white: /products/pax-frames-for-sliding-doors/79556402.txt
+- PAX 2 wardrobe frames, white: /products/pax-frames-for-sliding-doors/79556398.txt
+- PAX 2 wardrobe frames, white: /products/pax-frames-for-sliding-doors/59556399.txt
+- PAX 2 wardrobe frames, white: /products/pax-frames-for-sliding-doors/39556395.txt
+- PAX 2 wardrobe frames, white: /products/pax-frames-for-sliding-doors/19556400.txt
+- PAX 2 wardrobe frames, white: /products/pax-frames-for-sliding-doors/19556396.txt
+- PAX 2 wardrobe frames, gray-beige: /products/pax-frames-for-sliding-doors/99562379.txt
+- PAX 2 wardrobe frames, gray-beige: /products/pax-frames-for-sliding-doors/79562380.txt
+- PAX 2 wardrobe frames, gray-beige: /products/pax-frames-for-sliding-doors/39562382.txt
+- PAX 2 wardrobe frames, gray-beige: /products/pax-frames-for-sliding-doors/19562378.txt
+- PAX 2 wardrobe frames, dark gray: /products/pax-frames-for-sliding-doors/99556415.txt
+- PAX 2 wardrobe frames, dark gray: /products/pax-frames-for-sliding-doors/89556411.txt
+- PAX 2 wardrobe frames, dark gray: /products/pax-frames-for-sliding-doors/69556412.txt
+- PAX 2 wardrobe frames, dark gray: /products/pax-frames-for-sliding-doors/69556407.txt
+- PAX 2 wardrobe frames, dark gray: /products/pax-frames-for-sliding-doors/49556413.txt
+- PAX 2 wardrobe frames, dark gray: /products/pax-frames-for-sliding-doors/49556408.txt
+- PAX 2 wardrobe frames, dark gray: /products/pax-frames-for-sliding-doors/29556414.txt
+- PAX 2 wardrobe frames, dark gray: /products/pax-frames-for-sliding-doors/29556409.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

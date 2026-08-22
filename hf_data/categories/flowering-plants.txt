@@ -1,0 +1,25 @@
+# @CATEGORY
+Name: Flowering plants
+ProductCount: 3
+
+# @FILTERS
+PriceRange: $14.99 - $19.99
+Materials: Plant/ Substrate: Cultivated potted plant, Pot: Polypropylene
+Brand: IKEA
+
+# @ITEMS
+- PHALAENOPSIS potted plant, Orchid/2-stem assorted species plants, 4 ¾": /products/flowering-plants/40493712.txt
+- PHALAENOPSIS potted plant, Orchid/2-stem assorted species plants, 3 ½": /products/flowering-plants/00493714.txt
+- ANTHURIUM potted plant, Flamingo plant assorted colors: /products/flowering-plants/00399108.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

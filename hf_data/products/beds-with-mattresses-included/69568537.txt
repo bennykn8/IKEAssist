@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: GLAMBERGET bed frame with storage and mattress, pine/Åkrehamn firm, Full
+SKU: 69568537
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/glamberget-bed-frame-with-storage-and-mattress-pine-akrehamn-firm-s69568537/
+Category: Beds with mattresses included
+Description: The GLAMBERGET series is smart, space-saving and multi-functional furniture. This extendable bed comes with ÅKREHAMN foam mattress – and 2 storage boxes and tray tables.
+
+# @OFFER
+Price: 638
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Head/foot board/ Bedside/ Midbeam/ Bed slats/ Support rail/ Leg frame/ Leg/ Drawer front/ Drawer side/ Drawer back/ Lid/ Rail: Solid pine, Drawer bottom: Fiberboard, Paper foil, Ticking/ Main parts/ Ticking, top/ Ticking, side: 100 % polyester (100% recycled)
+Features: Complete bed frame and mattress are included in the price. The mattress and the bed frame come in separate packages. | 2 storage boxes and 2 trays are included. | Slatted bed base is included, a midbeam is not required.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/glamberget-bed-frame-with-storage-and-mattress-pine-akrehamn-firm__1335906_pe947194_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,148 @@
+# @CATEGORY
+Name: Fabric ottomans
+ProductCount: 126
+
+# @FILTERS
+PriceRange: $12.99 - $389.00
+Materials: Back fabric: 100 % polyester (100% recycled), Base fabric: 100 % polyester (100% recycled), Clip: Polypropylene, Comfort filling: Polyurethane foam 2.2 lb/cu.ft., Cord: 100 % polyester, Cushion: Felt liner, Polyurethane foam 1.2 lb/cu.ft., High-resilience polyurethane foam (cold foam) 2.2 lb/cu.ft., Cushion: High-resilience polyurethane foam (cold foam) 2.2 lb/cu.ft., Plywood, Cushion: Polyurethane foam 2.0 lb/cu.ft., Polyurethane foam 1.5 lb/cu.ft., Fabric cover: 100 % polyester (100% recycled), Fabric cover: 100% polyester (min. 90% recycled)
+Brand: IKEA
+
+# @ITEMS
+- UPPLAND ottoman with storage, Kilanda light beige: /products/fabric-ottomans/59553857.txt
+- UPPLAND ottoman with storage, Kilanda dark blue: /products/fabric-ottomans/89553851.txt
+- UPPLAND ottoman with storage, Kelinge rust: /products/fabric-ottomans/29553849.txt
+- UPPLAND ottoman with storage, Kelinge gray-turquoise: /products/fabric-ottomans/09572844.txt
+- UPPLAND ottoman with storage, Kelinge beige: /products/fabric-ottomans/19553859.txt
+- UPPLAND ottoman with storage, Kelinge anthracite: /products/fabric-ottomans/49553853.txt
+- UPPLAND ottoman with storage, Karlshov beige/multicolor: /products/fabric-ottomans/99553855.txt
+- UPPLAND ottoman with storage, Hillared dark blue: /products/fabric-ottomans/79553861.txt
+- UPPLAND ottoman with storage, Hillared beige: /products/fabric-ottomans/39553858.txt
+- UPPLAND ottoman with storage, Hillared anthracite: /products/fabric-ottomans/29553854.txt
+- UPPLAND ottoman with storage, Hakebo gray-green: /products/fabric-ottomans/79553856.txt
+- UPPLAND ottoman with storage, Hakebo dark gray: /products/fabric-ottomans/69553852.txt
+- UPPLAND ottoman, Blekinge white: /products/fabric-ottomans/09384112.txt
+- STRANDMON Ottoman, Vibberbo black/beige: /products/fabric-ottomans/50456969.txt
+- STRANDMON Ottoman, Skiftebo yellow: /products/fabric-ottomans/50300435.txt
+- STRANDMON ottoman, Nordvalla dark gray: /products/fabric-ottomans/90300419.txt
+- STRANDMON ottoman, Kelinge beige: /products/fabric-ottomans/90492809.txt
+- STRANDMON ottoman, Djuparp dark green: /products/fabric-ottomans/90360012.txt
+- STOCKHOLM 2025 pouffe, Djurmo gray/white: /products/fabric-ottomans/40586179.txt
+- STOCKHOLM 2025 pouffe, black/white: /products/fabric-ottomans/10594760.txt
+- STOCKHOLM 2025 pouffe, Alhamn dark turquoise: /products/fabric-ottomans/30586170.txt
+- STOCKHOLM 2025 pouffe, Alhamn dark brown: /products/fabric-ottomans/60591759.txt
+- STOCKHOLM 2025 pouffe, Alhamn beige: /products/fabric-ottomans/20586175.txt
+- SÖDERHAMN ottoman, Viarp beige/brown: /products/fabric-ottomans/69305683.txt
+- SÖDERHAMN ottoman, Tonerud red: /products/fabric-ottomans/59514446.txt
+- SÖDERHAMN ottoman, Tonerud gray: /products/fabric-ottomans/49452095.txt
+- SÖDERHAMN ottoman, Tallmyra light green: /products/fabric-ottomans/59499832.txt
+- SÖDERHAMN ottoman, Tallmyra dark green: /products/fabric-ottomans/79499831.txt
+- SÖDERHAMN ottoman, Kelinge rust: /products/fabric-ottomans/19514617.txt
+- SÖDERHAMN ottoman, Kelinge gray-turquoise: /products/fabric-ottomans/89514529.txt
+- SÖDERHAMN ottoman, Hillared dark blue: /products/fabric-ottomans/19499754.txt
+- SÖDERHAMN ottoman, Hillared beige: /products/fabric-ottomans/39499753.txt
+- SÖDERHAMN ottoman, Fridtuna light beige: /products/fabric-ottomans/19449684.txt
+- SÖDERHAMN ottoman, Fridtuna dark gray: /products/fabric-ottomans/69449610.txt
+- SIDSJÖ pouffe, with storage/Kilanda beige: /products/fabric-ottomans/70572779.txt
+- SIDSJÖ pouffe, with storage/Gransel gray-brown: /products/fabric-ottomans/30572776.txt
+- ROCKSJÖN ottoman, Klovsta gray/white: /products/fabric-ottomans/99514699.txt
+- ROCKSJÖN ottoman, Kilanda light beige: /products/fabric-ottomans/19508876.txt
+- ROCKSJÖN ottoman, Blekinge white: /products/fabric-ottomans/29508866.txt
+- POÄNG ottoman, brown/Skiftebo yellow: /products/fabric-ottomans/69387264.txt
+- POÄNG ottoman, brown/Skiftebo dark gray: /products/fabric-ottomans/09388488.txt
+- POÄNG ottoman, brown/Knisa light beige: /products/fabric-ottomans/09336041.txt
+- POÄNG ottoman, brown/Knisa black: /products/fabric-ottomans/29336040.txt
+- POÄNG ottoman, brown/Hillared dark blue: /products/fabric-ottomans/49336039.txt
+- POÄNG ottoman, brown/Hillared beige: /products/fabric-ottomans/69336038.txt
+- POÄNG ottoman, brown/Hillared anthracite: /products/fabric-ottomans/89336037.txt
+- POÄNG ottoman, brown/Gunnared light green: /products/fabric-ottomans/59501953.txt
+- POÄNG ottoman, brown/Gunnared dark gray: /products/fabric-ottomans/39502109.txt
+- POÄNG ottoman, brown/Gunnared blue: /products/fabric-ottomans/09502182.txt
+- POÄNG ottoman, brown/Gunnared beige: /products/fabric-ottomans/39502029.txt
+- POÄNG ottoman, black-brown/Skiftebo yellow: /products/fabric-ottomans/79387268.txt
+- POÄNG ottoman, black-brown/Skiftebo dark gray: /products/fabric-ottomans/99388484.txt
+- POÄNG ottoman, black-brown/Knisa light beige: /products/fabric-ottomans/79305965.txt
+- POÄNG ottoman, black-brown/Knisa black: /products/fabric-ottomans/59305966.txt
+- POÄNG ottoman, black-brown/Hillared dark blue: /products/fabric-ottomans/39305967.txt
+- POÄNG ottoman, black-brown/Hillared beige: /products/fabric-ottomans/19305968.txt
+- POÄNG ottoman, black-brown/Hillared anthracite: /products/fabric-ottomans/99305969.txt
+- POÄNG ottoman, black-brown/Gunnared light green: /products/fabric-ottomans/59501948.txt
+- POÄNG ottoman, black-brown/Gunnared dark gray: /products/fabric-ottomans/19502105.txt
+- POÄNG ottoman, black-brown/Gunnared blue: /products/fabric-ottomans/29502176.txt
+- POÄNG ottoman, black-brown/Gunnared beige: /products/fabric-ottomans/19502025.txt
+- POÄNG ottoman, birch veneer/Skiftebo yellow: /products/fabric-ottomans/79387273.txt
+- POÄNG ottoman, birch veneer/Skiftebo dark gray: /products/fabric-ottomans/99388479.txt
+- POÄNG ottoman, birch veneer/Knisa light beige: /products/fabric-ottomans/19305954.txt
+- POÄNG ottoman, birch veneer/Knisa bright orange: /products/fabric-ottomans/39590634.txt
+- POÄNG ottoman, birch veneer/Knisa black: /products/fabric-ottomans/39305953.txt
+- POÄNG ottoman, birch veneer/Hillared dark blue: /products/fabric-ottomans/59305952.txt
+- POÄNG ottoman, birch veneer/Hillared beige: /products/fabric-ottomans/79305951.txt
+- POÄNG ottoman, birch veneer/Hillared anthracite: /products/fabric-ottomans/99305950.txt
+- POÄNG ottoman, birch veneer/Gunnared light green: /products/fabric-ottomans/69501943.txt
+- POÄNG ottoman, birch veneer/Gunnared dark gray: /products/fabric-ottomans/29502100.txt
+- POÄNG ottoman, birch veneer/Gunnared blue: /products/fabric-ottomans/19502172.txt
+- POÄNG ottoman, birch veneer/Gunnared beige: /products/fabric-ottomans/29502020.txt
+- OSKARSHAMN ottoman with storage, Tonerud red: /products/fabric-ottomans/80521685.txt
+- OSKARSHAMN ottoman with storage, Tibbleby beige/gray: /products/fabric-ottomans/30523620.txt
+- OSKARSHAMN ottoman with storage, Gunnared black-gray: /products/fabric-ottomans/70521676.txt
+- MORABO ottoman, Gunnared light green/wood: /products/fabric-ottomans/89318335.txt
+- MORABO ottoman, Gunnared light green/metal: /products/fabric-ottomans/19318334.txt
+- MORABO ottoman, Gunnared dark gray/wood: /products/fabric-ottomans/69318317.txt
+- MORABO ottoman, Gunnared dark gray/metal: /products/fabric-ottomans/89318316.txt
+- MORABO ottoman, Djuparp dark blue/wood: /products/fabric-ottomans/09416504.txt
+- MORABO ottoman, Djuparp dark blue/metal: /products/fabric-ottomans/29416503.txt
+- MÖRTFORS pouffe, Diseröd red: /products/fabric-ottomans/00572773.txt
+- MÖRTFORS pouffe, Diseröd gray: /products/fabric-ottomans/60572770.txt
+- MÖRTFORS pouffe, Diseröd dark yellow: /products/fabric-ottomans/20572767.txt
+- KJUGE ottoman with storage, Knisa medium blue: /products/fabric-ottomans/60565524.txt
+- KJUGE ottoman with storage, Knisa dark gray: /products/fabric-ottomans/30531903.txt
+- KIVIK ottoman with storage, Tresund light beige: /products/fabric-ottomans/89482905.txt
+- KIVIK ottoman with storage, Tresund anthracite: /products/fabric-ottomans/69482906.txt
+- KIVIK ottoman with storage, Tibbleby beige/gray: /products/fabric-ottomans/89440500.txt
+- KIVIK ottoman with storage, Tallmyra white/black: /products/fabric-ottomans/89499680.txt
+- KIVIK ottoman with storage, Tallmyra light green: /products/fabric-ottomans/29499678.txt
+- KIVIK ottoman with storage, Tallmyra dark green: /products/fabric-ottomans/49499677.txt
+- KIVIK ottoman with storage, Tallmyra blue: /products/fabric-ottomans/69499676.txt
+- KIVIK ottoman with storage, Kelinge gray-turquoise: /products/fabric-ottomans/69443043.txt
+- KIVIK ottoman with storage, Gunnared medium gray: /products/fabric-ottomans/19499674.txt
+- KIVIK ottoman with storage, Gunnared light green: /products/fabric-ottomans/39499673.txt
+- KIVIK ottoman with storage, Gunnared light brown-pink: /products/fabric-ottomans/59499672.txt
+- KIVIK ottoman with storage, Gunnared blue: /products/fabric-ottomans/79499671.txt
+- KIVIK ottoman with storage, Gunnared beige: /products/fabric-ottomans/99499670.txt
+- KEDJEBO ottoman, brown/beige: /products/fabric-ottomans/90504906.txt
+- KEDJEBO ottoman, beige: /products/fabric-ottomans/80504902.txt
+- JÄRRESTAD pouffe, with storage/Tonerud dark beige: /products/fabric-ottomans/50572761.txt
+- JÄRRESTAD pouffe, with storage/Djuparp dark blue: /products/fabric-ottomans/10572758.txt
+- HAVBERG ottoman, Lejde gray/black: /products/fabric-ottomans/40526034.txt
+- GRUNDSJÖ ottoman, gray: /products/fabric-ottomans/50504908.txt
+- GLOSTAD ottoman, Knisa dark gray: /products/fabric-ottomans/60595936.txt
+- FÖRLUNDA pouffe, with storage/Vissle beige: /products/fabric-ottomans/20572753.txt
+- FÖRLUNDA pouffe, with storage/Tonerud red: /products/fabric-ottomans/00572749.txt
+- FÖRLUNDA pouffe, with storage/Tonerud gray: /products/fabric-ottomans/60572746.txt
+- FINNALA ottoman with storage, Tallmyra black/gray: /products/fabric-ottomans/89319617.txt
+- FINNALA ottoman with storage, Tallmyra beige: /products/fabric-ottomans/29319615.txt
+- FINNALA ottoman with storage, Orrsta black-blue: /products/fabric-ottomans/79319613.txt
+- ESSEBODA ottoman, Tallmyra medium gray/brown: /products/fabric-ottomans/59443425.txt
+- ESSEBODA ottoman, Tallmyra/medium gray birch: /products/fabric-ottomans/49443435.txt
+- ESSEBODA ottoman, Tallmyra blue/brown: /products/fabric-ottomans/69443420.txt
+- ESSEBODA ottoman, Tallmyra/blue birch: /products/fabric-ottomans/59443430.txt
+- ESSEBODA ottoman, Knäbäck light beige/brown: /products/fabric-ottomans/39443445.txt
+- ESSEBODA ottoman, Knäbäck/light beige birch: /products/fabric-ottomans/29443455.txt
+- ESSEBODA ottoman, Knäbäck anthracite/brown: /products/fabric-ottomans/49443440.txt
+- ESSEBODA ottoman, Knäbäck/anthracite birch: /products/fabric-ottomans/39443450.txt
+- EMMISLÖV pouffe, Vissle dark gray: /products/fabric-ottomans/70572741.txt
+- EMMISLÖV pouffe, Skiftebo yellow: /products/fabric-ottomans/30572738.txt
+- ÅTERLÖGA pouffe, with storage/Kilanda light blue: /products/fabric-ottomans/00572792.txt
+- ÅTERLÖGA pouffe, with storage/Kilanda dark gray: /products/fabric-ottomans/60572789.txt
+- ÄLEBY ottoman, Gunnared medium gray/dark gray: /products/fabric-ottomans/60572812.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

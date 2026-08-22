@@ -1,0 +1,166 @@
+# @CATEGORY
+Name: BESTÅ TV benches
+ProductCount: 144
+
+# @FILTERS
+PriceRange: $140.00 - $485.00
+Materials: Back panel: Fiberboard, Fiberboard, Paper foil, Plastic foil, Back panel: Fiberboard, Paper foil, Plastic foil, Panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Paper foil, Plastic edging, Plastic edging, Plastic edging, Paper foil, Panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Plastic edging, Plastic edging, Plastic edging, Paper foil, Particleboard, Fiberboard, Paper foil, Plastic edging, Plastic edging, Plastic edging, Paper foil, Top panel/ Bottom panel/ Side panel/ Partition: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Paper foil, Plastic edging, Plastic edging, Plastic edging, Top panel/ Bottom panel/ Side panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Plastic edging
+Brand: IKEA
+
+# @ITEMS
+- BESTÅ TV unit with doors, white/Sutterviken/Kabbarp white: /products/bestå-tv-benches/49567992.txt
+- BESTÅ TV unit with doors, white stained oak effect/Selsviken high-gloss/white: /products/bestå-tv-benches/99568041.txt
+- BESTÅ TV unit with doors, white stained oak effect/Lappviken white stained oak effect: /products/bestå-tv-benches/29568054.txt
+- BESTÅ TV unit with doors, white/Selsviken high-gloss/white: /products/bestå-tv-benches/69568052.txt
+- BESTÅ TV unit with doors, white/Selsviken high-gloss/beige: /products/bestå-tv-benches/89568051.txt
+- BESTÅ TV unit with doors, white/Lappviken white: /products/bestå-tv-benches/49568048.txt
+- BESTÅ TV unit with doors, white/Lappviken/Stubbarp dark gray: /products/bestå-tv-benches/49574978.txt
+- BESTÅ TV unit with doors, white/Lappviken dark gray: /products/bestå-tv-benches/79575028.txt
+- BESTÅ TV unit with doors, white/Hanviken white: /products/bestå-tv-benches/99568055.txt
+- BESTÅ TV unit with doors, white/Hammarsmed beige: /products/bestå-tv-benches/29571914.txt
+- BESTÅ TV unit with doors, white/Hammarsmed anthracite: /products/bestå-tv-benches/19571919.txt
+- BESTÅ TV unit with doors, dark gray/Lappviken/Stubbarp dark gray: /products/bestå-tv-benches/89564227.txt
+- BESTÅ TV unit with doors, dark gray/Lappviken dark gray: /products/bestå-tv-benches/79564162.txt
+- BESTÅ TV unit with doors, black-brown/Selsviken high-gloss/black: /products/bestå-tv-benches/39568039.txt
+- BESTÅ TV unit with doors, black-brown/Selsviken high-gloss/beige: /products/bestå-tv-benches/79568037.txt
+- BESTÅ TV unit with doors, black-brown/Lappviken black-brown: /products/bestå-tv-benches/99568036.txt
+- BESTÅ TV unit with doors, black-brown/Kallviken concrete effect: /products/bestå-tv-benches/19568035.txt
+- BESTÅ TV unit with doors, black-brown/Hanviken black-brown: /products/bestå-tv-benches/49568034.txt
+- BESTÅ TV unit with doors, black-brown/Glassvik smoked glass: /products/bestå-tv-benches/69568033.txt
+- BESTÅ TV unit, white stained oak effect: /products/bestå-tv-benches/69566500.txt
+- BESTÅ TV unit, white: /products/bestå-tv-benches/49566501.txt
+- BESTÅ TV unit, dark gray: /products/bestå-tv-benches/99564156.txt
+- BESTÅ TV unit, black-brown: /products/bestå-tv-benches/39566498.txt
+- BESTÅ TV bench with drawers, white stained oak effect/Lappviken/Stubbarp white stained oak effect: /products/bestå-tv-benches/79566585.txt
+- BESTÅ TV bench with drawers, white stained oak effect/Lappviken/Stubbarp white stained oak effect: /products/bestå-tv-benches/49567058.txt
+- BESTÅ TV bench with drawers, white/Riksviken/Stubbarp light bronze effect: /products/bestå-tv-benches/69566581.txt
+- BESTÅ TV bench with drawers, white/Riksviken/Stubbarp light bronze effect: /products/bestå-tv-benches/09567055.txt
+- BESTÅ TV bench with drawers, white/Laxviken/Stubbarp white: /products/bestå-tv-benches/39567054.txt
+- BESTÅ TV bench with drawers, white/Laxviken/Stubbarp white: /products/bestå-tv-benches/09566579.txt
+- BESTÅ TV bench with drawers, white/Lappviken/Stubbarp white: /products/bestå-tv-benches/59567053.txt
+- BESTÅ TV bench with drawers, white/Lappviken/Stubbarp white: /products/bestå-tv-benches/29566578.txt
+- BESTÅ TV bench with drawers, white/Lappviken/Stubbarp dark gray: /products/bestå-tv-benches/49575529.txt
+- BESTÅ TV bench with drawers, white/Lappviken/Stubbarp dark gray: /products/bestå-tv-benches/09575531.txt
+- BESTÅ TV bench with drawers, white/Kallviken/Stubbarp dark gray: /products/bestå-tv-benches/79567052.txt
+- BESTÅ TV bench with drawers, white/Kallviken/Stubbarp dark gray: /products/bestå-tv-benches/49566577.txt
+- BESTÅ TV bench with drawers, white/Hedeviken/Stubbarp oak veneer: /products/bestå-tv-benches/99567051.txt
+- BESTÅ TV bench with drawers, white/Hedeviken/Stubbarp oak veneer: /products/bestå-tv-benches/69566576.txt
+- BESTÅ TV bench with drawers, white/Hanviken/Stubbarp white: /products/bestå-tv-benches/89566575.txt
+- BESTÅ TV bench with drawers, white/Hanviken/Stubbarp white: /products/bestå-tv-benches/39567049.txt
+- BESTÅ TV bench with drawers, white/Björköviken/Stubbarp birch veneer: /products/bestå-tv-benches/59567048.txt
+- BESTÅ TV bench with drawers, white/Björköviken/Stubbarp birch veneer: /products/bestå-tv-benches/19566574.txt
+- BESTÅ TV bench with drawers, white/Bergsviken/Stubbarp black: /products/bestå-tv-benches/69567043.txt
+- BESTÅ TV bench with drawers, white/Bergsviken/Stubbarp black: /products/bestå-tv-benches/39566573.txt
+- BESTÅ TV bench with drawers, white/Bergsviken/Stubbarp beige: /products/bestå-tv-benches/89567042.txt
+- BESTÅ TV bench with drawers, white/Bergsviken/Stubbarp beige: /products/bestå-tv-benches/59566572.txt
+- BESTÅ TV bench with drawers, white/Bergsviken/Ösarp black: /products/bestå-tv-benches/99567027.txt
+- BESTÅ TV bench with drawers, white/Bergsviken/Ösarp black: /products/bestå-tv-benches/79567047.txt
+- BESTÅ TV bench with drawers, white/Bergsviken/Ösarp beige: /products/bestå-tv-benches/49567044.txt
+- BESTÅ TV bench with drawers, white/Bergsviken/Ösarp beige: /products/bestå-tv-benches/19567026.txt
+- BESTÅ TV bench with drawers, dark gray/Lappviken/Stubbarp dark gray: /products/bestå-tv-benches/09567041.txt
+- BESTÅ TV bench with drawers, dark gray/Lappviken/Stubbarp dark gray: /products/bestå-tv-benches/09564212.txt
+- BESTÅ TV bench with drawers, dark gray/Kallviken/Stubbarp dark gray: /products/bestå-tv-benches/29567040.txt
+- BESTÅ TV bench with drawers, dark gray/Kallviken/Stubbarp dark gray: /products/bestå-tv-benches/29564211.txt
+- BESTÅ TV bench with drawers, dark gray/Bergsviken/Stubbarp black: /products/bestå-tv-benches/69567038.txt
+- BESTÅ TV bench with drawers, dark gray/Bergsviken/Stubbarp black: /products/bestå-tv-benches/09564207.txt
+- BESTÅ TV bench with drawers, black-brown/Selsviken/Stubbarp dark olive-green: /products/bestå-tv-benches/89567037.txt
+- BESTÅ TV bench with drawers, black-brown/Selsviken/Stubbarp dark olive-green: /products/bestå-tv-benches/39567025.txt
+- BESTÅ TV bench with drawers, black-brown/Lappviken/Stubbarp black-brown: /products/bestå-tv-benches/79566566.txt
+- BESTÅ TV bench with drawers, black-brown/Lappviken/Stubbarp black-brown: /products/bestå-tv-benches/29567035.txt
+- BESTÅ TV bench with drawers, black-brown/Kallviken/Stubbarp dark gray: /products/bestå-tv-benches/99566565.txt
+- BESTÅ TV bench with drawers, black-brown/Kallviken/Stubbarp dark gray: /products/bestå-tv-benches/59567034.txt
+- BESTÅ TV bench with drawers, black-brown Hedeviken/Stubbarp/oak veneer: /products/bestå-tv-benches/99567032.txt
+- BESTÅ TV bench with drawers, black-brown Hedeviken/Stubbarp/oak veneer: /products/bestå-tv-benches/49566563.txt
+- BESTÅ TV bench with drawers, black-brown Hedeviken/Stubbarp/dark brown stained oak veneer: /products/bestå-tv-benches/69566562.txt
+- BESTÅ TV bench with drawers, black-brown Hedeviken/Stubbarp/dark brown stained oak veneer: /products/bestå-tv-benches/19567031.txt
+- BESTÅ TV bench with drawers, black-brown/Hanviken/Stubbarp black-brown: /products/bestå-tv-benches/79567033.txt
+- BESTÅ TV bench with drawers, black-brown/Hanviken/Stubbarp black-brown: /products/bestå-tv-benches/29566564.txt
+- BESTÅ TV bench with drawers, black-brown Björköviken/Stubbarp/brown stained oak veneer: /products/bestå-tv-benches/89566561.txt
+- BESTÅ TV bench with drawers, black-brown Björköviken/Stubbarp/brown stained oak veneer: /products/bestå-tv-benches/39567030.txt
+- BESTÅ TV bench with doors, white stained oak effect/Lappviken white stained oak effect: /products/bestå-tv-benches/69603611.txt
+- BESTÅ TV bench with doors, white stained oak effect/Lappviken/Stubbarp white stained oak effect: /products/bestå-tv-benches/39567997.txt
+- BESTÅ TV bench with doors, white stained oak effect Kallviken/Stubbarp/dark gray concrete effect: /products/bestå-tv-benches/59567996.txt
+- BESTÅ TV bench with doors, white/Smeviken/Kabbarp white: /products/bestå-tv-benches/89567990.txt
+- BESTÅ TV bench with doors, white/Selsviken high-gloss white: /products/bestå-tv-benches/29603627.txt
+- BESTÅ TV bench with doors, white/Riksviken/Stubbarp light bronze effect: /products/bestå-tv-benches/29567988.txt
+- BESTÅ TV bench with doors, white Riksviken/Stubbarp/bronze color: /products/bestå-tv-benches/39566549.txt
+- BESTÅ TV bench with doors, white/Riksviken light bronze effect: /products/bestå-tv-benches/09568050.txt
+- BESTÅ TV bench with doors, white/Mörtviken white: /products/bestå-tv-benches/29568049.txt
+- BESTÅ TV bench with doors, white/Mörtviken/Stubbarp white: /products/bestå-tv-benches/59566553.txt
+- BESTÅ TV bench with doors, white/Mörtviken dark gray: /products/bestå-tv-benches/59575171.txt
+- BESTÅ TV bench with doors, white/Laxviken white: /products/bestå-tv-benches/79568056.txt
+- BESTÅ TV bench with doors, white Laxviken/Stubbarp/white: /products/bestå-tv-benches/59566548.txt
+- BESTÅ TV bench with doors, white/Laxviken/Stubbarp white: /products/bestå-tv-benches/49567987.txt
+- BESTÅ TV bench with doors, white/Lappviken white: /products/bestå-tv-benches/09603609.txt
+- BESTÅ TV bench with doors, white/Lappviken/Stubbarp white: /products/bestå-tv-benches/99566551.txt
+- BESTÅ TV bench with doors, white/Lappviken/Stubbarp white: /products/bestå-tv-benches/59568000.txt
+- BESTÅ TV bench with doors, white Lappviken/Stubbarp/dark gray: /products/bestå-tv-benches/29572961.txt
+- BESTÅ TV bench with doors, white/Lappviken dark gray: /products/bestå-tv-benches/29603608.txt
+- BESTÅ TV bench with doors, white Kallviken/Stubbarp/dark gray: /products/bestå-tv-benches/19566545.txt
+- BESTÅ TV bench with doors, white Kallviken/Stubbarp/dark gray concrete effect: /products/bestå-tv-benches/39567978.txt
+- BESTÅ TV bench with doors, white/Kallviken/Ösarp dark gray: /products/bestå-tv-benches/39566506.txt
+- BESTÅ TV bench with doors, white/Kallviken dark gray: /products/bestå-tv-benches/89568046.txt
+- BESTÅ TV bench with doors, white/Hedeviken/Stubbarp oak veneer: /products/bestå-tv-benches/59567982.txt
+- BESTÅ TV bench with doors, white Hedeviken/Stubbarp/oak veneer: /products/bestå-tv-benches/49566544.txt
+- BESTÅ TV bench with doors, white/Hedeviken oak veneer: /products/bestå-tv-benches/09568045.txt
+- BESTÅ TV bench with doors, white Hanviken/Stubbarp/white: /products/bestå-tv-benches/69566543.txt
+- BESTÅ TV bench with doors, white/Hanviken/Stubbarp white: /products/bestå-tv-benches/19567998.txt
+- BESTÅ TV bench with doors, white/Hammarsmed/Stubbarp beige: /products/bestå-tv-benches/79571902.txt
+- BESTÅ TV bench with doors, white/Hammarsmed/Stubbarp anthracite: /products/bestå-tv-benches/99571901.txt
+- BESTÅ TV bench with doors, white/Björköviken/Stubbarp birch veneer: /products/bestå-tv-benches/79567981.txt
+- BESTÅ TV bench with doors, white Björköviken/Stubbarp/birch veneer: /products/bestå-tv-benches/09566541.txt
+- BESTÅ TV bench with doors, white Björköviken/Mejarp/birch veneer: /products/bestå-tv-benches/89566504.txt
+- BESTÅ TV bench with doors, white Björköviken/birch veneer: /products/bestå-tv-benches/79568042.txt
+- BESTÅ TV bench with doors, white/Bergsviken/Stubbarp black: /products/bestå-tv-benches/99567980.txt
+- BESTÅ TV bench with doors, white Bergsviken/Stubbarp/black: /products/bestå-tv-benches/49566539.txt
+- BESTÅ TV bench with doors, white Bergsviken/Ösarp/black: /products/bestå-tv-benches/09566503.txt
+- BESTÅ TV bench with doors, white/Bergsviken black: /products/bestå-tv-benches/59568043.txt
+- BESTÅ TV bench with doors, dark gray/Mörtviken/Stubbarp gray: /products/bestå-tv-benches/69564228.txt
+- BESTÅ TV bench with doors, dark gray/Mörtviken/Stubbarp dark gray: /products/bestå-tv-benches/19564198.txt
+- BESTÅ TV bench with doors, dark gray/Mörtviken dark gray: /products/bestå-tv-benches/59564163.txt
+- BESTÅ TV bench with doors, dark gray/Lappviken/Stubbarp dark gray: /products/bestå-tv-benches/99564203.txt
+- BESTÅ TV bench with doors, dark gray/Lappviken dark gray: /products/bestå-tv-benches/39603603.txt
+- BESTÅ TV bench with doors, dark gray/Kallviken/Stubbarp dark gray: /products/bestå-tv-benches/39564201.txt
+- BESTÅ TV bench with doors, dark gray/Kallviken/Stubbarp dark gray: /products/bestå-tv-benches/09564226.txt
+- BESTÅ TV bench with doors, dark gray/Kallviken/Ösarp dark gray: /products/bestå-tv-benches/19564202.txt
+- BESTÅ TV bench with doors, dark gray/Kallviken dark gray: /products/bestå-tv-benches/99564161.txt
+- BESTÅ TV bench with doors, dark gray/Bergsviken/Stubbarp black: /products/bestå-tv-benches/79564223.txt
+- BESTÅ TV bench with doors, dark gray/Bergsviken/Stubbarp black: /products/bestå-tv-benches/79564204.txt
+- BESTÅ TV bench with doors, dark gray/Bergsviken/Ösarp black: /products/bestå-tv-benches/39564197.txt
+- BESTÅ TV bench with doors, dark gray/Bergsviken black: /products/bestå-tv-benches/79564157.txt
+- BESTÅ TV bench with doors, black-brown/Selsviken/Stubbarp dark olive-green: /products/bestå-tv-benches/29566559.txt
+- BESTÅ TV bench with doors, black-brown/Selsviken/Stubbarp dark olive-green: /products/bestå-tv-benches/09567102.txt
+- BESTÅ TV bench with doors, black-brown/Selsviken dark olive-green: /products/bestå-tv-benches/89567103.txt
+- BESTÅ TV bench with doors, black-brown/Mörtviken/Stubbarp black: /products/bestå-tv-benches/69566519.txt
+- BESTÅ TV bench with doors, black-brown/Mörtviken black: /products/bestå-tv-benches/89568032.txt
+- BESTÅ TV bench with doors, black-brown/Lappviken/Stubbarp black-brown: /products/bestå-tv-benches/79567976.txt
+- BESTÅ TV bench with doors, black-brown/Lappviken/Stubbarp black-brown: /products/bestå-tv-benches/69566557.txt
+- BESTÅ TV bench with doors, black-brown/Lappviken black-brown: /products/bestå-tv-benches/59603602.txt
+- BESTÅ TV bench with doors, black-brown/Kallviken/Stubbarp dark gray: /products/bestå-tv-benches/99566513.txt
+- BESTÅ TV bench with doors, black-brown Kallviken/Stubbarp/dark gray concrete effect: /products/bestå-tv-benches/89567971.txt
+- BESTÅ TV bench with doors, black-brown/Hedeviken/Stubbarp oak veneer: /products/bestå-tv-benches/39567964.txt
+- BESTÅ TV bench with doors, black-brown/Hedeviken/Stubbarp oak veneer: /products/bestå-tv-benches/19566512.txt
+- BESTÅ TV bench with doors, black-brown Hedeviken/Stubbarp/dark brown stained oak veneer: /products/bestå-tv-benches/99566508.txt
+- BESTÅ TV bench with doors, black-brown Hedeviken/Stubbarp/dark brown stained oak veneer: /products/bestå-tv-benches/59567963.txt
+- BESTÅ TV bench with doors, black-brown/Hedeviken oak veneer: /products/bestå-tv-benches/69568028.txt
+- BESTÅ TV bench with doors, black-brown Hedeviken/dark brown oak veneer: /products/bestå-tv-benches/89568027.txt
+- BESTÅ TV bench with doors, black-brown/Hanviken/Stubbarp black-brown: /products/bestå-tv-benches/89566556.txt
+- BESTÅ TV bench with doors, black-brown/Hanviken/Stubbarp black-brown: /products/bestå-tv-benches/49567973.txt
+- BESTÅ TV bench with doors, black-brown/Hammarsmed/Stubbarp anthracite: /products/bestå-tv-benches/59571899.txt
+- BESTÅ TV bench with doors, black-brown Hammarsmed/anthracite: /products/bestå-tv-benches/59571917.txt
+- BESTÅ TV bench with doors, black-brown Björköviken/Stubbarp/brown stained oak veneer: /products/bestå-tv-benches/79567962.txt
+- BESTÅ TV bench with doors, black-brown Björköviken/Stubbarp/brown stained oak veneer: /products/bestå-tv-benches/19566507.txt
+- BESTÅ TV bench with doors, black-brown Björköviken/Mejarp/brown stained oak veneer: /products/bestå-tv-benches/29566502.txt
+- BESTÅ TV bench with doors, black-brown Björköviken/brown stained oak veneer: /products/bestå-tv-benches/09568026.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

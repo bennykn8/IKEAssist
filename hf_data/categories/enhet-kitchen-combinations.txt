@@ -1,0 +1,29 @@
+# @CATEGORY
+Name: ENHET kitchen combinations
+ProductCount: 7
+
+# @FILTERS
+PriceRange: $150.00 - $1333.82
+Materials: Edge: Plastic edging, Fiberboard, Plastic foil, Frame/ Wedge: Steel, Front side/ Back side: Plastic foil, Main parts: Particleboard, Shelf: Galvanized steel, Support rail: Steel, Powder coating
+Brand: IKEA
+
+# @ITEMS
+- ENHET kitchen, white: /products/enhet-kitchen-combinations/79444419.txt
+- ENHET kitchen, white: /products/enhet-kitchen-combinations/19440829.txt
+- ENHET kitchen, white: /products/enhet-kitchen-combinations/09442881.txt
+- ENHET kitchen island frame with shelves, white: /products/enhet-kitchen-combinations/80514449.txt
+- ENHET kitchen island frame with shelves, anthracite: /products/enhet-kitchen-combinations/00514448.txt
+- ENHET kitchen, anthracite/white: /products/enhet-kitchen-combinations/19442994.txt
+- ENHET corner kitchen, anthracite/gray frame: /products/enhet-kitchen-combinations/79441005.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

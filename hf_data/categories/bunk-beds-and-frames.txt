@@ -1,0 +1,26 @@
+# @CATEGORY
+Name: Bunk beds & frames
+ProductCount: 4
+
+# @FILTERS
+PriceRange: $149.00 - $349.00
+Materials: Bed base frame/ Guard rail/ Ladder frame/ Ladder steps/ Bed slats/ Leg/ Supporting rail: Steel, Epoxy/polyester powder coating, Bed base slats/ Step/ Leg: Solid pine, Bed base slats: Layer-glued wood veneer, Beech veneer, Birch veneer, Eucalyptus veneer, Fabric: 100 %polyester, Fabric: 100% polyester (min. 90% recycled), Front leg: Solid pine, Solid pine, Adhesive, Main parts/ Slat holder: Steel, Epoxy/polyester powder coating, Main parts/ Step: Solid pine, Stain, Clear acrylic lacquer, Main parts: Solid pine, Adhesive, Supporting rail: Solid pine
+Brand: IKEA
+
+# @ITEMS
+- VITVAL bunk bed frame, white/light gray, Twin: /products/bunk-beds-and-frames/70411277.txt
+- TUFFING bunk bed frame, dark gray, Twin: /products/bunk-beds-and-frames/70299285.txt
+- MYDAL bunk bed frame, white, Twin: /products/bunk-beds-and-frames/70448313.txt
+- MYDAL bunk bed frame, pine, Twin: /products/bunk-beds-and-frames/00531891.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

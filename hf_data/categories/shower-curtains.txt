@@ -1,0 +1,37 @@
+# @CATEGORY
+Name: Shower curtains
+ProductCount: 15
+
+# @FILTERS
+PriceRange: $1.99 - $16.99
+Materials: 100 % PEVA, 100 % polyester (100% recycled), 100% polyester (min. 90% recycled), EVA plastic, End cap: Silicone rubber, End cap: Thermoplastic elastomer, Main parts/ Cover/ Rivet/ Pin: Stainless steel, Main parts: Aluminium (min. 70% recycled), Epoxy/polyester powder coating, Mechanism/ Cover cap/ Sleeve: Acetal plastic, Mechanism: Acetal plastic
+Brand: IKEA
+
+# @ITEMS
+- VATTENSJÖN shower curtain, white blue/fish: /products/shower-curtains/70487823.txt
+- SVARTSTARR shower curtain, white/gray: /products/shower-curtains/20557371.txt
+- STRANDLUMMER shower curtain, multicolor: /products/shower-curtains/60591146.txt
+- RUDSJÖN shower curtain rings, stainless steel color: /products/shower-curtains/50466015.txt
+- RÅNEÄLVEN shower curtain, white/turquoise: /products/shower-curtains/70512851.txt
+- NÄCKTEN shower curtain, clear: /products/shower-curtains/90099501.txt
+- LUDDHAGTORN shower curtain, white: /products/shower-curtains/10557418.txt
+- LUDDHAGTORN shower curtain, turquoise: /products/shower-curtains/40557426.txt
+- LUDDHAGTORN shower curtain, gray: /products/shower-curtains/30557422.txt
+- HORNEN shower curtain tension rod: /products/shower-curtains/70314889.txt
+- HASSJÖN shower curtain rings, white: /products/shower-curtains/00466008.txt
+- BOTAREN shower curtain tension rod, white: /products/shower-curtains/90314973.txt
+- BOTAREN shower curtain tension rod, black: /products/shower-curtains/70569423.txt
+- BJÄRSEN shower curtain, white: /products/shower-curtains/60443702.txt
+- BANJANTRÄD shower curtain, multicolor: /products/shower-curtains/00594143.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

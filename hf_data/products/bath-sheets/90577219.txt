@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SLÅNHÖSTMAL bath sheet, orange/pink stripe
+SKU: 90577219
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/slanhoestmal-bath-sheet-orange-pink-stripe-90577219/
+Category: Bath sheets
+Description: , 39x59" We love stripes! The iconic pattern is simple, yet bold and gives your bathroom a lift. Medium-thick (374 g/m²) SLÅNHÖSTMAL towel in 100% cotton, is absorbent and a perfect choice for an easy...
+
+# @OFFER
+Price: 12.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % cotton
+Features: Grams per square meter (g/m2) indicates the surface density of the fabric. The higher the surface density the more absorbent the towel. A towel with a lower surface density dries faster. | The towel will reach full absorbency after one washing. | Available in different colors.
+Care: Shrinkage maximum 6%. | Machine wash warm (max 140°F/60°C) normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/slanhoestmal-bath-sheet-orange-pink-stripe__1255913_pe924781_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

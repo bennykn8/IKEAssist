@@ -1,0 +1,68 @@
+# @CATEGORY
+Name: End tables & side tables
+ProductCount: 46
+
+# @FILTERS
+PriceRange: $9.99 - $179.99
+Materials: Back panel/ Side panel/ Drawer front/ Shelf: Particleboard, Oak veneer, Clear acrylic lacquer, Paper foil, Oak veneer, Bottom panel/ Side panel/ Partition: Particleboard, Paper foil, Plastic edging, Plastic edging, Bottom: Particleboard, Pine veneer, Clear lacquer, Paper foil, Pine veneer, Bottom: Particleboard, Pine veneer, Tinted lacquer, Paper foil, Pine veneer, Bumper: Thermoplastic elastomer, Cover cap: Aluminum, Cross rail: Steel, Steel, Nickel plated, Drawer side/ Drawer back: Particleboard, Plastic foil, Drawer side/ Drawer back: Particleboard, Plastic foil, Plastic edging, Fabric/ Fabric: 100% polyester (min. 90% recycled)
+Brand: IKEA
+
+# @ITEMS
+- TUNSTA side table, anthracite: /products/end-tables-and-side-tables/50299502.txt
+- TORSJÖ side table, gold effect/glass: /products/end-tables-and-side-tables/60590415.txt
+- TONSTAD side table, off-white: /products/end-tables-and-side-tables/20528473.txt
+- TONSTAD side table, oak veneer: /products/end-tables-and-side-tables/80528470.txt
+- TONSTAD side table, brown stained oak veneer: /products/end-tables-and-side-tables/40528467.txt
+- TINGBY Side table on casters, white: /products/end-tables-and-side-tables/20295930.txt
+- TINGBY Side table on casters, gray: /products/end-tables-and-side-tables/00349444.txt
+- TÅNEBRO side table, indoor/outdoor/light grey-beige: /products/end-tables-and-side-tables/60554988.txt
+- TÅNEBRO side table, indoor/outdoor/dark green: /products/end-tables-and-side-tables/40578971.txt
+- TÅNEBRO side table, indoor/outdoor/anthracite: /products/end-tables-and-side-tables/60578970.txt
+- STOCKHOLM 2025 side table, pine veneer natural: /products/end-tables-and-side-tables/90586563.txt
+- STOCKHOLM 2025 side table, pine veneer black: /products/end-tables-and-side-tables/30586561.txt
+- STOCKHOLM 2025 side table on casters, oak veneer: /products/end-tables-and-side-tables/70586559.txt
+- STOCKHOLM 2025 side table, oak veneer dark brown: /products/end-tables-and-side-tables/90586558.txt
+- SKRUVBY side table, white: /products/end-tables-and-side-tables/80532009.txt
+- SKRUVBY side table, black-blue: /products/end-tables-and-side-tables/50531983.txt
+- OLSERÖD side table, anthracite/dark gray: /products/end-tables-and-side-tables/40530917.txt
+- OLSERÖD side table, anthracite/birch effect dark yellow: /products/end-tables-and-side-tables/20525356.txt
+- LUBBAN Serving cart with storage, rattan, anthracite: /products/end-tables-and-side-tables/50434307.txt
+- LÖVBACKEN side table, orange: /products/end-tables-and-side-tables/30557101.txt
+- LÖVBACKEN side table, medium brown: /products/end-tables-and-side-tables/80270125.txt
+- LÖVBACKEN side table, light green: /products/end-tables-and-side-tables/10557102.txt
+- LÖVBACKEN side table, blue: /products/end-tables-and-side-tables/90557099.txt
+- LIVELYCKE tray table, black: /products/end-tables-and-side-tables/90564009.txt
+- LISTERBY side table, oak veneer: /products/end-tables-and-side-tables/30515314.txt
+- LISTERBY side table, dark brown beech veneer: /products/end-tables-and-side-tables/10562250.txt
+- LISABO Side table, ash veneer: /products/end-tables-and-side-tables/10297656.txt
+- LACK side table, white stained oak effect: /products/end-tables-and-side-tables/70319028.txt
+- LACK side table, white: /products/end-tables-and-side-tables/30514791.txt
+- LACK Side table, white: /products/end-tables-and-side-tables/30449908.txt
+- LACK side table, black-brown: /products/end-tables-and-side-tables/80104268.txt
+- JÄTTESTA side table, white/light bamboo: /products/end-tables-and-side-tables/60538795.txt
+- JÄTTESTA side table, black: /products/end-tables-and-side-tables/90521915.txt
+- IDANÄS side table, white: /products/end-tables-and-side-tables/00496048.txt
+- HOLMERUD side table, oak effect: /products/end-tables-and-side-tables/40541421.txt
+- HOLMERUD side table, dark brown: /products/end-tables-and-side-tables/20538721.txt
+- GUTTANE side table, oak: /products/end-tables-and-side-tables/80587718.txt
+- GRIMSARBO side table, pine plywood/bright red: /products/end-tables-and-side-tables/50606167.txt
+- GRIMSARBO side table, pine plywood/black: /products/end-tables-and-side-tables/00589090.txt
+- FRÖTORP side table, anthracite marble effect/black glass: /products/end-tables-and-side-tables/10492276.txt
+- BURVIK Side table, white: /products/end-tables-and-side-tables/60340389.txt
+- BURVIK side table, light gray-green: /products/end-tables-and-side-tables/80513001.txt
+- BURVIK side table, black: /products/end-tables-and-side-tables/70340384.txt
+- BAGGBODA side table, white: /products/end-tables-and-side-tables/20556507.txt
+- BAGGBODA side table, light yellow: /products/end-tables-and-side-tables/20555089.txt
+- ÄSPERÖD side table, black/glass black: /products/end-tables-and-side-tables/10462180.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,37 @@
+# @CATEGORY
+Name: Shower accessories
+ProductCount: 15
+
+# @FILTERS
+PriceRange: $2.99 - $24.99
+Materials: Bar/ Shelf/ Connector/ Insert nut/ Adapter/ Bolt: Stainless steel, Bar/ Shelf: Steel, Powder coating, Cover plate: Aluminum, Chrome plated, Cover/ Body: ABS plastic, Frame/ Plate: Polycarbonate plastic, Hook/ Cover/ Connector: ABS plastic (min. 20% recycled), Metal part: Stainless steel, Metal parts: Steel, Galvanized, Polyester powder coating, Mounting plate: Aluminum, Anodized, Polyethylene, Polyethylene
+Brand: IKEA
+
+# @ITEMS
+- VALVATTNET bathtub mat, gray: /products/shower-accessories/00604986.txt
+- TRAMPSJÖN bathtub mat, light turquoise: /products/shower-accessories/90600663.txt
+- TISKEN Corner basket with suction cup, white: /products/shower-accessories/20400304.txt
+- TISKEN Basket with suction cup, white: /products/shower-accessories/40381253.txt
+- ÖBONÄS wall shelf with suction cup, gray-beige: /products/shower-accessories/40606101.txt
+- ÖBONÄS triple hook with suction cup, gray-beige, 2 ¾x4 ¼": /products/shower-accessories/80606095.txt
+- ÖBONÄS container with suction cup, gray-beige: /products/shower-accessories/90606090.txt
+- KROKFJORDEN shower caddy, two tiers, zinc plated, 9 ½x20 ¾": /products/shower-accessories/40454008.txt
+- KROKFJORDEN corner basket with suction cup, zinc plated, 7 ¾x4 ¼": /products/shower-accessories/30454004.txt
+- KROKFJORDEN basket with suction cup, zinc plated, 9 ½x4 ¼": /products/shower-accessories/90454001.txt
+- BROGRUND Corner wall shelf unit, stainless steel, 7 ½x22 ¾": /products/shower-accessories/30408979.txt
+- BROFJÄRDEN shower shelf, chrome effect, 13x4 ¾": /products/shower-accessories/10582234.txt
+- BLECKSJÖN shower caddy, two tiers, black, 12 ¼x: /products/shower-accessories/50523271.txt
+- BÄSINGEN shower shelf, anthracite, 6 ¼x11 ½": /products/shower-accessories/30595990.txt
+- ÅBYÅN body puff, set of 3, orange/green/white: /products/shower-accessories/50589460.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,28 @@
+# @CATEGORY
+Name: Vanity mirrors
+ProductCount: 6
+
+# @FILTERS
+PriceRange: $9.99 - $79.99
+Materials: Frame/ Leg: Aluminium (min. 70% recycled), Anodized, Frame: Aluminium (min. 70% recycled), Anodized, Glass, Plastic foil, Main parts: Galvanized steel, Epoxy/polyester powder coating, Mirror glass: Glass, Mirror glass: Glass, Plastic foil, Mirror: Glass, Plastic foil, Shelf: Tempered glass, Top frame: Steel, Galvanized, Epoxy/polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- NYSJÖN mirror with shelf, white: /products/vanity-mirrors/60470837.txt
+- LINDBYN table mirror, black: /products/vanity-mirrors/00507320.txt
+- LINDBYN mirror, gold: /products/vanity-mirrors/20597961.txt
+- LÄRBRO mirror: /products/vanity-mirrors/70507208.txt
+- KARMSUND table mirror, black: /products/vanity-mirrors/60507261.txt
+- FREBRO mirror: /products/vanity-mirrors/60507195.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

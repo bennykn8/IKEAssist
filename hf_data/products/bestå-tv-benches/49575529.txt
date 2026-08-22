@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: BESTÅ TV bench with drawers, white/Lappviken/Stubbarp dark gray
+SKU: 49575529
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/besta-tv-bench-with-drawers-white-lappviken-stubbarp-dark-gray-s49575529/
+Category: BESTÅ TV benches
+Description: , 471/4x161/2x187/8"
+
+# @OFFER
+Price: 230
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Bottom panel/ Side panel/ Partition: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Paper foil, Plastic edging, Plastic edging, Plastic edging, Back panel: Fiberboard, Paper foil, Plastic foil, Particleboard, Fiberboard, Paper foil, Plastic edging, Plastic edging, Plastic edging, Paper foil
+Features: We recommend a TV bench to be a bit wider than the TV placed on it. This TV bench suits a TV up to 45 inches. You can choose a larger TV if it’s not heavier than the specified max load for the bench’s top. | The top panel of the TV bench is intended for a TV with a maximum weight of 35 lbs. | The push-open function requires a space between the frame and the drawer front to allow the drawer to be pushed to open. The small gap is necessary to allow this function and is not a product deviation.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/besta-tv-bench-with-drawers-white-lappviken-stubbarp-dark-gray__1356805_pe953424_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

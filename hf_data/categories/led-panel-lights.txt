@@ -1,0 +1,25 @@
+# @CATEGORY
+Name: LED panel lights
+ProductCount: 3
+
+# @FILTERS
+PriceRange: $69.99 - $129.99
+Materials: Base: Steel, Powder coating, Diffuser: Polystyrene, Fitting/ Shaft: Galvanized steel
+Brand: IKEA
+
+# @ITEMS
+- JETSTRÖM LED wall light panel, smart dimmable/color and white spectrum: /products/led-panel-lights/50536080.txt
+- JETSTRÖM LED ceiling light panel, smart/dimmable white spectrum: /products/led-panel-lights/70536055.txt
+- JETSTRÖM LED ceiling light panel, smart dimmable/white spectrum: /products/led-panel-lights/20536067.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

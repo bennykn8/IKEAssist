@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LABBSAL basket, handmade water hyacinth, 12 ½x13 ½x12 ½"
+SKU: 80500796
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/labbsal-basket-handmade-water-hyacinth-80500796/
+Category: Baskets
+Description: Organize and store your things with a little help from nature. This basket is handmade from water hyacinth – a natural material that ages beautifully and spreads a calm, warm feeling in your home.
+
+# @OFFER
+Price: 21.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Front panel/ Side panel/ Bottom panel: Solid pine, Solid acacia wood, Water hyacinth, Rattan, Clear acrylic lacquer, Felt pads: 100 % polyester
+Features: Each basket is a unique, handmade work of art with natural variations in color and shape. | Dimensioned to fit KALLAX shelf unit.
+Care: Wipe clean with a dry cloth. | Water hyacinth is happiest in dry, cool environments with a consistent temperature.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/labbsal-basket-handmade-water-hyacinth__1042706_pe841543_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

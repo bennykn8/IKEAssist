@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ÅKERRÄTTIKA reusable cleansing pads with bag, white/green
+SKU: 30540182
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/akerraettika-reusable-cleansing-pads-with-bag-white-green-30540182/
+Category: Bathrobes, slippers & spa accessories
+Description: Switch from disposable to reusable cleansing pads to save money and reduce your waste. The super-soft viscose cleanses effectively and gently. After use, pop the pads in the included bag and wash.
+
+# @OFFER
+Price: 5.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 60 % viscose/rayon, 40 % cotton, Bag: 100 % cotton
+Features: Includes: 10 pads and 1 bag.
+Care: Machine wash warm, normal cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/akerraettika-reusable-cleansing-pads-with-bag-white-green__1126224_pe875643_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

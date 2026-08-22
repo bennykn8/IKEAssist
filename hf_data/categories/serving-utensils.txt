@@ -1,0 +1,34 @@
+# @CATEGORY
+Name: Serving utensils
+ProductCount: 12
+
+# @FILTERS
+PriceRange: $1.49 - $24.99
+Materials: Bamboo, Oil, Cake slice: Stainless steel, Metallized, Handle/ Lock: Stainless steel, Holder: Polyamide, Knife: Stainless steel, Stainless steel, Metallized, Solid birch, Oil, Solid walnut, Oil, Stainless steel, Stainless steel, Metallized
+Brand: IKEA
+
+# @ITEMS
+- TILLAGD serving set, 2 pieces, brass color: /products/serving-utensils/80606316.txt
+- TILLAGD 3-piece serving utensil set, brass color: /products/serving-utensils/20606319.txt
+- TILLÄMPAD tongs, stainless steel: /products/serving-utensils/90578209.txt
+- STOCKHOLM 2025 serving set, 2 pieces, walnut: /products/serving-utensils/20592435.txt
+- SKALLKNEKT 2-piece salad server set, solid birch: /products/serving-utensils/90604500.txt
+- SEDLIG serving set, 2 pieces, stainless steel: /products/serving-utensils/80578219.txt
+- OSTBIT serving tong, bamboo: /products/serving-utensils/00453464.txt
+- LÖFTESRIK 2-piece salad serving set, stainless steel: /products/serving-utensils/50578386.txt
+- IKEA 365+ 4-piece serving set, stainless steel: /products/serving-utensils/80578177.txt
+- GRÖNSAKER 2-piece salad serving set, bamboo: /products/serving-utensils/60481242.txt
+- FRÖJDA 5-piece serving set, stainless steel: /products/serving-utensils/90581443.txt
+- DRAGON 2-piece salad server set, stainless steel, 8 ¾": /products/serving-utensils/60578102.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

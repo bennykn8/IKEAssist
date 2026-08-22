@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: SÖDERSJÖN bath mat, gray-brown
+SKU: 80518659
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/soedersjoen-bath-mat-gray-brown-80518659/
+Category: Bath mats & rugs
+Description: , 20x31" Preparing for the day ahead never felt so inviting. This bath mat offers a thick layer of pure cotton softness that gets you off to a good start. Enjoy a sense of wellness as your feet sink i...
+
+# @OFFER
+Price: 14.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Pile: 100 % cotton, Backing: 50 % natural/ 50 % synthetic latex
+Care: Machine wash warm, normal cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/soedersjoen-bath-mat-gray-brown__0991780_pe819592_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

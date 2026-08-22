@@ -1,0 +1,33 @@
+# @CATEGORY
+Name: Storage benches
+ProductCount: 11
+
+# @FILTERS
+PriceRange: $149.99 - $399.00
+Materials: Bottom panel: Fiberboard, Clear acrylic lacquer, Cord: 100 % polyester, Elastic webbing for seat: Bamboo, Fabric: 100 % polyester (100% recycled), Fabric: 76 % cotton, 24 % polyester (100% recycled), Fabric: 78 % cotton, 22 % polyester (100% recycled), Frame: Particleboard, Melamine foil, Acrylic paint, Plywood, Fiberboard, Solid pine, Non-woven polypropylene, Polyurethane foam 1.2 lb/cu.ft., Polyester wadding, Frame: Plywood, Fiberboard, Polyurethane foam 1.2 lb/cu.ft., Particleboard, Melamine foil, Frame: Solid wood, Particleboard, Plywood, Paperboard (100% recycled), Fiberboard, Non-woven polypropylene, Hinge: Steel, Epoxy/polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- VALTORP bench, with storage/Viarp beige/brown: /products/storage-benches/20572786.txt
+- VALTORP bench, with storage/Samsala dark yellow-green: /products/storage-benches/10572782.txt
+- TOLKNING bench with storage, handmade rattan, 47 ¼": /products/storage-benches/80512657.txt
+- INNDYR storage bench, Nordvalla dark gray/black: /products/storage-benches/90461214.txt
+- INNDYR storage bench, Nordvalla beige/black: /products/storage-benches/60461215.txt
+- ESSEBODA bench with storage, Tallmyra medium gray/brown: /products/storage-benches/79443405.txt
+- ESSEBODA bench with storage, Tallmyra/medium gray birch: /products/storage-benches/39443394.txt
+- ESSEBODA bench with storage, Tallmyra blue/brown: /products/storage-benches/89443400.txt
+- ESSEBODA bench with storage, Tallmyra/blue birch: /products/storage-benches/69443383.txt
+- ESSEBODA bench with storage, Knäbäck anthracite/brown: /products/storage-benches/79443410.txt
+- ESSEBODA bench with storage, Knäbäck/anthracite birch: /products/storage-benches/89443382.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

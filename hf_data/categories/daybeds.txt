@@ -1,0 +1,69 @@
+# @CATEGORY
+Name: Daybeds
+ProductCount: 47
+
+# @FILTERS
+PriceRange: $129.00 - $637.00
+Materials: Back panel/ Bottom rail: Particleboard, Paper foil, Bed base/ Bottom rail: Solid pine, Bed base/ Bottom rail: Solid pine, Solid pine, Solid pine, Bed base/ Side panel/ Back panel/ Drawer front: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Ash veneer, Stain, Printed and embossed acrylic paint, Clear acrylic lacquer, Plastic edging, Bed end filling: Fiberboard, Paper foil, Bed frame panel/ Front frame/ Drawer front panel: Particleboard, Paper foil, Plastic edging, Bed slats: Layer-glued wood veneer, Adhesive resin as coating, Bed storage box: Particleboard, Melamine foil, Plastic edging, Bedside/ Back panel: Particleboard, Fiberboard, Honeycomb structure paper filling (100% recycled), Acrylic paint, Acrylic paint, Plastic edging, Bedside/ Head/footboard/ Leg/ Supporting rail: Solid pine
+Brand: IKEA
+
+# @ITEMS
+- VIHALS daybed frame, white, Twin: /products/daybeds/20595090.txt
+- VIHALS day-bed with storage/1 mattress, white/Vannareid firm, Twin: /products/daybeds/29580602.txt
+- VIHALS day-bed with storage/1 mattress, white/Åsvang medium firm, Twin: /products/daybeds/69580600.txt
+- VIHALS day-bed with storage/1 mattress, white/Ågotnes firm, Twin: /products/daybeds/89580604.txt
+- VIHALS day-bed with 1 mattress, white/Vannareid firm, Twin: /products/daybeds/59580549.txt
+- VIHALS day-bed with 1 mattress, white/Åsvang medium firm, Twin: /products/daybeds/99580552.txt
+- VIHALS day-bed with 1 mattress, white/Ågotnes firm, Twin: /products/daybeds/99580571.txt
+- VIHALS day-bed frame with storage, white, Twin: /products/daybeds/09571590.txt
+- UTÅKER stackable bed with 2 mattresses, pine/Vannareid firm, Twin: /products/daybeds/19561977.txt
+- UTÅKER stackable bed with 2 mattresses, pine/Åsvang medium firm, Twin: /products/daybeds/89428126.txt
+- UTÅKER stackable bed with 2 mattresses, pine/Ågotnes firm, Twin: /products/daybeds/39428138.txt
+- UTÅKER Stackable bed, pine, Twin: /products/daybeds/30360487.txt
+- HEMNES daybed with 3 drawers/2 mattresses, yellow/Vannareid firm, Twin: /products/daybeds/39559884.txt
+- HEMNES daybed with 3 drawers/2 mattresses, yellow/Åsvang medium firm, Twin: /products/daybeds/39559855.txt
+- HEMNES daybed with 3 drawers/2 mattresses, yellow/Ågotnes firm, Twin: /products/daybeds/49559874.txt
+- HEMNES daybed with 3 drawers/2 mattresses, white/Vannareid firm, Twin: /products/daybeds/59561975.txt
+- HEMNES daybed with 3 drawers/2 mattresses, white/Åsvang medium firm, Twin: /products/daybeds/49428109.txt
+- HEMNES daybed with 3 drawers/2 mattresses, white/Ågotnes firm, Twin: /products/daybeds/39428124.txt
+- HEMNES daybed with 3 drawers/2 mattresses, gray/Vannareid firm, Twin: /products/daybeds/39561976.txt
+- HEMNES daybed with 3 drawers/2 mattresses, gray/Åsvang medium firm, Twin: /products/daybeds/09428173.txt
+- HEMNES daybed with 3 drawers/2 mattresses, gray/Ågotnes firm, Twin: /products/daybeds/29428172.txt
+- HEMNES daybed with 3 drawers/2 mattresses, black-brown/Vannareid firm, Twin: /products/daybeds/89561974.txt
+- HEMNES daybed with 3 drawers/2 mattresses, black-brown/Åsvang firm, Twin: /products/daybeds/69428170.txt
+- HEMNES daybed with 3 drawers/2 mattresses, black-brown/Ågotnes firm, Twin: /products/daybeds/89428169.txt
+- HEMNES daybed frame with 3 drawers, yellow, Twin: /products/daybeds/60583844.txt
+- HEMNES White Daybed Frame with 3 Drawers - Popular: /products/daybeds/30349329.txt
+- HEMNES Daybed frame with 3 drawers, gray: /products/daybeds/20472701.txt
+- HEMNES daybed frame with 3 drawers, black-brown, Twin: /products/daybeds/60421446.txt
+- GLAMBERGET extendable bed with storage, pine, Twin: /products/daybeds/80547063.txt
+- GLAMBERGET extendable bed w stor/2 mattresses, pine/Ågotnes firm, Twin: /products/daybeds/79568438.txt
+- FYRESDAL daybed with 2 mattresses, black/Vannareid firm, Twin: /products/daybeds/09561973.txt
+- FYRESDAL daybed with 2 mattresses, black/Åsvang medium firm, Twin: /products/daybeds/09428093.txt
+- FYRESDAL daybed with 2 mattresses, black/Ågotnes firm, Twin: /products/daybeds/19428101.txt
+- FYRESDAL daybed frame, white, Twin: /products/daybeds/40613088.txt
+- FYRESDAL Daybed frame, black, Twin: /products/daybeds/30424366.txt
+- FLEKKE daybed with 2 drawers/2 mattresses, black-brown/Vannareid firm, Twin: /products/daybeds/29561972.txt
+- FLEKKE daybed with 2 drawers/2 mattresses, black-brown/Åsvang medium firm, Twin: /products/daybeds/49494547.txt
+- FLEKKE daybed with 2 drawers/2 mattresses, black-brown/Ågotnes firm, Twin: /products/daybeds/49428072.txt
+- FLEKKE daybed frame with 2 drawers, black-brown, Twin: /products/daybeds/70320135.txt
+- BRIMNES daybed with 2 drawers/2 mattresses, white/Vannareid firm, Twin: /products/daybeds/49561971.txt
+- BRIMNES daybed with 2 drawers/2 mattresses, white/Åsvang medium firm, Twin: /products/daybeds/69495956.txt
+- BRIMNES daybed with 2 drawers/2 mattresses, white/Ågotnes firm, Twin: /products/daybeds/69427076.txt
+- BRIMNES daybed with 2 drawers/2 mattresses, gray/Vannareid firm, Twin: /products/daybeds/19590022.txt
+- BRIMNES daybed with 2 drawers/2 mattresses, gray/Åsvang medium firm, Twin: /products/daybeds/59590020.txt
+- BRIMNES daybed with 2 drawers/2 mattresses, gray/Ågotnes firm, Twin: /products/daybeds/99590018.txt
+- BRIMNES daybed frame with 2 drawers, white, Twin: /products/daybeds/40228708.txt
+- BRIMNES daybed frame with 2 drawers, gray, Twin: /products/daybeds/00598344.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

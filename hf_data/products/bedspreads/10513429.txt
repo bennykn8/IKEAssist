@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KÖLAX bedspread, gray-green, Full/Queen
+SKU: 10513429
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/koelax-bedspread-gray-green-10513429/
+Category: Bedspreads
+Description: This bedspread in grey-green is a simple way to freshen the look of your bedroom and it doubles as an extra blanket when you’re feeling a bit chilly - the quilted polyester weave keeps you cozy and wa...
+
+# @OFFER
+Price: 54.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % polyester (100% recycled)
+Features: Bedspread fits Full (double) size beds with approx. 8" drop on each side.
+Care: Machine wash warm, normal cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/koelax-bedspread-gray-green__1022880_pe832977_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,63 @@
+# @CATEGORY
+Name: AXSTAD gray-green fronts
+ProductCount: 41
+
+# @FILTERS
+PriceRange: $32.00 - $266.00
+Materials: Back side: Melamine foil, Front side: Plastic foil (min. 80% recycled), Main parts: Fiberboard, Main parts: Fiberboard, Tempered glass
+Brand: IKEA
+
+# @ITEMS
+- AXSTAD glass door, gray-green: /products/axstad-gray-green-fronts/80563996.txt
+- AXSTAD glass door, gray-green: /products/axstad-gray-green-fronts/50563993.txt
+- AXSTAD glass door, gray-green: /products/axstad-gray-green-fronts/30563994.txt
+- AXSTAD glass door, gray-green: /products/axstad-gray-green-fronts/00563995.txt
+- AXSTAD drawer front, gray-green: /products/axstad-gray-green-fronts/90563972.txt
+- AXSTAD drawer front, gray-green: /products/axstad-gray-green-fronts/80563982.txt
+- AXSTAD drawer front, gray-green: /products/axstad-gray-green-fronts/80563977.txt
+- AXSTAD drawer front, gray-green: /products/axstad-gray-green-fronts/70563973.txt
+- AXSTAD drawer front, gray-green: /products/axstad-gray-green-fronts/70563968.txt
+- AXSTAD drawer front, gray-green: /products/axstad-gray-green-fronts/60563978.txt
+- AXSTAD drawer front, gray-green: /products/axstad-gray-green-fronts/50563974.txt
+- AXSTAD drawer front, gray-green: /products/axstad-gray-green-fronts/50563969.txt
+- AXSTAD drawer front, gray-green: /products/axstad-gray-green-fronts/40563979.txt
+- AXSTAD drawer front, gray-green: /products/axstad-gray-green-fronts/30563970.txt
+- AXSTAD drawer front, gray-green: /products/axstad-gray-green-fronts/20563980.txt
+- AXSTAD drawer front, gray-green: /products/axstad-gray-green-fronts/20563975.txt
+- AXSTAD drawer front, gray-green: /products/axstad-gray-green-fronts/10563971.txt
+- AXSTAD drawer front, gray-green: /products/axstad-gray-green-fronts/00563981.txt
+- AXSTAD drawer front, gray-green: /products/axstad-gray-green-fronts/00563976.txt
+- AXSTAD door, gray-green: /products/axstad-gray-green-fronts/90563948.txt
+- AXSTAD door, gray-green: /products/axstad-gray-green-fronts/90563934.txt
+- AXSTAD door, gray-green: /products/axstad-gray-green-fronts/90563929.txt
+- AXSTAD door, gray-green: /products/axstad-gray-green-fronts/80563944.txt
+- AXSTAD door, gray-green: /products/axstad-gray-green-fronts/80563939.txt
+- AXSTAD door, gray-green: /products/axstad-gray-green-fronts/70563949.txt
+- AXSTAD door, gray-green: /products/axstad-gray-green-fronts/70563930.txt
+- AXSTAD door, gray-green: /products/axstad-gray-green-fronts/60563940.txt
+- AXSTAD door, gray-green: /products/axstad-gray-green-fronts/60563935.txt
+- AXSTAD door, gray-green: /products/axstad-gray-green-fronts/50563945.txt
+- AXSTAD door, gray-green: /products/axstad-gray-green-fronts/50563931.txt
+- AXSTAD door, gray-green: /products/axstad-gray-green-fronts/40563936.txt
+- AXSTAD door, gray-green: /products/axstad-gray-green-fronts/30563946.txt
+- AXSTAD door, gray-green: /products/axstad-gray-green-fronts/30563932.txt
+- AXSTAD door, gray-green: /products/axstad-gray-green-fronts/30563927.txt
+- AXSTAD door, gray-green: /products/axstad-gray-green-fronts/20563942.txt
+- AXSTAD door, gray-green: /products/axstad-gray-green-fronts/20563937.txt
+- AXSTAD door, gray-green: /products/axstad-gray-green-fronts/10563947.txt
+- AXSTAD door, gray-green: /products/axstad-gray-green-fronts/10563933.txt
+- AXSTAD door, gray-green: /products/axstad-gray-green-fronts/10563928.txt
+- AXSTAD door, gray-green: /products/axstad-gray-green-fronts/00563938.txt
+- AXSTAD 2-p door/corner base cabinet set, gray-green: /products/axstad-gray-green-fronts/10563966.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,25 @@
+# @CATEGORY
+Name: Full length standing mirrors
+ProductCount: 3
+
+# @FILTERS
+PriceRange: $99.99 - $199.99
+Materials: Insert: Polyamide, Main parts/ Supporting rail, back: Steel, Epoxy/polyester powder coating, Main parts: Galvanized steel, Epoxy/polyester powder coating, Main parts: Layer-glued wood veneer, Ash veneer, Clear acrylic lacquer, Mirror glass: Glass, Mirror glass: Glass, Plastic foil, Top frame: Steel, Galvanized, Epoxy/polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- KNAPPER Floor mirror, white: /products/full-length-standing-mirrors/00396242.txt
+- KARMSUND Floor mirror, black: /products/full-length-standing-mirrors/40294982.txt
+- IKORNNES floor mirror, ash: /products/full-length-standing-mirrors/90524042.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

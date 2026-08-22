@@ -1,0 +1,29 @@
+# @CATEGORY
+Name: Toothbrush holders
+ProductCount: 7
+
+# @FILTERS
+PriceRange: $6.99 - $14.99
+Materials: Bottom: Polypropylene, Container: Glass, Cover/ Body: ABS plastic, Foot: Zinc, Chrome plated, Frame/ Plate: Polycarbonate plastic, Glass, Main parts: Bamboo, Clear acrylic lacquer, Stoneware, Suction cup: Thermoplastic elastomer
+Brand: IKEA
+
+# @ITEMS
+- TISKEN toothbrush holder with suction cup, white: /products/toothbrush-holders/80381294.txt
+- SILVTJÄRN toothbrush holder: /products/toothbrush-holders/30501915.txt
+- EKOLN toothbrush holder, light gray-turquoise: /products/toothbrush-holders/50593730.txt
+- EKOLN toothbrush holder, dark gray: /products/toothbrush-holders/00441621.txt
+- EKOLN toothbrush holder, beige: /products/toothbrush-holders/30493010.txt
+- DRAGAN toothbrush holder, bamboo: /products/toothbrush-holders/30271491.txt
+- BALUNGEN tumbler, glass: /products/toothbrush-holders/40291506.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

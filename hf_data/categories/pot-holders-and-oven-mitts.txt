@@ -1,0 +1,31 @@
+# @CATEGORY
+Name: Pot holders & oven mitts
+ProductCount: 9
+
+# @FILTERS
+PriceRange: $0.99 - $7.49
+Materials: Base fabric/ Inner fabric/ Edge fabric: 100 % cotton, Fabric: 100 % cotton, Filling material: 100% polyester (min. 70% recycled), Filling/ Filling: 100% polyester (min. 70% recycled), Filling: 100 %polyester, Outer fabric/ Inner fabric: 100 % cotton, Outer fabric/ Inner fabric: 60 % cotton, 40 % linen, Protection layer/ Edge fabric: 100 % polyester (100% recycled), Protection layer: 100 % polyester (100% recycled), Protection layer: 100 % polyester (100% recycled), 100 % Polyurethane
+Brand: IKEA
+
+# @ITEMS
+- SANDVIVA pot holder, silicone/dark gray: /products/pot-holders-and-oven-mitts/90597477.txt
+- SANDVIVA pot holder, silicone: /products/pot-holders-and-oven-mitts/10503642.txt
+- SANDVIVA oven mitt, silicone/dark gray: /products/pot-holders-and-oven-mitts/60597474.txt
+- RINNIG pot holder, gray: /products/pot-holders-and-oven-mitts/90476461.txt
+- RINNIG oven mitt, patterned light beige/gray-green brown-red: /products/pot-holders-and-oven-mitts/00575125.txt
+- MARIATHERES pot holder, gray/beige: /products/pot-holders-and-oven-mitts/00489627.txt
+- INAMARIA oven mitt, patterned/red: /products/pot-holders-and-oven-mitts/90493093.txt
+- HILDEGUN pot holder, red: /products/pot-holders-and-oven-mitts/70489978.txt
+- HILDEGUN oven mitt: /products/pot-holders-and-oven-mitts/10489976.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BILLY bookcase w hght ext ut/pnl/glss drs, white
+SKU: 69581505
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/billy-bookcase-w-hght-ext-ut-pnl-glss-drs-white-s69581505/
+Category: Bookshelves & bookcases
+Description: , 311/2x113/4x931/4" With this bookcase you can have all your cherished books and things on display or hidden. The height extension optimizes the use of space and adjustable shelving lets you tailor t...
+
+# @OFFER
+Price: 209
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts/ Side panel: Particleboard, Paper foil, Paper edging, Plinth front: Particleboard, Paper foil, Back: Fiberboard, Paint, Paper foil
+Features: Keep in mind that you need enough space between the top of the furniture and the ceiling to be able to anchor the product to the wall.
+Care: Glass: Wipe clean with a damp cloth. Use only water or window-cleaner. | Glass: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/billy-bookcase-w-hght-ext-ut-pnl-glss-drs-white__0667766_pe714061_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

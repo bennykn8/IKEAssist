@@ -1,0 +1,52 @@
+# @CATEGORY
+Name: Napkins
+ProductCount: 30
+
+# @FILTERS
+PriceRange: $1.49 - $9.99
+Materials: 100 % cotton, 100 % linen, 60 % cotton, 40 % lyocell, 90 % cotton, 10 % jute, 90 % lyocell, 10 % viscose/rayon, Box: Paperboard (100% recycled), Napkin: Paper (min. 95% recycled), Paper, Paper (min. 95% recycled)
+Brand: IKEA
+
+# @ITEMS
+- VIPPSTARR napkin, stripe pattern red/natural: /products/napkins/40559190.txt
+- SVARTSENAP napkin, dark gray: /products/napkins/00545925.txt
+- STORÄTARE paper napkin, white, 11 ¾x11 ¾": /products/napkins/30459167.txt
+- STOCKHOLM 2025 napkin, dark red: /products/napkins/50592448.txt
+- STOCKHOLM 2025 napkin, dark green: /products/napkins/30592449.txt
+- SMAKSINNE paper napkin, multicolor/flower: /products/napkins/70478814.txt
+- SLÖJSTJÄRT paper napkin, patterned, 9 ½x9 ½": /products/napkins/50593626.txt
+- PILLERSTARR paper napkin, patterned/beige blue, 12 ½x6 ¼": /products/napkins/20597329.txt
+- NISSÖGA napkin, gray/white: /products/napkins/80555053.txt
+- NISSÖGA napkin, gray/dark blue: /products/napkins/20555046.txt
+- NISSÖGA napkin, beige/light blue: /products/napkins/80555034.txt
+- MOTTAGA paper napkin, black: /products/napkins/80342900.txt
+- LIGUSTER napkin, patterned pale lilac: /products/napkins/30568109.txt
+- KUSTFYR paper napkin, white/black: /products/napkins/30599592.txt
+- KRUSTISTEL paper napkin, patterned white/light beige, 6 ¼x12 ½": /products/napkins/30584213.txt
+- KRUSTISTEL napkin, white: /products/napkins/00583880.txt
+- HÖSTAGILLE paper napkin, orange: /products/napkins/10600313.txt
+- HAVSKUSE paper napkin with box, patterned black/white, 12 ½x6 ½": /products/napkins/60607675.txt
+- GRUPPERA napkin, white/black: /products/napkins/50357728.txt
+- FRÖJDA paper napkin, white/gray: /products/napkins/50581398.txt
+- FRÖJDA napkin, white: /products/napkins/80581453.txt
+- FANTASTISK paper napkin, yellow, 15 ¾x15 ¾": /products/napkins/10607338.txt
+- FANTASTISK paper napkin, white, 15 ¾x15 ¾": /products/napkins/50035752.txt
+- FANTASTISK paper napkin, white, 9 ½x9 ½": /products/napkins/10101273.txt
+- FANTASTISK paper napkin, orange-pink: /products/napkins/00608480.txt
+- FANTASTISK paper napkin, gray-blue, 15 ¾x15 ¾": /products/napkins/30607342.txt
+- FANTASTISK paper napkin, dark red, 15 ¾x15 ¾": /products/napkins/10402501.txt
+- FANTASTISK paper napkin, dark gray, 15 ¾x15 ¾": /products/napkins/70607340.txt
+- FANTASTISK paper napkin, brown-red: /products/napkins/60608482.txt
+- FANTASTISK paper napkin, beige, 15 ¾x15 ¾": /products/napkins/50607341.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

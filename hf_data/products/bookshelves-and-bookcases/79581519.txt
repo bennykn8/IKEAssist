@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: BILLY / HÖGBO bookcase comb w glass doors, white
+SKU: 79581519
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/billy-hoegbo-bookcase-comb-w-glass-doors-white-s79581519/
+Category: Bookshelves & bookcases
+Description: , 153/4x113/4x791/2" BILLY bookcase is a beloved icon that has many uses. HÖGBO door offers 4 expressions in 1 so you can choose the look – glass door, panel door or a personal expression with a photo...
+
+# @OFFER
+Price: 104
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts/ Side panel: Particleboard, Paper foil, Paper edging, Plinth front: Particleboard, Paper foil, Back: Fiberboard, Paint, Paper foil
+Dimensions: Can be used with BILLY height extension unit in the same width for added storage vertically.
+Features: 1 stationary shelf and 4 adjustable shelves included. | A white/black panel to be attached behind the glass is included. | Keep in mind that you need enough space between the top of the furniture and the ceiling to be able to anchor the product to the wall.
+Care: Wipe clean with a damp cloth. Use only water or window-cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/billy-hoegbo-bookcase-comb-w-glass-doors-white__1125345_pe875419_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

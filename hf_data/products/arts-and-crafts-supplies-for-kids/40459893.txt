@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MÅLA portable drawing case, red
+SKU: 40459893
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/mala-portable-drawing-case-red-40459893/
+Category: Arts and crafts supplies for kids
+Description: , 133/4x105/8" This drawing case is a small artist's best travel companion. Lots of pockets for pens, crayons, paper and scissors – and a drawing board on the back. Just fill it with favorites and you...
+
+# @OFFER
+Price: 15.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric/ Lining/ Mesh: 100 %polyester, Interliner: Polypropylene, Polypropylene, Filling: Polyethylene foam
+Features: All the accessories in MÅLA drawing case are sold separately. | May be completed with paper, colored pencils, crayons, and felt-tip pens from the MÅLA series.
+Care: Do not wash. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/mala-portable-drawing-case-red__0801249_pe768096_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BOLMEN step stool, light turquoise
+SKU: 80594945
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/bolmen-step-stool-light-turquoise-80594945/
+Category: Bathroom stools & benches
+Description: This stable, anti-slip step stool in black brings your children up a notch so they can join in and learn. It’s approved for grown-ups too, so you can safely reach for things on the top shelf. Less ris...
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Step: Polypropylene plastic (min. 50% recycled), Foot/ Knob: Thermoplastic elastomer
+Features: Max. load: 220 lbs.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/bolmen-step-stool-light-turquoise__1353601_pe952259_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

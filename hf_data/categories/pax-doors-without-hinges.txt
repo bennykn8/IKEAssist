@@ -1,0 +1,85 @@
+# @CATEGORY
+Name: PAX doors without hinges
+ProductCount: 63
+
+# @FILTERS
+PriceRange: $40.00 - $180.00
+Materials: Back panel: Fiberboard, Paper foil, Board on frame: Particleboard, Fiberboard, Plastic edging, Acrylic paint, Board on frame: Particleboard, Fiberboard, Plastic edging, Paper foil, Cover cap: Fiberboard, Clear acrylic lacquer, Door filling: Fiberboard, Acrylic paint, Door frame: Aluminium (min. 70% recycled), Anodized, Door frame: Fiberboard, Acrylic paint, Acrylic paint, Door frame: Fiberboard, Oak veneer, Oak veneer, Clear acrylic lacquer, Plastic edging, Door frame: Fiberboard, Paper foil, Plastic edging, Door frame: Fiberboard, Plastic edging, Paper foil
+Brand: IKEA
+
+# @ITEMS
+- TYSSEDAL door, white/glass: /products/pax-doors-without-hinges/80329197.txt
+- TYSSEDAL door, white: /products/pax-doors-without-hinges/90298124.txt
+- TYSSEDAL door, white: /products/pax-doors-without-hinges/40298126.txt
+- TONSTAD door, off-white: /products/pax-doors-without-hinges/90510243.txt
+- TONSTAD door, off-white: /products/pax-doors-without-hinges/70510244.txt
+- TONSTAD door, oak/veneer glass: /products/pax-doors-without-hinges/90552501.txt
+- TONSTAD door, oak/veneer glass: /products/pax-doors-without-hinges/50552503.txt
+- TONSTAD door, oak veneer: /products/pax-doors-without-hinges/90510262.txt
+- TONSTAD door, oak veneer: /products/pax-doors-without-hinges/50510259.txt
+- TONSTAD door, brown/stained oak veneer glass: /products/pax-doors-without-hinges/70552502.txt
+- TONSTAD door, brown/stained oak veneer glass: /products/pax-doors-without-hinges/10552500.txt
+- TONSTAD door, brown stained oak veneer: /products/pax-doors-without-hinges/30510255.txt
+- TONSTAD door, brown stained oak veneer: /products/pax-doors-without-hinges/00510252.txt
+- STORKLINTA door, oak effect: /products/pax-doors-without-hinges/10584370.txt
+- STORKLINTA door, oak effect: /products/pax-doors-without-hinges/10584365.txt
+- STORKLINTA door, dark brown/oak effect: /products/pax-doors-without-hinges/90584371.txt
+- STORKLINTA door, dark brown/oak effect: /products/pax-doors-without-hinges/40584364.txt
+- REINSVOLL door, gray-beige: /products/pax-doors-without-hinges/00473141.txt
+- MISTUDDEN door, gray/patterned: /products/pax-doors-without-hinges/80568550.txt
+- MISTUDDEN door, gray/patterned: /products/pax-doors-without-hinges/00568549.txt
+- LINNABERG door, green/patterned: /products/pax-doors-without-hinges/40584401.txt
+- LINNABERG door, green/patterned: /products/pax-doors-without-hinges/20584398.txt
+- KAMMARTORP mirror door, gray: /products/pax-doors-without-hinges/60574665.txt
+- KAMMARTORP mirror door, gray: /products/pax-doors-without-hinges/00574668.txt
+- GULLABERG door, white: /products/pax-doors-without-hinges/80580665.txt
+- GULLABERG door, white: /products/pax-doors-without-hinges/40580667.txt
+- GULLABERG door, gray: /products/pax-doors-without-hinges/60580666.txt
+- GULLABERG door, gray: /products/pax-doors-without-hinges/10580664.txt
+- GRIMO door, white: /products/pax-doors-without-hinges/90343466.txt
+- GRIMO door, white: /products/pax-doors-without-hinges/40343464.txt
+- GRIMO door, gray-green: /products/pax-doors-without-hinges/90597118.txt
+- GRIMO door, gray-green: /products/pax-doors-without-hinges/70597119.txt
+- GRIMO door, gray: /products/pax-doors-without-hinges/80435188.txt
+- GRIMO door, gray: /products/pax-doors-without-hinges/20435186.txt
+- FYRUDDEN door, blue: /products/pax-doors-without-hinges/80594356.txt
+- FYRUDDEN door, blue: /products/pax-doors-without-hinges/00596397.txt
+- FORSAND door, white: /products/pax-doors-without-hinges/80423604.txt
+- FORSAND door, white: /products/pax-doors-without-hinges/60442383.txt
+- FORSAND Door, white: /products/pax-doors-without-hinges/20423602.txt
+- FORSAND Door, white: /products/pax-doors-without-hinges/10442385.txt
+- FORSAND door, gray-beige: /products/pax-doors-without-hinges/90510931.txt
+- FORSAND door, gray-beige: /products/pax-doors-without-hinges/90510926.txt
+- FORSAND door, dark gray: /products/pax-doors-without-hinges/50510928.txt
+- FORSAND door, dark gray: /products/pax-doors-without-hinges/40510924.txt
+- FARDAL door, high gloss white: /products/pax-doors-without-hinges/90190524.txt
+- FARDAL door, high gloss white: /products/pax-doors-without-hinges/80190529.txt
+- FARDAL door, high gloss white: /products/pax-doors-without-hinges/70344626.txt
+- FARDAL door, high gloss white: /products/pax-doors-without-hinges/50344627.txt
+- FARDAL door, high gloss light orange: /products/pax-doors-without-hinges/60599492.txt
+- FARDAL door, high gloss light orange: /products/pax-doors-without-hinges/20599489.txt
+- FARDAL Door, high gloss light gray: /products/pax-doors-without-hinges/60330620.txt
+- FARDAL Door, high gloss light gray: /products/pax-doors-without-hinges/50330606.txt
+- BERGSBO Door, white: /products/pax-doors-without-hinges/30160407.txt
+- BERGSBO Door, white: /products/pax-doors-without-hinges/20207410.txt
+- BERGSBO door, gray-beige: /products/pax-doors-without-hinges/90510945.txt
+- BERGSBO door, gray-beige: /products/pax-doors-without-hinges/50510947.txt
+- BERGSBO Door, frosted glass, white: /products/pax-doors-without-hinges/50160406.txt
+- BERGSBO door, dark gray: /products/pax-doors-without-hinges/60510937.txt
+- BERGSBO door, dark gray: /products/pax-doors-without-hinges/20510939.txt
+- ÅHEIM door, mirror glass: /products/pax-doors-without-hinges/80410055.txt
+- ÅHEIM door, mirror glass: /products/pax-doors-without-hinges/80331930.txt
+- ÅHEIM door, mirror glass: /products/pax-doors-without-hinges/20414829.txt
+- ÅHEIM door, mirror glass: /products/pax-doors-without-hinges/00414830.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

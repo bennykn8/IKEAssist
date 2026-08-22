@@ -1,0 +1,27 @@
+# @CATEGORY
+Name: Decorative pendant lamps
+ProductCount: 5
+
+# @FILTERS
+PriceRange: $9.99 - $49.99
+Materials: Ball: Steel, Galvanized, Powder coating, Base/ Shade: Polypropylene, Clip/ Base: Polycarbonate plastic, Cover: Steel, Acrylic coating, Powder coating, Diffuser: Polycarbonate plastic, Hook: Stainless steel, Shade ring: Steel, Powder coating, Shade: 100 % polyester (100% recycled)
+Brand: IKEA
+
+# @ITEMS
+- SOLVINDEN pendant lamp, blue: /products/decorative-pendant-lamps/30593689.txt
+- SOLVINDEN LED pendant lamp, outdoor/oval: /products/decorative-pendant-lamps/40570692.txt
+- SOLVINDEN LED pendant lamp, outdoor/oval: /products/decorative-pendant-lamps/00593681.txt
+- KUSTFYR LED pendant lamp, pumpkin/battery operated outdoor: /products/decorative-pendant-lamps/90610577.txt
+- KUSTFYR LED pendant lamp, pumpkin/battery operated outdoor: /products/decorative-pendant-lamps/80605449.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

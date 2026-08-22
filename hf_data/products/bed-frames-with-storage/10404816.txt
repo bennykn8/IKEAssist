@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MALM Storage bed, white, Full/Double
+SKU: 10404816
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/malm-storage-bed-white-10404816/
+Category: Bed frames with storage
+Description: . This bed gives you spacious storage without taking up more floor space. Simply flip up the bed base and hide your things inside.
+
+# @OFFER
+Price: 459
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Head/footboard: Particleboard, Fiberboard, Fiberboard, Printed acrylic paint, Plastic edging, Honeycomb structure paper filling (min. 70% recycled), Bedside: Particleboard, Fiberboard, Printed acrylic paint, Plastic edging, Honeycomb structure paper filling (min. 70% recycled), Bed base: Steel, Epoxy/polyester powder coating
+Features: Mattress and bedlinens are sold separately. | Center support beam and slatted bed base are included.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/malm-storage-bed-white__0749127_pe745496_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

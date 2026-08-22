@@ -1,0 +1,47 @@
+# @CATEGORY
+Name: Kitchen sinks
+ProductCount: 25
+
+# @FILTERS
+PriceRange: $39.00 - $421.00
+Materials: Base material: Quartz composite, Body/ Body: Stainless steel, Ceramic, Colored glaze, Foam/ Foam: Polyurethane plastic, Foam: Polyurethane plastic, Funnel: Polypropylene, Lid: Stainless steel, Magnet: Steel, Main parts: Stainless steel, Metal part: Stainless steel
+Brand: IKEA
+
+# @ITEMS
+- VRESJÖN sink, stainless steel: /products/kitchen-sinks/99425735.txt
+- VRESJÖN sink, stainless steel: /products/kitchen-sinks/69425727.txt
+- VRESJÖN sink, stainless steel: /products/kitchen-sinks/29425710.txt
+- VATTUDALEN single bowl top mount sink, stainless steel: /products/kitchen-sinks/89158172.txt
+- TALLSJÖN apron front sink, dark gray/stone effect: /products/kitchen-sinks/89491354.txt
+- TALLSJÖN apron front sink, dark gray/stone effect: /products/kitchen-sinks/69491369.txt
+- OLOFSJÖN countertop with 2 integrated sinks, stainless steel: /products/kitchen-sinks/19393535.txt
+- OLOFSJÖN countertop with 1 integrated sink, stainless steel: /products/kitchen-sinks/69393533.txt
+- LÅNGUDDEN sink, stainless steel: /products/kitchen-sinks/89157484.txt
+- LÅNGUDDEN double bowl top mount sink, stainless steel: /products/kitchen-sinks/99157488.txt
+- KILSVIKEN sink, white/quartz composite: /products/kitchen-sinks/79579960.txt
+- KILSVIKEN sink, white quartz composite: /products/kitchen-sinks/49590394.txt
+- KILSVIKEN sink, black/quartz composite: /products/kitchen-sinks/99337022.txt
+- KILSVIKEN sink, black quartz composite: /products/kitchen-sinks/39337015.txt
+- HILLESJÖN sink, stainless steel: /products/kitchen-sinks/99401744.txt
+- HILLESJÖN double bowl top mount sink, stainless steel: /products/kitchen-sinks/39157491.txt
+- HILLESJÖN 1 1/2 bowl dual mount sink, stainless steel: /products/kitchen-sinks/99140704.txt
+- HILLESJÖN 1 1/2 bowl dual mount sink, stainless steel: /products/kitchen-sinks/09140708.txt
+- HAVSEN sink, white: /products/kitchen-sinks/19253728.txt
+- HAVSEN apron front sink, white: /products/kitchen-sinks/79253725.txt
+- HAVSEN apron front double bowl sink, white: /products/kitchen-sinks/59253726.txt
+- FYNDIG sink, stainless steel: /products/kitchen-sinks/69158007.txt
+- BOVIGGEN apron front sink, white: /products/kitchen-sinks/69443104.txt
+- BOVIGGEN apron front sink, white: /products/kitchen-sinks/90510568.txt
+- BOHOLMEN sink, stainless steel: /products/kitchen-sinks/89157498.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

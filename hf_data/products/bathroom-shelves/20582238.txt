@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BROFJÄRDEN wall shelf with towel rail, chrome effect
+SKU: 20582238
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/brofjaerden-wall-shelf-with-towel-rail-chrome-effect-20582238/
+Category: Bathroom shelves
+Description: , 291/2x113/8" BROFJÄRDEN bathroom accessories with shiny chrome-plated details reminisce of elegant, lasting designs of the past. This shelf works double shift as a towel rail helping to keep your sp...
+
+# @OFFER
+Price: 39.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Arm/ End cap/ Cover plate: Aluminum, Chrome plated, Tube/ Mounting plate/ Insert nut/ Adapter/ Bolt: Stainless steel
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Screws for wall mounting are not included. | If you are uncertain about what type of mounting devices to use, please contact your local hardware store.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/brofjaerden-wall-shelf-with-towel-rail-chrome-effect__1329671_pe945238_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

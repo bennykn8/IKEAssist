@@ -1,0 +1,49 @@
+# @CATEGORY
+Name: SMÅSTAD doors & drawers
+ProductCount: 27
+
+# @FILTERS
+PriceRange: $15.00 - $60.00
+Materials: Drawer front: Fiberboard, Acrylic paint, Drawer side/ Drawer back: Particleboard, Melamine foil, Fiberboard, Acrylic paint, Fiberboard, Fiberboard, Acrylic paint, Rail: Fiberboard
+Brand: IKEA
+
+# @ITEMS
+- SMÅSTAD drawer front, white/with frame: /products/småstad-doors-and-drawers/80434117.txt
+- SMÅSTAD drawer front, white: /products/småstad-doors-and-drawers/70434113.txt
+- SMÅSTAD drawer front, white: /products/småstad-doors-and-drawers/00434098.txt
+- SMÅSTAD drawer front, red: /products/småstad-doors-and-drawers/90570996.txt
+- SMÅSTAD drawer front, light green: /products/småstad-doors-and-drawers/30572936.txt
+- SMÅSTAD drawer front, light green: /products/småstad-doors-and-drawers/00572933.txt
+- SMÅSTAD drawer front, blue: /products/småstad-doors-and-drawers/60569616.txt
+- SMÅSTAD drawer front, blue: /products/småstad-doors-and-drawers/00569619.txt
+- SMÅSTAD door, white/with frame: /products/småstad-doors-and-drawers/90434174.txt
+- SMÅSTAD door, white/with frame: /products/småstad-doors-and-drawers/40434204.txt
+- SMÅSTAD door, white/with frame: /products/småstad-doors-and-drawers/20434238.txt
+- SMÅSTAD door, white: /products/småstad-doors-and-drawers/90434230.txt
+- SMÅSTAD door, white: /products/småstad-doors-and-drawers/90434188.txt
+- SMÅSTAD door, white: /products/småstad-doors-and-drawers/20570947.txt
+- SMÅSTAD door, white: /products/småstad-doors-and-drawers/20434163.txt
+- SMÅSTAD door, light green: /products/småstad-doors-and-drawers/90572924.txt
+- SMÅSTAD door, light green: /products/småstad-doors-and-drawers/60572930.txt
+- SMÅSTAD door, light green: /products/småstad-doors-and-drawers/50572921.txt
+- SMÅSTAD door, light green: /products/småstad-doors-and-drawers/20572927.txt
+- SMÅSTAD door, blue: /products/småstad-doors-and-drawers/70569625.txt
+- SMÅSTAD door, blue: /products/småstad-doors-and-drawers/40569622.txt
+- SMÅSTAD door, blue: /products/småstad-doors-and-drawers/40569542.txt
+- SMÅSTAD door, blue: /products/småstad-doors-and-drawers/10569628.txt
+- SMÅSTAD door, black/white stripe: /products/småstad-doors-and-drawers/60570993.txt
+- SMÅSTAD box, white: /products/småstad-doors-and-drawers/60434142.txt
+- SMÅSTAD box, light green: /products/småstad-doors-and-drawers/30572899.txt
+- SMÅSTAD box, blue: /products/småstad-doors-and-drawers/90572896.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

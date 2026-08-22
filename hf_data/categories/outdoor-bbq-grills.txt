@@ -1,0 +1,31 @@
+# @CATEGORY
+Name: Outdoor BBQ grills
+ProductCount: 9
+
+# @FILTERS
+PriceRange: $59.99 - $999.00
+Materials: Body/ Hood/ Tray: Steel, Enamel, Body/ Hood: Steel, Enamel, Body: Steel, Enamel, Bowl/ Body/ Cover panel: Steel, Enamel, Cutting board: Bamboo, Oil, End cap/ Cup: Steel, Polyester powder coating, Grill/ Bottom frame/ Handles: Stainless steel, Hood/ Hinge/ Handle/ Top panel/ Tray/ Burner/ Bar: Stainless steel, Leg frame/ Bar/ Cabinet/ Bracket/ Slats/ Control panel: Galvanized steel, Polyester powder coating, Leg frame/ Cabinet/ Bracket/ Slats/ Trim: Galvanized steel, Polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- STRANDÖN grill, charcoal green: /products/outdoor-bbq-grills/70575848.txt
+- GRILLSKÄR gas grill with side table, stainless steel/outdoor: /products/outdoor-bbq-grills/79504620.txt
+- GRILLSKÄR gas grill w 2 side tables, stainless steel/outdoor: /products/outdoor-bbq-grills/89504648.txt
+- GRILLSKÄR gas grill, black/stainless steel outdoor: /products/outdoor-bbq-grills/00489934.txt
+- GRILLSKÄR charcoal grill w side table, stainless steel/outdoor: /products/outdoor-bbq-grills/29495213.txt
+- GRILLSKÄR charcoal grill w 2 side tables, stainless steel/outdoor: /products/outdoor-bbq-grills/99495224.txt
+- GRILLSKÄR charcoal grill, black/stainless steel outdoor: /products/outdoor-bbq-grills/30471447.txt
+- BÅTSKÄR gas grill with side burner, outdoor/dark gray: /products/outdoor-bbq-grills/40553386.txt
+- BÅTSKÄR charcoal grill, outdoor/dark gray: /products/outdoor-bbq-grills/00553369.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

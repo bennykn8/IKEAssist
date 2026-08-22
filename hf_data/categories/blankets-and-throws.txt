@@ -1,0 +1,87 @@
+# @CATEGORY
+Name: Blankets & throws
+ProductCount: 65
+
+# @FILTERS
+PriceRange: $1.99 - $69.99
+Materials: 100 % acrylic, 100 % cotton, 100 % polyester (100% recycled), 100 % wool, 100% polyester (min. 90% recycled), 50 % wool, 50 % wool - merino, 60 % cotton, 40 % wool, 60% cotton (100% recycled), 37% polyester (100% recycled), 3% other fibers, 67 % acrylic, 23 % polyester (100% recycled), 10 % wool, 78 % acrylic, 19 % wool, 3 %polyester
+Brand: IKEA
+
+# @ITEMS
+- VITMOSSA throw, gray: /products/blankets-and-throws/90304889.txt
+- VALLKRASSING throw, off-white: /products/blankets-and-throws/20570928.txt
+- VALLKRASSING throw, light gray-brown: /products/blankets-and-throws/70570940.txt
+- VALLKRASSING throw, light blue-gray: /products/blankets-and-throws/30570942.txt
+- VALLKRASSING throw, gray-green: /products/blankets-and-throws/00570934.txt
+- THORGUN throw, off-white: /products/blankets-and-throws/80512799.txt
+- THORGUN throw, light blue: /products/blankets-and-throws/40513461.txt
+- STRANDÖN picnic blanket, white green/leaf pattern: /products/blankets-and-throws/90553143.txt
+- STOCKHOLM 2025 throw, green: /products/blankets-and-throws/50592194.txt
+- STOCKHOLM 2025 throw, bright orange: /products/blankets-and-throws/80592201.txt
+- STOCKHOLM 2025 throw, bright blue: /products/blankets-and-throws/20592195.txt
+- SLÅNGRÅMAL throw, pink: /products/blankets-and-throws/10583511.txt
+- SLÅNGRÅMAL throw, light gray: /products/blankets-and-throws/50583463.txt
+- SANDBRODD throw, orange-red: /products/blankets-and-throws/20582115.txt
+- SANDBRODD throw, off-white: /products/blankets-and-throws/40562036.txt
+- SANDBRODD throw, light green: /products/blankets-and-throws/90582112.txt
+- SANDBRODD throw, dark yellow: /products/blankets-and-throws/30582110.txt
+- SANDBRODD throw, anthracite: /products/blankets-and-throws/00562038.txt
+- RUNFRID throw, blue: /products/blankets-and-throws/70518594.txt
+- RÖNNBÄRSMAL throw, gray/white: /products/blankets-and-throws/60598015.txt
+- REVSUGA blanket, gray, Twin/Twin X-long: /products/blankets-and-throws/50608784.txt
+- REVSUGA blanket, gray, Full/Queen: /products/blankets-and-throws/20608785.txt
+- OLIVSPINNMAL throw, off-white/multicolor: /products/blankets-and-throws/90592639.txt
+- MYRULL throw, light gray: /products/blankets-and-throws/90563482.txt
+- MYRULL throw, light brown: /products/blankets-and-throws/50563484.txt
+- MOSSMOTT throw, black/white: /products/blankets-and-throws/80582117.txt
+- MANTELFLY throw, off-white/light gray: /products/blankets-and-throws/50585061.txt
+- MÄVINN throw, pink/orange stripe: /products/blankets-and-throws/00600974.txt
+- MÄVINN throw, gray red/embroidery tassel: /products/blankets-and-throws/80587681.txt
+- LAPPTÅG throw, off-white: /products/blankets-and-throws/10572206.txt
+- LAPPTÅG throw, dark gray-green: /products/blankets-and-throws/70572208.txt
+- LAPPKATTFOT throw, bright orange/pink: /products/blankets-and-throws/80598651.txt
+- KUSTFYR throw, ghost pattern white/black: /products/blankets-and-throws/20599583.txt
+- KLOTSTARR throw, pale pink: /products/blankets-and-throws/70562030.txt
+- KLIPPOXEL throw, orange/bright pink: /products/blankets-and-throws/00591795.txt
+- KLIPPOXEL throw, off-white: /products/blankets-and-throws/70584621.txt
+- KLIPPOXEL throw, gray-turquoise: /products/blankets-and-throws/00584629.txt
+- KLIPPOXEL throw, blue: /products/blankets-and-throws/30584623.txt
+- KLIPPOXEL throw, beige-yellow: /products/blankets-and-throws/60584626.txt
+- KLIBBKORSÖRT throw, multicolor: /products/blankets-and-throws/50601023.txt
+- JÄTTETUJA blanket, turquoise: /products/blankets-and-throws/90579954.txt
+- HYLSNEJLIKA throw, orange/floral pattern: /products/blankets-and-throws/20608040.txt
+- HUMLEMOTT throw, yellow-beige: /products/blankets-and-throws/20549550.txt
+- HUMLEMOTT throw, pale pink: /products/blankets-and-throws/30562485.txt
+- HUMLEMOTT throw, off-white: /products/blankets-and-throws/00549546.txt
+- HUMLEMOTT throw, blue-gray: /products/blankets-and-throws/80549547.txt
+- HORNMAL throw, off-white: /products/blankets-and-throws/20529095.txt
+- HORNMAL throw, light pink: /products/blankets-and-throws/50530785.txt
+- HOLMVI throw, gray: /products/blankets-and-throws/30513598.txt
+- HOLMVI throw, beige-yellow: /products/blankets-and-throws/50604682.txt
+- GRÖNKNAVEL throw, check beige/outdoor indoor: /products/blankets-and-throws/80592282.txt
+- GINSTSÄCKMAL throw, black/white: /products/blankets-and-throws/20590785.txt
+- FJÄLLTRIFT throw, gray/green: /products/blankets-and-throws/10554207.txt
+- DYTÅG throw, off-white: /products/blankets-and-throws/20542105.txt
+- DYTÅG throw, light brown: /products/blankets-and-throws/90542102.txt
+- DYTÅG throw, gray-green: /products/blankets-and-throws/50554149.txt
+- DYTÅG throw, dark blue: /products/blankets-and-throws/90554152.txt
+- DYSTERMAL throw, off-white: /products/blankets-and-throws/60488837.txt
+- DÅRÖRT throw, gray: /products/blankets-and-throws/90559300.txt
+- DAGGKÅPOR throw, pink: /products/blankets-and-throws/30598644.txt
+- DAGGKÅPOR throw, green: /products/blankets-and-throws/20602694.txt
+- DAGGKÅPOR throw, dark gray: /products/blankets-and-throws/70598642.txt
+- BISKOPSMÖSSA throw, green/off-white: /products/blankets-and-throws/00598669.txt
+- ÅSJORDFLY throw, off-white: /products/blankets-and-throws/00590767.txt
+- ÅKERNEJLIKA throw, multicolor, neutrals tassel: /products/blankets-and-throws/20570179.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

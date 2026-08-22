@@ -1,0 +1,68 @@
+# @CATEGORY
+Name: BOAXEL parts
+ProductCount: 46
+
+# @FILTERS
+PriceRange: $2.00 - $12.00
+Materials: Bracket: Steel, Epoxy/polyester powder coating, Bushing/ End cap: Polypropylene, Frame/ Wire: Steel, Steel, Epoxy/polyester powder coating, Frame: Steel, Steel, Epoxy/polyester powder coating, Galvanized steel, Epoxy/polyester powder coating, Mesh: Steel, Epoxy/polyester powder coating, Particleboard, Paper foil, Plastic edging, Slide rail: Galvanized steel, Epoxy/polyester powder coating, Steel, Epoxy/polyester powder coating, Tube/ Bracket: Steel, Epoxy/polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- BOAXEL Wire shelf, white: /products/boaxel-parts/50449587.txt
+- BOAXEL Wire shelf, white: /products/boaxel-parts/30449588.txt
+- BOAXEL wire shelf, anthracite: /products/boaxel-parts/90575606.txt
+- BOAXEL wire shelf, anthracite: /products/boaxel-parts/70575607.txt
+- BOAXEL wall upright, white: /products/boaxel-parts/80448732.txt
+- BOAXEL Wall upright, white: /products/boaxel-parts/00448731.txt
+- BOAXEL wall upright, anthracite: /products/boaxel-parts/40575604.txt
+- BOAXEL wall upright, anthracite: /products/boaxel-parts/10575605.txt
+- BOAXEL suspension rail, white: /products/boaxel-parts/60474270.txt
+- BOAXEL suspension rail, white: /products/boaxel-parts/30448739.txt
+- BOAXEL suspension rail, white: /products/boaxel-parts/10448740.txt
+- BOAXEL suspension rail, anthracite: /products/boaxel-parts/70575594.txt
+- BOAXEL suspension rail, anthracite: /products/boaxel-parts/20575596.txt
+- BOAXEL suspension rail, anthracite: /products/boaxel-parts/00575597.txt
+- BOAXEL shoe shelf, white: /products/boaxel-parts/70450400.txt
+- BOAXEL Shoe shelf, white: /products/boaxel-parts/10450399.txt
+- BOAXEL shoe shelf, anthracite: /products/boaxel-parts/80575602.txt
+- BOAXEL shoe shelf, anthracite: /products/boaxel-parts/60575603.txt
+- BOAXEL shelf, white: /products/boaxel-parts/90448736.txt
+- BOAXEL shelf, white: /products/boaxel-parts/70448737.txt
+- BOAXEL shelf, oak effect: /products/boaxel-parts/80576079.txt
+- BOAXEL shelf, oak effect: /products/boaxel-parts/60576080.txt
+- BOAXEL shelf, metal white: /products/boaxel-parts/40448734.txt
+- BOAXEL Shelf, metal white: /products/boaxel-parts/10448735.txt
+- BOAXEL shelf, metal anthracite: /products/boaxel-parts/80575598.txt
+- BOAXEL shelf, metal anthracite: /products/boaxel-parts/20575600.txt
+- BOAXEL shelf, anthracite: /products/boaxel-parts/60575599.txt
+- BOAXEL shelf, anthracite: /products/boaxel-parts/00575601.txt
+- BOAXEL mesh basket, white: /products/boaxel-parts/90458607.txt
+- BOAXEL Mesh basket, white: /products/boaxel-parts/20448749.txt
+- BOAXEL mesh basket, anthracite: /products/boaxel-parts/90575593.txt
+- BOAXEL mesh basket, anthracite: /products/boaxel-parts/10575592.txt
+- BOAXEL drying rack, white, 23 ½x15 ¾": /products/boaxel-parts/60448747.txt
+- BOAXEL Drying rack, white, 31 ½x15 ¾ ": /products/boaxel-parts/40448748.txt
+- BOAXEL drying rack, anthracite, 23 ½x15 ¾": /products/boaxel-parts/50575590.txt
+- BOAXEL drying rack, anthracite, 31 ½x15 ¾": /products/boaxel-parts/30575591.txt
+- BOAXEL clothes rail, white: /products/boaxel-parts/90448741.txt
+- BOAXEL clothes rail, white: /products/boaxel-parts/70448742.txt
+- BOAXEL clothes rail, anthracite: /products/boaxel-parts/90575588.txt
+- BOAXEL clothes rail, anthracite: /products/boaxel-parts/70575589.txt
+- BOAXEL bracket, white, 15 ¾": /products/boaxel-parts/60448733.txt
+- BOAXEL bracket, anthracite, 15 ¾": /products/boaxel-parts/10575587.txt
+- BOAXEL Adjustable shelf, white: /products/boaxel-parts/30463744.txt
+- BOAXEL adjustable shelf, anthracite: /products/boaxel-parts/30575586.txt
+- BOAXEL adjustable clothes rail, white: /products/boaxel-parts/70463742.txt
+- BOAXEL adjustable clothes rail, anthracite: /products/boaxel-parts/50575585.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

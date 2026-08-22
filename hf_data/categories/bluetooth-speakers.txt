@@ -1,0 +1,41 @@
+# @CATEGORY
+Name: Bluetooth speakers
+ProductCount: 19
+
+# @FILTERS
+PriceRange: $10.00 - $159.98
+Materials: Base/ Buttons: ABS plastic, Button/ Foot: Silicone rubber, Button: Silicone rubber, Connecting plate: ABS plastic, Cover: 100 % polyester, Fabric cover: 100 % polyester (100% recycled), Fabric cover: 100 %polyester, Foot: Silicone rubber, Front panel/ Back panel/ Button: ABS plastic (min. 50% recycled), Handle: 100 % polyester
+Brand: IKEA
+
+# @ITEMS
+- VAPPEBY portable bluetooth speaker, waterproof/pink: /products/bluetooth-speakers/20592614.txt
+- VAPPEBY portable bluetooth speaker, waterproof/blue: /products/bluetooth-speakers/60592612.txt
+- VAPPEBY portable bluetooth speaker, waterproof/black: /products/bluetooth-speakers/50537193.txt
+- VAPPEBY front for bluetooth speaker, black: /products/bluetooth-speakers/00574404.txt
+- VAPPEBY bluetooth speakers, white/set of 2 gen: /products/bluetooth-speakers/99543871.txt
+- VAPPEBY bluetooth speakers, black/set of 2 waterproof: /products/bluetooth-speakers/89543895.txt
+- VAPPEBY bluetooth speakers, black/set of 2 gen: /products/bluetooth-speakers/59543217.txt
+- VAPPEBY bluetooth speaker, white/gen: /products/bluetooth-speakers/40517384.txt
+- VAPPEBY bluetooth speaker, peanut shape/pink: /products/bluetooth-speakers/30517619.txt
+- VAPPEBY bluetooth speaker, peanut shape/green: /products/bluetooth-speakers/20517605.txt
+- VAPPEBY bluetooth speaker lamp, outdoor/gray: /products/bluetooth-speakers/40515281.txt
+- VAPPEBY bluetooth speaker lamp, outdoor/blue: /products/bluetooth-speakers/40515276.txt
+- VAPPEBY bluetooth speaker, gen 3 white/black: /products/bluetooth-speakers/29571396.txt
+- VAPPEBY bluetooth speaker, gen 3/black: /products/bluetooth-speakers/89571402.txt
+- VAPPEBY bluetooth speaker, black/gen: /products/bluetooth-speakers/10517371.txt
+- NATTBAD Bluetooth speaker, yellow: /products/bluetooth-speakers/70601611.txt
+- NATTBAD Bluetooth speaker, pink: /products/bluetooth-speakers/10601609.txt
+- NATTBAD Bluetooth speaker, black: /products/bluetooth-speakers/40601603.txt
+- ENEBY Battery pack: /products/bluetooth-speakers/20414264.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,27 @@
+# @CATEGORY
+Name: Crib mattresses
+ProductCount: 5
+
+# @FILTERS
+PriceRange: $14.99 - $149.00
+Materials: Backing: 100 % polypropylene, Inner fabric: 100 % polypropylene, Quilt filling/ Filling: 70 % viscose, 30 % polyester, Ticking, side: 64 % cotton, 36 %polyester, Ticking: 62 % cotton, 38 %polyester, Ticking: 64 %polyester, 36 % cotton, Top/ Sides: 100 % polyester, Waterproof layer: 100 % Polyurethane
+Brand: IKEA
+
+# @ITEMS
+- SKÖNAST Foam mattress for crib: /products/crib-mattresses/30348532.txt
+- PELLEPLUTT Foam mattress for crib: /products/crib-mattresses/00348029.txt
+- LENAST mattress protector, white: /products/crib-mattresses/30427826.txt
+- KRUMMELUR foam mattress for crib: /products/crib-mattresses/80348520.txt
+- JÄTTETRÖTT Pocket spring mattress for crib, white: /products/crib-mattresses/40348107.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

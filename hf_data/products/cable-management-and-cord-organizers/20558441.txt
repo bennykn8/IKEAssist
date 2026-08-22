@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: SKOTAT extension cord, green
+SKU: 20558441
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/skotat-extension-cord-green-20558441/
+Category: Cable management & cord organizers
+Description: , 5'11" Extension cords should of course look good and blend in with your decor! SKOTAT has a minimalistic design and a shape that makes it easy to fit in a corner or on a desk – positioned whichever ...
+
+# @OFFER
+Price: 39.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Housing: Polycarbonate plastic (min. 50% recycled), Protection pad: Silicone rubber
+Dimensions: USB cable length and quality influences charging speed and performance.
+Features: Input: 125V ~ 60Hz 15A Max. 1875W | Output: 125V ~ 60Hz 15A Max. 1875W | Output power per USB-C outlet: one USB-C outlet in use – 45W, and when two USB-C outlets in use – 22W.
+Care: Remove the socket from the power outlet before cleaning. | Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/skotat-extension-cord-green__1299458_pe936555_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

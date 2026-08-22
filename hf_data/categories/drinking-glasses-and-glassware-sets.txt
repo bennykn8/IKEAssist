@@ -1,0 +1,60 @@
+# @CATEGORY
+Name: Drinking glasses & glassware sets
+ProductCount: 38
+
+# @FILTERS
+PriceRange: $0.49 - $19.99
+Materials: Crystalline, Glass, Glass, Paint, Heat resistant glass, Polypropylene, Polystyrene-acrylic plastic, Tempered glass
+Brand: IKEA
+
+# @ITEMS
+- VITABBORRE glass, plastic/blue, 24 oz: /products/drinking-glasses-and-glassware-sets/30611184.txt
+- VITABBORRE glass, plastic/beige, 24 oz: /products/drinking-glasses-and-glassware-sets/70611196.txt
+- VARDAGEN glass, light turquoise, 15 oz: /products/drinking-glasses-and-glassware-sets/00567597.txt
+- VARDAGEN glass, clear glass, 15 oz: /products/drinking-glasses-and-glassware-sets/70313106.txt
+- VARDAGEN glass, clear glass, 7 oz: /products/drinking-glasses-and-glassware-sets/20286916.txt
+- VARDAGEN glass, clear glass, 10 oz: /products/drinking-glasses-and-glassware-sets/00286917.txt
+- VARDAGEN glass, brown, 15 oz: /products/drinking-glasses-and-glassware-sets/90530533.txt
+- STORSINT glass, clear glass, 13 oz: /products/drinking-glasses-and-glassware-sets/40396018.txt
+- STOCKHOLM 2025 glass, 9 oz: /products/drinking-glasses-and-glassware-sets/60592443.txt
+- STOCKHOLM 2025 glass, 14 oz: /products/drinking-glasses-and-glassware-sets/20592440.txt
+- SKINNFISK glass, clear glass, 12 oz: /products/drinking-glasses-and-glassware-sets/40594711.txt
+- REKO glass, clear glass, 6 oz: /products/drinking-glasses-and-glassware-sets/80094014.txt
+- POKAL glass, light purple, 12 oz: /products/drinking-glasses-and-glassware-sets/60574019.txt
+- POKAL glass, light blue, 12 oz: /products/drinking-glasses-and-glassware-sets/20574016.txt
+- POKAL glass, clear glass, 9 oz: /products/drinking-glasses-and-glassware-sets/30288241.txt
+- POKAL glass, clear glass, 12 oz: /products/drinking-glasses-and-glassware-sets/10270478.txt
+- POKAL espresso glass, clear glass, 3 oz: /products/drinking-glasses-and-glassware-sets/20581489.txt
+- PILLERSTARR glass, 10 oz: /products/drinking-glasses-and-glassware-sets/10597344.txt
+- PASSERAD double wall glass, 15 oz: /products/drinking-glasses-and-glassware-sets/80540293.txt
+- PAPPERSBJÖRK glass, mixed colors, 10 oz: /products/drinking-glasses-and-glassware-sets/40557092.txt
+- OMBONAD goblet, gray, 11 oz: /products/drinking-glasses-and-glassware-sets/10504646.txt
+- OLIVTRAST glass, clear glass, 10 oz: /products/drinking-glasses-and-glassware-sets/80599702.txt
+- KLIPPLAX glass, stripe pink, 8 oz: /products/drinking-glasses-and-glassware-sets/70596775.txt
+- KLIPPLAX glass, stripe pink, 14 oz: /products/drinking-glasses-and-glassware-sets/00596774.txt
+- KLIPPLAX glass, clear glass, 8 oz: /products/drinking-glasses-and-glassware-sets/50596719.txt
+- KLIPPLAX glass, clear glass, 14 oz: /products/drinking-glasses-and-glassware-sets/30596720.txt
+- KALLSINNIG glass, plastic/blue, 13 oz: /products/drinking-glasses-and-glassware-sets/40597333.txt
+- IVRIG glass, gray, 15 oz: /products/drinking-glasses-and-glassware-sets/00445228.txt
+- IVRIG glass, clear glass, 15 oz: /products/drinking-glasses-and-glassware-sets/50258323.txt
+- IKEA 365+ goblet, clear glass, 10 oz: /products/drinking-glasses-and-glassware-sets/70278363.txt
+- IKEA 365+ glass, clear glass, 10 oz: /products/drinking-glasses-and-glassware-sets/70278358.txt
+- IKEA 365+ glass, clear glass, 15 oz: /products/drinking-glasses-and-glassware-sets/60279711.txt
+- GODIS glass, clear glass, 8 oz: /products/drinking-glasses-and-glassware-sets/80092109.txt
+- GODIS glass, clear glass, 14 oz: /products/drinking-glasses-and-glassware-sets/20092107.txt
+- GLASMAL glass, mixed colors, 11 oz: /products/drinking-glasses-and-glassware-sets/00541461.txt
+- FRÖJDA glass, clear glass, 10 oz: /products/drinking-glasses-and-glassware-sets/70586154.txt
+- FRÖJDA glass, clear glass, 14 oz: /products/drinking-glasses-and-glassware-sets/00581372.txt
+- DYRGRIP glass, clear glass, 12 oz: /products/drinking-glasses-and-glassware-sets/40309304.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

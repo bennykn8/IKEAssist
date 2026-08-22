@@ -1,0 +1,191 @@
+# @CATEGORY
+Name: BESTÅ sideboards
+ProductCount: 169
+
+# @FILTERS
+PriceRange: $240.00 - $960.00
+Materials: Back panel: Fiberboard, Paper foil, Plastic foil, Galvanized steel, Metal part: Steel, Nickel plated, Particleboard, Fiberboard, Paper foil, Plastic edging, Plastic edging, Plastic edging, Paper foil, Plastic parts: Acetal plastic, Tempered glass, Top panel/ Bottom panel/ Side panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Plastic edging
+Brand: IKEA
+
+# @ITEMS
+- BESTÅ storage combination with drawers, white/Sutterviken/Kabbarp white: /products/bestå-sideboards/79387796.txt
+- BESTÅ storage combination with drawers, white/Sutterviken/Kabbarp white: /products/bestå-sideboards/29412680.txt
+- BESTÅ storage combination with drawers, white/Sutterviken/Kabbarp white: /products/bestå-sideboards/29384917.txt
+- BESTÅ storage combination with drawers, white/Sutterviken/Kabbarp white: /products/bestå-sideboards/09412799.txt
+- BESTÅ storage combination with drawers, white stained oak effect/Selsviken/Stubbarp high-gloss/white: /products/bestå-sideboards/99195678.txt
+- BESTÅ storage combination with drawers, white stained oak effect/Selsviken/Stubbarp high-gloss/white: /products/bestå-sideboards/89412719.txt
+- BESTÅ storage combination with drawers, white stained oak effect/Selsviken/Stubbarp high-gloss/beige: /products/bestå-sideboards/99412714.txt
+- BESTÅ storage combination with drawers, white stained oak effect/Lappviken white: /products/bestå-sideboards/29195672.txt
+- BESTÅ storage combination with drawers, white stained oak effect/Lappviken/Stubbarp white stained oak effect: /products/bestå-sideboards/39412689.txt
+- BESTÅ storage combination with drawers, white stained oak effect/Lappviken/Stubbarp white stained oak effect: /products/bestå-sideboards/19195639.txt
+- BESTÅ storage combination with drawers, white stained oak effect Lappviken/Sindvik/Stubbarp wht stained oak effect clear glass: /products/bestå-sideboards/89412677.txt
+- BESTÅ storage combination with drawers, white stained oak effect Lappviken/Sindvik/Stubbarp wht stained oak effect clear glass: /products/bestå-sideboards/29302691.txt
+- BESTÅ storage combination with drawers, white/Smeviken/Kabbarp white: /products/bestå-sideboards/59384906.txt
+- BESTÅ storage combination with drawers, white/Smeviken/Kabbarp white: /products/bestå-sideboards/49412679.txt
+- BESTÅ storage combination with drawers, white/Smeviken/Kabbarp white: /products/bestå-sideboards/39412793.txt
+- BESTÅ storage combination with drawers, white/Smeviken/Kabbarp white: /products/bestå-sideboards/09387790.txt
+- BESTÅ storage combination with drawers, white/Selsviken/Stubbarp high-gloss/white: /products/bestå-sideboards/39412707.txt
+- BESTÅ storage combination with drawers, white/Selsviken/Stubbarp high-gloss/white: /products/bestå-sideboards/19195663.txt
+- BESTÅ storage combination with drawers, white/Selsviken/Stubbarp high-gloss/beige: /products/bestå-sideboards/79195660.txt
+- BESTÅ storage combination with drawers, white/Selsviken/Stubbarp high-gloss/beige: /products/bestå-sideboards/59412706.txt
+- BESTÅ storage combination with drawers, white/Selsviken/Stubbarp dark gray: /products/bestå-sideboards/19442201.txt
+- BESTÅ storage combination with drawers, white/Selsviken/Stubbarp dark gray: /products/bestå-sideboards/09425928.txt
+- BESTÅ storage combination with drawers, white Riksviken/light bronze effect: /products/bestå-sideboards/69440271.txt
+- BESTÅ storage combination with drawers, white Riksviken/light bronze effect: /products/bestå-sideboards/69424327.txt
+- BESTÅ storage combination with drawers, white/Lappviken/Stubbarp white: /products/bestå-sideboards/99412686.txt
+- BESTÅ storage combination with drawers, white/Lappviken/Stubbarp white: /products/bestå-sideboards/79440464.txt
+- BESTÅ storage combination with drawers, white/Lappviken/Stubbarp white: /products/bestå-sideboards/79424341.txt
+- BESTÅ storage combination with drawers, white/Lappviken/Stubbarp white: /products/bestå-sideboards/79195636.txt
+- BESTÅ storage combination with drawers, white Lappviken/Stubbarp/Fällsvik anthracite: /products/bestå-sideboards/69575496.txt
+- BESTÅ storage combination with drawers, white Lappviken/Stubbarp/Fällsvik anthracite: /products/bestå-sideboards/39575501.txt
+- BESTÅ storage combination with drawers, white Lappviken/Sindvik/Stubbarp white clear glass: /products/bestå-sideboards/49302685.txt
+- BESTÅ storage combination with drawers, white Lappviken/Sindvik/Stubbarp white clear glass: /products/bestå-sideboards/29412675.txt
+- BESTÅ storage combination with drawers, white Lappviken/Sindvik/Stubbarp dark gray: /products/bestå-sideboards/19575494.txt
+- BESTÅ storage combination with drawers, white Lappviken/Sindvik/Stubbarp dark gray: /products/bestå-sideboards/09575499.txt
+- BESTÅ storage combination with drawers, white/Hedeviken/Stubbarp oak veneer: /products/bestå-sideboards/69421852.txt
+- BESTÅ storage combination with drawers, white/Hedeviken/Stubbarp oak veneer: /products/bestå-sideboards/39440258.txt
+- BESTÅ storage combination with drawers, white/Hanviken/Stubbarp white: /products/bestå-sideboards/29412722.txt
+- BESTÅ storage combination with drawers, white/Hanviken/Stubbarp white: /products/bestå-sideboards/09195625.txt
+- BESTÅ storage combination with drawers, white Björköviken/birch veneer: /products/bestå-sideboards/89440265.txt
+- BESTÅ storage combination with drawers, white Björköviken/birch veneer: /products/bestå-sideboards/89424326.txt
+- BESTÅ storage combination with drawers, white Bergsviken/Stubbarp/black marble effect: /products/bestå-sideboards/89440270.txt
+- BESTÅ storage combination with drawers, white Bergsviken/Stubbarp/black marble effect: /products/bestå-sideboards/19421859.txt
+- BESTÅ storage combination with drawers, Sindvik white/Lappviken/Stubbarp white: /products/bestå-sideboards/99440463.txt
+- BESTÅ storage combination with drawers, Sindvik white/Lappviken/Stubbarp white: /products/bestå-sideboards/59424342.txt
+- BESTÅ storage combination with drawers, Sindvik black/Lappviken/Stubbarp black-brown: /products/bestå-sideboards/19440462.txt
+- BESTÅ storage combination with drawers, Sindvik black/Lappviken/Stubbarp black-brown: /products/bestå-sideboards/19424344.txt
+- BESTÅ storage combination with drawers: /products/bestå-sideboards/59195675.txt
+- BESTÅ storage combination with drawers, Laxviken white/Selsviken high-gloss/white: /products/bestå-sideboards/29195653.txt
+- BESTÅ storage combination with drawers, Laxviken white/Selsviken high-gloss/beige: /products/bestå-sideboards/29195648.txt
+- BESTÅ storage combination with drawers, dark gray Lappviken/Stubbarp/Fällsvik anthracite: /products/bestå-sideboards/29555834.txt
+- BESTÅ storage combination with drawers, dark gray Lappviken/Stubbarp/Fällsvik anthracite: /products/bestå-sideboards/09508103.txt
+- BESTÅ storage combination with drawers, dark gray/Lappviken/Stubbarp dark gray: /products/bestå-sideboards/99555840.txt
+- BESTÅ storage combination with drawers, dark gray/Lappviken/Stubbarp dark gray: /products/bestå-sideboards/29508079.txt
+- BESTÅ storage combination with drawers, dark gray Lappviken/Sindvik/Stubbarp dark gray: /products/bestå-sideboards/69555832.txt
+- BESTÅ storage combination with drawers, dark gray Lappviken/Sindvik/Stubbarp dark gray: /products/bestå-sideboards/09508099.txt
+- BESTÅ storage combination with drawers, dark gray Lappviken/Sindvik dark gray: /products/bestå-sideboards/89508104.txt
+- BESTÅ storage combination with drawers, dark gray Lappviken/Sindvik dark gray: /products/bestå-sideboards/09555830.txt
+- BESTÅ storage combination with drawers, dark gray/Kallviken/Stubbarp dark gray: /products/bestå-sideboards/39555838.txt
+- BESTÅ storage combination with drawers, dark gray/Kallviken/Stubbarp dark gray: /products/bestå-sideboards/29508084.txt
+- BESTÅ storage combination with drawers, dark gray/Bergsviken/Stubbarp black: /products/bestå-sideboards/79555836.txt
+- BESTÅ storage combination with drawers, dark gray/Bergsviken/Stubbarp black: /products/bestå-sideboards/49508083.txt
+- BESTÅ storage combination with drawers, black-brown/Selsviken/Stubbarp high gloss/black smoked glass: /products/bestå-sideboards/99412672.txt
+- BESTÅ storage combination with drawers, black-brown/Selsviken/Stubbarp high gloss/black smoked glass: /products/bestå-sideboards/19302696.txt
+- BESTÅ storage combination with drawers, black-brown/Selsviken/Stubbarp high-gloss/black: /products/bestå-sideboards/59412693.txt
+- BESTÅ storage combination with drawers, black-brown/Selsviken/Stubbarp high-gloss/black: /products/bestå-sideboards/49195591.txt
+- BESTÅ storage combination with drawers, black-brown/Selsviken/Stubbarp high-gloss/beige: /products/bestå-sideboards/79412692.txt
+- BESTÅ storage combination with drawers, black-brown/Selsviken/Stubbarp high-gloss/beige: /products/bestå-sideboards/09195588.txt
+- BESTÅ storage combination with drawers, black-brown Selsviken/Stubbarp/dark olive-green clear glass: /products/bestå-sideboards/99440279.txt
+- BESTÅ storage combination with drawers, black-brown Selsviken/Stubbarp/dark olive-green clear glass: /products/bestå-sideboards/19421944.txt
+- BESTÅ storage combination with drawers, black-brown Selsviken/Ösarp/dark olive-green clear glass: /products/bestå-sideboards/79440280.txt
+- BESTÅ storage combination with drawers, black-brown Selsviken/Ösarp/dark olive-green clear glass: /products/bestå-sideboards/09421949.txt
+- BESTÅ storage combination with drawers, black-brown/Lappviken/Stubbarp black-brown: /products/bestå-sideboards/89195631.txt
+- BESTÅ storage combination with drawers, black-brown/Lappviken/Stubbarp black-brown: /products/bestå-sideboards/39440461.txt
+- BESTÅ storage combination with drawers, black-brown/Lappviken/Stubbarp black-brown: /products/bestå-sideboards/39424343.txt
+- BESTÅ storage combination with drawers, black-brown/Lappviken/Stubbarp black-brown: /products/bestå-sideboards/09412681.txt
+- BESTÅ storage combination with drawers, black-brown Lappviken/Sindvik/Stubbarp black-brown clear glass: /products/bestå-sideboards/59302675.txt
+- BESTÅ storage combination with drawers, black-brown Lappviken/Sindvik/Stubbarp black-brown clear glass: /products/bestå-sideboards/19412671.txt
+- BESTÅ storage combination with drawers, black-brown/Hedeviken/Stubbarp oak veneer: /products/bestå-sideboards/69421847.txt
+- BESTÅ storage combination with drawers, black-brown/Hedeviken/Stubbarp oak veneer: /products/bestå-sideboards/49440253.txt
+- BESTÅ storage combination with drawers, black-brown Hedeviken/Stubbarp/dark brown stained oak veneer: /products/bestå-sideboards/69440252.txt
+- BESTÅ storage combination with drawers, black-brown Hedeviken/Stubbarp/dark brown stained oak veneer: /products/bestå-sideboards/29421849.txt
+- BESTÅ storage combination with drawers, black-brown/Hanviken/Stubbarp black-brown: /products/bestå-sideboards/19412727.txt
+- BESTÅ storage combination with drawers, black-brown/Hanviken/Stubbarp black-brown: /products/bestå-sideboards/19195620.txt
+- BESTÅ storage combination with drawers, black-brown Björköviken/Stubbarp/brown stained oak veneer: /products/bestå-sideboards/59440262.txt
+- BESTÅ storage combination with drawers, black-brown Björköviken/Stubbarp/brown stained oak veneer: /products/bestå-sideboards/09421845.txt
+- BESTÅ storage combination with doors, white/Sutterviken/Kabbarp white: /products/bestå-sideboards/79387720.txt
+- BESTÅ storage combination with doors, white/Sutterviken/Kabbarp white: /products/bestå-sideboards/29387765.txt
+- BESTÅ storage combination with doors, white/Sutterviken/Kabbarp white clear glass: /products/bestå-sideboards/69387773.txt
+- BESTÅ storage combination with doors, white stained oak effect/Lappviken/Stubbarp white stained oak effect: /products/bestå-sideboards/29209829.txt
+- BESTÅ storage combination with doors, white stained oak effect Kallviken/Stubbarp/dark gray concrete effect: /products/bestå-sideboards/99207836.txt
+- BESTÅ storage combination with doors, white/Smeviken/Kabbarp white: /products/bestå-sideboards/99387762.txt
+- BESTÅ storage combination with doors, white/Smeviken/Kabbarp white: /products/bestå-sideboards/49387726.txt
+- BESTÅ storage combination with doors, white/Smeviken/Kabbarp white clear glass: /products/bestå-sideboards/29387770.txt
+- BESTÅ storage combination with doors, white/Riksviken/Stubbarp light bronze effect: /products/bestå-sideboards/39421434.txt
+- BESTÅ storage combination with doors, white/Laxviken/Stubbarp white: /products/bestå-sideboards/49209989.txt
+- BESTÅ storage combination with doors, white/Lappviken/Stubbarp white: /products/bestå-sideboards/89209826.txt
+- BESTÅ storage combination with doors, white/Lappviken/Stubbarp white: /products/bestå-sideboards/59419072.txt
+- BESTÅ storage combination with doors, white/Lappviken/Stubbarp white: /products/bestå-sideboards/19418890.txt
+- BESTÅ storage combination with doors, white/Lappviken/Stubbarp dark gray: /products/bestå-sideboards/29575460.txt
+- BESTÅ storage combination with doors, white Lappviken/Fällsvik dark gray: /products/bestå-sideboards/09575512.txt
+- BESTÅ storage combination with doors, white Kallviken/Stubbarp/dark gray concrete effect: /products/bestå-sideboards/89221828.txt
+- BESTÅ storage combination with doors, white/Hedeviken/Stubbarp oak veneer: /products/bestå-sideboards/19421425.txt
+- BESTÅ storage combination with doors, white/Hanviken/Stubbarp white: /products/bestå-sideboards/79282186.txt
+- BESTÅ storage combination with doors, white/Björköviken/Stubbarp birch veneer: /products/bestå-sideboards/69421437.txt
+- BESTÅ storage combination with doors, white Bergsviken/Stubbarp/black marble effect: /products/bestå-sideboards/49421438.txt
+- BESTÅ storage combination with doors: /products/bestå-sideboards/79209997.txt
+- BESTÅ storage combination with doors, Lappviken/Stubbarp/Sindvik white clear glass: /products/bestå-sideboards/59419086.txt
+- BESTÅ storage combination with doors, Lappviken/Stubbarp/Sindvik black-brown clear glass: /products/bestå-sideboards/39419087.txt
+- BESTÅ storage combination with doors, black/Lappviken/Stubbarp black: /products/bestå-sideboards/89419075.txt
+- BESTÅ storage combination with doors, black-brown Selsviken/Stubbarp/high gloss dark olive-green: /products/bestå-sideboards/99421431.txt
+- BESTÅ storage combination with doors, black-brown Selsviken/Glassvik high gloss/black smoked glass: /products/bestå-sideboards/09208185.txt
+- BESTÅ storage combination with doors, black-brown/Lappviken/Stubbarp black-brown: /products/bestå-sideboards/99418891.txt
+- BESTÅ storage combination with doors, black-brown/Lappviken/Stubbarp black-brown: /products/bestå-sideboards/99209821.txt
+- BESTÅ storage combination with doors, black-brown Kallviken/Stubbarp/dark gray concrete effect: /products/bestå-sideboards/89207813.txt
+- BESTÅ storage combination with doors, black-brown/Hedeviken/Stubbarp oak veneer: /products/bestå-sideboards/49421424.txt
+- BESTÅ storage combination with doors, black-brown Hedeviken/Stubbarp/dark brown stained oak veneer: /products/bestå-sideboards/69421423.txt
+- BESTÅ storage combination with doors, black-brown/Hanviken/Stubbarp black-brown: /products/bestå-sideboards/89282204.txt
+- BESTÅ storage combination with doors, black-brown Björköviken/Stubbarp/brown stained oak veneer: /products/bestå-sideboards/39421429.txt
+- BESTÅ storage combination w doors/drawers, white/Sutterviken/Kabbarp white: /products/bestå-sideboards/79384887.txt
+- BESTÅ storage combination w doors/drawers, white/Sutterviken/Kabbarp white: /products/bestå-sideboards/59387684.txt
+- BESTÅ storage combination w doors/drawers, white/Sutterviken/Kabbarp white: /products/bestå-sideboards/29412760.txt
+- BESTÅ storage combination w doors/drawers, white/Sutterviken/Kabbarp white: /products/bestå-sideboards/29412618.txt
+- BESTÅ storage combination w doors/drawers, white stained oak effect/Lappviken/Stubbarp white stained oak effect: /products/bestå-sideboards/69412598.txt
+- BESTÅ storage combination w doors/drawers, white/Smeviken/Kabbarp white: /products/bestå-sideboards/59412754.txt
+- BESTÅ storage combination w doors/drawers, white/Smeviken/Kabbarp white: /products/bestå-sideboards/59412612.txt
+- BESTÅ storage combination w doors/drawers, white/Smeviken/Kabbarp white: /products/bestå-sideboards/59384893.txt
+- BESTÅ storage combination w doors/drawers, white/Smeviken/Kabbarp white: /products/bestå-sideboards/29387690.txt
+- BESTÅ storage combination w doors/drawers, white/Riksviken/Stubbarp light bronze effect: /products/bestå-sideboards/69421526.txt
+- BESTÅ storage combination w doors/drawers, white/Riksviken/Stubbarp light bronze effect: /products/bestå-sideboards/19440235.txt
+- BESTÅ storage combination w doors/drawers, white/Lappviken/Stubbarp white: /products/bestå-sideboards/99195305.txt
+- BESTÅ storage combination w doors/drawers, white/Lappviken/Stubbarp white: /products/bestå-sideboards/59412594.txt
+- BESTÅ storage combination w doors/drawers, white/Lappviken/Stubbarp white: /products/bestå-sideboards/39419006.txt
+- BESTÅ storage combination w doors/drawers, white/Lappviken/Stubbarp white: /products/bestå-sideboards/09440453.txt
+- BESTÅ storage combination w doors/drawers, white/Lappviken/Stubbarp dark gray: /products/bestå-sideboards/89575462.txt
+- BESTÅ storage combination w doors/drawers, white/Lappviken/Stubbarp dark gray: /products/bestå-sideboards/49575464.txt
+- BESTÅ storage combination w doors/drawers, white/Hedeviken/Stubbarp oak veneer: /products/bestå-sideboards/99421520.txt
+- BESTÅ storage combination w doors/drawers, white/Hedeviken/Stubbarp oak veneer: /products/bestå-sideboards/49440234.txt
+- BESTÅ storage combination w doors/drawers, white/Hanviken/Stubbarp white: /products/bestå-sideboards/79195293.txt
+- BESTÅ storage combination w doors/drawers, white/Hanviken/Stubbarp white: /products/bestå-sideboards/29412604.txt
+- BESTÅ storage combination w doors/drawers, white Hammarsmed/Stubbarp/beige: /products/bestå-sideboards/49569335.txt
+- BESTÅ storage combination w doors/drawers, white Hammarsmed/Stubbarp/anthracite: /products/bestå-sideboards/79569334.txt
+- BESTÅ storage combination w doors/drawers, white/Björköviken/Stubbarp birch veneer: /products/bestå-sideboards/69440233.txt
+- BESTÅ storage combination w doors/drawers, white/Björköviken/Stubbarp birch veneer: /products/bestå-sideboards/39421523.txt
+- BESTÅ storage combination w doors/drawers, white Bergsviken/Stubbarp/black marble effect: /products/bestå-sideboards/79440242.txt
+- BESTÅ storage combination w doors/drawers, white Bergsviken/Stubbarp/black marble effect: /products/bestå-sideboards/79421535.txt
+- BESTÅ storage combination w doors/drawers, white Bergsviken/Ösarp/black marble effect: /products/bestå-sideboards/29440249.txt
+- BESTÅ storage combination w doors/drawers, white Bergsviken/Ösarp/black marble effect: /products/bestå-sideboards/19421538.txt
+- BESTÅ storage combination w doors/drawers: /products/bestå-sideboards/39195308.txt
+- BESTÅ storage combination w doors/drawers, dark gray/Lappviken/Stubbarp dark gray: /products/bestå-sideboards/99508052.txt
+- BESTÅ storage combination w doors/drawers, dark gray/Lappviken/Stubbarp dark gray: /products/bestå-sideboards/49556173.txt
+- BESTÅ storage combination w doors/drawers, dark gray Kallviken/Stubbarp/dark gray concrete effect: /products/bestå-sideboards/59508049.txt
+- BESTÅ storage combination w doors/drawers, dark gray Bergsviken/Stubbarp/black marble effect: /products/bestå-sideboards/79508053.txt
+- BESTÅ storage combination w doors/drawers, dark gray Bergsviken/Stubbarp/black marble effect: /products/bestå-sideboards/49556168.txt
+- BESTÅ storage combination w doors/drawers, black-brown Selsviken/Stubbarp/high gloss dark olive-green: /products/bestå-sideboards/99440236.txt
+- BESTÅ storage combination w doors/drawers, black-brown Selsviken/Stubbarp/high gloss dark olive-green: /products/bestå-sideboards/89421525.txt
+- BESTÅ storage combination w doors/drawers, black-brown/Lappviken/Stubbarp black-brown: /products/bestå-sideboards/89440454.txt
+- BESTÅ storage combination w doors/drawers, black-brown/Lappviken/Stubbarp black-brown: /products/bestå-sideboards/29419064.txt
+- BESTÅ storage combination w doors/drawers, black-brown/Lappviken/Stubbarp black-brown: /products/bestå-sideboards/29412581.txt
+- BESTÅ storage combination w doors/drawers, black-brown/Lappviken/Stubbarp black-brown: /products/bestå-sideboards/09195300.txt
+- BESTÅ storage combination w doors/drawers, black-brown/Hedeviken/Stubbarp oak veneer: /products/bestå-sideboards/79421516.txt
+- BESTÅ storage combination w doors/drawers, black-brown/Hedeviken/Stubbarp oak veneer: /products/bestå-sideboards/59440224.txt
+- BESTÅ storage combination w doors/drawers, black-brown Hedeviken/Stubbarp/dark brown stained oak veneer: /products/bestå-sideboards/79440223.txt
+- BESTÅ storage combination w doors/drawers, black-brown Hedeviken/Stubbarp/dark brown stained oak veneer: /products/bestå-sideboards/39421518.txt
+- BESTÅ storage combination w doors/drawers, black-brown/Hanviken/Stubbarp black-brown: /products/bestå-sideboards/89412601.txt
+- BESTÅ storage combination w doors/drawers, black-brown/Hanviken/Stubbarp black-brown: /products/bestå-sideboards/79195288.txt
+- BESTÅ storage combination w doors/drawers, black-brown/Hammarsmed/Stubbarp anthracite: /products/bestå-sideboards/29569336.txt
+- BESTÅ storage combination w doors/drawers, black-brown Björköviken/Stubbarp/brown stained oak veneer: /products/bestå-sideboards/59421522.txt
+- BESTÅ storage combination w doors/drawers, black-brown Björköviken/Stubbarp/brown stained oak veneer: /products/bestå-sideboards/29440230.txt
+- BESTÅ / EKET storage combination: /products/bestå-sideboards/89476805.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

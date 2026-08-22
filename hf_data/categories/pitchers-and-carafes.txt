@@ -1,0 +1,43 @@
+# @CATEGORY
+Name: Pitchers & carafes
+ProductCount: 21
+
+# @FILTERS
+PriceRange: $1.99 - $29.99
+Materials: Bamboo, Clear acrylic lacquer, Body: Glass, Body: Heat resistant glass, Body: Polystyrene-acrylic plastic, Glass, Handle: ABS plastic, Lid/ Tube: Polyethylene, Lid: Cork, Lid: Polyethylene, Lid: Polypropylene
+Brand: IKEA
+
+# @ITEMS
+- VARDAGEN stand for beverage dispenser, dark gray: /products/pitchers-and-carafes/30468119.txt
+- VARDAGEN pitcher, patterned/dark gray-green, 68 oz: /products/pitchers-and-carafes/20576652.txt
+- VARDAGEN carafe, clear glass/patterned, 34 oz: /products/pitchers-and-carafes/70592409.txt
+- VARDAGEN beverage dispenser, 5.3 qt: /products/pitchers-and-carafes/60578319.txt
+- TILLBRINGARE pitcher, clear glass, 57 oz: /products/pitchers-and-carafes/90362407.txt
+- STORSINT carafe, clear glass, 57 oz: /products/pitchers-and-carafes/00396384.txt
+- STOCKHOLM 2025 carafe, glass, 44 oz: /products/pitchers-and-carafes/10592445.txt
+- PILLERSTARR Beverage dispenser, transparent bright yellow, 4.2 qt: /products/pitchers-and-carafes/20602378.txt
+- ÖGONTRÖST stand for beverage dispenser, bamboo: /products/pitchers-and-carafes/10539108.txt
+- MOPPA pitcher with lid, dark blue/transparent, 57 oz: /products/pitchers-and-carafes/40578216.txt
+- KORKEN Bottle with stopper, clear glass, Height: 11" Diameter:: /products/pitchers-and-carafes/40227983.txt
+- KORKEN bottle with stopper, clear glass, 5 oz: /products/pitchers-and-carafes/30583888.txt
+- KORKEN Bottle with stopper, clear glass, Volume: 17 oz: /products/pitchers-and-carafes/10342687.txt
+- KARAFF carafe, clear glass, 34 oz: /products/pitchers-and-carafes/00342975.txt
+- IKEA 365+ pitcher with lid, clear glass/cork, 51 oz: /products/pitchers-and-carafes/50279721.txt
+- IKEA 365+ carafe with stopper, clear glass/cork, 34 oz: /products/pitchers-and-carafes/90279719.txt
+- IKEA 365+ beverage dispenser, bamboo/clear glass, 4 qt: /products/pitchers-and-carafes/40578184.txt
+- GLADELIG pitcher, blue, 51 oz: /products/pitchers-and-carafes/90592408.txt
+- GLADELIG milk/cream pitcher, gray, 14 oz: /products/pitchers-and-carafes/20537552.txt
+- FRÖJDA carafe with stopper, clear glass, 34 oz: /products/pitchers-and-carafes/70581397.txt
+- ANLEDNING carafe, light brown, 34 oz: /products/pitchers-and-carafes/70513054.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

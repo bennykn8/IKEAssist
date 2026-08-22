@@ -1,0 +1,206 @@
+# @CATEGORY
+Name: Modular sofas
+ProductCount: 184
+
+# @FILTERS
+PriceRange: $48.00 - $3945.00
+Materials: Back and seat frame: Fiberboard, Plywood, Particleboard, Solid wood, Back and seat frame: Plywood, Solid pine, Fiberboard, Back cushion: 30% cut polyurethane foam/ 70% polyester fibers, Back cushion: Polyurethane foam 1.5 lb/cu.ft., Back frame: Plywood, Fiberboard, Polyurethane foam 1.2 lb/cu.ft., Particleboard, Solid wood, Back frame: Solid wood, Particleboard, Fiberboard, Plywood, Polyurethane foam 1.2 lb/cu.ft., Polyurethane foam 1.5 lb/cu.ft., Back frame: Solid wood, Plywood, Fiberboard, Polyurethane foam 1.2 lb/cu.ft., Particleboard, Clip: Polypropylene, Coated fabric parts: 100 % polyurethane, 75 % polyester, 25 % cotton, Cross rail: Steel, Epoxy/polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- STOCKHOLM 2025 1-seat section, Djurmo gray/white: /products/modular-sofas/20586137.txt
+- STOCKHOLM 2025 1-seat section, Alhamn dark turquoise: /products/modular-sofas/90586129.txt
+- STOCKHOLM 2025 1-seat section, Alhamn dark brown: /products/modular-sofas/40591755.txt
+- STOCKHOLM 2025 1-seat section, Alhamn beige: /products/modular-sofas/10586133.txt
+- SÖDERHAMN sofa section, Viarp beige/brown: /products/modular-sofas/09305619.txt
+- SÖDERHAMN sofa section, Tonerud red: /products/modular-sofas/09514401.txt
+- SÖDERHAMN sofa section, Tonerud gray: /products/modular-sofas/49452057.txt
+- SÖDERHAMN sofa section, Tallmyra light green: /products/modular-sofas/19499792.txt
+- SÖDERHAMN sofa section, Tallmyra dark green: /products/modular-sofas/39499791.txt
+- SÖDERHAMN sofa section, Kelinge rust: /products/modular-sofas/19514575.txt
+- SÖDERHAMN sofa section, Kelinge gray-turquoise: /products/modular-sofas/19514486.txt
+- SÖDERHAMN sofa section, Hillared dark blue: /products/modular-sofas/19499730.txt
+- SÖDERHAMN sofa section, Hillared beige: /products/modular-sofas/39499729.txt
+- SÖDERHAMN sofa section, Gransel natural: /products/modular-sofas/59442096.txt
+- SÖDERHAMN sofa section, Fridtuna light beige: /products/modular-sofas/09449646.txt
+- SÖDERHAMN sofa section, Fridtuna dark gray: /products/modular-sofas/89449572.txt
+- SÖDERHAMN corner section, Viarp beige/brown: /products/modular-sofas/99305629.txt
+- SÖDERHAMN corner section, Tonerud red: /products/modular-sofas/29514443.txt
+- SÖDERHAMN corner section, Tonerud gray: /products/modular-sofas/19452092.txt
+- SÖDERHAMN corner section, Tallmyra light green: /products/modular-sofas/59499827.txt
+- SÖDERHAMN corner section, Tallmyra dark green: /products/modular-sofas/79499826.txt
+- SÖDERHAMN corner section, Kelinge rust: /products/modular-sofas/89514614.txt
+- SÖDERHAMN corner section, Kelinge gray-turquoise: /products/modular-sofas/49514526.txt
+- SÖDERHAMN corner section, Hillared dark blue: /products/modular-sofas/79499751.txt
+- SÖDERHAMN corner section, Hillared beige: /products/modular-sofas/99499750.txt
+- SÖDERHAMN corner section, Fridtuna light beige: /products/modular-sofas/79449681.txt
+- SÖDERHAMN corner section, Fridtuna dark gray: /products/modular-sofas/29449607.txt
+- SÖDERHAMN armrest, Viarp beige/brown: /products/modular-sofas/39305670.txt
+- SÖDERHAMN armrest, Tonerud red: /products/modular-sofas/79514412.txt
+- SÖDERHAMN armrest, Tonerud gray: /products/modular-sofas/39452067.txt
+- SÖDERHAMN armrest, Tallmyra light green: /products/modular-sofas/89499802.txt
+- SÖDERHAMN armrest, Tallmyra dark green: /products/modular-sofas/09499801.txt
+- SÖDERHAMN armrest, Kelinge rust: /products/modular-sofas/89514586.txt
+- SÖDERHAMN armrest, Kelinge gray-turquoise: /products/modular-sofas/89514497.txt
+- SÖDERHAMN armrest, Hillared dark blue: /products/modular-sofas/89499736.txt
+- SÖDERHAMN armrest, Hillared beige: /products/modular-sofas/09499735.txt
+- SÖDERHAMN armrest, Gransel natural: /products/modular-sofas/29442106.txt
+- SÖDERHAMN armrest, Fridtuna light beige: /products/modular-sofas/99449656.txt
+- SÖDERHAMN armrest, Fridtuna dark gray: /products/modular-sofas/79449582.txt
+- SÖDERHAMN 1-seat section, Viarp beige/brown: /products/modular-sofas/39305665.txt
+- SÖDERHAMN 1-seat section, Tonerud red: /products/modular-sofas/49514395.txt
+- SÖDERHAMN 1-seat section, Tonerud gray: /products/modular-sofas/59452052.txt
+- SÖDERHAMN 1-seat section, Tallmyra light green: /products/modular-sofas/19499787.txt
+- SÖDERHAMN 1-seat section, Tallmyra dark green: /products/modular-sofas/39499786.txt
+- SÖDERHAMN 1-seat section, Kelinge rust: /products/modular-sofas/59514564.txt
+- SÖDERHAMN 1-seat section, Kelinge gray-turquoise: /products/modular-sofas/29514481.txt
+- SÖDERHAMN 1-seat section, Hillared dark blue: /products/modular-sofas/79499727.txt
+- SÖDERHAMN 1-seat section, Hillared beige: /products/modular-sofas/99499726.txt
+- SÖDERHAMN 1-seat section, Gransel natural: /products/modular-sofas/69442091.txt
+- SÖDERHAMN 1-seat section, Fridtuna light beige: /products/modular-sofas/19449641.txt
+- SÖDERHAMN 1-seat section, Fridtuna dark gray: /products/modular-sofas/89449567.txt
+- MORABO chaise, add-on unit, Gunnared light green/wood: /products/modular-sofas/39318333.txt
+- MORABO chaise, add-on unit, Gunnared light green/metal: /products/modular-sofas/59318332.txt
+- MORABO chaise, add-on unit, Gunnared dark gray/wood: /products/modular-sofas/09318315.txt
+- MORABO chaise, add-on unit, Gunnared dark gray/metal: /products/modular-sofas/39318314.txt
+- MORABO chaise, add-on unit, Grann/Bomstad gray-green/wood: /products/modular-sofas/19317853.txt
+- MORABO chaise, add-on unit, Grann/Bomstad gray-green/metal: /products/modular-sofas/39317852.txt
+- MORABO chaise, add-on unit, Grann/Bomstad golden brown/wood: /products/modular-sofas/69317775.txt
+- MORABO chaise, add-on unit, Grann/Bomstad golden brown/metal: /products/modular-sofas/19317773.txt
+- MORABO chaise, add-on unit, Grann/Bomstad black/wood: /products/modular-sofas/79316676.txt
+- MORABO chaise, add-on unit, Grann/Bomstad black/metal: /products/modular-sofas/29316674.txt
+- MORABO chaise, add-on unit, Djuparp dark blue/wood: /products/modular-sofas/49416502.txt
+- MORABO chaise, add-on unit, Djuparp dark blue/metal: /products/modular-sofas/69416501.txt
+- KIVIK corner section, Tresund light beige: /products/modular-sofas/89494381.txt
+- KIVIK corner section, Tresund anthracite: /products/modular-sofas/79494372.txt
+- KIVIK corner section, Tibbleby beige/gray: /products/modular-sofas/19440495.txt
+- KIVIK corner section, Tallmyra white/black: /products/modular-sofas/19499669.txt
+- KIVIK corner section, Tallmyra light green: /products/modular-sofas/59499667.txt
+- KIVIK corner section, Tallmyra dark green: /products/modular-sofas/79499666.txt
+- KIVIK corner section, Tallmyra blue: /products/modular-sofas/99499665.txt
+- KIVIK corner section, Kelinge gray-turquoise: /products/modular-sofas/69443038.txt
+- KIVIK corner section, Gunnared medium gray: /products/modular-sofas/49499663.txt
+- KIVIK corner section, Gunnared light green: /products/modular-sofas/69499662.txt
+- KIVIK corner section, Gunnared light brown-pink: /products/modular-sofas/89499661.txt
+- KIVIK corner section, Gunnared blue: /products/modular-sofas/09499660.txt
+- KIVIK corner section, Gunnared beige: /products/modular-sofas/29499659.txt
+- JÄTTEBO sectional, 6-seat, with chaise, right with headrests/Tonerud gray: /products/modular-sofas/59510622.txt
+- JÄTTEBO sectional, 6-seat, with chaise, right with headrests/Samsala gray-beige: /products/modular-sofas/79510616.txt
+- JÄTTEBO sectional, 6-seat, with chaise, right with headrests/Samsala dark yellow-green: /products/modular-sofas/89510611.txt
+- JÄTTEBO sectional, 3-seat, Tonerud gray: /products/modular-sofas/39485143.txt
+- JÄTTEBO sectional, 3-seat, Samsala gray-beige: /products/modular-sofas/59485137.txt
+- JÄTTEBO sectional, 3-seat, Samsala dark yellow-green: /products/modular-sofas/89485131.txt
+- JÄTTEBO modular loveseat, with headrest/Tonerud gray: /products/modular-sofas/49510439.txt
+- JÄTTEBO modular loveseat, with headrest/Samsala gray-beige: /products/modular-sofas/39510411.txt
+- JÄTTEBO modular loveseat, with headrest/Samsala dark yellow-green: /products/modular-sofas/59510405.txt
+- JÄTTEBO modular loveseat, Tonerud gray: /products/modular-sofas/49469500.txt
+- JÄTTEBO modular loveseat, Samsala gray-beige: /products/modular-sofas/89471412.txt
+- JÄTTEBO modular loveseat, Samsala dark yellow-green: /products/modular-sofas/69471413.txt
+- JÄTTEBO mod corner sofa, 6 seat, Tonerud gray: /products/modular-sofas/79485264.txt
+- JÄTTEBO mod corner sofa, 6 seat, Samsala gray-beige: /products/modular-sofas/99485258.txt
+- JÄTTEBO mod corner sofa, 6 seat, Samsala dark yellow-green: /products/modular-sofas/29485252.txt
+- JÄTTEBO mod corner sofa, 2.5-seat w chaise, right/Tonerud gray: /products/modular-sofas/69485189.txt
+- JÄTTEBO mod corner sofa, 2.5-seat w chaise, right/Samsala gray-beige: /products/modular-sofas/69485170.txt
+- JÄTTEBO mod corner sofa, 2.5-seat w chaise, right/Samsala dark yellow-green: /products/modular-sofas/59485175.txt
+- JÄTTEBO chaise modules, Tonerud gray: /products/modular-sofas/19511280.txt
+- JÄTTEBO chaise modules, Samsala gray-beige: /products/modular-sofas/59511283.txt
+- JÄTTEBO chaise modules, Samsala dark yellow-green: /products/modular-sofas/29511251.txt
+- JÄTTEBO chaise module, right, with armrest/Tonerud gray: /products/modular-sofas/89494593.txt
+- JÄTTEBO chaise module, right, with armrest/Samsala gray-beige: /products/modular-sofas/59494580.txt
+- JÄTTEBO chaise module, right, with armrest/Samsala dark yellow-green: /products/modular-sofas/59494575.txt
+- JÄTTEBO chaise module, right, Tonerud gray: /products/modular-sofas/69485311.txt
+- JÄTTEBO chaise module, right, Samsala gray-beige: /products/modular-sofas/89485305.txt
+- JÄTTEBO chaise module, right, Samsala dark yellow-green: /products/modular-sofas/19485304.txt
+- JÄTTEBO chaise module, left, with armrest/Tonerud gray: /products/modular-sofas/99471510.txt
+- JÄTTEBO chaise module, left, with armrest/Samsala gray-beige: /products/modular-sofas/79471511.txt
+- JÄTTEBO chaise module, left, with armrest/Samsala dark yellow-green: /products/modular-sofas/79471498.txt
+- JÄTTEBO chaise module, left, Tonerud gray: /products/modular-sofas/79485283.txt
+- JÄTTEBO chaise module, left, Samsala gray-beige: /products/modular-sofas/79485278.txt
+- JÄTTEBO chaise module, left, Samsala dark yellow-green: /products/modular-sofas/29485266.txt
+- JÄTTEBO armrest, Tonerud gray: /products/modular-sofas/59471456.txt
+- JÄTTEBO armrest, Samsala gray-beige: /products/modular-sofas/39471457.txt
+- JÄTTEBO armrest, Samsala dark yellow-green: /products/modular-sofas/99471421.txt
+- JÄTTEBO 4-seat mod sofa w chaise, right with headrest/Tonerud gray: /products/modular-sofas/19510737.txt
+- JÄTTEBO 4-seat mod sofa w chaise, right with headrest/Samsala gray-beige: /products/modular-sofas/29510628.txt
+- JÄTTEBO 4-seat mod sofa w chaise, right with headrest/Samsala dark yellow-green: /products/modular-sofas/89510625.txt
+- JÄTTEBO 4-seat mod sofa w chaise, right/Tonerud gray: /products/modular-sofas/99485215.txt
+- JÄTTEBO 4-seat mod sofa w chaise, right/Samsala gray-beige: /products/modular-sofas/29485209.txt
+- JÄTTEBO 4-seat mod sofa w chaise, right/Samsala dark yellow-green: /products/modular-sofas/59485203.txt
+- JÄTTEBO 4.5-seat mod sofa w chaise, right/Tonerud gray: /products/modular-sofas/79471399.txt
+- JÄTTEBO 4.5-seat mod sofa w chaise, right/Samsala gray-beige: /products/modular-sofas/39469483.txt
+- JÄTTEBO 4.5-seat mod sofa w chaise, right/Samsala dark yellow-green: /products/modular-sofas/99471398.txt
+- JÄTTEBO 4.5-seat mod sofa, Tonerud gray: /products/modular-sofas/99485079.txt
+- JÄTTEBO 4.5-seat mod sofa, Samsala gray-beige: /products/modular-sofas/49485086.txt
+- JÄTTEBO 4.5-seat mod sofa, Samsala dark yellow-green: /products/modular-sofas/49485091.txt
+- JÄTTEBO 3.5-seat mod sofa w chaise, Tonerud gray: /products/modular-sofas/59485104.txt
+- JÄTTEBO 3.5-seat mod sofa w chaise, Samsala gray-beige: /products/modular-sofas/49485109.txt
+- JÄTTEBO 3.5-seat mod sofa w chaise, Samsala dark yellow-green: /products/modular-sofas/79485117.txt
+- JÄTTEBO 3.5-seat mod sofa w chaise, armrests/Tonerud gray: /products/modular-sofas/39471382.txt
+- JÄTTEBO 3.5-seat mod sofa w chaise, armrests/Samsala gray-beige: /products/modular-sofas/19471383.txt
+- JÄTTEBO 3.5-seat mod sofa w chaise, armrests Samsala/dark yellow-green: /products/modular-sofas/39469497.txt
+- JÄTTEBO 2.5-seat mod sofa w chaise, left with headrest/Tonerud gray: /products/modular-sofas/89490095.txt
+- JÄTTEBO 2.5-seat mod sofa w chaise, left with headrest/Samsala gray-beige: /products/modular-sofas/99490108.txt
+- JÄTTEBO 2.5-seat mod sofa w chaise, left with headrest/Samsala dark yellow-green: /products/modular-sofas/19490107.txt
+- JÄTTEBO 2.5-seat mod sofa w chaise, left/Tonerud gray: /products/modular-sofas/99471355.txt
+- JÄTTEBO 2.5-seat mod sofa w chaise, left/Samsala gray-beige: /products/modular-sofas/79471337.txt
+- JÄTTEBO 2.5-seat mod sofa w chaise, left/Samsala dark yellow-green: /products/modular-sofas/69469491.txt
+- JÄTTEBO 1-seat module with storage, Tonerud gray: /products/modular-sofas/09471492.txt
+- JÄTTEBO 1-seat module with storage, Samsala gray-beige: /products/modular-sofas/89471493.txt
+- JÄTTEBO 1-seat module with storage, Samsala dark yellow-green: /products/modular-sofas/79471479.txt
+- JÄTTEBO 1.5-seat module with storage, Tonerud gray: /products/modular-sofas/29471472.txt
+- JÄTTEBO 1.5-seat module with storage, Samsala gray-beige: /products/modular-sofas/09471473.txt
+- JÄTTEBO 1.5-seat module with storage, Samsala dark yellow-green: /products/modular-sofas/39471462.txt
+- FINNALA sofa section, Tallmyra black/gray: /products/modular-sofas/29319559.txt
+- FINNALA sofa section, Orrsta black-blue: /products/modular-sofas/49319563.txt
+- FINNALA sofa section, Gunnared medium gray: /products/modular-sofas/99319565.txt
+- FINNALA sofa section, Gunnared beige: /products/modular-sofas/59319567.txt
+- FINNALA sofa section, Grann/Bomstad golden brown: /products/modular-sofas/40456432.txt
+- FINNALA sofa section, Grann/Bomstad black: /products/modular-sofas/90455005.txt
+- FINNALA loveseat sleeper section, Tallmyra black/gray: /products/modular-sofas/89542853.txt
+- FINNALA loveseat sleeper section, Orrsta black-blue: /products/modular-sofas/89542848.txt
+- FINNALA loveseat sleeper section, Gunnared medium gray: /products/modular-sofas/29542846.txt
+- FINNALA loveseat sleeper section, Gunnared beige: /products/modular-sofas/79542844.txt
+- FINNALA loveseat sleeper section, Grann/Bomstad golden brown: /products/modular-sofas/19542842.txt
+- FINNALA loveseat sleeper section, Grann/Bomstad black: /products/modular-sofas/59542840.txt
+- FINNALA loveseat section, Tallmyra black/gray: /products/modular-sofas/99319546.txt
+- FINNALA loveseat section, Gunnared medium gray: /products/modular-sofas/79319552.txt
+- FINNALA loveseat section, Gunnared beige: /products/modular-sofas/39319554.txt
+- FINNALA loveseat section, Grann/Bomstad golden brown: /products/modular-sofas/60456431.txt
+- FINNALA loveseat section, Grann/Bomstad black: /products/modular-sofas/20455004.txt
+- FINNALA frame for loveseat sleeper section, Grann/Bomstad golden brown: /products/modular-sofas/10456438.txt
+- FINNALA frame for loveseat sleeper section, Grann/Bomstad black: /products/modular-sofas/70455011.txt
+- FINNALA corner section, Tallmyra black/gray: /products/modular-sofas/99319607.txt
+- FINNALA corner section, Orrsta black-blue: /products/modular-sofas/89319603.txt
+- FINNALA corner section, Gunnared medium gray: /products/modular-sofas/29319601.txt
+- FINNALA corner section, Gunnared beige: /products/modular-sofas/89319599.txt
+- FINNALA corner section, Grann/Bomstad golden brown: /products/modular-sofas/70456435.txt
+- FINNALA corner section, Grann/Bomstad black: /products/modular-sofas/30455008.txt
+- FINNALA chaise section, Tallmyra black/gray: /products/modular-sofas/49319596.txt
+- FINNALA chaise section, Gunnared medium gray: /products/modular-sofas/79319590.txt
+- FINNALA chaise section, Gunnared beige: /products/modular-sofas/19319588.txt
+- FINNALA chaise section, Grann/Bomstad golden brown: /products/modular-sofas/00456434.txt
+- FINNALA chaise section, Grann/Bomstad black: /products/modular-sofas/50455007.txt
+- FINNALA armrest, Tallmyra black/gray: /products/modular-sofas/19319569.txt
+- FINNALA armrest, Gunnared medium gray: /products/modular-sofas/89319575.txt
+- FINNALA armrest, Gunnared beige: /products/modular-sofas/49319577.txt
+- FINNALA armrest, Grann/Bomstad golden brown: /products/modular-sofas/20456433.txt
+- FINNALA armrest, Grann/Bomstad black: /products/modular-sofas/70455006.txt
+- FINNALA armrest, Dalstorp multicolor: /products/modular-sofas/99319457.txt
+- FINNALA 1-seat section, Orrsta black-blue: /products/modular-sofas/29319540.txt
+- FINNALA 1-seat section, Gunnared medium gray: /products/modular-sofas/89319542.txt
+- ÄPPLARYD chaise section, Lejde light gray: /products/modular-sofas/30506263.txt
+- ÄPPLARYD chaise section, Lejde gray/black: /products/modular-sofas/80506265.txt
+- ÄPPLARYD chaise section, Djuparp red-brown: /products/modular-sofas/10504321.txt
+- ÄPPLARYD chaise section, Djuparp dark blue: /products/modular-sofas/60504314.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

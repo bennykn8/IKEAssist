@@ -1,0 +1,46 @@
+# @CATEGORY
+Name: Shoe cabinets
+ProductCount: 24
+
+# @FILTERS
+PriceRange: $0.99 - $199.99
+Materials: Back panel: Fiberboard, Acrylic paint, Back rail/ Back: Particleboard, Back rail: Particleboard, Paper foil, Door: Particleboard, Plastic edging, Acrylic paint, Paper foil, Drawer divider/ Drawer bottom/ Drawer back: Particleboard, Paper foil, Plastic foil, Drawer front: Fiberboard, Particleboard, Paper foil, Drawer front: Particleboard, Oak veneer, Oak veneer, Clear acrylic lacquer, Paper foil, Insert: Polypropylene, Leg: Solid birch, Acrylic paint, Leg: Solid oak, Clear acrylic lacquer
+Brand: IKEA
+
+# @ITEMS
+- TRONES Shoe/storage cabinet, white: /products/shoe-cabinets/00397307.txt
+- TRONES shoe/storage cabinet, black: /products/shoe-cabinets/80397313.txt
+- STÄLL shoe cabinet with 4 compartments, white: /products/shoe-cabinets/60530266.txt
+- STÄLL shoe cabinet with 4 compartments, oak veneer: /products/shoe-cabinets/40530229.txt
+- STÄLL shoe cabinet with 4 compartments, dark gray: /products/shoe-cabinets/90530236.txt
+- STÄLL shoe cabinet with 3 compartments, white: /products/shoe-cabinets/50530262.txt
+- STÄLL shoe cabinet with 3 compartments, oak veneer: /products/shoe-cabinets/00530226.txt
+- STÄLL shoe cabinet with 3 compartments, dark gray: /products/shoe-cabinets/60530233.txt
+- SNÖSKYFFEL shoehorn, bright red: /products/shoe-cabinets/30530951.txt
+- OMTÄNKSAM shoehorn, anthracite: /products/shoe-cabinets/70378070.txt
+- MACKAPÄR Shoe/storage cabinet, white: /products/shoe-cabinets/50334751.txt
+- HEMNES Shoe cabinet with 4 compartments, white: /products/shoe-cabinets/60156121.txt
+- HEMNES Shoe cabinet with 2 compartments, white: /products/shoe-cabinets/20169559.txt
+- GULLABERG shoe cabinet with 4 compartments, white: /products/shoe-cabinets/50587710.txt
+- GULLABERG shoe cabinet with 4 compartments, gray: /products/shoe-cabinets/10587707.txt
+- GULLABERG shoe cabinet with 2 compartments, white: /products/shoe-cabinets/50587692.txt
+- GULLABERG shoe cabinet with 2 compartments, gray: /products/shoe-cabinets/40587697.txt
+- GREJIG / EKRAR hallway furniture, set of 4, white/gray: /products/shoe-cabinets/39527831.txt
+- BRUSALI shoe cabinet with 3 compartments, white: /products/shoe-cabinets/80480393.txt
+- BRUSALI shoe cabinet with 3 compartments, brown: /products/shoe-cabinets/70267604.txt
+- BISSA shoe cabinet with 3 compartments, white: /products/shoe-cabinets/10530259.txt
+- BISSA shoe cabinet with 3 compartments, black-brown: /products/shoe-cabinets/60530209.txt
+- BISSA shoe cabinet with 2 compartments, white: /products/shoe-cabinets/70530256.txt
+- BISSA shoe cabinet with 2 compartments, black-brown: /products/shoe-cabinets/20530206.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

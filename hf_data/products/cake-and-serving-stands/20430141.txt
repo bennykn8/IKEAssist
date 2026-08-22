@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FULLSPÄCKAD serving tray, bamboo/black
+SKU: 20430141
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/fullspaeckad-serving-tray-bamboo-black-20430141/
+Category: Cake & serving stands
+Description: , 11x8" Ideal when you have many guests at a mingle or family dinner. The serving tray has two levels for everything from plates and glasses to snacks and appetizers – and a sturdy handle makes it eas...
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Handle/ Tray: Bamboo, Oil, Stand: Steel, Epoxy/polyester powder coating
+Features: Bamboo is a durable and stable hardwood with a uniform texture. It is moisture and scratch-resistant. The natural color of bamboo is similar to that of beech wood.
+Care: Should be treated with food approved oil before using and then at regular intervals. | Handwash only.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/fullspaeckad-serving-tray-bamboo-black__0799752_pe767617_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

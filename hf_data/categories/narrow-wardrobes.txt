@@ -1,0 +1,52 @@
+# @CATEGORY
+Name: Narrow wardrobes
+ProductCount: 30
+
+# @FILTERS
+PriceRange: $12.99 - $649.98
+Materials: Back panel/ Back/ Door panel: Fiberboard, Paper foil, Back panel/ Door frame/ Door panel: Fiberboard, Acrylic paint, Back panel/ Door panel: Fiberboard, Paper foil, Back panel/ Door panel: Particleboard, Melamine foil, Plastic edging, Plastic edging, Back panel/ Drawer bottom: Fiberboard, Paper foil, Back panel: Fiberboard, Back panel: Fiberboard, Acrylic paint, Back panel: Fiberboard, Printed acrylic paint, Bottom panel/ Partition/ Plinth back/ Support rail, back/ Shelf: Particleboard, Paper foil, Bottom panel/ Partition/ Shelf/ Front rail: Particleboard, Acrylic paint, Plastic edging
+Brand: IKEA
+
+# @ITEMS
+- VUKU wardrobe, white: /products/narrow-wardrobes/80331973.txt
+- VIHALS wardrobe with 2 doors, white: /products/narrow-wardrobes/20483257.txt
+- VIHALS wardrobe combination, white/mirror glass: /products/narrow-wardrobes/69442185.txt
+- SONGESAND Wardrobe, white: /products/narrow-wardrobes/10394558.txt
+- SONGESAND wardrobe, brown: /products/narrow-wardrobes/90394559.txt
+- RAKKESTAD wardrobe with sliding doors, black-brown: /products/narrow-wardrobes/60453767.txt
+- RAKKESTAD wardrobe with 3 doors, black-brown: /products/narrow-wardrobes/00453765.txt
+- RAKKESTAD wardrobe with 2 doors, black-brown: /products/narrow-wardrobes/40586805.txt
+- RAKKESTAD Shelf, black-brown: /products/narrow-wardrobes/10453755.txt
+- RÅDMANSÖ wardrobe, brown walnut effect: /products/narrow-wardrobes/00593841.txt
+- KLEPPSTAD wardrobe with sliding doors, white: /products/narrow-wardrobes/90437238.txt
+- KLEPPSTAD Wardrobe with 3 doors, white: /products/narrow-wardrobes/20441757.txt
+- KLEPPSTAD wardrobe with 2 doors, white: /products/narrow-wardrobes/90586803.txt
+- KLEPPSTAD Shelf, white: /products/narrow-wardrobes/20449517.txt
+- IDANÄS wardrobe, white: /products/narrow-wardrobes/20458837.txt
+- IDANÄS wardrobe, dark brown stained: /products/narrow-wardrobes/10458833.txt
+- IDANÄS cabinet with bi-folding doors, white: /products/narrow-wardrobes/60584259.txt
+- HAUGA wardrobe with sliding doors, white: /products/narrow-wardrobes/60456916.txt
+- HAUGA wardrobe with sliding doors, gray: /products/narrow-wardrobes/60407271.txt
+- HAUGA storage combination with drawers, white: /products/narrow-wardrobes/79555105.txt
+- HAUGA storage combination with drawers, white: /products/narrow-wardrobes/29555103.txt
+- HAUGA storage combination with drawers, gray: /products/narrow-wardrobes/59555106.txt
+- HAUGA storage combination with drawers, gray: /products/narrow-wardrobes/39555107.txt
+- HAUGA shelf, white: /products/narrow-wardrobes/50459779.txt
+- GURSKEN wardrobe with 2 doors, light beige: /products/narrow-wardrobes/60586809.txt
+- GLAMBERGET wardrobe with 3 sliding doors, pine/black: /products/narrow-wardrobes/20564512.txt
+- BRIMNES wardrobe with 3 doors, white: /products/narrow-wardrobes/90574800.txt
+- BRIMNES wardrobe with 3 doors, black: /products/narrow-wardrobes/00576139.txt
+- BRIMNES wardrobe with 2 doors, white: /products/narrow-wardrobes/30574799.txt
+- BRIMNES wardrobe with 2 doors, black: /products/narrow-wardrobes/40576137.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

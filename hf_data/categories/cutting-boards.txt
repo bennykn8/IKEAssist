@@ -1,0 +1,47 @@
+# @CATEGORY
+Name: Cutting boards
+ProductCount: 25
+
+# @FILTERS
+PriceRange: $1.79 - $49.99
+Materials: Bamboo, Oil, Cutting board: Polyethylene, Feet: Silicone rubber, Holder: ABS plastic, Polyethylene, Solid acacia wood, Solid acacia wood, Oil, Solid beech, Solid oak, Oil, Thermoplastic elastomer, Thermoplastic elastomer
+Brand: IKEA
+
+# @ITEMS
+- SYSSELSÄTTA cutting board, 17 ½x11 ¼": /products/cutting-boards/40578221.txt
+- STOLTHET cutting board, bamboo, 13 ¾x8 ¾": /products/cutting-boards/30512810.txt
+- SMÅÄTA cutting board, acacia, 28 ¼x: /products/cutting-boards/80320347.txt
+- SMÅÄTA cutting board, acacia, 11x8 ¾": /products/cutting-boards/20557168.txt
+- SKOGSTA cutting board, acacia, 19 ¾x11 ¾": /products/cutting-boards/80305422.txt
+- SÅPÖRTMAL cutting board, beech, 13 ¾x13 ¾": /products/cutting-boards/90570661.txt
+- NORRSJÖN cutting board, oak, 17 ¼x16 ½": /products/cutting-boards/60458449.txt
+- LILLHAVET cutting board, light gray, 18 ¾x6 ½": /products/cutting-boards/90580033.txt
+- LILLHAVET cutting board, light gray, 19 ¼x13 ¾": /products/cutting-boards/70580034.txt
+- LEGITIM cutting board, white, 13 ½x9 ½": /products/cutting-boards/40577976.txt
+- LEGITIM cutting board, set of 2, white: /products/cutting-boards/20578359.txt
+- LÄMPLIG cutting board, bamboo, 20 ¾x: /products/cutting-boards/00309829.txt
+- IKEA 365+ cutting board, 8 ¾x6 ¼": /products/cutting-boards/00577940.txt
+- GUMMIHAJ holder with 3 chopping boards, mixed colors: /products/cutting-boards/40591067.txt
+- FINFÖRDELA flexible chopping board, green/bright green, 11x14 ¼": /products/cutting-boards/10578350.txt
+- FINFÖRDELA flexible chopping board, black/dark gray-beige, 11x14 ¼": /products/cutting-boards/90586351.txt
+- FASCINERA cutting board, acacia, 20 ½x8 ¾": /products/cutting-boards/40503363.txt
+- FASCINERA cutting board, acacia, 11x7 ½": /products/cutting-boards/00503360.txt
+- BLANDSALLAD cutting board, bamboo: /products/cutting-boards/20514027.txt
+- BERGTUNGA cutting board, set of 2, dark blue/red: /products/cutting-boards/30578368.txt
+- ARTISTISK cutting board, oak, 23 ¼x9 ¾": /products/cutting-boards/80511083.txt
+- APTITLIG cutting board, bamboo, 17 ¾x: /products/cutting-boards/80233430.txt
+- APTITLIG Chopping board, bamboo, Length: 9 ½": /products/cutting-boards/60233426.txt
+- APTITLIG cutting board, bamboo, 12 ¼x: /products/cutting-boards/40557247.txt
+- APTITLIG butcher block, bamboo, 17 ¾x14 ¼": /products/cutting-boards/00233429.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

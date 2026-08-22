@@ -1,0 +1,40 @@
+# @CATEGORY
+Name: Headboards
+ProductCount: 18
+
+# @FILTERS
+PriceRange: $4.99 - $250.00
+Materials: 100% polyester (min. 90% recycled), Connection/ Rail: Fiberboard, Acrylic paint, Frame/ Fixed shelf/ Adjustable shelf/ Partition/ Back/ Top panel/ Side panel: Particleboard, Paper foil, Plastic edging, Frame: Fiberboard, Paper foil, Frame: Steel, Steel, Epoxy/polyester powder coating, Headboard: Solid birch, Solid birch, Clear acrylic lacquer, Main parts: Rattan, Clear acrylic lacquer, Panel: Particleboard, Acrylic paint, Plastic edging, Shelf: Fiberboard, Acrylic paint, Shelf: Steel, Epoxy/polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- TOLKNING headboard, handmade rattan: /products/headboards/30512631.txt
+- SILÄNG storage pocket for bed, felt: /products/headboards/30578863.txt
+- NORDLI headboard, white: /products/headboards/90372760.txt
+- NORDLI Headboard, white: /products/headboards/10372976.txt
+- NORDLI headboard, anthracite: /products/headboards/90372977.txt
+- NORDLI headboard, anthracite: /products/headboards/80372794.txt
+- MANDAL headboard, birch/white: /products/headboards/70176312.txt
+- BRIMNES headboard with storage compartment, white, King: /products/headboards/70250118.txt
+- BRIMNES headboard with storage compartment, white, Queen: /products/headboards/70228716.txt
+- BRIMNES Headboard with storage compartment, white, Full/Double: /products/headboards/20228714.txt
+- BRIMNES headboard with storage compartment, gray, Full: /products/headboards/90598387.txt
+- BRIMNES headboard with storage compartment, gray, King: /products/headboards/70598388.txt
+- BRIMNES headboard with storage compartment, gray, Queen: /products/headboards/50598389.txt
+- BRIMNES Headboard with storage compartment, gray, King: /products/headboards/50470263.txt
+- BRIMNES Headboard with storage compartment, gray, Queen: /products/headboards/30470264.txt
+- BRIMNES headboard with storage compartment, black, Queen: /products/headboards/90269169.txt
+- BRIMNES Headboard with storage compartment, black, Full/Double: /products/headboards/30269172.txt
+- BRIMNES Headboard with storage compartment, black, King: /products/headboards/10269168.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

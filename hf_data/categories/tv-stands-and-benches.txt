@@ -1,0 +1,73 @@
+# @CATEGORY
+Name: TV stands & benches
+ProductCount: 51
+
+# @FILTERS
+PriceRange: $24.99 - $499.99
+Materials: Back panel/ Door: Fiberboard, Oak veneer, Clear acrylic lacquer, Back panel/ Drawer bottom: Fiberboard, Back panel: Fiberboard, Acrylic paint, Back panel: Fiberboard, Acrylic paint, Paper foil, Back panel: Fiberboard, Paper foil, Acrylic paint, Back panel: Fiberboard, Paper foil, Paper foil, Back panel: Fiberboard, Paper foil, Plastic foil, Back panel: Fiberboard, Printed acrylic paint, Back panel: Fiberboard, Printed acrylic paint, Paper foil, Back/ Bottom panel: Particleboard, Acrylic paint, Plastic edging, Clear acrylic lacquer
+Brand: IKEA
+
+# @ITEMS
+- VIHALS TV unit, white: /products/tv-stands-and-benches/70542867.txt
+- VIHALS TV unit, dark gray: /products/tv-stands-and-benches/10542870.txt
+- VIHALS TV unit, dark gray: /products/tv-stands-and-benches/00546595.txt
+- TULLSTORP TV unit, gray: /products/tv-stands-and-benches/20566238.txt
+- TONSTAD TV unit, off-white: /products/tv-stands-and-benches/40542963.txt
+- TONSTAD TV unit, oak veneer: /products/tv-stands-and-benches/60542962.txt
+- TONSTAD TV unit, brown stained oak veneer: /products/tv-stands-and-benches/50562026.txt
+- STOCKHOLM 2025 TV unit with sliding doors, oak veneer: /products/tv-stands-and-benches/90586638.txt
+- SPIKSMED TV unit, light gray: /products/tv-stands-and-benches/10565772.txt
+- SPIKSMED TV unit, light gray: /products/tv-stands-and-benches/10542064.txt
+- SPIKSMED TV bench: /products/tv-stands-and-benches/19574970.txt
+- SKRUVBY TV unit, white: /products/tv-stands-and-benches/90542748.txt
+- SKRUVBY TV unit, black-blue: /products/tv-stands-and-benches/10542747.txt
+- LOMMARP TV unit, black: /products/tv-stands-and-benches/70566189.txt
+- LANESUND TV unit, gray-brown: /products/tv-stands-and-benches/40542449.txt
+- LACK TV unit, white: /products/tv-stands-and-benches/80566061.txt
+- LACK TV unit, white: /products/tv-stands-and-benches/40566063.txt
+- LACK TV unit, black-brown: /products/tv-stands-and-benches/60566062.txt
+- LACK TV unit, black-brown: /products/tv-stands-and-benches/00566060.txt
+- KALLAX TV unit, white stained oak effect: /products/tv-stands-and-benches/50574883.txt
+- KALLAX TV unit, white: /products/tv-stands-and-benches/00574885.txt
+- KALLAX TV unit, black-brown: /products/tv-stands-and-benches/90574881.txt
+- KALLAX tv bench with underframe, white stained oak effect: /products/tv-stands-and-benches/09569436.txt
+- KALLAX tv bench with underframe, white: /products/tv-stands-and-benches/69569438.txt
+- KALLAX tv bench with underframe, black-brown: /products/tv-stands-and-benches/59569434.txt
+- JÄTTESTA TV unit, white/light bamboo: /products/tv-stands-and-benches/50542750.txt
+- JÄTTESTA TV unit, black: /products/tv-stands-and-benches/70542749.txt
+- IDANÄS TV unit, white: /products/tv-stands-and-benches/70566052.txt
+- IDANÄS TV unit, dark brown stained: /products/tv-stands-and-benches/60566203.txt
+- HEMNES TV unit, white stain, light brown: /products/tv-stands-and-benches/10413528.txt
+- HEMNES TV unit, white stain: /products/tv-stands-and-benches/40349569.txt
+- HEMNES TV unit, white stain: /products/tv-stands-and-benches/30566049.txt
+- HEMNES TV unit, black-brown/light brown: /products/tv-stands-and-benches/10566050.txt
+- HEMNES TV unit, black-brown: /products/tv-stands-and-benches/50566048.txt
+- HEMNES TV unit, black-brown: /products/tv-stands-and-benches/30334506.txt
+- HAVSTA TV unit with base, white: /products/tv-stands-and-benches/10542686.txt
+- HAVSTA TV unit with base, gray-beige: /products/tv-stands-and-benches/10542691.txt
+- HAVSTA TV unit with base, black: /products/tv-stands-and-benches/30542690.txt
+- HAUGA TV unit, white: /products/tv-stands-and-benches/30565785.txt
+- HAUGA TV unit, gray: /products/tv-stands-and-benches/60565784.txt
+- FRYKSÅS TV unit, rattan: /products/tv-stands-and-benches/80579327.txt
+- FJÄLLBO TV unit, black: /products/tv-stands-and-benches/60566439.txt
+- FJÄLLBO TV unit, black: /products/tv-stands-and-benches/00579034.txt
+- BYÅS TV unit, high gloss white: /products/tv-stands-and-benches/00565782.txt
+- BRIMNES TV unit, white: /products/tv-stands-and-benches/60569485.txt
+- BRIMNES TV unit, white: /products/tv-stands-and-benches/20569487.txt
+- BRIMNES TV unit, black: /products/tv-stands-and-benches/90569484.txt
+- BRIMNES TV unit, black: /products/tv-stands-and-benches/40569486.txt
+- BOASTAD TV unit, black/oak veneer: /products/tv-stands-and-benches/30542751.txt
+- BOASTAD TV unit, black/oak veneer: /products/tv-stands-and-benches/10542752.txt
+- BAGGEBO TV unit, white: /products/tv-stands-and-benches/90565773.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

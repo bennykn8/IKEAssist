@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TONSTAD bed frame with storage, oak veneer, King
+SKU: 30489145
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tonstad-bed-frame-with-storage-oak-veneer-30489145/
+Category: Bed frames with storage
+Description: Adjustable bed sides allow you to use mattresses of different thicknesses. 4 spacious drawers under the bed make the best use of the space. They are great for storing extra duvets, pillows and bed lin...
+
+# @OFFER
+Price: 704
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Center support beam: Galvanized steel, Top panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Oak veneer, Oak veneer, Clear acrylic lacquer, Oak veneer, Paper edging, Bottom panel/ Panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Oak veneer, Clear acrylic lacquer, Paper foil, Oak veneer, Paper edging
+Features: Slatted bed base and mattress sold separately. | Center support beam included.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tonstad-bed-frame-with-storage-oak-veneer__1259651_pe926748_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

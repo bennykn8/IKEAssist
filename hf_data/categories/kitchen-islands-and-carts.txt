@@ -1,0 +1,58 @@
+# @CATEGORY
+Name: Kitchen islands & carts
+ProductCount: 36
+
+# @FILTERS
+PriceRange: $6.99 - $699.00
+Materials: Bamboo, Clear polyurethane/acrylic lacquer, Bottom panel: Pine plywood, Tinted clear acrylic lacquer, Drawer bottom: Birch plywood, Acrylic paint, Drawer bottom: Birch plywood, Clear acrylic lacquer, Drawer front: Particleboard, Plastic edging, Melamine foil, Stainless steel, Edge: Solid oak, Oil-acrylic, End cap: Polyamide, Fixed partition: Particleboard, High-pressure melamine laminate, Plastic edging, Handle/ Shelf: Polypropylene plastic (min. 50% recycled), Leg frame: Polypropylene plastic (min. 50% recycled), Steel
+Brand: IKEA
+
+# @ITEMS
+- VADHOLMA rack for kitchen island, black: /products/kitchen-islands-and-carts/80402381.txt
+- VADHOLMA kitchen island with rack, black/oak: /products/kitchen-islands-and-carts/59276228.txt
+- VADHOLMA Kitchen island, black, oak, Width: 31 1/: /products/kitchen-islands-and-carts/40366115.txt
+- VADHOLMA Kitchen island, black, oak, Width: 49 5/: /products/kitchen-islands-and-carts/20359154.txt
+- TORNVIKEN Kitchen island, off-white, oak, Length: 49 5/: /products/kitchen-islands-and-carts/40391657.txt
+- TORNVIKEN Kitchen island, off-white, oak, Width: 28 3/: /products/kitchen-islands-and-carts/00393371.txt
+- TORNVIKEN kitchen island, gray/oak: /products/kitchen-islands-and-carts/80393372.txt
+- RÖNNINGE utility cart, birch: /products/kitchen-islands-and-carts/50507488.txt
+- RIMFORSA work bench, stainless steel/bamboo: /products/kitchen-islands-and-carts/60399412.txt
+- RESARÖ mobile drop-leaf table w storage, pine: /products/kitchen-islands-and-carts/20533337.txt
+- RÅSKOG utility cart, white: /products/kitchen-islands-and-carts/30586783.txt
+- RÅSKOG utility cart, white: /products/kitchen-islands-and-carts/00586789.txt
+- RÅSKOG utility cart, gray-green: /products/kitchen-islands-and-carts/50591769.txt
+- RÅSKOG utility cart, gray-blue: /products/kitchen-islands-and-carts/10586784.txt
+- RÅSKOG utility cart, black: /products/kitchen-islands-and-carts/40582181.txt
+- RÅSKOG utility cart, beige-yellow: /products/kitchen-islands-and-carts/90591767.txt
+- RÅSKOG / NORRÅVA trolley with lid, white: /products/kitchen-islands-and-carts/79580765.txt
+- RÅSKOG / NORRÅVA trolley with lid, white: /products/kitchen-islands-and-carts/29580763.txt
+- RÅSKOG / NORRÅVA trolley with lid, gray-green: /products/kitchen-islands-and-carts/69580761.txt
+- RÅSKOG / NORRÅVA trolley with lid, gray-blue: /products/kitchen-islands-and-carts/89580755.txt
+- RÅSKOG / NORRÅVA trolley with lid, black: /products/kitchen-islands-and-carts/79580751.txt
+- RÅSKOG / NORRÅVA trolley with lid, beige-yellow: /products/kitchen-islands-and-carts/99580769.txt
+- NORRÅVA lid, bamboo: /products/kitchen-islands-and-carts/50591774.txt
+- NORRÅVA lid, bamboo: /products/kitchen-islands-and-carts/00542861.txt
+- NISSAFORS utility cart, yellow: /products/kitchen-islands-and-carts/20580847.txt
+- NISSAFORS utility cart, white: /products/kitchen-islands-and-carts/40465733.txt
+- NISSAFORS utility cart, light green: /products/kitchen-islands-and-carts/10606782.txt
+- NISSAFORS Utility cart, black: /products/kitchen-islands-and-carts/20399777.txt
+- NISSAFORS utility cart, beige: /products/kitchen-islands-and-carts/40585801.txt
+- LOSHULT utility cart, pine: /products/kitchen-islands-and-carts/40576279.txt
+- KUNGSFORS kitchen cart, stainless steel: /products/kitchen-islands-and-carts/80334924.txt
+- JUTTERSBO utility cart, gray-green: /products/kitchen-islands-and-carts/40498941.txt
+- GROERYD utility cart, bronze color: /products/kitchen-islands-and-carts/30498946.txt
+- FÖRHÖJA kitchen cart, birch/white: /products/kitchen-islands-and-carts/80486724.txt
+- FÖRHÖJA kitchen cart, birch: /products/kitchen-islands-and-carts/80035920.txt
+- BEKVÄM kitchen cart, beech: /products/kitchen-islands-and-carts/70240351.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

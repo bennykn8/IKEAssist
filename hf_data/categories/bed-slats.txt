@@ -1,0 +1,31 @@
+# @CATEGORY
+Name: Bed slats
+ProductCount: 9
+
+# @FILTERS
+PriceRange: $15.00 - $140.00
+Materials: Bed base slats: Layer-glued wood veneer, Paper foil, Adhesive resin as coating, Bed slats: Layer-glued wood veneer, Adhesive resin as coating, Galvanized steel, Ribbon: 100 % polypropylene, Ribbon: 100 %polyester, Slat holders: Thermoplastic elastomer
+Brand: IKEA
+
+# @ITEMS
+- SKORVA center support beam, galvanized: /products/bed-slats/90124534.txt
+- LURÖY slatted bed base, Twin: /products/bed-slats/60160217.txt
+- LURÖY slatted bed base, King: /products/bed-slats/50160213.txt
+- LURÖY slatted bed base, Full/Double: /products/bed-slats/30292785.txt
+- LURÖY slatted bed base, Queen: /products/bed-slats/00160215.txt
+- LÖNSET slatted bed base, Queen: /products/bed-slats/80278715.txt
+- LÖNSET Slatted bed base, Full/Double: /products/bed-slats/60278716.txt
+- LÖNSET Slatted bed base, Twin: /products/bed-slats/30278732.txt
+- LÖNSET Slatted bed base, King: /products/bed-slats/30278713.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,69 @@
+# @CATEGORY
+Name: Outdoor dining tables
+ProductCount: 47
+
+# @FILTERS
+PriceRange: $19.99 - $699.00
+Materials: Clip/ Sleeve/ Feet: Polyamide, Feet/ Protector: Polypropylene, Feet: Polyamide, Feet: Polypropylene, Fixing plate: Galvanized steel, Foot: Polyamide, Foot: Polyethylene, Frame support: Polypropylene, Leg frame/ Side rail/ Support rail/ Cross rail: Steel, Powder coating, Leg frame/ Underframe: Steel, Powder coating
+Brand: IKEA
+
+# @ITEMS
+- VITTSKÄR table, plastic rattan outdoor/dark gray: /products/outdoor-dining-tables/30575162.txt
+- VÄSMAN extendable table, outdoor, light brown stained: /products/outdoor-dining-tables/30469034.txt
+- VÄRMANSÖ table, outdoor, dark gray: /products/outdoor-dining-tables/90515684.txt
+- VÄRMANSÖ table, outdoor, dark gray: /products/outdoor-dining-tables/10515683.txt
+- VÄRMANSÖ / HELGEÖ table with decorating rod, outdoor dark gray/black: /products/outdoor-dining-tables/29535780.txt
+- TORPARÖ table, outdoor, white/foldable: /products/outdoor-dining-tables/70420757.txt
+- TEGELÖN table, outdoor, dark gray/black: /products/outdoor-dining-tables/60510843.txt
+- TEGELÖN table, outdoor, dark gray/black: /products/outdoor-dining-tables/30492143.txt
+- TÄRNÖ table, outdoor, white/green: /products/outdoor-dining-tables/70530954.txt
+- TÄRNÖ table, outdoor, black/light brown stained: /products/outdoor-dining-tables/70095429.txt
+- TÄRNÖ table, outdoor, black/light brown stained: /products/outdoor-dining-tables/00469021.txt
+- SUNDSÖ table, off-white outdoor: /products/outdoor-dining-tables/80575560.txt
+- SUNDSÖ table, off-white outdoor: /products/outdoor-dining-tables/40575897.txt
+- SUNDSÖ table, light green outdoor: /products/outdoor-dining-tables/10582583.txt
+- SUNDSÖ table, dark blue outdoor: /products/outdoor-dining-tables/60582585.txt
+- SUNDSÖ table, bright yellow outdoor: /products/outdoor-dining-tables/90582579.txt
+- SUNDSÖ table, bright red outdoor: /products/outdoor-dining-tables/30582577.txt
+- SUNDSÖ table, bright orange outdoor: /products/outdoor-dining-tables/50582581.txt
+- SUNDSÖ table, anthracite outdoor: /products/outdoor-dining-tables/90575507.txt
+- SUNDSÖ table, anthracite outdoor: /products/outdoor-dining-tables/80575895.txt
+- SEGERÖN table, outdoor, white/beige: /products/outdoor-dining-tables/90510813.txt
+- SEGERÖN table, outdoor, white/beige: /products/outdoor-dining-tables/10510807.txt
+- SEGERÖN table, outdoor, dark green/light gray: /products/outdoor-dining-tables/10510812.txt
+- SEGERÖN table, outdoor, dark green/light gray: /products/outdoor-dining-tables/00510799.txt
+- SEGERÖN bar table, outdoor, white/beige: /products/outdoor-dining-tables/60510800.txt
+- NORRMANSÖ table, outdoor, acacia: /products/outdoor-dining-tables/30500794.txt
+- NORRMANSÖ / HELGEÖ table with decorating rod, outdoor acacia/black: /products/outdoor-dining-tables/69535778.txt
+- NÄMMARÖ table, outdoor, light brown stained: /products/outdoor-dining-tables/50586701.txt
+- NÄMMARÖ table, outdoor, light brown stained: /products/outdoor-dining-tables/30510298.txt
+- NÄMMARÖ table, outdoor, light brown stained: /products/outdoor-dining-tables/20510307.txt
+- NÄMMARÖ table, outdoor, light brown stained: /products/outdoor-dining-tables/00510308.txt
+- NÄMMARÖ / HELGEÖ table with decorating rod, outdoor light brown stained/black: /products/outdoor-dining-tables/79535754.txt
+- NÄMMARÖ bar table, outdoor, light brown stained: /products/outdoor-dining-tables/80510309.txt
+- NÄMMARÖ bar table, outdoor, light brown stained: /products/outdoor-dining-tables/10510303.txt
+- LÄCKÖ Table, outdoor, gray: /products/outdoor-dining-tables/40151841.txt
+- HELGEÖ decorating rod for table, black adjustable/outdoor indoor: /products/outdoor-dining-tables/50562050.txt
+- FEJAN table, outdoor, white: /products/outdoor-dining-tables/40469019.txt
+- DUVSKÄR table, outdoor, black-blue/eucalyptus: /products/outdoor-dining-tables/90515759.txt
+- DJUPÖN folding table, brown: /products/outdoor-dining-tables/90539270.txt
+- BONDHOLMEN table, outdoor, brown: /products/outdoor-dining-tables/50558190.txt
+- BONDHOLMEN table, outdoor, brown: /products/outdoor-dining-tables/00558197.txt
+- BONDHOLMEN / HELGEÖ table with decorating rod, outdoor brown/black: /products/outdoor-dining-tables/99545337.txt
+- ASKHOLMEN table, outdoor, foldable dark brown: /products/outdoor-dining-tables/30557498.txt
+- ASKHOLMEN table, outdoor, dark brown: /products/outdoor-dining-tables/50535679.txt
+- ASKHOLMEN table for wall, outdoor, folding dark brown: /products/outdoor-dining-tables/70557496.txt
+- ASKHOLMEN / HELGEÖ table with decorating rod, outdoor dark brown/black: /products/outdoor-dining-tables/79545338.txt
+- ASKHOLMEN gateleg table, outdoor, dark brown: /products/outdoor-dining-tables/10557526.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

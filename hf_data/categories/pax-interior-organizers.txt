@@ -1,0 +1,247 @@
+# @CATEGORY
+Name: PAX Interior organizers
+ProductCount: 225
+
+# @FILTERS
+PriceRange: $5.00 - $150.00
+Materials: 100 % polyester, Bottom panel: Fiberboard, Tinted lacquer, Bottom panel: Particleboard, Paper foil, Clothes rail: Steel, Epoxy powder coating, Drawer back/ Drawer bottom: Fiberboard, Paper foil, Drawer back: Solid wood, Paper foil, Drawer bottom: Fiberboard, Acrylic paint, Drawer bottom: Fiberboard, Acrylic paint, Paper foil, Drawer front frame: Fiberboard, Paper foil, Plastic edging, Drawer front/ Drawer side: Fiberboard, Paper foil, Plastic edging
+Brand: IKEA
+
+# @ITEMS
+- KOMPLEMENT valet hanger, white: /products/pax-interior-organizers/70256931.txt
+- KOMPLEMENT valet hanger, dark gray: /products/pax-interior-organizers/60257182.txt
+- KOMPLEMENT storage with 4 compartments, light gray: /products/pax-interior-organizers/70404026.txt
+- KOMPLEMENT Storage with 4 compartments, light gray: /products/pax-interior-organizers/50404032.txt
+- KOMPLEMENT Soft closing hinge f/corner section, Length: 4 1/2" Height: 3/4". Find it here!: /products/pax-interior-organizers/50368492.txt
+- KOMPLEMENT Soft closing hinge f/corner section, Length: 4 1/2" Height: 3/4". Order here!: /products/pax-interior-organizers/10368489.txt
+- KOMPLEMENT Soft closing hinge, Package quantity: 4 pack: /products/pax-interior-organizers/30214504.txt
+- KOMPLEMENT soft closing hinge: /products/pax-interior-organizers/00214505.txt
+- KOMPLEMENT shoe shelf, white: /products/pax-interior-organizers/80257261.txt
+- KOMPLEMENT Shoe shelf, white: /products/pax-interior-organizers/60257257.txt
+- KOMPLEMENT Shoe shelf, white: /products/pax-interior-organizers/50257253.txt
+- KOMPLEMENT shoe shelf, dark gray: /products/pax-interior-organizers/90257251.txt
+- KOMPLEMENT shoe shelf, dark gray: /products/pax-interior-organizers/20257259.txt
+- KOMPLEMENT shoe shelf, dark gray: /products/pax-interior-organizers/00257255.txt
+- KOMPLEMENT shelf, white: /products/pax-interior-organizers/90277961.txt
+- KOMPLEMENT shelf, white: /products/pax-interior-organizers/70277995.txt
+- KOMPLEMENT shelf, white: /products/pax-interior-organizers/70277957.txt
+- KOMPLEMENT Shelf, white: /products/pax-interior-organizers/40277992.txt
+- KOMPLEMENT Shelf, white: /products/pax-interior-organizers/30277959.txt
+- KOMPLEMENT Shelf, white: /products/pax-interior-organizers/00277989.txt
+- KOMPLEMENT shelf, gray-beige: /products/pax-interior-organizers/70509047.txt
+- KOMPLEMENT shelf, gray-beige: /products/pax-interior-organizers/60509043.txt
+- KOMPLEMENT shelf, gray-beige: /products/pax-interior-organizers/40509039.txt
+- KOMPLEMENT shelf, dark gray: /products/pax-interior-organizers/90509452.txt
+- KOMPLEMENT shelf, dark gray: /products/pax-interior-organizers/90509145.txt
+- KOMPLEMENT shelf, dark gray: /products/pax-interior-organizers/60509458.txt
+- KOMPLEMENT shelf, dark gray: /products/pax-interior-organizers/60509142.txt
+- KOMPLEMENT shelf, dark gray: /products/pax-interior-organizers/20509455.txt
+- KOMPLEMENT shelf, dark gray: /products/pax-interior-organizers/10509149.txt
+- KOMPLEMENT pull-out tray with insert, white: /products/pax-interior-organizers/99249501.txt
+- KOMPLEMENT pull-out tray with insert, white: /products/pax-interior-organizers/89249375.txt
+- KOMPLEMENT pull-out tray with insert, white: /products/pax-interior-organizers/49249532.txt
+- KOMPLEMENT pull-out tray with insert, white: /products/pax-interior-organizers/49249363.txt
+- KOMPLEMENT pull-out tray with insert, white: /products/pax-interior-organizers/29249514.txt
+- KOMPLEMENT pull-out tray with insert, white: /products/pax-interior-organizers/19249369.txt
+- KOMPLEMENT pull-out tray with insert, gray-beige/light gray: /products/pax-interior-organizers/99437093.txt
+- KOMPLEMENT pull-out tray with insert, gray-beige/light gray: /products/pax-interior-organizers/99437088.txt
+- KOMPLEMENT pull-out tray with insert, gray-beige/light gray: /products/pax-interior-organizers/79437089.txt
+- KOMPLEMENT pull-out tray with insert, gray-beige/light gray: /products/pax-interior-organizers/59437085.txt
+- KOMPLEMENT pull-out tray with insert, gray-beige/light gray: /products/pax-interior-organizers/39437086.txt
+- KOMPLEMENT pull-out tray with insert, gray-beige/light gray: /products/pax-interior-organizers/19437087.txt
+- KOMPLEMENT pull-out tray with insert, dark gray/light gray: /products/pax-interior-organizers/99437050.txt
+- KOMPLEMENT pull-out tray with insert, dark gray/light gray: /products/pax-interior-organizers/69437056.txt
+- KOMPLEMENT pull-out tray with insert, dark gray/light gray: /products/pax-interior-organizers/49437000.txt
+- KOMPLEMENT pull-out tray with insert, dark gray/light gray: /products/pax-interior-organizers/39437053.txt
+- KOMPLEMENT pull-out tray with insert, dark gray/light gray: /products/pax-interior-organizers/19555448.txt
+- KOMPLEMENT pull-out tray with insert, dark gray/light gray: /products/pax-interior-organizers/09437035.txt
+- KOMPLEMENT pull-out tray with drawer mat, white/light gray: /products/pax-interior-organizers/69554960.txt
+- KOMPLEMENT pull-out tray with drawer mat, white/light gray: /products/pax-interior-organizers/69554955.txt
+- KOMPLEMENT pull-out tray with drawer mat, white/light gray: /products/pax-interior-organizers/39554971.txt
+- KOMPLEMENT pull-out tray with drawer mat, white/light gray: /products/pax-interior-organizers/39554966.txt
+- KOMPLEMENT pull-out tray with drawer mat, white/light gray: /products/pax-interior-organizers/19554948.txt
+- KOMPLEMENT pull-out tray with drawer mat, white/light gray: /products/pax-interior-organizers/09554977.txt
+- KOMPLEMENT pull-out tray with drawer mat, gray-beige/light gray: /products/pax-interior-organizers/99554973.txt
+- KOMPLEMENT pull-out tray with drawer mat, gray-beige/light gray: /products/pax-interior-organizers/59554951.txt
+- KOMPLEMENT pull-out tray with drawer mat, gray-beige/light gray: /products/pax-interior-organizers/29554962.txt
+- KOMPLEMENT pull-out tray with drawer mat, dark gray/light gray: /products/pax-interior-organizers/89554964.txt
+- KOMPLEMENT pull-out tray with drawer mat, dark gray/light gray: /products/pax-interior-organizers/89554959.txt
+- KOMPLEMENT pull-out tray with drawer mat, dark gray/light gray: /products/pax-interior-organizers/59554970.txt
+- KOMPLEMENT pull-out tray with drawer mat, dark gray/light gray: /products/pax-interior-organizers/49554975.txt
+- KOMPLEMENT pull-out tray with drawer mat, dark gray/light gray: /products/pax-interior-organizers/39554947.txt
+- KOMPLEMENT pull-out tray with drawer mat, dark gray/light gray: /products/pax-interior-organizers/19554953.txt
+- KOMPLEMENT pull-out tray with divider, white/light gray: /products/pax-interior-organizers/99332048.txt
+- KOMPLEMENT pull-out tray with divider, white/light gray: /products/pax-interior-organizers/89332039.txt
+- KOMPLEMENT pull-out tray with divider, white/light gray: /products/pax-interior-organizers/89331997.txt
+- KOMPLEMENT pull-out tray with divider, white/light gray: /products/pax-interior-organizers/49332003.txt
+- KOMPLEMENT pull-out tray with divider, white/light gray: /products/pax-interior-organizers/19332009.txt
+- KOMPLEMENT pull-out tray with divider, white/light gray: /products/pax-interior-organizers/09332057.txt
+- KOMPLEMENT pull-out tray with divider, gray-beige/light gray: /products/pax-interior-organizers/89437084.txt
+- KOMPLEMENT pull-out tray with divider, gray-beige/light gray: /products/pax-interior-organizers/29437082.txt
+- KOMPLEMENT pull-out tray with divider, gray-beige/light gray: /products/pax-interior-organizers/09437083.txt
+- KOMPLEMENT pull-out tray with divider, dark gray/light gray: /products/pax-interior-organizers/89437060.txt
+- KOMPLEMENT pull-out tray with divider, dark gray/light gray: /products/pax-interior-organizers/89436980.txt
+- KOMPLEMENT pull-out tray with divider, dark gray/light gray: /products/pax-interior-organizers/59437066.txt
+- KOMPLEMENT pull-out tray with divider, dark gray/light gray: /products/pax-interior-organizers/49436982.txt
+- KOMPLEMENT pull-out tray with divider, dark gray/light gray: /products/pax-interior-organizers/29437063.txt
+- KOMPLEMENT pull-out tray with divider, dark gray/light gray: /products/pax-interior-organizers/09436984.txt
+- KOMPLEMENT pull-out tray, white: /products/pax-interior-organizers/90433990.txt
+- KOMPLEMENT pull-out tray, white: /products/pax-interior-organizers/70246386.txt
+- KOMPLEMENT Pull-out tray, white: /products/pax-interior-organizers/50433987.txt
+- KOMPLEMENT Pull-out tray, white: /products/pax-interior-organizers/30246374.txt
+- KOMPLEMENT Pull-out tray, white: /products/pax-interior-organizers/20433984.txt
+- KOMPLEMENT Pull-out tray, white: /products/pax-interior-organizers/20246360.txt
+- KOMPLEMENT pull-out tray, gray-beige: /products/pax-interior-organizers/80509099.txt
+- KOMPLEMENT pull-out tray, gray-beige: /products/pax-interior-organizers/40509096.txt
+- KOMPLEMENT pull-out tray, gray-beige: /products/pax-interior-organizers/00509102.txt
+- KOMPLEMENT pull-out tray, dark gray: /products/pax-interior-organizers/80509184.txt
+- KOMPLEMENT pull-out tray, dark gray: /products/pax-interior-organizers/70509486.txt
+- KOMPLEMENT pull-out tray, dark gray: /products/pax-interior-organizers/50509492.txt
+- KOMPLEMENT pull-out tray, dark gray: /products/pax-interior-organizers/50509190.txt
+- KOMPLEMENT pull-out tray, dark gray: /products/pax-interior-organizers/10509489.txt
+- KOMPLEMENT pull-out tray, dark gray: /products/pax-interior-organizers/10509187.txt
+- KOMPLEMENT pull-out shoe shelf, white: /products/pax-interior-organizers/80257464.txt
+- KOMPLEMENT Pull-out shoe shelf, white: /products/pax-interior-organizers/30257466.txt
+- KOMPLEMENT pull-out shoe shelf, white: /products/pax-interior-organizers/00257463.txt
+- KOMPLEMENT pull-out shoe shelf, dark gray: /products/pax-interior-organizers/70257469.txt
+- KOMPLEMENT Pull-out shoe shelf, dark gray: /products/pax-interior-organizers/30257471.txt
+- KOMPLEMENT Pull-out shoe shelf, dark gray: /products/pax-interior-organizers/10257467.txt
+- KOMPLEMENT Pull-out rail for baskets, white: /products/pax-interior-organizers/60263244.txt
+- KOMPLEMENT Pull-out rail for baskets, white: /products/pax-interior-organizers/30263245.txt
+- KOMPLEMENT pull-out rail for baskets, dark gray: /products/pax-interior-organizers/90263233.txt
+- KOMPLEMENT Pull-out rail for baskets, dark gray: /products/pax-interior-organizers/10263232.txt
+- KOMPLEMENT pull-out pants hanger, white: /products/pax-interior-organizers/80446549.txt
+- KOMPLEMENT pull-out pants hanger, white: /products/pax-interior-organizers/70446540.txt
+- KOMPLEMENT pull-out pants hanger, white: /products/pax-interior-organizers/60446545.txt
+- KOMPLEMENT pull-out pants hanger, white: /products/pax-interior-organizers/30446537.txt
+- KOMPLEMENT pull-out pants hanger, white: /products/pax-interior-organizers/20446552.txt
+- KOMPLEMENT Pull-out pants hanger, white: /products/pax-interior-organizers/00446534.txt
+- KOMPLEMENT pull-out pants hanger, gray-beige: /products/pax-interior-organizers/90509065.txt
+- KOMPLEMENT pull-out pants hanger, gray-beige: /products/pax-interior-organizers/60509062.txt
+- KOMPLEMENT pull-out pants hanger, gray-beige: /products/pax-interior-organizers/30509068.txt
+- KOMPLEMENT pull-out pants hanger, dark gray: /products/pax-interior-organizers/80509481.txt
+- KOMPLEMENT pull-out pants hanger, dark gray: /products/pax-interior-organizers/60509477.txt
+- KOMPLEMENT pull-out pants hanger, dark gray: /products/pax-interior-organizers/50509473.txt
+- KOMPLEMENT pull-out pants hanger, dark gray: /products/pax-interior-organizers/40509181.txt
+- KOMPLEMENT pull-out pants hanger, dark gray: /products/pax-interior-organizers/20509177.txt
+- KOMPLEMENT pull-out pants hanger, dark gray: /products/pax-interior-organizers/10509173.txt
+- KOMPLEMENT multi-use hanger, white: /products/pax-interior-organizers/60387211.txt
+- KOMPLEMENT mesh basket with pull-out rail, white: /products/pax-interior-organizers/99010991.txt
+- KOMPLEMENT mesh basket with pull-out rail, white: /products/pax-interior-organizers/99010986.txt
+- KOMPLEMENT mesh basket with pull-out rail, white: /products/pax-interior-organizers/79010987.txt
+- KOMPLEMENT mesh basket with pull-out rail, white: /products/pax-interior-organizers/59010988.txt
+- KOMPLEMENT mesh basket with pull-out rail, white: /products/pax-interior-organizers/39010989.txt
+- KOMPLEMENT mesh basket with pull-out rail, white: /products/pax-interior-organizers/19010985.txt
+- KOMPLEMENT mesh basket with pull-out rail, dark gray: /products/pax-interior-organizers/89010982.txt
+- KOMPLEMENT mesh basket with pull-out rail, dark gray: /products/pax-interior-organizers/69010983.txt
+- KOMPLEMENT mesh basket with pull-out rail, dark gray: /products/pax-interior-organizers/49010984.txt
+- KOMPLEMENT mesh basket with pull-out rail, dark gray: /products/pax-interior-organizers/49010979.txt
+- KOMPLEMENT mesh basket with pull-out rail, dark gray: /products/pax-interior-organizers/29010980.txt
+- KOMPLEMENT mesh basket with pull-out rail, dark gray: /products/pax-interior-organizers/09010981.txt
+- KOMPLEMENT mesh basket, white: /products/pax-interior-organizers/90257294.txt
+- KOMPLEMENT mesh basket, white: /products/pax-interior-organizers/20257315.txt
+- KOMPLEMENT mesh basket, white: /products/pax-interior-organizers/10257311.txt
+- KOMPLEMENT mesh basket, white: /products/pax-interior-organizers/10257306.txt
+- KOMPLEMENT mesh basket, white: /products/pax-interior-organizers/00257302.txt
+- KOMPLEMENT mesh basket, white: /products/pax-interior-organizers/00257298.txt
+- KOMPLEMENT mesh basket, dark gray: /products/pax-interior-organizers/70257313.txt
+- KOMPLEMENT mesh basket, dark gray: /products/pax-interior-organizers/60257304.txt
+- KOMPLEMENT mesh basket, dark gray: /products/pax-interior-organizers/40257296.txt
+- KOMPLEMENT Insert with compartments, light gray: /products/pax-interior-organizers/50404027.txt
+- KOMPLEMENT insert for pull-out tray, light gray: /products/pax-interior-organizers/79277793.txt
+- KOMPLEMENT insert for pull-out tray, light gray: /products/pax-interior-organizers/69277840.txt
+- KOMPLEMENT insert for pull-out tray, light gray: /products/pax-interior-organizers/69277835.txt
+- KOMPLEMENT insert for pull-out tray, light gray: /products/pax-interior-organizers/69277816.txt
+- KOMPLEMENT insert for pull-out tray, light gray: /products/pax-interior-organizers/09277843.txt
+- KOMPLEMENT Insert for jewelry, light gray: /products/pax-interior-organizers/30404028.txt
+- KOMPLEMENT glass shelf, white: /products/pax-interior-organizers/80257647.txt
+- KOMPLEMENT glass shelf, white: /products/pax-interior-organizers/70257638.txt
+- KOMPLEMENT glass shelf, white: /products/pax-interior-organizers/00257646.txt
+- KOMPLEMENT glass shelf, gray-beige: /products/pax-interior-organizers/70509113.txt
+- KOMPLEMENT glass shelf, gray-beige: /products/pax-interior-organizers/40509119.txt
+- KOMPLEMENT glass shelf, gray-beige: /products/pax-interior-organizers/00509116.txt
+- KOMPLEMENT glass shelf, dark gray: /products/pax-interior-organizers/60509156.txt
+- KOMPLEMENT glass shelf, dark gray: /products/pax-interior-organizers/30509153.txt
+- KOMPLEMENT glass shelf, dark gray: /products/pax-interior-organizers/00509159.txt
+- KOMPLEMENT drawer with glass front, white: /products/pax-interior-organizers/70246683.txt
+- KOMPLEMENT Drawer with glass front, white: /products/pax-interior-organizers/20246708.txt
+- KOMPLEMENT Drawer with glass front, white: /products/pax-interior-organizers/10246695.txt
+- KOMPLEMENT drawer with glass front, gray-beige: /products/pax-interior-organizers/90509089.txt
+- KOMPLEMENT drawer with glass front, gray-beige: /products/pax-interior-organizers/50509086.txt
+- KOMPLEMENT drawer with glass front, gray-beige: /products/pax-interior-organizers/20509083.txt
+- KOMPLEMENT drawer with glass front, dark gray: /products/pax-interior-organizers/80509202.txt
+- KOMPLEMENT drawer with glass front, dark gray: /products/pax-interior-organizers/50509208.txt
+- KOMPLEMENT drawer with glass front, dark gray: /products/pax-interior-organizers/10509205.txt
+- KOMPLEMENT drawer with framed glass front, white: /products/pax-interior-organizers/90447020.txt
+- KOMPLEMENT drawer with framed glass front, white: /products/pax-interior-organizers/80447011.txt
+- KOMPLEMENT drawer with framed glass front, white: /products/pax-interior-organizers/60447026.txt
+- KOMPLEMENT Drawer with framed glass front, white: /products/pax-interior-organizers/50447017.txt
+- KOMPLEMENT Drawer with framed glass front, white: /products/pax-interior-organizers/30447023.txt
+- KOMPLEMENT Drawer with framed glass front, white: /products/pax-interior-organizers/20447014.txt
+- KOMPLEMENT drawer with framed glass front, dark gray: /products/pax-interior-organizers/90509664.txt
+- KOMPLEMENT drawer with framed glass front, dark gray: /products/pax-interior-organizers/90509659.txt
+- KOMPLEMENT drawer with framed glass front, dark gray: /products/pax-interior-organizers/50509656.txt
+- KOMPLEMENT drawer with framed front, white: /products/pax-interior-organizers/80446592.txt
+- KOMPLEMENT drawer with framed front, white: /products/pax-interior-organizers/70446601.txt
+- KOMPLEMENT Drawer with framed front, white: /products/pax-interior-organizers/50446598.txt
+- KOMPLEMENT Drawer with framed front, white: /products/pax-interior-organizers/40446589.txt
+- KOMPLEMENT Drawer with framed front, white: /products/pax-interior-organizers/10446604.txt
+- KOMPLEMENT Drawer with framed front, white: /products/pax-interior-organizers/10446595.txt
+- KOMPLEMENT drawer with framed front, dark gray: /products/pax-interior-organizers/80509527.txt
+- KOMPLEMENT drawer with framed front, dark gray: /products/pax-interior-organizers/80509513.txt
+- KOMPLEMENT drawer with framed front, dark gray: /products/pax-interior-organizers/70509523.txt
+- KOMPLEMENT drawer with framed front, dark gray: /products/pax-interior-organizers/50509519.txt
+- KOMPLEMENT drawer with framed front, dark gray: /products/pax-interior-organizers/20509525.txt
+- KOMPLEMENT drawer with framed front, dark gray: /products/pax-interior-organizers/10509516.txt
+- KOMPLEMENT drawer, white: /products/pax-interior-organizers/90246352.txt
+- KOMPLEMENT drawer, white: /products/pax-interior-organizers/70246758.txt
+- KOMPLEMENT drawer, white: /products/pax-interior-organizers/70246744.txt
+- KOMPLEMENT Drawer, white: /products/pax-interior-organizers/30246722.txt
+- KOMPLEMENT Drawer, white: /products/pax-interior-organizers/10246332.txt
+- KOMPLEMENT Drawer, white: /products/pax-interior-organizers/10246308.txt
+- KOMPLEMENT drawer liner, light gray: /products/pax-interior-organizers/30433993.txt
+- KOMPLEMENT drawer liner, light gray: /products/pax-interior-organizers/30405565.txt
+- KOMPLEMENT drawer, gray-beige: /products/pax-interior-organizers/60509076.txt
+- KOMPLEMENT drawer, gray-beige: /products/pax-interior-organizers/50509072.txt
+- KOMPLEMENT drawer, gray-beige: /products/pax-interior-organizers/00509079.txt
+- KOMPLEMENT drawer, dark gray: /products/pax-interior-organizers/90509193.txt
+- KOMPLEMENT drawer, dark gray: /products/pax-interior-organizers/60509199.txt
+- KOMPLEMENT drawer, dark gray: /products/pax-interior-organizers/40509505.txt
+- KOMPLEMENT drawer, dark gray: /products/pax-interior-organizers/20509196.txt
+- KOMPLEMENT drawer, dark gray: /products/pax-interior-organizers/10509502.txt
+- KOMPLEMENT drawer, dark gray: /products/pax-interior-organizers/00509499.txt
+- KOMPLEMENT divider for pull-out tray, light gray: /products/pax-interior-organizers/80467565.txt
+- KOMPLEMENT divider for pull-out tray, light gray: /products/pax-interior-organizers/80466797.txt
+- KOMPLEMENT divider for pull-out tray, light gray: /products/pax-interior-organizers/70466793.txt
+- KOMPLEMENT Divider for pull-out tray, light gray: /products/pax-interior-organizers/50467562.txt
+- KOMPLEMENT Divider for pull-out tray, light gray: /products/pax-interior-organizers/20466795.txt
+- KOMPLEMENT divider for pull-out tray, light gray: /products/pax-interior-organizers/10467559.txt
+- KOMPLEMENT Divider for frame, white: /products/pax-interior-organizers/60246396.txt
+- KOMPLEMENT divider for frame, gray-beige: /products/pax-interior-organizers/10509106.txt
+- KOMPLEMENT divider for frame, dark gray: /products/pax-interior-organizers/00509215.txt
+- KOMPLEMENT clothes rod, white: /products/pax-interior-organizers/80446455.txt
+- KOMPLEMENT clothes rod, white: /products/pax-interior-organizers/50446452.txt
+- KOMPLEMENT Clothes rail, white: /products/pax-interior-organizers/10446449.txt
+- KOMPLEMENT clothes rod, dark gray: /products/pax-interior-organizers/90509466.txt
+- KOMPLEMENT clothes rod, dark gray: /products/pax-interior-organizers/60509463.txt
+- KOMPLEMENT clothes rod, dark gray: /products/pax-interior-organizers/30509469.txt
+- KOMPLEMENT clothes rail, white: /products/pax-interior-organizers/90256893.txt
+- KOMPLEMENT Clothes rail, white: /products/pax-interior-organizers/40256895.txt
+- KOMPLEMENT Clothes rail, white: /products/pax-interior-organizers/30256891.txt
+- KOMPLEMENT clothes rail, dark gray: /products/pax-interior-organizers/80256940.txt
+- KOMPLEMENT Clothes rail, dark gray: /products/pax-interior-organizers/40256942.txt
+- KOMPLEMENT clothes rail, dark gray: /products/pax-interior-organizers/00256944.txt
+- KOMPLEMENT box, light gray, 9 ¾x10 ½x4 ¾": /products/pax-interior-organizers/80561737.txt
+- KOMPLEMENT box, light gray, 6x10 ½x4 ¾": /products/pax-interior-organizers/00561736.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

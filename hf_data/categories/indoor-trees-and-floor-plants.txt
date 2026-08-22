@@ -1,0 +1,30 @@
+# @CATEGORY
+Name: Indoor trees & floor plants
+ProductCount: 8
+
+# @FILTERS
+PriceRange: $19.99 - $39.99
+Materials: Plant/ Substrate: Cultivated potted plant, Pot: Polypropylene
+Brand: IKEA
+
+# @ITEMS
+- YUCCA ELEPHANTIPES potted plant, Spineless yucca/2-stem, 9 ½": /products/indoor-trees-and-floor-plants/90602313.txt
+- STRELITZIA potted plant, white bird of paradise, 9 ¼": /products/indoor-trees-and-floor-plants/10287049.txt
+- SANSEVIERIA potted plant, Mother-in-law's tongue: /products/indoor-trees-and-floor-plants/20426691.txt
+- PALMMIX potted plant, assorted species plants, 9 ½": /products/indoor-trees-and-floor-plants/80493673.txt
+- PACHIRA AQUATICA potted plant, Guinea chestnut: /products/indoor-trees-and-floor-plants/00197228.txt
+- MONSTERA DELICIOSA potted plant, 9 ½": /products/indoor-trees-and-floor-plants/00529162.txt
+- FICUS LYRATA potted plant, fiddle-leaf fig, 9 ½": /products/indoor-trees-and-floor-plants/90399175.txt
+- DRACAENA MASSANGEANA potted plant, Dom plant/3-stem, 9 ½": /products/indoor-trees-and-floor-plants/90166053.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

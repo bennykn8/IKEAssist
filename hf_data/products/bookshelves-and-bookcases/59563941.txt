@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: BILLY / HÖGBO bookcase with desk and drawer, white
+SKU: 59563941
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/billy-hoegbo-bookcase-with-desk-and-drawer-white-s59563941/
+Category: Bookshelves & bookcases
+Description: , 311/2x791/2" BILLY bookcase with desk saves room and solves problems when space is limited. Push the desk in when you're done working, pull it out for dinnertime – and chose open or closed storage f...
+
+# @OFFER
+Price: 249
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Particleboard, Paper foil, Plastic edging, Side panel: Particleboard, Paper foil, Melamine foil, Plastic edging, Plinth front: Particleboard, Paper foil
+Dimensions: Can be used with BILLY height extension unit in the same width for added storage vertically.
+Features: May be completed with extra shelves to add storage space. | Keep in mind that you need enough space between the top of the furniture and the ceiling to be able to anchor the product to the wall. | Product is possible to recycle or use for energy recovery, if available in your community.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/billy-hoegbo-bookcase-with-desk-and-drawer-white__1299772_pe936765_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

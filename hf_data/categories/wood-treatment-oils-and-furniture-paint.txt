@@ -1,0 +1,28 @@
+# @CATEGORY
+Name: Wood treatment oils & furniture paint
+ProductCount: 6
+
+# @FILTERS
+PriceRange: $2.99 - $14.99
+Materials: Bristles: PET plastic, Can: Steel, Content: Waterborne alkyd emulsion, Pigments, Divider: Polyethylene, Drying agent, Handle: Polypropylene, Wood  treatment oil, Linseed oil, Drying agent
+Brand: IKEA
+
+# @ITEMS
+- VÅRDA wood stain, outdoor use, colorless: /products/wood-treatment-oils-and-furniture-paint/20333102.txt
+- TRIXIG paint brush, set of: /products/wood-treatment-oils-and-furniture-paint/20573229.txt
+- STOCKARYD Wood treatment oil, indoor use: /products/wood-treatment-oils-and-furniture-paint/20240462.txt
+- POPPARE paint, white: /products/wood-treatment-oils-and-furniture-paint/00467791.txt
+- POPPARE paint, gray: /products/wood-treatment-oils-and-furniture-paint/20471462.txt
+- POPPARE paint, black: /products/wood-treatment-oils-and-furniture-paint/00471463.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

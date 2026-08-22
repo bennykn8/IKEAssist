@@ -1,0 +1,39 @@
+# @CATEGORY
+Name: SMÅSTAD interior fittings
+ProductCount: 17
+
+# @FILTERS
+PriceRange: $3.00 - $230.00
+Materials: Back panel: Fiberboard, Plastic foil, Bottom panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Plastic edging, Connection: Polypropylene, Cover cap: Polypropylene, Drawer bottom: Fiberboard, Acrylic paint, Drawer front: Fiberboard, Acrylic paint, Drawer side/ Drawer back: Particleboard, Plastic foil, Hinge: Steel, Copper-plated, Main parts: Steel, Epoxy/polyester powder coating, Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Plastic edging
+Brand: IKEA
+
+# @ITEMS
+- UPPFÖRA drawer, white: /products/småstad-interior-fittings/90433551.txt
+- SMÅSTAD pull-out storage unit, white, 31 ½x22 ½x42 ½": /products/småstad-interior-fittings/70445871.txt
+- SMÅSTAD pull-out storage unit, white, 23 ½x22 ½x77 ¼": /products/småstad-interior-fittings/50445872.txt
+- LÄTTHET suspension rail: /products/småstad-interior-fittings/00386375.txt
+- LÄTTHET hook and clip, multicolor: /products/småstad-interior-fittings/80574160.txt
+- LÄTTHET hook and clip: /products/småstad-interior-fittings/10436978.txt
+- KONSTRUERA wire basket: /products/småstad-interior-fittings/20451379.txt
+- KONSTRUERA shelf, white: /products/småstad-interior-fittings/80436786.txt
+- KONSTRUERA drawer without front, white: /products/småstad-interior-fittings/90436781.txt
+- KONSTRUERA drawer without front, white: /products/småstad-interior-fittings/90436776.txt
+- HJÄLPA wire basket with pull-out rail, white: /products/småstad-interior-fittings/29213464.txt
+- HJÄLPA suspension rail, white: /products/småstad-interior-fittings/60505511.txt
+- HJÄLPA soft closing hinge: /products/småstad-interior-fittings/90382882.txt
+- HJÄLPA shelf, white: /products/småstad-interior-fittings/90331166.txt
+- HJÄLPA pull-out rail for baskets, white: /products/småstad-interior-fittings/10331194.txt
+- HJÄLPA clothes rail +2 suspension rails, adjustable/white: /products/småstad-interior-fittings/39428280.txt
+- HJÄLPA adjustable clothes rail, white: /products/småstad-interior-fittings/40497828.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

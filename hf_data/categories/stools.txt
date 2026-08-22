@@ -1,0 +1,37 @@
+# @CATEGORY
+Name: Stools
+ProductCount: 15
+
+# @FILTERS
+PriceRange: $7.99 - $49.99
+Materials: All parts: Acrylic paint, Coated fabric: 100 % polyurethane, 75 %polyester, 25 % cotton, Foot: Polyethylene, Polypropylene, Foot: Polypropylene, Foot: Thermoplastic elastomer, Frame: Steel, Epoxy/polyester powder coating, Leg/ Seat: Solid pine, Stain, Clear acrylic lacquer, Leg: Layer-glued wood veneer, Birch veneer, Tinted lacquer, Leg: Solid beech, Clear acrylic lacquer, Leg: Steel, Epoxy/polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- PERJOHAN stool with storage, pine: /products/stools/80485338.txt
+- MARIUS stool, white: /products/stools/90184047.txt
+- MARIUS stool, blue: /products/stools/50605238.txt
+- MARIUS Stool, black: /products/stools/10135659.txt
+- KYRRE stool, set of 2, birch: /products/stools/59399804.txt
+- KYRRE stool, birch: /products/stools/60416925.txt
+- INGOLF Stool, white: /products/stools/00152282.txt
+- IBBARBO stool, dark gray: /products/stools/40571535.txt
+- HOLMSJÖ stool, beech/Jonsbyn black: /products/stools/10560996.txt
+- HAUGA stool, white: /products/stools/40582044.txt
+- HAUGA stool, gray: /products/stools/80582042.txt
+- GUNDE folding stool, black: /products/stools/40570404.txt
+- DOMSTEN stool, orange/pine: /products/stools/30555159.txt
+- DOMSTEN stool, lilac/pine: /products/stools/60554380.txt
+- BOESKIL stool, black/natural: /products/stools/90555953.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

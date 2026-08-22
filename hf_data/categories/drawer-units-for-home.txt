@@ -1,0 +1,58 @@
+# @CATEGORY
+Name: Drawer units for home
+ProductCount: 36
+
+# @FILTERS
+PriceRange: $10.00 - $199.99
+Materials: Back panel/ Front panel: Particleboard, Oak veneer, Oak veneer, Clear acrylic lacquer, Back panel/ Front panel: Particleboard, Paper foil, Acrylic paint, Plastic edging, Back panel: Particleboard, Paper foil, Back panel: Particleboard, Paper foil, Paper foil, Bottom panel: Particleboard, Paper foil, Paper foil, Plastic edging, Bottom rail/ Support rail: Particleboard, Plastic edging, Connector: Reinforced polyamide, Drawer bottom: Fiberboard, Acrylic paint, Drawer front: Particleboard, Paper foil, Plastic edging, Plastic edging, Drawer side/ Drawer back: Particleboard, Plastic foil
+Brand: IKEA
+
+# @ITEMS
+- TONSTAD drawer unit on casters, off-white: /products/drawer-units-for-home/50538201.txt
+- TONSTAD drawer unit on casters, oak veneer: /products/drawer-units-for-home/40538211.txt
+- TONSTAD drawer unit on casters, brown stained oak veneer: /products/drawer-units-for-home/00538208.txt
+- MICKE Drawer unit/drop file storage, white: /products/drawer-units-for-home/50213080.txt
+- MICKE Drawer unit/drop file storage, black-brown: /products/drawer-units-for-home/40244751.txt
+- LENNART Drawer unit, white: /products/drawer-units-for-home/30326177.txt
+- HELMER Drawer unit on casters, white: /products/drawer-units-for-home/10251045.txt
+- HELMER drawer unit on casters, blue: /products/drawer-units-for-home/30562715.txt
+- HELMER Drawer unit on casters, black: /products/drawer-units-for-home/20341970.txt
+- FRYKSÅS storage unit on casters, rattan: /products/drawer-units-for-home/90574174.txt
+- ALEX storage unit, white: /products/drawer-units-for-home/50563752.txt
+- ALEX storage unit on casters, white/black: /products/drawer-units-for-home/29541941.txt
+- ALEX storage unit on casters, dark gray/black: /products/drawer-units-for-home/29582682.txt
+- ALEX storage unit on casters, black-brown/black: /products/drawer-units-for-home/59541954.txt
+- ALEX storage unit, dark gray: /products/drawer-units-for-home/70588898.txt
+- ALEX storage unit, black-brown: /products/drawer-units-for-home/70563765.txt
+- ALEX drawer unit with 9 drawers, white: /products/drawer-units-for-home/90486139.txt
+- ALEX drawer unit with 9 drawers, black-brown: /products/drawer-units-for-home/70483434.txt
+- ALEX drawer unit, white: /products/drawer-units-for-home/00473546.txt
+- ALEX drawer unit on casters, white/black: /products/drawer-units-for-home/59582666.txt
+- ALEX drawer unit on casters, white/black: /products/drawer-units-for-home/59422220.txt
+- ALEX drawer unit on casters, white: /products/drawer-units-for-home/80485423.txt
+- ALEX drawer unit on casters, dark gray/black: /products/drawer-units-for-home/69582680.txt
+- ALEX drawer unit on casters, dark gray/black: /products/drawer-units-for-home/09582664.txt
+- ALEX drawer unit on casters, dark gray: /products/drawer-units-for-home/20588891.txt
+- ALEX drawer unit on casters, black-brown: /products/drawer-units-for-home/29422194.txt
+- ALEX drawer unit on casters, black-brown/black: /products/drawer-units-for-home/19582668.txt
+- ALEX drawer unit on casters, black-brown: /products/drawer-units-for-home/70483429.txt
+- ALEX drawer unit on casters, black-blue: /products/drawer-units-for-home/19582673.txt
+- ALEX drawer unit on casters, black-blue/black: /products/drawer-units-for-home/69582661.txt
+- ALEX drawer unit/drop file storage, white: /products/drawer-units-for-home/50508176.txt
+- ALEX drawer unit/drop file storage, black-brown: /products/drawer-units-for-home/10508178.txt
+- ALEX drawer unit, dark gray: /products/drawer-units-for-home/60588894.txt
+- ALEX drawer unit, black-brown: /products/drawer-units-for-home/60473548.txt
+- ALEX drawer unit, black-blue: /products/drawer-units-for-home/00590475.txt
+- ALEX caster, black: /products/drawer-units-for-home/10480607.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: BERGMUND bar stool with backrest, white/Gunnared medium gray
+SKU: 39471787
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/bergmund-bar-stool-with-backrest-white-gunnared-medium-gray-s39471787/
+Category: Bar stools & chairs
+Description: , 243/8" Bar stools in the BERGMUND series offer cushiony comfort and many cover options, like this one in an elegant gray. After engaging meals and after-dinner chit-chat, it’s good to know it’s wash...
+
+# @OFFER
+Price: 145
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Leg: Solid wood, Acrylic paint, Seat frame: Steel, Epoxy/polyester powder coating, Backrest frame: Steel
+Dimensions: Suitable for bar table and counter heights 34-36".
+Features: To prevent surface scratches and the sound of chair legs scraping on the floor, add FIXA self-adhesive floor protectors, sold separately. | Extra covers for BERGMUND bar stool with backrest are available in many different models, colours and materials, sold separately. | A bit screwdriver is required to assemble this chair, sold separately as a part of TRIXIG 15-piece toolset.
+Care: Frame: Wipe clean using a damp cloth and a mild cleaner. | Frame: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/bergmund-bar-stool-with-backrest-white-gunnared-medium-gray__0926435_pe789222_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,46 @@
+# @CATEGORY
+Name: Vanity cabinets with sink
+ProductCount: 24
+
+# @FILTERS
+PriceRange: $399.00 - $694.00
+Materials: Drawer front: Particleboard, Fiberboard, Plastic foil, Plastic edging, Plastic edging (min. 50% recycled), Frame/ Bottom panel: Particleboard, Plastic foil (min. 50% recycled), Plastic foil, Plastic edging, Plastic edging, Frame/ Middle rail/ Bottom panel/ Drawer divider/ Drawer sides/ Drawer back: Particleboard, Plastic foil, Plastic edging, Plastic edging (min. 50% recycled), Middle rail/ Drawer divider/ Drawer sides/ Drawer back: Particleboard, Plastic foil, Plastic edging, Plastic edging, Top rail: Fiberboard, Plastic foil (min. 50% recycled), Plastic edging, Plastic edging, Top rail: Fiberboard, Plastic foil, Plastic edging, Plastic edging (min. 50% recycled)
+Brand: IKEA
+
+# @ITEMS
+- ÄNGSJÖN / ORRSJÖN Bathroom vanity with sink & faucet, oak effect: /products/vanity-cabinets-with-sink/99590103.txt
+- ÄNGSJÖN / ORRSJÖN Bathroom vanity with sink & faucet, oak effect: /products/vanity-cabinets-with-sink/79590095.txt
+- ÄNGSJÖN / ORRSJÖN Bathroom vanity with sink & faucet, high gloss white: /products/vanity-cabinets-with-sink/19590102.txt
+- ÄNGSJÖN / ORRSJÖN Bathroom vanity with sink & faucet, high gloss white: /products/vanity-cabinets-with-sink/09590094.txt
+- ÄNGSJÖN / ORRSJÖN Bathroom vanity with sink & faucet, brown oak effect: /products/vanity-cabinets-with-sink/79590104.txt
+- ÄNGSJÖN / ORRSJÖN Bathroom vanity with sink & faucet, brown oak effect: /products/vanity-cabinets-with-sink/59590096.txt
+- ÄNGSJÖN / LERSJÖN Bathroom vanity with sink & faucet, oak effect/white marble effect: /products/vanity-cabinets-with-sink/79571822.txt
+- ÄNGSJÖN / LERSJÖN Bathroom vanity with sink & faucet, oak effect/white marble effect: /products/vanity-cabinets-with-sink/69571808.txt
+- ÄNGSJÖN / LERSJÖN Bathroom vanity with sink & faucet, oak effect/white marble effect: /products/vanity-cabinets-with-sink/59571795.txt
+- ÄNGSJÖN / LERSJÖN Bathroom vanity with sink & faucet, oak effect/black marble effect: /products/vanity-cabinets-with-sink/39571819.txt
+- ÄNGSJÖN / LERSJÖN Bathroom vanity with sink & faucet, oak effect/black marble effect: /products/vanity-cabinets-with-sink/29571792.txt
+- ÄNGSJÖN / LERSJÖN Bathroom vanity with sink & faucet, oak effect/black marble effect: /products/vanity-cabinets-with-sink/09571806.txt
+- ÄNGSJÖN / LERSJÖN Bathroom vanity with sink & faucet, high gloss white/white marble effect: /products/vanity-cabinets-with-sink/79571817.txt
+- ÄNGSJÖN / LERSJÖN Bathroom vanity with sink & faucet, high gloss white/white marble effect: /products/vanity-cabinets-with-sink/69571790.txt
+- ÄNGSJÖN / LERSJÖN Bathroom vanity with sink & faucet, high gloss white/white marble effect: /products/vanity-cabinets-with-sink/59571804.txt
+- ÄNGSJÖN / LERSJÖN Bathroom vanity with sink & faucet, high gloss white/black marble effect: /products/vanity-cabinets-with-sink/19571815.txt
+- ÄNGSJÖN / LERSJÖN Bathroom vanity with sink & faucet, high gloss white/black marble effect: /products/vanity-cabinets-with-sink/19571801.txt
+- ÄNGSJÖN / LERSJÖN Bathroom vanity with sink & faucet, high gloss white/black marble effect: /products/vanity-cabinets-with-sink/09571788.txt
+- ÄNGSJÖN / LERSJÖN Bathroom vanity with sink & faucet, brown oak effect/white marble effect: /products/vanity-cabinets-with-sink/89571812.txt
+- ÄNGSJÖN / LERSJÖN Bathroom vanity with sink & faucet, brown oak effect/white marble effect: /products/vanity-cabinets-with-sink/79571799.txt
+- ÄNGSJÖN / LERSJÖN Bathroom vanity with sink & faucet, brown oak effect/white marble effect: /products/vanity-cabinets-with-sink/49571786.txt
+- ÄNGSJÖN / LERSJÖN Bathroom vanity with sink & faucet, brown oak effect/black marble effect: /products/vanity-cabinets-with-sink/99571784.txt
+- ÄNGSJÖN / LERSJÖN Bathroom vanity with sink & faucet, brown oak effect/black marble effect: /products/vanity-cabinets-with-sink/29571810.txt
+- ÄNGSJÖN / LERSJÖN Bathroom vanity with sink & faucet, brown oak effect/black marble effect: /products/vanity-cabinets-with-sink/19571797.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

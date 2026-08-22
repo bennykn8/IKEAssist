@@ -1,0 +1,29 @@
+# @CATEGORY
+Name: Cube storage
+ProductCount: 7
+
+# @FILTERS
+PriceRange: $42.00 - $149.99
+Materials: Back panel: Fiberboard, Paper foil, Door panel: Particleboard, Paper foil, Plastic edging, Plastic edging, Door: Fiberboard, Acrylic paint, Galvanized steel, Main parts: Fiberboard, Plastic foil, Panel: Particleboard, Honeycomb structure paper filling (100% recycled), Fiberboard, Paper foil, Plastic edging, Particleboard, Fiberboard, Acrylic paint, Honeycomb structure paper filling (100% recycled), Plastic edging
+Brand: IKEA
+
+# @ITEMS
+- KALLAX shelving unit, with 2 doors white/light gray-blue wave shaped: /products/cube-storage/99579964.txt
+- KALLAX shelving unit, with 2 doors/4 drawers white/light gray-blue wave shaped: /products/cube-storage/49579971.txt
+- EKET wall-mounted storage combination, with 2 drawers/white: /products/cube-storage/49590370.txt
+- EKET wall-mounted storage combination, with 2 drawers/walnut effect: /products/cube-storage/09590372.txt
+- EKET wall-mounted storage combination, with 2 drawers/dark gray: /products/cube-storage/29590371.txt
+- EKET wall cb w 1 shlf/door, walnut effect: /products/cube-storage/39590380.txt
+- EKET wall cabinet/1 door, walnut effect: /products/cube-storage/09581179.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

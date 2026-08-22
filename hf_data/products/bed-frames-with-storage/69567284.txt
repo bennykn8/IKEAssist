@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: IDANÄS bed frame with storage, dark brown/Lyngör dark gray, King
+SKU: 69567284
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/idanaes-bed-frame-with-storage-dark-brown-lyngoer-dark-gray-s69567284/
+Category: Bed frames with storage
+Description: IDANÄS bed frame with soft-closing, built-in drawers makes use of the space under your bed – and LYNGÖR mattress base gives extra height and helps your mattress keep its shape for longer.
+
+# @OFFER
+Price: 1028
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Center support beam: Galvanized steel, Headboard leg/ Top headboard rail/ Middle headboard rail/ Footboard leg/ Top footboard rail/ Top side rail: Solid pine, Stain, Clear acrylic lacquer, Headboard/ Footboard/ Drawer front: Particleboard, Beech veneer, Stain, Clear acrylic lacquer, Beech veneer, Stain, Clear acrylic lacquer
+Features: Comprises: 1 bed frame, 1 LYNGÖR mattress base, 1 LYNGÖR mattress base cover and 1 SKORVA midbeam. | Mattress and bedlinens are sold separately. | More information about each product in the set can be found on each product page on IKEA.us.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/idanaes-bed-frame-with-storage-dark-brown-lyngoer-dark-gray__1355068_pe953061_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

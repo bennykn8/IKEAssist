@@ -1,0 +1,32 @@
+# @CATEGORY
+Name: Cake & serving stands
+ProductCount: 10
+
+# @FILTERS
+PriceRange: $2.00 - $39.99
+Materials: Bar: Bamboo, Water-based paint, Disc: Marble, Dish: Steel, Epoxy/polyester powder coating, Dish: Steel, Polyester powder coating, Foot: EVA plastic, Glass, Glass, Stainless steel, Handle/ Tray: Bamboo, Oil, Rotating unit: Aluminum, Solid acacia wood, Clear acrylic lacquer
+Brand: IKEA
+
+# @ITEMS
+- SOMMARÖGA serving stand, two tiers, pink: /products/cake-and-serving-stands/00543832.txt
+- OMBONAD serving plate, glass gray: /products/cake-and-serving-stands/30504669.txt
+- KVITTERA serving stand, 3 tiers, clear glass/stainless steel: /products/cake-and-serving-stands/90279842.txt
+- KRUSTISTEL serving stand, bamboo/turquoise: /products/cake-and-serving-stands/50585787.txt
+- IKEA 365+ serving stand, acacia, 15x8 ¼": /products/cake-and-serving-stands/30603037.txt
+- IKEA 365+ serving stand, acacia, 6 ¼x6 ¼": /products/cake-and-serving-stands/20602321.txt
+- HÖSTAGILLE platter with stand, light beige/orange-brown: /products/cake-and-serving-stands/90602134.txt
+- FULLSPÄCKAD serving tray, bamboo/black: /products/cake-and-serving-stands/20430141.txt
+- BAKGLAD cake stand: /products/cake-and-serving-stands/00485262.txt
+- ARV BRÖLLOP cake stand with lid, clear glass: /products/cake-and-serving-stands/40125550.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

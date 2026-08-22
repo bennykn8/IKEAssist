@@ -1,0 +1,114 @@
+# @CATEGORY
+Name: Dining sets up to 6 seats
+ProductCount: 92
+
+# @FILTERS
+PriceRange: $289.99 - $1999.00
+Materials: Bottom panel: Particleboard, Acrylic paint, Plastic edging, Coated fabric parts/ Coated fabric parts: 100 % polyurethane, 75 % polyester, 25 % cotton, Cover: 80 % cotton, 20% polyester (min. 90% recycled), Cross rail: Particleboard, Solid oak, Oak veneer, Clear acrylic lacquer, Cross rail: Solid birch, Clear acrylic lacquer, End rail/ Leg/ Bracket: Steel, Epoxy/polyester powder coating, Extension leaf: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Ash veneer, Stain, Tinted clear acrylic lacquer, Paper foil, Acrylic paint, Extension rail: Solid birch, Adhesive, Stain, Clear acrylic lacquer, Fabric/ Fabric: 76 % cotton, 24 % polyester (100% recycled), Fabric/ Fabric: 78 % cotton, 22% polyester (min. 90% recycled)
+Brand: IKEA
+
+# @ITEMS
+- VIHALS / VIHALS table and 6 chairs, white white/white Tibbleby beige-gray: /products/dining-sets-up-to-6-seats/39599559.txt
+- VIHALS / VIHALS table and 6 chairs, white white/white: /products/dining-sets-up-to-6-seats/29589947.txt
+- VIHALS / VIHALS table and 6 chairs, white/white Tibbleby beige-gray: /products/dining-sets-up-to-6-seats/69599553.txt
+- VIHALS / VIHALS table and 6 chairs, white/white: /products/dining-sets-up-to-6-seats/59589960.txt
+- VIHALS / VIHALS table and 6 chairs, white white/green Tibbleby gray-green: /products/dining-sets-up-to-6-seats/99599556.txt
+- VIHALS / VIHALS table and 6 chairs, white/green Tibbleby gray-green: /products/dining-sets-up-to-6-seats/69599548.txt
+- VIHALS / BUSLÄTT table and 6 chairs, white/white pine: /products/dining-sets-up-to-6-seats/89590504.txt
+- TONSTAD / TONSTAD table and 6 chairs, off-white/Viarp beige/brown off-white: /products/dining-sets-up-to-6-seats/39599804.txt
+- TONSTAD / TONSTAD table and 6 chairs, off-white/off-white Fridtuna light beige: /products/dining-sets-up-to-6-seats/99599801.txt
+- TONSTAD / TONSTAD table and 6 chairs, off-white/Fridtuna light beige off-white: /products/dining-sets-up-to-6-seats/99599797.txt
+- TONSTAD / TONSTAD table and 6 chairs, off-white/Bomstad golden brown off-white: /products/dining-sets-up-to-6-seats/69599794.txt
+- TONSTAD / TONSTAD table and 6 chairs, oak effect/Viarp beige/brown oak effect: /products/dining-sets-up-to-6-seats/49602226.txt
+- TONSTAD / TONSTAD table and 6 chairs, oak effect/oak effect Fridtuna light beige: /products/dining-sets-up-to-6-seats/49602189.txt
+- TONSTAD / TONSTAD table and 6 chairs, oak effect/Fridtuna light beige oak effect: /products/dining-sets-up-to-6-seats/59602202.txt
+- TONSTAD / TONSTAD table and 6 chairs, oak effect/Bomstad golden brown oak effect: /products/dining-sets-up-to-6-seats/09602214.txt
+- TONSTAD / TONSTAD table and 6 chairs, brown oak effect/Viarp beige/brown brown oak effect: /products/dining-sets-up-to-6-seats/99602295.txt
+- TONSTAD / TONSTAD table and 6 chairs, brown oak effect/Fridtuna light beige brown oak effect: /products/dining-sets-up-to-6-seats/69602292.txt
+- TONSTAD / TONSTAD table and 6 chairs, brown oak effect/brown oak effect Fridtuna light beige: /products/dining-sets-up-to-6-seats/79602258.txt
+- TONSTAD / TONSTAD table and 6 chairs, brown oak effect/Bomstad golden brown brown oak effect: /products/dining-sets-up-to-6-seats/29602289.txt
+- TONSTAD table and 6 chairs: /products/dining-sets-up-to-6-seats/79602324.txt
+- TONSTAD table and 6 chairs, off-white/Tonerud dark beige: /products/dining-sets-up-to-6-seats/19599777.txt
+- TONSTAD table and 6 chairs, oak effect/Tonerud dark beige: /products/dining-sets-up-to-6-seats/99602238.txt
+- TONSTAD table and 6 chairs, brown oak effect/Gunnared beige black: /products/dining-sets-up-to-6-seats/59602315.txt
+- TONSTAD / GRÖNSTA table and 6 chairs, off-white/white: /products/dining-sets-up-to-6-seats/19596651.txt
+- TONSTAD / GRÖNSTA table and 6 chairs, brown oak effect/white: /products/dining-sets-up-to-6-seats/99596925.txt
+- TONSTAD / GRÖNSTA table and 6 chairs, brown oak effect/gray-turquoise: /products/dining-sets-up-to-6-seats/29596924.txt
+- STRANDTORP / MÅRENÄS table and 6 armchairs, brown black/Gunnared red-brown: /products/dining-sets-up-to-6-seats/19518837.txt
+- STRANDTORP / MÅRENÄS table and 6 armchairs, brown/black Gunnared dark grey: /products/dining-sets-up-to-6-seats/29518832.txt
+- STRANDTORP / MÅRENÄS table and 6 armchairs, brown/black Gunnared beige: /products/dining-sets-up-to-6-seats/19518823.txt
+- STOCKHOLM 2025 / STOCKHOLM 2025 table and 6 chairs, oak veneer/oak rattan: /products/dining-sets-up-to-6-seats/29606621.txt
+- STOCKHOLM 2025 / STOCKHOLM 2025 table and 6 chairs, oak veneer/oak leather: /products/dining-sets-up-to-6-seats/09606617.txt
+- STOCKHOLM 2025 / STOCKHOLM 2025 table and 6 chairs, oak veneer/dark brown leather: /products/dining-sets-up-to-6-seats/99606613.txt
+- STOCKHOLM 2025 / SKANSNÄS table and 6 chairs, oak veneer/black beech: /products/dining-sets-up-to-6-seats/69579989.txt
+- SKOGSTA / SKOGSTA table and 6 chairs, acacia/black: /products/dining-sets-up-to-6-seats/19545124.txt
+- SKOGSTA / SKOGSTA table and 6 chairs, acacia/acacia: /products/dining-sets-up-to-6-seats/49545127.txt
+- SKOGSTA / NORDVIKEN table and 6 chairs, acacia/black: /products/dining-sets-up-to-6-seats/69482690.txt
+- PINNTORP / PINNTORP table and 6 chairs, light brown stained white stained/light brown stained: /products/dining-sets-up-to-6-seats/99484471.txt
+- PINNTORP / PINNTORP table and 6 chairs, light brown stained white stained/light brown stained: /products/dining-sets-up-to-6-seats/29564452.txt
+- NORDVIKEN / SKOGSTA table and 6 chairs, antique stain/black: /products/dining-sets-up-to-6-seats/79571638.txt
+- NORDVIKEN / SKOGSBO table and 6 chairs, black/dark brown: /products/dining-sets-up-to-6-seats/49528222.txt
+- NORDVIKEN / NORDVIKEN table and 6 chairs, black/black: /products/dining-sets-up-to-6-seats/79304763.txt
+- NORDVIKEN / NORDVIKEN table and 6 chairs, antique stain/antique stain: /products/dining-sets-up-to-6-seats/99399878.txt
+- NORDVIKEN / NORDVIKEN table and 6 chairs, antique stain/antique stain: /products/dining-sets-up-to-6-seats/49386944.txt
+- NORDVIKEN / INGOLF table and 6 chairs, black/Nolhaga grey-beige brown-black: /products/dining-sets-up-to-6-seats/89571633.txt
+- NORDVIKEN / BERGMUND table and 6 chairs, black/Ryrane dark blue: /products/dining-sets-up-to-6-seats/59477081.txt
+- MÖRBYLÅNGA / TOSSBERG table and 6 chairs, oak veneer brown stained/Gunnared dark grey black: /products/dining-sets-up-to-6-seats/39569326.txt
+- MÖRBYLÅNGA / TOBIAS table and 6 chairs, oak veneer brown stained/brown-red chrome plated: /products/dining-sets-up-to-6-seats/59484963.txt
+- MÖRBYLÅNGA / MÅRENÄS table and 6 armchairs, oak veneer brown stained/black Gunnared dark grey: /products/dining-sets-up-to-6-seats/39520090.txt
+- MÖRBYLÅNGA / MÅRENÄS table and 6 armchairs, oak veneer brown stained/black Gunnared beige: /products/dining-sets-up-to-6-seats/39520085.txt
+- MÖRBYLÅNGA / MÅRENÄS table and 6 armchairs, oak veneer black/Gunnared red-brown: /products/dining-sets-up-to-6-seats/59520094.txt
+- MÖRBYLÅNGA / GRÖNSTA table and 6 armchairs, oak veneer brown stained/white: /products/dining-sets-up-to-6-seats/49569321.txt
+- MÖCKELBY / ODGER table and 6 chairs, oak/white/beige: /products/dining-sets-up-to-6-seats/79277019.txt
+- MÖCKELBY / NORRARYD table and 6 chairs, oak/black: /products/dining-sets-up-to-6-seats/59161492.txt
+- MÖCKELBY / MÖCKELBY table and 2 benches, oak/oak: /products/dining-sets-up-to-6-seats/79482784.txt
+- MÖCKELBY / BERGMUND table and 6 chairs, oak effect/Inseros white: /products/dining-sets-up-to-6-seats/49477072.txt
+- LISABO / LISABO table and 6 chairs, black/Tallmyra black/gray: /products/dining-sets-up-to-6-seats/19554905.txt
+- LISABO / LISABO table and 6 chairs, black/black: /products/dining-sets-up-to-6-seats/89545093.txt
+- LISABO / LISABO table and 6 chairs, ash veneer/ash veneer: /products/dining-sets-up-to-6-seats/49545085.txt
+- LISABO / LISABO table and 6 chairs, ash/Tallmyra white/black: /products/dining-sets-up-to-6-seats/69554842.txt
+- LISABO / KARLPETTER table and 6 chairs, black/Gunnared light green black: /products/dining-sets-up-to-6-seats/29568624.txt
+- LISABO / KARLPETTER table and 6 chairs, ash veneer/Gunnared medium grey white: /products/dining-sets-up-to-6-seats/29568346.txt
+- LISABO / ÄLVSTA table and 6 chairs, black/rattan black: /products/dining-sets-up-to-6-seats/59568627.txt
+- LISABO / ÄLVSTA table and 6 chairs, ash veneer/rattan white: /products/dining-sets-up-to-6-seats/69568189.txt
+- KLIMPFJÄLL / NORRMANSÖ table and 6 chairs, gray-brown/beige acacia: /products/dining-sets-up-to-6-seats/99556378.txt
+- KLIMPFJÄLL / NORRMANSÖ table and 6 chairs, gray-brown/beige acacia: /products/dining-sets-up-to-6-seats/79426161.txt
+- KLIMPFJÄLL / NORRARYD table and 6 chairs, gray-brown/black: /products/dining-sets-up-to-6-seats/99418424.txt
+- KLIMPFJÄLL / NORDVIKEN table and 6 chairs, gray-brown/white: /products/dining-sets-up-to-6-seats/59418421.txt
+- KLIMPFJÄLL / NORDVIKEN table and 6 chairs, gray-brown/white: /products/dining-sets-up-to-6-seats/19556377.txt
+- INGATORP / INGOLF table and 6 chairs, white/white: /products/dining-sets-up-to-6-seats/19296884.txt
+- INGATORP / INGOLF table and 6 chairs, white white/Hallarp beige: /products/dining-sets-up-to-6-seats/09482810.txt
+- INGATORP / INGOLF table and 6 chairs, black/Sporda dark gray: /products/dining-sets-up-to-6-seats/79285806.txt
+- INGATORP / INGOLF table and 6 chairs, black/Nolhaga gray/beige: /products/dining-sets-up-to-6-seats/29483347.txt
+- INGATORP / INGOLF table and 6 chairs, black/brown-black: /products/dining-sets-up-to-6-seats/49483308.txt
+- INGATORP / INGOLF table and 6 chairs, black/brown-black: /products/dining-sets-up-to-6-seats/49296887.txt
+- HAUGA / STEFAN table and 6 chairs, gray/gray: /products/dining-sets-up-to-6-seats/29574917.txt
+- HAUGA / HAUGA table and 6 chairs, white/white: /products/dining-sets-up-to-6-seats/79574868.txt
+- HAUGA / HAUGA table and 6 chairs, gray/gray: /products/dining-sets-up-to-6-seats/59574911.txt
+- EKEDALEN / TOBIAS table and 6 chairs, dark brown/blue: /products/dining-sets-up-to-6-seats/89221319.txt
+- EKEDALEN / ODGER table and 6 chairs, dark brown/white beige: /products/dining-sets-up-to-6-seats/49221321.txt
+- EKEDALEN / LIDÅS table and 6 chairs, dark brown/black black: /products/dining-sets-up-to-6-seats/99570732.txt
+- EKEDALEN / KRYLBO table and 6 chairs, dark brown/Tonerud dark beige: /products/dining-sets-up-to-6-seats/49571041.txt
+- EKEDALEN / KARLPETTER table and 6 chairs, dark brown/Gunnared light green black: /products/dining-sets-up-to-6-seats/69571163.txt
+- EKEDALEN / ÄLVSTA table and 6 chairs, dark brown/rattan black: /products/dining-sets-up-to-6-seats/19571165.txt
+- DANDERYD / SKOGSTA table and 6 chairs, white/acacia: /products/dining-sets-up-to-6-seats/59545184.txt
+- DANDERYD / SKOGSTA table and 6 chairs, oak veneer white/acacia: /products/dining-sets-up-to-6-seats/69568108.txt
+- DANDERYD / INGOLF table and 6 chairs, white/white: /products/dining-sets-up-to-6-seats/09544262.txt
+- DANDERYD / INGOLF table and 6 chairs, oak veneer white/white: /products/dining-sets-up-to-6-seats/19478394.txt
+- DANDERYD / EBBALYCKE table and 6 chairs, white/Idekulla beige: /products/dining-sets-up-to-6-seats/89560149.txt
+- DANDERYD / EBBALYCKE table and 6 chairs, oak veneer white/Idekulla beige: /products/dining-sets-up-to-6-seats/89568107.txt
+- DANDERYD / DANDERYD table and 6 chairs, white/Vissle gray: /products/dining-sets-up-to-6-seats/39544270.txt
+- DANDERYD / DANDERYD table and 6 chairs, oak veneer white/Vissle gray: /products/dining-sets-up-to-6-seats/39483950.txt
+- DANDERYD / BERGMUND table and 6 chairs, white/Gunnared medium grey: /products/dining-sets-up-to-6-seats/29544280.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

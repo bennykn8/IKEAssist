@@ -1,0 +1,42 @@
+# @CATEGORY
+Name: Mattress foundations & bases
+ProductCount: 20
+
+# @FILTERS
+PriceRange: $170.00 - $350.00
+Materials: Back fabric/ Main parts/ Top panel/ Side panel: 100 % polyester (100% recycled), Backing: 100 % polypropylene, Bed base frame: Solid pine, Adhesive, Bed slats: Solid pine, Filling: Polyester/viscose (rayon) fiber wadding, Hook and loop fastener: 100 % nylon, Main parts/ Back fabric/ Top panel/ Side panel: 100 % polyester (100% recycled), Main parts/ Base fabric/ Top panel/ Side panel: 100 % polyester (100% recycled), Main parts/ Top panel/ Side panel/ Base fabric: 100 % polyester (100% recycled)
+Brand: IKEA
+
+# @ITEMS
+- LYNGÖR slatted mattress base with legs, white, King: /products/mattress-foundations-and-bases/89574938.txt
+- LYNGÖR slatted mattress base with legs, white, Full: /products/mattress-foundations-and-bases/79574934.txt
+- LYNGÖR slatted mattress base with legs, white, Queen: /products/mattress-foundations-and-bases/79388282.txt
+- LYNGÖR slatted mattress base with legs, white, King: /products/mattress-foundations-and-bases/49388274.txt
+- LYNGÖR slatted mattress base with legs, white, Queen: /products/mattress-foundations-and-bases/29574936.txt
+- LYNGÖR slatted mattress base with legs, white, Twin: /products/mattress-foundations-and-bases/19574932.txt
+- LYNGÖR slatted mattress base with legs, white, Twin: /products/mattress-foundations-and-bases/09388290.txt
+- LYNGÖR slatted mattress base with legs, white, Full: /products/mattress-foundations-and-bases/09388266.txt
+- LYNGÖR slatted mattress base with legs, dark gray, Full: /products/mattress-foundations-and-bases/99574933.txt
+- LYNGÖR slatted mattress base with legs, dark gray, King: /products/mattress-foundations-and-bases/89388272.txt
+- LYNGÖR slatted mattress base with legs, dark gray, Twin: /products/mattress-foundations-and-bases/59574930.txt
+- LYNGÖR slatted mattress base with legs, dark gray, Full: /products/mattress-foundations-and-bases/59388264.txt
+- LYNGÖR slatted mattress base with legs, dark gray, Queen: /products/mattress-foundations-and-bases/49574935.txt
+- LYNGÖR slatted mattress base with legs, dark gray, Twin: /products/mattress-foundations-and-bases/49388288.txt
+- LYNGÖR slatted mattress base with legs, dark gray, Queen: /products/mattress-foundations-and-bases/19388280.txt
+- LYNGÖR slatted mattress base with legs, dark gray, King: /products/mattress-foundations-and-bases/09574937.txt
+- LYNGÖR foundation, Queen: /products/mattress-foundations-and-bases/40488254.txt
+- LYNGÖR foundation, Full: /products/mattress-foundations-and-bases/20488250.txt
+- LYNGÖR foundation, Twin: /products/mattress-foundations-and-bases/10488255.txt
+- LYNGÖR foundation, King: /products/mattress-foundations-and-bases/00488251.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

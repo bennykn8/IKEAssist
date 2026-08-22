@@ -1,0 +1,65 @@
+# @CATEGORY
+Name: Kids bedding & duvet covers
+ProductCount: 43
+
+# @FILTERS
+PriceRange: $8.99 - $34.99
+Materials: 100 % cotton, 50 % cotton, 50 % lyocell, 54 % cotton, 46 % viscose/rayon, 80 % cotton, 20 % viscose/rayon
+Brand: IKEA
+
+# @ITEMS
+- VITAMINER HJÄRTA duvet cover and pillowcase(s), multicolor, Twin: /products/kids-bedding-and-duvet-covers/40163288.txt
+- VÄNKRETS duvet cover and pillowcase(s), dot pattern white/pink, Twin: /products/kids-bedding-and-duvet-covers/90504732.txt
+- VÄNKRETS duvet cover and pillowcase(s), check pattern white/yellow, Twin: /products/kids-bedding-and-duvet-covers/70507944.txt
+- VÄNKRETS duvet cover and pillowcase(s), banana pattern blue, Twin: /products/kids-bedding-and-duvet-covers/70504714.txt
+- SPORTSLIG duvet cover and pillowcase(s), football pattern, Twin: /products/kids-bedding-and-duvet-covers/10491333.txt
+- SKOGSDUVA fitted sheet, white yellow/flower pattern: /products/kids-bedding-and-duvet-covers/50576797.txt
+- SKOGSDUVA duvet cover and pillowcase(s), white green/forest pattern, Twin: /products/kids-bedding-and-duvet-covers/80576809.txt
+- SKOGSDUVA duvet cover and pillowcase(s), multicolor/forest pattern, Twin: /products/kids-bedding-and-duvet-covers/90576861.txt
+- SKOGSDUVA duvet cover and pillowcase(s), blue green/forest pattern, Twin: /products/kids-bedding-and-duvet-covers/30576835.txt
+- NATTSLÄNDA duvet cover and pillowcase(s), floral pattern multicolor, Twin: /products/kids-bedding-and-duvet-covers/90508018.txt
+- NATTSLÄNDA duvet cover and pillowcase(s), floral pattern gray/white, Twin: /products/kids-bedding-and-duvet-covers/00508027.txt
+- NATTHÄGER duvet cover and pillowcase(s), orange/tiger, Twin: /products/kids-bedding-and-duvet-covers/00595307.txt
+- NATTHÄGER duvet cover and pillowcase(s), multicolor/jungle, Twin: /products/kids-bedding-and-duvet-covers/10595298.txt
+- NATTHÄGER duvet cover and pillowcase(s), green/crocodile, Twin: /products/kids-bedding-and-duvet-covers/70595323.txt
+- NATTHÄGER duvet cover and pillowcase(s), black white/zebra, Twin: /products/kids-bedding-and-duvet-covers/30595315.txt
+- MÖJLIGHET duvet cover and pillowcase(s), white/mosaic patterned, Twin: /products/kids-bedding-and-duvet-covers/90423694.txt
+- LEN fitted sheet, white: /products/kids-bedding-and-duvet-covers/60465280.txt
+- LEN fitted sheet, white: /products/kids-bedding-and-duvet-covers/50128614.txt
+- LEN fitted sheet, white: /products/kids-bedding-and-duvet-covers/30465272.txt
+- LEN fitted sheet, pink: /products/kids-bedding-and-duvet-covers/20465300.txt
+- LEN fitted sheet, blue: /products/kids-bedding-and-duvet-covers/70465289.txt
+- LEN fitted sheet, blue: /products/kids-bedding-and-duvet-covers/50465290.txt
+- LATTJO duvet cover and pillowcase(s), animal/multicolor, Twin: /products/kids-bedding-and-duvet-covers/00351012.txt
+- JÄTTELIK duvet cover and pillowcase(s), Dinosaurs/white, Twin: /products/kids-bedding-and-duvet-covers/30464121.txt
+- BUSENKEL duvet cover and pillowcase(s), circus pattern red/white, Twin: /products/kids-bedding-and-duvet-covers/40517831.txt
+- BRUMMIG fitted sheet, acorn pattern/multicolor: /products/kids-bedding-and-duvet-covers/30533252.txt
+- BRUMMIG duvet cover and pillowcase(s), forest animal pattern/multicolor, Twin: /products/kids-bedding-and-duvet-covers/20521160.txt
+- BRUMMIG duvet cover and pillowcase(s), bear pattern yellow/brown, Twin: /products/kids-bedding-and-duvet-covers/30521150.txt
+- BLÅVINGAD duvet cover and pillowcase(s), whale pattern blue/white, Twin: /products/kids-bedding-and-duvet-covers/90521109.txt
+- BLÅVINGAD duvet cover and pillowcase(s), turtle pattern green/white, Twin: /products/kids-bedding-and-duvet-covers/80521100.txt
+- BLÅVINGAD duvet cover and pillowcase(s), penguin pattern/light turquoise, Twin: /products/kids-bedding-and-duvet-covers/90521091.txt
+- BLÅVINGAD duvet cover and pillowcase(s), ocean pattern/blue, Twin: /products/kids-bedding-and-duvet-covers/50521130.txt
+- BLÅVINGAD duvet cover and pillowcase(s), ocean animals pattern/multicolor, Twin: /products/kids-bedding-and-duvet-covers/80521082.txt
+- BLÅSKATA duvet cover and pillowcase(s), purple/black patterned, Twin: /products/kids-bedding-and-duvet-covers/10569510.txt
+- BLÅSKATA duvet cover and pillowcase(s), green/patterned, Twin: /products/kids-bedding-and-duvet-covers/80569502.txt
+- BARNDRÖM duvet cover and pillowcase(s), heart pattern/white red, Twin: /products/kids-bedding-and-duvet-covers/80595879.txt
+- BARNDRÖM duvet cover and pillowcase(s), heart pattern white/pink, Twin: /products/kids-bedding-and-duvet-covers/40504372.txt
+- BARNDRÖM duvet cover and pillowcase(s), forest animal pattern/multicolor, Twin: /products/kids-bedding-and-duvet-covers/40504701.txt
+- BARNDRÖM duvet cover and pillowcase(s), cat pattern/green, Twin: /products/kids-bedding-and-duvet-covers/10504401.txt
+- BARNDRÖM duvet cover and pillowcase(s), car pattern/blue, Twin: /products/kids-bedding-and-duvet-covers/90504384.txt
+- AFTONSPARV duvet cover and pillowcase(s), space white/black, Twin: /products/kids-bedding-and-duvet-covers/90554034.txt
+- AFTONSPARV duvet cover and pillowcase(s), space/multicolor, Twin: /products/kids-bedding-and-duvet-covers/90554053.txt
+- AFTONSPARV duvet cover and pillowcase(s), space/blue, Twin: /products/kids-bedding-and-duvet-covers/80554044.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

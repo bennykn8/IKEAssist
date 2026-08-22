@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FEJKA artificial potted plant, indoor/outdoor Bird of paradise, 7 ½"
+SKU: 50593235
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/fejka-artificial-potted-plant-indoor-outdoor-bird-of-paradise-50593235/
+Category: Artificial indoor trees & faux floor plants
+Description: With this tall artificial potted plant, made of at least 50% recycled plastic, you can enjoy lush greenery all year round. Adorns its place both outside and inside − at home, at work or in your restau...
+
+# @OFFER
+Price: 39.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Flower: 100 % polyester (100% recycled), Polyethylene plastic (min. 50% recycled), Leaf: Polyethylene plastic (min. 50% recycled), Polyethylene plastic (min. 50% recycled), EVA plastic, Stem: Polyethylene plastic (min. 70% recycled), Steel
+Features: Suitable for indoor and outdoor use.
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/fejka-artificial-potted-plant-indoor-outdoor-bird-of-paradise__1327204_pe944386_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,32 @@
+# @CATEGORY
+Name: Conference table & chair sets
+ProductCount: 10
+
+# @FILTERS
+PriceRange: $599.95 - $1594.95
+Materials: Leg/ Midbeam/ Bracket/ Hook: Steel, Epoxy/polyester powder coating, Leg/ Midbeam/ Bracket: Steel, Epoxy/polyester powder coating, Particleboard, Melamine foil, Plastic edging, Plastic parts: Polypropylene
+Brand: IKEA
+
+# @ITEMS
+- TROTTEN / TOSSBERG conference table and chairs, white/dark gray: /products/conference-table-and-chair-sets/59552711.txt
+- TROTTEN / TOSSBERG conference table and chairs, beige/white: /products/conference-table-and-chair-sets/59552669.txt
+- TROTTEN / LÅNGFJÄLL conference table and chairs, white/green-gray: /products/conference-table-and-chair-sets/19552647.txt
+- TROTTEN / LÅNGFJÄLL conference table and chairs, beige white/red-orange: /products/conference-table-and-chair-sets/89552644.txt
+- TROTTEN / LÅNGFJÄLL conference table and chairs, beige white/dark gray: /products/conference-table-and-chair-sets/49552641.txt
+- TROTTEN / LÄKTARE conference table and chairs, white/light green: /products/conference-table-and-chair-sets/89552540.txt
+- TROTTEN / LÄKTARE conference table and chairs, beige white/red: /products/conference-table-and-chair-sets/09552558.txt
+- TROTTEN / LÄKTARE conference table and chairs, beige white/medium gray: /products/conference-table-and-chair-sets/99552554.txt
+- TROTTEN / LÄKTARE conference table and chairs, beige anthracite/red: /products/conference-table-and-chair-sets/49552556.txt
+- TROTTEN / LÄKTARE conference table and chairs, beige anthracite/medium gray: /products/conference-table-and-chair-sets/39552547.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

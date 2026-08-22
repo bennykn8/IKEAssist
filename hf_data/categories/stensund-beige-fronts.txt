@@ -1,0 +1,54 @@
+# @CATEGORY
+Name: STENSUND beige fronts
+ProductCount: 32
+
+# @FILTERS
+PriceRange: $28.00 - $145.00
+Materials: Fiberboard, Acrylic paint, Polyester paint, Fiberboard, Polyester paint, Acrylic paint, Frame: Fiberboard, Acrylic paint, Polyester paint, Glass: Tempered glass
+Brand: IKEA
+
+# @ITEMS
+- STENSUND glass door, beige: /products/stensund-beige-fronts/90453327.txt
+- STENSUND glass door, beige: /products/stensund-beige-fronts/60494145.txt
+- STENSUND glass door, beige: /products/stensund-beige-fronts/60453324.txt
+- STENSUND glass door, beige: /products/stensund-beige-fronts/50453329.txt
+- STENSUND glass door, beige: /products/stensund-beige-fronts/30453325.txt
+- STENSUND drawer front, beige: /products/stensund-beige-fronts/80453323.txt
+- STENSUND drawer front, beige: /products/stensund-beige-fronts/60453319.txt
+- STENSUND drawer front, beige: /products/stensund-beige-fronts/60453300.txt
+- STENSUND drawer front, beige: /products/stensund-beige-fronts/50453305.txt
+- STENSUND drawer front, beige: /products/stensund-beige-fronts/40453315.txt
+- STENSUND drawer front, beige: /products/stensund-beige-fronts/40453301.txt
+- STENSUND drawer front, beige: /products/stensund-beige-fronts/40453297.txt
+- STENSUND drawer front, beige: /products/stensund-beige-fronts/30453293.txt
+- STENSUND drawer front, beige: /products/stensund-beige-fronts/30453288.txt
+- STENSUND drawer front, beige: /products/stensund-beige-fronts/20453298.txt
+- STENSUND drawer front, beige: /products/stensund-beige-fronts/10453312.txt
+- STENSUND drawer front, beige: /products/stensund-beige-fronts/10453289.txt
+- STENSUND drawer front, beige: /products/stensund-beige-fronts/00453317.txt
+- STENSUND door, beige: /products/stensund-beige-fronts/90453285.txt
+- STENSUND door, beige: /products/stensund-beige-fronts/90453271.txt
+- STENSUND door, beige: /products/stensund-beige-fronts/90453266.txt
+- STENSUND door, beige: /products/stensund-beige-fronts/80453281.txt
+- STENSUND door, beige: /products/stensund-beige-fronts/80453276.txt
+- STENSUND door, beige: /products/stensund-beige-fronts/70453286.txt
+- STENSUND door, beige: /products/stensund-beige-fronts/70453272.txt
+- STENSUND door, beige: /products/stensund-beige-fronts/60453277.txt
+- STENSUND door, beige: /products/stensund-beige-fronts/20453284.txt
+- STENSUND door, beige: /products/stensund-beige-fronts/20453279.txt
+- STENSUND door, beige: /products/stensund-beige-fronts/10453270.txt
+- STENSUND door, beige: /products/stensund-beige-fronts/10453265.txt
+- STENSUND door, beige: /products/stensund-beige-fronts/00453280.txt
+- STENSUND 2-p door/corner base cabinet set, beige: /products/stensund-beige-fronts/50453287.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

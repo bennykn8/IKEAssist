@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SKOGSDUVA towel with hood, lynx shaped/brown
+SKU: 20573941
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/skogsduva-towel-with-hood-lynx-shaped-brown-20573941/
+Category: Baby towels & washcloths
+Description: , 28x55" This large towel with a hood transforms your newly bathed child into a lively lynx with both whiskers and ear tufts. Woven from warming cotton terry that feels wonderfully soft against the sk...
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % cotton
+Dimensions: If there are loops/threads pulled and protruding higher than other ones due to wear, you can use a sharp pair of scissors and cut them down in height.
+Care: Shrinkage maximum 6%. | Machine wash warm (max 140°F/60°C) normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/skogsduva-towel-with-hood-lynx-shaped-brown__1294246_pe935384_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

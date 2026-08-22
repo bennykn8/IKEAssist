@@ -1,0 +1,57 @@
+# @CATEGORY
+Name: Mix & match food containers & lids
+ProductCount: 35
+
+# @FILTERS
+PriceRange: $0.49 - $9.99
+Materials: Heat resistant glass, Lid: Bamboo, Clear acrylic lacquer, Lid: Glass, Lid: Polypropylene, Polypropylene, Seal: Silicone rubber, Silicone rubber, Stainless steel, Steel, Polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- IKEA 365+ lid, square/silicone: /products/mix-and-match-food-containers-and-lids/50577952.txt
+- IKEA 365+ lid, square/plastic: /products/mix-and-match-food-containers-and-lids/70577951.txt
+- IKEA 365+ lid, square/bamboo: /products/mix-and-match-food-containers-and-lids/10577949.txt
+- IKEA 365+ lid, round/silicone: /products/mix-and-match-food-containers-and-lids/30577948.txt
+- IKEA 365+ lid, round/plastic: /products/mix-and-match-food-containers-and-lids/50577947.txt
+- IKEA 365+ lid, round/glass: /products/mix-and-match-food-containers-and-lids/70577946.txt
+- IKEA 365+ lid, round/bamboo: /products/mix-and-match-food-containers-and-lids/90577945.txt
+- IKEA 365+ lid, rectangular/silicone: /products/mix-and-match-food-containers-and-lids/20577944.txt
+- IKEA 365+ lid, rectangular/plastic: /products/mix-and-match-food-containers-and-lids/40577943.txt
+- IKEA 365+ lid, rectangular/bamboo: /products/mix-and-match-food-containers-and-lids/60577942.txt
+- IKEA 365+ lid, large rectangular/plastic: /products/mix-and-match-food-containers-and-lids/00577935.txt
+- IKEA 365+ food storage basket, metal/yellow green: /products/mix-and-match-food-containers-and-lids/20601331.txt
+- IKEA 365+ food storage basket, metal/white: /products/mix-and-match-food-containers-and-lids/50595908.txt
+- IKEA 365+ food storage basket, metal/white: /products/mix-and-match-food-containers-and-lids/10595905.txt
+- IKEA 365+ food storage basket, metal/light gray-brown: /products/mix-and-match-food-containers-and-lids/90599650.txt
+- IKEA 365+ food storage basket, metal/light gray-brown: /products/mix-and-match-food-containers-and-lids/30599648.txt
+- IKEA 365+ food container, square/stainless steel, 20 oz: /products/mix-and-match-food-containers-and-lids/20580324.txt
+- IKEA 365+ food container, square/plastic, 47 oz: /products/mix-and-match-food-containers-and-lids/90359179.txt
+- IKEA 365+ food container, square/plastic, 25 oz: /products/mix-and-match-food-containers-and-lids/50359176.txt
+- IKEA 365+ food container, square/glass, 41 oz: /products/mix-and-match-food-containers-and-lids/40359209.txt
+- IKEA 365+ food container, square/glass, 20 oz: /products/mix-and-match-food-containers-and-lids/00359206.txt
+- IKEA 365+ food container, round/plastic, 15 oz: /products/mix-and-match-food-containers-and-lids/70359142.txt
+- IKEA 365+ food container, round/plastic, 25 oz: /products/mix-and-match-food-containers-and-lids/00359145.txt
+- IKEA 365+ food container, round/glass, 14 oz: /products/mix-and-match-food-containers-and-lids/50359195.txt
+- IKEA 365+ food container, round/glass, 20 oz: /products/mix-and-match-food-containers-and-lids/30359196.txt
+- IKEA 365+ food container, rectangular/stainless steel, 34 oz: /products/mix-and-match-food-containers-and-lids/80577941.txt
+- IKEA 365+ food container, rectangular/plastic, 4 qt: /products/mix-and-match-food-containers-and-lids/60393066.txt
+- IKEA 365+ food container, rectangular/plastic, 68 oz: /products/mix-and-match-food-containers-and-lids/60359152.txt
+- IKEA 365+ food container, rectangular/plastic, 34 oz: /products/mix-and-match-food-containers-and-lids/40359148.txt
+- IKEA 365+ food container, rectangular/glass, 61 oz: /products/mix-and-match-food-containers-and-lids/70359203.txt
+- IKEA 365+ food container, rectangular/glass, 34 oz: /products/mix-and-match-food-containers-and-lids/70359199.txt
+- IKEA 365+ food container, large rectangular/stainless steel, 101 oz: /products/mix-and-match-food-containers-and-lids/60580317.txt
+- IKEA 365+ food container, large rectangular/plastic, 5 qt: /products/mix-and-match-food-containers-and-lids/80393065.txt
+- IKEA 365+ food container, large rectangular/plastic, 11 qt: /products/mix-and-match-food-containers-and-lids/10393064.txt
+- IKEA 365+ food container, large rectangular/glass, 3 qt: /products/mix-and-match-food-containers-and-lids/80393131.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

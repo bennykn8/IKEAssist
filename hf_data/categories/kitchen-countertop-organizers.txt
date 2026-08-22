@@ -1,0 +1,28 @@
+# @CATEGORY
+Name: Kitchen countertop organizers
+ProductCount: 6
+
+# @FILTERS
+PriceRange: $2.99 - $39.99
+Materials: Compressed pigmented bamboo particles, Clear polyurethane/acrylic lacquer, Solid pine, Adhesive, Oil, Steel, Epoxy/polyester powder coating, Stoneware, Colored glaze, Thread: 100 % polyester, Tray: Bamboo, Clear acrylic lacquer, Tube: Steel, Powder coating, Upper body: Bamboo, Rattan, Clear acrylic lacquer
+Brand: IKEA
+
+# @ITEMS
+- NÅLBLECKA kitchen countertop organizer, metal/bamboo: /products/kitchen-countertop-organizers/10564616.txt
+- KANELMOTT vegetable/fruit basket, set of 2, bamboo: /products/kitchen-countertop-organizers/00581800.txt
+- HUNDHAJ spice rack, green, 7 ¾": /products/kitchen-countertop-organizers/70601692.txt
+- FINMALD glass rack: /products/kitchen-countertop-organizers/20406155.txt
+- CHOKLADHAJ portable organizer, wood, 4 ¾x4 ¼": /products/kitchen-countertop-organizers/10584351.txt
+- BRUGDHAJ utensil holder, beige: /products/kitchen-countertop-organizers/90596171.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

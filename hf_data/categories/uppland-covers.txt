@@ -1,0 +1,88 @@
+# @CATEGORY
+Name: UPPLAND covers
+ProductCount: 66
+
+# @FILTERS
+PriceRange: $35.00 - $287.00
+Materials: 100 % cotton, Back fabric/ Fabric: 100 % polyester (100% recycled), Back fabric: 100 % polyester (100% recycled), Cord: 100 % polyester, Fabric/ Back fabric: 100 % polyester (100% recycled), Fabric: 100 % cotton, Fabric: 100% polyester (min. 90% recycled), Fabric: 55 % cotton, 25 % polyester (100% recycled), 12 % viscose/rayon, 8 % linen
+Brand: IKEA
+
+# @ITEMS
+- UPPLAND cover for sofa, with chaise/Blekinge white: /products/uppland-covers/70487639.txt
+- UPPLAND cover for sofa, Kilanda light beige: /products/uppland-covers/80529851.txt
+- UPPLAND cover for sofa, Kilanda dark blue: /products/uppland-covers/30529919.txt
+- UPPLAND cover for sofa, Kelinge rust: /products/uppland-covers/80557863.txt
+- UPPLAND cover for sofa, Kelinge gray-turquoise: /products/uppland-covers/00557862.txt
+- UPPLAND cover for sofa, Kelinge beige: /products/uppland-covers/20557861.txt
+- UPPLAND cover for sofa, Kelinge anthracite: /products/uppland-covers/40557860.txt
+- UPPLAND cover for sofa, Karlshov beige/multicolor: /products/uppland-covers/20547075.txt
+- UPPLAND cover for sofa, Hillared dark blue: /products/uppland-covers/60557859.txt
+- UPPLAND cover for sofa, Hillared beige: /products/uppland-covers/80557858.txt
+- UPPLAND cover for sofa, Hillared anthracite: /products/uppland-covers/00557857.txt
+- UPPLAND cover for sofa, Hakebo gray-green: /products/uppland-covers/50529937.txt
+- UPPLAND cover for sofa, Hakebo dark gray: /products/uppland-covers/00529925.txt
+- UPPLAND cover for sofa, Blekinge white: /products/uppland-covers/50487635.txt
+- UPPLAND cover for sectional, 4-seat, Kilanda light beige: /products/uppland-covers/40529834.txt
+- UPPLAND cover for sectional, 4-seat, Kilanda dark blue: /products/uppland-covers/10529864.txt
+- UPPLAND cover for sectional, 4-seat, Kelinge rust: /products/uppland-covers/70560248.txt
+- UPPLAND cover for sectional, 4-seat, Kelinge gray-turquoise: /products/uppland-covers/90560247.txt
+- UPPLAND cover for sectional, 4-seat, Kelinge beige: /products/uppland-covers/10560246.txt
+- UPPLAND cover for sectional, 4-seat, Kelinge anthracite: /products/uppland-covers/00560237.txt
+- UPPLAND cover for sectional, 4-seat, Karlshov beige/multicolor: /products/uppland-covers/30547065.txt
+- UPPLAND cover for sectional, 4-seat, Hillared dark blue: /products/uppland-covers/40560235.txt
+- UPPLAND cover for sectional, 4-seat, Hillared beige: /products/uppland-covers/70560234.txt
+- UPPLAND cover for sectional, 4-seat, Hillared anthracite: /products/uppland-covers/90560233.txt
+- UPPLAND cover for sectional, 4-seat, Hakebo gray-green: /products/uppland-covers/50529876.txt
+- UPPLAND cover for sectional, 4-seat, Hakebo dark gray: /products/uppland-covers/80529870.txt
+- UPPLAND cover for sectional, 4-seat, Blekinge white: /products/uppland-covers/80487629.txt
+- UPPLAND cover for ottoman with storage, Blekinge white: /products/uppland-covers/10487637.txt
+- UPPLAND cover for loveseat, Kilanda light beige: /products/uppland-covers/80529846.txt
+- UPPLAND cover for loveseat, Kilanda dark blue: /products/uppland-covers/10529901.txt
+- UPPLAND cover for loveseat, Kelinge rust: /products/uppland-covers/20557856.txt
+- UPPLAND cover for loveseat, Kelinge gray-turquoise: /products/uppland-covers/40557855.txt
+- UPPLAND cover for loveseat, Kelinge beige: /products/uppland-covers/70557854.txt
+- UPPLAND cover for loveseat, Kelinge anthracite: /products/uppland-covers/90557853.txt
+- UPPLAND cover for loveseat, Karlshov beige/multicolor: /products/uppland-covers/50547069.txt
+- UPPLAND cover for loveseat, Hillared dark blue: /products/uppland-covers/10557852.txt
+- UPPLAND cover for loveseat, Hillared beige: /products/uppland-covers/30557851.txt
+- UPPLAND cover for loveseat, Hillared anthracite: /products/uppland-covers/50557850.txt
+- UPPLAND cover for loveseat, Hakebo gray-green: /products/uppland-covers/60529913.txt
+- UPPLAND cover for loveseat, Hakebo dark gray: /products/uppland-covers/80529907.txt
+- UPPLAND cover for loveseat, Blekinge white: /products/uppland-covers/00487633.txt
+- UPPLAND cover for armchair, Kilanda light beige: /products/uppland-covers/80584121.txt
+- UPPLAND cover for armchair, Kilanda dark blue: /products/uppland-covers/60584122.txt
+- UPPLAND cover for armchair, Kelinge rust: /products/uppland-covers/30584519.txt
+- UPPLAND cover for armchair, Kelinge gray-turquoise: /products/uppland-covers/90584516.txt
+- UPPLAND cover for armchair, Kelinge beige: /products/uppland-covers/50584518.txt
+- UPPLAND cover for armchair, Kelinge anthracite: /products/uppland-covers/70584517.txt
+- UPPLAND cover for armchair, Karlshov beige/multicolor: /products/uppland-covers/20584119.txt
+- UPPLAND cover for armchair, Hillared dark blue: /products/uppland-covers/10584520.txt
+- UPPLAND cover for armchair, Hillared beige: /products/uppland-covers/40584514.txt
+- UPPLAND cover for armchair, Hillared anthracite: /products/uppland-covers/10584515.txt
+- UPPLAND cover for armchair, Hakebo gray-green: /products/uppland-covers/30584072.txt
+- UPPLAND cover for armchair, Hakebo dark gray: /products/uppland-covers/20584058.txt
+- UPPLAND cover for armchair, Blekinge white: /products/uppland-covers/40487631.txt
+- UPPLAND cover f 3-seat sofa w chaise lounge, Kilanda light beige: /products/uppland-covers/30529858.txt
+- UPPLAND cover f 3-seat sofa w chaise lounge, Kilanda dark blue: /products/uppland-covers/10530042.txt
+- UPPLAND cover f 3-seat sofa w chaise lounge, Kelinge rust: /products/uppland-covers/70557849.txt
+- UPPLAND cover f 3-seat sofa w chaise lounge, Kelinge gray-turquoise: /products/uppland-covers/90557848.txt
+- UPPLAND cover f 3-seat sofa w chaise lounge, Kelinge beige: /products/uppland-covers/10557847.txt
+- UPPLAND cover f 3-seat sofa w chaise lounge, Kelinge anthracite: /products/uppland-covers/30557846.txt
+- UPPLAND cover f 3-seat sofa w chaise lounge, Karlshov beige/multicolor: /products/uppland-covers/00547081.txt
+- UPPLAND cover f 3-seat sofa w chaise lounge, Hillared dark blue: /products/uppland-covers/50557845.txt
+- UPPLAND cover f 3-seat sofa w chaise lounge, Hillared beige: /products/uppland-covers/80557844.txt
+- UPPLAND cover f 3-seat sofa w chaise lounge, Hillared anthracite: /products/uppland-covers/00557843.txt
+- UPPLAND cover f 3-seat sofa w chaise lounge, Hakebo gray-green: /products/uppland-covers/30530055.txt
+- UPPLAND cover f 3-seat sofa w chaise lounge, Hakebo dark gray: /products/uppland-covers/60530049.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: LÄTTBAKAD dough cutter
+SKU: 60578135
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/laettbakad-dough-cutter-60578135/
+Category: Baking tools & gadgets
+Description: If the loaves should finish baking at the same time, it’s good if they’re the same size. This is where a dough cutter comes into the picture. Use it to easily divide dough into equal pieces on the wor...
+
+# @OFFER
+Price: 5.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Shaft: Acetal plastic, Rivet/ Blade: Stainless steel
+Care: Dishwasher-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/laettbakad-dough-cutter__0956451_pe804674_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

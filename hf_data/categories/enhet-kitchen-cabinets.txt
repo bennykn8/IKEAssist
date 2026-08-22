@@ -1,0 +1,101 @@
+# @CATEGORY
+Name: ENHET kitchen cabinets
+ProductCount: 79
+
+# @FILTERS
+PriceRange: $58.00 - $215.00
+Materials: Back panel: Fiberboard, Plastic foil, Back rail/ Top rail: Particleboard, Plastic foil, Plastic edging, Back rail: Particleboard, Plastic foil, Plastic edging, Bottom panel/ Back rail/ Filling: Particleboard, Plastic foil, Plastic edging, Bottom panel/ Back rail: Particleboard, Plastic foil, Plastic edging, Drawer: Steel, Epoxy/polyester powder coating, Fiberboard, Plastic foil, Main parts: Particleboard, Particleboard, Plastic foil, Plastic edging, Rail/ Tubes: Steel, Powder coating
+Brand: IKEA
+
+# @ITEMS
+- ENHET wall fr w shelves, white: /products/enhet-kitchen-cabinets/70514459.txt
+- ENHET wall fr w shelves, white: /products/enhet-kitchen-cabinets/00522274.txt
+- ENHET wall fr w shelves, anthracite: /products/enhet-kitchen-cabinets/90514458.txt
+- ENHET wall fr w shelves, anthracite: /products/enhet-kitchen-cabinets/20522273.txt
+- ENHET wall cb w 2 shlvs/doors, white/white frame: /products/enhet-kitchen-cabinets/59431719.txt
+- ENHET wall cb w 2 shlvs/doors, white: /products/enhet-kitchen-cabinets/19431716.txt
+- ENHET wall cb w 2 shlvs/doors, white/oak effect: /products/enhet-kitchen-cabinets/79431718.txt
+- ENHET wall cb w 2 shlvs/doors, white/gray frame: /products/enhet-kitchen-cabinets/99431717.txt
+- ENHET wall cb w 2 shlvs/door, white/white frame: /products/enhet-kitchen-cabinets/39431715.txt
+- ENHET wall cb w 2 shlvs/door, white/white frame: /products/enhet-kitchen-cabinets/29431711.txt
+- ENHET wall cb w 2 shlvs/door, white: /products/enhet-kitchen-cabinets/89431708.txt
+- ENHET wall cb w 2 shlvs/door, white: /products/enhet-kitchen-cabinets/09431712.txt
+- ENHET wall cb w 2 shlvs/door, white/oak effect: /products/enhet-kitchen-cabinets/69431714.txt
+- ENHET wall cb w 2 shlvs/door, white/oak effect: /products/enhet-kitchen-cabinets/49431710.txt
+- ENHET wall cb w 2 shlvs/door, white/gray frame: /products/enhet-kitchen-cabinets/89431713.txt
+- ENHET wall cb w 2 shlvs/door, white/gray frame: /products/enhet-kitchen-cabinets/69431709.txt
+- ENHET Wall cabinet with 2 shelves, white: /products/enhet-kitchen-cabinets/90514439.txt
+- ENHET Wall cabinet with 2 shelves, white: /products/enhet-kitchen-cabinets/50514441.txt
+- ENHET Wall cabinet with 2 shelves, white: /products/enhet-kitchen-cabinets/30514442.txt
+- ENHET wall cabinet with doors, white/white frame: /products/enhet-kitchen-cabinets/99431703.txt
+- ENHET wall cabinet with doors, white/white frame: /products/enhet-kitchen-cabinets/09431707.txt
+- ENHET wall cabinet with doors, white: /products/enhet-kitchen-cabinets/79431704.txt
+- ENHET wall cabinet with doors, white: /products/enhet-kitchen-cabinets/59431700.txt
+- ENHET wall cabinet with doors, white/oak effect: /products/enhet-kitchen-cabinets/29431706.txt
+- ENHET wall cabinet with doors, white/oak effect: /products/enhet-kitchen-cabinets/19431702.txt
+- ENHET wall cabinet with doors, white/gray frame: /products/enhet-kitchen-cabinets/49431705.txt
+- ENHET wall cabinet with doors, white/gray frame: /products/enhet-kitchen-cabinets/39431701.txt
+- ENHET wall cabinet, white: /products/enhet-kitchen-cabinets/80514487.txt
+- ENHET wall cabinet, white: /products/enhet-kitchen-cabinets/00514486.txt
+- ENHET high fr w shelves, white: /products/enhet-kitchen-cabinets/90514482.txt
+- ENHET high fr w shelves, anthracite: /products/enhet-kitchen-cabinets/30514461.txt
+- ENHET corner base cabinet with shelf, white: /products/enhet-kitchen-cabinets/00519318.txt
+- ENHET corner base cabinet with shelf/door, white/white frame: /products/enhet-kitchen-cabinets/99431699.txt
+- ENHET corner base cabinet with shelf/door, white/white frame: /products/enhet-kitchen-cabinets/79431695.txt
+- ENHET corner base cabinet with shelf/door, white: /products/enhet-kitchen-cabinets/59431696.txt
+- ENHET corner base cabinet with shelf/door, white: /products/enhet-kitchen-cabinets/49431692.txt
+- ENHET corner base cabinet with shelf/door, white/oak effect: /products/enhet-kitchen-cabinets/19431698.txt
+- ENHET corner base cabinet with shelf/door, white/oak effect: /products/enhet-kitchen-cabinets/09431694.txt
+- ENHET corner base cabinet with shelf/door, white/gray frame: /products/enhet-kitchen-cabinets/39431697.txt
+- ENHET corner base cabinet with shelf/door, white/gray frame: /products/enhet-kitchen-cabinets/29431693.txt
+- ENHET bc w shlf/doors, white/white frame: /products/enhet-kitchen-cabinets/69431691.txt
+- ENHET bc w shlf/doors, white: /products/enhet-kitchen-cabinets/29431688.txt
+- ENHET bc w shlf/doors, white/oak effect: /products/enhet-kitchen-cabinets/89431690.txt
+- ENHET bc w shlf/doors, white/gray frame: /products/enhet-kitchen-cabinets/09431689.txt
+- ENHET bc w shlf/door, white/white frame: /products/enhet-kitchen-cabinets/49431687.txt
+- ENHET bc w shlf/door, white/white frame: /products/enhet-kitchen-cabinets/39431683.txt
+- ENHET bc w shlf/door, white: /products/enhet-kitchen-cabinets/99431680.txt
+- ENHET bc w shlf/door, white: /products/enhet-kitchen-cabinets/19431684.txt
+- ENHET bc w shlf/door, white/oak effect: /products/enhet-kitchen-cabinets/69431686.txt
+- ENHET bc w shlf/door, white/oak effect: /products/enhet-kitchen-cabinets/59431682.txt
+- ENHET bc w shlf/door, white/gray frame: /products/enhet-kitchen-cabinets/89431685.txt
+- ENHET bc w shlf/door, white/gray frame: /products/enhet-kitchen-cabinets/79431681.txt
+- ENHET base fr w shelves, white: /products/enhet-kitchen-cabinets/80514454.txt
+- ENHET base fr w shelves, white: /products/enhet-kitchen-cabinets/20514452.txt
+- ENHET base fr w shelves, anthracite: /products/enhet-kitchen-cabinets/50514455.txt
+- ENHET base fr w shelves, anthracite: /products/enhet-kitchen-cabinets/00514453.txt
+- ENHET Base cabinet with shelf , white: /products/enhet-kitchen-cabinets/60514431.txt
+- ENHET Base cabinet with shelf , white: /products/enhet-kitchen-cabinets/40514432.txt
+- ENHET Base cabinet with shelf , white: /products/enhet-kitchen-cabinets/20514433.txt
+- ENHET Base cabinet with 3 drawers , white: /products/enhet-kitchen-cabinets/70514435.txt
+- ENHET Base cabinet with 3 drawers , white: /products/enhet-kitchen-cabinets/30514437.txt
+- ENHET Base cabinet with 3 drawers , white: /products/enhet-kitchen-cabinets/00514434.txt
+- ENHET Base cabinet for sink , white: /products/enhet-kitchen-cabinets/10514438.txt
+- ENHET base cabinet with 3 drawers, white/white frame: /products/enhet-kitchen-cabinets/89431652.txt
+- ENHET base cabinet with 3 drawers, white/white frame: /products/enhet-kitchen-cabinets/39431659.txt
+- ENHET base cabinet with 3 drawers, white/white frame: /products/enhet-kitchen-cabinets/19431679.txt
+- ENHET base cabinet with 3 drawers, white: /products/enhet-kitchen-cabinets/99431656.txt
+- ENHET base cabinet with 3 drawers, white: /products/enhet-kitchen-cabinets/79431676.txt
+- ENHET base cabinet with 3 drawers, white: /products/enhet-kitchen-cabinets/19431655.txt
+- ENHET base cabinet with 3 drawers, white/oak effect: /products/enhet-kitchen-cabinets/69431653.txt
+- ENHET base cabinet with 3 drawers, white/oak effect: /products/enhet-kitchen-cabinets/59431658.txt
+- ENHET base cabinet with 3 drawers, white/oak effect: /products/enhet-kitchen-cabinets/39431678.txt
+- ENHET base cabinet with 3 drawers, white/gray frame: /products/enhet-kitchen-cabinets/79431657.txt
+- ENHET base cabinet with 3 drawers, white/gray frame: /products/enhet-kitchen-cabinets/59431677.txt
+- ENHET base cabinet with 3 drawers, white/gray frame: /products/enhet-kitchen-cabinets/49431654.txt
+- ENHET base cabinet for sink w doors, white/white frame: /products/enhet-kitchen-cabinets/29431650.txt
+- ENHET base cabinet for sink w doors, white: /products/enhet-kitchen-cabinets/69431648.txt
+- ENHET base cabinet for sink w doors, white/oak effect: /products/enhet-kitchen-cabinets/09431651.txt
+- ENHET base cabinet for sink w doors, white/gray frame: /products/enhet-kitchen-cabinets/49431649.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

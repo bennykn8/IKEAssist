@@ -1,0 +1,43 @@
+# @CATEGORY
+Name: Bathroom faucets & sink taps
+ProductCount: 21
+
+# @FILTERS
+PriceRange: $9.99 - $200.00
+Materials: ABS plastic, Body: Brass, Metallized, Body: Zinc, Chrome plated, Connector: Synthetic rubber, Polypropylene, Handle: ABS plastic, Handle: Zinc, Chrome plated, Handle: Zinc, Metallized, Inner body: Brass, Inner body: Reinforced polyamide, Nozzle: Acetal plastic, Synthetic rubber, Ceramic material
+Brand: IKEA
+
+# @ITEMS
+- VOXNAN bath faucet, tall, chrome plated: /products/bathroom-faucets-and-sink-taps/60533255.txt
+- VOXNAN bath faucet, chrome plated: /products/bathroom-faucets-and-sink-taps/70533274.txt
+- SALJEN bath faucet, black: /products/bathroom-faucets-and-sink-taps/20400323.txt
+- RUNSKÄR faucet, chrome plated: /products/bathroom-faucets-and-sink-taps/30533153.txt
+- PILKÅN bath faucet, chrome plated: /products/bathroom-faucets-and-sink-taps/20532861.txt
+- MACKSJÖN widespread sink faucet, chrome plated: /products/bathroom-faucets-and-sink-taps/50601363.txt
+- MACKSJÖN widespread sink faucet, brushed nickel: /products/bathroom-faucets-and-sink-taps/00604439.txt
+- MACKSJÖN widespread sink faucet, black: /products/bathroom-faucets-and-sink-taps/30601364.txt
+- MACKSJÖN centerset sink faucet, chrome plated: /products/bathroom-faucets-and-sink-taps/00600832.txt
+- MACKSJÖN centerset sink faucet, brushed nickel: /products/bathroom-faucets-and-sink-taps/60604422.txt
+- MACKSJÖN centerset sink faucet, brass color: /products/bathroom-faucets-and-sink-taps/70601362.txt
+- MACKSJÖN centerset sink faucet, black: /products/bathroom-faucets-and-sink-taps/90601361.txt
+- HAMNSKÄR bath faucet, chrome plated: /products/bathroom-faucets-and-sink-taps/80532716.txt
+- GLYPEN Bath faucet, chrome plated: /products/bathroom-faucets-and-sink-taps/10457193.txt
+- ENSEN bath faucet, chrome plated: /products/bathroom-faucets-and-sink-taps/30532549.txt
+- DALSKÄR bath faucet, stainless steel color: /products/bathroom-faucets-and-sink-taps/50532534.txt
+- DALSKÄR bath faucet, chrome plated: /products/bathroom-faucets-and-sink-taps/90532527.txt
+- BROGRUND sink faucet with sensor, chrome plated: /products/bathroom-faucets-and-sink-taps/80423350.txt
+- BROGRUND bath faucet, tall, chrome plated: /products/bathroom-faucets-and-sink-taps/00532094.txt
+- BROGRUND bath faucet, chrome plated: /products/bathroom-faucets-and-sink-taps/20532111.txt
+- ÅBÄCKEN mist nozzle for faucet: /products/bathroom-faucets-and-sink-taps/90423825.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

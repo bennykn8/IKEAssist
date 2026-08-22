@@ -1,0 +1,28 @@
+# @CATEGORY
+Name: NOGSTA stainless steel fronts
+ProductCount: 6
+
+# @FILTERS
+PriceRange: $31.00 - $56.00
+Materials: Frontside: Stainless steel, Main parts: Particleboard, Melamine foil, Plastic edging
+Brand: IKEA
+
+# @ITEMS
+- NOGSTA drawer front, stainless steel: /products/nogsta-stainless-steel-fronts/90531599.txt
+- NOGSTA drawer front, stainless steel: /products/nogsta-stainless-steel-fronts/50531600.txt
+- NOGSTA drawer front, stainless steel: /products/nogsta-stainless-steel-fronts/50531596.txt
+- NOGSTA drawer front, stainless steel: /products/nogsta-stainless-steel-fronts/30531601.txt
+- NOGSTA drawer front, stainless steel: /products/nogsta-stainless-steel-fronts/30531597.txt
+- NOGSTA drawer front, stainless steel: /products/nogsta-stainless-steel-fronts/10531598.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

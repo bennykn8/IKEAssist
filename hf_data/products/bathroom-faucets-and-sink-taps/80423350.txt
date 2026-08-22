@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: BROGRUND sink faucet with sensor, chrome plated
+SKU: 80423350
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/brogrund-sink-faucet-with-sensor-chrome-plated-80423350/
+Category: Bathroom faucets & sink taps
+Description: Like magic, the water turns on at the slightest hand movement in front of the tap, at a pre-set temperature. A clean and simple design that is hygienic too, since you don’t need to touch the tap.
+
+# @OFFER
+Price: 200
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Body: Zinc, Chrome plated, Inner body: Brass
+Dimensions: Connection hoses with 9/16" x 24UNEF connection included. Connection length: 23".
+Features: A tool is included that makes it easy to install the faucet in place. | Water and energy saving aerator (4.5 l/min, 1.2 gpm) for high-pressure systems included. | 4 batteries (LR6 AA 1.5V) included.
+Care: Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary. | Never use scouring powder, steel wool or a detergent that is calcium-dissolving, sour or contains alcohol or an abrasive.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/brogrund-sink-faucet-with-sensor-chrome-plated__0784223_pe761685_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

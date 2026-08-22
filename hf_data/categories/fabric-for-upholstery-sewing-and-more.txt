@@ -1,0 +1,41 @@
+# @CATEGORY
+Name: Fabric: for upholstery, sewing & more
+ProductCount: 19
+
+# @FILTERS
+PriceRange: $9.99 - $19.99
+Materials: 100 % cotton, 72 % cotton, 28 % polyester (100% recycled)
+Brand: IKEA
+
+# @ITEMS
+- VITFRYLE pre-cut fabric, beige: /products/fabric-for-upholstery-sewing-and-more/80579836.txt
+- VARGTÖREL pre-cut fabric, black/white: /products/fabric-for-upholstery-sewing-and-more/20579820.txt
+- ULLRANUNKEL pre-cut fabric, green: /products/fabric-for-upholstery-sewing-and-more/60579955.txt
+- TAGGLUSERN pre-cut fabric, black/white: /products/fabric-for-upholstery-sewing-and-more/60579842.txt
+- TAGGKÖRVEL pre-cut fabric, multicolor: /products/fabric-for-upholstery-sewing-and-more/00579816.txt
+- REVFINGERÖRT pre-cut fabric, botanical details/white multicolor: /products/fabric-for-upholstery-sewing-and-more/40608157.txt
+- RAKLOSTA pre-cut fabric, blue/white: /products/fabric-for-upholstery-sewing-and-more/80579822.txt
+- PIPDÅN pre-cut fabric, black/white: /products/fabric-for-upholstery-sewing-and-more/00608164.txt
+- PENDELKAKTUS pre-cut fabric, mountains/multicolor: /products/fabric-for-upholstery-sewing-and-more/10608149.txt
+- LÄKEMALVA pre-cut fabric, orange: /products/fabric-for-upholstery-sewing-and-more/30579834.txt
+- KLIPPBRÄCKA pre-cut fabric, white/black: /products/fabric-for-upholstery-sewing-and-more/20583780.txt
+- JÄTTEVÄDD pre-cut fabric, multicolor: /products/fabric-for-upholstery-sewing-and-more/60579818.txt
+- DITTE pre-cut fabric, white: /products/fabric-for-upholstery-sewing-and-more/30585830.txt
+- DITTE pre-cut fabric, natural: /products/fabric-for-upholstery-sewing-and-more/90585832.txt
+- DITTE pre-cut fabric, gray: /products/fabric-for-upholstery-sewing-and-more/50585834.txt
+- BUSKOPUNTIA pre-cut fabric, yellow black/white/dot pattern: /products/fabric-for-upholstery-sewing-and-more/70608165.txt
+- BROKAKLEJA pre-cut fabric, black/geometric: /products/fabric-for-upholstery-sewing-and-more/30608153.txt
+- BLÅRAPUNKEL pre-cut fabric, multicolor: /products/fabric-for-upholstery-sewing-and-more/40579838.txt
+- ÄLGÖRT pre-cut fabric, forest pattern/white green: /products/fabric-for-upholstery-sewing-and-more/70608170.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

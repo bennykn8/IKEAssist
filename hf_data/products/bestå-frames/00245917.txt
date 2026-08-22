@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BESTÅ frame, white
+SKU: 00245917
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/besta-frame-white-00245917/
+Category: BESTÅ frames
+Description: , 235/8x77/8x15" A simple frame can be the start of something great. Place on the floor or wall-mount with a suspension rail. Add units, organize with shelves or put on legs. The possibilities for goo...
+
+# @OFFER
+Price: 35
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Bottom panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Paper foil, Plastic edging, Plastic edging, Plastic edging, Side panel: Particleboard, Paper foil, Paper foil, Plastic edging, Plastic edging, Plastic edging, Back panel: Fiberboard, Paper foil, Plastic foil
+Features: Must be completed with BESTÅ suspension rail if you choose to mount the frame on the wall. This frame requires 1 suspension rail, sold separately. | The max load for a wall-hung frame depends on the wall material. | 23⅝" wide frames require four legs.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/besta-frame-white__0376977_pe513539_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

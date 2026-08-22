@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MÄVINN basket, beige/jute handmade, 11 ¾x11 ¾x13 ¾"
+SKU: 60601013
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/maevinn-basket-beige-jute-handmade-60601013/
+Category: Baskets
+Description: Let nature help you organize and store. The square shape and dimensions of this basket mean that it fits in most shelving units. Made of durable jute that is handwoven by skilled artisans Jute is a du...
+
+# @OFFER
+Price: 17.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % jute
+Features: Only keep in dry locations. | Fits on shelves that are at least 11¾" deep.
+Care: Do not wash. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/maevinn-basket-beige-jute-handmade__1382271_pe962240_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

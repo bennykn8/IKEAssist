@@ -1,0 +1,37 @@
+# @CATEGORY
+Name: HAVBÄCK vanity units without sink
+ProductCount: 15
+
+# @FILTERS
+PriceRange: $109.00 - $239.00
+Materials: Drawer back: Particleboard, Plastic foil, Frame/ Door/ Shelf/ Bottom panel/ Bottom rail: Particleboard, Plastic foil, Plastic edging, Plastic edging (min. 50% recycled), Frame/ Middle rail/ Drawer front/ Drawer sides/ Drawer divider: Particleboard, Plastic foil, Plastic edging, Plastic edging (min. 50% recycled), Top rail: Fiberboard, Plastic foil, Plastic edging, Plastic edging (min. 50% recycled)
+Brand: IKEA
+
+# @ITEMS
+- HAVBÄCK Bathroom vanity with drawers, white: /products/havbäck-vanity-units-without-sink/90535205.txt
+- HAVBÄCK Bathroom vanity with drawers, white: /products/havbäck-vanity-units-without-sink/80535220.txt
+- HAVBÄCK Bathroom vanity with drawers, white: /products/havbäck-vanity-units-without-sink/70535193.txt
+- HAVBÄCK Bathroom vanity with drawers, dark gray: /products/havbäck-vanity-units-without-sink/60535202.txt
+- HAVBÄCK Bathroom vanity with drawers, dark gray: /products/havbäck-vanity-units-without-sink/10535228.txt
+- HAVBÄCK Bathroom vanity with drawers, dark gray: /products/havbäck-vanity-units-without-sink/10535214.txt
+- HAVBÄCK Bathroom vanity with drawers, beige: /products/havbäck-vanity-units-without-sink/70574009.txt
+- HAVBÄCK Bathroom vanity with drawers, beige: /products/havbäck-vanity-units-without-sink/50574010.txt
+- HAVBÄCK Bathroom vanity with drawers, beige: /products/havbäck-vanity-units-without-sink/30574011.txt
+- HAVBÄCK Bathroom vanity with doors, white: /products/havbäck-vanity-units-without-sink/80535244.txt
+- HAVBÄCK Bathroom vanity with doors, white: /products/havbäck-vanity-units-without-sink/30535232.txt
+- HAVBÄCK Bathroom vanity with doors, dark gray: /products/havbäck-vanity-units-without-sink/90535253.txt
+- HAVBÄCK Bathroom vanity with doors, dark gray: /products/havbäck-vanity-units-without-sink/40535241.txt
+- HAVBÄCK Bathroom vanity with doors, beige: /products/havbäck-vanity-units-without-sink/90574008.txt
+- HAVBÄCK Bathroom vanity with doors, beige: /products/havbäck-vanity-units-without-sink/10574007.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

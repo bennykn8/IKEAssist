@@ -1,0 +1,58 @@
+# @CATEGORY
+Name: Bar stools & chairs
+ProductCount: 36
+
+# @FILTERS
+PriceRange: $24.99 - $205.00
+Materials: All parts: Acrylic paint, Back: Solid eucalyptus wood, Fiberboard, Polyurethane foam 1.4 lb/cu.ft., Polyester wadding, Backrest frame: Steel, Base/ Outer tube/ Mounting plate: Steel, Epoxy/polyester powder coating, Bracket: Reinforced polyamide, Chair: Solid pine, Adhesive, Stain, Clear acrylic lacquer, Cover/ Adjustment lever: Stainless steel, Cover: 75 % cotton, 25 % polyester (100% recycled), Edge: Clear lacquer, Fabric/ Cover: 65% polyester (min. 90% recycled), 35 % cotton
+Brand: IKEA
+
+# @ITEMS
+- YNGVAR bar stool, anthracite: /products/bar-stools-and-chairs/60400745.txt
+- TOSSBERG bar stool with backrest, metal black/Gunnared dark gray: /products/bar-stools-and-chairs/40568255.txt
+- STIG bar stool with backrest, black/black: /products/bar-stools-and-chairs/70498421.txt
+- STIG bar stool with backrest, black/black: /products/bar-stools-and-chairs/30498418.txt
+- RÖNNINGE bar stool, birch: /products/bar-stools-and-chairs/90511233.txt
+- RÄVSTEN bar stool, counter height rubberwood: /products/bar-stools-and-chairs/10602067.txt
+- RÄVSTEN bar stool, counter height black: /products/bar-stools-and-chairs/10602072.txt
+- NORRARYD bar stool with backrest, black: /products/bar-stools-and-chairs/00397736.txt
+- NORDVIKEN bar stool with backrest, white: /products/bar-stools-and-chairs/60424690.txt
+- NORDVIKEN Bar stool with backrest, black, Width: 15 3/4". Order today!: /products/bar-stools-and-chairs/00424693.txt
+- LILLÅNÄS bar stool, chrome plated/Gunnared dark gray: /products/bar-stools-and-chairs/60534797.txt
+- LILLÅNÄS bar stool, chrome plated/Gunnared dark gray: /products/bar-stools-and-chairs/40534798.txt
+- JANINGE bar stool, white: /products/bar-stools-and-chairs/70246089.txt
+- JANINGE Bar stool, gray: /products/bar-stools-and-chairs/10281354.txt
+- INGOLF Bar stool with backrest, white: /products/bar-stools-and-chairs/10122647.txt
+- INGOLF Bar stool with backrest, white: /products/bar-stools-and-chairs/00121766.txt
+- INGOLF bar stool with backrest, brown-black/Nolhaga gray-beige: /products/bar-stools-and-chairs/80478762.txt
+- INGOLF bar stool with backrest, brown-black: /products/bar-stools-and-chairs/90248515.txt
+- INGOLF Bar stool with backrest, brown-black: /products/bar-stools-and-chairs/40248513.txt
+- HANSOLLE bar stool, black-brown: /products/bar-stools-and-chairs/90449608.txt
+- GRÖNSTA bar stool, white/indoor/outdoor: /products/bar-stools-and-chairs/30554635.txt
+- GRÖNSTA bar stool, gray-turquoise/indoor/outdoor: /products/bar-stools-and-chairs/60554634.txt
+- GRÅSALA bar stool, gray: /products/bar-stools-and-chairs/90515453.txt
+- GRÅSALA bar stool, gray: /products/bar-stools-and-chairs/30515451.txt
+- GLENN Bar stool, white, chrome plated: /products/bar-stools-and-chairs/60131734.txt
+- FRANKLIN bar stool with backrest, foldable, white/white: /products/bar-stools-and-chairs/70404875.txt
+- FRANKLIN Bar stool with backrest, foldable, black, black, Width: 19 5/8". Find it here!: /products/bar-stools-and-chairs/50406465.txt
+- EKEDALEN bar stool with backrest, dark brown/Orrsta light gray: /products/bar-stools-and-chairs/70400504.txt
+- EKEDALEN bar stool with backrest, dark brown/Orrsta light gray: /products/bar-stools-and-chairs/50400538.txt
+- DALFRED Bar stool, black: /products/bar-stools-and-chairs/60155602.txt
+- DALFRED bar stool, birch: /products/bar-stools-and-chairs/80613091.txt
+- BERGMUND bar stool with backrest, white/Orrsta light gray: /products/bar-stools-and-chairs/09471779.txt
+- BERGMUND bar stool with backrest, white/Gunnared medium gray: /products/bar-stools-and-chairs/39471787.txt
+- BERGMUND bar stool with backrest, black/Orrsta light gray: /products/bar-stools-and-chairs/29471778.txt
+- BERGMUND bar stool with backrest, black/Gunnared medium gray: /products/bar-stools-and-chairs/59471786.txt
+- BERGMUND bar stool with backrest, black/Fågelfors multicolor: /products/bar-stools-and-chairs/89471761.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

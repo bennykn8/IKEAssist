@@ -1,0 +1,32 @@
+# @CATEGORY
+Name: Table lights
+ProductCount: 10
+
+# @FILTERS
+PriceRange: $6.99 - $24.99
+Materials: Base/ Cover/ Bracket: ABS plastic, Base/ Cover/ Reflector: Polycarbonate plastic, Base/ Hook: Steel, Acrylic coating, Powder coating, Base: Steel, Nickel plated, Battery box/ Cover/ Cover plate: ABS plastic, Battery box: Polypropylene, Body/ Switch cover: ABS plastic, Body: ABS plastic, Body: Steel, Acrylic coating, Powder coating, Connecting plate: Galvanized steel, Powder coating
+Brand: IKEA
+
+# @ITEMS
+- SOLVINDEN table lamp, gray: /products/table-lights/20593996.txt
+- SOLVINDEN table lamp/decoration, battery operated/jar clear: /products/table-lights/30594226.txt
+- SOLVINDEN table lamp, blue: /products/table-lights/50593985.txt
+- SOLVINDEN table lamp, battery operated/white: /products/table-lights/30594684.txt
+- SOLVINDEN table lamp, battery operated/white: /products/table-lights/00594685.txt
+- SOLVINDEN table lamp, battery operated donut-shaped: /products/table-lights/70594007.txt
+- SOLVINDEN table lamp, battery operated candle-shaped: /products/table-lights/00593997.txt
+- SOLVINDEN LED table lamp, house/battery operated red: /products/table-lights/70594960.txt
+- BJÖRKSPIREA LED decorative light, brass color diamond-shaped, 2 pack: /products/table-lights/50530139.txt
+- BJÖRKSPIREA LED decorative light, black tube-shaped: /products/table-lights/20530145.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

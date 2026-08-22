@@ -1,0 +1,45 @@
+# @CATEGORY
+Name: Outdoor storage: shelves, cabinets & boxes
+ProductCount: 23
+
+# @FILTERS
+PriceRange: $19.99 - $567.00
+Materials: Backing/ Backing: 100 % Synthetic rubber, Base fabric/ Fabric: 100% polyester (min. 90% recycled), Foot: Polyamide, Galvanized steel, Polyester powder coating, Main parts: Galvanized steel, Main parts: Galvanized steel, Polyester powder coating, Polypropylene, Rail: Steel, Polyester powder coating, Solid acacia wood, Acrylic stain, Steel, Polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- VÄTTERSÖ storage box, outdoor, dark gray: /products/outdoor-storage-shelves-cabinets-and-boxes/80562906.txt
+- VÄTTERSÖ storage box, outdoor, dark gray: /products/outdoor-storage-shelves-cabinets-and-boxes/60562907.txt
+- RUNMARÖ shelf unit, dark gray indoor/outdoor: /products/outdoor-storage-shelves-cabinets-and-boxes/80551309.txt
+- RUNMARÖ shelf unit, dark gray indoor/outdoor: /products/outdoor-storage-shelves-cabinets-and-boxes/10551322.txt
+- RUNMARÖ shelf unit, dark gray indoor/outdoor: /products/outdoor-storage-shelves-cabinets-and-boxes/10551317.txt
+- RUNMARÖ cabinet with doors, dark gray indoor/outdoor: /products/outdoor-storage-shelves-cabinets-and-boxes/70551319.txt
+- RUNMARÖ cabinet with doors, dark gray indoor/outdoor: /products/outdoor-storage-shelves-cabinets-and-boxes/20551312.txt
+- NÄMMARÖ storage box, light brown stained indoor/outdoor: /products/outdoor-storage-shelves-cabinets-and-boxes/40532742.txt
+- NÄMMARÖ storage box and privacy screen, outdoor/light brown stained: /products/outdoor-storage-shelves-cabinets-and-boxes/29491229.txt
+- NÄMMARÖ shelving unit, outdoor, light brown stained: /products/outdoor-storage-shelves-cabinets-and-boxes/10534653.txt
+- LÄCKÖ Shelving unit, outdoor, gray: /products/outdoor-storage-shelves-cabinets-and-boxes/20151837.txt
+- KOLBJÖRN shelving unit with cabinet, beige: /products/outdoor-storage-shelves-cabinets-and-boxes/19291645.txt
+- KOLBJÖRN shelving unit with cabinet, beige: /products/outdoor-storage-shelves-cabinets-and-boxes/09291622.txt
+- KOLBJÖRN shelving unit with 2 cabinets, beige: /products/outdoor-storage-shelves-cabinets-and-boxes/59291634.txt
+- KOLBJÖRN shelving unit with 2 cabinets, beige: /products/outdoor-storage-shelves-cabinets-and-boxes/19291650.txt
+- KOLBJÖRN shelf unit, indoor/outdoor: /products/outdoor-storage-shelves-cabinets-and-boxes/99291646.txt
+- KOLBJÖRN shelf unit, indoor/outdoor, beige: /products/outdoor-storage-shelves-cabinets-and-boxes/60409294.txt
+- KOLBJÖRN cabinet, indoor/outdoor, beige: /products/outdoor-storage-shelves-cabinets-and-boxes/39417601.txt
+- KOLBJÖRN Cabinet, indoor/outdoor, beige: /products/outdoor-storage-shelves-cabinets-and-boxes/30409295.txt
+- KOLBJÖRN Cabinet, indoor/outdoor, beige: /products/outdoor-storage-shelves-cabinets-and-boxes/20345633.txt
+- HYLLIS shelf unit, indoor/outdoor: /products/outdoor-storage-shelves-cabinets-and-boxes/39318031.txt
+- HYLLIS Shelf unit, indoor/outdoor: /products/outdoor-storage-shelves-cabinets-and-boxes/30428326.txt
+- HYLLIS Shelf unit, indoor/outdoor galvanized: /products/outdoor-storage-shelves-cabinets-and-boxes/00278578.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

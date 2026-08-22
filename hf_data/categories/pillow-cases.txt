@@ -1,0 +1,97 @@
+# @CATEGORY
+Name: Pillow cases
+ProductCount: 75
+
+# @FILTERS
+PriceRange: $3.99 - $24.99
+Materials: 100 % cotton, 100 % linen, 100 % polyester (100% recycled), 54 % cotton, 46 % viscose/rayon, 60 % cotton, 40 % lyocell, 80 % cotton, 20 % viscose/rayon, 85 % cotton, 15 % lyocell, 94 % cotton, 6% elastane
+Brand: IKEA
+
+# @ITEMS
+- ULLVIDE pillowcase, white, Queen: /products/pillow-cases/20335592.txt
+- ULLVIDE pillowcase, white, King: /products/pillow-cases/10342753.txt
+- ULLVIDE pillowcase, light pink, Queen: /products/pillow-cases/90564127.txt
+- ULLVIDE pillowcase, light pink, King: /products/pillow-cases/10564126.txt
+- ULLVIDE pillowcase, gray-beige, Queen: /products/pillow-cases/60590260.txt
+- ULLVIDE pillowcase, gray-beige, King: /products/pillow-cases/30591746.txt
+- ULLVIDE pillowcase, gray, Queen: /products/pillow-cases/60342802.txt
+- ULLVIDE pillowcase, gray, King: /products/pillow-cases/40335591.txt
+- ULLVIDE pillowcase, deep red, King: /products/pillow-cases/70558132.txt
+- ULLVIDE pillowcase, deep red, Queen: /products/pillow-cases/50558133.txt
+- ULLVIDE pillowcase, dark blue, Queen: /products/pillow-cases/90342754.txt
+- ULLVIDE pillowcase, dark blue, King: /products/pillow-cases/80342801.txt
+- TÖCKENFLY pillowcase for ergonomic pillow, white: /products/pillow-cases/60535527.txt
+- TÖCKENFLY pillowcase for ergonomic pillow, gray: /products/pillow-cases/20537321.txt
+- TÖCKENFLY pillowcase for ergonomic pillow, dark blue: /products/pillow-cases/00537317.txt
+- TAPETMAL pillowcase, white/rainbow, Queen: /products/pillow-cases/40526425.txt
+- TÅGVECKLARE pillowcase, white/dark gray, Queen: /products/pillow-cases/60544273.txt
+- TÅGVECKLARE pillowcase, white/dark gray: /products/pillow-cases/40544269.txt
+- SNÖDROTTNING pillowcase, multicolor/stripe, Queen: /products/pillow-cases/60575863.txt
+- SNÖDROTTNING pillowcase, multicolor/stripe: /products/pillow-cases/40577858.txt
+- SNÖDROTTNING pillowcase, multicolor/stripe, King: /products/pillow-cases/20577859.txt
+- ROSENSKÄRM pillowcase for ergonomic pillow, white: /products/pillow-cases/50449342.txt
+- RÖNNVECKMAL pillowcase, white, King: /products/pillow-cases/30532672.txt
+- RÖNNVECKMAL pillowcase, white, Queen: /products/pillow-cases/10532673.txt
+- RÖNNVECKMAL pillowcase, gray, Queen: /products/pillow-cases/80537139.txt
+- RÖNNVECKMAL pillowcase, gray, King: /products/pillow-cases/00537138.txt
+- RODGERSIA pillowcase, green/white, Queen: /products/pillow-cases/70579605.txt
+- RODGERSIA pillowcase, green/white: /products/pillow-cases/60579601.txt
+- RODGERSIA pillowcase, green/white, King: /products/pillow-cases/00579604.txt
+- RODGERSIA pillowcase, gray/white: /products/pillow-cases/90579548.txt
+- RODGERSIA pillowcase, gray/white, King: /products/pillow-cases/30579551.txt
+- RODGERSIA pillowcase, gray/white, Queen: /products/pillow-cases/10579552.txt
+- RODGERSIA pillowcase, blue/white, Queen: /products/pillow-cases/80589784.txt
+- PARKOLVON pillowcase, multicolor/check: /products/pillow-cases/60578588.txt
+- PARKOLVON pillowcase, multicolor/check, King: /products/pillow-cases/60571209.txt
+- PARKOLVON pillowcase, multicolor/check, Queen: /products/pillow-cases/40571210.txt
+- NONNEA pillowcase for body pillow, white: /products/pillow-cases/00520307.txt
+- NONNEA pillowcase for body pillow, light gray: /products/pillow-cases/80520313.txt
+- NATTJASMIN pillowcase, white, King: /products/pillow-cases/30343737.txt
+- NATTJASMIN pillowcase, white, Queen: /products/pillow-cases/20343691.txt
+- NATTJASMIN pillowcase, light beige, King: /products/pillow-cases/80442773.txt
+- NATTJASMIN pillowcase, light beige, Queen: /products/pillow-cases/60442774.txt
+- NATTJASMIN pillowcase, dark gray, Queen: /products/pillow-cases/90442715.txt
+- NATTJASMIN pillowcase, dark gray, King: /products/pillow-cases/20442714.txt
+- NATTJASMIN pillowcase, blue-green, King: /products/pillow-cases/70597464.txt
+- NATTJASMIN pillowcase, blue-green, Queen: /products/pillow-cases/40597465.txt
+- NATTJASMIN pillowcase, blue-green: /products/pillow-cases/30597461.txt
+- NÄSSELKLOCKA pillowcase, light grey-beige, Queen: /products/pillow-cases/30589772.txt
+- NÄSSELKLOCKA pillowcase, light green-gray/multicolor: /products/pillow-cases/20556588.txt
+- LAPPDUNÖRT pillowcase, white/brown/stripe, Queen: /products/pillow-cases/20526445.txt
+- DYTÅG pillowcase, white, King: /products/pillow-cases/40521376.txt
+- DYTÅG pillowcase, white, Queen: /products/pillow-cases/20521377.txt
+- DYTÅG pillowcase, dark gray, King: /products/pillow-cases/60521441.txt
+- DYTÅG pillowcase, dark gray, Queen: /products/pillow-cases/40521442.txt
+- DVALA pillowcase, white, King: /products/pillow-cases/40357253.txt
+- DVALA pillowcase, white, Queen: /products/pillow-cases/20357254.txt
+- DVALA pillowcase, light pink, Queen: /products/pillow-cases/70349431.txt
+- DVALA pillowcase, light gray, King: /products/pillow-cases/40482493.txt
+- DVALA pillowcase, light gray, Queen: /products/pillow-cases/00482485.txt
+- DVALA pillowcase, gray-green, Queen: /products/pillow-cases/70549675.txt
+- DVALA pillowcase, gray-green, King: /products/pillow-cases/00549674.txt
+- DVALA pillowcase, blue, King: /products/pillow-cases/80576890.txt
+- DVALA pillowcase, blue, Queen: /products/pillow-cases/70575725.txt
+- DVALA pillowcase, blue: /products/pillow-cases/20576888.txt
+- DVALA pillowcase, beige, Queen: /products/pillow-cases/30357197.txt
+- BERGPALM pillowcase, green/stripe, Queen: /products/pillow-cases/10577138.txt
+- BERGPALM pillowcase, gray/stripe, Queen: /products/pillow-cases/30577156.txt
+- BERGPALM pillowcase, blue/stripe, Queen: /products/pillow-cases/10577124.txt
+- BANDPALPMAL pillowcase, white, Queen: /products/pillow-cases/20578439.txt
+- BALSAMPOPPEL pillowcase, white, King: /products/pillow-cases/50557591.txt
+- BALSAMPOPPEL pillowcase, white, Queen: /products/pillow-cases/30557592.txt
+- ÄNGSLILJA pillowcase, red-brown, Queen: /products/pillow-cases/10592068.txt
+- ÄNGSLILJA pillowcase, gray-green, Queen: /products/pillow-cases/70592008.txt
+- ÄNGSLILJA pillowcase, gray, Queen: /products/pillow-cases/10592025.txt
+- ÄNGSLILJA pillowcase, blue-gray, Queen: /products/pillow-cases/00592040.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

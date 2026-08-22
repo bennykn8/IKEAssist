@@ -1,0 +1,147 @@
+# @CATEGORY
+Name: HAVBÄCK vanity units with sink
+ProductCount: 125
+
+# @FILTERS
+PriceRange: $329.00 - $1033.00
+Materials: Bamboo, Particleboard, Clear acrylic lacquer, Cover/ Spring: Stainless steel, Drawer back: Particleboard, Plastic foil, Fiberboard, Plastic foil, Melamine foil, Frame/ Door/ Shelf/ Bottom panel/ Bottom rail: Particleboard, Plastic foil, Plastic edging, Plastic edging (min. 50% recycled), Frame/ Middle rail/ Drawer front/ Drawer sides/ Drawer divider: Particleboard, Plastic foil, Plastic edging, Plastic edging (min. 50% recycled), Top rail: Fiberboard, Plastic foil, Plastic edging, Plastic edging (min. 50% recycled)
+Brand: IKEA
+
+# @ITEMS
+- HAVBÄCK / TÖRNVIKEN Bathroom vanity with sink & faucet, white/white marble effect: /products/havbäck-vanity-units-with-sink/99535606.txt
+- HAVBÄCK / TÖRNVIKEN Bathroom vanity with sink & faucet, white/white marble effect: /products/havbäck-vanity-units-with-sink/79534146.txt
+- HAVBÄCK / TÖRNVIKEN Bathroom vanity with sink & faucet, white/white marble effect: /products/havbäck-vanity-units-with-sink/79532114.txt
+- HAVBÄCK / TÖRNVIKEN Bathroom vanity with sink & faucet, white/black marble effect: /products/havbäck-vanity-units-with-sink/99535611.txt
+- HAVBÄCK / TÖRNVIKEN Bathroom vanity with sink & faucet, white/black marble effect: /products/havbäck-vanity-units-with-sink/29534177.txt
+- HAVBÄCK / TÖRNVIKEN Bathroom vanity with sink & faucet, white/black marble effect: /products/havbäck-vanity-units-with-sink/09532117.txt
+- HAVBÄCK / TÖRNVIKEN Bathroom vanity with sink & faucet, dark gray/white marble effect: /products/havbäck-vanity-units-with-sink/79535607.txt
+- HAVBÄCK / TÖRNVIKEN Bathroom vanity with sink & faucet, dark gray/white marble effect: /products/havbäck-vanity-units-with-sink/59534147.txt
+- HAVBÄCK / TÖRNVIKEN Bathroom vanity with sink & faucet, dark gray/white marble effect: /products/havbäck-vanity-units-with-sink/49532115.txt
+- HAVBÄCK / TÖRNVIKEN Bathroom vanity with sink & faucet, dark gray/black marble effect: /products/havbäck-vanity-units-with-sink/89532118.txt
+- HAVBÄCK / TÖRNVIKEN Bathroom vanity with sink & faucet, dark gray/black marble effect: /products/havbäck-vanity-units-with-sink/49534176.txt
+- HAVBÄCK / TÖRNVIKEN Bathroom vanity with sink & faucet, dark gray/black marble effect: /products/havbäck-vanity-units-with-sink/19535610.txt
+- HAVBÄCK / TÖRNVIKEN Bathroom vanity with sink & faucet, beige/white marble effect: /products/havbäck-vanity-units-with-sink/59535608.txt
+- HAVBÄCK / TÖRNVIKEN Bathroom vanity with sink & faucet, beige/white marble effect: /products/havbäck-vanity-units-with-sink/39534148.txt
+- HAVBÄCK / TÖRNVIKEN Bathroom vanity with sink & faucet, beige/white marble effect: /products/havbäck-vanity-units-with-sink/29532116.txt
+- HAVBÄCK / TÖRNVIKEN Bathroom vanity with sink & faucet, beige/black marble effect: /products/havbäck-vanity-units-with-sink/69534175.txt
+- HAVBÄCK / TÖRNVIKEN Bathroom vanity with sink & faucet, beige/black marble effect: /products/havbäck-vanity-units-with-sink/69532119.txt
+- HAVBÄCK / TÖRNVIKEN Bathroom vanity with sink & faucet, beige/black marble effect: /products/havbäck-vanity-units-with-sink/39535609.txt
+- HAVBÄCK / ORRSJÖN Double vanity with sink & faucet, white: /products/havbäck-vanity-units-with-sink/09535738.txt
+- HAVBÄCK / ORRSJÖN Double vanity with sink & faucet, dark gray/oak effect/white marble effect: /products/havbäck-vanity-units-with-sink/79535933.txt
+- HAVBÄCK / ORRSJÖN Double vanity with sink & faucet, dark gray/brown oak effect/white marble effect: /products/havbäck-vanity-units-with-sink/99535932.txt
+- HAVBÄCK / ORRSJÖN Double vanity with sink & faucet, beige: /products/havbäck-vanity-units-with-sink/69535740.txt
+- HAVBÄCK / ORRSJÖN Double vanity with sink & faucet, beige/oak effect/white marble effect: /products/havbäck-vanity-units-with-sink/19535931.txt
+- HAVBÄCK / ORRSJÖN Double vanity with sink & faucet, beige/brown oak effect/white marble effect: /products/havbäck-vanity-units-with-sink/59535929.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucets, white: /products/havbäck-vanity-units-with-sink/39590115.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucets, white: /products/havbäck-vanity-units-with-sink/09530731.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucets, dark gray: /products/havbäck-vanity-units-with-sink/89530732.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucets, dark gray: /products/havbäck-vanity-units-with-sink/19590116.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucets, beige: /products/havbäck-vanity-units-with-sink/99590117.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucets, beige: /products/havbäck-vanity-units-with-sink/69530733.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, white/white marble effect: /products/havbäck-vanity-units-with-sink/99535531.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, white/white marble effect: /products/havbäck-vanity-units-with-sink/79535952.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, white/white marble effect: /products/havbäck-vanity-units-with-sink/69532157.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, white/white marble effect: /products/havbäck-vanity-units-with-sink/39531946.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, white: /products/havbäck-vanity-units-with-sink/99590099.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, white: /products/havbäck-vanity-units-with-sink/89530708.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, white: /products/havbäck-vanity-units-with-sink/69590091.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, white: /products/havbäck-vanity-units-with-sink/59530700.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, white: /products/havbäck-vanity-units-with-sink/29530688.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, white/gray stone effect: /products/havbäck-vanity-units-with-sink/99535970.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, white/gray stone effect: /products/havbäck-vanity-units-with-sink/99532603.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, white/gray stone effect: /products/havbäck-vanity-units-with-sink/49531979.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, white/gray stone effect: /products/havbäck-vanity-units-with-sink/29535558.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, white/brown walnut effect: /products/havbäck-vanity-units-with-sink/99531986.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, white/brown walnut effect: /products/havbäck-vanity-units-with-sink/79532524.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, white/brown walnut effect: /products/havbäck-vanity-units-with-sink/29535964.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, white/brown walnut effect: /products/havbäck-vanity-units-with-sink/09535564.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, white/black marble effect: /products/havbäck-vanity-units-with-sink/99532523.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, white/black marble effect: /products/havbäck-vanity-units-with-sink/69590109.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, white/black marble effect: /products/havbäck-vanity-units-with-sink/69535556.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, white/black marble effect: /products/havbäck-vanity-units-with-sink/59531974.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, white/black marble effect: /products/havbäck-vanity-units-with-sink/09590112.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, white/bamboo: /products/havbäck-vanity-units-with-sink/59531993.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, white/bamboo: /products/havbäck-vanity-units-with-sink/49532525.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, white/bamboo: /products/havbäck-vanity-units-with-sink/39535968.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, white/bamboo: /products/havbäck-vanity-units-with-sink/39535567.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, dark gray/white marble effect: /products/havbäck-vanity-units-with-sink/79535532.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, dark gray/white marble effect: /products/havbäck-vanity-units-with-sink/49532158.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, dark gray/white marble effect: /products/havbäck-vanity-units-with-sink/19531947.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, dark gray/white marble effect: /products/havbäck-vanity-units-with-sink/09535955.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, dark gray: /products/havbäck-vanity-units-with-sink/69530709.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, dark gray: /products/havbäck-vanity-units-with-sink/69530686.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, dark gray: /products/havbäck-vanity-units-with-sink/59590100.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, dark gray: /products/havbäck-vanity-units-with-sink/49590092.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, dark gray: /products/havbäck-vanity-units-with-sink/39530701.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, dark gray/oak effect/white marble effect: /products/havbäck-vanity-units-with-sink/39535794.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, dark gray/oak effect/white marble effect: /products/havbäck-vanity-units-with-sink/29535756.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, dark gray/gray stone effect: /products/havbäck-vanity-units-with-sink/69531978.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, dark gray/gray stone effect: /products/havbäck-vanity-units-with-sink/49535557.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, dark gray/gray stone effect: /products/havbäck-vanity-units-with-sink/19535969.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, dark gray/gray stone effect: /products/havbäck-vanity-units-with-sink/19532602.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, dark gray/brown walnut effect: /products/havbäck-vanity-units-with-sink/49535963.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, dark gray/brown walnut effect: /products/havbäck-vanity-units-with-sink/39532521.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, dark gray/brown walnut effect: /products/havbäck-vanity-units-with-sink/29535563.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, dark gray/brown walnut effect: /products/havbäck-vanity-units-with-sink/19531985.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, dark gray/brown oak effect/white marble effect: /products/havbäck-vanity-units-with-sink/89535758.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, dark gray/brown oak effect/white marble effect: /products/havbäck-vanity-units-with-sink/59535793.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, dark gray/black marble effect: /products/havbäck-vanity-units-with-sink/89590113.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, dark gray/black marble effect: /products/havbäck-vanity-units-with-sink/79531973.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, dark gray/black marble effect: /products/havbäck-vanity-units-with-sink/59532520.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, dark gray/black marble effect: /products/havbäck-vanity-units-with-sink/49590110.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, dark gray/bamboo: /products/havbäck-vanity-units-with-sink/79531992.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, dark gray/bamboo: /products/havbäck-vanity-units-with-sink/59535967.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, dark gray/bamboo: /products/havbäck-vanity-units-with-sink/59535566.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, dark gray/bamboo: /products/havbäck-vanity-units-with-sink/19532522.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, beige/white marble effect: /products/havbäck-vanity-units-with-sink/99531948.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, beige/white marble effect: /products/havbäck-vanity-units-with-sink/69535957.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, beige/white marble effect: /products/havbäck-vanity-units-with-sink/59535533.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, beige/white marble effect: /products/havbäck-vanity-units-with-sink/09532160.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, beige: /products/havbäck-vanity-units-with-sink/49530710.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, beige: /products/havbäck-vanity-units-with-sink/49530687.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, beige: /products/havbäck-vanity-units-with-sink/39590101.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, beige: /products/havbäck-vanity-units-with-sink/29590093.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, beige: /products/havbäck-vanity-units-with-sink/19530702.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, beige/oak effect/white marble effect: /products/havbäck-vanity-units-with-sink/79535792.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, beige/oak effect/white marble effect: /products/havbäck-vanity-units-with-sink/09535757.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, beige/brown walnut effect: /products/havbäck-vanity-units-with-sink/69535962.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, beige/brown walnut effect: /products/havbäck-vanity-units-with-sink/49535562.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, beige/brown walnut effect: /products/havbäck-vanity-units-with-sink/49531984.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, beige/brown walnut effect: /products/havbäck-vanity-units-with-sink/19532517.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, beige/brown oak effect/white marble effect: /products/havbäck-vanity-units-with-sink/99535791.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, beige/brown oak effect/white marble effect: /products/havbäck-vanity-units-with-sink/69535759.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, beige/black marble effect: /products/havbäck-vanity-units-with-sink/99531972.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, beige/black marble effect: /products/havbäck-vanity-units-with-sink/69590114.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, beige/black marble effect: /products/havbäck-vanity-units-with-sink/39532516.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, beige/black marble effect: /products/havbäck-vanity-units-with-sink/29590111.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, beige/bamboo: /products/havbäck-vanity-units-with-sink/99535965.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, beige/bamboo: /products/havbäck-vanity-units-with-sink/99532518.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, beige/bamboo: /products/havbäck-vanity-units-with-sink/99531991.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity with sink & faucet, beige/bamboo: /products/havbäck-vanity-units-with-sink/79535565.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity w doors/sink/faucet, white/white marble effect: /products/havbäck-vanity-units-with-sink/79534014.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity w doors/sink/faucet, white: /products/havbäck-vanity-units-with-sink/99530722.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity w doors/sink/faucet, white: /products/havbäck-vanity-units-with-sink/79530695.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity w doors/sink/faucet, white/black marble effect: /products/havbäck-vanity-units-with-sink/69534019.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity w doors/sink/faucet, white/bamboo: /products/havbäck-vanity-units-with-sink/09534022.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity w doors/sink/faucet, dark gray/white marble effect: /products/havbäck-vanity-units-with-sink/49534015.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity w doors/sink/faucet, dark gray: /products/havbäck-vanity-units-with-sink/79530723.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity w doors/sink/faucet, dark gray: /products/havbäck-vanity-units-with-sink/59530696.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity w doors/sink/faucet, dark gray/black marble effect: /products/havbäck-vanity-units-with-sink/89534018.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity w doors/sink/faucet, dark gray/bamboo: /products/havbäck-vanity-units-with-sink/29534021.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity w doors/sink/faucet, beige/white marble effect: /products/havbäck-vanity-units-with-sink/29534016.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity w doors/sink/faucet, beige: /products/havbäck-vanity-units-with-sink/59530724.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity w doors/sink/faucet, beige: /products/havbäck-vanity-units-with-sink/39530697.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity w doors/sink/faucet, beige/black marble effect: /products/havbäck-vanity-units-with-sink/09534017.txt
+- HAVBÄCK / ORRSJÖN Bathroom vanity w doors/sink/faucet, beige/bamboo: /products/havbäck-vanity-units-with-sink/49534020.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,49 @@
+# @CATEGORY
+Name: Wall mirrors
+ProductCount: 27
+
+# @FILTERS
+PriceRange: $3.99 - $179.99
+Materials: Binding: Rattan, Clear acrylic lacquer, Edge: Printed acrylic paint, Frame/ Hook/ Wall Fitting: Steel, Epoxy/polyester powder coating, Frame: Aluminium (min. 70% recycled), Anodized, Frame: Aluminium (min. 70% recycled), Powder coating, Frame: Fiberboard, Plastic foil, Frame: Layer-glued wood veneer, Birch plywood, Oak veneer, Tinted clear acrylic lacquer, Frame: Layer-glued wood veneer, Oak veneer, Tinted lacquer, Frame: Layer-glued wood veneer, Walnut veneer, Tinted lacquer, Frame: Polystyrene
+Brand: IKEA
+
+# @ITEMS
+- TURBOKASTANJ mirror, red: /products/wall-mirrors/50566449.txt
+- TURBOKASTANJ mirror: /products/wall-mirrors/50555097.txt
+- TOFTBYN mirror, white: /products/wall-mirrors/80507217.txt
+- TOFTBYN mirror, black: /products/wall-mirrors/60507218.txt
+- STOCKHOLM 2025 mirror, oak veneer: /products/wall-mirrors/00590814.txt
+- SOMMARBO mirror, rattan: /products/wall-mirrors/90531047.txt
+- RUNDOXEL mirror, white: /products/wall-mirrors/50602131.txt
+- NISSEDAL mirror, white: /products/wall-mirrors/70503781.txt
+- NISSEDAL mirror, walnut effect: /products/wall-mirrors/30501864.txt
+- NISSEDAL mirror, black: /products/wall-mirrors/90503780.txt
+- LÖNSÅS mirror: /products/wall-mirrors/80471534.txt
+- LINDBYN mirror, red: /products/wall-mirrors/70590801.txt
+- LINDBYN mirror, black: /products/wall-mirrors/90590447.txt
+- LINDBYN mirror, black: /products/wall-mirrors/40597234.txt
+- LILJETRÄD mirror, white: /products/wall-mirrors/80592102.txt
+- LETTAN mirror: /products/wall-mirrors/90552332.txt
+- LETTAN mirror: /products/wall-mirrors/80552323.txt
+- LETTAN mirror: /products/wall-mirrors/60552324.txt
+- LETTAN mirror: /products/wall-mirrors/30552330.txt
+- IKORNNES Table mirror, ash: /products/wall-mirrors/00306920.txt
+- GRANVÅG mirror with storage, wall hanging/green: /products/wall-mirrors/90510993.txt
+- GRANVÅG mirror, wall hanging/pink: /products/wall-mirrors/80510979.txt
+- GRANVÅG mirror, wall hanging/green: /products/wall-mirrors/00510978.txt
+- DVÄRGSYREN mirror, walnut veneer, 15 ¾x19 ¾": /products/wall-mirrors/80591602.txt
+- DVÄRGSYREN mirror, walnut veneer, 11x14 ½": /products/wall-mirrors/60591599.txt
+- DVÄRGSYREN mirror, oak veneer, 15 ¾x19 ¾": /products/wall-mirrors/90591593.txt
+- DVÄRGSYREN mirror, oak veneer, 11x14 ½": /products/wall-mirrors/20591596.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

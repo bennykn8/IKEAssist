@@ -1,0 +1,53 @@
+# @CATEGORY
+Name: Foam mattresses
+ProductCount: 31
+
+# @FILTERS
+PriceRange: $79.00 - $799.00
+Materials: Backing: 100 % polypropylene, Filling: 70 % viscose, 30 % polyester, Lining: 100 % polypropylene, Main parts/ Ticking/ Ticking/ Ticking, top/ Ticking, side: 100 % polyester (100% recycled), Quilt filling: 70 % viscose, 30 % polyester, Ticking, top: 73 % polyester (100% recycled), 27 % polyethylene, Ticking/ Main parts/ Ticking, top/ Ticking, side: 100 % polyester (100% recycled), Ticking/ Mattress inner cover/ Ticking: 100 % polyester (100% recycled), Ticking/ Ticking, side: 100 % polyester (100% recycled), Ticking/ Ticking: 100 % polyester (100% recycled)
+Brand: IKEA
+
+# @ITEMS
+- ÅSVANG foam mattress, medium firm/white, Twin: /products/foam-mattresses/80481415.txt
+- ÅSVANG foam mattress, medium firm/white, Full: /products/foam-mattresses/40481399.txt
+- ÅSVANG foam mattress, medium firm/white, Queen: /products/foam-mattresses/20481404.txt
+- ÅSBYGDA foam mattress, firm/white, King: /products/foam-mattresses/50481539.txt
+- ÅSBYGDA foam mattress, firm/white, Full: /products/foam-mattresses/40481498.txt
+- ÅSBYGDA foam mattress, firm/white, Twin: /products/foam-mattresses/30481516.txt
+- ÅSBYGDA foam mattress, firm/white, Queen: /products/foam-mattresses/10481503.txt
+- ÅNNELAND hybrid mattress, medium firm/white, Twin: /products/foam-mattresses/90524914.txt
+- ÅNNELAND hybrid mattress, firm/white, Queen: /products/foam-mattresses/60511913.txt
+- ÅNNELAND hybrid mattress, firm/white, Full: /products/foam-mattresses/40511909.txt
+- ÅNNELAND hybrid mattress, firm/white, Twin: /products/foam-mattresses/30524912.txt
+- ÅNNELAND hybrid mattress, firm/white, King: /products/foam-mattresses/00511911.txt
+- ÅKREHAMN foam mattress, medium firm/white, Full: /products/foam-mattresses/90592837.txt
+- ÅKREHAMN foam mattress, medium firm/white, Twin: /products/foam-mattresses/80592847.txt
+- ÅKREHAMN foam mattress, medium firm/white, Queen: /products/foam-mattresses/70592843.txt
+- ÅKREHAMN foam mattress, medium firm/white, King: /products/foam-mattresses/50592839.txt
+- ÅKREHAMN foam mattress, firm/white, King: /products/foam-mattresses/70592838.txt
+- ÅKREHAMN foam mattress, firm/white, Full: /products/foam-mattresses/30592835.txt
+- ÅKREHAMN foam mattress, firm/white, Twin: /products/foam-mattresses/20592845.txt
+- ÅKREHAMN foam mattress, firm/white, Queen: /products/foam-mattresses/10592841.txt
+- ÅGOTNES foam mattress, firm/light blue, Full: /products/foam-mattresses/90600960.txt
+- ÅGOTNES foam mattress, firm/light blue, Twin: /products/foam-mattresses/80480878.txt
+- ÅGOTNES foam mattress, firm/light blue, Queen: /products/foam-mattresses/10600959.txt
+- ÅBROTTEN foam mattress, medium firm/white, Twin: /products/foam-mattresses/70481699.txt
+- ÅBROTTEN foam mattress, medium firm/white, King: /products/foam-mattresses/50481681.txt
+- ÅBROTTEN foam mattress, medium firm/white, Queen: /products/foam-mattresses/40481686.txt
+- ÅBROTTEN foam mattress, medium firm/white, Full: /products/foam-mattresses/30481677.txt
+- ÅBROTTEN foam mattress, firm/white, Full: /products/foam-mattresses/90481679.txt
+- ÅBROTTEN foam mattress, firm/white, Twin: /products/foam-mattresses/10481701.txt
+- ÅBROTTEN foam mattress, firm/white, King: /products/foam-mattresses/10481683.txt
+- ÅBROTTEN foam mattress, firm/white, Queen: /products/foam-mattresses/00481688.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

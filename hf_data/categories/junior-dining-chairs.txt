@@ -1,0 +1,33 @@
+# @CATEGORY
+Name: Junior dining chairs
+ProductCount: 11
+
+# @FILTERS
+PriceRange: $10.00 - $164.99
+Materials: Back/ Seat: Fiberboard, Acrylic paint, Back: Beech plywood, Acrylic paint, Fabric: 100 % polyester (100% recycled), Feet: Aluminum, Epoxy/polyester powder coating, Filling: 100% polyester (min. 80% recycled), Foot: Polypropylene, Leg frame/ Cross rail: Steel, Epoxy/polyester powder coating, Leg frame: Steel, Epoxy/polyester powder coating, Leg: Solid beech, Acrylic paint, Main parts: Solid wood, Acrylic paint
+Brand: IKEA
+
+# @ITEMS
+- VILDGÅS junior chair, white/white: /products/junior-dining-chairs/70589384.txt
+- VILDGÅS junior chair, white/green: /products/junior-dining-chairs/70589398.txt
+- URBAN Junior chair, white: /products/junior-dining-chairs/00165213.txt
+- LANGUR padded seat cover for junior chair, gray: /products/junior-dining-chairs/40352651.txt
+- LANGUR junior/high chair, white: /products/junior-dining-chairs/79252599.txt
+- LANGUR junior chair, white: /products/junior-dining-chairs/79252617.txt
+- LANGUR high chair with tray, white: /products/junior-dining-chairs/99252555.txt
+- INGOLF junior chair, white: /products/junior-dining-chairs/90146456.txt
+- INGOLF Junior chair, antique stain: /products/junior-dining-chairs/60353838.txt
+- AGAM junior chair, white: /products/junior-dining-chairs/90253535.txt
+- AGAM junior chair, black: /products/junior-dining-chairs/70253541.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

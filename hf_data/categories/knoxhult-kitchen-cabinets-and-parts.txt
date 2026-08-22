@@ -1,0 +1,51 @@
+# @CATEGORY
+Name: KNOXHULT kitchen cabinets & parts
+ProductCount: 29
+
+# @FILTERS
+PriceRange: $50.00 - $410.00
+Materials: Back: Fiberboard, Back: Fiberboard, Acrylic paint, Countertop: Particleboard, High-pressure melamine laminate, Paper, Plastic edging, Door: Fiberboard, Plastic foil, Drawer bottom/ Back: Fiberboard, Acrylic paint, Drawer front: Fiberboard, Fiberboard, Plastic foil, Drawer side: Particleboard, Plastic foil, Kichen cabinet/ Door/ Distance piece: Particleboard, Melamine foil, Plastic edging, Kichen cabinet/ Door/ Drawer front/ Kichen cabinet/ Door/ Distance piece: Particleboard, Melamine foil, Plastic edging, Kichen cabinet/ Door/ Drawer front: Particleboard, Melamine foil, Plastic edging
+Brand: IKEA
+
+# @ITEMS
+- KNOXHULT wall cabinet with sliding doors, white: /products/knoxhult-kitchen-cabinets-and-parts/40604022.txt
+- KNOXHULT wall cabinet with doors, white frame: /products/knoxhult-kitchen-cabinets-and-parts/70603993.txt
+- KNOXHULT wall cabinet with doors, white: /products/knoxhult-kitchen-cabinets-and-parts/90500277.txt
+- KNOXHULT wall cabinet with doors, oak effect: /products/knoxhult-kitchen-cabinets-and-parts/20604004.txt
+- KNOXHULT wall cabinet with doors, dark gray: /products/knoxhult-kitchen-cabinets-and-parts/70604011.txt
+- KNOXHULT wall cabinet with door, white frame: /products/knoxhult-kitchen-cabinets-and-parts/50603994.txt
+- KNOXHULT wall cabinet with door, white frame: /products/knoxhult-kitchen-cabinets-and-parts/20603995.txt
+- KNOXHULT wall cabinet with door, white: /products/knoxhult-kitchen-cabinets-and-parts/90372265.txt
+- KNOXHULT Wall cabinet with door, white, Width:: /products/knoxhult-kitchen-cabinets-and-parts/50372267.txt
+- KNOXHULT wall cabinet with door, oak effect: /products/knoxhult-kitchen-cabinets-and-parts/90604005.txt
+- KNOXHULT wall cabinet with door, oak effect: /products/knoxhult-kitchen-cabinets-and-parts/70604006.txt
+- KNOXHULT wall cabinet with door, dark gray: /products/knoxhult-kitchen-cabinets-and-parts/50604012.txt
+- KNOXHULT wall cabinet with door, dark gray: /products/knoxhult-kitchen-cabinets-and-parts/30604013.txt
+- KNOXHULT base corner cabinet, white frame: /products/knoxhult-kitchen-cabinets-and-parts/90603992.txt
+- KNOXHULT base corner cabinet, white: /products/knoxhult-kitchen-cabinets-and-parts/70372271.txt
+- KNOXHULT base corner cabinet, oak effect: /products/knoxhult-kitchen-cabinets-and-parts/40604003.txt
+- KNOXHULT base corner cabinet, dark gray: /products/knoxhult-kitchen-cabinets-and-parts/90604010.txt
+- KNOXHULT base cabinet with drawers, white frame: /products/knoxhult-kitchen-cabinets-and-parts/10603991.txt
+- KNOXHULT Base cabinet with drawers, white: /products/knoxhult-kitchen-cabinets-and-parts/40372263.txt
+- KNOXHULT base cabinet with drawers, oak effect: /products/knoxhult-kitchen-cabinets-and-parts/60604002.txt
+- KNOXHULT base cabinet with drawers, dark gray: /products/knoxhult-kitchen-cabinets-and-parts/10604009.txt
+- KNOXHULT base cabinet with doors and drawer, white frame: /products/knoxhult-kitchen-cabinets-and-parts/50603989.txt
+- KNOXHULT base cabinet with doors and drawer, white frame: /products/knoxhult-kitchen-cabinets-and-parts/30603990.txt
+- KNOXHULT base cabinet with doors and drawer, white: /products/knoxhult-kitchen-cabinets-and-parts/60372262.txt
+- KNOXHULT Base cabinet with doors and drawer, white, Countertop length: 72 3/: /products/knoxhult-kitchen-cabinets-and-parts/00372260.txt
+- KNOXHULT base cabinet with doors and drawer, oak effect: /products/knoxhult-kitchen-cabinets-and-parts/80604001.txt
+- KNOXHULT base cabinet with doors and drawer, oak effect: /products/knoxhult-kitchen-cabinets-and-parts/00604000.txt
+- KNOXHULT base cabinet with doors and drawer, dark gray: /products/knoxhult-kitchen-cabinets-and-parts/50604007.txt
+- KNOXHULT base cabinet with doors and drawer, dark gray: /products/knoxhult-kitchen-cabinets-and-parts/30604008.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

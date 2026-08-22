@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MOSSJÖN wall cabinet w shelves/glass door, anthracite
+SKU: 60567778
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/mossjoen-wall-cabinet-w-shelves-glass-door-anthracite-60567778/
+Category: Bathroom wall cabinets
+Description: , 141/8x71/8x401/8" Do you want to both display and hide things in the bathroom? Then maybe MOSSJÖN wall cabinet with an open shelf and a door with reeded glass is just what you're looking for to crea...
+
+# @OFFER
+Price: 89.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Panel/ Frame: Steel, Powder coating, Shelf: Tempered glass, Door frame/ Side frame: Aluminum, Powder coating
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home.
+Care: Frame: Wipe clean using a damp cloth and a mild cleaner. | Frame: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/mossjoen-wall-cabinet-w-shelves-glass-door-anthracite__1239715_pe919026_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

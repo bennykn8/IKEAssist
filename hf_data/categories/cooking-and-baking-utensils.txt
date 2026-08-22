@@ -1,0 +1,66 @@
+# @CATEGORY
+Name: Cooking & baking utensils
+ProductCount: 44
+
+# @FILTERS
+PriceRange: $0.99 - $12.99
+Materials: Bar/ Lower part/ Bolster: Stainless steel, Bar/ Lower part/ Net: Stainless steel, Bar/ Lower part: Stainless steel, Bar: Stainless steel, Blade: Stainless steel, ABS plastic, Handle/ Cover cap/ Other parts: Stainless steel, Handle: Reinforced polyamide, Handle: Reinforced polyamide, Silicone rubber, Handle: Silicone rubber, Handle: Solid beech, Oil
+Brand: IKEA
+
+# @ITEMS
+- VARDAGEN wok turner, stainless steel/beech: /products/cooking-and-baking-utensils/60581473.txt
+- VARDAGEN whisk, stainless steel/beech: /products/cooking-and-baking-utensils/90581481.txt
+- VARDAGEN tongs, stainless steel/beech: /products/cooking-and-baking-utensils/90581508.txt
+- VARDAGEN skimmer, stainless steel/beech: /products/cooking-and-baking-utensils/90581513.txt
+- VARDAGEN ladle, stainless steel/beech: /products/cooking-and-baking-utensils/40581474.txt
+- VARDAGEN angled turner, stainless steel/beech: /products/cooking-and-baking-utensils/90581476.txt
+- UPPFYLLD holder for kitchen utensils, light gray/beige: /products/cooking-and-baking-utensils/10533248.txt
+- UPPFYLLD 3-piece kitchen utensil set, dark gray-blue: /products/cooking-and-baking-utensils/50598153.txt
+- STRÅLFENA spoon for cooking, solid birch: /products/cooking-and-baking-utensils/20603288.txt
+- SLITSTARK spatula, stainless steel/walnut: /products/cooking-and-baking-utensils/10578208.txt
+- SLITSTARK ladle, stainless steel/walnut: /products/cooking-and-baking-utensils/50578206.txt
+- RÖRT wok turner, beech: /products/cooking-and-baking-utensils/10496420.txt
+- RÖRT spoon, round/beech: /products/cooking-and-baking-utensils/40278468.txt
+- RÖRT spoon, beech: /products/cooking-and-baking-utensils/10278460.txt
+- RÖRT fork, beech: /products/cooking-and-baking-utensils/00278465.txt
+- PÅBJUDA whisk, set of 2, stainless steel: /products/cooking-and-baking-utensils/70578205.txt
+- KONCIS whisk, stainless steel: /products/cooking-and-baking-utensils/50578193.txt
+- KONCIS angled turner, stainless steel: /products/cooking-and-baking-utensils/00578195.txt
+- KNORRHANE spoon for cooking, light orange/dark red: /products/cooking-and-baking-utensils/90599674.txt
+- KNORRHANE spatula, light beige/anthracite: /products/cooking-and-baking-utensils/60599675.txt
+- KNORRHANE multi utensil for cooking, dark green/anthracite: /products/cooking-and-baking-utensils/70599670.txt
+- KNORRHANE deep spoon for cooking, dark gray-brown/red-brown: /products/cooking-and-baking-utensils/30599672.txt
+- IKEA 365+ HJÄLTE wok turner, stainless steel/black: /products/cooking-and-baking-utensils/70580977.txt
+- IKEA 365+ HJÄLTE whisk, stainless steel/black: /products/cooking-and-baking-utensils/00580971.txt
+- IKEA 365+ HJÄLTE turner, stainless steel/black: /products/cooking-and-baking-utensils/90580976.txt
+- IKEA 365+ HJÄLTE turner, stainless steel/black: /products/cooking-and-baking-utensils/10580975.txt
+- IKEA 365+ HJÄLTE tongs, stainless steel/black: /products/cooking-and-baking-utensils/80580972.txt
+- IKEA 365+ HJÄLTE soup ladle, stainless steel/black: /products/cooking-and-baking-utensils/40580974.txt
+- IKEA 365+ HJÄLTE deep-fry skimmer, stainless steel/black: /products/cooking-and-baking-utensils/60580973.txt
+- HULDHET wok turner, walnut: /products/cooking-and-baking-utensils/50522064.txt
+- HULDHET spatula, walnut: /products/cooking-and-baking-utensils/20522065.txt
+- HULDHET rice ladle, walnut: /products/cooking-and-baking-utensils/10522061.txt
+- GRUNKA 4-piece kitchen utensil set, stainless steel: /products/cooking-and-baking-utensils/20577897.txt
+- GNARP 3-piece kitchen utensil set, black: /products/cooking-and-baking-utensils/30335841.txt
+- FULLÄNDAD turner, gray: /products/cooking-and-baking-utensils/80392985.txt
+- FULLÄNDAD spoon, gray: /products/cooking-and-baking-utensils/20392988.txt
+- FULLÄNDAD 5-piece kitchen utensil set, gray: /products/cooking-and-baking-utensils/80435942.txt
+- FINMAT whisk, stainless steel: /products/cooking-and-baking-utensils/80578380.txt
+- FINMAT tongs, stainless steel: /products/cooking-and-baking-utensils/60578381.txt
+- FINMAT spoon, stainless steel: /products/cooking-and-baking-utensils/70578385.txt
+- FINMAT spatula, stainless steel: /products/cooking-and-baking-utensils/00578384.txt
+- FINMAT soup ladle, stainless steel: /products/cooking-and-baking-utensils/20578383.txt
+- FINMAT fork, stainless steel: /products/cooking-and-baking-utensils/40578382.txt
+- DIREKT 3-piece kitchen utensil set, black/stainless steel: /products/cooking-and-baking-utensils/50577867.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

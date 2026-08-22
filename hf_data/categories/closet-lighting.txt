@@ -1,0 +1,32 @@
+# @CATEGORY
+Name: Closet lighting
+ProductCount: 10
+
+# @FILTERS
+PriceRange: $13.00 - $28.00
+Materials: Cover/ Mounting bracket: ABS plastic, Diffuser/ Base: Polycarbonate plastic, Double-sided tape: EVA plastic, Lamp house: Aluminum, Powder coating, Shade/ End cap: Polycarbonate plastic, Shelf support/ Cable clip: Polyamide
+Brand: IKEA
+
+# @ITEMS
+- ROLFSTORP LED light, dimmable: /products/closet-lighting/60519928.txt
+- ÖVERSIDAN LED wardrobe lighting strp w sensor, dimmable white: /products/closet-lighting/80589492.txt
+- ÖVERSIDAN LED wardrobe lighting strp w sensor, dimmable white: /products/closet-lighting/50589554.txt
+- ÖVERSIDAN LED wardrobe lighting strp w sensor, dimmable white: /products/closet-lighting/30589277.txt
+- ÖVERSIDAN LED wardrobe lighting strp w sensor, dimmable gray-beige: /products/closet-lighting/80589543.txt
+- ÖVERSIDAN LED wardrobe lighting strp w sensor, dimmable gray-beige: /products/closet-lighting/80589473.txt
+- ÖVERSIDAN LED wardrobe lighting strp w sensor, dimmable gray-beige: /products/closet-lighting/50589422.txt
+- ÖVERSIDAN LED wardrobe lighting strp w sensor, dimmable dark gray: /products/closet-lighting/70589567.txt
+- ÖVERSIDAN LED wardrobe lighting strp w sensor, dimmable dark gray: /products/closet-lighting/20589517.txt
+- ÖVERSIDAN LED wardrobe lighting strp w sensor, dimmable dark gray: /products/closet-lighting/20589107.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

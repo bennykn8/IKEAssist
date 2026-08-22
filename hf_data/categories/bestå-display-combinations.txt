@@ -1,0 +1,71 @@
+# @CATEGORY
+Name: BESTÅ display combinations
+ProductCount: 49
+
+# @FILTERS
+PriceRange: $385.00 - $875.00
+Materials: Back panel: Fiberboard, Paper foil, Plastic foil, Particleboard, Fiberboard, Paper foil, Plastic edging, Plastic edging, Plastic edging, Paper foil, Tempered glass, Top panel/ Bottom panel/ Side panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Plastic edging
+Brand: IKEA
+
+# @ITEMS
+- BESTÅ storage combination with doors, white/Sutterviken/Kabbarp white clear glass: /products/bestå-display-combinations/99384339.txt
+- BESTÅ storage combination with doors, white/Smeviken/Kabbarp white clear glass: /products/bestå-display-combinations/29384347.txt
+- BESTÅ storage combination with doors, white/Sindvik/Stubbarp white clear glass: /products/bestå-display-combinations/19419074.txt
+- BESTÅ storage combination with doors, white/Ostvik/Kabbarp white clear glass: /products/bestå-display-combinations/19387756.txt
+- BESTÅ storage combination with doors, white Lappviken/Sindvik white clear glass: /products/bestå-display-combinations/09208029.txt
+- BESTÅ storage combination with doors, white Lappviken/Sindvik dark gray: /products/bestå-display-combinations/49575510.txt
+- BESTÅ storage combination with doors, dark gray Lappviken/Sindvik dark gray: /products/bestå-display-combinations/19508145.txt
+- BESTÅ storage combination with doors, black/Sindvik/Stubbarp black: /products/bestå-display-combinations/69419076.txt
+- BESTÅ storage combination with doors, black-brown Selsviken/high gloss dark olive-green: /products/bestå-display-combinations/89421455.txt
+- BESTÅ storage combination with doors, black-brown Lappviken/Sindvik black-brown clear glass: /products/bestå-display-combinations/69208026.txt
+- BESTÅ storage combination w/glass doors, white Sutterviken/Sindvik white clear glass: /products/bestå-display-combinations/39384950.txt
+- BESTÅ storage combination w/glass doors, white/Sutterviken/Kabbarp white clear glass: /products/bestå-display-combinations/69389263.txt
+- BESTÅ storage combination w/glass doors, white/Sutterviken/Kabbarp white clear glass: /products/bestå-display-combinations/09412558.txt
+- BESTÅ storage combination w/glass doors, white stained oak effect/Lappviken wht stained oak effect clear glass: /products/bestå-display-combinations/59412546.txt
+- BESTÅ storage combination w/glass doors, white stained oak effect/Lappviken wht stained oak effect clear glass: /products/bestå-display-combinations/59300860.txt
+- BESTÅ storage combination w/glass doors, white stained oak effect Lappviken/Sindvik wht stained oak effect clear glass: /products/bestå-display-combinations/49089816.txt
+- BESTÅ storage combination w/glass doors, white Smeviken/Ostvik white clear glass: /products/bestå-display-combinations/69384944.txt
+- BESTÅ storage combination w/glass doors, white Smeviken/Ostvik/Kabbarp white clear glass: /products/bestå-display-combinations/99389266.txt
+- BESTÅ storage combination w/glass doors, white Smeviken/Ostvik/Kabbarp white clear glass: /products/bestå-display-combinations/69412555.txt
+- BESTÅ storage combination w/glass doors, white/Selsviken high gloss/beige frosted glass: /products/bestå-display-combinations/89488827.txt
+- BESTÅ storage combination w/glass doors, white/Selsviken high gloss/beige clear glass: /products/bestå-display-combinations/09488826.txt
+- BESTÅ storage combination w/glass doors, white/Lappviken white clear glass: /products/bestå-display-combinations/99300858.txt
+- BESTÅ storage combination w/glass doors, white/Lappviken white clear glass: /products/bestå-display-combinations/49412537.txt
+- BESTÅ storage combination w/glass doors, white Lappviken/Sindvik white clear glass: /products/bestå-display-combinations/29059448.txt
+- BESTÅ storage combination w/glass doors, white/Hanviken white clear glass: /products/bestå-display-combinations/29300871.txt
+- BESTÅ storage combination w/glass doors, white/Hanviken white clear glass: /products/bestå-display-combinations/19412534.txt
+- BESTÅ storage combination w/glass doors, white Hanviken/Sindvik white clear glass: /products/bestå-display-combinations/19059439.txt
+- BESTÅ storage combination w/glass doors, dark gray Lappviken/Sindvik dark gray: /products/bestå-display-combinations/89508137.txt
+- BESTÅ storage combination w/glass doors, dark gray Lappviken/Sindvik dark gray: /products/bestå-display-combinations/39555819.txt
+- BESTÅ storage combination w/glass doors, dark gray Lappviken/Sindvik dark gray: /products/bestå-display-combinations/29508135.txt
+- BESTÅ storage combination w/glass doors, dark gray Lappviken/Fällsvik anthracite: /products/bestå-display-combinations/79555817.txt
+- BESTÅ storage combination w/glass doors, dark gray Lappviken/Fällsvik anthracite: /products/bestå-display-combinations/69508138.txt
+- BESTÅ storage combination w/glass doors, dark gray Lappviken/Fällsvik anthracite: /products/bestå-display-combinations/09508136.txt
+- BESTÅ storage combination w/glass doors, black-brown Selsviken/high gloss dark olive-green: /products/bestå-display-combinations/39421561.txt
+- BESTÅ storage combination w/glass doors, black-brown Selsviken/high gloss dark olive-green: /products/bestå-display-combinations/29421566.txt
+- BESTÅ storage combination w/glass doors, black-brown Selsviken/high gloss dark olive-green: /products/bestå-display-combinations/09435729.txt
+- BESTÅ storage combination w/glass doors, black-brown/Selsviken high gloss/black smoked glass: /products/bestå-display-combinations/99412525.txt
+- BESTÅ storage combination w/glass doors, black-brown/Selsviken high gloss/black smoked glass: /products/bestå-display-combinations/69301114.txt
+- BESTÅ storage combination w/glass doors, black-brown/Selsviken high gloss/black clear glass: /products/bestå-display-combinations/69412522.txt
+- BESTÅ storage combination w/glass doors, black-brown/Selsviken high gloss/black clear glass: /products/bestå-display-combinations/69301109.txt
+- BESTÅ storage combination w/glass doors, black-brown/Selsviken high gloss/black clear glass: /products/bestå-display-combinations/59059461.txt
+- BESTÅ storage combination w/glass doors, black-brown/Selsviken high gloss/beige smoked glass: /products/bestå-display-combinations/99124761.txt
+- BESTÅ storage combination w/glass doors, black-brown/Selsviken high gloss/beige clear glass: /products/bestå-display-combinations/59124758.txt
+- BESTÅ storage combination w/glass doors, black-brown Lappviken/Sindvik black-brown clear glass: /products/bestå-display-combinations/79059262.txt
+- BESTÅ storage combination w/glass doors, black-brown/Lappviken black-brown clear glass: /products/bestå-display-combinations/29412519.txt
+- BESTÅ storage combination w/glass doors, black-brown/Lappviken black-brown clear glass: /products/bestå-display-combinations/29300847.txt
+- BESTÅ storage combination w/glass doors, black-brown Hanviken/Sindvik black-brown clear glass: /products/bestå-display-combinations/79059436.txt
+- BESTÅ storage combination w/glass doors, black-brown/Hanviken black-brown clear glass: /products/bestå-display-combinations/89412516.txt
+- BESTÅ storage combination w/glass doors, black-brown/Hanviken black-brown clear glass: /products/bestå-display-combinations/49300870.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

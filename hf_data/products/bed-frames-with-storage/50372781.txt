@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: NORDLI Bed frame with storage, anthracite, Queen
+SKU: 50372781
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/nordli-bed-frame-with-storage-anthracite-50372781/
+Category: Bed frames with storage
+Description: . NORDLI bed frame is more than a comfortable bed. It’s also a storage unit with 6 spacious drawers.
+
+# @OFFER
+Price: 499
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top frame/ Drawer front/ Head/footboard: Fiberboard, Printed acrylic paint, Bed base slats: Solid pine, Board on frame: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Plastic edging, Acrylic paint
+Features: Fits mattresses 59-63" wide and up to 79½" long. | Coordinates with other furniture in the NORDLI series. | May be completed with FIXA stick-on floor protectors to protect the underlying surface against wear.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/nordli-bed-frame-with-storage-anthracite__1151029_pe884733_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

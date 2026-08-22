@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BROFJÄRDEN towel holder, chrome effect
+SKU: 10582229
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/brofjaerden-towel-holder-chrome-effect-10582229/
+Category: Bathroom shelves
+Description: , 81/4" BROFJÄRDEN bathroom accessories with shiny chrome-plated details reminisce of elegant, lasting designs of the past. This towel ring is a stylish solution for hanging towels within arm’s reach....
+
+# @OFFER
+Price: 8.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Ring/ Adapter: Stainless steel, Stainless steel, Arm/ Cover plate: Aluminum, Chrome plated, End cap/ Bolt/ Spring/ Ball/ Screw: Stainless steel
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Screws for wall mounting are not included. | If you are uncertain about what type of mounting devices to use, please contact your local hardware store.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/brofjaerden-towel-holder-chrome-effect__1329652_pe945220_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

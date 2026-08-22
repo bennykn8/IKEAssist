@@ -1,0 +1,37 @@
+# @CATEGORY
+Name: SEKTION High & cleaning cabinet solutions
+ProductCount: 15
+
+# @FILTERS
+PriceRange: $5.99 - $400.00
+Materials: Bottom panel: Fiberboard, Plastic foil, Acrylic paint, Bottom/ Lock/ Handle/ Support bracket/ Tube/ Rail: Steel, Epoxy/polyester powder coating, Bracket: Steel, Drawer mat: Polyethylene, Thermoplastic elastomer, Glide part: Acetal plastic, Guard rail/ Tube: Steel, Galvanized, Guide rail/ Sheet/ Tube/ Bolt/ Bearing holder: Steel, Epoxy/polyester powder coating, Hook bracket: Reinforced polyamide, Lower part/ Lower body/ Upper body/ Frame/ Basket/ Single lever: Steel, Epoxy/polyester powder coating, Main parts: Steel, Epoxy/polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- UTRUSTA wire basket: /products/sektion-high-and-cleaning-cabinet-solutions/80265652.txt
+- UTRUSTA Wire basket: /products/sektion-high-and-cleaning-cabinet-solutions/20265650.txt
+- UTRUSTA wire basket: /products/sektion-high-and-cleaning-cabinet-solutions/00265651.txt
+- UTRUSTA wall corner cabinet carousel: /products/sektion-high-and-cleaning-cabinet-solutions/80265647.txt
+- UTRUSTA Towel rail, white: /products/sektion-high-and-cleaning-cabinet-solutions/50247216.txt
+- UTRUSTA pull-out rack for cleaning supplies: /products/sektion-high-and-cleaning-cabinet-solutions/80325892.txt
+- UTRUSTA pull-out rack for cleaning supplies: /products/sektion-high-and-cleaning-cabinet-solutions/10580824.txt
+- UTRUSTA pull-out pantry organizer: /products/sektion-high-and-cleaning-cabinet-solutions/10517795.txt
+- UTRUSTA Partition, silver color: /products/sektion-high-and-cleaning-cabinet-solutions/20297104.txt
+- UTRUSTA Fixture for mounting door on drawer: /products/sektion-high-and-cleaning-cabinet-solutions/00280755.txt
+- UTRUSTA Corner hardware, galvanized: /products/sektion-high-and-cleaning-cabinet-solutions/10343644.txt
+- UTRUSTA corner base cabinet carousel, gray: /products/sektion-high-and-cleaning-cabinet-solutions/60601800.txt
+- UTRUSTA Corner base cabinet carousel: /products/sektion-high-and-cleaning-cabinet-solutions/60215291.txt
+- UTRUSTA corner base cab pull-out fitting, gray: /products/sektion-high-and-cleaning-cabinet-solutions/50596762.txt
+- UTRUSTA assembly kit for pull-out function: /products/sektion-high-and-cleaning-cabinet-solutions/80510583.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,106 @@
+# @CATEGORY
+Name: TÄNNFORSEN vanity units with sink
+ProductCount: 84
+
+# @FILTERS
+PriceRange: $509.00 - $1342.00
+Materials: Bottom panel: Particleboard, Plastic foil (min. 70% recycled), Plastic foil, Plastic edging, Plastic edging (min. 50% recycled), Inner side filling/ Door filling: Fiberboard, Plastic foil (min. 70% recycled), Melamine foil, Inner side filling/ Drawer front panel: Fiberboard, Plastic foil (min. 70% recycled), Melamine foil, Middle rail/ Drawer divider/ Drawer sides: Particleboard, Plastic foil, Plastic edging, Plastic edging (min. 50% recycled), Side frame/ Support rail/ Door frame: Fiberboard, Plastic foil (min. 70% recycled), Plastic edging, Plastic edging (min. 50% recycled), Side frame/ Support rail/ Drawer front frame: Fiberboard, Plastic foil (min. 70% recycled), Plastic edging, Plastic edging (min. 50% recycled)
+Brand: IKEA
+
+# @ITEMS
+- TÄNNFORSEN / VÄSTERSJÖN Bathroom vanity with sink & faucet, white/white marble effect: /products/tännforsen-vanity-units-with-sink/69568684.txt
+- TÄNNFORSEN / VÄSTERSJÖN Bathroom vanity with sink & faucet, white/white marble effect: /products/tännforsen-vanity-units-with-sink/49568680.txt
+- TÄNNFORSEN / VÄSTERSJÖN Bathroom vanity with sink & faucet, white/white marble effect: /products/tännforsen-vanity-units-with-sink/29568676.txt
+- TÄNNFORSEN / VÄSTERSJÖN Bathroom vanity with sink & faucet, white/black marble effect: /products/tännforsen-vanity-units-with-sink/89568683.txt
+- TÄNNFORSEN / VÄSTERSJÖN Bathroom vanity with sink & faucet, white/black marble effect: /products/tännforsen-vanity-units-with-sink/69568679.txt
+- TÄNNFORSEN / VÄSTERSJÖN Bathroom vanity with sink & faucet, white/black marble effect: /products/tännforsen-vanity-units-with-sink/49568675.txt
+- TÄNNFORSEN / VÄSTERSJÖN Bathroom vanity with sink & faucet, light gray/white marble effect: /products/tännforsen-vanity-units-with-sink/89568678.txt
+- TÄNNFORSEN / VÄSTERSJÖN Bathroom vanity with sink & faucet, light gray/white marble effect: /products/tännforsen-vanity-units-with-sink/79568674.txt
+- TÄNNFORSEN / VÄSTERSJÖN Bathroom vanity with sink & faucet, light gray/white marble effect: /products/tännforsen-vanity-units-with-sink/09568682.txt
+- TÄNNFORSEN / VÄSTERSJÖN Bathroom vanity with sink & faucet, light gray/black marble effect: /products/tännforsen-vanity-units-with-sink/99568673.txt
+- TÄNNFORSEN / VÄSTERSJÖN Bathroom vanity with sink & faucet, light gray/black marble effect: /products/tännforsen-vanity-units-with-sink/29568681.txt
+- TÄNNFORSEN / VÄSTERSJÖN Bathroom vanity with sink & faucet, light gray/black marble effect: /products/tännforsen-vanity-units-with-sink/09568677.txt
+- TÄNNFORSEN / VÄSTERSJÖN Bathroom vanity w doors/sink/faucet, white/white marble effect: /products/tännforsen-vanity-units-with-sink/79568688.txt
+- TÄNNFORSEN / VÄSTERSJÖN Bathroom vanity w doors/sink/faucet, white/brown walnut effect: /products/tännforsen-vanity-units-with-sink/59568750.txt
+- TÄNNFORSEN / VÄSTERSJÖN Bathroom vanity w doors/sink/faucet, white/black marble effect: /products/tännforsen-vanity-units-with-sink/99568687.txt
+- TÄNNFORSEN / VÄSTERSJÖN Bathroom vanity w doors/sink/faucet, light gray/white marble effect: /products/tännforsen-vanity-units-with-sink/19568686.txt
+- TÄNNFORSEN / VÄSTERSJÖN Bathroom vanity w doors/sink/faucet, light gray/brown walnut effect: /products/tännforsen-vanity-units-with-sink/79568749.txt
+- TÄNNFORSEN / VÄSTERSJÖN Bathroom vanity w doors/sink/faucet, light gray/black marble effect: /products/tännforsen-vanity-units-with-sink/39568685.txt
+- TÄNNFORSEN / TÖRNVIKEN Bathroom vanity with sink & faucet, white/white marble effect: /products/tännforsen-vanity-units-with-sink/89534278.txt
+- TÄNNFORSEN / TÖRNVIKEN Bathroom vanity with sink & faucet, white/white marble effect: /products/tännforsen-vanity-units-with-sink/49535661.txt
+- TÄNNFORSEN / TÖRNVIKEN Bathroom vanity with sink & faucet, white/white marble effect: /products/tännforsen-vanity-units-with-sink/19532131.txt
+- TÄNNFORSEN / TÖRNVIKEN Bathroom vanity with sink & faucet, light gray/white marble effect: /products/tännforsen-vanity-units-with-sink/99532132.txt
+- TÄNNFORSEN / TÖRNVIKEN Bathroom vanity with sink & faucet, light gray/white marble effect: /products/tännforsen-vanity-units-with-sink/89535659.txt
+- TÄNNFORSEN / TÖRNVIKEN Bathroom vanity with sink & faucet, light gray/white marble effect: /products/tännforsen-vanity-units-with-sink/49534280.txt
+- TÄNNFORSEN / TÖRNVIKEN Bathroom vanity with sink & faucet, light gray/black marble effect: /products/tännforsen-vanity-units-with-sink/09534282.txt
+- TÄNNFORSEN / RUTSJÖN Double vanity with sink & faucet, white/black marble effect: /products/tännforsen-vanity-units-with-sink/69535938.txt
+- TÄNNFORSEN / RUTSJÖN Double vanity with sink & faucet, light gray/white marble effect: /products/tännforsen-vanity-units-with-sink/89535937.txt
+- TÄNNFORSEN / RUTSJÖN Double vanity with sink & faucet, light gray/brown walnut effect: /products/tännforsen-vanity-units-with-sink/59535948.txt
+- TÄNNFORSEN / RUTSJÖN Double vanity with sink & faucet, light gray/black marble effect: /products/tännforsen-vanity-units-with-sink/29535935.txt
+- TÄNNFORSEN / RUTSJÖN Bathroom vanity with sink & faucets, white/brown walnut effect: /products/tännforsen-vanity-units-with-sink/79534288.txt
+- TÄNNFORSEN / RUTSJÖN Bathroom vanity with sink & faucets, light gray/brown walnut effect: /products/tännforsen-vanity-units-with-sink/99534287.txt
+- TÄNNFORSEN / RUTSJÖN Bathroom vanity with sink & faucets, light gray/black marble effect: /products/tännforsen-vanity-units-with-sink/39534285.txt
+- TÄNNFORSEN / RUTSJÖN Bathroom vanity with sink & faucet, white/white marble effect: /products/tännforsen-vanity-units-with-sink/79534293.txt
+- TÄNNFORSEN / RUTSJÖN Bathroom vanity with sink & faucet, white/white marble effect: /products/tännforsen-vanity-units-with-sink/69532063.txt
+- TÄNNFORSEN / RUTSJÖN Bathroom vanity with sink & faucet, white/white marble effect: /products/tännforsen-vanity-units-with-sink/59535788.txt
+- TÄNNFORSEN / RUTSJÖN Bathroom vanity with sink & faucet, white: /products/tännforsen-vanity-units-with-sink/99530717.txt
+- TÄNNFORSEN / RUTSJÖN Bathroom vanity with sink & faucet, white: /products/tännforsen-vanity-units-with-sink/49590105.txt
+- TÄNNFORSEN / RUTSJÖN Bathroom vanity with sink & faucet, white: /products/tännforsen-vanity-units-with-sink/29530693.txt
+- TÄNNFORSEN / RUTSJÖN Bathroom vanity with sink & faucet, white: /products/tännforsen-vanity-units-with-sink/09530750.txt
+- TÄNNFORSEN / RUTSJÖN Bathroom vanity with sink & faucet, white/brown walnut effect: /products/tännforsen-vanity-units-with-sink/99535890.txt
+- TÄNNFORSEN / RUTSJÖN Bathroom vanity with sink & faucet, white/brown walnut effect: /products/tännforsen-vanity-units-with-sink/39535765.txt
+- TÄNNFORSEN / RUTSJÖN Bathroom vanity with sink & faucet, white/brown walnut effect: /products/tännforsen-vanity-units-with-sink/29534139.txt
+- TÄNNFORSEN / RUTSJÖN Bathroom vanity with sink & faucet, white/brown walnut effect: /products/tännforsen-vanity-units-with-sink/29532079.txt
+- TÄNNFORSEN / RUTSJÖN Bathroom vanity with sink & faucet, white/brown walnut effect: /products/tännforsen-vanity-units-with-sink/19535790.txt
+- TÄNNFORSEN / RUTSJÖN Bathroom vanity with sink & faucet, white/black marble effect: /products/tännforsen-vanity-units-with-sink/69535764.txt
+- TÄNNFORSEN / RUTSJÖN Bathroom vanity with sink & faucet, white/black marble effect: /products/tännforsen-vanity-units-with-sink/59534294.txt
+- TÄNNFORSEN / RUTSJÖN Bathroom vanity with sink & faucet, white/black marble effect: /products/tännforsen-vanity-units-with-sink/19535889.txt
+- TÄNNFORSEN / RUTSJÖN Bathroom vanity with sink & faucet, white/black marble effect: /products/tännforsen-vanity-units-with-sink/19532070.txt
+- TÄNNFORSEN / RUTSJÖN Bathroom vanity with sink & faucet, light gray/white marble effect: /products/tännforsen-vanity-units-with-sink/79535787.txt
+- TÄNNFORSEN / RUTSJÖN Bathroom vanity with sink & faucet, light gray/white marble effect: /products/tännforsen-vanity-units-with-sink/39534290.txt
+- TÄNNFORSEN / RUTSJÖN Bathroom vanity with sink & faucet, light gray/white marble effect: /products/tännforsen-vanity-units-with-sink/29534035.txt
+- TÄNNFORSEN / RUTSJÖN Bathroom vanity with sink & faucet, light gray/white marble effect: /products/tännforsen-vanity-units-with-sink/09532075.txt
+- TÄNNFORSEN / RUTSJÖN Bathroom vanity with sink & faucet, light gray: /products/tännforsen-vanity-units-with-sink/29590106.txt
+- TÄNNFORSEN / RUTSJÖN Bathroom vanity with sink & faucet, light gray: /products/tännforsen-vanity-units-with-sink/09530694.txt
+- TÄNNFORSEN / RUTSJÖN Bathroom vanity with sink & faucet, light gray/brown walnut effect: /products/tännforsen-vanity-units-with-sink/99535786.txt
+- TÄNNFORSEN / RUTSJÖN Bathroom vanity with sink & faucet, light gray/brown walnut effect: /products/tännforsen-vanity-units-with-sink/59535887.txt
+- TÄNNFORSEN / RUTSJÖN Bathroom vanity with sink & faucet, light gray/brown walnut effect: /products/tännforsen-vanity-units-with-sink/59532073.txt
+- TÄNNFORSEN / RUTSJÖN Bathroom vanity with sink & faucet, light gray/brown walnut effect: /products/tännforsen-vanity-units-with-sink/49535784.txt
+- TÄNNFORSEN / RUTSJÖN Bathroom vanity with sink & faucet, light gray/brown walnut effect: /products/tännforsen-vanity-units-with-sink/49534138.txt
+- TÄNNFORSEN / RUTSJÖN Bathroom vanity with sink & faucet, light gray/brown walnut effect: /products/tännforsen-vanity-units-with-sink/09532080.txt
+- TÄNNFORSEN / RUTSJÖN Bathroom vanity with sink & faucet, light gray/black marble effect: /products/tännforsen-vanity-units-with-sink/99535885.txt
+- TÄNNFORSEN / RUTSJÖN Bathroom vanity with sink & faucet, light gray/black marble effect: /products/tännforsen-vanity-units-with-sink/99532071.txt
+- TÄNNFORSEN / RUTSJÖN Bathroom vanity with sink & faucet, light gray/black marble effect: /products/tännforsen-vanity-units-with-sink/79534132.txt
+- TÄNNFORSEN / RUTSJÖN Bathroom vanity with sink & faucet, light gray/black marble effect: /products/tännforsen-vanity-units-with-sink/49532078.txt
+- TÄNNFORSEN / RUTSJÖN Bathroom vanity w doors/sink/faucet, light gray: /products/tännforsen-vanity-units-with-sink/09530726.txt
+- TÄNNFORSEN / ORRSJÖN Double vanity with sink & faucet, white: /products/tännforsen-vanity-units-with-sink/89535744.txt
+- TÄNNFORSEN / ORRSJÖN Bathroom vanity with sink & faucets, white: /products/tännforsen-vanity-units-with-sink/79590118.txt
+- TÄNNFORSEN / ORRSJÖN Bathroom vanity with sink & faucets, light gray: /products/tännforsen-vanity-units-with-sink/59590119.txt
+- TÄNNFORSEN / ORRSJÖN Bathroom vanity with sink & faucet, white: /products/tännforsen-vanity-units-with-sink/99530703.txt
+- TÄNNFORSEN / ORRSJÖN Bathroom vanity with sink & faucet, white: /products/tännforsen-vanity-units-with-sink/69530752.txt
+- TÄNNFORSEN / ORRSJÖN Bathroom vanity with sink & faucet, white: /products/tännforsen-vanity-units-with-sink/39590120.txt
+- TÄNNFORSEN / ORRSJÖN Bathroom vanity with sink & faucet, white: /products/tännforsen-vanity-units-with-sink/39590097.txt
+- TÄNNFORSEN / ORRSJÖN Bathroom vanity with sink & faucet, white: /products/tännforsen-vanity-units-with-sink/39530763.txt
+- TÄNNFORSEN / ORRSJÖN Bathroom vanity with sink & faucet, white: /products/tännforsen-vanity-units-with-sink/39530720.txt
+- TÄNNFORSEN / ORRSJÖN Bathroom vanity with sink & faucet, white: /products/tännforsen-vanity-units-with-sink/29578406.txt
+- TÄNNFORSEN / ORRSJÖN Bathroom vanity with sink & faucet, white: /products/tännforsen-vanity-units-with-sink/09590107.txt
+- TÄNNFORSEN / ORRSJÖN Bathroom vanity with sink & faucet, light gray: /products/tännforsen-vanity-units-with-sink/89590108.txt
+- TÄNNFORSEN / ORRSJÖN Bathroom vanity with sink & faucet, light gray: /products/tännforsen-vanity-units-with-sink/79530704.txt
+- TÄNNFORSEN / ORRSJÖN Bathroom vanity with sink & faucet, light gray: /products/tännforsen-vanity-units-with-sink/49530753.txt
+- TÄNNFORSEN / ORRSJÖN Bathroom vanity with sink & faucet, light gray: /products/tännforsen-vanity-units-with-sink/19590121.txt
+- TÄNNFORSEN / ORRSJÖN Bathroom vanity with sink & faucet, light gray: /products/tännforsen-vanity-units-with-sink/19590098.txt
+- TÄNNFORSEN / ORRSJÖN Bathroom vanity with sink & faucet, light gray: /products/tännforsen-vanity-units-with-sink/19530764.txt
+- TÄNNFORSEN / ORRSJÖN Bathroom vanity with sink & faucet, light gray: /products/tännforsen-vanity-units-with-sink/19530721.txt
+- TÄNNFORSEN / ORRSJÖN Bathroom vanity with sink & faucet, light gray: /products/tännforsen-vanity-units-with-sink/09578407.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

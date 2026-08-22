@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: FRIDANS black-out roller blind, white yellow/stripe, 48x76 ¾"
+SKU: 70595728
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/fridans-black-out-roller-blind-white-yellow-stripe-70595728/
+Category: Blackout blinds & shades
+Description: The zesty white/yellow stripe pattern adds vitality to any room where you want to block out light but maintain a vibrant look. You can raise or lower the blind with ease using the magic of the wand. C...
+
+# @OFFER
+Price: 49.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100 % polyester (100% recycled), Fabric treatment: Polyethylene, Bottom rail: Polystyrene
+Dimensions: To ensure proper function when cutting the blind to fit a smaller window, do not exceed the max. cut length stated in the product information/assembly instructions. Save documents for future reference.
+Features: The laminated fabric blocks out all light. Ensure the curtain covers the entire window and when possible, choose wall fittings with a short (2⅜ in) arm to prevent light from coming in through gaps. | A darker environment stimulates production of the body's natural sleep hormone, melatonin. The hormone helps to regulate the body's sleep-wake cycle and can encourage better sleep. | The top rail can be cut max. 7⅞ in.
+Care: Do not wash. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/fridans-black-out-roller-blind-white-yellow-stripe__1302992_pe938191_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SKOGSVIKEN hook for door, black
+SKU: 20423819
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/skogsviken-hook-for-door-black-20423819/
+Category: Bathroom shelves
+Description: A clean-cut design with a bold expression in black. SKOGSVIKEN series offers clever ways to organize your space and bring a bit of attitude into your bathroom. Hangs over the top edge of the door maki...
+
+# @OFFER
+Price: 2.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Epoxy/polyester powder coating
+Features: May be combined with other products in the SKOGSVIKEN series. | Suitable to hang on doors with max. thickness ¾" or 1 ⅝" depending on which end of the hook you use.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/skogsviken-hook-for-door-black__0833424_pe778066_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

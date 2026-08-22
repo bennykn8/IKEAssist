@@ -1,0 +1,36 @@
+# @CATEGORY
+Name: Wooden toys
+ProductCount: 14
+
+# @FILTERS
+PriceRange: $5.99 - $49.99
+Materials: Back panel/ Back rail: Fiberboard, Acrylic paint, Bead: Solid beech, Tinted clear acrylic lacquer, Clear acrylic lacquer, Bottom part: Zinc, Acrylic paint, Cross rail/ Bottom/ Screw vice: Birch plywood, Clear acrylic lacquer, Frame: ABS plastic, Magnet: Neodymium, Main parts: Solid pine, Tinted clear acrylic lacquer, Nail/ Axle: Steel, Galvanized, Plastic part: ABS plastic, Printed acrylic paint, Plastic part: Polypropylene
+Brand: IKEA
+
+# @ITEMS
+- UPPSTÅ crane with blocks, multicolor/beech: /products/wooden-toys/40580851.txt
+- UNDERHÅLLA abacus, multicolor: /products/wooden-toys/60506676.txt
+- UNDERHÅLLA 40-piece wooden building block set, multicolor: /products/wooden-toys/00506684.txt
+- LILLABO turntable: /products/wooden-toys/10343856.txt
+- LILLABO toy vehicle, mixed colors: /products/wooden-toys/40171472.txt
+- LILLABO rail: /products/wooden-toys/30363725.txt
+- LILLABO Battery-operated locomotive: /products/wooden-toys/10433423.txt
+- LILLABO 50-piece track set: /products/wooden-toys/10320077.txt
+- LILLABO 5-piece train bridge set: /products/wooden-toys/10320063.txt
+- LILLABO 45-piece train set with track: /products/wooden-toys/20330066.txt
+- LILLABO 3-piece train set: /products/wooden-toys/60320094.txt
+- LILLABO 20-piece basic train set, multicolor: /products/wooden-toys/00320054.txt
+- FLISAT Doll house/wall shelf: /products/wooden-toys/50290785.txt
+- BLOMFLUGA 13-piece toy tool set: /products/wooden-toys/00539627.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

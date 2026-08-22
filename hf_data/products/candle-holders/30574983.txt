@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: SILVERPÄRON pillar candle holder, white
+SKU: 30574983
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/silverpaeron-pillar-candle-holder-white-30574983/
+Category: Candle holders
+Description: , 8" The SILVERPÄRON series is inspired by slender flower stems supporting large petals, while being securely anchored in the soil with firm roots. A timeless Scandinavian design with beautifully curv...
+
+# @OFFER
+Price: 5.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Epoxy/polyester powder coating
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/silverpaeron-pillar-candle-holder-white__1291520_pe934910_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

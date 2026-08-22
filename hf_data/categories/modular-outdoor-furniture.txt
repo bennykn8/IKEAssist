@@ -1,0 +1,54 @@
+# @CATEGORY
+Name: Modular outdoor furniture
+ProductCount: 32
+
+# @FILTERS
+PriceRange: $420.00 - $2824.00
+Materials: Back frame/ Leg frame: Steel, Polyester powder coating, Feet: Polyethylene, Frame/ Binding/ Decoration: Rattan, Clear acrylic lacquer, Leg frame: Steel, Polyester powder coating, Leg/ Armrest: Steel, Powder coating, Leg/ Supporting rail: Steel, Powder coating, Leg: Steel, Powder coating, Main parts/ Support: Polypropylene, Polyethylene, Mesh: 63% TPE, 37 % polyester, Metal tube: Steel, Galvanized, Polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- VITTSKÄR 5-seat furniture set, outdoor, with chaise/plastic rattan dark gray: /products/modular-outdoor-furniture/59591251.txt
+- VITTSKÄR 5-seat furniture set, outdoor, with chaise/plastic rattan dark gray Frösön/Duvholmen beige: /products/modular-outdoor-furniture/29619685.txt
+- VITTSKÄR 4-seat conversation set, outdoor, outdoor/plastic rattan dark gray: /products/modular-outdoor-furniture/29591243.txt
+- VITTSKÄR 4-seat conversation set, outdoor, outdoor plastic rattan dark gray/Frösön/Duvholmen beige: /products/modular-outdoor-furniture/99619677.txt
+- VITTSKÄR 3-seat conversation set, with chaise outdoor/plastic rattan dark gray Frösön/Duvholmen beige: /products/modular-outdoor-furniture/29618841.txt
+- VITTSKÄR 3-seat conversation set, outdoor plastic rattan dark gray/Frösön/Duvholmen beige: /products/modular-outdoor-furniture/59618873.txt
+- VITTSKÄR 3-seat conversation set, outdoor plastic rattan dark gray/Frösön/Duvholmen beige: /products/modular-outdoor-furniture/09618837.txt
+- TVARÖ conversation set, outdoor, brown/Frösön/Duvholmen dark gray: /products/modular-outdoor-furniture/79584886.txt
+- TVARÖ conversation set, outdoor, brown/Frösön/Duvholmen beige: /products/modular-outdoor-furniture/69584882.txt
+- TVARÖ 5-seat furniture set, outdoor, brown/Frösön/Duvholmen dark gray: /products/modular-outdoor-furniture/89584904.txt
+- TVARÖ 5-seat furniture set, outdoor, brown/Frösön/Duvholmen beige: /products/modular-outdoor-furniture/09584899.txt
+- TVARÖ 4-seat conversation set, outdoor, brown/Frösön/Duvholmen dark gray: /products/modular-outdoor-furniture/89584895.txt
+- TVARÖ 4-seat conversation set, outdoor, brown/Frösön/Duvholmen beige: /products/modular-outdoor-furniture/99584890.txt
+- SEGERÖN sectional, 3-seat corner, outdoor white/beige/Frösön/Duvholmen beige: /products/modular-outdoor-furniture/49584623.txt
+- SEGERÖN / LÅGASKÄR 3-seat conversation set, outdoor white/beige/Frösön/Duvholmen beige: /products/modular-outdoor-furniture/19584870.txt
+- SEGERÖN 5-seat furniture set, outdoor, white/beige/Frösön/Duvholmen beige: /products/modular-outdoor-furniture/89584602.txt
+- SEGERÖN 3-seat conversation set, outdoor white/beige/Frösön/Duvholmen dark gray: /products/modular-outdoor-furniture/89584522.txt
+- SEGERÖN 3-seat conversation set, outdoor white/beige/Frösön/Duvholmen beige: /products/modular-outdoor-furniture/89584503.txt
+- REVSKÄR 3-seat conversation set, outdoor anthracite/Järpön/Duvholmen anthracite: /products/modular-outdoor-furniture/59544735.txt
+- REVSKÄR 3-seat conversation set, outdoor anthracite/Frösön/Duvholmen dark gray: /products/modular-outdoor-furniture/99584437.txt
+- REVSKÄR 3-seat conversation set, outdoor anthracite/Frösön/Duvholmen dark gray: /products/modular-outdoor-furniture/79544635.txt
+- NÄMMARÖ 4-seat conversation set, outdoor, outdoor/light brown stained: /products/modular-outdoor-furniture/59607596.txt
+- NÄMMARÖ 4-seat conversation set, outdoor, outdoor light brown stained/Frösön/Duvholmen beige: /products/modular-outdoor-furniture/69611159.txt
+- NÄMMARÖ 4-seat conversation set, outdoor, light brown stained: /products/modular-outdoor-furniture/89579304.txt
+- NÄMMARÖ 4-seat conversation set, outdoor, light brown stained/Kuddarna light grey-beige: /products/modular-outdoor-furniture/89575400.txt
+- NÄMMARÖ 4-seat conversation set, outdoor, light brown stained/Frösön/Duvholmen beige: /products/modular-outdoor-furniture/19584276.txt
+- NÄMMARÖ 3-seat conversation set, outdoor/light brown stained: /products/modular-outdoor-furniture/79607519.txt
+- NÄMMARÖ 3-seat conversation set, outdoor light brown stained/Frösön/Duvholmen beige: /products/modular-outdoor-furniture/49611155.txt
+- JUTHOLMEN 4-seat conversation set, outdoor, dark gray/Kuddarna light grey-beige: /products/modular-outdoor-furniture/89579827.txt
+- HAVSTEN / LÅGASKÄR conversation set, outdoor, beige/beige: /products/modular-outdoor-furniture/29501011.txt
+- HAVSTEN / LÅGASKÄR conversation set, outdoor, beige/beige: /products/modular-outdoor-furniture/19501016.txt
+- HAVSTEN / LÅGASKÄR 4-seat conversation set, outdoor, beige/beige: /products/modular-outdoor-furniture/19501002.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

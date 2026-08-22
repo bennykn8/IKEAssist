@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: DIMPA storage bag, clear, 25 ½x8 ¾x25 ½"
+SKU: 10056770
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/dimpa-storage-bag-clear-10056770/
+Category: Bags
+Description: This durable and transparent bag holds everything from car tires and sports gear to seasonal clothing. It’s also easy to clean and simple to store since the bag folds completely flat when empty. Easy ...
+
+# @OFFER
+Price: 4.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polypropylene (min. 60% recycled)
+Dimensions: The bag can hold a maximum of 1 wheel with a diameter of 24 ⅜ " and a width of 7 ⅞ ". If the diameter is smaller, the wheel can be wider.
+Care: Do not wash. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/dimpa-storage-bag-clear__0711229_pe728074_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,274 @@
+# @CATEGORY
+Name: Bed frames
+ProductCount: 252
+
+# @FILTERS
+PriceRange: $55.00 - $989.00
+Materials: Back fabric/ Lining: 100 % polyester (100% recycled), Bed base frame: Solid pine, Adhesive, Bed base slats: Layer-glued wood veneer, Paper foil, Adhesive resin as coating, Bed end filling/ Rail/ Bedside: Particleboard, Paper foil, Plastic edging, Bed slats: Layer-glued wood veneer, Adhesive resin as coating, Bedside/ Bottom rail: Particleboard, Paper foil, Bedside: Particleboard, Fiberboard, Acrylic paint, Acrylic paint, Plastic edging, Bedside: Particleboard, Fiberboard, Ash veneer, Paper, Stain, Clear acrylic lacquer, Printed and embossed acrylic paint, Plastic edging, Bedside: Particleboard, Fiberboard, Ash veneer, Stain, Clear acrylic lacquer, Printed and embossed acrylic paint, Paper, Plastic edging, Bedside: Particleboard, Fiberboard, Oak veneer, Clear acrylic lacquer, Printed and embossed acrylic paint, Paper, Plastic edging
+Brand: IKEA
+
+# @ITEMS
+- YTTERVÅG four-poster bed frame, gray-brown, Queen: /products/bed-frames/89516665.txt
+- YTTERVÅG four-poster bed frame, gray-brown, King: /products/bed-frames/39516663.txt
+- YTTERVÅG four-poster bed frame, gray-brown/Lyngör white, Queen: /products/bed-frames/79567269.txt
+- YTTERVÅG four-poster bed frame, gray-brown/Lyngör white, King: /products/bed-frames/19567267.txt
+- YTTERVÅG four-poster bed frame, gray-brown/Luröy, King: /products/bed-frames/79418585.txt
+- YTTERVÅG four-poster bed frame, gray-brown/Luröy, Queen: /products/bed-frames/39418587.txt
+- YTTERVÅG four-poster bed frame, gray-brown/Lönset, King: /products/bed-frames/89496865.txt
+- YTTERVÅG four-poster bed frame, gray-brown/Lönset, Queen: /products/bed-frames/49496867.txt
+- YTTERVÅG four-poster bed frame, black, King: /products/bed-frames/59516662.txt
+- YTTERVÅG four-poster bed frame, black, Queen: /products/bed-frames/19516664.txt
+- YTTERVÅG four-poster bed frame, black/Lyngör dark gray, Queen: /products/bed-frames/99567268.txt
+- YTTERVÅG four-poster bed frame, black/Lyngör dark gray, King: /products/bed-frames/39567266.txt
+- YTTERVÅG four-poster bed frame, black/Luröy, Queen: /products/bed-frames/59418586.txt
+- YTTERVÅG four-poster bed frame, black/Luröy, King: /products/bed-frames/19418588.txt
+- YTTERVÅG four-poster bed frame, black/Lönset, Queen: /products/bed-frames/69496866.txt
+- YTTERVÅG four-poster bed frame, black/Lönset, King: /products/bed-frames/19496864.txt
+- VITARNA four-poster bed frame, white Luröy/Skådis wood, Full: /products/bed-frames/19556344.txt
+- VITARNA four-poster bed frame, white Luröy/Skådis white, Full: /products/bed-frames/49556333.txt
+- VITARNA four-poster bed frame, white Luröy/Skådis black, Full: /products/bed-frames/19556264.txt
+- VITARNA four-poster bed frame, white/Luröy, Full/Double: /products/bed-frames/69556129.txt
+- VITARNA four-poster bed frame, white, Full/Double: /products/bed-frames/00573683.txt
+- VIHALS bed frame, white/Luröy, Full/Double: /products/bed-frames/69581845.txt
+- VIHALS bed frame, white/Luröy, Queen: /products/bed-frames/19581838.txt
+- VIHALS bed frame, white, Full/Double: /products/bed-frames/30602448.txt
+- VIHALS bed frame, white, Queen: /products/bed-frames/20602458.txt
+- VEVELSTAD bed frame with 2 headboards, white/Tolkning rattan, Queen: /products/bed-frames/89441726.txt
+- VEVELSTAD bed frame with 2 headboards, white/Tolkning rattan, King: /products/bed-frames/79441736.txt
+- VEVELSTAD bed frame with 2 headboards, white/Tolkning rattan, Full: /products/bed-frames/69441732.txt
+- VEVELSTAD bed frame, white, Queen: /products/bed-frames/50506436.txt
+- VEVELSTAD bed frame, white, King: /products/bed-frames/40520254.txt
+- VEVELSTAD bed frame, white, Full/Double: /products/bed-frames/00506434.txt
+- TONSTAD bed frame, off-white/Lyngör white, King: /products/bed-frames/79575801.txt
+- TONSTAD bed frame, off-white/Lyngör white, Full: /products/bed-frames/49575794.txt
+- TONSTAD bed frame, off-white/Lyngör white, Queen: /products/bed-frames/29575808.txt
+- TONSTAD bed frame, off-white/Luröy, King: /products/bed-frames/99577738.txt
+- TONSTAD bed frame, off-white/Luröy, Queen: /products/bed-frames/59577740.txt
+- TONSTAD bed frame, off-white/Luröy, Full: /products/bed-frames/39577736.txt
+- TONSTAD bed frame, off-white/Lönset, King: /products/bed-frames/79577739.txt
+- TONSTAD bed frame, off-white/Lönset, Queen: /products/bed-frames/39577741.txt
+- TONSTAD bed frame, off-white/Lönset, Full: /products/bed-frames/19577737.txt
+- TONSTAD bed frame, off-white, King: /products/bed-frames/70603605.txt
+- TONSTAD bed frame, off-white, Queen: /products/bed-frames/50603545.txt
+- TONSTAD bed frame, oak veneer/Lyngör white, Queen: /products/bed-frames/89575805.txt
+- TONSTAD bed frame, oak veneer/Lyngör white, Full: /products/bed-frames/89575792.txt
+- TONSTAD bed frame, oak veneer/Lyngör white, King: /products/bed-frames/39575799.txt
+- TONSTAD bed frame, oak veneer/Luröy, Full: /products/bed-frames/89577710.txt
+- TONSTAD bed frame, oak veneer/Luröy, King: /products/bed-frames/49577712.txt
+- TONSTAD bed frame, oak veneer/Luröy, Queen: /products/bed-frames/09577714.txt
+- TONSTAD bed frame, oak veneer/Lönset, Queen: /products/bed-frames/79577715.txt
+- TONSTAD bed frame, oak veneer/Lönset, Full: /products/bed-frames/69577711.txt
+- TONSTAD bed frame, oak veneer/Lönset, King: /products/bed-frames/29577713.txt
+- TONSTAD bed frame, oak veneer, Queen: /products/bed-frames/20603622.txt
+- TONSTAD bed frame, oak veneer, King: /products/bed-frames/00603637.txt
+- TONSTAD bed frame, oak veneer, Full: /products/bed-frames/00603604.txt
+- TONSTAD bed frame, brown stained oak veneer/Lyngör dark gray, King: /products/bed-frames/99575796.txt
+- TONSTAD bed frame, brown stained oak veneer/Lyngör dark gray, Queen: /products/bed-frames/39575803.txt
+- TONSTAD bed frame, brown stained oak veneer/Lyngör dark gray, Full: /products/bed-frames/29575790.txt
+- TONSTAD bed frame, brown stained oak veneer/Luröy, King: /products/bed-frames/79577697.txt
+- TONSTAD bed frame, brown stained oak veneer/Luröy, Queen: /products/bed-frames/39577699.txt
+- TONSTAD bed frame, brown stained oak veneer/Luröy, Full: /products/bed-frames/19577695.txt
+- TONSTAD bed frame, brown stained oak veneer/Lönset, Queen: /products/bed-frames/99577700.txt
+- TONSTAD bed frame, brown stained oak veneer/Lönset, Full: /products/bed-frames/99577696.txt
+- TONSTAD bed frame, brown stained oak veneer/Lönset, King: /products/bed-frames/59577698.txt
+- TONSTAD bed frame, brown stained oak veneer, Queen: /products/bed-frames/80603638.txt
+- TONSTAD bed frame, brown stained oak veneer, King: /products/bed-frames/60603540.txt
+- TONSTAD bed frame, brown stained oak veneer, Full: /products/bed-frames/20603636.txt
+- TARVA bed frame, white stained, Full: /products/bed-frames/79553979.txt
+- TARVA bed frame, white stained, Queen: /products/bed-frames/19553982.txt
+- TARVA bed frame, white stained/Luröy, Queen: /products/bed-frames/59553956.txt
+- TARVA bed frame, white stained/Luröy, Full: /products/bed-frames/39553981.txt
+- TARVA bed frame, pine, King: /products/bed-frames/79516661.txt
+- TARVA bed frame, pine, Full: /products/bed-frames/49930100.txt
+- TARVA bed frame, pine, Queen: /products/bed-frames/29930097.txt
+- TARVA bed frame, pine/Luröy, Full: /products/bed-frames/29069796.txt
+- TARVA bed frame, pine/Luröy, Queen: /products/bed-frames/29007794.txt
+- TARVA bed frame, pine/Luröy, King: /products/bed-frames/09418584.txt
+- TÄRNKULLEN upholstered bed frame, Tibbleby beige/gray, Full: /products/bed-frames/99569210.txt
+- TÄRNKULLEN upholstered bed frame, Tibbleby beige/gray, Queen: /products/bed-frames/89569215.txt
+- TÄRNKULLEN upholstered bed frame, Tibbleby beige/gray, King: /products/bed-frames/59569212.txt
+- TÄRNKULLEN upholstered bed frame, Tibbleby beige/gray/Luröy, King: /products/bed-frames/89564345.txt
+- TÄRNKULLEN upholstered bed frame, Tibbleby beige/gray/Luröy, Full: /products/bed-frames/69564346.txt
+- TÄRNKULLEN upholstered bed frame, Tibbleby beige/gray/Luröy, Queen: /products/bed-frames/49564347.txt
+- STJÄRNÖ bed frame, white/Lyngör white, Queen: /products/bed-frames/99564566.txt
+- STJÄRNÖ bed frame, white/Lyngör white, Full: /products/bed-frames/49564564.txt
+- STJÄRNÖ bed frame, white/Lyngör white, King: /products/bed-frames/19564565.txt
+- STJÄRNÖ bed frame, white/Luröy, Full: /products/bed-frames/89563360.txt
+- STJÄRNÖ bed frame, white/Luröy, King: /products/bed-frames/69563361.txt
+- STJÄRNÖ bed frame, white/Luröy, Queen: /products/bed-frames/29563363.txt
+- STJÄRNÖ bed frame, white/Lönset, Queen: /products/bed-frames/59563385.txt
+- STJÄRNÖ bed frame, white/Lönset, Full: /products/bed-frames/29563382.txt
+- STJÄRNÖ bed frame, white/Lönset, King: /products/bed-frames/09563383.txt
+- STJÄRNÖ bed frame, white, Full: /products/bed-frames/80579501.txt
+- STJÄRNÖ bed frame, white, King: /products/bed-frames/60579502.txt
+- STJÄRNÖ bed frame, white, Queen: /products/bed-frames/40579503.txt
+- STJÄRNÖ bed frame, anthracite/Lyngör dark gray, Full: /products/bed-frames/99564651.txt
+- STJÄRNÖ bed frame, anthracite/Lyngör dark gray, King: /products/bed-frames/59564653.txt
+- STJÄRNÖ bed frame, anthracite/Lyngör dark gray, Queen: /products/bed-frames/39564654.txt
+- STJÄRNÖ bed frame, anthracite/Luröy, Queen: /products/bed-frames/79563346.txt
+- STJÄRNÖ bed frame, anthracite/Luröy, King: /products/bed-frames/79563327.txt
+- STJÄRNÖ bed frame, anthracite/Luröy, Full: /products/bed-frames/69563337.txt
+- STJÄRNÖ bed frame, anthracite/Lönset, Queen: /products/bed-frames/79563407.txt
+- STJÄRNÖ bed frame, anthracite/Lönset, Full: /products/bed-frames/49563404.txt
+- STJÄRNÖ bed frame, anthracite/Lönset, King: /products/bed-frames/19563405.txt
+- STJÄRNÖ bed frame, anthracite, King: /products/bed-frames/50570192.txt
+- STJÄRNÖ bed frame, anthracite, Queen: /products/bed-frames/40570183.txt
+- STJÄRNÖ bed frame, anthracite, Full: /products/bed-frames/30570188.txt
+- SONGESAND bed frame, white, Queen: /products/bed-frames/89241237.txt
+- SONGESAND bed frame, white, Full/Double: /products/bed-frames/59241234.txt
+- SONGESAND bed frame, white/Luröy, Queen: /products/bed-frames/19241311.txt
+- SONGESAND bed frame, white/Luröy, Full/Double: /products/bed-frames/19241306.txt
+- SONGESAND bed frame, white/Lönset, Full/Double: /products/bed-frames/99241307.txt
+- SONGESAND bed frame, white/Lönset, Queen: /products/bed-frames/79241313.txt
+- SONGESAND bed frame, brown, Queen: /products/bed-frames/89241044.txt
+- SONGESAND bed frame, brown, Full/Double: /products/bed-frames/79241049.txt
+- SONGESAND bed frame, brown/Luröy, Queen: /products/bed-frames/59241069.txt
+- SONGESAND bed frame, brown/Luröy, Full/Double: /products/bed-frames/19241066.txt
+- SONGESAND bed frame, brown/Lönset, Queen: /products/bed-frames/49241084.txt
+- SONGESAND bed frame, brown/Lönset, Full/Double: /products/bed-frames/09241081.txt
+- NEIDEN bed frame, pine/Luröy, Full: /products/bed-frames/79248606.txt
+- NEIDEN bed frame, pine, Full: /products/bed-frames/80395248.txt
+- MALM bed frame, white stained oak veneer/Luröy, King: /products/bed-frames/29027396.txt
+- MALM bed frame, white stained oak veneer/Lönset, King: /products/bed-frames/69129642.txt
+- MALM bed frame, white, Full: /products/bed-frames/69931603.txt
+- MALM bed frame, white, King: /products/bed-frames/49931604.txt
+- MALM bed frame, white, Queen: /products/bed-frames/19931605.txt
+- MALM bed frame, white/Luröy, Full: /products/bed-frames/89069779.txt
+- MALM bed frame, white/Luröy, King: /products/bed-frames/49009481.txt
+- MALM bed frame, white/Luröy, Queen: /products/bed-frames/29009482.txt
+- MALM bed frame, white/Lönset, Queen: /products/bed-frames/99129476.txt
+- MALM bed frame, white/Lönset, King: /products/bed-frames/69019163.txt
+- MALM bed frame, white/Lönset, Full: /products/bed-frames/39019169.txt
+- MALM bed frame: /products/bed-frames/69574350.txt
+- MALM bed frame, dark brown veneer/Lönset, Full: /products/bed-frames/49574351.txt
+- MALM bed frame, dark brown veneer/Luröy, Full: /products/bed-frames/29574352.txt
+- MALM bed frame, oak veneer, King: /products/bed-frames/99574400.txt
+- MALM bed frame, oak veneer, Full: /products/bed-frames/79574397.txt
+- MALM bed frame, oak veneer, Queen: /products/bed-frames/39574403.txt
+- MALM bed frame, oak veneer/Luröy, Queen: /products/bed-frames/79574401.txt
+- MALM bed frame, oak veneer/Luröy, King: /products/bed-frames/59574398.txt
+- MALM bed frame, oak veneer/Luröy, Full: /products/bed-frames/19574395.txt
+- MALM bed frame, oak veneer/Lönset, Full: /products/bed-frames/99574396.txt
+- MALM bed frame, oak veneer/Lönset, Queen: /products/bed-frames/59574402.txt
+- MALM bed frame, oak veneer/Lönset, King: /products/bed-frames/39574399.txt
+- MALM bed frame, dark brown veneer, Queen: /products/bed-frames/09574367.txt
+- MALM bed frame, dark brown veneer, Full: /products/bed-frames/09574353.txt
+- MALM bed frame, dark brown veneer/Luröy, Queen: /products/bed-frames/49574365.txt
+- MALM bed frame, dark brown veneer/Luröy, King: /products/bed-frames/09574348.txt
+- MALM bed frame, dark brown veneer/Lönset, Queen: /products/bed-frames/99574363.txt
+- MALM bed frame, dark brown veneer/Lönset, King: /products/bed-frames/29574347.txt
+- MALM bed frame, blue, Queen: /products/bed-frames/99560035.txt
+- MALM bed frame, blue, Full: /products/bed-frames/89560012.txt
+- MALM bed frame, blue/Luröy, Queen: /products/bed-frames/59560037.txt
+- MALM bed frame, blue/Luröy, Full: /products/bed-frames/49560028.txt
+- MALM bed frame, blue/Lönset, Queen: /products/bed-frames/99560040.txt
+- MALM bed frame, blue/Lönset, Full: /products/bed-frames/69560013.txt
+- MALM bed frame, black-brown, King: /products/bed-frames/59931161.txt
+- MALM bed frame, black-brown/Luröy, King: /products/bed-frames/99009474.txt
+- MALM bed frame, black-brown/Lönset, King: /products/bed-frames/79019167.txt
+- KLEPPSTAD bed frame, white/Vissle beige, Full/Double: /products/bed-frames/40492680.txt
+- KLEPPSTAD bed frame, white/Vissle beige, Queen: /products/bed-frames/00492682.txt
+- IDANÄS bed frame, white/Lyngör white, Queen: /products/bed-frames/69567279.txt
+- IDANÄS bed frame, white/Lyngör white, Full: /products/bed-frames/49567275.txt
+- IDANÄS bed frame, white/Lyngör white, King: /products/bed-frames/09567277.txt
+- IDANÄS bed frame, white/Luröy, King: /products/bed-frames/99392240.txt
+- IDANÄS bed frame, white/Luröy, Full/Double: /products/bed-frames/99389582.txt
+- IDANÄS bed frame, white/Luröy, Queen: /products/bed-frames/29390065.txt
+- IDANÄS bed frame, white/Lönset, Queen: /products/bed-frames/69390087.txt
+- IDANÄS bed frame, white/Lönset, King: /products/bed-frames/59530597.txt
+- IDANÄS bed frame, white/Lönset, Full/Double: /products/bed-frames/19390080.txt
+- IDANÄS bed frame, white, King: /products/bed-frames/70458910.txt
+- IDANÄS bed frame, white, Queen: /products/bed-frames/30458912.txt
+- IDANÄS bed frame, white, Full/Double: /products/bed-frames/10458908.txt
+- IDANÄS bed frame, dark brown stained, King: /products/bed-frames/90458909.txt
+- IDANÄS bed frame, dark brown stained, Queen: /products/bed-frames/50458911.txt
+- IDANÄS bed frame, dark brown stained, Full/Double: /products/bed-frames/30458907.txt
+- IDANÄS bed frame, dark brown/Lyngör dark gray, Queen: /products/bed-frames/89567278.txt
+- IDANÄS bed frame, dark brown/Lyngör dark gray, Full: /products/bed-frames/79567274.txt
+- IDANÄS bed frame, dark brown/Lyngör dark gray, King: /products/bed-frames/29567276.txt
+- IDANÄS bed frame, dark brown/Luröy, Queen: /products/bed-frames/59390064.txt
+- IDANÄS bed frame, dark brown/Luröy, King: /products/bed-frames/19392239.txt
+- IDANÄS bed frame, dark brown/Luröy, Full/Double: /products/bed-frames/19389581.txt
+- IDANÄS bed frame, dark brown/Lönset, Queen: /products/bed-frames/89390086.txt
+- IDANÄS bed frame, dark brown/Lönset, King: /products/bed-frames/79530596.txt
+- IDANÄS bed frame, dark brown/Lönset, Full/Double: /products/bed-frames/39390079.txt
+- HEMNES bed frame with 4 storage boxes, dark gray stained/Luröy, King: /products/bed-frames/59227582.txt
+- HEMNES bed frame, white stain, Full: /products/bed-frames/69931575.txt
+- HEMNES bed frame, white stain, Queen: /products/bed-frames/39931591.txt
+- HEMNES bed frame, white stain, King: /products/bed-frames/29931582.txt
+- HEMNES bed frame, white stain/Lyngör white, Full: /products/bed-frames/69567533.txt
+- HEMNES bed frame, white stain/Lyngör white, King: /products/bed-frames/69567528.txt
+- HEMNES bed frame, white stain/Lyngör white, Queen: /products/bed-frames/29567530.txt
+- HEMNES bed frame, white stain/Luröy, Queen: /products/bed-frames/99007856.txt
+- HEMNES bed frame, white stain/Luröy, Full: /products/bed-frames/69069775.txt
+- HEMNES bed frame, white stain/Luröy, King: /products/bed-frames/69007848.txt
+- HEMNES bed frame, white stain/Lönset, King: /products/bed-frames/59019074.txt
+- HEMNES bed frame, white stain/Lönset, Queen: /products/bed-frames/29174962.txt
+- HEMNES bed frame, white stain/Lönset, Full: /products/bed-frames/19019071.txt
+- HEMNES bed frame, dark gray stained, King: /products/bed-frames/99240647.txt
+- HEMNES bed frame, dark gray stained, Full: /products/bed-frames/89240643.txt
+- HEMNES bed frame, dark gray stained, Queen: /products/bed-frames/59240654.txt
+- HEMNES bed frame, dark gray stained/Lyngör white, King: /products/bed-frames/99567555.txt
+- HEMNES bed frame, dark gray stained/Lyngör white, Queen: /products/bed-frames/79567556.txt
+- HEMNES bed frame, dark gray stained/Lyngör white, Full: /products/bed-frames/29567554.txt
+- HEMNES bed frame, dark gray stained/Lyngör dark gray, Full: /products/bed-frames/99575763.txt
+- HEMNES bed frame, dark gray stained/Lyngör dark gray, King: /products/bed-frames/49575765.txt
+- HEMNES bed frame, dark gray stained/Lyngör dark gray, Queen: /products/bed-frames/09575767.txt
+- HEMNES bed frame, dark gray stained/Luröy, Queen: /products/bed-frames/99240652.txt
+- HEMNES bed frame, dark gray stained/Luröy, Full: /products/bed-frames/79240653.txt
+- HEMNES bed frame, dark gray stained/Luröy, King: /products/bed-frames/39240645.txt
+- HEMNES bed frame, dark gray stained/Lönset, King: /products/bed-frames/39240650.txt
+- HEMNES bed frame, dark gray stained/Lönset, Full: /products/bed-frames/19240651.txt
+- HEMNES bed frame, dark gray stained/Lönset, Queen: /products/bed-frames/09240656.txt
+- HEMNES bed frame, black-brown, King: /products/bed-frames/49931581.txt
+- HEMNES bed frame, black-brown, Full: /products/bed-frames/29931577.txt
+- HEMNES bed frame, black-brown, Queen: /products/bed-frames/19931592.txt
+- HEMNES bed frame, black-brown/Lyngör white, Full: /products/bed-frames/99575824.txt
+- HEMNES bed frame, black-brown/Lyngör white, King: /products/bed-frames/49575826.txt
+- HEMNES bed frame, black-brown/Lyngör dark gray, King: /products/bed-frames/79567504.txt
+- HEMNES bed frame, black-brown/Lyngör dark gray, Queen: /products/bed-frames/49567505.txt
+- HEMNES bed frame, black-brown/Lyngör dark gray, Full: /products/bed-frames/09567507.txt
+- HEMNES bed frame, black-brown/Luröy, Queen: /products/bed-frames/29007850.txt
+- HEMNES bed frame, black-brown/Luröy, Full: /products/bed-frames/19069773.txt
+- HEMNES bed frame, black-brown/Luröy, King: /products/bed-frames/09007846.txt
+- HEMNES bed frame, black-brown/Lönset, King: /products/bed-frames/99019072.txt
+- HEMNES bed frame, black-brown/Lönset, Full: /products/bed-frames/79019068.txt
+- HEMNES bed frame, black-brown/Lönset, Queen: /products/bed-frames/29129620.txt
+- GURSKEN bed frame with headboard, light beige/Luröy, Full/Double: /products/bed-frames/79408671.txt
+- GRIMSBU bed frame, white/Luröy, Full: /products/bed-frames/99437804.txt
+- GRIMSBU bed frame, white/Luröy, Queen: /products/bed-frames/69437805.txt
+- GRIMSBU bed frame, white/Luröy, Twin: /products/bed-frames/29437807.txt
+- GRIMSBU bed frame, white, Queen: /products/bed-frames/90508513.txt
+- GRIMSBU bed frame, white, Full: /products/bed-frames/80508518.txt
+- GRIMSBU bed frame, gray/Luröy, Twin: /products/bed-frames/49437806.txt
+- GRIMSBU bed frame, gray/Luröy, Full: /products/bed-frames/39437802.txt
+- GRIMSBU bed frame, gray/Luröy, Queen: /products/bed-frames/19437803.txt
+- GRIMSBU bed frame, gray, Full: /products/bed-frames/70508514.txt
+- GRIMSBU bed frame, gray, Queen: /products/bed-frames/40508515.txt
+- BRIMNES bed frame with storage & headboard, gray, Queen: /products/bed-frames/99590056.txt
+- BRIMNES bed frame with storage & headboard, gray, King: /products/bed-frames/69590053.txt
+- BRIMNES bed frame with storage & headboard, gray, Full: /products/bed-frames/29590050.txt
+- BRIMNES bed frame with storage & headboard, gray/Luröy, Queen: /products/bed-frames/79590057.txt
+- BRIMNES bed frame with storage & headboard, gray/Luröy, King: /products/bed-frames/49590054.txt
+- BRIMNES bed frame with storage & headboard, gray/Luröy, Full: /products/bed-frames/09590051.txt
+- BRIMNES bed frame with storage & headboard, gray/Lönset, Full: /products/bed-frames/89590052.txt
+- BRIMNES bed frame with storage & headboard, gray/Lönset, Queen: /products/bed-frames/59590058.txt
+- BRIMNES bed frame with storage & headboard, gray/Lönset, King: /products/bed-frames/19590055.txt
+- BJÖRKSNÄS bed frame, birch/birch veneer, King: /products/bed-frames/39501708.txt
+- BJÖRKSNÄS bed frame, birch/birch veneer, Queen: /products/bed-frames/19501714.txt
+- BJÖRKSNÄS bed frame, birch/birch veneer/Luröy, King: /products/bed-frames/99501710.txt
+- BJÖRKSNÄS bed frame, birch/birch veneer/Luröy, Queen: /products/bed-frames/89501715.txt
+- BJÖRKSNÄS bed frame, birch/birch veneer/Lönset, King: /products/bed-frames/79501711.txt
+- BJÖRKSNÄS bed frame, birch/birch veneer/Lönset, Queen: /products/bed-frames/29501718.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

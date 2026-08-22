@@ -1,0 +1,50 @@
+# @CATEGORY
+Name: Modular outdoor seating
+ProductCount: 28
+
+# @FILTERS
+PriceRange: $25.00 - $1204.00
+Materials: Back frame/ Leg frame: Steel, Polyester powder coating, Back frame/ Seat frame: Steel, Steel, Polyester powder coating, Back frame: Steel, Powder coating, Back/ Frame: Steel, Polyester powder coating, Feet: Polyethylene, Frame/ Binding/ Decoration: Rattan, Clear acrylic lacquer, Leg frame: Steel, Polyester powder coating, Leg/ Armrest: Steel, Powder coating, Leg/ Supporting rail: Steel, Powder coating, Leg: Steel, Powder coating
+Brand: IKEA
+
+# @ITEMS
+- VITTSKÄR modular lounge chair, plastic rattan dark gray: /products/modular-outdoor-seating/89591037.txt
+- VITTSKÄR modular easy chair, outdoor/plastic rattan dark gray: /products/modular-outdoor-seating/89590981.txt
+- VITTSKÄR modular chaise longue, with armrest outdoor/plastic rattan dark gray: /products/modular-outdoor-seating/89591259.txt
+- VITTSKÄR modular chaise longue, with armrest outdoor/plastic rattan dark gray: /products/modular-outdoor-seating/59591270.txt
+- VITTSKÄR modular chaise longue, outdoor/plastic rattan dark gray: /products/modular-outdoor-seating/99591273.txt
+- VITTSKÄR modular chaise longue, outdoor/plastic rattan dark gray: /products/modular-outdoor-seating/29591257.txt
+- VITTSKÄR backrest for modular sofa, outdoor, plastic rattan outdoor/dark gray: /products/modular-outdoor-seating/30575548.txt
+- VITTSKÄR 3-seat conversation set, with chaise outdoor/plastic rattan dark gray: /products/modular-outdoor-seating/99591254.txt
+- VITTSKÄR 3-seat conversation set, outdoor/plastic rattan dark gray: /products/modular-outdoor-seating/79591151.txt
+- VITTSKÄR 3-seat conversation set, outdoor/plastic rattan dark gray: /products/modular-outdoor-seating/39591153.txt
+- VITTSKÄR 2-seat section for modular sofa, plastic rattan outdoor/dark gray: /products/modular-outdoor-seating/80590419.txt
+- VITTSKÄR 1-seat section for modular sofa, plastic rattan outdoor/dark gray: /products/modular-outdoor-seating/50575199.txt
+- TVARÖ seat sec for modular sofa, outdoor, brown: /products/modular-outdoor-seating/10515485.txt
+- SEGERÖN one-seat section, outdoor, white/beige: /products/modular-outdoor-seating/50510805.txt
+- SEGERÖN corner section, outdoor, white/beige: /products/modular-outdoor-seating/70510809.txt
+- REVSKÄR 3-seat conversation set, anthracite outdoor: /products/modular-outdoor-seating/50565505.txt
+- NÄMMARÖ seat sec for modular sofa, outdoor, light brown stained: /products/modular-outdoor-seating/60594932.txt
+- NÄMMARÖ seat sec for modular sofa, outdoor, light brown stained: /products/modular-outdoor-seating/10510299.txt
+- NÄMMARÖ modular easy chair, outdoor/light brown stained: /products/modular-outdoor-seating/79607473.txt
+- NÄMMARÖ chair, outdoor, light brown stained: /products/modular-outdoor-seating/39529156.txt
+- NÄMMARÖ backrest for modular sofa, outdoor, light brown stained: /products/modular-outdoor-seating/60510305.txt
+- NÄMMARÖ backrest for modular sofa, outdoor, light brown stained: /products/modular-outdoor-seating/00594930.txt
+- LÄCKÖ loveseat, outdoor, gray: /products/modular-outdoor-seating/50522733.txt
+- JUTHOLMEN one-seat section, outdoor, dark gray-brown: /products/modular-outdoor-seating/40452189.txt
+- JUTHOLMEN corner section, outdoor, dark gray-brown: /products/modular-outdoor-seating/80469116.txt
+- JOLPEN loveseat, outdoor, white/gray: /products/modular-outdoor-seating/60515483.txt
+- HAVSTEN loveseat, outdoor, beige: /products/modular-outdoor-seating/10542498.txt
+- HAVSTEN armchair, outdoor, beige: /products/modular-outdoor-seating/30542497.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

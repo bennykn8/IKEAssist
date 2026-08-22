@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SMYCKA artificial flower, indoor/outdoor/Rose pink, 15 ¾"
+SKU: 20588749
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/smycka-artificial-flower-indoor-outdoor-rose-pink-20588749/
+Category: Artificial flower stems
+Description: This rose creates a romantic atmosphere in your home. Just as decorative on its own as together with other artificial flowers in a beautiful vase. Made from plastic, of which at least 50% is recycled....
+
+# @OFFER
+Price: 1.49
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Flower/ Leaf: 100 % polyester (100% recycled), Polyethylene plastic (min. 50% recycled), Stem: Polyethylene plastic (min. 50% recycled), Steel
+Features: Suitable for indoor and outdoor use.
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/smycka-artificial-flower-indoor-outdoor-rose-pink__1377666_pe960950_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

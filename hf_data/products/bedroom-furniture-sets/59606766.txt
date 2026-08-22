@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: TONSTAD bedroom furniture, set of 3, off-white, King
+SKU: 59606766
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tonstad-bedroom-furniture-set-of-3-off-white-s59606766/
+Category: Bedroom furniture sets
+Description: Classic design meets a graceful finish in the TONSTAD series in off-white, giving the furniture a solid sense of quality. This bed frame with 2 bedside tables creates a timeless look in your bedroom.
+
+# @OFFER
+Price: 698.98
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Bottom panel/ Panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Acrylic paint, Plastic edging, Side panel: Particleboard, Acrylic paint, Melamine foil, Plastic edging, Leg: Solid wood, Adhesive, Acrylic paint
+Features: Mattress and bedlinens are sold separately. | Slatted bed base and midbeam are included. | LURÖY slatted bed base is included in the price, but is packaged separately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tonstad-bedroom-furniture-set-of-3-off-white__1427027_pe980123_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

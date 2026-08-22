@@ -1,0 +1,99 @@
+# @CATEGORY
+Name: Kitchen wall organizers
+ProductCount: 77
+
+# @FILTERS
+PriceRange: $2.00 - $632.00
+Materials: 80 % cotton, 20 % hemp, ABS plastic, Bracket/ Rivet: Stainless steel, Bracket: Stainless steel, Bracket: Steel, Galvanized, Polyester powder coating, Bush/ End cap: Polypropylene, Container/ Hook: Steel, Powder coating, Container: Galvanized steel, Powder coating, Container: Steel, Powder coating, Cover: ABS plastic
+Brand: IKEA
+
+# @ITEMS
+- SUNNERSTA kitchen organizer set, no drill/shlf/kit roll hldr/hook: /products/kitchen-wall-organizers/09419381.txt
+- SUNNERSTA kitchen organizer set, no drill/shelf/dish drainer/container: /products/kitchen-wall-organizers/39338425.txt
+- SUNNERSTA kitchen organizer set, no drill/kitch roll hldr/dish drnr/cont: /products/kitchen-wall-organizers/29419380.txt
+- SUNNERSTA kitchen organizer set, no drill/dish drnr/shlf/kitch roll hldr/cont: /products/kitchen-wall-organizers/49419379.txt
+- SUNNERSTA kitchen organizer set, no drill/dish drainer/hook: /products/kitchen-wall-organizers/19338426.txt
+- SKATTÅN container: /products/kitchen-wall-organizers/30465757.txt
+- PÅLYCKE clip-on multi-purpose rack, anthracite: /products/kitchen-wall-organizers/80605133.txt
+- PÅLYCKE clip-on multi-purpose rack: /products/kitchen-wall-organizers/90534437.txt
+- PÅLYCKE clip-on hook rack, anthracite: /products/kitchen-wall-organizers/20605131.txt
+- PÅLYCKE clip-on hook rack: /products/kitchen-wall-organizers/80541155.txt
+- PÅLYCKE clip-on basket, anthracite: /products/kitchen-wall-organizers/60605129.txt
+- PÅLYCKE clip-on basket: /products/kitchen-wall-organizers/80534433.txt
+- PÅLYCKE clip-on basket: /products/kitchen-wall-organizers/00534432.txt
+- ÖBONÄS wall shelf with suction cup, gray-green: /products/kitchen-wall-organizers/00498896.txt
+- ÖBONÄS triple hook with suction cup, gray-green, 2 ¾x4 ¼": /products/kitchen-wall-organizers/60515586.txt
+- ÖBONÄS container with suction cup, gray-green: /products/kitchen-wall-organizers/80515585.txt
+- NEREBY wall shelf, birch: /products/kitchen-wall-organizers/90465924.txt
+- NEREBY s-hook, white: /products/kitchen-wall-organizers/20476351.txt
+- NEREBY rail, birch, 23 ½": /products/kitchen-wall-organizers/90476343.txt
+- NEREBY container, natural: /products/kitchen-wall-organizers/90429097.txt
+- KUNGSFORS wall storage with grid + knife rack, stainless steel/ash veneer: /products/kitchen-wall-organizers/39284880.txt
+- KUNGSFORS wall rack, stainless steel: /products/kitchen-wall-organizers/80334919.txt
+- KUNGSFORS wall grid with storage, stainless steel/ash: /products/kitchen-wall-organizers/49254335.txt
+- KUNGSFORS tablet stand, stainless steel: /products/kitchen-wall-organizers/20334917.txt
+- KUNGSFORS suspension rail with shelves, stainless steel: /products/kitchen-wall-organizers/59308333.txt
+- KUNGSFORS suspension rail with shelves, stainless steel/bamboo: /products/kitchen-wall-organizers/89308355.txt
+- KUNGSFORS suspension rail with shelves, stainless steel/ash: /products/kitchen-wall-organizers/59308347.txt
+- KUNGSFORS suspension rail with shelf/wll grid, stainless steel: /products/kitchen-wall-organizers/19254332.txt
+- KUNGSFORS suspension rail with shelf/wll grid, stainless steel: /products/kitchen-wall-organizers/09308397.txt
+- KUNGSFORS suspension rail with shelf/wll grid, stainless steel/bamboo: /products/kitchen-wall-organizers/89308416.txt
+- KUNGSFORS suspension rail with shelf/wll grid, stainless steel/ash: /products/kitchen-wall-organizers/29254341.txt
+- KUNGSFORS suspension rail with shelf/wll grid, stainless steel/ash: /products/kitchen-wall-organizers/19308405.txt
+- KUNGSFORS suspension rail w shelves/wll grids, stainless steel/bamboo: /products/kitchen-wall-organizers/79308394.txt
+- KUNGSFORS suspension rail w shelves/wll grids, stainless steel/ash: /products/kitchen-wall-organizers/49308362.txt
+- KUNGSFORS suspension rail w shelves and rail, stainless steel: /products/kitchen-wall-organizers/99308265.txt
+- KUNGSFORS suspension rail w shelves and rail, stainless steel/bamboo: /products/kitchen-wall-organizers/59308328.txt
+- KUNGSFORS suspension rail w shelves and rail, stainless steel/ash: /products/kitchen-wall-organizers/29308301.txt
+- KUNGSFORS suspension rail, stainless steel: /products/kitchen-wall-organizers/80334858.txt
+- KUNGSFORS susp rail w shelf/rail/dish dra, stainless steel/ash: /products/kitchen-wall-organizers/09254323.txt
+- KUNGSFORS susp rail w shelf/mgnt knife rack, stainless steel/ash: /products/kitchen-wall-organizers/39254326.txt
+- KUNGSFORS susp rail/shlf/dish dra/rail/wll gr, stainless steel/ash: /products/kitchen-wall-organizers/89254338.txt
+- KUNGSFORS storage unit with wall grid, stainless steel/ash veneer: /products/kitchen-wall-organizers/59284879.txt
+- KUNGSFORS Shelf, stainless steel: /products/kitchen-wall-organizers/50334925.txt
+- KUNGSFORS Shelf, bamboo: /products/kitchen-wall-organizers/00401781.txt
+- KUNGSFORS shelf, ash veneer: /products/kitchen-wall-organizers/90371223.txt
+- KUNGSFORS s-hook, stainless steel: /products/kitchen-wall-organizers/20334922.txt
+- KUNGSFORS rails with hooks and container, stainless steel: /products/kitchen-wall-organizers/09308217.txt
+- KUNGSFORS rails w hooks, tblt stand+container, stainless steel: /products/kitchen-wall-organizers/39308254.txt
+- KUNGSFORS rail with 5 hooks and tablet stand, stainless steel: /products/kitchen-wall-organizers/89308181.txt
+- KUNGSFORS rail with 5 hooks and 1 container, stainless steel: /products/kitchen-wall-organizers/89308157.txt
+- KUNGSFORS rail with 5 hooks and 1 container, stainless steel: /products/kitchen-wall-organizers/79308172.txt
+- KUNGSFORS Rail, stainless steel, Length: 22" Diameter: ½": /products/kitchen-wall-organizers/40334916.txt
+- KUNGSFORS Rail, stainless steel, Length: 15 ¾" Diameter: ½": /products/kitchen-wall-organizers/00442499.txt
+- KUNGSFORS Magnetic knife rack, stainless steel: /products/kitchen-wall-organizers/40334921.txt
+- KUNGSFORS magnetic clip, stainless steel: /products/kitchen-wall-organizers/00334923.txt
+- KUNGSFORS hook, stainless steel: /products/kitchen-wall-organizers/70379692.txt
+- KUNGSFORS Dish drainer: /products/kitchen-wall-organizers/40371225.txt
+- KUNGSFORS Container, stainless steel, Width: 9 1/: /products/kitchen-wall-organizers/60334920.txt
+- KUNGSFORS Container, stainless steel, Height: 10 3/8" Diameter: 4 3/: /products/kitchen-wall-organizers/00334918.txt
+- HULTARP rail, polished/brass color, 23 ½": /products/kitchen-wall-organizers/50448776.txt
+- HULTARP rail, polished/brass color, 31 ½": /products/kitchen-wall-organizers/30448777.txt
+- HULTARP rail, nickel plated, 31 ½": /products/kitchen-wall-organizers/90444432.txt
+- HULTARP rail, nickel plated, 23 ½": /products/kitchen-wall-organizers/40462824.txt
+- HULTARP rail, black, 31 ½": /products/kitchen-wall-organizers/20448773.txt
+- HULTARP rail, black, 23 ½": /products/kitchen-wall-organizers/00448769.txt
+- HULTARP papertowel holder, black: /products/kitchen-wall-organizers/60444438.txt
+- HULTARP magnetic knife rack, black: /products/kitchen-wall-organizers/80444442.txt
+- HULTARP hook, polished/brass color, 2 ¾": /products/kitchen-wall-organizers/10448778.txt
+- HULTARP hook, nickel plated, 2 ¾": /products/kitchen-wall-organizers/50448837.txt
+- HULTARP hook, black: /products/kitchen-wall-organizers/10444445.txt
+- HULTARP dish drainer, black: /products/kitchen-wall-organizers/60448766.txt
+- HULTARP container, white/brass color polished: /products/kitchen-wall-organizers/10462830.txt
+- HULTARP container, blue/nickel plated: /products/kitchen-wall-organizers/80588713.txt
+- HULTARP container, black/mesh: /products/kitchen-wall-organizers/70462827.txt
+- HULTARP container, black/mesh: /products/kitchen-wall-organizers/20448834.txt
+- HULTARP container, black: /products/kitchen-wall-organizers/30444454.txt
+- BEKVÄM spice rack, aspen: /products/kitchen-wall-organizers/20487175.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

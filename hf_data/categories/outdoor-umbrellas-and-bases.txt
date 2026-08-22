@@ -1,0 +1,50 @@
+# @CATEGORY
+Name: Outdoor umbrellas & bases
+ProductCount: 28
+
+# @FILTERS
+PriceRange: $24.99 - $369.00
+Materials: 100% polyester (min. 90% recycled), Backing: 100 % Polyurethane, Backing: 100 % Synthetic rubber, Base fabric/ Base fabric: 100% polyester (min. 90% recycled), Base/ Pole connection/ Runner/ Hook/ Cap: Polypropylene, Base: Galvanized steel, Polyester powder coating, Canopy fabric/ Bag: 100% polyester (min. 90% recycled), Crank housing: Aluminum, Polyester powder coating, Fabric/ Fabric: 100% polyester (min. 90% recycled), Fabric: 100 % polyester
+Brand: IKEA
+
+# @ITEMS
+- TVETÖ umbrella, tilting/gray-beige white: /products/outdoor-umbrellas-and-bases/80468857.txt
+- TVETÖ / IGGÖN umbrella with base, tilting gray-beige/white dark gray: /products/outdoor-umbrellas-and-bases/59577491.txt
+- SVALÖN umbrella, hanging, light grey-beige: /products/outdoor-umbrellas-and-bases/00557051.txt
+- SVALÖN umbrella canopy, light grey-beige: /products/outdoor-umbrellas-and-bases/10532017.txt
+- SVALÖN / IGGÖN hanging umbrella with base, light grey-beige/dark gray: /products/outdoor-umbrellas-and-bases/99577535.txt
+- STRANDÖN umbrella, yellow/white dotted: /products/outdoor-umbrellas-and-bases/70522765.txt
+- SEGLARÖ umbrella, hanging, anthracite/tilting: /products/outdoor-umbrellas-and-bases/60557053.txt
+- SEGLARÖ umbrella canopy, anthracite: /products/outdoor-umbrellas-and-bases/00532013.txt
+- SEGLARÖ / IGGÖN hanging umbrella with base, anthracite/dark gray: /products/outdoor-umbrellas-and-bases/99577540.txt
+- SAMSÖ Umbrella, tilting, beige: /products/outdoor-umbrellas-and-bases/50311815.txt
+- SAMSÖ / IGGÖN umbrella with base, tilting beige/dark gray: /products/outdoor-umbrellas-and-bases/99577494.txt
+- LINDÖJA umbrella canopy, anthracite: /products/outdoor-umbrellas-and-bases/90532023.txt
+- JOGGESÖ umbrella, light grey-beige: /products/outdoor-umbrellas-and-bases/90531896.txt
+- JOGGESÖ / IGGÖN umbrella with base, tilting light grey-beige/dark gray: /products/outdoor-umbrellas-and-bases/49577533.txt
+- IGGÖN umbrella base with sandbags, dark gray: /products/outdoor-umbrellas-and-bases/30585849.txt
+- IGGÖN sandbag for umbrella base, dark gray: /products/outdoor-umbrellas-and-bases/90585851.txt
+- HÖGÖN umbrella, white: /products/outdoor-umbrellas-and-bases/20411430.txt
+- HÖGÖN Umbrella, hanging, white: /products/outdoor-umbrellas-and-bases/00445351.txt
+- HÖGÖN umbrella, hanging, gray: /products/outdoor-umbrellas-and-bases/50515742.txt
+- HÖGÖN umbrella, gray: /products/outdoor-umbrellas-and-bases/60515751.txt
+- HÖGÖN umbrella, dark blue: /products/outdoor-umbrellas-and-bases/20581234.txt
+- HÖGÖN umbrella, bright orange: /products/outdoor-umbrellas-and-bases/50581237.txt
+- HÖGÖN / IGGÖN umbrella with base, gray/dark gray: /products/outdoor-umbrellas-and-bases/49577496.txt
+- HÖGÖN / IGGÖN umbrella with base, dark blue/dark gray: /products/outdoor-umbrellas-and-bases/49577514.txt
+- HÖGÖN / IGGÖN umbrella with base, bright orange/dark gray: /products/outdoor-umbrellas-and-bases/89577512.txt
+- HÖGÖN / IGGÖN hanging umbrella with base, gray/dark gray: /products/outdoor-umbrellas-and-bases/59577542.txt
+- HISSÖ umbrella, hanging, anthracite: /products/outdoor-umbrellas-and-bases/40491181.txt
+- HISSÖ / IGGÖN hanging umbrella with base, anthracite/dark gray: /products/outdoor-umbrellas-and-bases/59577537.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

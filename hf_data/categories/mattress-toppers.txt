@@ -1,0 +1,46 @@
+# @CATEGORY
+Name: Mattress toppers
+ProductCount: 24
+
+# @FILTERS
+PriceRange: $49.00 - $349.00
+Materials: Backing: 100 % polypropylene, Comfort filling: Polyurethane foam, 3.12 lb./cu.ft., with paraffin-based phase change material gel coating, Comfort filling: Polyurethane memory foam 3.1 lb/cu.ft, Quilt filling: 100 %polyester, Quilt filling: 100% polyester (min. 70% recycled), Ticking, top: 73 % polyester (100% recycled), 27 % polyethylene, Ticking, underside: 100 % polyester (100% recycled), Ticking/ Ticking, underside/ Base fabric: 100 % polyester (100% recycled), Ticking/ Ticking/ Main parts: 100 % polyester (100% recycled), Ticking/ Ticking: 100 % polyester (100% recycled)
+Brand: IKEA
+
+# @ITEMS
+- NORRSELE mattress topper, white, Full: /products/mattress-toppers/70577828.txt
+- NORRSELE mattress topper, white, Twin: /products/mattress-toppers/40577815.txt
+- NORRSELE mattress topper, white, King: /products/mattress-toppers/30599530.txt
+- NORRSELE mattress topper, white, Queen: /products/mattress-toppers/30577830.txt
+- NORDBERGET mattress topper, white, Queen: /products/mattress-toppers/90570232.txt
+- NORDBERGET mattress topper, white, Full: /products/mattress-toppers/70570228.txt
+- NORDBERGET mattress topper, white, King: /products/mattress-toppers/50599529.txt
+- NORDBERGET mattress topper, white, Twin: /products/mattress-toppers/00570651.txt
+- NOPAKTE mattress topper, white, King: /products/mattress-toppers/70599528.txt
+- NOPAKTE mattress topper, white, Full: /products/mattress-toppers/60567660.txt
+- NOPAKTE mattress topper, white, Queen: /products/mattress-toppers/40567661.txt
+- NOPAKTE mattress topper, white, Twin: /products/mattress-toppers/20567662.txt
+- NISSEHOLM mattress topper, white, King: /products/mattress-toppers/80577842.txt
+- NISSEHOLM mattress topper, white, Twin: /products/mattress-toppers/80567131.txt
+- NISSEHOLM mattress topper, white, Queen: /products/mattress-toppers/80558933.txt
+- NISSEHOLM mattress topper, white, Full: /products/mattress-toppers/60558929.txt
+- NÄSTABERG mattress topper, white, Twin: /products/mattress-toppers/90574268.txt
+- NÄSTABERG mattress topper, white, Queen: /products/mattress-toppers/70574269.txt
+- NÄSTABERG mattress topper, white, Full: /products/mattress-toppers/30574266.txt
+- NÄSTABERG mattress topper, white, King: /products/mattress-toppers/10574267.txt
+- NÄSFJÄLLET mattress topper, white, Queen: /products/mattress-toppers/60570926.txt
+- NÄSFJÄLLET mattress topper, white, King: /products/mattress-toppers/10599531.txt
+- NÄSFJÄLLET mattress topper, white, Full: /products/mattress-toppers/10570924.txt
+- NÄSFJÄLLET mattress topper, white, Twin: /products/mattress-toppers/00570929.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

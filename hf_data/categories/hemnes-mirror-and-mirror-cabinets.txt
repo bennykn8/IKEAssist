@@ -1,0 +1,30 @@
+# @CATEGORY
+Name: HEMNES mirror & mirror cabinets
+ProductCount: 8
+
+# @FILTERS
+PriceRange: $179.00 - $299.00
+Materials: Adjustable shelf: Tempered glass, Back panel: Printed fiberboard, Fiberboard, Door panel: Fiberboard, Acrylic paint, Glass, Door panel: Glass, Door panel: Glass, Printed fiberboard, Frame/ Door frame: Fiberboard, Pigmented polyester powder coating, Main parts/ Door frame: Solid pine, Stain, Clear acrylic lacquer, Middle rail/ Back panel: Fiberboard, Acrylic paint
+Brand: IKEA
+
+# @ITEMS
+- HEMNES mirror cabinet with 2 doors, white: /products/hemnes-mirror-and-mirror-cabinets/80217675.txt
+- HEMNES Mirror cabinet with 2 doors, white: /products/hemnes-mirror-and-mirror-cabinets/40217677.txt
+- HEMNES mirror cabinet with 2 doors, gray: /products/hemnes-mirror-and-mirror-cabinets/90348987.txt
+- HEMNES Mirror cabinet with 2 doors, gray: /products/hemnes-mirror-and-mirror-cabinets/20348995.txt
+- HEMNES Mirror cabinet with 2 doors, gray: /products/hemnes-mirror-and-mirror-cabinets/10348991.txt
+- HEMNES Mirror cabinet with 1 door, gray: /products/hemnes-mirror-and-mirror-cabinets/60348984.txt
+- HEMNES high cabinet with mirror door, white: /products/hemnes-mirror-and-mirror-cabinets/70217685.txt
+- HEMNES High cabinet with mirror door, gray: /products/hemnes-mirror-and-mirror-cabinets/40348999.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

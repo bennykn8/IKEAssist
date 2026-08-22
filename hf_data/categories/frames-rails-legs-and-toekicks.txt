@@ -1,0 +1,70 @@
+# @CATEGORY
+Name: Frames, rails, legs & toekicks
+ProductCount: 48
+
+# @FILTERS
+PriceRange: $6.00 - $102.00
+Materials: All parts: Acrylic paint, Back rail: Particleboard, Birch veneer, Tinted clear acrylic lacquer, Back rail: Particleboard, Stain, Ash veneer, Block: Polyamide plastic (min. 20% recycled), Clip: Polypropylene plastic (min. 20% recycled), End cap: Polypropylene, Fiberboard, Plastic foil, Frame: Stainless steel, Stainless steel, Front rail: Fiberboard, Ash veneer, Stain, Clear acrylic lacquer, Front rail: Fiberboard, Birch veneer, Tinted lacquer
+Brand: IKEA
+
+# @ITEMS
+- VOXTORP toekick, high gloss dark gray-brown: /products/frames-rails-legs-and-toekicks/70601729.txt
+- VEDHAMN toekick, oak effect: /products/frames-rails-legs-and-toekicks/30505188.txt
+- VEDHAMN leg, oak: /products/frames-rails-legs-and-toekicks/10505410.txt
+- VEDHAMN corner leg, oak: /products/frames-rails-legs-and-toekicks/30505409.txt
+- STENSTA toekick, dark brown ash effect: /products/frames-rails-legs-and-toekicks/30592128.txt
+- SINARP toekick, brown wood effect: /products/frames-rails-legs-and-toekicks/70404724.txt
+- SEKTION Suspension rail, galvanized: /products/frames-rails-legs-and-toekicks/60261527.txt
+- SEKTION Support leg, stainless steel: /products/frames-rails-legs-and-toekicks/30287251.txt
+- SEKTION reinforced ventilated top rail, galvanized: /products/frames-rails-legs-and-toekicks/80284580.txt
+- SEKTION Reinforced ventilated top rail, galvanized: /products/frames-rails-legs-and-toekicks/60284581.txt
+- SEKTION Reinforced ventilated top rail, galvanized: /products/frames-rails-legs-and-toekicks/00284579.txt
+- SEKTION leg: /products/frames-rails-legs-and-toekicks/90556071.txt
+- SEKTION Leg: /products/frames-rails-legs-and-toekicks/10265518.txt
+- SEKTION floor anchoring frame f kit island: /products/frames-rails-legs-and-toekicks/10557036.txt
+- SEKTION connector rail f cabinet/cover pnl: /products/frames-rails-legs-and-toekicks/00557032.txt
+- NOGSTA toekick, stainless steel color: /products/frames-rails-legs-and-toekicks/10531602.txt
+- NICKEBO toekick, matte gray-green: /products/frames-rails-legs-and-toekicks/80562572.txt
+- METOD ventilation grill, stainless steel: /products/frames-rails-legs-and-toekicks/70256177.txt
+- MAKRILLA ventilated plinth, stainless steel: /products/frames-rails-legs-and-toekicks/40323809.txt
+- LERHYTTAN toekick, light gray: /products/frames-rails-legs-and-toekicks/60482543.txt
+- LERHYTTAN Toekick, black stained: /products/frames-rails-legs-and-toekicks/30355971.txt
+- LERHYTTAN Leg for decorative toekick, light gray: /products/frames-rails-legs-and-toekicks/50397814.txt
+- LERHYTTAN leg for decorative toekick, black stained: /products/frames-rails-legs-and-toekicks/70397813.txt
+- LERHYTTAN Decorative toekick, light gray: /products/frames-rails-legs-and-toekicks/00397816.txt
+- LERHYTTAN Decorative toekick, black stained: /products/frames-rails-legs-and-toekicks/20397815.txt
+- LERHYTTAN Corner leg for decorative toekick, light gray: /products/frames-rails-legs-and-toekicks/00403233.txt
+- LERHYTTAN corner leg for decorative toekick, black stained, 41/4"2 pack: /products/frames-rails-legs-and-toekicks/80403229.txt
+- HAVSTORP toekick, light gray: /products/frames-rails-legs-and-toekicks/50587828.txt
+- HAVSTORP toekick, deep green: /products/frames-rails-legs-and-toekicks/50576434.txt
+- HAVSTORP toekick, beige: /products/frames-rails-legs-and-toekicks/20475295.txt
+- FÖRBÄTTRA Toekick, white: /products/frames-rails-legs-and-toekicks/60266817.txt
+- FÖRBÄTTRA Toekick, off-white: /products/frames-rails-legs-and-toekicks/40287590.txt
+- FÖRBÄTTRA toekick, matte white: /products/frames-rails-legs-and-toekicks/90417754.txt
+- FÖRBÄTTRA toekick, matte anthracite: /products/frames-rails-legs-and-toekicks/20470735.txt
+- FÖRBÄTTRA Toekick, high gloss white: /products/frames-rails-legs-and-toekicks/20400295.txt
+- FÖRBÄTTRA toekick, dark gray: /products/frames-rails-legs-and-toekicks/70456181.txt
+- FÖRBÄTTRA toekick, brown walnut effect: /products/frames-rails-legs-and-toekicks/10558559.txt
+- FÖRBÄTTRA Leg, off-white: /products/frames-rails-legs-and-toekicks/40278675.txt
+- FÖRBÄTTRA Decorative toekick, off-white: /products/frames-rails-legs-and-toekicks/00278677.txt
+- FÖRBÄTTRA decorative toekick for dishwasher, off-white: /products/frames-rails-legs-and-toekicks/70293085.txt
+- CAPITA Leg, stainless steel: /products/frames-rails-legs-and-toekicks/60263574.txt
+- BODBYN toekick, gray: /products/frames-rails-legs-and-toekicks/00266052.txt
+- BODBYN leg, gray: /products/frames-rails-legs-and-toekicks/80278678.txt
+- BODBYN Decorative toekick, gray: /products/frames-rails-legs-and-toekicks/20278676.txt
+- BODBYN Decorative toekick for dishwasher, gray: /products/frames-rails-legs-and-toekicks/40293082.txt
+- AXSTAD toekick, matte blue: /products/frames-rails-legs-and-toekicks/50468401.txt
+- AXSTAD toekick, gray-green: /products/frames-rails-legs-and-toekicks/50564006.txt
+- ASKERSUND toekick, light ash effect: /products/frames-rails-legs-and-toekicks/40625977.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

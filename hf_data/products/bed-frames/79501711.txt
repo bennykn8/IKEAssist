@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BJÖRKSNÄS bed frame, birch/birch veneer/Lönset, King
+SKU: 79501711
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/bjoerksnaes-bed-frame-birch-birch-veneer-loenset-s79501711/
+Category: Bed frames
+Description: The BJÖRKSNÄS collection has its roots in Scandinavian craftsmanship tradition. Classic and freestanding in durable natural materials with nice details and proportions that make them fit in many rooms...
+
+# @OFFER
+Price: 641
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Head/foot board/ Bedside: Particleboard, Birch veneer, Clear acrylic lacquer, Birch veneer, Clear acrylic lacquer, Birch veneer, Clear acrylic lacquer, Leg/ Rail/ Spindle: Solid birch, Clear acrylic lacquer, Cushion: Polyester wadding, Polyester fiber balls
+Features: 2 headboard pillows included. | LÖNSET slatted bed base is included in the price, but is packaged separately. | SKORVA midbeam is included in the price but packaged separately. It is required for the stability of the bed frame and to keep the mattress in place.
+Care: Cushion: Do not wash. | Cushion: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/bjoerksnaes-bed-frame-birch-birch-veneer-loenset__1175828_pe894830_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

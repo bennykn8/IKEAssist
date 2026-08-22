@@ -1,0 +1,53 @@
+# @CATEGORY
+Name: Kids boxes & baskets
+ProductCount: 31
+
+# @FILTERS
+PriceRange: $2.00 - $49.99
+Materials: 100% recycled solid cardboard, Chlorine free bleached paper, 100% recycled solid cardboard, Paper, ABS plastic, Backing: 100 % PEVA plastic, Backing: 100 % Polyethylene plastic, Basket: 100 % cotton, Bottom: Fiberboard, Acrylic paint, Box: Polypropylene, Fabric/ Mesh: 100% polyester (min. 90% recycled), Fabric: 100 % polyester (100% recycled)
+Brand: IKEA
+
+# @ITEMS
+- VESSLA storage crate with casters, white, 15 ¼x15 ¼": /products/kids-boxes-and-baskets/30064849.txt
+- VESSLA storage crate with casters, light pink, 15 ¼x15 ¼": /products/kids-boxes-and-baskets/10099289.txt
+- VESSLA storage crate with casters, blue, 15 ¼x15 ¼": /products/kids-boxes-and-baskets/80098516.txt
+- VESSLA lid, white, 15 ¼x15 ¼": /products/kids-boxes-and-baskets/70064885.txt
+- UPPSTÅ storage bag, braided/green, 13 ¾": /products/kids-boxes-and-baskets/80529554.txt
+- TIGERFINK storage with compartments, turquoise: /products/kids-boxes-and-baskets/40512471.txt
+- STRANDSKATA storage bag, braided/multicolor, 7 ¾": /products/kids-boxes-and-baskets/10529557.txt
+- STRANDSKATA storage bag, braided/multicolor, 11 ¾": /products/kids-boxes-and-baskets/10529543.txt
+- SKOGSDUVA storage bag, forest animal pattern/multicolor: /products/kids-boxes-and-baskets/50591910.txt
+- SKOGSDUVA box, patterned/multicolor, 9 ¾x6 ¾x3 ¼": /products/kids-boxes-and-baskets/90596538.txt
+- SKOGSDUVA box, multicolor: /products/kids-boxes-and-baskets/40591388.txt
+- SKOGSDUVA box, green/white: /products/kids-boxes-and-baskets/40591393.txt
+- LYSMASK box, set of 4, patterned/multicolor: /products/kids-boxes-and-baskets/40580525.txt
+- LYSMASK box, set of 4, patterned/multicolor: /products/kids-boxes-and-baskets/10523292.txt
+- LEN hanging storage, dotted/light gray, 17 ¾x25 ¼": /products/kids-boxes-and-baskets/20543275.txt
+- LEN box set of 2, green/light gray: /products/kids-boxes-and-baskets/00543262.txt
+- LEN box, gray/dotted white, 9 ¾x14 ½x8 ¾": /products/kids-boxes-and-baskets/30554428.txt
+- JÄTTEBJÖRN organizer, white/gray, 19 ¾x13 ¾x3 ½": /products/kids-boxes-and-baskets/60574199.txt
+- JÄTTEBJÖRN box with lid, white/gray, 32x17 ¾x17 ¼": /products/kids-boxes-and-baskets/80573194.txt
+- GLIS box with lid, yellow/blue, 6 ¾x: /products/kids-boxes-and-baskets/90466155.txt
+- GLIS box with lid, pink/turquoise, 6 ¾x: /products/kids-boxes-and-baskets/20466149.txt
+- GLIS box with lid, clear, 6 ¾x: /products/kids-boxes-and-baskets/40466148.txt
+- GLIS box with lid, clear: /products/kids-boxes-and-baskets/00283103.txt
+- FLISAT Toy storage with casters: /products/kids-boxes-and-baskets/10298420.txt
+- DRÖMSLOTT box set of: /products/kids-boxes-and-baskets/80526447.txt
+- BYGGLEK LEGO® box with lid, set of 3, white: /products/kids-boxes-and-baskets/70372186.txt
+- BLÅVINGAD storage bag, whale pattern/blue-green: /products/kids-boxes-and-baskets/40534086.txt
+- BLÅVINGAD storage bag, ocean animals pattern/multicolor: /products/kids-boxes-and-baskets/10528379.txt
+- BARNDRÖM box, set of 3, green blue/beige, 6 ¾x10 ¾x6 ¾": /products/kids-boxes-and-baskets/20560627.txt
+- BARNDRÖM box, beige, 10 ¼x14 ½x10 ¼": /products/kids-boxes-and-baskets/30560622.txt
+- BARNDRÖM box, beige, 10 ¼x14 ½x6 ¾": /products/kids-boxes-and-baskets/30560617.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

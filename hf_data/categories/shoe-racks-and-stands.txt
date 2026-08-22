@@ -1,0 +1,38 @@
+# @CATEGORY
+Name: Shoe racks & stands
+ProductCount: 16
+
+# @FILTERS
+PriceRange: $2.99 - $335.95
+Materials: Back panel/ Drawer bottom: Fiberboard, Base: Galvanized steel, Powder coating, Foot: Polypropylene, Frame/ Clothes rail/ Shelf/ Hook: Steel, Powder coating, Frame: Steel, Powder coating, Main parts/ Shelf/ Bar: Steel, Powder coating, Mounting plate/ Hook: Steel, Epoxy/polyester powder coating, Polypropylene plastic (min. 20% recycled), Rail/ Leg: Solid wood, Acrylic paint, Rod/ Hook: Steel, Powder coating
+Brand: IKEA
+
+# @ITEMS
+- TRONES / BAGGMUCK hallway furniture, set of 6, black/gray: /products/shoe-racks-and-stands/29527836.txt
+- TJUSIG Shoe rack, white: /products/shoe-racks-and-stands/30152638.txt
+- TJUSIG Shoe rack, black: /products/shoe-racks-and-stands/10152639.txt
+- NIPÅSEN coat rack and bench w shoe storage, black: /products/shoe-racks-and-stands/50586145.txt
+- NIPÅSEN / BAGGMUCK hallway furniture, set of 4, black/gray: /products/shoe-racks-and-stands/09576168.txt
+- MACKAPÄR / VIHALS hallway furniture, set of 5, white: /products/shoe-racks-and-stands/79527891.txt
+- MACKAPÄR shoe rack, white: /products/shoe-racks-and-stands/50530993.txt
+- GREJIG Shoe rack: /products/shoe-racks-and-stands/40329868.txt
+- GREJIG shoe rack, bright red: /products/shoe-racks-and-stands/90600291.txt
+- GREÅKER / NIPÅSEN hallway furniture, set of 4, white/black: /products/shoe-racks-and-stands/59527905.txt
+- BAGGMUCK shoe tray, indoor/outdoor/red: /products/shoe-racks-and-stands/70600287.txt
+- BAGGMUCK shoe tray, indoor/outdoor/gray: /products/shoe-racks-and-stands/60329711.txt
+- BAGGMUCK shoe tray, indoor/outdoor/gray: /products/shoe-racks-and-stands/40573756.txt
+- ÄLGANÄS shoe rack, black: /products/shoe-racks-and-stands/20585883.txt
+- ÄLGANÄS hallway furniture, set of 2, black: /products/shoe-racks-and-stands/79578121.txt
+- ÄLGANÄS clothes rack with shoe storage, black: /products/shoe-racks-and-stands/10585888.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

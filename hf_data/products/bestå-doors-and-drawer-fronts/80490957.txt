@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BJÖRKÖVIKEN door, birch veneer
+SKU: 80490957
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/bjoerkoeviken-door-birch-veneer-80490957/
+Category: BESTÅ doors & drawer fronts
+Description: , 231/2x251/8" BJÖRKÖVIKEN front is made of light birch veneer, a natural material with a vibrant and clean expression, perfect for those who like modern Scandinavian design. A strong sense of quality...
+
+# @OFFER
+Price: 75
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fiberboard, Birch veneer, Clear acrylic lacquer
+Features: To be completed with BESTÅ hinges. One door requires one pack of hinges, sold separately. | May be completed with knobs or handles, sold separately.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/bjoerkoeviken-door-birch-veneer__0993409_pe820524_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

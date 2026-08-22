@@ -1,0 +1,26 @@
+# @CATEGORY
+Name: Cooler bags
+ProductCount: 4
+
+# @FILTERS
+PriceRange: $3.99 - $14.99
+Materials: Fabric: 100% polyester (min. 90% recycled), 100 % Polyurethane, Filling material: Polyethylene foam, Filling: Polyethylene foam, Lining: EVA plastic, Lining: Polyethylene, Main parts/ Handle: Polypropylene (100% recycled), Mesh: 100% polyester (min. 90% recycled), Outer fabric: 100% polyester (min. 90% recycled)
+Brand: IKEA
+
+# @ITEMS
+- PILLERSTARR cooler bag, patterned/blue, 10 ¼x7 ½x7 ½": /products/cooler-bags/30597338.txt
+- PILLERSTARR cooler bag, patterned/blue, 15x8 ¾x10 ¼": /products/cooler-bags/10597339.txt
+- KLOTPIL cooler bag, 15x9 ½x15 ¾": /products/cooler-bags/90586370.txt
+- FRAKTA cooler bag, blue, 15x15 ¾": /products/cooler-bags/50450378.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

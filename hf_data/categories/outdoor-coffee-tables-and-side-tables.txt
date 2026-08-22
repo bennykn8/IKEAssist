@@ -1,0 +1,28 @@
+# @CATEGORY
+Name: Outdoor coffee tables & side tables
+ProductCount: 6
+
+# @FILTERS
+PriceRange: $69.99 - $229.00
+Materials: Bottom part: Polypropylene plastic (min. 20% recycled), Fixing plate: Galvanized steel, Frame/ Leg: Steel, Steel, Polyester powder coating, Frame/ Table top: Steel, Polyester powder coating, Leg frame/ Underframe/ Shelf: Steel, Powder coating, Plastic parts: Polyamide, Solid acacia wood, Acrylic stain, Strip: Synthetic rubber, Table top: Aluminum, Polyester powder coating, Table top: Galvanized steel, Polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- VITTSKÄR coffee table, plastic rattan outdoor/dark gray: /products/outdoor-coffee-tables-and-side-tables/80575555.txt
+- SEGERÖN coffee table, outdoor, white/beige: /products/outdoor-coffee-tables-and-side-tables/40510797.txt
+- ÖRSKÄR nesting tables, set of 2, indoor/outdoor dark gray: /products/outdoor-coffee-tables-and-side-tables/30533737.txt
+- LÅGASKÄR coffee table, outdoor, beige: /products/outdoor-coffee-tables-and-side-tables/90543762.txt
+- KROKHOLMEN coffee table, outdoor, beige: /products/outdoor-coffee-tables-and-side-tables/80336466.txt
+- FÅLSKÄR coffee table, outdoor, brown: /products/outdoor-coffee-tables-and-side-tables/50533736.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

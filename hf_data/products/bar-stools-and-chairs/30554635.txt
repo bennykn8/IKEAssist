@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: GRÖNSTA bar stool, white/indoor/outdoor
+SKU: 30554635
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/groensta-bar-stool-white-indoor-outdoor-30554635/
+Category: Bar stools & chairs
+Description: , 251/4" Counter-height bar stool with molded seat shell and solid wood legs. A timeless design, suitable for kitchen counters and kitchen islands, indoors or outdoors. Easy to assemble and easy to cl...
+
+# @OFFER
+Price: 115
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Seat shell: Polypropylene plastic (min. 50% recycled), Leg: Solid eucalyptus wood, Acrylic stain, Footrest: Aluminum, Polyester powder coating
+Dimensions: Suitable for bar table and counter heights 34-36".
+Features: Suitable for indoor and outdoor use. | Protect your outdoor furniture from rain, sun, dirt, dust, pollen and snow when not in use.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/groensta-bar-stool-white-indoor-outdoor__1335567_pe947092_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

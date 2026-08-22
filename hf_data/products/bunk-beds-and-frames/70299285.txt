@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TUFFING bunk bed frame, dark gray, Twin
+SKU: 70299285
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tuffing-bunk-bed-frame-dark-gray-70299285/
+Category: Bunk beds & frames
+Description: A bunk bed is perfect when you need 2 sleeping places on a small area. This one has passed the same tough safety tests as all our other bunk beds. It’s just a little lower – and cheaper. A good soluti...
+
+# @OFFER
+Price: 149
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Bed base frame/ Guard rail/ Ladder frame/ Ladder steps/ Bed slats/ Leg/ Supporting rail: Steel, Epoxy/polyester powder coating, Fabric: 100 %polyester
+Features: Two people are needed to assemble this furniture. | Bed base included. | Mattress and bedlinens are sold separately.
+Care: Textile: Hand wash cold, 86°F  (30°C). | Textile: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tuffing-bunk-bed-frame-dark-gray__0638044_pe698660_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

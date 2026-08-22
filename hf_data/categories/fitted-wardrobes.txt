@@ -1,0 +1,125 @@
+# @CATEGORY
+Name: Fitted wardrobes
+ProductCount: 103
+
+# @FILTERS
+PriceRange: $387.98 - $1980.00
+Materials: Board on frame: Particleboard, Fiberboard, Plastic edging, Acrylic paint, Board on frame: Particleboard, Fiberboard, Plastic edging, Paper foil, Door frame: Aluminium (min. 70% recycled), Anodized, Door frame: Fiberboard, Paper foil, Plastic edging, Door frame: Fiberboard, Plastic foil, Plastic edging, Door frame: Fiberboard, Polyester paint, Acrylic paint, Door panel: Fiberboard, Paper foil, Door panel: Fiberboard, Polyester paint, Fiberboard, Particleboard, Paper foil, Fiberboard, Polyurethane paint
+Brand: IKEA
+
+# @ITEMS
+- PAX / TYSSEDAL wardrobe combination, white/white: /products/fitted-wardrobes/69602433.txt
+- PAX / TYSSEDAL wardrobe combination, white/white: /products/fitted-wardrobes/69602428.txt
+- PAX / STORKLINTA wardrobe combination, white/oak effect: /products/fitted-wardrobes/09609140.txt
+- PAX / STORKLINTA wardrobe combination, white/oak effect: /products/fitted-wardrobes/09609135.txt
+- PAX / LINNABERG wardrobe combination, white/patterned: /products/fitted-wardrobes/89572675.txt
+- PAX / LINNABERG wardrobe combination, white/patterned: /products/fitted-wardrobes/69572681.txt
+- PAX / LINNABERG wardrobe combination, white/patterned: /products/fitted-wardrobes/39572705.txt
+- PAX / LINNABERG wardrobe combination, white/patterned: /products/fitted-wardrobes/29572664.txt
+- PAX / LINNABERG wardrobe combination, white/patterned: /products/fitted-wardrobes/29572659.txt
+- PAX / LINNABERG wardrobe combination, white/patterned: /products/fitted-wardrobes/19572711.txt
+- PAX / LINNABERG/ÅHEIM wardrobe combination, white patterned/mirror glass: /products/fitted-wardrobes/69572695.txt
+- PAX / LINNABERG/ÅHEIM wardrobe combination, white patterned/mirror glass: /products/fitted-wardrobes/49572719.txt
+- PAX / LINNABERG/ÅHEIM wardrobe combination, white patterned/mirror glass: /products/fitted-wardrobes/29572715.txt
+- PAX / LINNABERG/ÅHEIM wardrobe combination, white patterned/mirror glass: /products/fitted-wardrobes/29572701.txt
+- PAX / KAMMARTORP wardrobe combination, white mirror glass/gray: /products/fitted-wardrobes/29572428.txt
+- PAX / KAMMARTORP wardrobe combination, white mirror glass/gray: /products/fitted-wardrobes/19572424.txt
+- PAX / KAMMARTORP/TYSSEDAL wardrobe combination, white mirror glass/gray white: /products/fitted-wardrobes/79572567.txt
+- PAX / KAMMARTORP/TYSSEDAL wardrobe combination, white mirror glass/gray white: /products/fitted-wardrobes/69572563.txt
+- PAX / KAMMARTORP/GULLABERG wardrobe combination, white mirror glass/gray white: /products/fitted-wardrobes/89572519.txt
+- PAX / KAMMARTORP/GULLABERG wardrobe combination, white mirror glass/gray white: /products/fitted-wardrobes/59572592.txt
+- PAX / KAMMARTORP/GULLABERG wardrobe combination, white mirror glass/gray white: /products/fitted-wardrobes/59572587.txt
+- PAX / KAMMARTORP/GULLABERG wardrobe combination, white mirror glass/gray white: /products/fitted-wardrobes/09572523.txt
+- PAX / KAMMARTORP/GULLABERG wardrobe combination, white/mirror glass gray: /products/fitted-wardrobes/89572543.txt
+- PAX / KAMMARTORP/GULLABERG wardrobe combination, white/mirror glass gray: /products/fitted-wardrobes/79572548.txt
+- PAX / KAMMARTORP/GULLABERG wardrobe combination, white/mirror glass gray: /products/fitted-wardrobes/39572574.txt
+- PAX / KAMMARTORP/GULLABERG wardrobe combination, white/mirror glass gray: /products/fitted-wardrobes/09572575.txt
+- PAX / KAMMARTORP/GRIMO wardrobe combination, white mirror glass/gray white: /products/fitted-wardrobes/89572538.txt
+- PAX / KAMMARTORP/GRIMO wardrobe combination, white mirror glass/gray white: /products/fitted-wardrobes/79572534.txt
+- PAX / KAMMARTORP/GRIMO wardrobe combination, white mirror glass/gray gray-green: /products/fitted-wardrobes/79578499.txt
+- PAX / KAMMARTORP/GRIMO wardrobe combination, white mirror glass/gray gray-green: /products/fitted-wardrobes/59578495.txt
+- PAX / KAMMARTORP/GRIMO wardrobe combination, white mirror glass/gray gray-green: /products/fitted-wardrobes/19579251.txt
+- PAX / KAMMARTORP/GRIMO wardrobe combination, white mirror glass/gray gray-green: /products/fitted-wardrobes/09579256.txt
+- PAX / KAMMARTORP/GRIMO wardrobe combination, dark gray mirror glass/gray gray-green: /products/fitted-wardrobes/29579260.txt
+- PAX / KAMMARTORP/GRIMO wardrobe combination, dark gray mirror glass/gray gray-green: /products/fitted-wardrobes/19579265.txt
+- PAX / GRIMO wardrobe with sliding doors, white/white: /products/fitted-wardrobes/59590143.txt
+- PAX / GRIMO wardrobe with sliding doors, white/white: /products/fitted-wardrobes/39590144.txt
+- PAX / GRIMO wardrobe combination, white/gray-green: /products/fitted-wardrobes/79579291.txt
+- PAX / GRIMO wardrobe combination, white/gray-green: /products/fitted-wardrobes/69579296.txt
+- PAX / GRIMO wardrobe combination, white/gray-green: /products/fitted-wardrobes/59579287.txt
+- PAX / GRIMO wardrobe combination, white/gray-green: /products/fitted-wardrobes/49579301.txt
+- PAX / GRIMO wardrobe combination, white/gray-green: /products/fitted-wardrobes/49579283.txt
+- PAX / GRIMO wardrobe combination, white/gray-green: /products/fitted-wardrobes/49579278.txt
+- PAX / GRIMO wardrobe combination, white/gray-green: /products/fitted-wardrobes/39579274.txt
+- PAX / GRIMO wardrobe combination, white/gray-green: /products/fitted-wardrobes/39579269.txt
+- PAX / GRIMO wardrobe combination, white/gray-green: /products/fitted-wardrobes/39579231.txt
+- PAX / GRIMO wardrobe combination, white/gray-green: /products/fitted-wardrobes/29579241.txt
+- PAX / GRIMO wardrobe combination, white/gray-green: /products/fitted-wardrobes/29579236.txt
+- PAX / GRIMO wardrobe combination, white/gray-green: /products/fitted-wardrobes/19579246.txt
+- PAX / FYRUDDEN wardrobe combination, white/blue: /products/fitted-wardrobes/99581943.txt
+- PAX / FYRUDDEN wardrobe combination, white/blue: /products/fitted-wardrobes/89581774.txt
+- PAX / FYRUDDEN wardrobe combination, white/blue: /products/fitted-wardrobes/89581731.txt
+- PAX / FYRUDDEN wardrobe combination, white/blue: /products/fitted-wardrobes/89581726.txt
+- PAX / FYRUDDEN wardrobe combination, white/blue: /products/fitted-wardrobes/79581939.txt
+- PAX / FYRUDDEN wardrobe combination, white/blue: /products/fitted-wardrobes/79581618.txt
+- PAX / FYRUDDEN wardrobe combination, white/blue: /products/fitted-wardrobes/69581770.txt
+- PAX / FYRUDDEN wardrobe combination, white/blue: /products/fitted-wardrobes/59581935.txt
+- PAX / FYRUDDEN wardrobe combination, white/blue: /products/fitted-wardrobes/49581714.txt
+- PAX / FYRUDDEN wardrobe combination, white/blue: /products/fitted-wardrobes/39581639.txt
+- PAX / FYRUDDEN wardrobe combination, white/blue: /products/fitted-wardrobes/29581710.txt
+- PAX / FYRUDDEN wardrobe combination, white/blue: /products/fitted-wardrobes/29581630.txt
+- PAX / FYRUDDEN wardrobe combination, white/blue: /products/fitted-wardrobes/09581947.txt
+- PAX / FYRUDDEN wardrobe combination, gray-beige/blue: /products/fitted-wardrobes/69581647.txt
+- PAX / FYRUDDEN wardrobe combination, gray-beige/blue: /products/fitted-wardrobes/39581781.txt
+- PAX / FYRUDDEN wardrobe combination, gray-beige/blue: /products/fitted-wardrobes/39581644.txt
+- PAX / FYRUDDEN wardrobe combination, gray-beige/blue: /products/fitted-wardrobes/19581777.txt
+- PAX / FYRUDDEN wardrobe combination, dark gray/blue: /products/fitted-wardrobes/99581636.txt
+- PAX / FYRUDDEN wardrobe combination, dark gray/blue: /products/fitted-wardrobes/89581750.txt
+- PAX / FYRUDDEN wardrobe combination, dark gray/blue: /products/fitted-wardrobes/89581627.txt
+- PAX / FYRUDDEN wardrobe combination, dark gray/blue: /products/fitted-wardrobes/89578470.txt
+- PAX / FYRUDDEN wardrobe combination, dark gray/blue: /products/fitted-wardrobes/69581746.txt
+- PAX / FYRUDDEN wardrobe combination, dark gray/blue: /products/fitted-wardrobes/49578467.txt
+- PAX / FYRUDDEN wardrobe combination, dark gray/blue: /products/fitted-wardrobes/19581598.txt
+- PAX / FYRUDDEN wardrobe combination, dark gray/blue: /products/fitted-wardrobes/09581594.txt
+- PAX / FORSAND wardrobe combination, gray-beige/gray-beige: /products/fitted-wardrobes/99580043.txt
+- PAX / FARDAL wardrobe combination, white/high gloss light orange: /products/fitted-wardrobes/99606929.txt
+- PAX / FARDAL wardrobe combination, white/high gloss light orange: /products/fitted-wardrobes/99590872.txt
+- PAX / FARDAL wardrobe combination, white/high gloss light orange: /products/fitted-wardrobes/99590867.txt
+- PAX / FARDAL wardrobe combination, white/high gloss light orange: /products/fitted-wardrobes/99590805.txt
+- PAX / FARDAL wardrobe combination, white/high gloss light orange: /products/fitted-wardrobes/89596775.txt
+- PAX / FARDAL wardrobe combination, white/high gloss light orange: /products/fitted-wardrobes/89590815.txt
+- PAX / FARDAL wardrobe combination, white/high gloss light orange: /products/fitted-wardrobes/79596771.txt
+- PAX / FARDAL wardrobe combination, white/high gloss light orange: /products/fitted-wardrobes/79590825.txt
+- PAX / FARDAL wardrobe combination, white/high gloss light orange: /products/fitted-wardrobes/79590811.txt
+- PAX / FARDAL wardrobe combination, white/high gloss light orange: /products/fitted-wardrobes/79578475.txt
+- PAX / FARDAL wardrobe combination, white/high gloss light orange: /products/fitted-wardrobes/69596743.txt
+- PAX / FARDAL wardrobe combination, white/high gloss light orange: /products/fitted-wardrobes/59590826.txt
+- PAX / FARDAL wardrobe combination, white/high gloss light orange: /products/fitted-wardrobes/49596739.txt
+- PAX / FARDAL wardrobe combination, white/high gloss light orange: /products/fitted-wardrobes/19606928.txt
+- PAX / FARDAL wardrobe combination, white/high gloss light orange: /products/fitted-wardrobes/19578478.txt
+- PAX / FARDAL wardrobe combination, white/high gloss light orange: /products/fitted-wardrobes/09590819.txt
+- PAX / FARDAL wardrobe combination, gray-beige/high gloss light orange: /products/fitted-wardrobes/89597925.txt
+- PAX / FARDAL wardrobe combination, gray-beige/high gloss light orange: /products/fitted-wardrobes/89590863.txt
+- PAX / FARDAL wardrobe combination, gray-beige/high gloss light orange: /products/fitted-wardrobes/69590859.txt
+- PAX / FARDAL wardrobe combination, gray-beige/high gloss light orange: /products/fitted-wardrobes/29597928.txt
+- PAX / FARDAL wardrobe combination, gray-beige/high gloss light orange: /products/fitted-wardrobes/29596783.txt
+- PAX / FARDAL wardrobe combination, gray-beige/high gloss light orange: /products/fitted-wardrobes/09596779.txt
+- PAX / FARDAL wardrobe combination, gray-beige/high gloss light orange: /products/fitted-wardrobes/09590881.txt
+- PAX / FARDAL wardrobe combination, gray-beige/high gloss light orange: /products/fitted-wardrobes/09590876.txt
+- PAX / FARDAL/ÅHEIM wardrobe combination, white high gloss/light orange mirror glass: /products/fitted-wardrobes/89596695.txt
+- PAX / FARDAL/ÅHEIM wardrobe combination, white high gloss/light orange mirror glass: /products/fitted-wardrobes/49596701.txt
+- PAX / FARDAL/ÅHEIM wardrobe combination, gray-beige high gloss/light orange mirror glass: /products/fitted-wardrobes/79596709.txt
+- PAX / FARDAL/ÅHEIM wardrobe combination, gray-beige high gloss/light orange mirror glass: /products/fitted-wardrobes/59596705.txt
+- PAX / ÅHEIM wardrobe combination, white/mirror glass: /products/fitted-wardrobes/09590334.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,149 @@
+# @CATEGORY
+Name: MITTZON office desks
+ProductCount: 127
+
+# @FILTERS
+PriceRange: $199.99 - $599.99
+Materials: Base plate/ Reinforcement/ Tube/ Mounting plate/ Inside tube/ Outer tube/ Tube/ Mounting bracket: Steel, Epoxy/polyester powder coating, Bracket/ Hook/ Cross rail/ Inside leg/ Leg/ Connecting plate/ Underside foot/ Upper side foot/ Middle rail/ Side rail/ Housing: Steel, Epoxy/polyester powder coating, Cable management/ Cable management: Felt, Cable management: Felt, Glide: Acetal plastic, Leg/ Middle leg/ Inside leg/ Leg connector/ Upper side foot/ Underside foot/ Bracket/ Cross rail/ Supporting rail/ Hook/ Middle rail/ Side rail/ Connecting plate/ Housing: Steel, Epoxy/polyester powder coating, Leg/ Supporting rail/ Metal part/ Hook/ Mounting bracket: Steel, Epoxy/polyester powder coating, Lining, top: Mixed fibers, Main parts: Particleboard, Melamine foil, Acrylic paint, Melamine foil, Plastic edging, Particleboard, Ash veneer, Stain, Clear acrylic lacquer, Ash veneer, Stain, Clear acrylic lacquer, Paper foil
+Brand: IKEA
+
+# @ITEMS
+- MITTZON laptop table with casters, white: /products/mittzon-office-desks/00515607.txt
+- MITTZON laptop table with casters, green: /products/mittzon-office-desks/70498195.txt
+- MITTZON focus workstation, beige/white: /products/mittzon-office-desks/70528183.txt
+- MITTZON desk, white: /products/mittzon-office-desks/99513954.txt
+- MITTZON desk, white: /products/mittzon-office-desks/89525844.txt
+- MITTZON desk, white: /products/mittzon-office-desks/59528113.txt
+- MITTZON desk, white: /products/mittzon-office-desks/49529014.txt
+- MITTZON desk, white: /products/mittzon-office-desks/09529087.txt
+- MITTZON desk, white: /products/mittzon-office-desks/09526036.txt
+- MITTZON desk, white/black: /products/mittzon-office-desks/99529083.txt
+- MITTZON desk, white/black: /products/mittzon-office-desks/99528111.txt
+- MITTZON desk, white/black: /products/mittzon-office-desks/99527946.txt
+- MITTZON desk, white/black: /products/mittzon-office-desks/89529012.txt
+- MITTZON desk, white/black: /products/mittzon-office-desks/79526033.txt
+- MITTZON desk, white/black: /products/mittzon-office-desks/09525838.txt
+- MITTZON desk, walnut veneer/white: /products/mittzon-office-desks/99529059.txt
+- MITTZON desk, walnut veneer/white: /products/mittzon-office-desks/89526103.txt
+- MITTZON desk, walnut veneer white: /products/mittzon-office-desks/69529126.txt
+- MITTZON desk, walnut veneer/white: /products/mittzon-office-desks/49528142.txt
+- MITTZON desk, walnut veneer/white: /products/mittzon-office-desks/49528057.txt
+- MITTZON desk, walnut veneer/white: /products/mittzon-office-desks/49526020.txt
+- MITTZON desk, walnut veneer/black: /products/mittzon-office-desks/99526013.txt
+- MITTZON desk, walnut veneer/black: /products/mittzon-office-desks/89528140.txt
+- MITTZON desk, walnut veneer/black: /products/mittzon-office-desks/89528055.txt
+- MITTZON desk, walnut veneer/black: /products/mittzon-office-desks/89526099.txt
+- MITTZON desk, walnut veneer/black: /products/mittzon-office-desks/49513956.txt
+- MITTZON desk, walnut veneer/black: /products/mittzon-office-desks/19529058.txt
+- MITTZON desk sit/stand, electric white: /products/mittzon-office-desks/89529960.txt
+- MITTZON desk sit/stand, electric white: /products/mittzon-office-desks/59528194.txt
+- MITTZON desk sit/stand, electric white: /products/mittzon-office-desks/29529152.txt
+- MITTZON desk sit/stand, electric white: /products/mittzon-office-desks/29528572.txt
+- MITTZON desk sit/stand, electric white: /products/mittzon-office-desks/19526130.txt
+- MITTZON desk sit/stand, electric white: /products/mittzon-office-desks/09527578.txt
+- MITTZON desk sit/stand, electric white/black: /products/mittzon-office-desks/99528559.txt
+- MITTZON desk sit/stand, electric white/black: /products/mittzon-office-desks/89527560.txt
+- MITTZON desk sit/stand, electric white/black: /products/mittzon-office-desks/89526117.txt
+- MITTZON desk sit/stand, electric white/black: /products/mittzon-office-desks/79529140.txt
+- MITTZON desk sit/stand, electric white/black: /products/mittzon-office-desks/39529892.txt
+- MITTZON desk sit/stand, electric white/black: /products/mittzon-office-desks/19528153.txt
+- MITTZON desk sit/stand, electric walnut veneer/white: /products/mittzon-office-desks/39527925.txt
+- MITTZON desk sit/stand, electric walnut veneer/white: /products/mittzon-office-desks/29528336.txt
+- MITTZON desk sit/stand, electric walnut veneer/white: /products/mittzon-office-desks/19529001.txt
+- MITTZON desk sit/stand, electric walnut veneer/white: /products/mittzon-office-desks/09530340.txt
+- MITTZON desk sit/stand, electric walnut veneer/white: /products/mittzon-office-desks/09529469.txt
+- MITTZON desk sit/stand, electric walnut veneer/white: /products/mittzon-office-desks/09527413.txt
+- MITTZON desk sit/stand, electric walnut veneer/black: /products/mittzon-office-desks/99526881.txt
+- MITTZON desk sit/stand, electric walnut veneer/black: /products/mittzon-office-desks/79529456.txt
+- MITTZON desk sit/stand, electric walnut veneer/black: /products/mittzon-office-desks/69527900.txt
+- MITTZON desk sit/stand, electric walnut veneer/black: /products/mittzon-office-desks/49528986.txt
+- MITTZON desk sit/stand, electric walnut veneer/black: /products/mittzon-office-desks/29530278.txt
+- MITTZON desk sit/stand, electric walnut veneer/black: /products/mittzon-office-desks/09528323.txt
+- MITTZON desk sit/stand, electric oak veneer/white: /products/mittzon-office-desks/79528975.txt
+- MITTZON desk sit/stand, electric oak veneer/white: /products/mittzon-office-desks/59527793.txt
+- MITTZON desk sit/stand, electric oak veneer/white: /products/mittzon-office-desks/49529288.txt
+- MITTZON desk sit/stand, electric oak veneer/white: /products/mittzon-office-desks/49526850.txt
+- MITTZON desk sit/stand, electric oak veneer/white: /products/mittzon-office-desks/39528312.txt
+- MITTZON desk sit/stand, electric oak veneer/white: /products/mittzon-office-desks/09530260.txt
+- MITTZON desk sit/stand, electric oak veneer/black: /products/mittzon-office-desks/99529276.txt
+- MITTZON desk sit/stand, electric oak veneer/black: /products/mittzon-office-desks/99526616.txt
+- MITTZON desk sit/stand, electric oak veneer/black: /products/mittzon-office-desks/89528296.txt
+- MITTZON desk sit/stand, electric oak veneer/black: /products/mittzon-office-desks/39528963.txt
+- MITTZON desk sit/stand, electric oak veneer/black: /products/mittzon-office-desks/19530245.txt
+- MITTZON desk sit/stand, electric oak veneer/black: /products/mittzon-office-desks/09527781.txt
+- MITTZON desk sit/stand, electric black stained ash veneer/white: /products/mittzon-office-desks/89529205.txt
+- MITTZON desk sit/stand, electric black stained ash veneer/white: /products/mittzon-office-desks/89528951.txt
+- MITTZON desk sit/stand, electric black stained ash veneer/white: /products/mittzon-office-desks/79527768.txt
+- MITTZON desk sit/stand, electric black stained ash veneer/white: /products/mittzon-office-desks/59526604.txt
+- MITTZON desk sit/stand, electric black stained ash veneer/white: /products/mittzon-office-desks/39530225.txt
+- MITTZON desk sit/stand, electric black stained ash veneer/white: /products/mittzon-office-desks/09528281.txt
+- MITTZON desk sit/stand, electric black stained ash veneer/black white: /products/mittzon-office-desks/29591361.txt
+- MITTZON desk sit/stand, electric black stained ash veneer/black: /products/mittzon-office-desks/99529196.txt
+- MITTZON desk sit/stand, electric black stained ash veneer/black: /products/mittzon-office-desks/59530210.txt
+- MITTZON desk sit/stand, electric black stained ash veneer/black: /products/mittzon-office-desks/39528939.txt
+- MITTZON desk sit/stand, electric black stained ash veneer/black: /products/mittzon-office-desks/39528265.txt
+- MITTZON desk sit/stand, electric black stained ash veneer/black: /products/mittzon-office-desks/29527756.txt
+- MITTZON desk sit/stand, electric black stained ash veneer/black: /products/mittzon-office-desks/29526587.txt
+- MITTZON desk sit/stand, electric birch veneer/white: /products/mittzon-office-desks/99528248.txt
+- MITTZON desk sit/stand, electric birch veneer/white: /products/mittzon-office-desks/89530195.txt
+- MITTZON desk sit/stand, electric birch veneer/white: /products/mittzon-office-desks/79528616.txt
+- MITTZON desk sit/stand, electric birch veneer/white: /products/mittzon-office-desks/09529186.txt
+- MITTZON desk sit/stand, electric birch veneer/white: /products/mittzon-office-desks/09527743.txt
+- MITTZON desk sit/stand, electric birch veneer/white: /products/mittzon-office-desks/09526499.txt
+- MITTZON desk sit/stand, electric birch veneer/black: /products/mittzon-office-desks/99528234.txt
+- MITTZON desk sit/stand, electric birch veneer/black: /products/mittzon-office-desks/99526145.txt
+- MITTZON desk sit/stand, electric birch veneer/black: /products/mittzon-office-desks/39529175.txt
+- MITTZON desk sit/stand, electric birch veneer/black: /products/mittzon-office-desks/39527732.txt
+- MITTZON desk sit/stand, electric birch veneer/black: /products/mittzon-office-desks/09530180.txt
+- MITTZON desk sit/stand, electric birch veneer/black: /products/mittzon-office-desks/09528592.txt
+- MITTZON desk, oak veneer/white: /products/mittzon-office-desks/99529078.txt
+- MITTZON desk, oak veneer/white: /products/mittzon-office-desks/99528130.txt
+- MITTZON desk, oak veneer/white: /products/mittzon-office-desks/39528053.txt
+- MITTZON desk, oak veneer/white: /products/mittzon-office-desks/29526097.txt
+- MITTZON desk, oak veneer white: /products/mittzon-office-desks/19529124.txt
+- MITTZON desk, oak veneer/white: /products/mittzon-office-desks/09525862.txt
+- MITTZON desk, oak veneer/black: /products/mittzon-office-desks/99526094.txt
+- MITTZON desk, oak veneer/black: /products/mittzon-office-desks/79528051.txt
+- MITTZON desk, oak veneer/black: /products/mittzon-office-desks/69525859.txt
+- MITTZON desk, oak veneer/black: /products/mittzon-office-desks/59529122.txt
+- MITTZON desk, oak veneer/black: /products/mittzon-office-desks/39529076.txt
+- MITTZON desk, oak veneer/black: /products/mittzon-office-desks/39528128.txt
+- MITTZON desk, black stained ash veneer white: /products/mittzon-office-desks/99529115.txt
+- MITTZON desk, black stained ash veneer/white: /products/mittzon-office-desks/79528046.txt
+- MITTZON desk, black stained ash veneer/white: /products/mittzon-office-desks/59529056.txt
+- MITTZON desk, black stained ash veneer/white: /products/mittzon-office-desks/49528123.txt
+- MITTZON desk, black stained ash veneer/white: /products/mittzon-office-desks/09526084.txt
+- MITTZON desk, black stained ash veneer/white: /products/mittzon-office-desks/09525857.txt
+- MITTZON desk, black stained ash veneer/black white: /products/mittzon-office-desks/89591216.txt
+- MITTZON desk, black stained ash veneer/black white: /products/mittzon-office-desks/39591351.txt
+- MITTZON desk, black stained ash veneer/black white: /products/mittzon-office-desks/39591214.txt
+- MITTZON desk, black stained ash veneer/black: /products/mittzon-office-desks/99526070.txt
+- MITTZON desk, black stained ash veneer/black: /products/mittzon-office-desks/89528121.txt
+- MITTZON desk, black stained ash veneer/black: /products/mittzon-office-desks/79525854.txt
+- MITTZON desk, black stained ash veneer/black: /products/mittzon-office-desks/39529118.txt
+- MITTZON desk, black stained ash veneer/black: /products/mittzon-office-desks/29528044.txt
+- MITTZON desk, black stained ash veneer/black: /products/mittzon-office-desks/09529054.txt
+- MITTZON desk, birch veneer/white: /products/mittzon-office-desks/99526046.txt
+- MITTZON desk, birch veneer white: /products/mittzon-office-desks/69529112.txt
+- MITTZON desk, birch veneer/white: /products/mittzon-office-desks/59529018.txt
+- MITTZON desk, birch veneer/white: /products/mittzon-office-desks/49528118.txt
+- MITTZON desk, birch veneer/white: /products/mittzon-office-desks/39525851.txt
+- MITTZON desk, birch veneer/white: /products/mittzon-office-desks/29528039.txt
+- MITTZON desk, birch veneer/black: /products/mittzon-office-desks/99529016.txt
+- MITTZON desk, birch veneer/black: /products/mittzon-office-desks/89529106.txt
+- MITTZON desk, birch veneer/black: /products/mittzon-office-desks/89528116.txt
+- MITTZON desk, birch veneer/black: /products/mittzon-office-desks/69528037.txt
+- MITTZON desk, birch veneer/black: /products/mittzon-office-desks/29526040.txt
+- MITTZON desk, birch veneer/black: /products/mittzon-office-desks/19525847.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

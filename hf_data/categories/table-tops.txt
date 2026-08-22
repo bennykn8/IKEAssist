@@ -1,0 +1,42 @@
+# @CATEGORY
+Name: Table tops
+ProductCount: 20
+
+# @FILTERS
+PriceRange: $10.00 - $84.99
+Materials: Fiberboard, Acrylic paint, Plastic edging, Honeycomb structure paper filling (min. 70% recycled), Particleboard, Fiberboard, Fiberboard, Acrylic paint, Printed acrylic paint, Plastic edging, Honeycomb structure paper filling (min. 70% recycled), Particleboard, Fiberboard, Fiberboard, Printed and embossed acrylic paint, Plastic edging, Honeycomb structure paper filling (min. 70% recycled), Particleboard, Fiberboard, Filling material: Honeycomb structure paper filling (min. 70% recycled), Filling material: Honeycomb structure paper filling (min. 70% recycled), Particleboard, Frame: Particleboard, Plastic edging, Steel, Epoxy/polyester powder coating, Top/ Frame/ Bottom: Bamboo, Clear acrylic lacquer, Top: Fiberboard, Acrylic paint, Top: Fiberboard, Printed and embossed acrylic paint
+Brand: IKEA
+
+# @ITEMS
+- LINNMON tabletop, white: /products/table-tops/00596217.txt
+- LINNMON tabletop, white: /products/table-tops/00251135.txt
+- LINNMON tabletop, dark gray: /products/table-tops/10596226.txt
+- LINNMON tabletop, black-brown: /products/table-tops/10596212.txt
+- LINNMON tabletop, black-brown: /products/table-tops/00251338.txt
+- LAGKAPTEN tabletop, white/anthracite: /products/table-tops/60559330.txt
+- LAGKAPTEN tabletop, white/anthracite: /products/table-tops/30558030.txt
+- LAGKAPTEN tabletop, white: /products/table-tops/40460815.txt
+- LAGKAPTEN tabletop, white: /products/table-tops/10508220.txt
+- LAGKAPTEN tabletop, white: /products/table-tops/10460666.txt
+- LAGKAPTEN tabletop, white: /products/table-tops/00460836.txt
+- LAGKAPTEN tabletop, grid/multicolor: /products/table-tops/60607388.txt
+- LAGKAPTEN tabletop, grid/multicolor: /products/table-tops/10607395.txt
+- LAGKAPTEN tabletop, dark gray/wood effect: /products/table-tops/50596187.txt
+- LAGKAPTEN tabletop, dark gray/wood effect: /products/table-tops/20596184.txt
+- LAGKAPTEN tabletop, black-brown: /products/table-tops/80487016.txt
+- LAGKAPTEN tabletop, black-brown: /products/table-tops/60487017.txt
+- LAGKAPTEN tabletop, black-brown: /products/table-tops/00487015.txt
+- INLÄGG connection hardware: /products/table-tops/50522375.txt
+- ANFALLARE tabletop, bamboo: /products/table-tops/00465141.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

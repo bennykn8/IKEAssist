@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MALM bed frame with mattress, white/Valevåg medium firm, Full
+SKU: 59544839
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/malm-bed-frame-with-mattress-white-valevag-medium-firm-s59544839/
+Category: Beds with mattresses included
+Description: A clean design that’s just as beautiful on all sides – place the bed on its own or with the headboard against a wall. If you need space for extra bedding, add MALM bed storage boxes on casters.
+
+# @OFFER
+Price: 548
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Head/footboard: Particleboard, Fiberboard, Fiberboard, Printed and embossed acrylic paint, Plastic edging, Honeycomb structure paper filling (100% recycled), Bedside: Particleboard, Fiberboard, Printed and embossed acrylic paint, Paper, Plastic edging, Galvanized steel
+Features: Add 2 or 4 MALM bed boxes to create lots of extra storage space. | The mattress may need about 72 hours to fully regain its shape and comfort after having been roll-packed. Any wrinkles will disappear too. | Sometimes the packaging may have given the mattress a noticeable smell which will disappear over a short period of time.
+Care: Mattress: Do not wash. | Mattress: Clean with upholstery shampoo.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/malm-bed-frame-with-mattress-white-valevag-medium-firm__1273572_pe930119_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

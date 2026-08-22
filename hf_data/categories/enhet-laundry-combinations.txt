@@ -1,0 +1,40 @@
+# @CATEGORY
+Name: ENHET laundry combinations
+ProductCount: 18
+
+# @FILTERS
+PriceRange: $437.58 - $1760.57
+Materials: Aluminum, Chrome plated, Aluminum, Epoxy/polyester powder coating, Edge: Plastic edging, Fiberboard, Plastic foil, Front side/ Back side: Plastic foil, Main parts: Particleboard, Rail/ Tubes: Steel, Powder coating, Side panel/ Shelf: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Plastic foil, Plastic edging, Tube: Steel, Powder coating, Tubes: Steel, Powder coating
+Brand: IKEA
+
+# @ITEMS
+- ENHET laundry, white/white frame gray frame: /products/enhet-laundry-combinations/79477103.txt
+- ENHET laundry, white: /products/enhet-laundry-combinations/49472164.txt
+- ENHET laundry, white: /products/enhet-laundry-combinations/29472160.txt
+- ENHET laundry, white: /products/enhet-laundry-combinations/09477111.txt
+- ENHET laundry, white: /products/enhet-laundry-combinations/09477106.txt
+- ENHET laundry, white/oak effect: /products/enhet-laundry-combinations/99472166.txt
+- ENHET laundry, white/oak effect: /products/enhet-laundry-combinations/29477110.txt
+- ENHET laundry, white/oak effect: /products/enhet-laundry-combinations/29477105.txt
+- ENHET laundry, white/oak effect: /products/enhet-laundry-combinations/09472161.txt
+- ENHET laundry, anthracite/white: /products/enhet-laundry-combinations/59477104.txt
+- ENHET laundry, anthracite/white: /products/enhet-laundry-combinations/49477109.txt
+- ENHET laundry, anthracite/white: /products/enhet-laundry-combinations/49472159.txt
+- ENHET laundry, anthracite/white: /products/enhet-laundry-combinations/19472165.txt
+- ENHET laundry, anthracite/white frame: /products/enhet-laundry-combinations/69472163.txt
+- ENHET laundry, anthracite/white frame: /products/enhet-laundry-combinations/59472168.txt
+- ENHET laundry, anthracite/gray frame: /products/enhet-laundry-combinations/99477102.txt
+- ENHET laundry, anthracite/gray frame: /products/enhet-laundry-combinations/89472162.txt
+- ENHET laundry, anthracite/gray frame: /products/enhet-laundry-combinations/79472167.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

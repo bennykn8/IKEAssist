@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GRÖNFINK baby towel with hood, yellow
+SKU: 70572369
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/groenfink-baby-towel-with-hood-yellow-70572369/
+Category: Baby towels & washcloths
+Description: , 31x31" Who can resist a cute baby? Not this embroidered bee of course. It happily sits on the hood when you wrap your loved one in this warm and comfortable towel after a bath. The loop makes it eas...
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % cotton
+Dimensions: If there are loops/threads pulled and protruding higher than other ones due to wear, you can use a sharp pair of scissors and cut them down in height.
+Care: Shrinkage maximum 6%. | Machine wash warm (max 140°F/60°C) normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/groenfink-baby-towel-with-hood-yellow__1250460_pe923743_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

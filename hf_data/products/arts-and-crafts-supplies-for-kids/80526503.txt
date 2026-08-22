@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BLÅVINGAD modelling dough cutters, set of 5, aluminum color
+SKU: 80526503
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/blavingad-modelling-dough-cutters-set-of-5-aluminum-color-80526503/
+Category: Arts and crafts supplies for kids
+Description: With BLÅVINGAD cutters and MÅLA modelling dough, your child can create their own magical underwater world filled with exciting animals. A practical and fun activity where the imagination can flow free...
+
+# @OFFER
+Price: 4.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Aluminum, Anodized
+Features: Only suitable for play, not for cooking/baking. Is not heat resistant. | To be completed with MÅLA modelling dough. | Matches everything in the BLÅVINGAD collection: soft toys, textiles, lighting, and other accessories.
+Care: Not oven-safe. | Not dishwasher-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/blavingad-modelling-dough-cutters-set-of-5-aluminum-color__1081965_pe858469_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

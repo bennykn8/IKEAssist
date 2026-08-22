@@ -1,0 +1,120 @@
+# @CATEGORY
+Name: Scented candles
+ProductCount: 98
+
+# @FILTERS
+PriceRange: $0.99 - $22.99
+Materials: Candle/ Candle: Plant-based wax (min. 50%), paraffin wax, fragrance, Candle: Plant-based wax (min. 50%), fragrance, paraffin wax, Candle: Plant-based wax (min. 50%), paraffin wax, Candle: Plant-based wax (min. 50%), paraffin wax, fragrance, Candle: plant based wax, fragrance, Candle: rapeseed wax, paraffin wax, Candle: rapeseed wax, paraffin wax, fragrance, Candlecup/ Candlecup: Aluminum, Candlecup/ Candlecup: Glass, Candlecup/ Lid: Stoneware, Pigmented glaze
+Brand: IKEA
+
+# @ITEMS
+- SVARTOXBÄR scented tealight, Mimosa/yellow, 3.5 hr: /products/scented-candles/20582667.txt
+- SVARTOXBÄR scented candle in glass, Mimosa/yellow, 45 hr: /products/scented-candles/70582660.txt
+- SVARTOXBÄR scented candle in glass, Mimosa/yellow, 25 hr: /products/scented-candles/00582668.txt
+- STÖRTSKÖN scented tealight, Berries/red, 3.5 hr: /products/scented-candles/20504467.txt
+- STÖRTSKÖN scented candle in glass, Berries/red, 20 hr: /products/scented-candles/80504469.txt
+- STÖRTSKÖN scented candle in glass, Berries/red, 40 hr: /products/scented-candles/60504470.txt
+- STÖRTSKÖN scented candle in glass, Berries/red, 50 hr: /products/scented-candles/20504472.txt
+- STÖRTSKÖN scented candle in glass, 2 wicks, Berries/dark gray, 50 hr: /products/scented-candles/00594355.txt
+- STÖRTSKÖN scented candle in ceramic jar w lid, Berries/red, 60 hr: /products/scented-candles/40504466.txt
+- STÖRTSKÖN scented candle in ceramic jar, Berries/red, 50 hr: /products/scented-candles/40504471.txt
+- SILKESTRÄD scented tealight, leather & vanilla/brown, 3.5 hr: /products/scented-candles/40570550.txt
+- SILKESTRÄD scented tealight, dew & moss/off-white, 3.5 hr: /products/scented-candles/80570553.txt
+- SILKESTRÄD scented candle in ceramic jar, leather & vanilla/brown, 45 hr: /products/scented-candles/00570401.txt
+- SILKESTRÄD scented candle in ceramic jar, dew & moss/off-white, 45 hr: /products/scented-candles/20570400.txt
+- LUGNARE scented tealight, Jasmine/pink, 3.5 hr: /products/scented-candles/30504424.txt
+- LUGNARE scented pillar candle, Jasmine/pink, 30 hr: /products/scented-candles/80504426.txt
+- LUGNARE scented candle in glass, Jasmine/pink, 20 hr: /products/scented-candles/60504427.txt
+- LUGNARE scented candle in glass, Jasmine/pink, 50 hr: /products/scented-candles/60502150.txt
+- LUGNARE scented candle in glass, Jasmine/pink, 40 hr: /products/scented-candles/10504439.txt
+- LUGNARE scented candle in glass, Jasmine/pink, 12 hr: /products/scented-candles/00571486.txt
+- LUGNARE scented candle in glass, 2 wicks, Jasmine/light pink, 50 hr: /products/scented-candles/40594344.txt
+- LUGNARE scented candle in ceramic jar w lid, Jasmine/pink, 60 hr: /products/scented-candles/30504438.txt
+- LUGNARE scented candle in ceramic jar, Jasmine/pink, 50 hr: /products/scented-candles/40504428.txt
+- LÖVSKOGSLUND scented cndl in glass w lid/2 wicks, apple/green, 100 hr: /products/scented-candles/80593272.txt
+- LÖVSKOGSLUND scented cndl in glass w lid/2 wicks, apple/green, 70 hr: /products/scented-candles/40593274.txt
+- LÖVSKOGSLUND scented candle in glass, Apple/light green, 12 hr: /products/scented-candles/20594156.txt
+- LÖVSKOGSLUND scented candle in glass, 3 wicks, apple/green, 25 hr: /products/scented-candles/60593273.txt
+- LÖVSKOGSLUND scented candle in ceramic jar, Apple/bright beige-yellow, 25 hr: /products/scented-candles/70582066.txt
+- LINDLÖNNSKOG scented candle in glass, Vanilla/gray, 50 hr: /products/scented-candles/80585781.txt
+- JÄMTSKOGEN scented tealight, cypress & eucalyptus/dark green, 3.5 hr: /products/scented-candles/70552823.txt
+- JÄMTSKOGEN scented cndl in glass w lid/2 wicks, cypress & eucalyptus/dark green, 70 hr: /products/scented-candles/10552411.txt
+- JÄMTSKOGEN scented cndl in glass w lid/2 wicks, cypress & eucalyptus/dark green, 100 hr: /products/scented-candles/10552393.txt
+- JÄMTSKOGEN scented candle in glass, cypress & eucalyptus/dark green, 45 hr: /products/scented-candles/90552426.txt
+- JÄMNMOD scented tealight, Sweet pea/purple, 3.5 hr: /products/scented-candles/80504431.txt
+- JÄMNMOD scented candle in glass, Sweet pea/purple, 40 hr: /products/scented-candles/90504435.txt
+- JÄMNMOD scented candle in glass, Sweet pea/purple, 20 hr: /products/scented-candles/20504434.txt
+- JÄMNMOD scented candle in ceramic jar w lid, Sweet pea/purple, 60 hr: /products/scented-candles/00504430.txt
+- JÄMNMOD scented candle in ceramic jar, Sweet pea/purple, 50 hr: /products/scented-candles/70504436.txt
+- JÄMLIK scented tealight, Vanilla/light beige, 3.5 hr: /products/scented-candles/70504441.txt
+- JÄMLIK scented pillar candle, Vanilla/light beige, 30 hr: /products/scented-candles/30504443.txt
+- JÄMLIK scented candle in glass, Vanilla/light beige, 40 hr: /products/scented-candles/80504445.txt
+- JÄMLIK scented candle in glass, Vanilla/light beige, 50 hr: /products/scented-candles/80502154.txt
+- JÄMLIK scented candle in glass, Vanilla/light beige, 20 hr: /products/scented-candles/10504444.txt
+- JÄMLIK scented candle in glass, Vanilla/light beige, 12 hr: /products/scented-candles/00594157.txt
+- JÄMLIK scented candle in glass, 2 wicks, Vanilla/light grey-beige, 50 hr: /products/scented-candles/50594348.txt
+- JÄMLIK scented candle in ceramic jar w lid, Vanilla/light beige, 60 hr: /products/scented-candles/90504440.txt
+- JÄMLIK scented candle in ceramic jar, Vanilla/light beige, 50 hr: /products/scented-candles/60504446.txt
+- HÖSTAGILLE scented tealight, Vanilla & apple/orange, 3.5 hr: /products/scented-candles/30597569.txt
+- HÖSTAGILLE scented candle in glass, Vanilla & apple clear glass/orange, 50 hr: /products/scented-candles/80597557.txt
+- HÖSTAGILLE scented candle in glass, Spiced pumpkin clear glass/orange, 20 hr: /products/scented-candles/40597559.txt
+- HÖSTAGILLE scented candle in glass, Spiced pumpkin/brown, 20 hr: /products/scented-candles/00597542.txt
+- HÖSTAGILLE scented candle in glass, Pear clear glass, 35 hr: /products/scented-candles/10597551.txt
+- HÖSTAGILLE scented candle in glass, 2 wicks, Spiced pumpkin/brown, 40 hr: /products/scented-candles/70597567.txt
+- HEDERSAM scented tealight, Fresh grass/light green, 3.5 hr: /products/scented-candles/00504449.txt
+- HEDERSAM scented pillar candle, Fresh grass/light green, 30 hr: /products/scented-candles/40504452.txt
+- HEDERSAM scented candle in glass, Fresh grass/light green, 50 hr: /products/scented-candles/40502410.txt
+- HEDERSAM scented candle in glass, Fresh grass/light green, 20 hr: /products/scented-candles/20504453.txt
+- HEDERSAM scented candle in glass, Fresh grass/light green, 40 hr: /products/scented-candles/00504454.txt
+- HEDERSAM scented candle in ceramic jar w lid, Fresh grass/light green, 60 hr: /products/scented-candles/20504448.txt
+- HEDERSAM scented candle in ceramic jar, Fresh grass/light green, 50 hr: /products/scented-candles/70504455.txt
+- GOLIATTUJA scented cndl in glass w lid/2 wicks, Lavender bliss/purple, 70 hr: /products/scented-candles/40597007.txt
+- GOLIATTUJA scented cndl in glass w lid/2 wicks, Lavender bliss/purple, 100 hr: /products/scented-candles/20597008.txt
+- GOLIATTUJA scented candle in glass, 3 wicks, Lavender bliss/purple, 25 hr: /products/scented-candles/00597009.txt
+- GLANSLIND scented tealight, smoky vanilla/light beige, 3.5 hr: /products/scented-candles/30552815.txt
+- GLANSLIND scented cndl in glass w lid/2 wicks, smoky vanilla/light beige, 70 hr: /products/scented-candles/10552406.txt
+- GLANSLIND scented cndl in glass w lid/2 wicks, smoky vanilla/light beige, 100 hr: /products/scented-candles/00552398.txt
+- GLANSLIND scented candle in glass, smoky vanilla/light beige, 45 hr: /products/scented-candles/00552421.txt
+- FRUKTSKOG scented tealight, vetiver & geranium/black-turquoise, 3.5 hr: /products/scented-candles/40555856.txt
+- FRUKTSKOG scented pillar candle, vetiver & geranium/black-turquoise, 30 hr: /products/scented-candles/50555846.txt
+- FRUKTSKOG scented pillar candle, vetiver & geranium/black-turquoise, 30 hr: /products/scented-candles/00555839.txt
+- FRUKTSKOG scented candle in glass, vetiver & geranium/black-turquoise, 40 hr: /products/scented-candles/30555833.txt
+- FRUKTSKOG scented candle in glass, vetiver & geranium/black-turquoise, 20 hr: /products/scented-candles/30555828.txt
+- FRUKTSKOG scented candle in ceramic jar, vetiver & geranium/black-turquoise, 50 hr: /products/scented-candles/90555825.txt
+- FRAMFÄRD scented cndl in glass w lid/2 wicks, Fresh linen/white frosted glass, 70 hr: /products/scented-candles/40593269.txt
+- FRAMFÄRD scented cndl in glass w lid/2 wicks, Fresh linen/white frosted glass, 100 hr: /products/scented-candles/00593271.txt
+- FRAMFÄRD scented candle in glass, 3 wicks, Fresh linen/white frosted glass, 25 hr: /products/scented-candles/20593270.txt
+- BUKETTAPEL scented tealight, bergamot & cedarwood/pale green, 3.5 hr: /products/scented-candles/60552809.txt
+- BUKETTAPEL scented cndl in glass w lid/2 wicks, bergamot & cedarwood/pale green, 100 hr: /products/scented-candles/50552386.txt
+- BUKETTAPEL scented cndl in glass w lid/2 wicks, bergamot & cedarwood/pale green, 70 hr: /products/scented-candles/20552401.txt
+- BUKETTAPEL scented candle in glass, bergamot & cedarwood/pale green, 45 hr: /products/scented-candles/00552416.txt
+- BLODHÄGG scented tealight, lemon & lemongrass/yellow, 3.5 hr: /products/scented-candles/50571506.txt
+- BLODBOK scented tealight, Strawberry/bright pink, 3.5 hr: /products/scented-candles/30582662.txt
+- BLODBOK scented candle in glass, Strawberry/bright pink, 25 hr: /products/scented-candles/90582664.txt
+- BLODBOK scented candle in glass, Strawberry/bright pink, 45 hr: /products/scented-candles/10582663.txt
+- AVMÅLA scented tealight, Crisp mint/dark green, 3.5 hr: /products/scented-candles/10504458.txt
+- AVMÅLA scented candle in glass, Crisp mint/dark green, 20 hr: /products/scented-candles/50504461.txt
+- AVMÅLA scented candle in glass, Crisp mint/dark green, 40 hr: /products/scented-candles/30504462.txt
+- AVMÅLA scented candle in glass, Crisp mint/dark green, 50 hr: /products/scented-candles/20502411.txt
+- AVMÅLA scented candle in ceramic jar w lid, Crisp mint/dark green, 60 hr: /products/scented-candles/30504457.txt
+- AVMÅLA scented candle in ceramic jar, Crisp mint/dark green, 50 hr: /products/scented-candles/10504463.txt
+- ADLAD scented tealight, Scandinavian Woods/white, 3.5 hr: /products/scented-candles/10504482.txt
+- ADLAD scented pillar candle, Scandinavian Woods/white, 30 hr: /products/scented-candles/70504484.txt
+- ADLAD scented candle in glass, Scandinavian Woods/white, 12 hr: /products/scented-candles/50504423.txt
+- ADLAD scented candle in glass, Scandinavian Woods/white, 20 hr: /products/scented-candles/40504485.txt
+- ADLAD scented candle in glass, Scandinavian Woods/white, 50 hr: /products/scented-candles/40502146.txt
+- ADLAD scented candle in glass, Scandinavian Woods/white, 40 hr: /products/scented-candles/20504486.txt
+- ADLAD scented candle in ceramic jar w lid, Scandinavian Woods/white, 60 hr: /products/scented-candles/30504481.txt
+- ADLAD scented candle in ceramic jar, Scandinavian Woods/white, 50 hr: /products/scented-candles/00504487.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

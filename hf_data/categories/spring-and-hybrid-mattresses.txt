@@ -1,0 +1,79 @@
+# @CATEGORY
+Name: Spring & hybrid mattresses
+ProductCount: 57
+
+# @FILTERS
+PriceRange: $129.00 - $899.00
+Materials: Backing: 100 % polypropylene, Comfort filling: Polyurethane memory foam 3.1 lb/cu.ft, Lining, top/ Lining, side: 100 % polypropylene, Main parts/ Ticking/ Ticking/ Ticking, top/ Ticking, side: 100 % polyester (100% recycled), Quilt filling: 100% polyester (min. 70% recycled), Quilt filling: 70 % viscose, 30 % polyester, Ticking, side: 100 % polypropylene, 100 % polyester (100% recycled), 70 % viscose, 30 % polyester, Ticking, top: 100 % polypropylene, 100 % polyester (100% recycled), 70 % viscose, 30 % polyester, Polyurethane foam 1.5 lb/cu.ft., Ticking, underside/ Lining: 100 % polypropylene, Ticking, underside: 90% viscose, 10% polyester (100% recycled)
+Brand: IKEA
+
+# @ITEMS
+- VINGELEN eurotop hybrid mattress, plush/white, King: /products/spring-and-hybrid-mattresses/40511891.txt
+- VINGELEN eurotop hybrid mattress, plush/white, Queen: /products/spring-and-hybrid-mattresses/00511893.txt
+- VESTERÖY pocket spring mattress, medium firm/white, Full: /products/spring-and-hybrid-mattresses/80511907.txt
+- VESTERÖY pocket spring mattress, medium firm/white, Twin: /products/spring-and-hybrid-mattresses/70511903.txt
+- VESTERÖY pocket spring mattress, medium firm/white, King: /products/spring-and-hybrid-mattresses/20511905.txt
+- VESTERÖY pocket spring mattress, medium firm/white, Queen: /products/spring-and-hybrid-mattresses/10511901.txt
+- VESTERÖY mattress and mattress pad, medium firm white/Nisseholm white, Full: /products/spring-and-hybrid-mattresses/89572312.txt
+- VESTERÖY mattress and mattress pad, medium firm white/Nisseholm white, Queen: /products/spring-and-hybrid-mattresses/79572317.txt
+- VESTERÖY mattress and mattress pad, medium firm white/Nisseholm white, King: /products/spring-and-hybrid-mattresses/69572313.txt
+- VESTERÖY mattress and mattress pad, medium firm white/Nisseholm white, Twin: /products/spring-and-hybrid-mattresses/49572328.txt
+- VESTERÖY mattress and mattress pad, medium firm white/Näsfjället white, Twin: /products/spring-and-hybrid-mattresses/49572253.txt
+- VESTERÖY mattress and mattress pad, medium firm white/Näsfjället white, Queen: /products/spring-and-hybrid-mattresses/39572258.txt
+- VESTERÖY mattress and mattress pad, medium firm white/Näsfjället white, King: /products/spring-and-hybrid-mattresses/29572254.txt
+- VESTERÖY mattress and mattress pad, medium firm white/Näsfjället white, Full: /products/spring-and-hybrid-mattresses/09572269.txt
+- VANNAREID pocket spring mattress, firm/beige, Twin: /products/spring-and-hybrid-mattresses/60569169.txt
+- VALEVÅG pocket spring mattress, medium firm/white, Twin: /products/spring-and-hybrid-mattresses/90511855.txt
+- VALEVÅG pocket spring mattress, medium firm/white, Full: /products/spring-and-hybrid-mattresses/80511851.txt
+- VALEVÅG pocket spring mattress, medium firm/white, Queen: /products/spring-and-hybrid-mattresses/50511857.txt
+- VALEVÅG pocket spring mattress, medium firm/white, King: /products/spring-and-hybrid-mattresses/40511853.txt
+- VALEVÅG pocket spring mattress, firm/white, Queen: /products/spring-and-hybrid-mattresses/70511856.txt
+- VALEVÅG pocket spring mattress, firm/white, King: /products/spring-and-hybrid-mattresses/60511852.txt
+- VALEVÅG pocket spring mattress, firm/white, Twin: /products/spring-and-hybrid-mattresses/20511854.txt
+- VALEVÅG pocket spring mattress, firm/white, Full: /products/spring-and-hybrid-mattresses/00511850.txt
+- VALEVÅG mattress and mattress pad, medium firm white/Nordberget white, Twin: /products/spring-and-hybrid-mattresses/99572509.txt
+- VALEVÅG mattress and mattress pad, medium firm white/Nordberget white, Queen: /products/spring-and-hybrid-mattresses/89572487.txt
+- VALEVÅG mattress and mattress pad, medium firm white/Nordberget white, Full: /products/spring-and-hybrid-mattresses/79572478.txt
+- VALEVÅG mattress and mattress pad, medium firm white/Nordberget white, King: /products/spring-and-hybrid-mattresses/19572481.txt
+- VALEVÅG mattress and mattress pad, medium firm white/Nisseholm white, Twin: /products/spring-and-hybrid-mattresses/79572398.txt
+- VALEVÅG mattress and mattress pad, medium firm white/Nisseholm white, Full: /products/spring-and-hybrid-mattresses/39572381.txt
+- VALEVÅG mattress and mattress pad, medium firm white/Nisseholm white, Queen: /products/spring-and-hybrid-mattresses/29572386.txt
+- VALEVÅG mattress and mattress pad, medium firm white/Nisseholm white, King: /products/spring-and-hybrid-mattresses/19572382.txt
+- VALEVÅG mattress and mattress pad, firm white/Nordberget white, King: /products/spring-and-hybrid-mattresses/59572479.txt
+- VALEVÅG mattress and mattress pad, firm white/Nordberget white, Twin: /products/spring-and-hybrid-mattresses/39572507.txt
+- VALEVÅG mattress and mattress pad, firm white/Nordberget white, Queen: /products/spring-and-hybrid-mattresses/29572485.txt
+- VALEVÅG mattress and mattress pad, firm white/Nordberget white, Full: /products/spring-and-hybrid-mattresses/19572476.txt
+- VALEVÅG mattress and mattress pad, firm white/Nisseholm white, Full: /products/spring-and-hybrid-mattresses/89572411.txt
+- VALEVÅG mattress and mattress pad, firm white/Nisseholm white, Twin: /products/spring-and-hybrid-mattresses/59572403.txt
+- VALEVÅG mattress and mattress pad, firm white/Nisseholm white, Queen: /products/spring-and-hybrid-mattresses/49572413.txt
+- VALEVÅG mattress and mattress pad, firm white/Nisseholm white, King: /products/spring-and-hybrid-mattresses/49572408.txt
+- VÅGSTRANDA pocket spring mattress, plush/white, Twin: /products/spring-and-hybrid-mattresses/80511889.txt
+- VÅGSTRANDA pocket spring mattress, plush/white, King: /products/spring-and-hybrid-mattresses/60511885.txt
+- VÅGSTRANDA pocket spring mattress, plush/white, Queen: /products/spring-and-hybrid-mattresses/20511887.txt
+- VÅGSTRANDA pocket spring mattress, plush/white, Full: /products/spring-and-hybrid-mattresses/10511883.txt
+- VÅGSTRANDA pocket spring mattress, medium firm/white, Twin: /products/spring-and-hybrid-mattresses/50511881.txt
+- VÅGSTRANDA pocket spring mattress, medium firm/white, Queen: /products/spring-and-hybrid-mattresses/30511877.txt
+- VÅGSTRANDA pocket spring mattress, medium firm/white, King: /products/spring-and-hybrid-mattresses/20511873.txt
+- VÅGSTRANDA pocket spring mattress, medium firm/white, Full: /products/spring-and-hybrid-mattresses/00511869.txt
+- VÅGSTRANDA pocket spring mattress, firm/white, Twin: /products/spring-and-hybrid-mattresses/90511879.txt
+- VÅGSTRANDA pocket spring mattress, firm/white, Queen: /products/spring-and-hybrid-mattresses/70511875.txt
+- VÅGSTRANDA pocket spring mattress, firm/white, King: /products/spring-and-hybrid-mattresses/60511871.txt
+- VÅGSTRANDA pocket spring mattress, firm/white, Full: /products/spring-and-hybrid-mattresses/40511867.txt
+- ÅNNELAND hybrid mattress, plush/white, Queen: /products/spring-and-hybrid-mattresses/60481751.txt
+- ÅNNELAND hybrid mattress, plush/white, King: /products/spring-and-hybrid-mattresses/60481746.txt
+- ÅNNELAND hybrid mattress, plush/white, Full: /products/spring-and-hybrid-mattresses/50481742.txt
+- ÅNNELAND hybrid mattress, medium firm/white, Full: /products/spring-and-hybrid-mattresses/90481740.txt
+- ÅNNELAND hybrid mattress, medium firm/white, King: /products/spring-and-hybrid-mattresses/10481744.txt
+- ÅNNELAND hybrid mattress, medium firm/white, Queen: /products/spring-and-hybrid-mattresses/00481749.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

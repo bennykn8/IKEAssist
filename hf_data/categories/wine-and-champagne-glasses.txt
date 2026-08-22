@@ -1,0 +1,39 @@
+# @CATEGORY
+Name: Wine & champagne glasses
+ProductCount: 17
+
+# @FILTERS
+PriceRange: $0.99 - $24.99
+Materials: Crystalline, Glass, Polystyrene-acrylic plastic
+Brand: IKEA
+
+# @ITEMS
+- SVALKA wine glass, clear glass, 10 oz: /products/wine-and-champagne-glasses/30015123.txt
+- SVALKA wine glass, clear glass, 20 oz: /products/wine-and-champagne-glasses/00530523.txt
+- SVALKA wine glass, clear glass, 15 oz: /products/wine-and-champagne-glasses/00473023.txt
+- SVALKA champagne flute, clear glass, 7 oz: /products/wine-and-champagne-glasses/50015122.txt
+- STORSINT wine glass, clear glass, 17 oz: /products/wine-and-champagne-glasses/30396288.txt
+- STORSINT wine glass, clear glass, 23 oz: /products/wine-and-champagne-glasses/20396298.txt
+- STORSINT wine glass, clear glass, 23 oz: /products/wine-and-champagne-glasses/00396336.txt
+- STORSINT champagne flute, clear glass, 7 oz: /products/wine-and-champagne-glasses/20396316.txt
+- STORHET champagne coupe, clear glass, 10 oz: /products/wine-and-champagne-glasses/80342882.txt
+- STOCKHOLM 2025 wine glass, 11 oz: /products/wine-and-champagne-glasses/40592439.txt
+- OMBONAD wine glass, gray, 14 oz: /products/wine-and-champagne-glasses/90504647.txt
+- KALLSINNIG wine glass, plastic/blue, 11 oz: /products/wine-and-champagne-glasses/90597335.txt
+- FRÖJDA wine glass, clear glass, 16 oz: /products/wine-and-champagne-glasses/20586156.txt
+- FRÖJDA champagne coupe, clear glass, 7 oz: /products/wine-and-champagne-glasses/20581385.txt
+- DYRGRIP wine glass, clear glass, 20 oz: /products/wine-and-champagne-glasses/20309300.txt
+- DYRGRIP white wine glass, clear glass, 14 oz: /products/wine-and-champagne-glasses/80309302.txt
+- ÄNKEBLOMSTER wine glass, clear glass, 8 oz: /products/wine-and-champagne-glasses/60591839.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

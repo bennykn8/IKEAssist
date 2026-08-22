@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: IDANÄS bookcase, dark brown stained
+SKU: 00487831
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/idanaes-bookcase-dark-brown-stained-00487831/
+Category: Bookshelves & bookcases
+Description: , 317/8x153/8x831/8" IDANÄS series combines timeless design with modern functionality. The open shelves give generous storage space and large surfaces for decoration. Traditional detailing adds a feel...
+
+# @OFFER
+Price: 299
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top: Fiberboard and honeycomb paper filling (100% recycled paper), Paper foil, Beech veneer, Stain, Clear acrylic lacquer, Paper, Side panel: Particleboard, Beech veneer, Stain, Clear acrylic lacquer, Stain, Clear acrylic lacquer, Paper, Bottom/ Shelf: Particleboard, Beech veneer, Stain, Clear acrylic lacquer, Paper foil, Stain, Clear acrylic lacquer, Paper
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/idanaes-bookcase-dark-brown-stained__1008945_pe827388_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

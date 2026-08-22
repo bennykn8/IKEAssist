@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TREASJÖN mirror cabinet w/2 doors & light
+SKU: 90576677
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/treasjoen-mirror-cabinet-w-2-doors-light-90576677/
+Category: Bathroom wall cabinets
+Description: , 311/2x63/4x291/2" A mirror cabinet that makes clever use of wall space and combined with LED lighting that spreads a diffused light in the bathroom – so you enjoy a good start to the morning and a n...
+
+# @OFFER
+Price: 199
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Cover/ Bottom/ Cover cap/ Cable organizer: ABS plastic, Cord anchorage: Polyamide, Shade/ Diffuser: Polycarbonate plastic
+Features: The light is turned on/off via the general power switch in the room. | Two adjustable tempered glass shelves included. | Hardwired installation.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/treasjoen-mirror-cabinet-w-2-doors-light__1241593_pe919883_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,53 @@
+# @CATEGORY
+Name: Side plates
+ProductCount: 31
+
+# @FILTERS
+PriceRange: $0.79 - $19.99
+Materials: Feldspar porcelain, Feldspar porcelain, Colored glaze, Stoneware, Stoneware, Colored glaze, Stoneware, Pigmented glaze, Clear glaze, Tempered glass, Tempered opal glass
+Brand: IKEA
+
+# @ITEMS
+- VÄRDERA side plate, white: /products/side-plates/00277357.txt
+- UPPLAGA side plate, white: /products/side-plates/70443805.txt
+- UPPLAGA side plate, patterned/white: /products/side-plates/20599540.txt
+- STRIMMIG side plate, white: /products/side-plates/30468218.txt
+- STRIMMIG side plate, stoneware pale gray-green: /products/side-plates/30567671.txt
+- STRIMMIG side plate, stoneware gray: /products/side-plates/40505649.txt
+- STRIMMIG side plate, stoneware blue: /products/side-plates/20505688.txt
+- STOCKHOLM 2025 side plate, black: /products/side-plates/00592422.txt
+- SILVERSIDA side plate, patterned/blue: /products/side-plates/70565694.txt
+- SANDSKÄDDA side plate, light grey-beige: /products/side-plates/90559437.txt
+- PARADISISK side plate, off-white: /products/side-plates/00483461.txt
+- OMBONAD side plate, dark gray: /products/side-plates/60502961.txt
+- OFTAST side plate, white, 7 ½": /products/side-plates/60318939.txt
+- OFTAST side plate, light green, 7 ½": /products/side-plates/20608262.txt
+- NÄTBARB side plate, black: /products/side-plates/40563696.txt
+- MOSSMAL side plate, dot pattern/light green: /products/side-plates/30582761.txt
+- KUSTFYR side plate, mixed patterns: /products/side-plates/40599600.txt
+- KRUSTISTEL side plate, patterned/light gray: /products/side-plates/50584325.txt
+- KRUSTISTEL side plate, patterned/light beige: /products/side-plates/90592333.txt
+- KLIPPAKLEJA side plate, patterned/yellow pink: /products/side-plates/60599538.txt
+- IKEA 365+ plate, white: /products/side-plates/80258944.txt
+- GODMIDDAG side plate, white: /products/side-plates/80585026.txt
+- GLADELIG side plate, gray: /products/side-plates/00600752.txt
+- GLADELIG side plate, dark gray: /products/side-plates/00596991.txt
+- GLADELIG side plate, blue: /products/side-plates/70600720.txt
+- FÄRGKLAR side plate, matte light turquoise: /products/side-plates/90477168.txt
+- FÄRGKLAR side plate, matte light gray: /products/side-plates/20479420.txt
+- FÄRGKLAR side plate, matte green: /products/side-plates/40478207.txt
+- FÄRGKLAR side plate, light pink: /products/side-plates/90600427.txt
+- FÄRGKLAR side plate, glossy brown: /products/side-plates/30485454.txt
+- ENTUSIASM side plate, patterned/blue: /products/side-plates/20505358.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

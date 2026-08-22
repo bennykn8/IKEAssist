@@ -1,0 +1,73 @@
+# @CATEGORY
+Name: Laminate countertops
+ProductCount: 51
+
+# @FILTERS
+PriceRange: $39.00 - $179.00
+Materials: Particleboard, High-pressure laminate, Plastic edging, Particleboard, Laminate, Particleboard, Laminate, Laminate, Unbleached paper, Particleboard, Laminate, Plastic edging, Unbleached paper
+Brand: IKEA
+
+# @ITEMS
+- SÄLJAN countertop, white/light gray stone effect/laminate: /products/laminate-countertops/90556882.txt
+- SÄLJAN countertop, white/light gray stone effect/laminate: /products/laminate-countertops/70556883.txt
+- SÄLJAN countertop, oak effect/laminate: /products/laminate-countertops/80439214.txt
+- SÄLJAN Countertop, oak effect, laminate: /products/laminate-countertops/30439216.txt
+- SÄLJAN countertop for kitchen island, oak effect/laminate: /products/laminate-countertops/00499122.txt
+- SÄLJAN countertop for kitchen island, dark gray stone effect/laminate: /products/laminate-countertops/60604337.txt
+- SÄLJAN countertop for kitchen island, beige stone effect/laminate: /products/laminate-countertops/80499123.txt
+- SÄLJAN countertop, dark gray stone effect/laminate: /products/laminate-countertops/30604329.txt
+- SÄLJAN countertop, dark gray stone effect/laminate: /products/laminate-countertops/10604330.txt
+- SÄLJAN countertop, black marble effect/laminate: /products/laminate-countertops/80335693.txt
+- MÖCKLERYD countertop, white/laminate: /products/laminate-countertops/50591383.txt
+- LILLTRÄSK Countertop, white, laminate: /products/laminate-countertops/50280828.txt
+- LILLTRÄSK Countertop, white, laminate: /products/laminate-countertops/30280829.txt
+- LILLTRÄSK countertop for kitchen island, white/laminate, 50x34 ½x11/: /products/laminate-countertops/30516016.txt
+- JÄRSTORP countertop, white/laminate: /products/laminate-countertops/80589656.txt
+- JÄRSTORP countertop, white/laminate: /products/laminate-countertops/00589655.txt
+- JÄRSTORP countertop for kitchen island, white/laminate: /products/laminate-countertops/60589657.txt
+- EKBACKEN countertop, white marble effect/laminate: /products/laminate-countertops/90609036.txt
+- EKBACKEN countertop, white marble effect/laminate: /products/laminate-countertops/10609035.txt
+- EKBACKEN countertop, white lively marble effect/laminate: /products/laminate-countertops/30570353.txt
+- EKBACKEN countertop, white lively marble effect/laminate: /products/laminate-countertops/10570354.txt
+- EKBACKEN countertop, terracotta effect/laminate: /products/laminate-countertops/30609058.txt
+- EKBACKEN countertop, terracotta effect/laminate: /products/laminate-countertops/10609059.txt
+- EKBACKEN countertop, plywood effect/laminate: /products/laminate-countertops/80609051.txt
+- EKBACKEN countertop, plywood effect/laminate: /products/laminate-countertops/00609050.txt
+- EKBACKEN Countertop, matte beige, patterned laminate: /products/laminate-countertops/40397193.txt
+- EKBACKEN Countertop, matte beige, patterned laminate: /products/laminate-countertops/20397194.txt
+- EKBACKEN countertop, limestone effect/laminate: /products/laminate-countertops/10548805.txt
+- EKBACKEN countertop, light gray concrete effect/laminate: /products/laminate-countertops/80395446.txt
+- EKBACKEN countertop, light gray concrete effect/laminate: /products/laminate-countertops/60395447.txt
+- EKBACKEN countertop, gray terrazzo effect/laminate: /products/laminate-countertops/30609015.txt
+- EKBACKEN countertop, gray terrazzo effect/laminate: /products/laminate-countertops/10609016.txt
+- EKBACKEN countertop, gray-beige stone effect/laminate: /products/laminate-countertops/20604315.txt
+- EKBACKEN countertop, gray-beige stone effect/laminate: /products/laminate-countertops/00604316.txt
+- EKBACKEN countertop for kitchen island, white marble effect/laminate: /products/laminate-countertops/00609026.txt
+- EKBACKEN countertop for kitchen island, white lively marble effect/laminate: /products/laminate-countertops/50570347.txt
+- EKBACKEN countertop for kitchen island, terracotta effect/laminate: /products/laminate-countertops/50609057.txt
+- EKBACKEN countertop for kitchen island, plywood effect/laminate: /products/laminate-countertops/90609041.txt
+- EKBACKEN countertop for kitchen island, limestone effect/laminate: /products/laminate-countertops/40548804.txt
+- EKBACKEN countertop for kitchen island, light gray concrete effect/laminate: /products/laminate-countertops/50499110.txt
+- EKBACKEN countertop for kitchen island, gray terrazzo effect/laminate: /products/laminate-countertops/80609008.txt
+- EKBACKEN countertop for kitchen island, gray-beige stone effect/laminate: /products/laminate-countertops/50604314.txt
+- EKBACKEN Countertop, double-sided, with white edge light gray light gray/white, laminate white: /products/laminate-countertops/60291341.txt
+- EKBACKEN Countertop, double-sided, with white edge light gray light gray/white, laminate white: /products/laminate-countertops/00291339.txt
+- EKBACKEN Countertop, concrete effect, laminate: /products/laminate-countertops/00335654.txt
+- EKBACKEN countertop, brown walnut effect/laminate: /products/laminate-countertops/60476486.txt
+- EKBACKEN countertop, brown walnut effect/laminate: /products/laminate-countertops/00442989.txt
+- EKBACKEN countertop, black/laminate: /products/laminate-countertops/90589670.txt
+- EKBACKEN countertop, black/laminate: /products/laminate-countertops/50589672.txt
+- EKBACKEN Countertop, ash effect, laminate: /products/laminate-countertops/30337623.txt
+- EKBACKEN Countertop, ash effect, laminate: /products/laminate-countertops/10337624.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

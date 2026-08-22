@@ -1,0 +1,62 @@
+# @CATEGORY
+Name: Placemats, tablemats & coasters
+ProductCount: 40
+
+# @FILTERS
+PriceRange: $0.79 - $12.99
+Materials: 100 % cotton, 100 % polyester (100% recycled), 100 % PEVA plastic, 85 % cotton, 15 % jute, 90 % cotton, 10 % jute, Bamboo, Clear lacquer, Base: 100 % jute, Base: Palm leaf, Base: Seagrass, Base: Sedge, Clear lacquer, Base: Sedge, Water hyacinth, Clear lacquer
+Brand: IKEA
+
+# @ITEMS
+- VÅRKLYNNE place mat, patterned black/white, 14 ¼x11 ½": /products/placemats-tablemats-and-coasters/50560857.txt
+- VARGFISK place mat, natural/rattan handmade, 13 ¾": /products/placemats-tablemats-and-coasters/60531572.txt
+- VÅRARV place mat, dark gray/natural, 13 ¾x17 ¾": /products/placemats-tablemats-and-coasters/20545849.txt
+- TUVIRIS place mat, gray-green/patterned plastic, 14 ½": /products/placemats-tablemats-and-coasters/30570843.txt
+- SVARTSENAP place mat, natural: /products/placemats-tablemats-and-coasters/70527961.txt
+- SVARTSENAP place mat, light pink: /products/placemats-tablemats-and-coasters/30532894.txt
+- SVARTSENAP place mat, green-blue: /products/placemats-tablemats-and-coasters/80527965.txt
+- SVARTSENAP place mat, gray: /products/placemats-tablemats-and-coasters/20527968.txt
+- STRANDFLOKA place mat, patterned/multicolor, 17 ¾x13 ¾": /products/placemats-tablemats-and-coasters/20579919.txt
+- STRANDFLOKA coaster, bamboo: /products/placemats-tablemats-and-coasters/40573921.txt
+- STAMSILL coaster, water hyacinth/sedge handmade: /products/placemats-tablemats-and-coasters/30531564.txt
+- SOLABBORRE place mat, cork/dotted, 16 ½x12 ½": /products/placemats-tablemats-and-coasters/80552587.txt
+- SOLABBORRE coaster, cork/dotted: /products/placemats-tablemats-and-coasters/50552602.txt
+- SOARÉ place mat, water hyacinth: /products/placemats-tablemats-and-coasters/40082536.txt
+- PILLERSTARR place mat, patterned/multicolor: /products/placemats-tablemats-and-coasters/00601643.txt
+- PENNFISK place mat, natural/sedge handmade, 14 ½": /products/placemats-tablemats-and-coasters/60527749.txt
+- PENNFISK coasters with holder, natural/sedge handmade: /products/placemats-tablemats-and-coasters/90531561.txt
+- PADDFISK place mat, palm leaf handmade: /products/placemats-tablemats-and-coasters/70527777.txt
+- OMBONAD place mat, jute braided: /products/placemats-tablemats-and-coasters/10527775.txt
+- NISSÖGA place mat, white/light blue, 17 ¾x13 ¾": /products/placemats-tablemats-and-coasters/30555055.txt
+- NISSÖGA place mat, white/gray, 17 ¾x13 ¾": /products/placemats-tablemats-and-coasters/40555045.txt
+- NISSÖGA place mat, white/dark blue, 17 ¾x13 ¾": /products/placemats-tablemats-and-coasters/10555056.txt
+- MÄVINN place mat, jute, 14 ½": /products/placemats-tablemats-and-coasters/50600976.txt
+- MÄVINN place mat, handmade: /products/placemats-tablemats-and-coasters/70587832.txt
+- LÄTTAD place mat, seagrass/black: /products/placemats-tablemats-and-coasters/00236239.txt
+- KUSTFYR coaster, cork/patterned: /products/placemats-tablemats-and-coasters/80615603.txt
+- IKEA 365+ coaster, cork, 3 ½": /products/placemats-tablemats-and-coasters/50282945.txt
+- IKEA 365+ coaster, cork: /products/placemats-tablemats-and-coasters/30282946.txt
+- IHÅLLIG place mat, natural/seagrass: /products/placemats-tablemats-and-coasters/00342876.txt
+- GROGGY coaster, square/stainless steel: /products/placemats-tablemats-and-coasters/60017615.txt
+- GLATTIS coasters with holder, brass color: /products/placemats-tablemats-and-coasters/50343005.txt
+- GALLSOPP place mat, natural/sedge handmade, 14 ½": /products/placemats-tablemats-and-coasters/90527776.txt
+- GALLSOPP coaster, natural/sedge handmade: /products/placemats-tablemats-and-coasters/80531566.txt
+- FLYGFISK place mat, light pink: /products/placemats-tablemats-and-coasters/40569250.txt
+- FLYGFISK place mat, light green: /products/placemats-tablemats-and-coasters/00569252.txt
+- FLYGFISK place mat, light gray: /products/placemats-tablemats-and-coasters/90569243.txt
+- FLYGFISK place mat, light beige: /products/placemats-tablemats-and-coasters/80569248.txt
+- FLYGFISK place mat, dark gray: /products/placemats-tablemats-and-coasters/20569251.txt
+- FLYGFISK place mat, dark blue: /products/placemats-tablemats-and-coasters/60569249.txt
+- BRÄNNBOLL coaster, cork: /products/placemats-tablemats-and-coasters/70586620.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

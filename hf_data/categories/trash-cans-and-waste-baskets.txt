@@ -1,0 +1,49 @@
+# @CATEGORY
+Name: Trash cans & waste baskets
+ProductCount: 27
+
+# @FILTERS
+PriceRange: $1.99 - $99.99
+Materials: Bin/ Lid/ Pedal/ Lock: Polypropylene, Bin/ Lid: Galvanized steel, Powder coating, Bin/ Lid: Polypropylene plastic (min. 50% recycled), Bin/ Lid: Stainless steel, Clear acrylic lacquer, Bin/ Lid: Steel, Epoxy/polyester powder coating, Bin: Galvanized steel, Powder coating, Bin: Stainless steel, Paint, Body/ Lid/ Bar: Stainless steel, Body/ Lid: Stainless steel, Body: Steel, Galvanized steel, Powder coating
+Brand: IKEA
+
+# @ITEMS
+- TOFTAN trash can, white, 1 gallon: /products/trash-cans-and-waste-baskets/00494025.txt
+- SULTEN step trash can, stainless steel, 13 gallon: /products/trash-cans-and-waste-baskets/60511220.txt
+- STABBEN step trash can, stainless steel, 5 gallon: /products/trash-cans-and-waste-baskets/20511217.txt
+- SNÖRPA pedal bin, stainless steel, 3 gallon: /products/trash-cans-and-waste-baskets/50511211.txt
+- SNÖRPA pedal bin, stainless steel, 1 gallon: /products/trash-cans-and-waste-baskets/10511208.txt
+- MJÖSA pedal bin, dark gray, 3 gallon: /products/trash-cans-and-waste-baskets/10422844.txt
+- MJÖSA pedal bin, dark gray, 8 gallon: /products/trash-cans-and-waste-baskets/00422854.txt
+- KNÖCKLA step trash can, dark gray, 7 gallon: /products/trash-cans-and-waste-baskets/90514095.txt
+- KNÖCKLA step trash can, dark gray, 13 gallon: /products/trash-cans-and-waste-baskets/70514100.txt
+- KNODD bin with lid, white, 4 gallon: /products/trash-cans-and-waste-baskets/90099049.txt
+- KNODD bin with lid, gray, 11 gallon: /products/trash-cans-and-waste-baskets/90315312.txt
+- KNODD Bin with lid, gray, Height: 12 ½" Diameter: 13 ½": /products/trash-cans-and-waste-baskets/60312249.txt
+- HÄCKSAX step trash can, white, 2 gallon: /products/trash-cans-and-waste-baskets/80553600.txt
+- HÄCKSAX step trash can, white, 3 gallon: /products/trash-cans-and-waste-baskets/40553602.txt
+- HÄCKSAX step trash can, gray, 2 gallon: /products/trash-cans-and-waste-baskets/70553605.txt
+- HÄCKSAX step trash can, gray, 3 gallon: /products/trash-cans-and-waste-baskets/00553604.txt
+- HÄCKSAX step trash can, black, 2 gallon: /products/trash-cans-and-waste-baskets/60553601.txt
+- HÄCKSAX step trash can, black, 3 gallon: /products/trash-cans-and-waste-baskets/20553603.txt
+- FNISS trash can, white, 3 gallon: /products/trash-cans-and-waste-baskets/40295439.txt
+- FNISS trash can, black, 3 gallon: /products/trash-cans-and-waste-baskets/60295438.txt
+- FARMARKVAST compost bin, gray-green, 135 oz: /products/trash-cans-and-waste-baskets/90567003.txt
+- EKOLN trash can, light gray-turquoise, 1 gallon: /products/trash-cans-and-waste-baskets/20593736.txt
+- EKOLN trash can, beige, 1 gallon: /products/trash-cans-and-waste-baskets/70493013.txt
+- DRÖNJÖNS wastepaper basket, white: /products/trash-cans-and-waste-baskets/60460107.txt
+- BROGRUND touch top trash can, stainless steel, 1 gallon: /products/trash-cans-and-waste-baskets/70433364.txt
+- BROGRUND touch top trash can, black, 1 gallon: /products/trash-cans-and-waste-baskets/60524656.txt
+- BROFJÄRDEN trash can, chrome effect, 1 gallon: /products/trash-cans-and-waste-baskets/20582182.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

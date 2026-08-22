@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: VÅRVIAL fitted sheet for twin daybed, blue, Twin
+SKU: 20577034
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/varvial-fitted-sheet-for-twin-daybed-blue-20577034/
+Category: Bed sheets
+Description: The jersey fabric is machine-knitted from 100% cotton, giving you a soft texture that’s warm and cozy against your skin. It’s stretchy too, so the sheet fits your day-bed mattress perfectly – even in ...
+
+# @OFFER
+Price: 12.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % cotton
+Care: Shrinkage maximum 4%. | Machine wash warm (max 140°F/60°C) normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/varvial-fitted-sheet-for-twin-daybed-blue__1243791_pe920940_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

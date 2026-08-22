@@ -1,0 +1,47 @@
+# @CATEGORY
+Name: Desk & chair sets
+ProductCount: 25
+
+# @FILTERS
+PriceRange: $59.98 - $1014.97
+Materials: Back panel/ Front rail: Particleboard, Paper foil, Plastic edging, Back panel: Layer-glued wood veneer, Oak veneer, Stain, Tinted clear acrylic lacquer, Oak veneer, Stain, Tinted clear acrylic lacquer, Back panel: Layer-glued wood veneer, Oak veneer, Tinted clear acrylic lacquer, Oak veneer, Tinted clear acrylic lacquer, Body: Steel, Epoxy/polyester powder coating, Bottom panel: Particleboard, Paper foil, Paper foil, Plastic edging, Cable management/ Back rail/ Shelf/ Front: Particleboard, Paper foil, Plastic edging, Plastic edging, Center support beam/ Leg/ Side rail/ Crank: Steel, Epoxy/polyester powder coating, Drawer back/ Drawer sides: Solid pine, Drawer side/ Drawer back: Particleboard, Plastic foil, Feet: Steel, Steel, Epoxy/polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- VEBJÖRN/MULLFJÄLLET / BILLY/OXBERG desk and storage combination, and swivel chair beige/gray/white: /products/desk-and-chair-sets/49436369.txt
+- TROTTEN/LIDKULLEN table and sit/stand support, white/dark gray: /products/desk-and-chair-sets/79494541.txt
+- TROTTEN/LÅNGFJÄLL / BESTÅ/LAPPVIKEN desk and storage combination, and swivel chair white/gray: /products/desk-and-chair-sets/39436591.txt
+- TORALD / SMÄLLEN desk and chair, white/black: /products/desk-and-chair-sets/69488574.txt
+- RIDSPÖ / LÅNGFJÄLL desk and chair, oak beige/white: /products/desk-and-chair-sets/89502734.txt
+- RIDSPÖ / LÅNGFJÄLL desk and chair, anthracite dark gray/black: /products/desk-and-chair-sets/79502876.txt
+- RIDSPÖ / FJÄLLBERGET desk and chair, oak beige: /products/desk-and-chair-sets/09502785.txt
+- RIDSPÖ / FJÄLLBERGET desk and chair, anthracite black stained ash veneer/dark gray: /products/desk-and-chair-sets/39503024.txt
+- RIDSPÖ / BJÖRKBERGET desk and chair, oak beige: /products/desk-and-chair-sets/59502820.txt
+- RIDSPÖ / BJÖRKBERGET desk and chair, anthracite/blue: /products/desk-and-chair-sets/69503188.txt
+- PÅHL/ÖRFJÄLL desk and chair, white/light green: /products/desk-and-chair-sets/29553463.txt
+- MULLSJÖ / SMÖRKULL desk and chair, oak veneer/dark gray: /products/desk-and-chair-sets/89603158.txt
+- MULLSJÖ desk and chair, oak veneer/dark gray: /products/desk-and-chair-sets/89603144.txt
+- MICKE/ÖRFJÄLL desk and chair, white/light green: /products/desk-and-chair-sets/69553456.txt
+- MICKE / GUNRIK desk and chair, white/turquoise: /products/desk-and-chair-sets/49506606.txt
+- MICKE / DAGNAR desk and chair, white/yellow: /products/desk-and-chair-sets/99506595.txt
+- LOMMARP/BJÖRKBERGET desk and storage combination, and swivel chair beige: /products/desk-and-chair-sets/29436558.txt
+- LAGKAPTEN/ELDBERGET / VITTSJÖ desk and storage combination, and swivel chair black-brown/dark gray: /products/desk-and-chair-sets/99436767.txt
+- KALLAX / LOBERGET desk and chair, white stained oak effect/white: /products/desk-and-chair-sets/19555009.txt
+- KALLAX / LOBERGET desk and chair, white: /products/desk-and-chair-sets/49555003.txt
+- KALLAX / LOBERGET desk and chair, black-brown/white: /products/desk-and-chair-sets/79555006.txt
+- KALLAX / ELDBERGET desk and chair, white stained oak effect/dark gray black: /products/desk-and-chair-sets/69555021.txt
+- KALLAX / ELDBERGET desk and chair, white/dark gray black: /products/desk-and-chair-sets/59555012.txt
+- KALLAX / ELDBERGET desk and chair, black-brown/dark gray black: /products/desk-and-chair-sets/49555017.txt
+- ALEX/LÅNGFJÄLL / KALLAX desk and storage combination, and swivel chair gray-turquoise/black: /products/desk-and-chair-sets/49436760.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

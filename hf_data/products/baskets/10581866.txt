@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HÖKRUBBA basket, sedge, 13 ½"
+SKU: 10581866
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hoekrubba-basket-sedge-10581866/
+Category: Baskets
+Description: This round basket made of seaweed is perfect for storing small things and has handles that make it easy to hang, grip and carry. Part of the HÖKRUBBA series that adds a natural expression to your home...
+
+# @OFFER
+Price: 14.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts/ Handle: Sedge, Clear lacquer, Wrapping: Sedge, Stain, Clear lacquer
+Features: Each product is a unique, handmade work of art with natural variations in color and shape. | Product is possible to recycle or use for energy recovery, if available in your community. | Recommended for indoor use only.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hoekrubba-basket-sedge__1263379_pe927280_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

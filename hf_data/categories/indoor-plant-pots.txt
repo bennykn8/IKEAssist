@@ -1,0 +1,173 @@
+# @CATEGORY
+Name: Indoor plant pots
+ProductCount: 151
+
+# @FILTERS
+PriceRange: $0.49 - $39.99
+Materials: Aluminum, Clear lacquer, Concrete, Earthenware, Pigmented powder coating, Feet: Bamboo, Clear nitrocellulose lacquer, Felt pads: EVA plastic, Galvanized steel, Galvanized steel, Polyester powder coating, Galvanized steel, Powder coating, Glass, Handle: Stainless steel, Solid acacia wood, Oil-acrylic
+Brand: IKEA
+
+# @ITEMS
+- VITLÖK plant pot with holder, indoor/outdoor/turquoise: /products/indoor-plant-pots/10584761.txt
+- VITLÖK plant pot, indoor/outdoor/turquoise, 9 ½": /products/indoor-plant-pots/90584757.txt
+- VITLÖK plant pot, indoor/outdoor/turquoise, 12 ½": /products/indoor-plant-pots/50584759.txt
+- VITLÖK flower box with holder, indoor/outdoor/turquoise, 22x7 ¾": /products/indoor-plant-pots/30584755.txt
+- VINDFLÄKT plant pot, silver color: /products/indoor-plant-pots/50451858.txt
+- VÅRDTRÄD self-watering plant pot, with wheels indoor/outdoor/transparent anthracite, 12 ½": /products/indoor-plant-pots/90570864.txt
+- VÅRDTRÄD self-watering plant pot, indoor/outdoor transparent/anthracite: /products/indoor-plant-pots/90570859.txt
+- VÅRDTRÄD self-watering plant pot, indoor/outdoor transparent/anthracite, 7 ½": /products/indoor-plant-pots/60570865.txt
+- VÅRDTRÄD self-watering plant pot, indoor/outdoor transparent/anthracite, 9 ½": /products/indoor-plant-pots/40570866.txt
+- VÅRDTRÄD self-watering plant pot, indoor/outdoor transparent/anthracite, 3 ½": /products/indoor-plant-pots/10570863.txt
+- VÅRDTRÄD self-watering plant pot, indoor/outdoor transparent/anthracite, 4 ¾": /products/indoor-plant-pots/00570868.txt
+- VALLMOFRÖN plant pot, seagrass, 9 ½": /products/indoor-plant-pots/80473731.txt
+- VALLMOFRÖN plant pot, seagrass, 7 ½": /products/indoor-plant-pots/70473703.txt
+- ULLSYREN plant pot, dotted white, 4 ¾": /products/indoor-plant-pots/20583643.txt
+- ULLSYREN plant pot, dotted multicolor, 4 ¾": /products/indoor-plant-pots/40595758.txt
+- TÖRNBÄR plant pot, banana fiber handmade, 12 ½": /products/indoor-plant-pots/70524707.txt
+- STILREN plant pot, dark turquoise: /products/indoor-plant-pots/40598002.txt
+- STILREN plant pot, dark turquoise, 4 ¾": /products/indoor-plant-pots/00597995.txt
+- STENBÄR plant pot, gray, 9 ½": /products/indoor-plant-pots/20343243.txt
+- SOJABÖNA plant pot, white: /products/indoor-plant-pots/70533575.txt
+- SOJABÖNA plant pot, white, 7 ½": /products/indoor-plant-pots/50533576.txt
+- SOJABÖNA plant pot, white, 9 ½": /products/indoor-plant-pots/40533586.txt
+- SOJABÖNA plant pot, white, 12 ½": /products/indoor-plant-pots/20533592.txt
+- SOJABÖNA plant pot, white, 4 ¼": /products/indoor-plant-pots/10533578.txt
+- SOJABÖNA plant pot, white, 4 ¾": /products/indoor-plant-pots/00533588.txt
+- SOJABÖNA plant pot, gray/green: /products/indoor-plant-pots/80586573.txt
+- SOJABÖNA plant pot, gray/green, 3 ½": /products/indoor-plant-pots/30586575.txt
+- SOJABÖNA plant pot, gray/green, 4 ¾": /products/indoor-plant-pots/20586571.txt
+- SOCKER plant pot, indoor/outdoor/galvanized, 4 ¼": /products/indoor-plant-pots/90155672.txt
+- SMULGUBBE plant pot with saucer, indoor/outdoor black, 2 ¼": /products/indoor-plant-pots/80551366.txt
+- SMULGUBBE plant pot with saucer, indoor/outdoor black, 4 ¾": /products/indoor-plant-pots/60551367.txt
+- SESAMFRÖN plant pot, indoor/outdoor off-white, 4 ¾": /products/indoor-plant-pots/40478354.txt
+- SESAMFRÖN plant pot, indoor/outdoor off-white, 3 ½": /products/indoor-plant-pots/00478351.txt
+- RÅGKORN plant pot, indoor/outdoor dark gray/beige, 12 ½": /products/indoor-plant-pots/40407559.txt
+- RÅGKORN plant pot, indoor/outdoor dark gray/beige, 9 ½": /products/indoor-plant-pots/00407556.txt
+- PERSILLADE plant pot, light beige, 4 ¾": /products/indoor-plant-pots/90606797.txt
+- PERSILLADE plant pot, light beige, 7 ½": /products/indoor-plant-pots/50606799.txt
+- PERSILLADE plant pot, dark gray, 7 ½": /products/indoor-plant-pots/90346766.txt
+- PERSILLADE plant pot, dark gray, 2 ¼": /products/indoor-plant-pots/40510896.txt
+- PERSILLADE plant pot, dark gray, 9 ½": /products/indoor-plant-pots/10346765.txt
+- PERSILLADE plant pot, dark gray: /products/indoor-plant-pots/00525611.txt
+- PERSILLADE plant pot, dark gray, 4 ¾": /products/indoor-plant-pots/00315726.txt
+- PÄRLRÖNN plant pot, indoor/outdoor/black, 9 ½": /products/indoor-plant-pots/90582254.txt
+- PÄRLRÖNN plant pot, indoor/outdoor/black, 12 ½": /products/indoor-plant-pots/90582249.txt
+- NYPON plant pot, indoor/outdoor gray: /products/indoor-plant-pots/60395616.txt
+- NYPON plant pot, indoor/outdoor gray, 4 ¾": /products/indoor-plant-pots/40395617.txt
+- NYPON plant pot, indoor/outdoor gray, 7 ½": /products/indoor-plant-pots/30395627.txt
+- NYPON plant pot, indoor/outdoor gray, 9 ½": /products/indoor-plant-pots/00395624.txt
+- NYPON plant pot, indoor/outdoor gray, 3 ½": /products/indoor-plant-pots/00395619.txt
+- MUSKOTBLOMMA plant pot with saucer, indoor/outdoor terracotta, 7 ½": /products/indoor-plant-pots/70584777.txt
+- MUSKOTBLOMMA plant pot with saucer, indoor/outdoor terracotta, 9 ½": /products/indoor-plant-pots/30584779.txt
+- MUSKOTBLOMMA plant pot with saucer, indoor/outdoor terracotta: /products/indoor-plant-pots/30454891.txt
+- MUSKOTBLOMMA plant pot with saucer, indoor/outdoor terracotta, 4 ¾": /products/indoor-plant-pots/00454883.txt
+- KÖRSBÄRSBJÖRK plant pot, light grey-beige, 7 ½": /products/indoor-plant-pots/80591720.txt
+- KÖRSBÄRSBJÖRK plant pot, light grey-beige, 9 ½": /products/indoor-plant-pots/60591721.txt
+- KÖRSBÄRSBJÖRK plant pot, light grey-beige: /products/indoor-plant-pots/40591736.txt
+- KÖRSBÄRSBJÖRK plant pot, light grey-beige, 3 ½": /products/indoor-plant-pots/20591718.txt
+- KÖRSBÄRSBJÖRK plant pot, light grey-beige, 12 ½": /products/indoor-plant-pots/00591738.txt
+- KÖRSBÄRSBJÖRK plant pot, light grey-beige, 4 ¾": /products/indoor-plant-pots/00591719.txt
+- KLYNNON plant pot, handmade bamboo, 12 ½": /products/indoor-plant-pots/80516405.txt
+- KLYNNON plant pot, handmade bamboo, 4 ¾": /products/indoor-plant-pots/40516407.txt
+- KLYNNON plant pot, handmade bamboo, 3 ½": /products/indoor-plant-pots/20523239.txt
+- KLYNNON plant pot, handmade bamboo, 9 ½": /products/indoor-plant-pots/20516408.txt
+- KLOTLÖNN plant pot with saucer, indoor/outdoor/red/brown light beige, 4 ¾": /products/indoor-plant-pots/70598265.txt
+- KLOTLÖNN plant pot with saucer, indoor/outdoor/gray/beige, 9 ½": /products/indoor-plant-pots/70584008.txt
+- KLOTLÖNN plant pot with saucer, indoor/outdoor/gray/beige: /products/indoor-plant-pots/50584009.txt
+- KLOTLÖNN plant pot with saucer, indoor/outdoor/gray/beige, 4 ¾": /products/indoor-plant-pots/30584010.txt
+- KLOTLÖNN plant pot with saucer, indoor/outdoor/gray/beige, 3 ½": /products/indoor-plant-pots/00584002.txt
+- KLOTLÖNN plant pot with saucer, indoor/outdoor/dark yellow light beige, 3 ½": /products/indoor-plant-pots/50598271.txt
+- KLOTLÖNN plant pot with saucer, indoor/outdoor/dark gray-green light beige: /products/indoor-plant-pots/30598267.txt
+- KLOTLÖNN plant pot with saucer, indoor/outdoor/black-blue, 3 ½": /products/indoor-plant-pots/40584062.txt
+- KLOTLÖNN plant pot with saucer, indoor/outdoor/black-blue, 7 ½": /products/indoor-plant-pots/10584068.txt
+- KLOTLÖNN plant pot with saucer, indoor/outdoor/black-blue, 4 ¾": /products/indoor-plant-pots/00584064.txt
+- KLIBBAL plant pot, brown, 3 ½": /products/indoor-plant-pots/20571211.txt
+- KLARBÄR plant pot with saucer, indoor/outdoor gray-brown: /products/indoor-plant-pots/80508429.txt
+- KLARBÄR plant pot with saucer, indoor/outdoor brown, 4 ¾": /products/indoor-plant-pots/40508426.txt
+- KAKTUSFIKON plant pot, rattan, 9 ½": /products/indoor-plant-pots/50454890.txt
+- KAKTUSFIKON plant pot, rattan, 4 ¾": /products/indoor-plant-pots/50454885.txt
+- HONUNGSPALM plant pot, indoor/outdoor/pink: /products/indoor-plant-pots/90595794.txt
+- HONUNGSPALM plant pot, indoor/outdoor/green, 7 ½": /products/indoor-plant-pots/60595795.txt
+- HONUNGSPALM plant pot, indoor/outdoor/gray/beige, 4 ¾": /products/indoor-plant-pots/30595792.txt
+- HONUNGSPALM plant pot, indoor/outdoor/gray/beige: /products/indoor-plant-pots/00595798.txt
+- HONUNGSPALM plant pot, indoor/outdoor/brown, 4 ¾": /products/indoor-plant-pots/90595789.txt
+- HONUNGSPALM plant pot, indoor/outdoor/beige, 3 ½": /products/indoor-plant-pots/10595788.txt
+- HASSELBUKETT plant pot, indoor/outdoor/green/brown: /products/indoor-plant-pots/80595916.txt
+- HASSELBUKETT plant pot, indoor/outdoor/beige, 4 ¾": /products/indoor-plant-pots/60595917.txt
+- GRADVIS plant pot, pink, 4 ¾": /products/indoor-plant-pots/60414078.txt
+- GRADVIS plant pot, indoor/outdoor black, 4 ¾": /products/indoor-plant-pots/50494792.txt
+- GRADVIS plant pot, indoor/outdoor black: /products/indoor-plant-pots/50494787.txt
+- GRADVIS plant pot, indoor/outdoor black, 2 ¼": /products/indoor-plant-pots/30494793.txt
+- GRADVIS plant pot, gray: /products/indoor-plant-pots/40414079.txt
+- FRIDFULL plant pot, water hyacinth, 4 ¾": /products/indoor-plant-pots/90155870.txt
+- FRIDFULL plant pot, water hyacinth, 9 ½": /products/indoor-plant-pots/70513412.txt
+- FÖRENLIG plant pot, indoor/outdoor white, 3 ½": /products/indoor-plant-pots/70454813.txt
+- FÖRENLIG plant pot, indoor/outdoor white, 7 ½": /products/indoor-plant-pots/40535948.txt
+- FÖRENLIG plant pot, indoor/outdoor white, 9 ½": /products/indoor-plant-pots/40454819.txt
+- FÖRENLIG plant pot, indoor/outdoor white, 4 ¾": /products/indoor-plant-pots/00454821.txt
+- FLODBJÖRK plant pot, indoor/outdoor light gray-brown, 9 ½": /products/indoor-plant-pots/30584784.txt
+- FLODBJÖRK plant pot, indoor/outdoor light gray-brown, 16 ¼": /products/indoor-plant-pots/00584785.txt
+- FLODBJÖRK flower box, indoor/outdoor light gray-brown: /products/indoor-plant-pots/90584781.txt
+- FJÄRILSBUSKE plant pot, indoor/outdoor/gray, 4 ¾": /products/indoor-plant-pots/70586682.txt
+- FJÄRILSBUSKE plant pot, indoor/outdoor/gray, 9 ½": /products/indoor-plant-pots/40586688.txt
+- FJÄRILSBUSKE plant pot, indoor/outdoor/gray, 3 ½": /products/indoor-plant-pots/10586661.txt
+- FJÄRILSBUSKE plant pot, indoor/outdoor/blue, 3 ½": /products/indoor-plant-pots/90586657.txt
+- FJÄRILSBUSKE plant pot, indoor/outdoor/blue, 4 ¾": /products/indoor-plant-pots/30586684.txt
+- FJÄRILSBUSKE plant pot, indoor/outdoor/blue, 7 ½": /products/indoor-plant-pots/00586690.txt
+- DRAKFRUKT plant pot, indoor/outdoor brown-red, 4 ¾": /products/indoor-plant-pots/00570514.txt
+- DAKSJUS plant pot, light green: /products/indoor-plant-pots/00609229.txt
+- DAKSJUS plant pot, dark green: /products/indoor-plant-pots/60609231.txt
+- CURRYBLAD plant pot, outdoor terracotta, 10 ¼": /products/indoor-plant-pots/60584787.txt
+- CITRUSFRUKT plant pot with saucer, indoor/outdoor gray, 3 ½": /products/indoor-plant-pots/80508434.txt
+- CITRONMELISS plant pot, indoor/outdoor/gray, 3 ½": /products/indoor-plant-pots/70574189.txt
+- CITRONMELISS plant pot, indoor/outdoor/gray: /products/indoor-plant-pots/30574191.txt
+- CITRONMELISS plant pot, indoor/outdoor/anthracite, 9 ½": /products/indoor-plant-pots/80562510.txt
+- CITRONMELISS plant pot, indoor/outdoor/anthracite, 12 ½": /products/indoor-plant-pots/40562512.txt
+- CITRONMELISS plant pot, indoor/outdoor/anthracite, 7 ½": /products/indoor-plant-pots/20562508.txt
+- CHIAFRÖN plant pot, white, 3 ½": /products/indoor-plant-pots/00441904.txt
+- CHIAFRÖN plant pot, indoor/outdoor white: /products/indoor-plant-pots/60475793.txt
+- CHIAFRÖN plant pot, indoor/outdoor light gray: /products/indoor-plant-pots/40567996.txt
+- CHIAFRÖN plant pot, indoor/outdoor green: /products/indoor-plant-pots/70570488.txt
+- CHIAFRÖN plant pot, indoor/outdoor dark blue: /products/indoor-plant-pots/90570487.txt
+- BUSKVERK plant pot, indoor/outdoor gray, 3 ½": /products/indoor-plant-pots/30544458.txt
+- BUSKKAPRIFOL plant pot, indoor/outdoor/gray-blue: /products/indoor-plant-pots/00595897.txt
+- BUSKKAPRIFOL plant pot, indoor/outdoor/gray, 3 ½": /products/indoor-plant-pots/80595898.txt
+- BUSKKAPRIFOL plant pot, indoor/outdoor/beige, 4 ¾": /products/indoor-plant-pots/60595899.txt
+- BROKSPIREA plant pot, light green, 4 ¾": /products/indoor-plant-pots/10586595.txt
+- BOYSENBÄR plant pot, indoor/outdoor light gray, 3 ½": /products/indoor-plant-pots/90478276.txt
+- BOYSENBÄR plant pot, indoor/outdoor light gray, 7 ½": /products/indoor-plant-pots/70467556.txt
+- BOYSENBÄR plant pot, indoor/outdoor light gray, 9 ½": /products/indoor-plant-pots/30452260.txt
+- BOYSENBÄR plant pot, indoor/outdoor light gray, 4 ¾": /products/indoor-plant-pots/10459253.txt
+- BOLLBUSKE plant pot, light gray, 4 ¼": /products/indoor-plant-pots/80549142.txt
+- BOLLBUSKE plant pot, light gray, 4 ¾": /products/indoor-plant-pots/60549143.txt
+- BJÖRNBAMBU plant pot, indoor/outdoor dark gray, 12 ½": /products/indoor-plant-pots/70584763.txt
+- BJÖRNBAMBU plant pot, indoor/outdoor dark gray, 16 ¼": /products/indoor-plant-pots/20584765.txt
+- BITTERGURKA plant pot, white, 12 ½x: /products/indoor-plant-pots/80285787.txt
+- BINTJE plant pot, galvanized, 4 ¼": /products/indoor-plant-pots/10341485.txt
+- BÄCKDRÅG plant pot, fish scale patterned/white gray, 4 ¾": /products/indoor-plant-pots/70578941.txt
+- BÄCKDRÅG plant pot, fish scale patterned/white gray, 3 ½": /products/indoor-plant-pots/50578937.txt
+- BÄCKDRÅG plant pot, fish scale patterned/white gray: /products/indoor-plant-pots/30578938.txt
+- BÄCKDRÅG plant pot, dotted surface/white gray: /products/indoor-plant-pots/60578932.txt
+- BÄCKDRÅG plant pot, dotted surface/white gray, 4 ¾": /products/indoor-plant-pots/20578929.txt
+- BÄCKDRÅG plant pot, dotted surface/white gray, 3 ½": /products/indoor-plant-pots/00578925.txt
+- AMBRARÖNN plant pot, indoor/outdoor/white: /products/indoor-plant-pots/40559492.txt
+- AMBRARÖNN plant pot, indoor/outdoor/white, 7 ½": /products/indoor-plant-pots/00559494.txt
+- ÅKERBÄR plant pot, indoor/outdoor/galvanized, 2 ¼": /products/indoor-plant-pots/90537153.txt
+- ÅKERBÄR plant pot, indoor/outdoor/galvanized, 4 ¾": /products/indoor-plant-pots/90497699.txt
+- ÅKERBÄR plant pot, indoor/outdoor/galvanized: /products/indoor-plant-pots/60537159.txt
+- ÅKERBÄR plant pot, indoor/outdoor/galvanized, 9 ½": /products/indoor-plant-pots/50497696.txt
+- ÅKERBÄR plant pot, indoor/outdoor/galvanized, 7 ½": /products/indoor-plant-pots/00537162.txt
+- ÅKERBÄR plant pot, indoor/outdoor dark blue, 12 ½": /products/indoor-plant-pots/30584798.txt
+- ÅKERBÄR bucket/plant pot, indoor/outdoor dark blue, 11 qt: /products/indoor-plant-pots/80584791.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

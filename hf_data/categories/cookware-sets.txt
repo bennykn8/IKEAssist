@@ -1,0 +1,33 @@
+# @CATEGORY
+Name: Cookware sets
+ProductCount: 11
+
+# @FILTERS
+PriceRange: $4.99 - $119.99
+Materials: Axle/ Bottom: Stainless steel, Axle: Stainless steel, Bottom/ Axle: Stainless steel, Disc: Aluminum, Fire protector/ Fire protector/ Fire protector: Aluminum, Powder coating, Fire protector: Aluminum, Fire protector: Aluminum, Powder coating, Frying pan: Stainless steel, Metallized, Handle/ Handle/ Handle: Phenolic plastic, Polyurethane plastic, Handle/ Knob/ Cover/ Body/ Handle: Stainless steel
+Brand: IKEA
+
+# @ITEMS
+- SLÄTROCKA detachable handle for cookware, black: /products/cookware-sets/90576535.txt
+- SLÄTROCKA cookware set with detachable handle, stainless steel: /products/cookware-sets/60576532.txt
+- SLÄTROCKA cookware set with detachable handle, saucepan stainless steel: /products/cookware-sets/40576533.txt
+- SLÄTROCKA cookware set with detachable handle, frying pan stainless steel: /products/cookware-sets/20576534.txt
+- IKEA 365+ cookware, set of 6, stainless steel: /products/cookware-sets/70577908.txt
+- IKEA 365+ 9-piece cookware set, stainless steel: /products/cookware-sets/50577909.txt
+- HEMLAGAD 6-piece cookware set, non-stick coating light gray-green/gray: /products/cookware-sets/00583489.txt
+- HEMLAGAD 6-piece cookware set, non-stick coating black: /products/cookware-sets/60580888.txt
+- HEMLAGAD 6-piece cookware set, black: /products/cookware-sets/30577905.txt
+- HEMKOMST 7-piece cookware set, stainless steel: /products/cookware-sets/50577018.txt
+- ANNONS 5-piece cookware set, glass/stainless steel: /products/cookware-sets/30577854.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

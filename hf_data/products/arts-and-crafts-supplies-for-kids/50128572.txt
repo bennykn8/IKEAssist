@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: PYSSLA beads, mixed colors, 1 lb5 oz
+SKU: 50128572
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/pyssla-beads-mixed-colors-50128572/
+Category: Arts and crafts supplies for kids
+Description: With these PYSSLA bead shapes and beads, you can unleash your imagination and create your own small works of art. Maybe a red heart for a best friend or a colorful flower for dad? Helps the child deve...
+
+# @OFFER
+Price: 6.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Bottle: PET plastic, Cap: Polypropylene, Bead: Polyethylene
+Features: May be completed with PYSSLA bead shape set of 4. | Fuse beads of plastic (polyethylene). | When your design is ready, cover the beads with baking paper and iron over them with an iron set to medium warm/hot for a few seconds, so that the beads melt together.
+Care: Let the bead shape cool after ironing. Place it on a flat surface, so it does not bend.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/pyssla-beads-mixed-colors__0712617_pe728932_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

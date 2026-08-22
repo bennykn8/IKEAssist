@@ -1,0 +1,53 @@
+# @CATEGORY
+Name: Chaise lounges
+ProductCount: 31
+
+# @FILTERS
+PriceRange: $380.00 - $1200.00
+Materials: Back and seat frame: Fiberboard, Particleboard, Plywood, Solid wood, Back and seat frame: Fiberboard, Plywood, Particleboard, Solid wood, Polyurethane foam 1.2 lb/cu.ft., Coated fabric parts: 100 % polyurethane, 75 % polyester, 25 % cotton, Frame: Plywood, Fiberboard, Steel, Solid wood, Frame: Plywood, Polyurethane foam 2.0 lb/cu.ft., Particleboard, Solid wood, Fiberboard, Leather: Dyed through top-grain leather with a treated, embossed and pigmented surface, Leg: Polypropylene, Seat cushion: High-resilience polyurethane foam (cold foam) 2.2 lb/cu.ft., Polyurethane foam 2.0 lb/cu.ft., Felt liner, Smolder resistant lining/ Smolder resistant lining: Polyester wadding, Smolder resistant lining: Polyester wadding
+Brand: IKEA
+
+# @ITEMS
+- SÖDERHAMN chaise, Viarp beige/brown: /products/chaise-lounges/09305624.txt
+- SÖDERHAMN chaise, Tonerud red: /products/chaise-lounges/19514434.txt
+- SÖDERHAMN chaise, Tonerud gray: /products/chaise-lounges/19452087.txt
+- SÖDERHAMN chaise, Tallmyra light green: /products/chaise-lounges/69499822.txt
+- SÖDERHAMN chaise, Tallmyra dark green: /products/chaise-lounges/89499821.txt
+- SÖDERHAMN chaise, Kelinge rust: /products/chaise-lounges/09514608.txt
+- SÖDERHAMN chaise, Kelinge gray-turquoise: /products/chaise-lounges/59514521.txt
+- SÖDERHAMN chaise, Hillared dark blue: /products/chaise-lounges/39499748.txt
+- SÖDERHAMN chaise, Hillared beige: /products/chaise-lounges/59499747.txt
+- SÖDERHAMN chaise, Gransel natural: /products/chaise-lounges/49442129.txt
+- SÖDERHAMN chaise, Fridtuna light beige: /products/chaise-lounges/79449676.txt
+- SÖDERHAMN chaise, Fridtuna dark gray: /products/chaise-lounges/39449602.txt
+- KIVIK chaise, Tresund light beige: /products/chaise-lounges/19482895.txt
+- KIVIK chaise, Tresund anthracite: /products/chaise-lounges/99482896.txt
+- KIVIK chaise, Tibbleby beige/gray: /products/chaise-lounges/09440491.txt
+- KIVIK chaise, Tallmyra white/black: /products/chaise-lounges/39499649.txt
+- KIVIK chaise, Tallmyra light green: /products/chaise-lounges/79499647.txt
+- KIVIK chaise, Tallmyra dark green: /products/chaise-lounges/99499646.txt
+- KIVIK chaise, Tallmyra blue: /products/chaise-lounges/19499645.txt
+- KIVIK chaise, Kelinge gray-turquoise: /products/chaise-lounges/59443034.txt
+- KIVIK chaise, Gunnared medium gray: /products/chaise-lounges/69499643.txt
+- KIVIK chaise, Gunnared light green: /products/chaise-lounges/89499642.txt
+- KIVIK chaise, Gunnared light brown-pink: /products/chaise-lounges/09499641.txt
+- KIVIK chaise, Gunnared blue: /products/chaise-lounges/29499640.txt
+- KIVIK chaise, Gunnared beige: /products/chaise-lounges/49499639.txt
+- KIVIK chaise, Grann/Bomstad black: /products/chaise-lounges/90519494.txt
+- FINNALA chaise, Tallmyra black/gray: /products/chaise-lounges/99319301.txt
+- FINNALA chaise, Gunnared medium gray: /products/chaise-lounges/39319295.txt
+- FINNALA chaise, Gunnared beige: /products/chaise-lounges/89319293.txt
+- FINNALA chaise, Grann/Bomstad golden brown: /products/chaise-lounges/29319291.txt
+- FINNALA chaise, Grann/Bomstad black: /products/chaise-lounges/49319290.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

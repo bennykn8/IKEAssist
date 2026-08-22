@@ -1,0 +1,40 @@
+# @CATEGORY
+Name: Motorized blinds
+ProductCount: 18
+
+# @FILTERS
+PriceRange: $99.99 - $268.99
+Materials: Backing: 100 % PET plastic, End cap: Polypropylene, Polypropylene, Outer fabric: 100 % polyester (100% recycled), Rail: Aluminum, Epoxy/polyester powder coating, Aluminum
+Brand: IKEA
+
+# @ITEMS
+- TREDANSEN block-out cellular blind w hub kit, white: /products/motorized-blinds/89499307.txt
+- TREDANSEN black-out cellular blind, smart wireless/battery operated white, 38x76 ¾": /products/motorized-blinds/90512464.txt
+- TREDANSEN black-out cellular blind, smart wireless/battery operated white, 23x76 ¾": /products/motorized-blinds/80512445.txt
+- TREDANSEN black-out cellular blind, smart wireless/battery operated white, 32x76 ¾": /products/motorized-blinds/70512455.txt
+- TREDANSEN black-out cellular blind, smart wireless/battery operated white, 30x76 ¾": /products/motorized-blinds/60512451.txt
+- TREDANSEN black-out cellular blind, smart wireless/battery operated white, 34x76 ¾": /products/motorized-blinds/50512456.txt
+- TREDANSEN black-out cellular blind, smart wireless/battery operated white, 48x76 ¾": /products/motorized-blinds/50512437.txt
+- TREDANSEN black-out cellular blind, smart wireless/battery operated white, 36x76 ¾": /products/motorized-blinds/30512462.txt
+- TREDANSEN black-out cellular blind, smart wireless/battery operated white, 27x76 ¾": /products/motorized-blinds/00512449.txt
+- PRAKTLYSING cellular blind w hub kit, white: /products/motorized-blinds/69495881.txt
+- PRAKTLYSING cellular blind, smart wireless/battery operated white, 30x76 ¾": /products/motorized-blinds/90514260.txt
+- PRAKTLYSING cellular blind, smart wireless/battery operated white, 48x76 ¾": /products/motorized-blinds/90514236.txt
+- PRAKTLYSING cellular blind, smart wireless/battery operated white, 23x76 ¾": /products/motorized-blinds/60514247.txt
+- PRAKTLYSING cellular blind, smart wireless/battery operated white, 36x76 ¾": /products/motorized-blinds/50514276.txt
+- PRAKTLYSING cellular blind, smart wireless/battery operated white, 32x76 ¾": /products/motorized-blinds/40514272.txt
+- PRAKTLYSING cellular blind, smart wireless/battery operated white, 27x76 ¾": /products/motorized-blinds/30514258.txt
+- PRAKTLYSING cellular blind, smart wireless/battery operated white, 38x76 ¾": /products/motorized-blinds/10514278.txt
+- PRAKTLYSING cellular blind, smart wireless/battery operated white, 34x76 ¾": /products/motorized-blinds/00514274.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: BOAXEL bracket, white, 15 ¾"
+SKU: 60448733
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/boaxel-bracket-white-60448733/
+Category: BOAXEL parts
+Description: This neat bracket may not look like much, but it does a lot in your home. You can fix interiors on both sides – saving you both space and giving you a stylish solution for your things. You easily clic...
+
+# @OFFER
+Price: 2
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Epoxy/polyester powder coating
+Dimensions: The mounting rail can be cut to an exact width if needed. Only applicable when using more than one mounting rail or for the adjustable clothes rail and shelf.
+Features: If you choose a solution with 1 section, you need 2 brackets per interior part. In a solution with 2 sections, you only need 3 brackets, 1 at each end and 1 in the middle. | The recommended maximum weight applies when the weight load is evenly distributed across the surface.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/boaxel-bracket-white__0798107_pe767176_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

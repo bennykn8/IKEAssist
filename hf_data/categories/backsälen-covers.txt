@@ -1,0 +1,34 @@
+# @CATEGORY
+Name: BACKSÄLEN covers
+ProductCount: 12
+
+# @FILTERS
+PriceRange: $69.00 - $169.00
+Materials: Back fabric: 100 % polyester (100% recycled), Fabric: 100 % cotton, Fabric: 80 % cotton, 20 % linen, Fabric: 80 % cotton, 20% polyester (min. 90% recycled)
+Brand: IKEA
+
+# @ITEMS
+- BACKSÄLEN cover for sofa, with chaise/Katorp natural: /products/backsälen-covers/90497246.txt
+- BACKSÄLEN cover for sofa, with chaise/Hallarp gray: /products/backsälen-covers/30497249.txt
+- BACKSÄLEN cover for sofa, with chaise/Blekinge white: /products/backsälen-covers/30497206.txt
+- BACKSÄLEN cover for sofa, Katorp natural: /products/backsälen-covers/80497242.txt
+- BACKSÄLEN cover for sofa, Hallarp gray: /products/backsälen-covers/70497252.txt
+- BACKSÄLEN cover for sofa, Blekinge white: /products/backsälen-covers/20497202.txt
+- BACKSÄLEN cover for loveseat, Katorp natural: /products/backsälen-covers/60497238.txt
+- BACKSÄLEN cover for loveseat, Hallarp gray: /products/backsälen-covers/80497256.txt
+- BACKSÄLEN cover for loveseat, Blekinge white: /products/backsälen-covers/20497198.txt
+- BACKSÄLEN cover 1.5-seat armchair, Katorp natural: /products/backsälen-covers/50497234.txt
+- BACKSÄLEN cover 1.5-seat armchair, Hallarp gray: /products/backsälen-covers/00497260.txt
+- BACKSÄLEN cover 1.5-seat armchair, Blekinge white: /products/backsälen-covers/40497135.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

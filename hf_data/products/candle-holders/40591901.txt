@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: VINDSTILLA candle holder, yellow
+SKU: 40591901
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vindstilla-candle-holder-yellow-40591901/
+Category: Candle holders
+Description: , 6" This mouth blown candle holder is carefully made by a skilled glassblower who has developed the art of creating unique, finished glass products over many years. From the melting pot – to your hom...
+
+# @OFFER
+Price: 8.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Glass
+Care: Wipe clean with a damp cloth. | Handwash only.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vindstilla-candle-holder-yellow__1290133_pe934535_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

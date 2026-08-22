@@ -1,0 +1,50 @@
+# @CATEGORY
+Name: Trays
+ProductCount: 28
+
+# @FILTERS
+PriceRange: $0.99 - $39.99
+Materials: Bamboo, Clear acrylic lacquer, Bamboo, Clear acrylic lacquer, Bamboo veneer, Bottom: Beech plywood, Walnut veneer, Oil, Bottom: Fiberboard, Bamboo veneer, Clear acrylic lacquer, Bottom: Fiberboard, Oak veneer, Clear acrylic lacquer, Bowl: Stoneware, Colored glaze, Bowl: Stoneware, Pigmented glaze, Disc: Bamboo, Oil, Disc: Plywood, Acacia veneer, Clear acrylic lacquer, Birch veneer, Tinted clear acrylic lacquer, Frame: Beech veneer, Walnut veneer, Oil
+Brand: IKEA
+
+# @ITEMS
+- TYNGDLÖS tray with 3 bowls, bamboo/white: /products/trays/40484109.txt
+- TRÅDTICKA tray with 3 bowls, multicolor/bamboo: /products/trays/10537270.txt
+- TILLGÅNG tray, pale green: /products/trays/60562295.txt
+- TILLGÅNG tray, gray: /products/trays/10419950.txt
+- STOCKHOLM 2025 tray, oak/veneer: /products/trays/70592452.txt
+- STOCKHOLM 2025 tray, brass color: /products/trays/90592451.txt
+- SMULA tray, clear: /products/trays/40041131.txt
+- SMÖRLING serving tray, set of 2, beech: /products/trays/10570660.txt
+- SMÅÄTA lazy Susan, acacia veneer: /products/trays/90562500.txt
+- SILVERHAJMAL tray, bamboo: /products/trays/90597665.txt
+- RESGODS bed tray, bamboo: /products/trays/30444468.txt
+- OSTBIT tray, bamboo: /products/trays/30452991.txt
+- OSTBIT tray, bamboo: /products/trays/10376724.txt
+- OMBONAD tray, walnut: /products/trays/50504734.txt
+- KUSTFYR tray, white/spider black: /products/trays/10614310.txt
+- KUSTFYR tray, white/cat black: /products/trays/70614312.txt
+- KUSTFYR tray, orange/net pattern black: /products/trays/90614311.txt
+- KUSTFYR tray, black/ghost white: /products/trays/70614307.txt
+- KLIPSK bed tray, white: /products/trays/00258882.txt
+- KLIPSK bed tray, black: /products/trays/90327697.txt
+- KEJSARFISK tray, patterned multicolor: /products/trays/70607689.txt
+- HÖSTAGILLE tray, orange: /products/trays/60600315.txt
+- GRÖNFISK tray with handle, bamboo/white: /products/trays/20579066.txt
+- GRÅMÖRT tray, bamboo: /products/trays/20577840.txt
+- GLATTIS tray, brass color: /products/trays/70350113.txt
+- FRUKTSKAL tray, bamboo: /products/trays/50376722.txt
+- FRUKTSKAL tray, bamboo: /products/trays/40367780.txt
+- APTITLIG lazy Susan, organizer bamboo: /products/trays/60562498.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

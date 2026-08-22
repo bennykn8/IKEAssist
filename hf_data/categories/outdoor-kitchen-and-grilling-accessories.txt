@@ -1,0 +1,39 @@
+# @CATEGORY
+Name: Outdoor kitchen & grilling accessories
+ProductCount: 17
+
+# @FILTERS
+PriceRange: $2.49 - $119.00
+Materials: Brush/ Blade: Stainless steel, Brush: Silicone rubber, Cap: Polypropylene, Cast iron, Oil, Handle: Solid beech, Clear lacquer, Handles: Polypropylene, Lower part: Stainless steel, Main parts/ Handle: Stainless steel, Rivet/ Blade/ Protecting plate/ Holder: Stainless steel, Spatula/ Tongs/ Knife: Stainless steel
+Brand: IKEA
+
+# @ITEMS
+- GRILLTIDER skewer, stainless steel: /products/outdoor-kitchen-and-grilling-accessories/60590873.txt
+- GRILLTIDER serving tray, stainless steel, 11 ¾x7 ¾": /products/outdoor-kitchen-and-grilling-accessories/80590886.txt
+- GRILLTIDER serving tray, stainless steel, 15 ¾x11 ¾": /products/outdoor-kitchen-and-grilling-accessories/40590888.txt
+- GRILLTIDER serving basket, stainless steel: /products/outdoor-kitchen-and-grilling-accessories/30590884.txt
+- GRILLTIDER pizza peel, stainless steel/beech, 22 ½": /products/outdoor-kitchen-and-grilling-accessories/20590907.txt
+- GRILLTIDER pizza pan, cast iron, 13 ¾": /products/outdoor-kitchen-and-grilling-accessories/80590909.txt
+- GRILLTIDER pizza cutter, stainless steel/beech, 8 ¾": /products/outdoor-kitchen-and-grilling-accessories/80591032.txt
+- GRILLTIDER mug, stainless steel, 11 oz: /products/outdoor-kitchen-and-grilling-accessories/90590895.txt
+- GRILLTIDER hamburger turner, stainless steel/beech: /products/outdoor-kitchen-and-grilling-accessories/70592918.txt
+- GRILLTIDER deep plate/bowl, stainless steel, 8 ½": /products/outdoor-kitchen-and-grilling-accessories/40590893.txt
+- GRILLTIDER bowl for dip, stainless steel: /products/outdoor-kitchen-and-grilling-accessories/10590880.txt
+- GRILLTIDER barbecue grill cleaning brush, stainless steel/beech, 16 ½": /products/outdoor-kitchen-and-grilling-accessories/60590854.txt
+- GRILLTIDER barbecue brush, silicone: /products/outdoor-kitchen-and-grilling-accessories/60577895.txt
+- GRILLTIDER 3-piece barbecue tools set, stainless steel/beech: /products/outdoor-kitchen-and-grilling-accessories/50590864.txt
+- GRILLTIDER 3-piece barbecue tools set, stainless steel: /products/outdoor-kitchen-and-grilling-accessories/10590861.txt
+- GRILLTIDER 2-piece barbecue tools set, stainless steel: /products/outdoor-kitchen-and-grilling-accessories/70590858.txt
+- BRÖGGAN serving cart, outdoor, acacia light brown stained, 325/8x153/4x22 ½": /products/outdoor-kitchen-and-grilling-accessories/30570697.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

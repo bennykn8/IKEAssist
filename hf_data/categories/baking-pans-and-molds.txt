@@ -1,0 +1,38 @@
+# @CATEGORY
+Name: Baking pans & molds
+ProductCount: 16
+
+# @FILTERS
+PriceRange: $1.99 - $14.99
+Materials: Aluminum, Anodized, Body: Aluminium-silicon coated steel, Non stick coating, Body: Galvanized steel, Coated with Teflon(R) Infinity., Non stick coating, Galvanized steel, Coated with Teflon(R) Infinity., Non stick coating, Galvanized steel, Non stick coating, Lock: Stainless steel, Rivet: Aluminum, Silicone rubber, Stainless steel, Steel, Non stick coating
+Brand: IKEA
+
+# @ITEMS
+- VINTERROCKA springform pan, stainless steel, 8 ¾": /products/baking-pans-and-molds/70606133.txt
+- VINTERROCKA springform pan, stainless steel, 10 ¼": /products/baking-pans-and-molds/30606125.txt
+- VINTERROCKA pie plate, stainless steel, 12"/74.4 oz: /products/baking-pans-and-molds/80606123.txt
+- VINTERROCKA loaf pan, stainless steel, 2.2 qt: /products/baking-pans-and-molds/90606132.txt
+- VARDAGEN pie plate, off-white: /products/baking-pans-and-molds/10289307.txt
+- VARDAGEN cake pan, silver color: /products/baking-pans-and-molds/00578162.txt
+- VARDAGEN baking pan, silver color, 15x10"/2 qt: /products/baking-pans-and-molds/50577023.txt
+- TÅRTBAK baking frame, adjustable, 11 ¾": /products/baking-pans-and-molds/20578161.txt
+- STRANDFLY springform pan, dark gray, 8 ¾": /products/baking-pans-and-molds/90576615.txt
+- MÅNTAGG springform pan, non-stick coating dark gray, 10 ¾": /products/baking-pans-and-molds/00576530.txt
+- MÅNTAGG pie plate, non-stick coating dark gray: /products/baking-pans-and-molds/60576527.txt
+- KANTNÅL muffin mold, dark red, 7x11 ¾": /products/baking-pans-and-molds/50576518.txt
+- KANTNÅL baking mold, gray-turquoise: /products/baking-pans-and-molds/70576517.txt
+- INBAKAD pie plate, dark gray: /products/baking-pans-and-molds/20576609.txt
+- HÖSTAGILLE pie plate, off-white: /products/baking-pans-and-molds/80600263.txt
+- HEMMABAK roasting pan, gray: /products/baking-pans-and-molds/10456693.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

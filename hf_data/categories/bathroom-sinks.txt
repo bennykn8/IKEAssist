@@ -1,0 +1,63 @@
+# @CATEGORY
+Name: Bathroom sinks
+ProductCount: 41
+
+# @FILTERS
+PriceRange: $15.00 - $260.00
+Materials: ABS plastic, Body: Brass, Metallized, Body: Tempered glass, Ceramic, Colored glaze, China, Colored glaze, Cover cap/ Mechanism: Acetal plastic, Cover/ Spring: Stainless steel, Main parts: Ceramic, Colored glaze, Main parts: China, Colored glaze, Main parts: Polyester/crushed marble, Polyester
+Brand: IKEA
+
+# @ITEMS
+- VÄSTERSJÖN countertop sink w water trap, white: /products/bathroom-sinks/19574593.txt
+- TVÄLLEN sink with water trap, white: /products/bathroom-sinks/99443089.txt
+- TVÄLLEN sink with water trap, white: /products/bathroom-sinks/89443080.txt
+- TVÄLLEN sink with water trap, white: /products/bathroom-sinks/79443090.txt
+- TÖRNVIKEN Countertop sink, white: /products/bathroom-sinks/30291516.txt
+- SKATSJÖN sink with water trap, white: /products/bathroom-sinks/59431564.txt
+- SKATSJÖN sink w water trap/faucet, white/Saljen faucet: /products/bathroom-sinks/19431617.txt
+- RUTSJÖN sink with water trap, white: /products/bathroom-sinks/99517023.txt
+- RUTSJÖN sink with water trap, white: /products/bathroom-sinks/79517024.txt
+- RUTSJÖN sink with water trap, white: /products/bathroom-sinks/19517022.txt
+- RUTSJÖN sink with water trap, white 8" widespread: /products/bathroom-sinks/19590395.txt
+- RUTSJÖN semi-recessed sink with water trap, white: /products/bathroom-sinks/49517025.txt
+- RÄNNILEN water trap, 2 bowls: /products/bathroom-sinks/20562438.txt
+- RÄNNILEN water trap, 1 bowl: /products/bathroom-sinks/50422413.txt
+- RÄNNILEN pop-up sink stopper: /products/bathroom-sinks/80567230.txt
+- OXMYREN countertop sink, glass/dark gray, 22x13 ¾": /products/bathroom-sinks/50499025.txt
+- ORRSJÖN sink with water trap, white: /products/bathroom-sinks/89516905.txt
+- ORRSJÖN sink with water trap, white: /products/bathroom-sinks/69516906.txt
+- ORRSJÖN sink with water trap, white: /products/bathroom-sinks/49516907.txt
+- ORRSJÖN sink with water trap, white: /products/bathroom-sinks/29516908.txt
+- ORRSJÖN sink with water trap, white centerset: /products/bathroom-sinks/39598994.txt
+- ORRSJÖN sink with water trap, white centerset: /products/bathroom-sinks/09590391.txt
+- ORRSJÖN sink with water trap, white 8" widespread: /products/bathroom-sinks/69598997.txt
+- ORRSJÖN sink with water trap, white 8" widespread: /products/bathroom-sinks/49590389.txt
+- ORRSJÖN semi-recessed sink with water trap, white: /products/bathroom-sinks/49516912.txt
+- ORRSJÖN semi-recessed sink with water trap, white 8" widespread: /products/bathroom-sinks/89590392.txt
+- ORRSJÖN semi-recessed sink with water trap, white 8" widespread: /products/bathroom-sinks/59598993.txt
+- ORRSJÖN double sink with water trap, white: /products/bathroom-sinks/89516910.txt
+- ORRSJÖN double sink with water trap, white: /products/bathroom-sinks/09516909.txt
+- ORRSJÖN double sink with water trap, white centerset: /products/bathroom-sinks/79598992.txt
+- ORRSJÖN double sink with water trap, white centerset: /products/bathroom-sinks/69590393.txt
+- ORRSJÖN deep sink with water trap, white: /products/bathroom-sinks/29516913.txt
+- LERSJÖN countertop sink w water trap, white: /products/bathroom-sinks/09574579.txt
+- BJÖRKÅN sink with water trap, white: /products/bathroom-sinks/89424982.txt
+- BJÖRKÅN sink w water trap/faucet, white: /products/bathroom-sinks/69546734.txt
+- BACKSJÖN sink with water trap, white: /products/bathroom-sinks/69517010.txt
+- BACKSJÖN sink with water trap, white: /products/bathroom-sinks/29517007.txt
+- BACKSJÖN sink with water trap, white: /products/bathroom-sinks/09517008.txt
+- BACKSJÖN semi-recessed sink with water trap, white: /products/bathroom-sinks/29517012.txt
+- BACKSJÖN semi-recessed sink with water trap, black: /products/bathroom-sinks/49575402.txt
+- BACKSJÖN double sink with water trap, white: /products/bathroom-sinks/49517011.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

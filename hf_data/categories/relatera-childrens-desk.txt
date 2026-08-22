@@ -1,0 +1,42 @@
+# @CATEGORY
+Name: RELATERA children's desk
+ProductCount: 20
+
+# @FILTERS
+PriceRange: $99.99 - $204.99
+Materials: End cap: Acetal plastic, Frame/ Foot/ Bracket/ Cable management/ Outer tube/ Inner tube/ Hook: Steel, Epoxy powder coating, Front: Fiberboard, Fiberboard, Acrylic paint, Particleboard, Melamine foil, Plastic edging, Plastic edging, Steel, Epoxy powder coating, Tubular frame/ Shelf/ Washer/ Hook: Steel, Epoxy/polyester powder coating, Tubular frame/ Washer/ Shelf/ Whiteboard: Steel, Epoxy/polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- RELATERA desk, white: /products/relatera-childrens-desk/69552857.txt
+- RELATERA desk, white: /products/relatera-childrens-desk/29552864.txt
+- RELATERA desk sit/stand, white: /products/relatera-childrens-desk/99552865.txt
+- RELATERA desk sit/stand, white: /products/relatera-childrens-desk/49552863.txt
+- RELATERA desk combination, white: /products/relatera-childrens-desk/69555766.txt
+- RELATERA desk combination, white: /products/relatera-childrens-desk/49555814.txt
+- RELATERA desk combination, white: /products/relatera-childrens-desk/09555793.txt
+- RELATERA desk combination, white/light gray-green: /products/relatera-childrens-desk/99555779.txt
+- RELATERA desk combination, white/light gray-green: /products/relatera-childrens-desk/89555765.txt
+- RELATERA desk combination, white/light gray-green: /products/relatera-childrens-desk/79555780.txt
+- RELATERA desk combination, white/light gray-green: /products/relatera-childrens-desk/69555813.txt
+- RELATERA desk combination, white/light gray-green: /products/relatera-childrens-desk/49555809.txt
+- RELATERA desk combination sit/stand, white: /products/relatera-childrens-desk/69555808.txt
+- RELATERA desk combination sit/stand, white: /products/relatera-childrens-desk/19555764.txt
+- RELATERA desk combination sit/stand, white/light gray-green: /products/relatera-childrens-desk/99555760.txt
+- RELATERA desk combination sit/stand, white/light gray-green: /products/relatera-childrens-desk/79555803.txt
+- RELATERA desk combination sit/stand, white/light gray-green: /products/relatera-childrens-desk/79555761.txt
+- RELATERA desk combination sit/stand, white/light gray-green: /products/relatera-childrens-desk/59555762.txt
+- RELATERA desk combination sit/stand, white/light gray-green: /products/relatera-childrens-desk/39555763.txt
+- RELATERA desk combination sit/stand, white/light gray-green: /products/relatera-childrens-desk/09555806.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

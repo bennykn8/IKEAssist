@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HAGAÅN open cabinet, oak effect
+SKU: 60535513
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hagaan-open-cabinet-oak-effect-60535513/
+Category: Bathroom wall cabinets
+Description: , 18x21x251/8" HAGAÅN open cabinet with wood effect brings warmth to your bathroom retreat. Keep your most-used items handy or get creative and show off your favorite bottles or baskets. There is a co...
+
+# @OFFER
+Price: 120
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame/ Shelf: Particleboard, Plastic foil, Plastic edging (min. 50% recycled), Plastic edging, Back panel: Fiberboard, Plastic foil
+Features: If you are uncertain about the installation, contact a professional. The installation shall be made in accordance with valid local building and plumbing regulations. | Comprises: 1 cabinet, 1 fixed shelf and suspension rail. | May be completed with 2 ALMAÅN legs, sold separately.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hagaan-open-cabinet-oak-effect__1256008_pe924847_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

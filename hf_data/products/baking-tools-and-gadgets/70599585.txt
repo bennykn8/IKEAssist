@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: KUSTFYR baking cup, paper, mixed patterns white/black
+SKU: 70599585
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kustfyr-baking-cup-paper-mixed-patterns-white-black-70599585/
+Category: Baking tools & gadgets
+Description: Time for a Halloween party? Here are 65 baking cups with spooky decor that give your cold or hot snacks and desserts that right eerie touch. Unleash your imagination and let everyone join the kitchen ...
+
+# @OFFER
+Price: 2.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Chlorine free bleached paper, Silicone treatment
+Care: Fill the baking mold halfway with batter for the best results. | Oven-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kustfyr-baking-cup-paper-mixed-patterns-white-black__1406325_pe970831_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

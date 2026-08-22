@@ -1,0 +1,42 @@
+# @CATEGORY
+Name: Blackout curtains
+ProductCount: 20
+
+# @FILTERS
+PriceRange: $14.99 - $79.99
+Materials: 100% polyester (min. 90% recycled), Backing: 100 % Polyurethane, Fabric: 100% polyester (min. 90% recycled), Interlining: 100 %polyester, Lining, top: 100 % polyester (100% recycled), Lining, underside: 100 % Polyurethane, Top fabric/ Back fabric: 100% polyester (min. 90% recycled)
+Brand: IKEA
+
+# @ITEMS
+- ROSENMANDEL black-out curtains, 1 pair, gray/with heading tape: /products/blackout-curtains/70536244.txt
+- ROSENMANDEL black-out curtains, 1 pair, gray/with heading tape: /products/blackout-curtains/20556244.txt
+- ROSENMANDEL black-out curtains, 1 pair, dark green/with heading tape: /products/blackout-curtains/40556243.txt
+- ROSENMANDEL black-out curtains, 1 pair, dark green/with heading tape: /products/blackout-curtains/10539066.txt
+- MAJGULL Blackout curtains, 1 pair, gray: /products/blackout-curtains/50417812.txt
+- MAJGULL black-out curtains, 1 pair, gray/with heading tape: /products/blackout-curtains/10591002.txt
+- MAJGULL black-out curtains, 1 pair, dark green/with heading tape: /products/blackout-curtains/50591000.txt
+- MAJGULL black-out curtains, 1 pair, dark green/with heading tape: /products/blackout-curtains/50586027.txt
+- LÖNNSTÄVMAL black-out curtains, 1 pair, beige/with heading tape: /products/blackout-curtains/80557132.txt
+- LÖNNSTÄVMAL black-out curtains, 1 pair, beige/with heading tape: /products/blackout-curtains/20556376.txt
+- KORGMOTT black-out curtains, 1 pair, white/with heading tape: /products/blackout-curtains/60585065.txt
+- KORGMOTT black-out curtains, 1 pair, white/with heading tape: /products/blackout-curtains/40597149.txt
+- KORGMOTT black-out curtains, 1 pair, white/with heading tape: /products/blackout-curtains/10605612.txt
+- KORGMOTT black-out curtains, 1 pair, dark gray/with heading tape: /products/blackout-curtains/30605611.txt
+- KORGMOTT black-out curtains, 1 pair, dark gray/with heading tape: /products/blackout-curtains/10597155.txt
+- KORGMOTT black-out curtains, 1 pair, beige/with heading tape: /products/blackout-curtains/50605610.txt
+- KORGMOTT black-out curtains, 1 pair, beige/with heading tape: /products/blackout-curtains/40597154.txt
+- BENGTA block-out curtain, 1 piece, light pink/with heading tape: /products/blackout-curtains/40602160.txt
+- BENGTA block-out curtain, 1 piece, green/with heading tape: /products/blackout-curtains/80602163.txt
+- BENGTA block-out curtain, 1 piece, beige/with heading tape: /products/blackout-curtains/20602137.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

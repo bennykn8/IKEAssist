@@ -1,0 +1,32 @@
+# @CATEGORY
+Name: Collage picture & gallery wall frames
+ProductCount: 10
+
+# @FILTERS
+PriceRange: $4.99 - $29.99
+Materials: Back frame: Polypropylene, Frame/ Inside frame: Fiberboard, Paper foil, Frame: ABS plastic (min. 20% recycled), Front protection: Polystyrene, Mat: Paper
+Brand: IKEA
+
+# @ITEMS
+- YLLEVAD Collage frame for 4 photos, black: /products/collage-picture-and-gallery-wall-frames/50429768.txt
+- VÄXBO collage frame for 8 photos, white: /products/collage-picture-and-gallery-wall-frames/40256621.txt
+- RÖDALM frame for 9 pictures, black: /products/collage-picture-and-gallery-wall-frames/70553709.txt
+- RÖDALM frame for 5 pictures, black, 25 ¼x: /products/collage-picture-and-gallery-wall-frames/50559972.txt
+- RÖDALM frame for 4 pictures, white, 15 ¾x19 ¾": /products/collage-picture-and-gallery-wall-frames/80553737.txt
+- RÖDALM frame for 4 pictures, black, 15 ¾x19 ¾": /products/collage-picture-and-gallery-wall-frames/50553734.txt
+- RÖDALM frame for 3 pictures, white, 30x13 ¾": /products/collage-picture-and-gallery-wall-frames/80559367.txt
+- RÖDALM frame for 3 pictures, white, 21 ¾x: /products/collage-picture-and-gallery-wall-frames/30553725.txt
+- RÖDALM frame for 3 pictures, black, 30x13 ¾": /products/collage-picture-and-gallery-wall-frames/30554273.txt
+- RÖDALM frame for 3 pictures, black, 21 ¾x: /products/collage-picture-and-gallery-wall-frames/00553722.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

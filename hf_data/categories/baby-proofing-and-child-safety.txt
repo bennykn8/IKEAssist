@@ -1,0 +1,29 @@
+# @CATEGORY
+Name: Baby proofing & child safety
+ProductCount: 7
+
+# @FILTERS
+PriceRange: $3.99 - $39.99
+Materials: Corner protector: EVA plastic, Frame: Acetal plastic, Hinge/ Strap: Polyamide, Metal parts: Steel, Plate: ABS plastic, Synthetic rubber, Polycarbonate/ABS plastic, Polypropylene, Tape: Polyethylene foam, Synthetic rubber
+Brand: IKEA
+
+# @ITEMS
+- UNDVIKA Multi latch, white: /products/baby-proofing-and-child-safety/50349069.txt
+- UNDVIKA Corner bumper, white: /products/baby-proofing-and-child-safety/20349023.txt
+- UNDVIKA Corner bumper, dark brown: /products/baby-proofing-and-child-safety/50443811.txt
+- UNDVIKA baby monitor, white/gray: /products/baby-proofing-and-child-safety/70470101.txt
+- PATRULL safety plug, white: /products/baby-proofing-and-child-safety/30599554.txt
+- PATRULL door stop, white: /products/baby-proofing-and-child-safety/90599551.txt
+- PATRULL Door stop, white: /products/baby-proofing-and-child-safety/10098949.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,36 @@
+# @CATEGORY
+Name: Outdoor planters & plant pots
+ProductCount: 14
+
+# @FILTERS
+PriceRange: $5.99 - $269.99
+Materials: Main parts: Polypropylene, Main parts: Solid acacia wood, Acrylic stain, Main parts: Terracotta, Metal part: Steel, Polyester powder coating, Plastic part: PET plastic, Polypropylene plastic (min. 50% recycled), Saucer: Terracotta, Silicone treatment, Solid acacia wood, Acrylic stain, Solid eucalyptus wood, Acrylic stain, Terracotta
+Brand: IKEA
+
+# @ITEMS
+- STJÄRNANIS flower box, outdoor acacia: /products/outdoor-planters-and-plant-pots/60584773.txt
+- STJÄRNANIS flower box, outdoor acacia, 29 ½x10 ¾": /products/outdoor-planters-and-plant-pots/10584775.txt
+- ROSENKÅL flower box with holder, outdoor turquoise: /products/outdoor-planters-and-plant-pots/00584771.txt
+- HATTHOLMEN plant stand, stained eucalyptus/outdoor: /products/outdoor-planters-and-plant-pots/80519079.txt
+- CURRYBLAD plant pot, outdoor terracotta, 13 ¾": /products/outdoor-planters-and-plant-pots/20584789.txt
+- BRUNBÄR plant pot with saucer, outdoor terracotta, 9 ½": /products/outdoor-planters-and-plant-pots/80584767.txt
+- BRUNBÄR plant pot with saucer, outdoor terracotta: /products/outdoor-planters-and-plant-pots/70510828.txt
+- BRUNBÄR plant pot with saucer, outdoor terracotta, 12 ½": /products/outdoor-planters-and-plant-pots/40584769.txt
+- BRUNBÄR plant pot with saucer, outdoor terracotta, 4 ¾": /products/outdoor-planters-and-plant-pots/10510826.txt
+- ASPAREN planter, gray outdoor: /products/outdoor-planters-and-plant-pots/10539269.txt
+- ASKHOLMEN trellis, dark brown: /products/outdoor-planters-and-plant-pots/00557503.txt
+- ASKHOLMEN plant stand, dark brown: /products/outdoor-planters-and-plant-pots/30557506.txt
+- ASKHOLMEN flower box with trellis, outdoor, dark brown: /products/outdoor-planters-and-plant-pots/49529090.txt
+- ASKHOLMEN flower box, dark brown: /products/outdoor-planters-and-plant-pots/90557508.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

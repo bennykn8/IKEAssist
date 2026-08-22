@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BJÖRKÖVIKEN door/drawer front, brown stained oak veneer
+SKU: 10490951
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/bjoerkoeviken-door-drawer-front-brown-stained-oak-veneer-10490951/
+Category: BESTÅ doors & drawer fronts
+Description: , 231/2x15" BJÖRKÖVIKEN front is made of dark oak veneer, a natural material that creates a vibrant and warm look – with grains that give each door a unique character. A strong sense of quality in fin...
+
+# @OFFER
+Price: 70
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fiberboard, Oak veneer, Stain, Tinted clear acrylic lacquer, Oak veneer
+Features: May be used as a door or drawer front. | To be completed with BESTÅ hinges if used as door. 1 door requires 1 pack of hinges. Sold separately. | To be completed with BESTÅ drawer frame 23⅝x9⅞x15¾" and BESTÅ drawer runner if used as drawer front. Sold separately.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/bjoerkoeviken-door-drawer-front-brown-stained-oak-veneer__0993412_pe820527_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

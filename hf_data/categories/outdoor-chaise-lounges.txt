@@ -1,0 +1,33 @@
+# @CATEGORY
+Name: Outdoor chaise lounges
+ProductCount: 11
+
+# @FILTERS
+PriceRange: $39.99 - $364.99
+Materials: 100% polyester (min. 90% recycled), Adjuster: Polypropylene, Cushion cover/ Fabric: 100% polyester (min. 90% recycled), Fabric: 100% polyester (min. 90% recycled), Filling: Polyethylene foam, Frame/ Support rail/ Connector: Steel, Polyester powder coating, Frame: Steel, Steel, Steel, Steel, Polyester powder coating, Hook: Steel, Galvanized, Leg: Steel, Polyester powder coating, Rope: 100 % polypropylene
+Brand: IKEA
+
+# @ITEMS
+- STRANDÖN chaise, yellow/blue: /products/outdoor-chaise-lounges/80553148.txt
+- STRANDÖN beach chair, white green/blue: /products/outdoor-chaise-lounges/90522769.txt
+- SEGERÖN chaise, white/beige: /products/outdoor-chaise-lounges/20510798.txt
+- SEGERÖN chaise, outdoor white/beige/Frösön/Duvholmen beige: /products/outdoor-chaise-lounges/29500865.txt
+- NÄMMARÖ chaise, outdoor light brown stained/Kuddarna light grey-beige: /products/outdoor-chaise-lounges/49576029.txt
+- NÄMMARÖ chaise, outdoor light brown stained/Frösön/Duvholmen beige: /products/outdoor-chaise-lounges/29534889.txt
+- NÄMMARÖ chaise, outdoor light brown stained: /products/outdoor-chaise-lounges/30503354.txt
+- KLÖVEN deck chair, outdoor, white: /products/outdoor-chaise-lounges/80487380.txt
+- HAMNÖN hammock, anthracite/white: /products/outdoor-chaise-lounges/20532291.txt
+- BOCKÖN / HAMNÖN hammock with stand, black/anthracite white: /products/outdoor-chaise-lounges/49495778.txt
+- BOCKÖN hammock stand, outdoor, black: /products/outdoor-chaise-lounges/10495133.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

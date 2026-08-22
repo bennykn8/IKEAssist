@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BJÖRKSNÄS bed frame, birch/birch veneer, Queen
+SKU: 19501714
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/bjoerksnaes-bed-frame-birch-birch-veneer-s19501714/
+Category: Bed frames
+Description: The BJÖRKSNÄS collection has its roots in Scandinavian craftsmanship tradition. Classic and freestanding in durable natural materials with nice details and proportions that make them fit in many rooms...
+
+# @OFFER
+Price: 382
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Head/foot board/ Bedside: Particleboard, Birch veneer, Clear acrylic lacquer, Birch veneer, Clear acrylic lacquer, Birch veneer, Clear acrylic lacquer, Leg/ Rail/ Spindle: Solid birch, Clear acrylic lacquer, Cushion: Polyester wadding, Polyester fiber balls
+Features: 2 headboard pillows included. | Slatted bed base and mattress sold separately. | May be combined with other furniture in the BJÖRKSNÄS series.
+Care: Cushion: Do not wash. | Cushion: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/bjoerksnaes-bed-frame-birch-birch-veneer__1175828_pe894830_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

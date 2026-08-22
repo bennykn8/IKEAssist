@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TONSTAD bed frame with storage, off-white/Lyngör white, King
+SKU: 59567307
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tonstad-bed-frame-with-storage-off-white-lyngoer-white-s59567307/
+Category: Bed frames with storage
+Description: Classic design meets a graceful finish in the TONSTAD series in off-white, giving the furniture a solid sense of quality. This bed frame has soft-closing drawers, making the most of the space under th...
+
+# @OFFER
+Price: 904
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Center support beam: Galvanized steel, Top panel/ Bottom panel/ Panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Acrylic paint, Plastic edging, Spacer: Solid pine
+Features: Comprises: 1 bed frame, 1 LYNGÖR mattress base, 1 LYNGÖR mattress base cover and 1 SKORVA midbeam. | Mattress and bedlinens are sold separately. | More information about each product in the set can be found on each product page on IKEA.us.
+Care: Removable cover: Machine wash warm (max 140°F/60°C) normal cycle. | Removable cover: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tonstad-bed-frame-with-storage-off-white-lyngoer-white__1355072_pe953063_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

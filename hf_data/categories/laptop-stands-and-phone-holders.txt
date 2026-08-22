@@ -1,0 +1,29 @@
+# @CATEGORY
+Name: Laptop stands & phone holders
+ProductCount: 7
+
+# @FILTERS
+PriceRange: $0.99 - $39.99
+Materials: Bamboo veneer, Clear acrylic lacquer, Bamboo, Clear acrylic lacquer, Clamp/ Cover/ Base: ABS plastic, Diffuser: Polycarbonate plastic, Front protection: Cork, Holder/ Tube/ Foot: Steel, Powder coating, Hook/ Insert: Aluminum, Powder coating, Insert: Silicone rubber, Main parts: Reinforced polyamide plastic (min. 20% recycled), Synthetic rubber, Molded paper pulp
+Brand: IKEA
+
+# @ITEMS
+- YUPPIENALLE holder for mobile phone, gray: /products/laptop-stands-and-phone-holders/20503887.txt
+- VIVALLA tablet stand, bamboo: /products/laptop-stands-and-phone-holders/60515789.txt
+- LÅNESPELARE ring lamp with phone holder: /products/laptop-stands-and-phone-holders/30514357.txt
+- KRUBBET holder for mobile phone, black: /products/laptop-stands-and-phone-holders/10531942.txt
+- HÖNSNÄT holder for mobile phone, natural: /products/laptop-stands-and-phone-holders/10564895.txt
+- HAVREHOJ holder for tablet: /products/laptop-stands-and-phone-holders/40534576.txt
+- BERGENES holder for mobile phone/tablet, bamboo: /products/laptop-stands-and-phone-holders/10457999.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

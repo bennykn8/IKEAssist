@@ -1,0 +1,24 @@
+# @CATEGORY
+Name: Kids dressers & chest of drawers
+ProductCount: 2
+
+# @FILTERS
+PriceRange: $79.99 - $149.99
+Materials: Back panel: Particleboard, Melamine foil, Bottom panel: Plastic edging, Melamine foil, Particleboard, Drawer front/ Shelf: Particleboard, Melamine foil, Acrylic paint, Plastic edging, Drawer side/ Divider: Particleboard, Melamine foil, Plastic edging, Side panel/ Top panel/ Drawer front: Particleboard, Plastic edging, Melamine foil, Side panel: Fiberboard, Acrylic paint, Paint
+Brand: IKEA
+
+# @ITEMS
+- VITBJÖRN storage unit with drawer, white/red: /products/kids-dressers-and-chest-of-drawers/40537179.txt
+- GODISHUS 3-drawer chest, white: /products/kids-dressers-and-chest-of-drawers/40598097.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

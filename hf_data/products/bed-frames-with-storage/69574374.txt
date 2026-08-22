@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MALM high bed frame/2 storage boxes, dark brown veneer/Luröy, Twin
+SKU: 69574374
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/malm-high-bed-frame-2-storage-boxes-dark-brown-veneer-luroey-s69574374/
+Category: Bed frames with storage
+Description: A clean design that’s just as beautiful on all sides – place the bed freestanding or with the headboard against a wall. You also get spacious storage boxes that roll out smoothly on castors.
+
+# @OFFER
+Price: 309
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Head/footboard: Particleboard, Fiberboard, Honeycomb structure paper filling (min. 70% recycled), Ash veneer, Stain, Clear acrylic lacquer, Printed and embossed acrylic paint, Plastic edging, Bedside: Particleboard, Fiberboard, Ash veneer, Stain, Clear acrylic lacquer, Printed and embossed acrylic paint, Paper, Plastic edging, Bed slats: Layer-glued wood veneer, Adhesive resin as coating
+Features: LURÖY slatted bed base is included in the price, but is packaged separately. | Mattress and bedlinens are sold separately.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/malm-high-bed-frame-2-storage-boxes-dark-brown-veneer-luroey__1364760_pe956017_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

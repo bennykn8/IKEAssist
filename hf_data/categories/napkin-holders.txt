@@ -1,0 +1,27 @@
+# @CATEGORY
+Name: Napkin holders
+ProductCount: 5
+
+# @FILTERS
+PriceRange: $1.49 - $14.99
+Materials: Ball: Aluminum, Clear lacquer, Base: Polypropylene, Frame: Steel, Epoxy/polyester powder coating, Main parts: Water hyacinth, Clear acrylic lacquer, Paperboard (min. 100% recycled), Polyethylene, Stainless steel, Metallized, Steel, Epoxy/polyester powder coating, Wire: Stainless steel
+Brand: IKEA
+
+# @ITEMS
+- TILLSTÄLLNING napkin holder, brass color: /products/napkin-holders/30350110.txt
+- SKOGSRÖR napkin holder, dark green: /products/napkin-holders/40560867.txt
+- NÄBBFISK napkin holder, paper/patterned green: /products/napkin-holders/90569747.txt
+- KNYCK napkin holder, black: /products/napkin-holders/80045448.txt
+- CISSAN napkin holder, water hyacinth: /products/napkin-holders/60334289.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

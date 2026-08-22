@@ -1,0 +1,39 @@
+# @CATEGORY
+Name: Kids night lights & lamps
+ProductCount: 17
+
+# @FILTERS
+PriceRange: $7.99 - $39.99
+Materials: ABS plastic, Base: ABS plastic, Base: Polycarbonate plastic, Body/ Switch cover/ Cover/ Base/ Lid: Polypropylene, Bracket/ Mounting bracket: ABS plastic, Cap/ Shade/ Base/ Button/ Leg: Polypropylene, Cover/ Base/ Mounting bracket/ Button: ABS plastic, Cover/ Frame/ Foot: PET plastic, Cover: Polypropylene, Decoration: Steel, Acrylic coating
+Brand: IKEA
+
+# @ITEMS
+- UPPLYST LED wall lamp, heart pink: /products/kids-night-lights-and-lamps/60440807.txt
+- UPPLYST LED wall lamp, flower lilac: /products/kids-night-lights-and-lamps/00440787.txt
+- UPPLYST Cloud White LED Wall Lamp - Popular & Stylish: /products/kids-night-lights-and-lamps/40440832.txt
+- TÖVÄDER LED night light, cat battery operated: /products/kids-night-lights-and-lamps/60516915.txt
+- TÖVÄDER LED night light, bear battery operated: /products/kids-night-lights-and-lamps/90516914.txt
+- SPIKEN LED night light, otter-shaped multicolor: /products/kids-night-lights-and-lamps/70469145.txt
+- SOLSKUR LED table lamp, white/brass color: /products/kids-night-lights-and-lamps/50440841.txt
+- SOLBO Table lamp, white, owl: /products/kids-night-lights-and-lamps/00328682.txt
+- SNÖDJUP LED decorative light, speech bubble white/multicolor: /products/kids-night-lights-and-lamps/70510654.txt
+- PELARBOJ LED table lamp, multicolor: /products/kids-night-lights-and-lamps/10423023.txt
+- KORNSNÖ LED night light, white, rabbit battery operated: /products/kids-night-lights-and-lamps/00433720.txt
+- ISKÄRNA LED table lamp, multicolor: /products/kids-night-lights-and-lamps/90510403.txt
+- FUBBLA LED wall lamp, white: /products/kids-night-lights-and-lamps/30381606.txt
+- BRUMMIG LED table lamp, forest patterned: /products/kids-night-lights-and-lamps/60526127.txt
+- BLÅVINGAD LED wall lamp, turtle/green: /products/kids-night-lights-and-lamps/50526571.txt
+- AFTONSPARV LED table lamp, rocket/multicolor: /products/kids-night-lights-and-lamps/10555235.txt
+- AFTONSPARV LED decorative light, planet shape multicolor: /products/kids-night-lights-and-lamps/20559209.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

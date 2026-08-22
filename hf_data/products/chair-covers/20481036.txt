@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BERGMUND chair cover, medium long, Inseros white
+SKU: 20481036
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/bergmund-chair-cover-medium-long-inseros-white-20481036/
+Category: Chair covers
+Description: Dining chairs in the BERGMUND series offer cushiony comfort and many cover options, like this snowy-white one. After engaging meals and after-dinner chit-chat, it’s good to know it’s washable.
+
+# @OFFER
+Price: 30
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Back fabric/ Lining: 100 % polyester (100% recycled), Fabric/ Cover: 100 % cotton
+Features: Fits BERGMUND chair frame. | Recommended for indoor use only. | This is an extra cover for BERGMUND chair. Chair sold separately.
+Care: Cover: Machine wash warm, normal cycle. | Cover: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/bergmund-chair-cover-medium-long-inseros-white__0930242_pe790665_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,64 @@
+# @CATEGORY
+Name: BODBYN off-white fronts
+ProductCount: 42
+
+# @FILTERS
+PriceRange: $37.00 - $328.00
+Materials: Fiberboard, Polyester paint, Acrylic paint, Glass: Tempered glass, Main parts: Fiberboard, Polyester paint, Acrylic paint
+Brand: IKEA
+
+# @ITEMS
+- BODBYN glass door with crossbar, off-white: /products/bodbyn-off-white-fronts/50485028.txt
+- BODBYN glass door, off-white: /products/bodbyn-off-white-fronts/80485022.txt
+- BODBYN glass door, off-white: /products/bodbyn-off-white-fronts/40485019.txt
+- BODBYN glass door, off-white: /products/bodbyn-off-white-fronts/10485025.txt
+- BODBYN glass door, off-white: /products/bodbyn-off-white-fronts/00485016.txt
+- BODBYN drawer front, off-white: /products/bodbyn-off-white-fronts/80266350.txt
+- BODBYN drawer front, off-white: /products/bodbyn-off-white-fronts/80266345.txt
+- BODBYN drawer front, off-white: /products/bodbyn-off-white-fronts/70266355.txt
+- BODBYN drawer front, off-white: /products/bodbyn-off-white-fronts/60266351.txt
+- BODBYN drawer front, off-white: /products/bodbyn-off-white-fronts/60266346.txt
+- BODBYN drawer front, off-white: /products/bodbyn-off-white-fronts/50266356.txt
+- BODBYN drawer front, off-white: /products/bodbyn-off-white-fronts/50266342.txt
+- BODBYN drawer front, off-white: /products/bodbyn-off-white-fronts/40266352.txt
+- BODBYN drawer front, off-white: /products/bodbyn-off-white-fronts/40266347.txt
+- BODBYN drawer front, off-white: /products/bodbyn-off-white-fronts/30266343.txt
+- BODBYN drawer front, off-white: /products/bodbyn-off-white-fronts/20266353.txt
+- BODBYN drawer front, off-white: /products/bodbyn-off-white-fronts/20266348.txt
+- BODBYN drawer front, off-white: /products/bodbyn-off-white-fronts/10266344.txt
+- BODBYN drawer front, off-white: /products/bodbyn-off-white-fronts/00266354.txt
+- BODBYN drawer front, off-white: /products/bodbyn-off-white-fronts/00266349.txt
+- BODBYN door, off-white: /products/bodbyn-off-white-fronts/90266340.txt
+- BODBYN door, off-white: /products/bodbyn-off-white-fronts/90266335.txt
+- BODBYN door, off-white: /products/bodbyn-off-white-fronts/90266321.txt
+- BODBYN door, off-white: /products/bodbyn-off-white-fronts/80266331.txt
+- BODBYN door, off-white: /products/bodbyn-off-white-fronts/80266326.txt
+- BODBYN door, off-white: /products/bodbyn-off-white-fronts/70266336.txt
+- BODBYN door, off-white: /products/bodbyn-off-white-fronts/70266322.txt
+- BODBYN Door, off-white: /products/bodbyn-off-white-fronts/60266332.txt
+- BODBYN door, off-white: /products/bodbyn-off-white-fronts/60266327.txt
+- BODBYN door, off-white: /products/bodbyn-off-white-fronts/50266337.txt
+- BODBYN door, off-white: /products/bodbyn-off-white-fronts/50266323.txt
+- BODBYN door, off-white: /products/bodbyn-off-white-fronts/40266328.txt
+- BODBYN door, off-white: /products/bodbyn-off-white-fronts/30266338.txt
+- BODBYN door, off-white: /products/bodbyn-off-white-fronts/30266324.txt
+- BODBYN door, off-white: /products/bodbyn-off-white-fronts/30266319.txt
+- BODBYN door, off-white: /products/bodbyn-off-white-fronts/20266334.txt
+- BODBYN door, off-white: /products/bodbyn-off-white-fronts/20266329.txt
+- BODBYN Door, off-white: /products/bodbyn-off-white-fronts/10266339.txt
+- BODBYN door, off-white: /products/bodbyn-off-white-fronts/10266320.txt
+- BODBYN door, off-white: /products/bodbyn-off-white-fronts/00266330.txt
+- BODBYN door, off-white: /products/bodbyn-off-white-fronts/00266325.txt
+- BODBYN 2-p door/corner base cabinet set, off-white: /products/bodbyn-off-white-fronts/70266341.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

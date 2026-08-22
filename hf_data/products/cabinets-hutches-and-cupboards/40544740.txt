@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: LEDAMOT cabinet, light grey-beige
+SKU: 40544740
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ledamot-cabinet-light-grey-beige-40544740/
+Category: Cabinets, hutches & cupboards
+Description: , 591/8x165/8x291/2" With clean lines and a timeless aesthetic, this cabinet suits many interior styles. It has neat storage behind closed doors – and open shelves in contrasting wood expression let y...
+
+# @OFFER
+Price: 249
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Bottom panel/ Side panel/ Partition/ Shelf: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Plastic edging, Plastic edging, Back panel/ Upper back panel: Fiberboard, Paper foil, Door: Particleboard, Paper foil, Plastic edging, Plastic edging
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ledamot-cabinet-light-grey-beige__1369359_pe958105_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

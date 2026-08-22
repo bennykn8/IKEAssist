@@ -1,0 +1,32 @@
+# @CATEGORY
+Name: Ranges
+ProductCount: 11
+
+# @FILTERS
+PriceRange: $649.00 - $1599.00
+Brand: IKEA
+
+# @ITEMS
+- TVÄRSÄKER range with induction cooktop, Stainless steel: /products/ranges/40466006.txt
+- SNESSLINGE range with glass ceramic cooktop, Stainless steel: /products/ranges/00591069.txt
+- SNESSLINGE range with gas cooktop, Stainless steel: /products/ranges/40591072.txt
+- ÖRMINGE range with induction cooktop, Stainless steel: /products/ranges/00591093.txt
+- ÖRMINGE range with glass ceramic cooktop, Stainless steel: /products/ranges/90591022.txt
+- ÖRMINGE range with gas cooktop, Stainless steel: /products/ranges/30591020.txt
+- MOTSVARIG range with glass ceramic cooktop, black Stainless steel: /products/ranges/20462052.txt
+- MOTSVARIG range with gas cooktop, black Stainless steel: /products/ranges/70462040.txt
+- LAGAN range with glass ceramic cooktop, white: /products/ranges/80462054.txt
+- GRUNDLÄGGA range with glass ceramic cooktop, Stainless steel: /products/ranges/40462051.txt
+- CIRKULERA range with gas cooktop, Stainless steel: /products/ranges/90515293.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

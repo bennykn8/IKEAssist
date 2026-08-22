@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BESTÅ storage combination w doors/drawers, white/Sutterviken/Kabbarp white
+SKU: 29412760
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/besta-storage-combination-w-doors-drawers-white-sutterviken-kabbarp-white-s29412760/
+Category: BESTÅ sideboards
+Description: , 471/4x161/2x297/8" Go ahead and put things aside for a while! A sideboard combination gives you plenty of space to store things and a surface to create an attractive display - or to unload serving d...
+
+# @OFFER
+Price: 465
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Galvanized steel, Metal part: Steel, Nickel plated, Plastic parts: Acetal plastic
+Features: Knobs and handles are sold separately. | Interior accessories that help you organize inside your BESTÅ are sold separately. | Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home.
+Care: Wipe clean with a damp cloth. | Check regularly that all assembly fastenings are properly tightened and retighten when necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/besta-storage-combination-w-doors-drawers-white-sutterviken-kabbarp-white__0915586_pe784808_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

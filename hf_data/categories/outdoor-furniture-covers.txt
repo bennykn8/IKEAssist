@@ -1,0 +1,29 @@
+# @CATEGORY
+Name: Outdoor furniture covers
+ProductCount: 7
+
+# @FILTERS
+PriceRange: $34.99 - $74.99
+Materials: Backing: 100 % Synthetic rubber, Bag: 100 % polyester, Fabric: 100 % Synthetic rubber, 100% polyester (min. 90% recycled), Fabric: 100% polyester (min. 90% recycled), Feet: Polyethylene, Frame: Polyester
+Brand: IKEA
+
+# @ITEMS
+- TOSTERÖ Storage box, outdoor, black: /products/outdoor-furniture-covers/30411439.txt
+- TOSTERÖ cover for outdoor furniture, table and chairs/black: /products/outdoor-furniture-covers/90532339.txt
+- TOSTERÖ cover for outdoor furniture, table and chairs/black: /products/outdoor-furniture-covers/70532340.txt
+- TOSTERÖ cover for outdoor furniture, sofa/black: /products/outdoor-furniture-covers/60532307.txt
+- TOSTERÖ cover for outdoor furniture, black: /products/outdoor-furniture-covers/60532326.txt
+- TOSTERÖ cover for furniture set, dining set/black: /products/outdoor-furniture-covers/80305064.txt
+- TOSTERÖ Cover for furniture set, black: /products/outdoor-furniture-covers/50305065.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

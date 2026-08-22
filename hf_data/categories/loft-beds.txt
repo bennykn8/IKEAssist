@@ -1,0 +1,23 @@
+# @CATEGORY
+Name: Loft beds
+ProductCount: 1
+
+# @FILTERS
+PriceRange: $379.00 - $379.00
+Materials: Leg/ Center support beam/ Step/ Bed base slats: Solid pine, Main parts: Solid pine, Stain, Clear acrylic lacquer
+Brand: IKEA
+
+# @ITEMS
+- STORÅ loft bed frame, black, Full/Double: /products/loft-beds/80160867.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,225 @@
+# @CATEGORY
+Name: Sectionals
+ProductCount: 203
+
+# @FILTERS
+PriceRange: $748.00 - $3999.00
+Materials: Armrest frame: Fiberboard, Solid wood, Plywood, Particleboard, Armrest frame: Plywood, Solid pine, Polyurethane foam 1.5 lb/cu.ft., Particleboard, Fiberboard, Armrest: Particleboard, Plywood, Polyurethane foam 1.5 lb/cu.ft., Solid wood, Fiberboard, Armrest: Particleboard, Solid wood, Polyurethane foam 1.2 lb/cu.ft., Polyurethane foam 1.5 lb/cu.ft., Laminated veneer lumber, Fiberboard, Back and seat frame: Fiberboard, Plywood, Particleboard, Solid wood, Back and seat frame: Fiberboard, Plywood, Solid wood, Particleboard, Back and seat frame: Plywood, Solid pine, Fiberboard, Back and seat frame: Plywood, Solid pine, Particleboard, Fiberboard, Back cushion: Polyurethane foam 1.5 lb/cu.ft., Back fabric: 100 % polyester (100% recycled)
+Brand: IKEA
+
+# @ITEMS
+- UPPLAND sectional, 4-seat corner, Kilanda light beige: /products/sectionals/39442460.txt
+- UPPLAND sectional, 4-seat corner, Kilanda dark blue: /products/sectionals/79442458.txt
+- UPPLAND sectional, 4-seat corner, Kelinge rust: /products/sectionals/79508185.txt
+- UPPLAND sectional, 4-seat corner, Kelinge gray-turquoise: /products/sectionals/59508186.txt
+- UPPLAND sectional, 4-seat corner, Kelinge beige: /products/sectionals/99508189.txt
+- UPPLAND sectional, 4-seat corner, Kelinge anthracite: /products/sectionals/79508190.txt
+- UPPLAND sectional, 4-seat corner, Karlshov gray-beige: /products/sectionals/09488609.txt
+- UPPLAND sectional, 4-seat corner, Hillared dark blue: /products/sectionals/19508188.txt
+- UPPLAND sectional, 4-seat corner, Hillared beige: /products/sectionals/39508187.txt
+- UPPLAND sectional, 4-seat corner, Hillared anthracite: /products/sectionals/09508184.txt
+- UPPLAND sectional, 4-seat corner, Hakebo gray/green: /products/sectionals/19442456.txt
+- UPPLAND sectional, 4-seat corner, Hakebo dark gray: /products/sectionals/69442454.txt
+- UPPLAND sectional, 4-seat corner, Blekinge white: /products/sectionals/49384110.txt
+- SÖDERHAMN sectional, 5-seat, Viarp beige/brown: /products/sectionals/89305903.txt
+- SÖDERHAMN sectional, 5-seat, Tonerud red: /products/sectionals/19514429.txt
+- SÖDERHAMN sectional, 5-seat, Tonerud gray: /products/sectionals/29452082.txt
+- SÖDERHAMN sectional, 5-seat, Tallmyra light green: /products/sectionals/69499817.txt
+- SÖDERHAMN sectional, 5-seat, Tallmyra dark green: /products/sectionals/89499816.txt
+- SÖDERHAMN sectional, 5-seat, Kelinge rust: /products/sectionals/19514603.txt
+- SÖDERHAMN sectional, 5-seat, Kelinge gray-turquoise: /products/sectionals/79514515.txt
+- SÖDERHAMN sectional, 5-seat, Hillared dark blue: /products/sectionals/99499745.txt
+- SÖDERHAMN sectional, 5-seat, Hillared beige: /products/sectionals/29499744.txt
+- SÖDERHAMN sectional, 5-seat, Fridtuna light beige: /products/sectionals/89449671.txt
+- SÖDERHAMN sectional, 5-seat, Fridtuna dark gray: /products/sectionals/59449597.txt
+- SÖDERHAMN sectional, 4-seat corner, with open end/Viarp beige/brown: /products/sectionals/39305849.txt
+- SÖDERHAMN sectional, 4-seat corner, with open end/Tonerud red: /products/sectionals/49514423.txt
+- SÖDERHAMN sectional, 4-seat corner, with open end/Tonerud gray: /products/sectionals/29452077.txt
+- SÖDERHAMN sectional, 4-seat corner, with open end/Tallmyra light green: /products/sectionals/79499812.txt
+- SÖDERHAMN sectional, 4-seat corner, with open end/Tallmyra dark green: /products/sectionals/99499811.txt
+- SÖDERHAMN sectional, 4-seat corner, with open end/Kelinge rust: /products/sectionals/79514596.txt
+- SÖDERHAMN sectional, 4-seat corner, with open end/Kelinge gray-turquoise: /products/sectionals/09514509.txt
+- SÖDERHAMN sectional, 4-seat corner, with open end/Hillared dark blue: /products/sectionals/69499742.txt
+- SÖDERHAMN sectional, 4-seat corner, with open end/Hillared beige: /products/sectionals/89499741.txt
+- SÖDERHAMN sectional, 4-seat corner, with open end/Fridtuna light beige: /products/sectionals/89449666.txt
+- SÖDERHAMN sectional, 4-seat corner, with open end/Fridtuna dark gray: /products/sectionals/69449592.txt
+- SÖDERHAMN sectional, 3-seat corner, Viarp beige/brown: /products/sectionals/59305891.txt
+- SÖDERHAMN sectional, 3-seat corner, Tonerud red: /products/sectionals/49514418.txt
+- SÖDERHAMN sectional, 3-seat corner, Tonerud gray: /products/sectionals/39452072.txt
+- SÖDERHAMN sectional, 3-seat corner, Tallmyra light green: /products/sectionals/79499807.txt
+- SÖDERHAMN sectional, 3-seat corner, Tallmyra dark green: /products/sectionals/99499806.txt
+- SÖDERHAMN sectional, 3-seat corner, Kelinge rust: /products/sectionals/69514592.txt
+- SÖDERHAMN sectional, 3-seat corner, Kelinge gray-turquoise: /products/sectionals/19514504.txt
+- SÖDERHAMN sectional, 3-seat corner, Hillared dark blue: /products/sectionals/29499739.txt
+- SÖDERHAMN sectional, 3-seat corner, Hillared beige: /products/sectionals/49499738.txt
+- SÖDERHAMN sectional, 3-seat corner, Fridtuna light beige: /products/sectionals/99449661.txt
+- SÖDERHAMN sectional, 3-seat corner, Fridtuna dark gray: /products/sectionals/69449587.txt
+- PÄRUP sectional, 4-seat corner, Vissle yellow-brown: /products/sectionals/39514145.txt
+- PÄRUP sectional, 4-seat corner, Vissle gray: /products/sectionals/09389402.txt
+- PÄRUP sectional, 4-seat corner, Gunnared dark gray: /products/sectionals/49389396.txt
+- PÄRUP sectional, 4-seat corner, Gunnared beige: /products/sectionals/19389393.txt
+- MORABO sectional 6-seat crn/chaise, Gunnared light green/wood: /products/sectionals/49575874.txt
+- MORABO sectional 6-seat crn/chaise, Gunnared light green/metal: /products/sectionals/69575873.txt
+- MORABO sectional 6-seat crn/chaise, Gunnared dark gray/wood: /products/sectionals/89575872.txt
+- MORABO sectional 6-seat crn/chaise, Gunnared dark gray/metal: /products/sectionals/09575871.txt
+- MORABO sectional 6-seat crn/chaise, Grann/Bomstad gray-green/wood: /products/sectionals/29575870.txt
+- MORABO sectional 6-seat crn/chaise, Grann/Bomstad gray-green/metal: /products/sectionals/49575869.txt
+- MORABO sectional 6-seat crn/chaise, Grann/Bomstad golden brown/wood: /products/sectionals/69575868.txt
+- MORABO sectional 6-seat crn/chaise, Grann/Bomstad golden brown/metal: /products/sectionals/89575867.txt
+- MORABO sectional 6-seat crn/chaise, Grann/Bomstad black/wood: /products/sectionals/09575866.txt
+- MORABO sectional 6-seat crn/chaise, Grann/Bomstad black/metal: /products/sectionals/29575865.txt
+- MORABO sectional 6-seat crn/chaise, Djuparp dark blue/wood: /products/sectionals/59575864.txt
+- MORABO sectional 6-seat crn/chaise, Djuparp dark blue/metal: /products/sectionals/79575863.txt
+- MORABO sectional, 5-seat, with chaise/Gunnared light green/wood: /products/sectionals/79318331.txt
+- MORABO sectional, 5-seat, with chaise/Gunnared light green/metal: /products/sectionals/99318330.txt
+- MORABO sectional, 5-seat, with chaise/Gunnared dark gray/wood: /products/sectionals/59318313.txt
+- MORABO sectional, 5-seat, with chaise/Gunnared dark gray/metal: /products/sectionals/79318312.txt
+- MORABO sectional, 5-seat, with chaise/Grann/Bomstad gray-green/wood: /products/sectionals/59317851.txt
+- MORABO sectional, 5-seat, with chaise/Grann/Bomstad gray-green/metal: /products/sectionals/79317850.txt
+- MORABO sectional, 5-seat, with chaise/Grann/Bomstad golden brown/wood: /products/sectionals/39317753.txt
+- MORABO sectional, 5-seat, with chaise/Grann/Bomstad golden brown/metal: /products/sectionals/19317754.txt
+- MORABO sectional, 5-seat, with chaise/Grann/Bomstad black/wood: /products/sectionals/39316640.txt
+- MORABO sectional, 5-seat, with chaise/Grann/Bomstad black/metal: /products/sectionals/59316639.txt
+- MORABO sectional, 5-seat, with chaise/Djuparp dark blue/wood: /products/sectionals/89416500.txt
+- MORABO sectional, 5-seat, with chaise/Djuparp dark blue/metal: /products/sectionals/39416499.txt
+- MORABO sectional, 5-seat corner, Gunnared light green/wood: /products/sectionals/19318329.txt
+- MORABO sectional, 5-seat corner, Gunnared light green/metal: /products/sectionals/39318328.txt
+- MORABO sectional, 5-seat corner, Gunnared dark gray/wood: /products/sectionals/99318311.txt
+- MORABO sectional, 5-seat corner, Gunnared dark gray/metal: /products/sectionals/19318310.txt
+- MORABO sectional, 5-seat corner, Grann/Bomstad gray-green/wood: /products/sectionals/99317849.txt
+- MORABO sectional, 5-seat corner, Grann/Bomstad gray-green/metal: /products/sectionals/19317848.txt
+- MORABO sectional, 5-seat corner, Grann/Bomstad golden brown/wood: /products/sectionals/59317752.txt
+- MORABO sectional, 5-seat corner, Grann/Bomstad golden brown/metal: /products/sectionals/79317751.txt
+- MORABO sectional, 5-seat corner, Grann/Bomstad black/wood: /products/sectionals/79316638.txt
+- MORABO sectional, 5-seat corner, Grann/Bomstad black/metal: /products/sectionals/99316637.txt
+- MORABO sectional, 5-seat corner, Djuparp dark blue/wood: /products/sectionals/59416498.txt
+- MORABO sectional, 5-seat corner, Djuparp dark blue/metal: /products/sectionals/79416497.txt
+- KIVIK sectional, 6-seat, Tresund light beige: /products/sectionals/19494407.txt
+- KIVIK sectional, 6 seat, Tresund light beige: /products/sectionals/09494399.txt
+- KIVIK sectional, 6 seat, Tresund anthracite: /products/sectionals/89494395.txt
+- KIVIK sectional, 6-seat, Tresund anthracite: /products/sectionals/09494403.txt
+- KIVIK sectional, 6 seat, Tibbleby beige/gray: /products/sectionals/69440577.txt
+- KIVIK sectional, 6-seat, Tibbleby beige/gray: /products/sectionals/59440573.txt
+- KIVIK sectional, 6 seat, Tallmyra white/black: /products/sectionals/59527665.txt
+- KIVIK sectional, 6-seat, Tallmyra white/black: /products/sectionals/39527713.txt
+- KIVIK sectional, 6 seat, Tallmyra light green: /products/sectionals/49527661.txt
+- KIVIK sectional, 6-seat, Tallmyra light green: /products/sectionals/19527709.txt
+- KIVIK sectional, 6-seat, Tallmyra dark green: /products/sectionals/79527706.txt
+- KIVIK sectional, 6 seat, Tallmyra dark green: /products/sectionals/29527657.txt
+- KIVIK sectional, 6-seat, Tallmyra blue: /products/sectionals/69527702.txt
+- KIVIK sectional, 6 seat, Tallmyra blue: /products/sectionals/19527653.txt
+- KIVIK sectional, 6-seat, Kelinge gray-turquoise: /products/sectionals/79443071.txt
+- KIVIK sectional, 6 seat, Kelinge gray-turquoise: /products/sectionals/59443067.txt
+- KIVIK sectional, 6 seat, Gunnared medium gray: /products/sectionals/99527649.txt
+- KIVIK sectional, 6-seat, Gunnared medium gray: /products/sectionals/69527698.txt
+- KIVIK sectional, 6 seat, Gunnared light green: /products/sectionals/49527637.txt
+- KIVIK sectional, 6-seat, Gunnared light green: /products/sectionals/29527695.txt
+- KIVIK sectional, 6 seat, Gunnared light brown-pink: /products/sectionals/69527716.txt
+- KIVIK sectional, 6-seat, Gunnared light brown-pink: /products/sectionals/09527719.txt
+- KIVIK sectional, 6-seat, Gunnared blue: /products/sectionals/99527692.txt
+- KIVIK sectional, 6 seat, Gunnared blue: /products/sectionals/79527645.txt
+- KIVIK sectional, 6 seat, Gunnared beige: /products/sectionals/69527641.txt
+- KIVIK sectional, 6-seat, Gunnared beige: /products/sectionals/59527689.txt
+- KIVIK sectional 6-seat crn/chaise, Tresund light beige: /products/sectionals/79482883.txt
+- KIVIK sectional 6-seat crn/chaise, Tresund anthracite: /products/sectionals/59482884.txt
+- KIVIK sectional 6-seat crn/chaise, Tibbleby beige/gray: /products/sectionals/09440486.txt
+- KIVIK sectional 6-seat crn/chaise, Tallmyra white/black: /products/sectionals/69499638.txt
+- KIVIK sectional 6-seat crn/chaise, Tallmyra light green: /products/sectionals/09499636.txt
+- KIVIK sectional 6-seat crn/chaise, Tallmyra dark green: /products/sectionals/29499635.txt
+- KIVIK sectional 6-seat crn/chaise, Tallmyra blue: /products/sectionals/59499634.txt
+- KIVIK sectional 6-seat crn/chaise, Kelinge gray-turquoise: /products/sectionals/79443028.txt
+- KIVIK sectional 6-seat crn/chaise, Gunnared medium gray: /products/sectionals/99499632.txt
+- KIVIK sectional 6-seat crn/chaise, Gunnared light green: /products/sectionals/19499631.txt
+- KIVIK sectional 6-seat crn/chaise, Gunnared light brown-pink: /products/sectionals/39499630.txt
+- KIVIK sectional 6-seat crn/chaise, Gunnared blue: /products/sectionals/59499629.txt
+- KIVIK sectional 6-seat crn/chaise, Gunnared beige: /products/sectionals/79499628.txt
+- KIVIK sectional, 5-seat corner, Tresund light beige: /products/sectionals/89482868.txt
+- KIVIK sectional, 5-seat corner, Tresund anthracite: /products/sectionals/09482867.txt
+- KIVIK sectional, 5-seat corner, Tibbleby beige/gray: /products/sectionals/79440478.txt
+- KIVIK sectional, 5-seat corner, Tallmyra white/black: /products/sectionals/29499616.txt
+- KIVIK sectional, 5-seat corner, Tallmyra light green: /products/sectionals/79499614.txt
+- KIVIK sectional, 5-seat corner, Tallmyra dark green: /products/sectionals/99499613.txt
+- KIVIK sectional, 5-seat corner, Tallmyra blue: /products/sectionals/19499612.txt
+- KIVIK sectional, 5-seat corner, Kelinge gray-turquoise: /products/sectionals/49443020.txt
+- KIVIK sectional, 5-seat corner, Gunnared medium gray: /products/sectionals/59499610.txt
+- KIVIK sectional, 5-seat corner, Gunnared light green: /products/sectionals/79499609.txt
+- KIVIK sectional, 5-seat corner, Gunnared light brown-pink: /products/sectionals/99499608.txt
+- KIVIK sectional, 5-seat corner, Gunnared blue: /products/sectionals/19499607.txt
+- KIVIK sectional, 5-seat corner, Gunnared beige: /products/sectionals/39499606.txt
+- KIVIK sectional, 4-seat corner, Tresund light beige: /products/sectionals/59482860.txt
+- KIVIK sectional, 4-seat corner, Tresund anthracite: /products/sectionals/79482859.txt
+- KIVIK sectional, 4-seat corner, Tibbleby beige/gray: /products/sectionals/69440474.txt
+- KIVIK sectional, 4-seat corner, Tallmyra white/black: /products/sectionals/59499605.txt
+- KIVIK sectional, 4-seat corner, Tallmyra light green: /products/sectionals/09499603.txt
+- KIVIK sectional, 4-seat corner, Tallmyra dark green: /products/sectionals/29499602.txt
+- KIVIK sectional, 4-seat corner, Tallmyra blue: /products/sectionals/49499601.txt
+- KIVIK sectional, 4-seat corner, Kelinge gray-turquoise: /products/sectionals/29443016.txt
+- KIVIK sectional, 4-seat corner, Gunnared medium gray: /products/sectionals/09499599.txt
+- KIVIK sectional, 4-seat corner, Gunnared light green: /products/sectionals/29499598.txt
+- KIVIK sectional, 4-seat corner, Gunnared light brown-pink: /products/sectionals/49499597.txt
+- KIVIK sectional, 4-seat corner, Gunnared blue: /products/sectionals/69499596.txt
+- KIVIK sectional, 4-seat corner, Gunnared beige: /products/sectionals/89499595.txt
+- KIVIK corner sectional, 5-seat w chaise, Tresund light beige: /products/sectionals/19482876.txt
+- KIVIK corner sectional, 5-seat w chaise, Tresund anthracite: /products/sectionals/39482875.txt
+- KIVIK corner sectional, 5-seat w chaise, Tibbleby beige/gray: /products/sectionals/99440482.txt
+- KIVIK corner sectional, 5-seat w chaise, Tallmyra white/black: /products/sectionals/99499627.txt
+- KIVIK corner sectional, 5-seat w chaise, Tallmyra light green: /products/sectionals/39499625.txt
+- KIVIK corner sectional, 5-seat w chaise, Tallmyra dark green: /products/sectionals/69499624.txt
+- KIVIK corner sectional, 5-seat w chaise, Tallmyra blue: /products/sectionals/89499623.txt
+- KIVIK corner sectional, 5-seat w chaise, Kelinge gray-turquoise: /products/sectionals/69443024.txt
+- KIVIK corner sectional, 5-seat w chaise, Gunnared medium gray: /products/sectionals/29499621.txt
+- KIVIK corner sectional, 5-seat w chaise, Gunnared light green: /products/sectionals/49499620.txt
+- KIVIK corner sectional, 5-seat w chaise, Gunnared light brown-pink: /products/sectionals/69499619.txt
+- KIVIK corner sectional, 5-seat w chaise, Gunnared blue: /products/sectionals/89499618.txt
+- KIVIK corner sectional, 5-seat w chaise, Gunnared beige: /products/sectionals/09499617.txt
+- HYLTARP sectional, 4-seat corner, Tallmyra white/black: /products/sectionals/19514858.txt
+- HYLTARP sectional, 4-seat corner, Tallmyra dark green: /products/sectionals/49514852.txt
+- HYLTARP sectional, 4-seat corner, Tallmyra blue: /products/sectionals/49514847.txt
+- HYLTARP sectional, 4-seat corner, Kilanda pale blue: /products/sectionals/59489574.txt
+- HYLTARP sectional, 4-seat corner, Hemmesta light beige: /products/sectionals/79514841.txt
+- HYLTARP sectional, 4-seat corner, Hemmesta gray-green: /products/sectionals/99514835.txt
+- HYLTARP sectional, 4-seat corner, Hallarp white: /products/sectionals/59489569.txt
+- HYLTARP sectional, 4-seat corner, Gransel natural: /products/sectionals/09514830.txt
+- HYLTARP sectional, 4-seat corner, Gransel gray: /products/sectionals/39514819.txt
+- HYLTARP sectional, 4-seat corner, Gransel gray-brown: /products/sectionals/09514825.txt
+- FINNALA sectional, 5-seat corner, with chaise/Tallmyra black/gray: /products/sectionals/89319274.txt
+- FINNALA sectional, 5-seat corner, with chaise/Gunnared medium gray: /products/sectionals/09319268.txt
+- FINNALA sectional, 5-seat corner, with chaise/Gunnared beige: /products/sectionals/49319266.txt
+- FINNALA sectional, 5-seat corner, with chaise/Grann/Bomstad golden brown: /products/sectionals/99319264.txt
+- FINNALA sectional, 5-seat corner, with chaise/Grann/Bomstad black: /products/sectionals/19319263.txt
+- FINNALA sectional, 5-seat corner, Tallmyra black/gray: /products/sectionals/39319262.txt
+- FINNALA sectional, 5-seat corner, Gunnared medium gray: /products/sectionals/59319256.txt
+- FINNALA sectional, 5-seat corner, Gunnared beige: /products/sectionals/09319254.txt
+- FINNALA sectional, 5-seat corner, Grann/Bomstad golden brown: /products/sectionals/49319252.txt
+- FINNALA sectional, 5-seat corner, Grann/Bomstad black: /products/sectionals/69319251.txt
+- FINNALA sectional, 4-seat corner, with open end with headrests/Gunnared medium gray: /products/sectionals/29336139.txt
+- FINNALA sectional, 4-seat corner, with open end/Gunnared medium gray: /products/sectionals/19319244.txt
+- FINNALA sectional, 4-seat corner, Tallmyra black/gray: /products/sectionals/59319237.txt
+- FINNALA sectional, 4-seat corner, Gunnared medium gray: /products/sectionals/89319231.txt
+- FINNALA sectional, 4-seat corner, Gunnared beige: /products/sectionals/29319229.txt
+- FINNALA sectional, 4-seat corner, Grann/Bomstad golden brown: /products/sectionals/29409178.txt
+- FINNALA sectional, 4-seat corner, Grann/Bomstad black: /products/sectionals/49409177.txt
+- FINNALA corner sectional, 5-seat w chaise, Tallmyra black/gray: /products/sectionals/99575659.txt
+- FINNALA corner sectional, 5-seat w chaise, Gunnared medium gray: /products/sectionals/99575664.txt
+- FINNALA corner sectional, 5-seat w chaise, Gunnared beige: /products/sectionals/39575662.txt
+- FINNALA corner sectional, 5-seat w chaise, Grann/Bomstad golden brown: /products/sectionals/19575601.txt
+- FINNALA corner sectional, 5-seat w chaise, Grann/Bomstad black: /products/sectionals/99575602.txt
+- EKHOLMA corner sofa, 4-seat with open end, Kilanda pale blue: /products/sectionals/09563104.txt
+- EKHOLMA corner sofa, 4-seat with open end, Kilanda light beige: /products/sectionals/29563099.txt
+- EKHOLMA corner sofa, 4-seat with open end, Kilanda gray-brown: /products/sectionals/49563098.txt
+- EKHOLMA corner sofa, 4-seat with open end, Kilanda brown-red: /products/sectionals/89563100.txt
+- EKHOLMA corner sofa, 4-seat with open end, Hemmesta gray-green: /products/sectionals/69563097.txt
+- EKHOLMA corner sofa, 4-seat with open end, Hakebo dark gray: /products/sectionals/49563102.txt
+- EKHOLMA corner sofa, 4-seat with open end, Hakebo beige: /products/sectionals/29563103.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

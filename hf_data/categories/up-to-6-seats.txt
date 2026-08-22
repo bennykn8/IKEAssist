@@ -1,0 +1,38 @@
+# @CATEGORY
+Name: Up to 6 seats
+ProductCount: 16
+
+# @FILTERS
+PriceRange: $199.99 - $899.00
+Materials: Inside leg: Steel, Leg base: Solid birch, Tinted clear acrylic lacquer, Leg/ Rail: Solid acacia wood, Acrylic paint, Leg/ Underframe/ Cross rail: Particleboard, Solid oak, Thick oak veneer, Stain, Tinted clear acrylic lacquer, Particleboard, Plastic foil, Side rail/ Leg: Solid wood, Adhesive, Acrylic paint, Side rail/ Leg: Solid wood, Adhesive, Oak veneer, Clear acrylic lacquer, Side rail/ Leg: Solid wood, Adhesive, Oak veneer, Stain, Tinted clear acrylic lacquer, Steel, Chrome plated, Table top: Fiberboard, Clear acrylic lacquer
+Brand: IKEA
+
+# @ITEMS
+- VOXLÖV dining table, light bamboo: /products/up-to-6-seats/40434322.txt
+- TRANEBO dining table, black: /products/up-to-6-seats/80492942.txt
+- TORSBY table, chrome plated/high gloss white: /products/up-to-6-seats/39931845.txt
+- TONSTAD table, off-white: /products/up-to-6-seats/80599938.txt
+- TONSTAD table, oak veneer: /products/up-to-6-seats/80593880.txt
+- TONSTAD table, brown stained oak veneer: /products/up-to-6-seats/40599940.txt
+- TONSTAD table, brown stained oak veneer: /products/up-to-6-seats/00599937.txt
+- SKOGSTA dining table, acacia/black: /products/up-to-6-seats/70419264.txt
+- PINNTORP table, light brown stained/white stained: /products/up-to-6-seats/00529459.txt
+- MÖRBYLÅNGA Table, oak veneer brown stained, Length: 86 5/: /products/up-to-6-seats/20293766.txt
+- LISABO table, black/ash veneer: /products/up-to-6-seats/20563782.txt
+- LISABO table, ash veneer: /products/up-to-6-seats/10563773.txt
+- HAUGA table, white/birch veneer: /products/up-to-6-seats/30576722.txt
+- HAUGA table, gray/birch veneer: /products/up-to-6-seats/50576721.txt
+- DANDERYD dining table, white: /products/up-to-6-seats/00568728.txt
+- DANDERYD dining table, oak veneer/white: /products/up-to-6-seats/20516130.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

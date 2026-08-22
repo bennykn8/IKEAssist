@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MÖRTVIKEN door, dark gray
+SKU: 80538822
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/moertviken-door-dark-gray-80538822/
+Category: BESTÅ doors & drawer fronts
+Description: , 231/2x251/8" The functional MÖRTVIKEN front hides what you store but allows the signal from a remote control through. A modern design in metal with included handles that is suitable for various TV/m...
+
+# @OFFER
+Price: 45
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Aluminum, Epoxy/polyester powder coating, Panel: Steel, Epoxy/polyester powder coating, Mounting plate: Steel, Galvanized
+Features: To be completed with BESTÅ hinges. One door requires one pack of hinges, sold separately. | Handle included.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/moertviken-door-dark-gray__1258342_pe926308_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

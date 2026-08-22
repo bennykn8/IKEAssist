@@ -1,0 +1,26 @@
+# @CATEGORY
+Name: Outdoor pillows & pillow covers
+ProductCount: 4
+
+# @FILTERS
+PriceRange: $5.99 - $14.99
+Materials: 100% polyester (min. 90% recycled), Cushion cover: 100% polypropylene (min. 40% recycled), Lining/ Base fabric: 100% polyester (min. 90% recycled)
+Brand: IKEA
+
+# @ITEMS
+- TOFTÖ cushion cover, dark gray-green outdoor/indoor: /products/outdoor-pillows-and-pillow-covers/60581312.txt
+- TOFTÖ cushion cover, black outdoor/indoor: /products/outdoor-pillows-and-pillow-covers/30547287.txt
+- GULLBERGSÖ cushion cover, yellow/white stripe/outdoor indoor: /products/outdoor-pillows-and-pillow-covers/50547205.txt
+- GULLBERGSÖ cushion cover, in/outdoor, multicolor: /products/outdoor-pillows-and-pillow-covers/80520756.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

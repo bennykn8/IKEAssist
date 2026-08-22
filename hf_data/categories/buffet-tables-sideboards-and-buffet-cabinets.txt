@@ -1,0 +1,63 @@
+# @CATEGORY
+Name: Buffet tables, sideboards & buffet cabinets
+ProductCount: 41
+
+# @FILTERS
+PriceRange: $49.00 - $850.00
+Materials: Adjustable shelf: Particleboard, Walnut veneer, Clear acrylic lacquer, Walnut veneer, Paper foil, Back panel/ Door frame/ Drawer bottom: Fiberboard, Acrylic paint, Back panel/ Drawer bottom: Fiberboard, Acrylic paint, Back panel/ Drawer bottom: Fiberboard, Paper foil, Paper foil, Back panel: Fiberboard, Oak veneer, Clear acrylic lacquer, Back panel: Fiberboard, Paper foil, Acrylic paint, Back panel: Fiberboard, Paper foil, Plastic foil, Back panel: Fiberboard, Plastic foil, Back panel: Fiberboard, Plastic foil, Printed acrylic paint, Paper foil, Back panel: Particleboard, Paper foil
+Brand: IKEA
+
+# @ITEMS
+- VIHALS sideboard, white: /products/buffet-tables-sideboards-and-buffet-cabinets/90491720.txt
+- VIHALS sideboard, dark gray: /products/buffet-tables-sideboards-and-buffet-cabinets/90542927.txt
+- TONSTAD storage combination w sliding doors, off-white/clear glass: /products/buffet-tables-sideboards-and-buffet-cabinets/99571760.txt
+- TONSTAD storage combination w sliding doors, off-white/clear glass: /products/buffet-tables-sideboards-and-buffet-cabinets/89571770.txt
+- TONSTAD storage combination w sliding doors, off-white/clear glass: /products/buffet-tables-sideboards-and-buffet-cabinets/39571758.txt
+- TONSTAD storage combination w sliding doors, oak veneer/clear glass: /products/buffet-tables-sideboards-and-buffet-cabinets/99515057.txt
+- TONSTAD storage combination w sliding doors, oak veneer/clear glass: /products/buffet-tables-sideboards-and-buffet-cabinets/79515058.txt
+- TONSTAD storage combination w sliding doors, oak veneer/clear glass: /products/buffet-tables-sideboards-and-buffet-cabinets/69515068.txt
+- TONSTAD storage combination w sliding doors, brown stained oak veneer/clear glass: /products/buffet-tables-sideboards-and-buffet-cabinets/99515043.txt
+- TONSTAD storage combination w sliding doors, brown stained oak veneer/clear glass: /products/buffet-tables-sideboards-and-buffet-cabinets/79515044.txt
+- TONSTAD storage combination w sliding doors, brown stained oak veneer/clear glass: /products/buffet-tables-sideboards-and-buffet-cabinets/69515054.txt
+- TONSTAD storage combination, oak veneer: /products/buffet-tables-sideboards-and-buffet-cabinets/19570279.txt
+- TONSTAD storage combination, oak veneer: /products/buffet-tables-sideboards-and-buffet-cabinets/19515056.txt
+- TONSTAD storage combination, brown stained oak veneer: /products/buffet-tables-sideboards-and-buffet-cabinets/59570277.txt
+- TONSTAD storage combination, brown stained oak veneer: /products/buffet-tables-sideboards-and-buffet-cabinets/19515042.txt
+- TONSTAD sideboard, off-white: /products/buffet-tables-sideboards-and-buffet-cabinets/00510006.txt
+- TONSTAD sideboard, oak veneer: /products/buffet-tables-sideboards-and-buffet-cabinets/20510005.txt
+- TONSTAD sideboard, brown stained oak veneer: /products/buffet-tables-sideboards-and-buffet-cabinets/50510004.txt
+- STOCKHOLM Sideboard, walnut veneer: /products/buffet-tables-sideboards-and-buffet-cabinets/40239721.txt
+- STOCKHOLM 2025 sideboard, oak veneer: /products/buffet-tables-sideboards-and-buffet-cabinets/10586604.txt
+- SPIKSMED storage combination, light gray: /products/buffet-tables-sideboards-and-buffet-cabinets/69535288.txt
+- SPIKSMED storage combination, light gray: /products/buffet-tables-sideboards-and-buffet-cabinets/29535290.txt
+- SPIKSMED sideboard, light gray: /products/buffet-tables-sideboards-and-buffet-cabinets/80565518.txt
+- SKRUVBY sideboard, white: /products/buffet-tables-sideboards-and-buffet-cabinets/60568725.txt
+- SKRUVBY sideboard, black-blue: /products/buffet-tables-sideboards-and-buffet-cabinets/70568720.txt
+- MALSJÖ Sideboard, black stained: /products/buffet-tables-sideboards-and-buffet-cabinets/00327772.txt
+- LANESUND sideboard, gray-brown: /products/buffet-tables-sideboards-and-buffet-cabinets/90466546.txt
+- KLACKENÄS sideboard, black/oak veneer brown stained: /products/buffet-tables-sideboards-and-buffet-cabinets/90506750.txt
+- IDANÄS sideboard, white: /products/buffet-tables-sideboards-and-buffet-cabinets/60509627.txt
+- IDANÄS sideboard, dark brown stained: /products/buffet-tables-sideboards-and-buffet-cabinets/80509626.txt
+- HAVSTA sideboard, white: /products/buffet-tables-sideboards-and-buffet-cabinets/40529235.txt
+- HAVSTA sideboard, gray-beige: /products/buffet-tables-sideboards-and-buffet-cabinets/30529231.txt
+- HAVSTA sideboard, black: /products/buffet-tables-sideboards-and-buffet-cabinets/90529233.txt
+- HAUGA sideboard, gray: /products/buffet-tables-sideboards-and-buffet-cabinets/70596558.txt
+- FJÄLLBO sideboard, black: /products/buffet-tables-sideboards-and-buffet-cabinets/00502799.txt
+- BOASTAD sideboard, black/oak veneer: /products/buffet-tables-sideboards-and-buffet-cabinets/30507012.txt
+- BESTÅ wall-mounted cabinet combination, white/Mörtviken white: /products/buffet-tables-sideboards-and-buffet-cabinets/19412478.txt
+- BESTÅ wall-mounted cabinet combination, white/Hammarsmed beige: /products/buffet-tables-sideboards-and-buffet-cabinets/89569343.txt
+- BESTÅ wall-mounted cabinet combination, white/Hammarsmed anthracite: /products/buffet-tables-sideboards-and-buffet-cabinets/69569344.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Hammarsmed anthracite: /products/buffet-tables-sideboards-and-buffet-cabinets/19569346.txt
+- BAGGEBO sideboard, white: /products/buffet-tables-sideboards-and-buffet-cabinets/40553616.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

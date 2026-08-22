@@ -1,0 +1,31 @@
+# @CATEGORY
+Name: Cribs
+ProductCount: 9
+
+# @FILTERS
+PriceRange: $119.00 - $499.00
+Materials: Bed base frame: Solid beech, Bed end filling: Fiberboard, Paper foil, Bed rail: Solid beech, Fiberboard, Adhesive, Stain, Clear acrylic lacquer, Bed rail: Solid beech, Solid beech, Bed rail: Solid wood, Fiberboard, Tinted clear acrylic lacquer, Bedside with spindles: Solid beech, Tinted clear acrylic lacquer, Acrylic paint, Bedside/ Spindles/ Bed rail/ Bed base frame: Solid beech, Acrylic paint, Fabric: 100 % nylon, Head/footboard/ Bottom panel/ Drawer front: Fiberboard, Acrylic paint, Head/footboard: Fiberboard and honeycomb paper filling (100% recycled paper), Acrylic paint
+Brand: IKEA
+
+# @ITEMS
+- SUNDVIK Crib, white: /products/cribs/30248575.txt
+- SUNDVIK crib, gray: /products/cribs/50494080.txt
+- SNIGLAR Crib, beech: /products/cribs/50248541.txt
+- SMÅGÖRA crib, white: /products/cribs/40461235.txt
+- MYLLRA crib with drawer, white: /products/cribs/80483589.txt
+- GULLIVER crib, white: /products/cribs/80248525.txt
+- GULLIVER crib, green: /products/cribs/70589505.txt
+- GONATT crib with drawer, white: /products/cribs/30467087.txt
+- ÄLSKVÄRD crib, birch/white: /products/cribs/00466701.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

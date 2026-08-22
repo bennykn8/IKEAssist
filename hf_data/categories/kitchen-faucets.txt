@@ -1,0 +1,47 @@
+# @CATEGORY
+Name: Kitchen faucets
+ProductCount: 25
+
+# @FILTERS
+PriceRange: $34.00 - $225.00
+Materials: Body/ Handle: Zinc, Metallized, Body: Brass, Chrome plated, Body: Brass, Metallized, Body: Zinc, Metallized, Brass, Metallized, Handle: Zinc, Chrome plated, Inner body: Brass, Inner body: Reinforced polyamide, Spout: ABS plastic, Metallized, Spout: Brass, Brass, Chrome plated
+Brand: IKEA
+
+# @ITEMS
+- VIMMERN kitchen faucet with handspray, stainless steel color: /products/kitchen-faucets/40519948.txt
+- TOLLSJÖN kitchen faucet with handspray, chrome plated: /products/kitchen-faucets/50341695.txt
+- TOLLSJÖN kitchen faucet with handspray, black polished metal: /products/kitchen-faucets/40341691.txt
+- SUNDSVIK kitchen faucet, chrome plated: /products/kitchen-faucets/70270507.txt
+- MACKSJÖN pull out kitchen faucet with spray, stainless steel color: /products/kitchen-faucets/40601373.txt
+- MACKSJÖN pull down kitchen faucet with spray, stainless steel color: /products/kitchen-faucets/80600833.txt
+- MACKSJÖN pull down kitchen faucet with spray, brass color: /products/kitchen-faucets/60601372.txt
+- MACKSJÖN pull down kitchen faucet with spray, black: /products/kitchen-faucets/40601368.txt
+- LAGAN single lever kitchen faucet, chrome plated: /products/kitchen-faucets/70085029.txt
+- KALLSJÖN pillar faucet, chrome plated: /products/kitchen-faucets/00486351.txt
+- INSJÖN kitchen faucet with pull-out spout, chrome plated: /products/kitchen-faucets/70341878.txt
+- INSJÖN Kitchen faucet w sensor, chrome plated: /products/kitchen-faucets/20341908.txt
+- INSJÖN kitchen faucet, chrome plated: /products/kitchen-faucets/20370123.txt
+- GLYPEN kitchen faucet, stainless steel effect: /products/kitchen-faucets/70442392.txt
+- GLITTRAN kitchen faucet, brass color: /products/kitchen-faucets/80468683.txt
+- GAMLESJÖN dual control kitchen faucet, brushed black metal: /products/kitchen-faucets/90341679.txt
+- EDSVIK dual control kitchen faucet, chrome plated: /products/kitchen-faucets/30495523.txt
+- DELSJÖN kitchen faucet, pewter effect: /products/kitchen-faucets/70488790.txt
+- DELSJÖN kitchen faucet, brushed black metal: /products/kitchen-faucets/50488809.txt
+- DELSJÖN kitchen faucet, brass color: /products/kitchen-faucets/10478044.txt
+- BOSJÖN kitchen faucet, stainless steel color: /products/kitchen-faucets/90457405.txt
+- ÄLMAREN kitchen faucet with pull-out spout, stainless steel color: /products/kitchen-faucets/80341651.txt
+- ÄLMAREN kitchen faucet with pull-out spout, black: /products/kitchen-faucets/40605205.txt
+- ÄLMAREN Kitchen faucet, stainless steel color: /products/kitchen-faucets/50341643.txt
+- ÄLMAREN kitchen faucet, black: /products/kitchen-faucets/20605206.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

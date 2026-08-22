@@ -1,0 +1,46 @@
+# @CATEGORY
+Name: KNOXHULT complete modular kitchens
+ProductCount: 24
+
+# @FILTERS
+PriceRange: $305.00 - $1190.00
+Materials: Drawer bottom/ Back: Fiberboard, Acrylic paint, Drawer front: Fiberboard, Fiberboard, Plastic foil, Drawer side: Particleboard, Plastic foil, Kichen cabinet/ Door/ Drawer front: Particleboard, Melamine foil, Plastic edging, Kichen cabinet: Particleboard, Melamine foil, Plastic edging
+Brand: IKEA
+
+# @ITEMS
+- KNOXHULT kitchen, white: /products/knoxhult-complete-modular-kitchens/99581877.txt
+- KNOXHULT kitchen, white: /products/knoxhult-complete-modular-kitchens/39581917.txt
+- KNOXHULT kitchen, white: /products/knoxhult-complete-modular-kitchens/19581824.txt
+- KNOXHULT kitchen, white frame: /products/knoxhult-complete-modular-kitchens/59581916.txt
+- KNOXHULT kitchen, white frame: /products/knoxhult-complete-modular-kitchens/49581827.txt
+- KNOXHULT kitchen, white frame: /products/knoxhult-complete-modular-kitchens/19581876.txt
+- KNOXHULT kitchen, oak effect: /products/knoxhult-complete-modular-kitchens/79581915.txt
+- KNOXHULT kitchen, oak effect: /products/knoxhult-complete-modular-kitchens/69581826.txt
+- KNOXHULT kitchen, oak effect: /products/knoxhult-complete-modular-kitchens/39581875.txt
+- KNOXHULT kitchen, dark gray: /products/knoxhult-complete-modular-kitchens/89581825.txt
+- KNOXHULT kitchen, dark gray: /products/knoxhult-complete-modular-kitchens/69581874.txt
+- KNOXHULT kitchen, dark gray: /products/knoxhult-complete-modular-kitchens/09581914.txt
+- KNOXHULT corner kitchen, white: /products/knoxhult-complete-modular-kitchens/89581929.txt
+- KNOXHULT corner kitchen, white: /products/knoxhult-complete-modular-kitchens/69581925.txt
+- KNOXHULT corner kitchen, white: /products/knoxhult-complete-modular-kitchens/59581921.txt
+- KNOXHULT corner kitchen, white frame: /products/knoxhult-complete-modular-kitchens/99581924.txt
+- KNOXHULT corner kitchen, white frame: /products/knoxhult-complete-modular-kitchens/79581920.txt
+- KNOXHULT corner kitchen, white frame: /products/knoxhult-complete-modular-kitchens/09581928.txt
+- KNOXHULT corner kitchen, oak effect: /products/knoxhult-complete-modular-kitchens/99581919.txt
+- KNOXHULT corner kitchen, oak effect: /products/knoxhult-complete-modular-kitchens/29581927.txt
+- KNOXHULT corner kitchen, oak effect: /products/knoxhult-complete-modular-kitchens/19581923.txt
+- KNOXHULT corner kitchen, dark gray: /products/knoxhult-complete-modular-kitchens/49581926.txt
+- KNOXHULT corner kitchen, dark gray: /products/knoxhult-complete-modular-kitchens/39581922.txt
+- KNOXHULT corner kitchen, dark gray: /products/knoxhult-complete-modular-kitchens/19581918.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

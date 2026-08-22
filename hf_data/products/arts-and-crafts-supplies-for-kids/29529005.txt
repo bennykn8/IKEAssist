@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SOLFÅGEL 3-piece drawing set
+SKU: 29529005
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/solfagel-3-piece-drawing-set-s29529005/
+Category: Arts and crafts supplies for kids
+Description: The perfect starting set for those who want to develop their drawing skills. Contains 1 set with 24 colored pencils, 1 canvas pad and 1 roll-up pencil case where you can store your pencils. The flap a...
+
+# @OFFER
+Price: 21.97
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Solid cardboard, Solid limewood, 100 % polyester (100% recycled)
+Features: Comprises: 1 roll-up pencil case, 1 set of 24 colored pencils and 1 canvas pad. | The paints and pencils in the SOLFÅGEL collection are tested and non-toxic but should not be used for face or body painting. | Marks from the pencils can be washed from most surfaces and materials by using soap and lukewarm water. However, it is important to remove any marks as soon as they occur.
+Care: Machine wash, warm, durable-press cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/solfagel-3-piece-drawing-set__1255652_pe924619_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

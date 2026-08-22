@@ -1,0 +1,40 @@
+# @CATEGORY
+Name: ENHET doors & fronts
+ProductCount: 18
+
+# @FILTERS
+PriceRange: $10.00 - $45.00
+Materials: Door: Particleboard, Plastic foil, Plastic edging, Edge: Plastic edging, Fiberboard, Plastic foil, Front side/ Back side: Plastic foil, Main parts: Particleboard, Mirror: Glass, Plastic foil, Rail/ Panel: Fiberboard, Plastic foil, Rail: Steel, Polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- ENHET mirror door, white frame: /products/enhet-doors-and-fronts/60515505.txt
+- ENHET mirror door, white frame: /products/enhet-doors-and-fronts/00515508.txt
+- ENHET mirror door, mirror glass: /products/enhet-doors-and-fronts/40515506.txt
+- ENHET mirror door, mirror glass: /products/enhet-doors-and-fronts/10515503.txt
+- ENHET mirror door, gray frame: /products/enhet-doors-and-fronts/90515504.txt
+- ENHET mirror door, gray frame: /products/enhet-doors-and-fronts/20515507.txt
+- ENHET door, white frame: /products/enhet-doors-and-fronts/40515403.txt
+- ENHET door, white frame: /products/enhet-doors-and-fronts/20515404.txt
+- ENHET door, white frame: /products/enhet-doors-and-fronts/00515400.txt
+- ENHET door, white: /products/enhet-doors-and-fronts/50515351.txt
+- ENHET door, white: /products/enhet-doors-and-fronts/40515356.txt
+- ENHET door, white: /products/enhet-doors-and-fronts/20515357.txt
+- ENHET door, oak effect: /products/enhet-doors-and-fronts/70515388.txt
+- ENHET door, oak effect: /products/enhet-doors-and-fronts/50515389.txt
+- ENHET door, oak effect: /products/enhet-doors-and-fronts/30515385.txt
+- ENHET door, gray frame: /products/enhet-doors-and-fronts/90515373.txt
+- ENHET door, gray frame: /products/enhet-doors-and-fronts/70515374.txt
+- ENHET door, gray frame: /products/enhet-doors-and-fronts/50515370.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

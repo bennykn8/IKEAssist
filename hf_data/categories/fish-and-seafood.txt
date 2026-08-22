@@ -1,0 +1,28 @@
+# @CATEGORY
+Name: Fish & seafood
+ProductCount: 7
+
+# @FILTERS
+PriceRange: $2.99 - $19.99
+Brand: IKEA
+
+# @ITEMS
+- SJÖRAPPORT Salmon fillet, ASC certified/frozen: /products/fish-and-seafood/60360037.txt
+- SJÖRAPPORT peeled shrimp, MSC certified frozen, 9 oz: /products/fish-and-seafood/40539692.txt
+- SJÖRAPPORT cured salmon, ASC certified frozen, 7 oz: /products/fish-and-seafood/10599625.txt
+- SJÖRAPPORT cured cold smoked salmon, ASC certified frozen, 7 oz: /products/fish-and-seafood/30599610.txt
+- SJÖRAPPORT cold smoked salmon, ASC certified frozen, 7 oz: /products/fish-and-seafood/80599599.txt
+- SILL SENAP marinated herring w mustard sauce, 9 oz: /products/fish-and-seafood/90101033.txt
+- SILL DILL marinated herring with dill, 9 oz: /products/fish-and-seafood/50236265.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

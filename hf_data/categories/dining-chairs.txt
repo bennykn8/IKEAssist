@@ -1,0 +1,109 @@
+# @CATEGORY
+Name: Dining chairs
+ProductCount: 87
+
+# @FILTERS
+PriceRange: $15.00 - $280.00
+Materials: All parts: Acrylic paint, Back fabric: 100 % polyester (100% recycled), Backrest/ Armrest/ Front leg: Solid beech, Stain, Clear acrylic lacquer, Backrest: Layer-glued wood veneer, Acacia veneer, Stain, Clear acrylic lacquer, Backrest: Layer-glued wood veneer, Beech veneer, Stain, Tinted lacquer, Backrest: Rattan, Tinted lacquer, Base fabric/ Cover: 100% polyester (min. 90% recycled), Body: Rattan, Clear acrylic lacquer, Coated fabric parts/ Coated fabric parts: 100 % polyurethane, 75 % polyester, 25 % cotton, Cover cap: Layer-glued wood veneer, Birch plywood, Birch veneer, Stain, Clear acrylic lacquer
+Brand: IKEA
+
+# @ITEMS
+- YNGVAR chair, anthracite: /products/dining-chairs/80417636.txt
+- VOXLÖV chair, light bamboo: /products/dining-chairs/50450236.txt
+- VIHALS chair, white/Tibbleby beige-grey: /products/dining-chairs/40595126.txt
+- VIHALS chair, white: /products/dining-chairs/50569103.txt
+- VIHALS chair, green/Tibbleby gray-green: /products/dining-chairs/90595124.txt
+- TONSTAD chair, Viarp beige/brown/off-white: /products/dining-chairs/89599689.txt
+- TONSTAD chair, Viarp beige/brown/oak effect: /products/dining-chairs/49599686.txt
+- TONSTAD chair, Viarp beige/brown/brown oak effect: /products/dining-chairs/19599683.txt
+- TONSTAD chair, off-white/Fridtuna light beige: /products/dining-chairs/00594039.txt
+- TONSTAD chair, oak effect/Fridtuna light beige: /products/dining-chairs/10594034.txt
+- TONSTAD chair, brown oak effect/Fridtuna light beige: /products/dining-chairs/30594028.txt
+- TONSTAD chair, Bomstad golden brown/off-white: /products/dining-chairs/99602177.txt
+- TONSTAD chair, Bomstad golden brown/oak effect: /products/dining-chairs/69602174.txt
+- TONSTAD chair, Bomstad golden brown/brown oak effect: /products/dining-chairs/29602171.txt
+- TOBIAS chair, clear/chrome plated: /products/dining-chairs/80349671.txt
+- TOBIAS chair, brown-red/chrome plated: /products/dining-chairs/90532589.txt
+- TOBIAS Chair, blue, chrome plated: /products/dining-chairs/60334722.txt
+- TEODORES chair, white: /products/dining-chairs/79399841.txt
+- TEODORES chair, white: /products/dining-chairs/59399837.txt
+- TEODORES chair, white: /products/dining-chairs/30486156.txt
+- TEODORES chair, green: /products/dining-chairs/60530619.txt
+- TEODORES chair, blue: /products/dining-chairs/50530629.txt
+- TEODORES chair, black: /products/dining-chairs/80530623.txt
+- STOCKHOLM 2025 chair, oak/rattan: /products/dining-chairs/70593786.txt
+- STOCKHOLM 2025 chair, oak/leather: /products/dining-chairs/20593784.txt
+- STOCKHOLM 2025 chair, dark brown/leather: /products/dining-chairs/60593782.txt
+- STOCKHOLM 2025 chair, dark brown: /products/dining-chairs/20590139.txt
+- STEFAN chair, brown-black: /products/dining-chairs/00211088.txt
+- SKOGSTA chair, black: /products/dining-chairs/50544867.txt
+- SKOGSTA chair, acacia: /products/dining-chairs/70544866.txt
+- SKOGSBO chair, dark brown: /products/dining-chairs/40546032.txt
+- SKANSNÄS chair, brown beech: /products/dining-chairs/70563242.txt
+- SKANSNÄS chair, black beech: /products/dining-chairs/90565768.txt
+- SIGTRYGG chair, dark brown/Sefast white: /products/dining-chairs/09481537.txt
+- SIGTRYGG chair, dark brown/Sefast chrome plated: /products/dining-chairs/79481529.txt
+- SIGTRYGG chair, dark brown/Sefast black: /products/dining-chairs/79481534.txt
+- SIGTRYGG chair, birch/Sefast white: /products/dining-chairs/99483792.txt
+- SIGTRYGG chair, birch/Sefast chrome plated: /products/dining-chairs/49481521.txt
+- SIGTRYGG chair, birch/Sefast black: /products/dining-chairs/89481524.txt
+- SALNÖ / GRYTTOM chair with cushion, armrests rattan/Gransel natural: /products/dining-chairs/99564608.txt
+- SALNÖ armchair, rattan: /products/dining-chairs/50551202.txt
+- RÖNNINGE Chair, birch: /products/dining-chairs/10422504.txt
+- PINNTORP chair, red stained: /products/dining-chairs/60590482.txt
+- PINNTORP chair, red stained: /products/dining-chairs/40529476.txt
+- PINNTORP chair, light brown stained: /products/dining-chairs/00590480.txt
+- PINNTORP chair, light brown stained: /products/dining-chairs/00529478.txt
+- ODGER chair, white/beige: /products/dining-chairs/60359996.txt
+- ODGER chair, red: /products/dining-chairs/70516552.txt
+- ODGER Chair, anthracite: /products/dining-chairs/50457313.txt
+- NORRARYD Chair, black: /products/dining-chairs/40280843.txt
+- NORDVIKEN Chair, white: /products/dining-chairs/00369111.txt
+- NORDVIKEN Chair, black: /products/dining-chairs/40369109.txt
+- NORDVIKEN chair, antique stain: /products/dining-chairs/30488546.txt
+- NÄSINGE chair, white/Tibbleby beige-grey: /products/dining-chairs/80587582.txt
+- NÄSINGE chair, dark brown stained/Kilanda light beige: /products/dining-chairs/00587581.txt
+- NACKANÄS chair, acacia: /products/dining-chairs/70518061.txt
+- LYCKAN chair, yellow/birch veneer: /products/dining-chairs/00569186.txt
+- LYCKAN chair, birch veneer: /products/dining-chairs/00569191.txt
+- LISABO chair, black: /products/dining-chairs/60446786.txt
+- LISABO chair, ash: /products/dining-chairs/00457235.txt
+- LIDÅS chair, white/Sefast white: /products/dining-chairs/39481381.txt
+- LIDÅS chair, white/Sefast chrome plated: /products/dining-chairs/29481391.txt
+- LIDÅS chair, white/Sefast black: /products/dining-chairs/69481394.txt
+- LIDÅS chair, black/Sefast white: /products/dining-chairs/59505569.txt
+- LIDÅS chair, black/Sefast chrome plated: /products/dining-chairs/99505567.txt
+- LIDÅS chair, black/Sefast black: /products/dining-chairs/49505560.txt
+- IVAR chair, pine: /products/dining-chairs/90263902.txt
+- INGOLF chair, white: /products/dining-chairs/79399822.txt
+- INGOLF chair, white: /products/dining-chairs/19399820.txt
+- INGOLF chair, white: /products/dining-chairs/70103250.txt
+- INGOLF Chair, brown-black: /products/dining-chairs/60217822.txt
+- HAUGA chair, white: /products/dining-chairs/10576718.txt
+- HAUGA chair, gray: /products/dining-chairs/30576717.txt
+- HÄGERNÄS chair, black stained pine: /products/dining-chairs/00606626.txt
+- HÄGERNÄS chair, antique stain pine: /products/dining-chairs/50606624.txt
+- GRÖNSTA chair, indoor/outdoor white: /products/dining-chairs/70519763.txt
+- GRÖNSTA chair, indoor/outdoor gray-turquoise: /products/dining-chairs/70554577.txt
+- GRÖNSTA armchair, in/outdoor, white: /products/dining-chairs/90557886.txt
+- GRÖNSTA armchair, in/outdoor, gray-turquoise: /products/dining-chairs/20557875.txt
+- GENESÖN chair, metal/red: /products/dining-chairs/00565683.txt
+- GENESÖN chair, metal/blue: /products/dining-chairs/80567796.txt
+- BUSLÄTT chair, white/pine: /products/dining-chairs/90601139.txt
+- ÄLVSTA chair, handmade rattan/Sefast white: /products/dining-chairs/19481565.txt
+- ÄLVSTA chair, handmade rattan/Sefast chrome plated: /products/dining-chairs/59481568.txt
+- ÄLVSTA chair, handmade rattan/Sefast black: /products/dining-chairs/89481562.txt
+- ADDE Chair, white: /products/dining-chairs/10219178.txt
+- ADDE chair, black: /products/dining-chairs/90214285.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,257 @@
+# @CATEGORY
+Name: Sofas with chaise
+ProductCount: 235
+
+# @FILTERS
+PriceRange: $249.00 - $2549.00
+Materials: Armrest frame: Fiberboard, Solid wood, Plywood, Particleboard, Armrest frame: Particleboard, Solid wood, Polyurethane foam 1.2 lb/cu.ft., Polyurethane foam 1.5 lb/cu.ft., Laminated veneer lumber, Fiberboard, Armrest frame: Plywood, Solid pine, Polyurethane foam 1.5 lb/cu.ft., Particleboard, Fiberboard, Armrest: 100% polyester (min. 40% recycled), Paperboard (100% recycled), Laminated veneer lumber, Particleboard, Plywood, Polyurethane foam 1.5 lb/cu.ft., Fiberboard, Armrest: 100% polyester (min. 70% recycled), Plywood, Polyurethane foam 1.2 lb/cu.ft., 100% recycled solid cardboard, Fiberboard, Armrest: Particleboard, Plywood, Polyurethane foam 1.5 lb/cu.ft., Solid wood, Fiberboard, Back and seat frame: Fiberboard, Particleboard, Plywood, Solid wood, Back and seat frame: Fiberboard, Plywood, Particleboard, Solid wood, Polyurethane foam 1.2 lb/cu.ft., Back and seat frame: Fiberboard, Plywood, Solid wood, Particleboard, Back and seat frame: Particleboard, Plywood, Fiberboard, Solid wood, Polyurethane foam 1.2 lb/cu.ft.
+Brand: IKEA
+
+# @ITEMS
+- VITTSKÄR sofa with chaise, armrests outdoor/plastic rattan dark gray: /products/sofas-with-chaise/39591252.txt
+- VITTSKÄR sofa with chaise, armrests outdoor/plastic rattan dark gray Frösön/Duvholmen beige: /products/sofas-with-chaise/59619325.txt
+- VINLIDEN sofa with chaise, Hillared anthracite: /products/sofas-with-chaise/89304692.txt
+- VINLIDEN sofa with chaise, Hakebo light turquoise: /products/sofas-with-chaise/09304686.txt
+- VINLIDEN sofa with chaise, Hakebo dark gray: /products/sofas-with-chaise/39304680.txt
+- VINLIDEN sofa with chaise, Hakebo beige: /products/sofas-with-chaise/69304674.txt
+- UPPLAND sofa with chaise, Kilanda light beige: /products/sofas-with-chaise/69442492.txt
+- UPPLAND sofa with chaise, Kilanda dark blue: /products/sofas-with-chaise/09442490.txt
+- UPPLAND sofa with chaise, Kelinge rust: /products/sofas-with-chaise/89499977.txt
+- UPPLAND sofa with chaise, Kelinge gray-turquoise: /products/sofas-with-chaise/09499976.txt
+- UPPLAND sofa with chaise, Kelinge beige: /products/sofas-with-chaise/29499975.txt
+- UPPLAND sofa with chaise, Kelinge anthracite: /products/sofas-with-chaise/59499974.txt
+- UPPLAND sofa with chaise, Karlshov gray-beige: /products/sofas-with-chaise/29488627.txt
+- UPPLAND sofa with chaise, Hillared dark blue: /products/sofas-with-chaise/79499973.txt
+- UPPLAND sofa with chaise, Hillared beige: /products/sofas-with-chaise/99499972.txt
+- UPPLAND sofa with chaise, Hillared anthracite: /products/sofas-with-chaise/19499971.txt
+- UPPLAND sofa with chaise, Hakebo gray/green: /products/sofas-with-chaise/49442488.txt
+- UPPLAND sofa with chaise, Hakebo dark gray: /products/sofas-with-chaise/89442486.txt
+- UPPLAND sofa with chaise, Blekinge white: /products/sofas-with-chaise/79384118.txt
+- SÖDERHAMN sectional, 4-seat with chaise, with open end Gransel/natural: /products/sofas-with-chaise/29442154.txt
+- SÖDERHAMN sectional, 4-seat, with chaise/Viarp beige/brown: /products/sofas-with-chaise/59567581.txt
+- SÖDERHAMN sectional, 4-seat with chaise, Tonerud red: /products/sofas-with-chaise/29514645.txt
+- SÖDERHAMN sectional, 4-seat with chaise, Tonerud gray: /products/sofas-with-chaise/49502302.txt
+- SÖDERHAMN sectional, 4-seat with chaise, Tallmyra light green: /products/sofas-with-chaise/49499837.txt
+- SÖDERHAMN sectional, 4-seat with chaise, Tallmyra dark green: /products/sofas-with-chaise/69499836.txt
+- SÖDERHAMN sectional, 4-seat with chaise, Kelinge rust: /products/sofas-with-chaise/09529049.txt
+- SÖDERHAMN sectional, 4-seat with chaise, Kelinge gray-turquoise: /products/sofas-with-chaise/59529042.txt
+- SÖDERHAMN sectional, 4-seat, with chaise/Hillared dark blue: /products/sofas-with-chaise/49499757.txt
+- SÖDERHAMN sectional, 4-seat, with chaise/Hillared beige: /products/sofas-with-chaise/69499756.txt
+- SÖDERHAMN sectional, 4-seat with chaise, Gransel natural: /products/sofas-with-chaise/79502305.txt
+- SÖDERHAMN sectional, 4-seat with chaise, Gransel natural: /products/sofas-with-chaise/69502301.txt
+- SÖDERHAMN sectional, 4-seat with chaise, Fridtuna light beige: /products/sofas-with-chaise/29502299.txt
+- SÖDERHAMN sectional, 4-seat with chaise, Fridtuna dark gray: /products/sofas-with-chaise/49502298.txt
+- SÖDERHAMN sectional, 4-seat, with chaise and open end/Viarp beige/brown: /products/sofas-with-chaise/39305825.txt
+- SÖDERHAMN sectional, 4-seat with chaise, and open end Tonerud/red: /products/sofas-with-chaise/99514473.txt
+- SÖDERHAMN sectional, 4-seat with chaise, and open end Tonerud/gray: /products/sofas-with-chaise/49452118.txt
+- SÖDERHAMN sectional, 4-seat with chaise, and open end Kelinge/rust: /products/sofas-with-chaise/19514636.txt
+- SÖDERHAMN sectional, 4-seat with chaise, and open end/Fridtuna light beige: /products/sofas-with-chaise/29449706.txt
+- SÖDERHAMN sectional, 4-seat with chaise, and open end Fridtuna/dark gray: /products/sofas-with-chaise/19449636.txt
+- SÖDERHAMN sectional, 3 seat, Tonerud red: /products/sofas-with-chaise/49514456.txt
+- SÖDERHAMN sectional, 3 seat, Tonerud gray: /products/sofas-with-chaise/69452099.txt
+- SÖDERHAMN sectional, 3 seat, Tallmyra light green: /products/sofas-with-chaise/49580743.txt
+- SÖDERHAMN sectional, 3 seat, Tallmyra dark green: /products/sofas-with-chaise/29580744.txt
+- SÖDERHAMN sectional, 3 seat, Kelinge rust: /products/sofas-with-chaise/49514569.txt
+- SÖDERHAMN sectional, 3 seat, Kelinge gray-turquoise: /products/sofas-with-chaise/59514540.txt
+- SÖDERHAMN sectional, 3 seat, Hillared dark blue: /products/sofas-with-chaise/79580746.txt
+- SÖDERHAMN sectional, 3 seat, Hillared beige: /products/sofas-with-chaise/99580745.txt
+- SÖDERHAMN sectional, 3 seat, Gransel natural: /products/sofas-with-chaise/39442144.txt
+- SÖDERHAMN sectional, 3 seat, Fridtuna light beige: /products/sofas-with-chaise/29449688.txt
+- SÖDERHAMN sectional, 3 seat, Fridtuna dark gray: /products/sofas-with-chaise/59449620.txt
+- SÖDERHAMN loveseat, with chaise with armrest/Tallmyra light green: /products/sofas-with-chaise/09499844.txt
+- SÖDERHAMN loveseat, with chaise with armrest/Tallmyra dark green: /products/sofas-with-chaise/29499843.txt
+- SÖDERHAMN loveseat, with chaise with armrest/Hillared dark blue: /products/sofas-with-chaise/09499759.txt
+- SÖDERHAMN loveseat, with chaise with armrest/Hillared beige: /products/sofas-with-chaise/89499760.txt
+- SÖDERHAMN loveseat, with chaise/Viarp beige/brown: /products/sofas-with-chaise/89305757.txt
+- SMEDSTORP sofa with chaise, Viarp/beige/brown oak: /products/sofas-with-chaise/79442444.txt
+- SMEDSTORP sofa with chaise, Viarp beige/brown/black: /products/sofas-with-chaise/99442443.txt
+- SMEDSTORP sofa with chaise, Lejde/red/brown oak: /products/sofas-with-chaise/19442442.txt
+- SMEDSTORP sofa with chaise, Lejde red/brown/black: /products/sofas-with-chaise/39442441.txt
+- SMEDSTORP sectional, 4-seat with chaise, Viarp/beige/brown oak: /products/sofas-with-chaise/59478349.txt
+- SMEDSTORP sectional, 4-seat with chaise, Viarp beige/brown/black: /products/sofas-with-chaise/19478346.txt
+- SMEDSTORP sectional, 4-seat with chaise, Lejde/red/brown oak: /products/sofas-with-chaise/89478343.txt
+- SMEDSTORP sectional, 4-seat with chaise, Lejde red/brown/black: /products/sofas-with-chaise/49478340.txt
+- SLATORP sofa with chaise, Vissle yellow-green: /products/sofas-with-chaise/39577595.txt
+- SLATORP sofa with chaise, Hakebo yellow-brown: /products/sofas-with-chaise/39577581.txt
+- SLATORP sofa with chaise, Hakebo dark gray: /products/sofas-with-chaise/19577577.txt
+- SLATORP sectional, 4-seat with chaise, Vissle yellow-green: /products/sofas-with-chaise/29577614.txt
+- SLATORP sectional, 4-seat with chaise, Hakebo yellow-brown: /products/sofas-with-chaise/89577606.txt
+- SLATORP sectional 4-seat with chaise, Hakebo dark gray: /products/sofas-with-chaise/39577604.txt
+- PÄRUP sofa with chaise, Vissle yellow-brown: /products/sofas-with-chaise/09514284.txt
+- PÄRUP sofa with chaise, Vissle gray: /products/sofas-with-chaise/79389842.txt
+- PÄRUP sofa with chaise, Gunnared dark gray: /products/sofas-with-chaise/29389830.txt
+- PÄRUP sofa with chaise, Gunnared beige: /products/sofas-with-chaise/59389838.txt
+- MORABO sofa with chaise, Gunnared light green/wood: /products/sofas-with-chaise/89575886.txt
+- MORABO sofa, with chaise/Gunnared light green/wood: /products/sofas-with-chaise/69318341.txt
+- MORABO sofa, with chaise/Gunnared light green/metal: /products/sofas-with-chaise/89318340.txt
+- MORABO sofa with chaise, Gunnared light green/metal: /products/sofas-with-chaise/09575885.txt
+- MORABO sofa, with chaise/Gunnared dark gray/wood: /products/sofas-with-chaise/49318323.txt
+- MORABO sofa with chaise, Gunnared dark gray/wood: /products/sofas-with-chaise/39575884.txt
+- MORABO sofa, with chaise/Gunnared dark gray/metal: /products/sofas-with-chaise/69318322.txt
+- MORABO sofa with chaise, Gunnared dark gray/metal: /products/sofas-with-chaise/59575883.txt
+- MORABO sofa with chaise, Grann/Bomstad gray-green/wood: /products/sofas-with-chaise/79575882.txt
+- MORABO sofa, with chaise/Grann/Bomstad gray-green/wood: /products/sofas-with-chaise/49317861.txt
+- MORABO sofa with chaise, Grann/Bomstad gray-green/metal: /products/sofas-with-chaise/99575881.txt
+- MORABO sofa, with chaise/Grann/Bomstad gray-green/metal: /products/sofas-with-chaise/69317860.txt
+- MORABO sofa, with chaise/Grann/Bomstad golden brown/wood: /products/sofas-with-chaise/89317760.txt
+- MORABO sofa with chaise, Grann/Bomstad golden brown/wood: /products/sofas-with-chaise/19575880.txt
+- MORABO sofa with chaise, Grann/Bomstad golden brown/metal: /products/sofas-with-chaise/39575879.txt
+- MORABO sofa, with chaise/Grann/Bomstad golden brown/metal: /products/sofas-with-chaise/09317759.txt
+- MORABO sofa, with chaise/Grann/Bomstad black/wood: /products/sofas-with-chaise/89316609.txt
+- MORABO sofa with chaise, Grann/Bomstad black/wood: /products/sofas-with-chaise/59575878.txt
+- MORABO sofa with chaise, Grann/Bomstad black/metal: /products/sofas-with-chaise/79575877.txt
+- MORABO sofa, with chaise/Grann/Bomstad black/metal: /products/sofas-with-chaise/09316608.txt
+- MORABO sofa with chaise, Djuparp dark blue/wood: /products/sofas-with-chaise/99575876.txt
+- MORABO sofa, with chaise/Djuparp dark blue/wood: /products/sofas-with-chaise/79416510.txt
+- MORABO sofa, with chaise/Djuparp dark blue/metal: /products/sofas-with-chaise/99416509.txt
+- MORABO sofa with chaise, Djuparp dark blue/metal: /products/sofas-with-chaise/19575875.txt
+- MORABO sectional 4-seat with chaise, Gunnared light green/wood: /products/sofas-with-chaise/09554326.txt
+- MORABO sectional 4-seat with chaise, Gunnared light green/metal: /products/sofas-with-chaise/29554325.txt
+- MORABO sectional 4-seat with chaise, Gunnared dark gray/wood: /products/sofas-with-chaise/59554324.txt
+- MORABO sectional, 4-seat with chaise, Gunnared dark gray/wood: /products/sofas-with-chaise/39575898.txt
+- MORABO sectional 4-seat with chaise, Gunnared dark gray/metal: /products/sofas-with-chaise/79554323.txt
+- MORABO sectional, 4-seat with chaise, Gunnared dark gray/metal: /products/sofas-with-chaise/59575897.txt
+- MORABO sectional 4-seat with chaise, Grann/Bomstad gray-green/wood: /products/sofas-with-chaise/99554317.txt
+- MORABO sectional, 4-seat with chaise, Grann/Bomstad gray-green/wood: /products/sofas-with-chaise/79575896.txt
+- MORABO sectional, 4-seat with chaise, Grann/Bomstad gray-green/metal: /products/sofas-with-chaise/99575895.txt
+- MORABO sectional 4-seat with chaise, Grann/Bomstad gray-green/metal: /products/sofas-with-chaise/19554316.txt
+- MORABO sectional 4-seat with chaise, Grann/Bomstad golden brown/wood: /products/sofas-with-chaise/39554315.txt
+- MORABO sectional, 4-seat with chaise, Grann/Bomstad golden brown/wood: /products/sofas-with-chaise/29575894.txt
+- MORABO sectional 4-seat with chaise, Grann/Bomstad golden brown/metal: /products/sofas-with-chaise/69554314.txt
+- MORABO sectional, 4-seat with chaise, Grann/Bomstad golden brown/metal: /products/sofas-with-chaise/49575893.txt
+- MORABO sectional, 4-seat with chaise, Grann/Bomstad black/wood: /products/sofas-with-chaise/69575892.txt
+- MORABO sectional 4-seat with chaise, Grann/Bomstad black/wood: /products/sofas-with-chaise/49554310.txt
+- MORABO sectional, 4-seat with chaise, Grann/Bomstad black/metal: /products/sofas-with-chaise/89575891.txt
+- MORABO sectional 4-seat with chaise, Grann/Bomstad black/metal: /products/sofas-with-chaise/29554311.txt
+- MORABO sectional, 4-seat with chaise, Djuparp dark blue/wood: /products/sofas-with-chaise/49575888.txt
+- MORABO sectional 4-seat with chaise, Djuparp dark blue/wood: /products/sofas-with-chaise/29554306.txt
+- MORABO sectional, 4-seat with chaise, Djuparp dark blue/metal: /products/sofas-with-chaise/69575887.txt
+- MORABO sectional 4-seat with chaise, Djuparp dark blue/metal: /products/sofas-with-chaise/49554305.txt
+- MORABO sectional, 4-seat, Gunnared light green/wood: /products/sofas-with-chaise/59575901.txt
+- MORABO sectional, 4-seat, Gunnared light green/metal: /products/sofas-with-chaise/19575899.txt
+- MORABO 5-seat sofa with chaises, Gunnared light green/wood: /products/sofas-with-chaise/79442397.txt
+- MORABO 5-seat sofa with chaises, Gunnared light green/metal: /products/sofas-with-chaise/49442389.txt
+- MORABO 5-seat sofa with chaises, Gunnared dark gray/wood: /products/sofas-with-chaise/79442383.txt
+- MORABO 5-seat sofa with chaises, Gunnared dark gray/metal: /products/sofas-with-chaise/39442380.txt
+- MORABO 5-seat sofa with chaises, Grann/Bomstad gray-green/wood: /products/sofas-with-chaise/69442393.txt
+- MORABO 5-seat sofa with chaises, Grann/Bomstad gray-green/metal: /products/sofas-with-chaise/29442385.txt
+- MORABO 5-seat sofa with chaises, Grann/Bomstad golden brown/wood: /products/sofas-with-chaise/69442388.txt
+- MORABO 5-seat sofa with chaises, Grann/Bomstad golden brown/metal: /products/sofas-with-chaise/19442395.txt
+- MORABO 5-seat sofa with chaises, Grann/Bomstad black/wood: /products/sofas-with-chaise/59442379.txt
+- MORABO 5-seat sofa with chaises, Grann/Bomstad black/metal: /products/sofas-with-chaise/99442396.txt
+- MORABO 5-seat sofa with chaises, Djuparp dark blue/wood: /products/sofas-with-chaise/49442394.txt
+- MORABO 5-seat sofa with chaises, Djuparp dark blue/metal: /products/sofas-with-chaise/09442386.txt
+- LINANÄS sofa, with chaise/Vissle dark gray: /products/sofas-with-chaise/70512243.txt
+- LINANÄS sofa, with chaise/Vissle beige: /products/sofas-with-chaise/60512234.txt
+- LÅNGARYD sofa w chaise, right, Lejde light gray/wood: /products/sofas-with-chaise/79506054.txt
+- LÅNGARYD sofa w chaise, right, Lejde/light gray metal: /products/sofas-with-chaise/49506055.txt
+- LÅNGARYD sofa w chaise, right, Lejde gray/black/wood: /products/sofas-with-chaise/99506053.txt
+- LÅNGARYD sofa w chaise, right, Lejde gray/black/metal: /products/sofas-with-chaise/19506052.txt
+- LÅNGARYD sofa w chaise, left, Lejde light gray/wood: /products/sofas-with-chaise/79506049.txt
+- LÅNGARYD sofa w chaise, left, Lejde/light gray metal: /products/sofas-with-chaise/39506051.txt
+- LÅNGARYD sofa w chaise, left, Lejde gray/black/wood: /products/sofas-with-chaise/99506048.txt
+- LÅNGARYD sofa w chaise, left, Lejde gray/black/metal: /products/sofas-with-chaise/19506047.txt
+- KIVIK sofa with chaise, Tresund light beige: /products/sofas-with-chaise/29482847.txt
+- KIVIK sofa with chaise, Tresund anthracite: /products/sofas-with-chaise/09482848.txt
+- KIVIK sofa with chaise, Tibbleby beige/gray: /products/sofas-with-chaise/79440586.txt
+- KIVIK sofa with chaise, Tallmyra white/black: /products/sofas-with-chaise/39499692.txt
+- KIVIK sofa with chaise, Tallmyra light green: /products/sofas-with-chaise/99499694.txt
+- KIVIK sofa with chaise, Tallmyra dark green: /products/sofas-with-chaise/69499695.txt
+- KIVIK sofa with chaise, Tallmyra blue: /products/sofas-with-chaise/49499696.txt
+- KIVIK sofa with chaise, Kelinge gray-turquoise: /products/sofas-with-chaise/49443058.txt
+- KIVIK sofa with chaise, Gunnared medium gray: /products/sofas-with-chaise/09499698.txt
+- KIVIK sofa with chaise, Gunnared light green: /products/sofas-with-chaise/49499700.txt
+- KIVIK sofa with chaise, Gunnared light brown-pink: /products/sofas-with-chaise/89499699.txt
+- KIVIK sofa with chaise, Gunnared blue: /products/sofas-with-chaise/29499701.txt
+- KIVIK sofa with chaise, Gunnared beige: /products/sofas-with-chaise/09499702.txt
+- KIVIK sofa, with chaise/Grann/Bomstad black: /products/sofas-with-chaise/39443186.txt
+- KIVIK sectional, 4-seat with chaise, Tresund light beige: /products/sofas-with-chaise/79494391.txt
+- KIVIK sectional, 4-seat with chaise, Tresund anthracite: /products/sofas-with-chaise/69494382.txt
+- KIVIK sectional, 4-seat with chaise, Tibbleby beige/gray: /products/sofas-with-chaise/89440581.txt
+- KIVIK sectional, 4-seat with chaise, Tallmyra white/black: /products/sofas-with-chaise/49499724.txt
+- KIVIK sectional, 4-seat with chaise, Tallmyra light green: /products/sofas-with-chaise/89499722.txt
+- KIVIK sectional, 4-seat with chaise, Tallmyra dark green: /products/sofas-with-chaise/09499721.txt
+- KIVIK sectional, 4-seat with chaise, Tallmyra blue: /products/sofas-with-chaise/29499720.txt
+- KIVIK sectional, 4-seat with chaise, Kelinge gray-turquoise: /products/sofas-with-chaise/49443063.txt
+- KIVIK sectional, 4-seat with chaise, Gunnared medium gray: /products/sofas-with-chaise/69499718.txt
+- KIVIK sectional, 4-seat with chaise, Gunnared light green: /products/sofas-with-chaise/89499717.txt
+- KIVIK sectional, 4-seat with chaise, Gunnared light brown-pink: /products/sofas-with-chaise/09499716.txt
+- KIVIK sectional, 4-seat with chaise, Gunnared blue: /products/sofas-with-chaise/29499715.txt
+- KIVIK sectional, 4-seat with chaise, Gunnared beige: /products/sofas-with-chaise/59499714.txt
+- KIVIK sectional, 4-seat, with chaise/Grann/Bomstad black: /products/sofas-with-chaise/99443193.txt
+- HYLTARP sofa w chaise, right, Tallmyra white/black: /products/sofas-with-chaise/59515002.txt
+- HYLTARP sofa w chaise, right, Tallmyra dark green: /products/sofas-with-chaise/99514996.txt
+- HYLTARP sofa w chaise, right, Tallmyra blue: /products/sofas-with-chaise/09514991.txt
+- HYLTARP sofa w chaise, right, Kilanda pale blue: /products/sofas-with-chaise/69495843.txt
+- HYLTARP sofa w chaise, right, Hemmesta light beige: /products/sofas-with-chaise/39514980.txt
+- HYLTARP sofa w chaise, right, Hemmesta gray-green: /products/sofas-with-chaise/69514974.txt
+- HYLTARP sofa w chaise, right, Hallarp white: /products/sofas-with-chaise/89495837.txt
+- HYLTARP sofa w chaise, right, Gransel natural: /products/sofas-with-chaise/19495831.txt
+- HYLTARP sofa w chaise, right, Gransel gray: /products/sofas-with-chaise/89514968.txt
+- HYLTARP sofa w chaise, right, Gransel gray-brown: /products/sofas-with-chaise/39495825.txt
+- HYLTARP sofa w chaise, left, Tallmyra white/black: /products/sofas-with-chaise/69515030.txt
+- HYLTARP sofa w chaise, left, Tallmyra dark green: /products/sofas-with-chaise/99515024.txt
+- HYLTARP sofa w chaise, left, Tallmyra blue: /products/sofas-with-chaise/19515018.txt
+- HYLTARP sofa w chaise, left, Kilanda pale blue: /products/sofas-with-chaise/09489703.txt
+- HYLTARP sofa w chaise, left, Hemmesta light beige: /products/sofas-with-chaise/29515013.txt
+- HYLTARP sofa w chaise, left, Hemmesta gray-green: /products/sofas-with-chaise/49515007.txt
+- HYLTARP sofa w chaise, left, Hallarp white: /products/sofas-with-chaise/49489697.txt
+- HYLTARP sofa w chaise, left, Gransel natural: /products/sofas-with-chaise/79489691.txt
+- HYLTARP sofa w chaise, left, Gransel gray: /products/sofas-with-chaise/99514963.txt
+- HYLTARP sofa w chaise, left, Gransel gray-brown: /products/sofas-with-chaise/99489685.txt
+- GLOSTAD sofa with chaise, Knisa dark gray: /products/sofas-with-chaise/69578602.txt
+- FINNALA sofa with chaise, with headrest/Tallmyra black/gray: /products/sofas-with-chaise/29575733.txt
+- FINNALA sofa with chaise, with headrest/Gunnared medium gray: /products/sofas-with-chaise/89575725.txt
+- FINNALA sofa with chaise, with headrest/Gunnared beige: /products/sofas-with-chaise/39575723.txt
+- FINNALA sofa, with chaise with headrest/Gunnared beige: /products/sofas-with-chaise/09336121.txt
+- FINNALA sofa, with chaise with headrest/Grann/Bomstad golden brown: /products/sofas-with-chaise/99336131.txt
+- FINNALA sofa with chaise, with headrest/Grann/Bomstad golden brown: /products/sofas-with-chaise/79575721.txt
+- FINNALA sofa with chaise, with headrest/Grann/Bomstad black: /products/sofas-with-chaise/99575720.txt
+- FINNALA sofa, with chaise with headrest/Grann/Bomstad black: /products/sofas-with-chaise/19336130.txt
+- FINNALA sofa with chaise, Tallmyra black/gray: /products/sofas-with-chaise/99575701.txt
+- FINNALA sofa, with chaise/Tallmyra black/gray: /products/sofas-with-chaise/09319107.txt
+- FINNALA sofa, with chaise/Gunnared medium gray: /products/sofas-with-chaise/39319101.txt
+- FINNALA sofa with chaise, Gunnared medium gray: /products/sofas-with-chaise/09575705.txt
+- FINNALA sofa, with chaise/Gunnared beige: /products/sofas-with-chaise/99319099.txt
+- FINNALA sofa with chaise, Gunnared beige: /products/sofas-with-chaise/59575703.txt
+- FINNALA sofa with chaise, Grann/Bomstad golden brown: /products/sofas-with-chaise/79575735.txt
+- FINNALA sofa, with chaise/Grann/Bomstad golden brown: /products/sofas-with-chaise/69319109.txt
+- FINNALA sofa, with chaise/Grann/Bomstad black: /products/sofas-with-chaise/89319108.txt
+- FINNALA sofa with chaise, Grann/Bomstad black: /products/sofas-with-chaise/09575734.txt
+- FINNALA sectional, 4-seat, with chaise/Tallmyra black/gray: /products/sofas-with-chaise/79319222.txt
+- FINNALA sectional, 4-seat with chaise, Tallmyra black/gray: /products/sofas-with-chaise/49575713.txt
+- FINNALA sectional, 4-seat, with chaise/Gunnared medium gray: /products/sofas-with-chaise/99319216.txt
+- FINNALA sectional, 4-seat with chaise, Gunnared medium gray: /products/sofas-with-chaise/59575717.txt
+- FINNALA sectional, 4-seat with chaise, Gunnared beige: /products/sofas-with-chaise/99575715.txt
+- FINNALA sectional, 4-seat, with chaise/Gunnared beige: /products/sofas-with-chaise/49319214.txt
+- FINNALA sectional, 4-seat with chaise, Grann/Bomstad golden brown: /products/sofas-with-chaise/39575737.txt
+- FINNALA sectional, 4-seat, with chaise/Grann/Bomstad golden brown: /products/sofas-with-chaise/39319224.txt
+- FINNALA sectional, 4-seat with chaise, Grann/Bomstad black: /products/sofas-with-chaise/59575736.txt
+- FINNALA sectional, 4-seat, with chaise/Grann/Bomstad black: /products/sofas-with-chaise/59319223.txt
+- BACKSÄLEN sofa with chaise, Katorp natural: /products/sofas-with-chaise/29393196.txt
+- BACKSÄLEN sofa with chaise, Hallarp gray: /products/sofas-with-chaise/39393191.txt
+- BACKSÄLEN sofa with chaise, Blekinge white: /products/sofas-with-chaise/59393185.txt
+- ÄPPLARYD sofa with chaise, Lejde light gray: /products/sofas-with-chaise/99418042.txt
+- ÄPPLARYD sofa with chaise, Lejde gray/black: /products/sofas-with-chaise/79418062.txt
+- ÄPPLARYD sofa with chaise, Gunnared light blue: /products/sofas-with-chaise/49528175.txt
+- ÄPPLARYD sofa with chaise, Gunnared black/gray: /products/sofas-with-chaise/39528171.txt
+- ÄPPLARYD sofa with chaise, Djuparp red/brown: /products/sofas-with-chaise/29418069.txt
+- ÄPPLARYD sofa with chaise, Djuparp dark blue: /products/sofas-with-chaise/19418041.txt
+- ÄPPLARYD sectional, 4-seat with chaise, Lejde light gray: /products/sofas-with-chaise/59429537.txt
+- ÄPPLARYD sectional, 4-seat with chaise, Lejde gray/black: /products/sofas-with-chaise/69429532.txt
+- ÄPPLARYD sectional, 4-seat with chaise, Gunnared light blue: /products/sofas-with-chaise/89528183.txt
+- ÄPPLARYD sectional, 4-seat with chaise, Gunnared black/gray: /products/sofas-with-chaise/89528178.txt
+- ÄPPLARYD sectional, 4-seat with chaise, Djuparp red/brown: /products/sofas-with-chaise/99429521.txt
+- ÄPPLARYD sectional, 4-seat with chaise, Djuparp dark blue: /products/sofas-with-chaise/09429530.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

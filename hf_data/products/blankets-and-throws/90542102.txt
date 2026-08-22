@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: DYTÅG throw, light brown
+SKU: 90542102
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/dytag-throw-light-brown-90542102/
+Category: Blankets & throws
+Description: , 51x67" Lovely and laid back – the soft linen/cotton blend in light brown creates a relaxed, casual look that only gets better with each wash. Pairs up perfectly with other textiles in the DYTÅG seri...
+
+# @OFFER
+Price: 39.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 87 % linen, 13 % cotton
+Care: Shrinkage maximum 4%. | Machine wash, warm, durable-press cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/dytag-throw-light-brown__1157593_pe887784_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

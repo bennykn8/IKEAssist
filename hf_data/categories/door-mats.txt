@@ -1,0 +1,60 @@
+# @CATEGORY
+Name: Door mats
+ProductCount: 38
+
+# @FILTERS
+PriceRange: $1.99 - $69.99
+Materials: Back fabric: 100 % cotton, Backing: 100 % Hot melt glue, Backing: 100 % Synthetic rubber, Backing: Latex, Backing: Natural latex, Backing: Natural rubber, Backing: Synthetic latex, Backing: Synthetic rubber, Pile: 100 % polypropylene, Pile: 99.5 % coir, 0.5 % polyethylene
+Brand: IKEA
+
+# @ITEMS
+- VATTENVERK door mat, indoor, dark gray: /products/door-mats/40517020.txt
+- VATTENVERK door mat, indoor, dark gray: /products/door-mats/00517017.txt
+- VÄNDPLATS door mat, multicolor/stripe: /products/door-mats/00600950.txt
+- VÄGTYP door mat, cat black/natural: /products/door-mats/50582538.txt
+- VÄGSKYLT door mat, pink/orange: /products/door-mats/80582532.txt
+- VÄGSKYLT door mat, blue-green/black: /products/door-mats/60587045.txt
+- VÄGKURVA door mat, indoor, multicolor/floral pattern: /products/door-mats/80592121.txt
+- TUNNELBANA door mat, light green: /products/door-mats/60578296.txt
+- TRIABO door mat, natural: /products/door-mats/50210128.txt
+- TRAMPA door mat, natural: /products/door-mats/40399045.txt
+- TRAMPA door mat, natural: /products/door-mats/20052187.txt
+- TIOKRONA door mat, natural: /products/door-mats/90590145.txt
+- TÅGFORDON door mat, black/dot pattern: /products/door-mats/70607057.txt
+- STAVREBY door mat, handmade/natural: /products/door-mats/10580777.txt
+- SPÅRDJUP door mat, indoor, multicolor/stripe: /products/door-mats/20591964.txt
+- SINDAL door mat, natural: /products/door-mats/80047635.txt
+- SEKRETESS door mat, multicolor: /products/door-mats/40589861.txt
+- POSTKONTOR door mat, indoor, green: /products/door-mats/10561788.txt
+- PILLEMARK door mat, indoor, rainbow: /products/door-mats/60466246.txt
+- OPLEV door mat, indoor/outdoor gray: /products/door-mats/30308994.txt
+- OKSBY door mat, gray: /products/door-mats/90377705.txt
+- ÖSTERILD door mat, indoor, dark gray: /products/door-mats/30495207.txt
+- LYNDERUP door mat, indoor/outdoor multicolor: /products/door-mats/30382776.txt
+- LOHALS door mat, indoor, natural: /products/door-mats/00556160.txt
+- LANDBANA door mat, dark blue: /products/door-mats/60556157.txt
+- KUSTFYR door mat, ghost pattern black/natural: /products/door-mats/40599563.txt
+- KUSTFYR door mat, cat pattern black/natural: /products/door-mats/80599561.txt
+- KONTANTER door mat, coir/natural style: /products/door-mats/90606655.txt
+- KÖRFÄLTSPIL door mat, pink orange/circle pattern: /products/door-mats/20598084.txt
+- KÖRFÄLTSPIL door mat, blue green/circle pattern: /products/door-mats/20598079.txt
+- KÖGE door mat, gray/black: /products/door-mats/40296603.txt
+- KÖGE door mat, gray/black: /products/door-mats/30287939.txt
+- KLAMPENBORG door mat, indoor, brown: /products/door-mats/00500111.txt
+- IDROTTSPLATS door mat, blue: /products/door-mats/60569254.txt
+- HALLSPÅR door mat, watermelon: /products/door-mats/90607056.txt
+- FRIKTION door mat, gray: /products/door-mats/30582855.txt
+- ARBETSTÅG door mat, dog: /products/door-mats/40607054.txt
+- ABILDÅ door mat, multicolor/triangle pattern: /products/door-mats/70570469.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

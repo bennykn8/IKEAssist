@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: SNÖPLOG basket, set of 3, bamboo
+SKU: 70581849
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/snoeplog-basket-set-of-3-bamboo-70581849/
+Category: Baskets
+Description: Let nature organize your things. This set made of bamboo comprises of a large basket and 2 crescent-shaped baskets – use them individually or place them together as they spread a warm feeling in your ...
+
+# @OFFER
+Price: 22.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Bamboo, Clear acrylic lacquer, Top frame: Bamboo, Stain, Clear acrylic lacquer, Binding: Rattan, Clear acrylic lacquer
+Dimensions: Comprises: 1 large basket (dia. 11¾ in/height 4¾ in) and 2 crescent-shaped baskets (dia. 10⅝ in/height 3⅜ in).
+Features: Bamboo is a natural fiber that might change color over time. | The baskets are handwoven and may vary slightly in size. | The basket is not approved for food contact, but of course you can use it for storing other things in the kitchen.
+Care: Dry with a cloth. Do not use pressure washers which may damage the bamboo. | Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/snoeplog-basket-set-of-3-bamboo__1263391_pe927291_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

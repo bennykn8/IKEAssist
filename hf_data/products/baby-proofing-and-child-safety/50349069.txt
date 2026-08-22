@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: UNDVIKA Multi latch, white
+SKU: 50349069
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/undvika-multi-latch-white-50349069/
+Category: Baby proofing & child safety
+Description: . Use this multi-latch to lock drawers, fridges and doors – anything that could seem inviting to open for small, curious children. You simply fix it around the edge of the door or drawer you want to l...
+
+# @OFFER
+Price: 4.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Hinge/ Strap: Polyamide, Metal parts: Steel, Tape: Polyethylene foam, Synthetic rubber
+Features: Easy to attach with tape to smooth bases. To be attached with screws on uneven bases. | Can be mounted on different kinds of material, e.g. metal, plastic, glass, wood. | The device should not be fixed to adjacent cabinet doors, drawers or oven doors – only around the edge of the door, drawer or oven door that you want to lock.
+Care: Wipe clean with a mild soapy solution. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/undvika-multi-latch-white__0660459_pe711055_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

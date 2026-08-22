@@ -1,0 +1,29 @@
+# @CATEGORY
+Name: JONAXEL combinations
+ProductCount: 7
+
+# @FILTERS
+PriceRange: $29.99 - $69.99
+Materials: Frame: Steel, Epoxy/polyester powder coating, Frame: Steel, Steel, Epoxy/polyester powder coating, Rail: Steel, Steel, Epoxy/polyester powder coating, Steel, Steel, Epoxy/polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- JONAXEL storage combination, white: /products/jonaxel-combinations/99297144.txt
+- JONAXEL storage combination, white: /products/jonaxel-combinations/89297130.txt
+- JONAXEL storage combination, white: /products/jonaxel-combinations/79305098.txt
+- JONAXEL storage combination, white: /products/jonaxel-combinations/59297141.txt
+- JONAXEL storage combination, white: /products/jonaxel-combinations/19297138.txt
+- JONAXEL storage combination, white: /products/jonaxel-combinations/09297488.txt
+- JONAXEL storage combination, white: /products/jonaxel-combinations/09297134.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

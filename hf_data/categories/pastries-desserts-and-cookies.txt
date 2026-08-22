@@ -1,0 +1,39 @@
+# @CATEGORY
+Name: Pastries, desserts & cookies
+ProductCount: 18
+
+# @FILTERS
+PriceRange: $1.99 - $9.99
+Brand: IKEA
+
+# @ITEMS
+- KAFFEREP oatmeal cookies, with chocolate Rainforest Alliance Certified, 1 lb: /products/pastries-desserts-and-cookies/30531795.txt
+- KAFFEREP oat biscuits, sugar-free: /products/pastries-desserts-and-cookies/90374919.txt
+- KAFFEREP gooey cocoa and chocolate cake, frozen Rainforest Alliance Certified, 1 lb: /products/pastries-desserts-and-cookies/20588706.txt
+- KAFFEREP ginger thins with almonds: /products/pastries-desserts-and-cookies/20374908.txt
+- KAFFEREP ginger thins: /products/pastries-desserts-and-cookies/20374927.txt
+- KAFFEREP cream cake with almond paste, frozen, 11 oz: /products/pastries-desserts-and-cookies/20573088.txt
+- KAFFEREP cookies with almonds: /products/pastries-desserts-and-cookies/00384729.txt
+- KAFFEREP cookie, with chocolate-flavored filling Rainforest Alliance Certified, 6 oz: /products/pastries-desserts-and-cookies/50532478.txt
+- KAFFEREP cinnamon bun, frozen, 1 lb2 oz: /products/pastries-desserts-and-cookies/50544283.txt
+- KAFFEREP biscuits, with raspberry-flavored filling, 6 oz: /products/pastries-desserts-and-cookies/10374923.txt
+- KAFFEREP biscuits, letter-shaped, 6 oz: /products/pastries-desserts-and-cookies/50555870.txt
+- GIFFLAR KANEL cinnamon roll, frozen, 9 oz: /products/pastries-desserts-and-cookies/60544471.txt
+- FRÖDINGE strawberry cake, 1 lb2 oz: /products/pastries-desserts-and-cookies/30607002.txt
+- FRÖDINGE blueberry crumble, frozen, 14 oz: /products/pastries-desserts-and-cookies/00584417.txt
+- DAIM almond cake chocolate and crunch, frozen, 14 oz: /products/pastries-desserts-and-cookies/00574395.txt
+- BJÄLLRA oat cookies, 1 lb5 oz: /products/pastries-desserts-and-cookies/90609753.txt
+- ALMONDY almond cake, salted caramel peanut/frozen, 15 oz: /products/pastries-desserts-and-cookies/10584228.txt
+- ALMONDY almond cake, frozen, 14 oz: /products/pastries-desserts-and-cookies/90574391.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

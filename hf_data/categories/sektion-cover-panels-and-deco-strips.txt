@@ -1,0 +1,234 @@
+# @CATEGORY
+Name: SEKTION Cover panels & deco strips
+ProductCount: 212
+
+# @FILTERS
+PriceRange: $6.00 - $393.00
+Materials: ABS plastic, Back side: Melamine foil, Paper foil, Back side: Plastic foil, Backside: Birch veneer, Stain, Clear acrylic lacquer, Backside: Plastic foil, Clip/ Connector: Polypropylene, Edge: Bamboo, Stain, Clear acrylic lacquer, Edge: Plastic edging, Edge: Plastic edging (min. 50% recycled), Edge: Plastic edging, Plastic edging
+Brand: IKEA
+
+# @ITEMS
+- VOXTORP rounded deco strip, high gloss dark gray-brown: /products/sektion-cover-panels-and-deco-strips/50581751.txt
+- VOXTORP cover panel, high gloss dark gray-brown: /products/sektion-cover-panels-and-deco-strips/80601724.txt
+- VOXTORP cover panel, high gloss dark gray-brown: /products/sektion-cover-panels-and-deco-strips/60601720.txt
+- VOXTORP cover panel, high gloss dark gray-brown: /products/sektion-cover-panels-and-deco-strips/50601725.txt
+- VOXTORP cover panel, high gloss dark gray-brown: /products/sektion-cover-panels-and-deco-strips/40601721.txt
+- VOXTORP cover panel, high gloss dark gray-brown: /products/sektion-cover-panels-and-deco-strips/30601726.txt
+- VOXTORP cover panel, high gloss dark gray-brown: /products/sektion-cover-panels-and-deco-strips/20601722.txt
+- VOXTORP cover panel, high gloss dark gray-brown: /products/sektion-cover-panels-and-deco-strips/10601727.txt
+- VOXTORP cover panel, high gloss dark gray-brown: /products/sektion-cover-panels-and-deco-strips/00601723.txt
+- VEDHAMN deco strip, oak: /products/sektion-cover-panels-and-deco-strips/20500370.txt
+- VEDHAMN cover panel, oak: /products/sektion-cover-panels-and-deco-strips/80505138.txt
+- VEDHAMN cover panel, oak: /products/sektion-cover-panels-and-deco-strips/60505144.txt
+- VEDHAMN cover panel, oak: /products/sektion-cover-panels-and-deco-strips/60505139.txt
+- VEDHAMN cover panel, oak: /products/sektion-cover-panels-and-deco-strips/40505140.txt
+- VEDHAMN cover panel, oak: /products/sektion-cover-panels-and-deco-strips/30505145.txt
+- VEDHAMN cover panel, oak: /products/sektion-cover-panels-and-deco-strips/20505141.txt
+- VEDHAMN cover panel, oak: /products/sektion-cover-panels-and-deco-strips/10505146.txt
+- VEDHAMN cover panel, oak: /products/sektion-cover-panels-and-deco-strips/00505142.txt
+- VALLSTENA cover panel, white: /products/sektion-cover-panels-and-deco-strips/90596581.txt
+- VALLSTENA cover panel, white: /products/sektion-cover-panels-and-deco-strips/70596582.txt
+- VALLSTENA cover panel, white: /products/sektion-cover-panels-and-deco-strips/50596583.txt
+- VALLSTENA cover panel, white: /products/sektion-cover-panels-and-deco-strips/50596578.txt
+- VALLSTENA cover panel, white: /products/sektion-cover-panels-and-deco-strips/30596584.txt
+- VALLSTENA cover panel, white: /products/sektion-cover-panels-and-deco-strips/30596579.txt
+- VALLSTENA cover panel, white: /products/sektion-cover-panels-and-deco-strips/10596580.txt
+- STENSUND cover panel, beige: /products/sektion-cover-panels-and-deco-strips/20453260.txt
+- STENSUND cover panel, beige: /products/sektion-cover-panels-and-deco-strips/00453261.txt
+- STENSUND contoured deco strip, beige: /products/sektion-cover-panels-and-deco-strips/30453170.txt
+- STENSTA cover panel, dark brown ash veneer: /products/sektion-cover-panels-and-deco-strips/50560961.txt
+- STENSTA cover panel, dark brown ash veneer: /products/sektion-cover-panels-and-deco-strips/30560962.txt
+- SINARP rounded deco strip, brown: /products/sektion-cover-panels-and-deco-strips/10404147.txt
+- SINARP cover panel, brown: /products/sektion-cover-panels-and-deco-strips/90404676.txt
+- SINARP cover panel, brown: /products/sektion-cover-panels-and-deco-strips/70404677.txt
+- SINARP cover panel, brown: /products/sektion-cover-panels-and-deco-strips/60404673.txt
+- SINARP cover panel, brown: /products/sektion-cover-panels-and-deco-strips/50404678.txt
+- SINARP cover panel, brown: /products/sektion-cover-panels-and-deco-strips/40404674.txt
+- SINARP cover panel, brown: /products/sektion-cover-panels-and-deco-strips/30404679.txt
+- SINARP cover panel, brown: /products/sektion-cover-panels-and-deco-strips/10404680.txt
+- SINARP cover panel, brown: /products/sektion-cover-panels-and-deco-strips/10404675.txt
+- NOGSTA cover panel with legs, stainless steel: /products/sektion-cover-panels-and-deco-strips/70531595.txt
+- NOGSTA cover panel with legs, stainless steel: /products/sektion-cover-panels-and-deco-strips/00531594.txt
+- NOGSTA cover panel, stainless steel: /products/sektion-cover-panels-and-deco-strips/20531593.txt
+- NOGSTA cover panel, stainless finish: /products/sektion-cover-panels-and-deco-strips/40531592.txt
+- NICKEBO deco strip, matte gray-green: /products/sektion-cover-panels-and-deco-strips/90562562.txt
+- NICKEBO cover panel, matte gray-green: /products/sektion-cover-panels-and-deco-strips/80562567.txt
+- NICKEBO cover panel, matte gray-green: /products/sektion-cover-panels-and-deco-strips/60562568.txt
+- NICKEBO cover panel, matte gray-green: /products/sektion-cover-panels-and-deco-strips/50562564.txt
+- NICKEBO cover panel, matte gray-green: /products/sektion-cover-panels-and-deco-strips/40562569.txt
+- NICKEBO cover panel, matte gray-green: /products/sektion-cover-panels-and-deco-strips/20562570.txt
+- NICKEBO cover panel, matte gray-green: /products/sektion-cover-panels-and-deco-strips/20562565.txt
+- NICKEBO cover panel, matte gray-green: /products/sektion-cover-panels-and-deco-strips/00562571.txt
+- NICKEBO cover panel, matte gray-green: /products/sektion-cover-panels-and-deco-strips/00562566.txt
+- LERHYTTAN deco strip, contoured edge, light gray: /products/sektion-cover-panels-and-deco-strips/90352371.txt
+- LERHYTTAN deco strip, contoured edge, black stained: /products/sektion-cover-panels-and-deco-strips/90356091.txt
+- LERHYTTAN cover panel, light gray: /products/sektion-cover-panels-and-deco-strips/90353238.txt
+- LERHYTTAN cover panel, light gray: /products/sektion-cover-panels-and-deco-strips/80353234.txt
+- LERHYTTAN cover panel, light gray: /products/sektion-cover-panels-and-deco-strips/70353239.txt
+- LERHYTTAN Cover panel, light gray: /products/sektion-cover-panels-and-deco-strips/50353240.txt
+- LERHYTTAN Cover panel, light gray: /products/sektion-cover-panels-and-deco-strips/50353235.txt
+- LERHYTTAN cover panel, light gray: /products/sektion-cover-panels-and-deco-strips/30353241.txt
+- LERHYTTAN Cover panel, light gray: /products/sektion-cover-panels-and-deco-strips/30353236.txt
+- LERHYTTAN Cover panel, light gray: /products/sektion-cover-panels-and-deco-strips/10353237.txt
+- LERHYTTAN cover panel, black stained: /products/sektion-cover-panels-and-deco-strips/90355925.txt
+- LERHYTTAN cover panel, black stained: /products/sektion-cover-panels-and-deco-strips/80355921.txt
+- LERHYTTAN cover panel, black stained: /products/sektion-cover-panels-and-deco-strips/70355926.txt
+- LERHYTTAN Cover panel, black stained: /products/sektion-cover-panels-and-deco-strips/60355922.txt
+- LERHYTTAN cover panel, black stained: /products/sektion-cover-panels-and-deco-strips/50355927.txt
+- LERHYTTAN Cover panel, black stained: /products/sektion-cover-panels-and-deco-strips/40355923.txt
+- LERHYTTAN cover panel, black stained: /products/sektion-cover-panels-and-deco-strips/30355928.txt
+- LERHYTTAN Cover panel, black stained: /products/sektion-cover-panels-and-deco-strips/20355924.txt
+- HAVSTORP rounded deco strip, light gray: /products/sektion-cover-panels-and-deco-strips/90568470.txt
+- HAVSTORP rounded deco strip, deep green: /products/sektion-cover-panels-and-deco-strips/40568364.txt
+- HAVSTORP rounded deco strip, beige: /products/sektion-cover-panels-and-deco-strips/60475255.txt
+- HAVSTORP cover panel, light gray: /products/sektion-cover-panels-and-deco-strips/70587785.txt
+- HAVSTORP cover panel, light gray: /products/sektion-cover-panels-and-deco-strips/60587781.txt
+- HAVSTORP cover panel, light gray: /products/sektion-cover-panels-and-deco-strips/50587786.txt
+- HAVSTORP cover panel, light gray: /products/sektion-cover-panels-and-deco-strips/40587782.txt
+- HAVSTORP cover panel, light gray: /products/sektion-cover-panels-and-deco-strips/30587787.txt
+- HAVSTORP cover panel, light gray: /products/sektion-cover-panels-and-deco-strips/20587783.txt
+- HAVSTORP cover panel, light gray: /products/sektion-cover-panels-and-deco-strips/10587788.txt
+- HAVSTORP cover panel, light gray: /products/sektion-cover-panels-and-deco-strips/00587784.txt
+- HAVSTORP cover panel, deep green: /products/sektion-cover-panels-and-deco-strips/90576390.txt
+- HAVSTORP cover panel, deep green: /products/sektion-cover-panels-and-deco-strips/80576395.txt
+- HAVSTORP cover panel, deep green: /products/sektion-cover-panels-and-deco-strips/70576391.txt
+- HAVSTORP cover panel, deep green: /products/sektion-cover-panels-and-deco-strips/50576392.txt
+- HAVSTORP cover panel, deep green: /products/sektion-cover-panels-and-deco-strips/30576393.txt
+- HAVSTORP cover panel, deep green: /products/sektion-cover-panels-and-deco-strips/30576388.txt
+- HAVSTORP cover panel, deep green: /products/sektion-cover-panels-and-deco-strips/10576394.txt
+- HAVSTORP cover panel, deep green: /products/sektion-cover-panels-and-deco-strips/10576389.txt
+- HAVSTORP cover panel, beige: /products/sektion-cover-panels-and-deco-strips/90475292.txt
+- HAVSTORP cover panel, beige: /products/sektion-cover-panels-and-deco-strips/90475287.txt
+- HAVSTORP cover panel, beige: /products/sektion-cover-panels-and-deco-strips/70475293.txt
+- HAVSTORP cover panel, beige: /products/sektion-cover-panels-and-deco-strips/70475288.txt
+- HAVSTORP cover panel, beige: /products/sektion-cover-panels-and-deco-strips/50475289.txt
+- HAVSTORP cover panel, beige: /products/sektion-cover-panels-and-deco-strips/30475290.txt
+- HAVSTORP cover panel, beige: /products/sektion-cover-panels-and-deco-strips/10475291.txt
+- HAVSTORP cover panel, beige: /products/sektion-cover-panels-and-deco-strips/10475286.txt
+- FRÖJERED cover panel, light bamboo: /products/sektion-cover-panels-and-deco-strips/60441623.txt
+- FRÖJERED cover panel, light bamboo: /products/sektion-cover-panels-and-deco-strips/40441624.txt
+- FÖRBÄTTRA Rounded deco strip, white: /products/sektion-cover-panels-and-deco-strips/20297887.txt
+- FÖRBÄTTRA rounded deco strip, off-white: /products/sektion-cover-panels-and-deco-strips/70206960.txt
+- FÖRBÄTTRA rounded deco strip, matte white: /products/sektion-cover-panels-and-deco-strips/70417665.txt
+- FÖRBÄTTRA Rounded deco strip, high gloss white: /products/sektion-cover-panels-and-deco-strips/50397480.txt
+- FÖRBÄTTRA Rounded deco strip, dark gray: /products/sektion-cover-panels-and-deco-strips/50454084.txt
+- FÖRBÄTTRA deco strip, matte anthracite: /products/sektion-cover-panels-and-deco-strips/00526743.txt
+- FÖRBÄTTRA deco strip, brown walnut effect: /products/sektion-cover-panels-and-deco-strips/00558480.txt
+- FÖRBÄTTRA cover strip and fasteners, white: /products/sektion-cover-panels-and-deco-strips/00492583.txt
+- FÖRBÄTTRA cover strip and fasteners, stainless steel color: /products/sektion-cover-panels-and-deco-strips/20492582.txt
+- FÖRBÄTTRA cover panel, white: /products/sektion-cover-panels-and-deco-strips/90266444.txt
+- FÖRBÄTTRA cover panel, white: /products/sektion-cover-panels-and-deco-strips/90266439.txt
+- FÖRBÄTTRA cover panel, white: /products/sektion-cover-panels-and-deco-strips/70266440.txt
+- FÖRBÄTTRA cover panel, white: /products/sektion-cover-panels-and-deco-strips/50266441.txt
+- FÖRBÄTTRA Cover panel, white: /products/sektion-cover-panels-and-deco-strips/30266442.txt
+- FÖRBÄTTRA Cover panel, white: /products/sektion-cover-panels-and-deco-strips/30266437.txt
+- FÖRBÄTTRA Cover panel, white: /products/sektion-cover-panels-and-deco-strips/10266443.txt
+- FÖRBÄTTRA Cover panel, white: /products/sektion-cover-panels-and-deco-strips/10266438.txt
+- FÖRBÄTTRA cover panel, off-white: /products/sektion-cover-panels-and-deco-strips/90266415.txt
+- FÖRBÄTTRA cover panel, off-white: /products/sektion-cover-panels-and-deco-strips/80266411.txt
+- FÖRBÄTTRA cover panel, off-white: /products/sektion-cover-panels-and-deco-strips/60266412.txt
+- FÖRBÄTTRA Cover panel, off-white: /products/sektion-cover-panels-and-deco-strips/60266407.txt
+- FÖRBÄTTRA Cover panel, off-white: /products/sektion-cover-panels-and-deco-strips/40266413.txt
+- FÖRBÄTTRA Cover panel, off-white: /products/sektion-cover-panels-and-deco-strips/40266408.txt
+- FÖRBÄTTRA Cover panel, off-white: /products/sektion-cover-panels-and-deco-strips/20266414.txt
+- FÖRBÄTTRA Cover panel, off-white: /products/sektion-cover-panels-and-deco-strips/20266409.txt
+- FÖRBÄTTRA cover panel, matte white: /products/sektion-cover-panels-and-deco-strips/90567833.txt
+- FÖRBÄTTRA cover panel, matte white: /products/sektion-cover-panels-and-deco-strips/70567834.txt
+- FÖRBÄTTRA cover panel, matte white: /products/sektion-cover-panels-and-deco-strips/40567835.txt
+- FÖRBÄTTRA Cover panel, matt white: /products/sektion-cover-panels-and-deco-strips/30417752.txt
+- FÖRBÄTTRA cover panel, matte white: /products/sektion-cover-panels-and-deco-strips/20567836.txt
+- FÖRBÄTTRA cover panel, matte white: /products/sektion-cover-panels-and-deco-strips/10567832.txt
+- FÖRBÄTTRA Cover panel, matt white: /products/sektion-cover-panels-and-deco-strips/10417753.txt
+- FÖRBÄTTRA cover panel, matte white: /products/sektion-cover-panels-and-deco-strips/00567837.txt
+- FÖRBÄTTRA cover panel, matte anthracite: /products/sektion-cover-panels-and-deco-strips/90470690.txt
+- FÖRBÄTTRA cover panel, matte anthracite: /products/sektion-cover-panels-and-deco-strips/90470685.txt
+- FÖRBÄTTRA cover panel, matte anthracite: /products/sektion-cover-panels-and-deco-strips/70470691.txt
+- FÖRBÄTTRA cover panel, matte anthracite: /products/sektion-cover-panels-and-deco-strips/70470686.txt
+- FÖRBÄTTRA cover panel, matte anthracite: /products/sektion-cover-panels-and-deco-strips/50470687.txt
+- FÖRBÄTTRA cover panel, matte anthracite: /products/sektion-cover-panels-and-deco-strips/30470688.txt
+- FÖRBÄTTRA cover panel, matte anthracite: /products/sektion-cover-panels-and-deco-strips/20470684.txt
+- FÖRBÄTTRA cover panel, matte anthracite: /products/sektion-cover-panels-and-deco-strips/10470689.txt
+- FÖRBÄTTRA cover panel, high gloss white: /products/sektion-cover-panels-and-deco-strips/80568710.txt
+- FÖRBÄTTRA cover panel, high gloss white: /products/sektion-cover-panels-and-deco-strips/70568715.txt
+- FÖRBÄTTRA cover panel, high gloss white: /products/sektion-cover-panels-and-deco-strips/70400293.txt
+- FÖRBÄTTRA cover panel, high gloss white: /products/sektion-cover-panels-and-deco-strips/60568711.txt
+- FÖRBÄTTRA Cover panel, high gloss white: /products/sektion-cover-panels-and-deco-strips/50400294.txt
+- FÖRBÄTTRA cover panel, high gloss white: /products/sektion-cover-panels-and-deco-strips/40568712.txt
+- FÖRBÄTTRA cover panel, high gloss white: /products/sektion-cover-panels-and-deco-strips/20568713.txt
+- FÖRBÄTTRA cover panel, high gloss white: /products/sektion-cover-panels-and-deco-strips/00568714.txt
+- FÖRBÄTTRA cover panel, dark gray: /products/sektion-cover-panels-and-deco-strips/80456133.txt
+- FÖRBÄTTRA cover panel, dark gray: /products/sektion-cover-panels-and-deco-strips/80456128.txt
+- FÖRBÄTTRA cover panel, dark gray: /products/sektion-cover-panels-and-deco-strips/60456134.txt
+- FÖRBÄTTRA cover panel, dark gray: /products/sektion-cover-panels-and-deco-strips/60456129.txt
+- FÖRBÄTTRA Cover panel, dark gray: /products/sektion-cover-panels-and-deco-strips/40456130.txt
+- FÖRBÄTTRA cover panel, dark gray: /products/sektion-cover-panels-and-deco-strips/30456135.txt
+- FÖRBÄTTRA Cover panel, dark gray: /products/sektion-cover-panels-and-deco-strips/20456131.txt
+- FÖRBÄTTRA Cover panel, dark gray: /products/sektion-cover-panels-and-deco-strips/00456132.txt
+- FÖRBÄTTRA cover panel, brown walnut effect: /products/sektion-cover-panels-and-deco-strips/90558517.txt
+- FÖRBÄTTRA cover panel, brown walnut effect: /products/sektion-cover-panels-and-deco-strips/70558518.txt
+- FÖRBÄTTRA cover panel, brown walnut effect: /products/sektion-cover-panels-and-deco-strips/60558514.txt
+- FÖRBÄTTRA cover panel, brown walnut effect: /products/sektion-cover-panels-and-deco-strips/50558519.txt
+- FÖRBÄTTRA cover panel, brown walnut effect: /products/sektion-cover-panels-and-deco-strips/30558520.txt
+- FÖRBÄTTRA cover panel, brown walnut effect: /products/sektion-cover-panels-and-deco-strips/30558515.txt
+- FÖRBÄTTRA cover panel, brown walnut effect: /products/sektion-cover-panels-and-deco-strips/10558521.txt
+- FÖRBÄTTRA cover panel, brown walnut effect: /products/sektion-cover-panels-and-deco-strips/10558516.txt
+- ENKÖPING deco strip, white wood effect: /products/sektion-cover-panels-and-deco-strips/80505751.txt
+- ENKÖPING cover panel, white wood effect: /products/sektion-cover-panels-and-deco-strips/80505930.txt
+- ENKÖPING cover panel, white wood effect: /products/sektion-cover-panels-and-deco-strips/70505935.txt
+- ENKÖPING cover panel, white wood effect: /products/sektion-cover-panels-and-deco-strips/60505931.txt
+- ENKÖPING cover panel, white wood effect: /products/sektion-cover-panels-and-deco-strips/40505932.txt
+- ENKÖPING cover panel, white wood effect: /products/sektion-cover-panels-and-deco-strips/20505933.txt
+- ENKÖPING cover panel, white wood effect: /products/sektion-cover-panels-and-deco-strips/20505928.txt
+- ENKÖPING cover panel, white wood effect: /products/sektion-cover-panels-and-deco-strips/00505934.txt
+- ENKÖPING cover panel, white wood effect: /products/sektion-cover-panels-and-deco-strips/00505929.txt
+- BODBYN cover panel, gray: /products/sektion-cover-panels-and-deco-strips/90266024.txt
+- BODBYN cover panel, gray: /products/sektion-cover-panels-and-deco-strips/80266053.txt
+- BODBYN Cover panel, gray: /products/sektion-cover-panels-and-deco-strips/60266054.txt
+- BODBYN cover panel, gray: /products/sektion-cover-panels-and-deco-strips/60266025.txt
+- BODBYN Cover panel, gray: /products/sektion-cover-panels-and-deco-strips/40266026.txt
+- BODBYN Cover panel, gray: /products/sektion-cover-panels-and-deco-strips/20266027.txt
+- BODBYN Cover panel, gray: /products/sektion-cover-panels-and-deco-strips/10266023.txt
+- BODBYN cover panel, gray: /products/sektion-cover-panels-and-deco-strips/00266028.txt
+- BODBYN contoured deco strip, off-white: /products/sektion-cover-panels-and-deco-strips/80417759.txt
+- BODBYN Contoured deco strip, gray: /products/sektion-cover-panels-and-deco-strips/60221065.txt
+- BODARP Cover panel, gray-green: /products/sektion-cover-panels-and-deco-strips/20435596.txt
+- BODARP Cover panel, gray-green: /products/sektion-cover-panels-and-deco-strips/00435597.txt
+- AXSTAD rounded deco strip, matte blue: /products/sektion-cover-panels-and-deco-strips/30475247.txt
+- AXSTAD rounded deco strip, gray-green: /products/sektion-cover-panels-and-deco-strips/50563926.txt
+- AXSTAD cover panel, matte blue: /products/sektion-cover-panels-and-deco-strips/90468395.txt
+- AXSTAD cover panel, matte blue: /products/sektion-cover-panels-and-deco-strips/70468396.txt
+- AXSTAD cover panel, matte blue: /products/sektion-cover-panels-and-deco-strips/60468392.txt
+- AXSTAD cover panel, matte blue: /products/sektion-cover-panels-and-deco-strips/50468397.txt
+- AXSTAD cover panel, matte blue: /products/sektion-cover-panels-and-deco-strips/30468398.txt
+- AXSTAD cover panel, matte blue: /products/sektion-cover-panels-and-deco-strips/20468394.txt
+- AXSTAD cover panel, matte blue: /products/sektion-cover-panels-and-deco-strips/10468399.txt
+- AXSTAD Cover panel, matte blue: /products/sektion-cover-panels-and-deco-strips/00468390.txt
+- AXSTAD cover panel, gray-green: /products/sektion-cover-panels-and-deco-strips/80563915.txt
+- AXSTAD cover panel, gray-green: /products/sektion-cover-panels-and-deco-strips/60563916.txt
+- AXSTAD cover panel, gray-green: /products/sektion-cover-panels-and-deco-strips/50563912.txt
+- AXSTAD cover panel, gray-green: /products/sektion-cover-panels-and-deco-strips/40563917.txt
+- AXSTAD cover panel, gray-green: /products/sektion-cover-panels-and-deco-strips/30563913.txt
+- AXSTAD cover panel, gray-green: /products/sektion-cover-panels-and-deco-strips/20563918.txt
+- AXSTAD cover panel, gray-green: /products/sektion-cover-panels-and-deco-strips/10563914.txt
+- AXSTAD cover panel, gray-green: /products/sektion-cover-panels-and-deco-strips/00563919.txt
+- ASKERSUND rounded deco strip, light ash effect: /products/sektion-cover-panels-and-deco-strips/80331850.txt
+- ASKERSUND cover panel, light ash effect: /products/sektion-cover-panels-and-deco-strips/80348394.txt
+- ASKERSUND cover panel, light ash effect: /products/sektion-cover-panels-and-deco-strips/80348351.txt
+- ASKERSUND Cover panel, ash light ash effect: /products/sektion-cover-panels-and-deco-strips/60348352.txt
+- ASKERSUND Cover panel, ash light ash effect: /products/sektion-cover-panels-and-deco-strips/40348353.txt
+- ASKERSUND Cover panel, ash light ash effect: /products/sektion-cover-panels-and-deco-strips/40348348.txt
+- ASKERSUND cover panel, light ash effect: /products/sektion-cover-panels-and-deco-strips/20348354.txt
+- ASKERSUND Cover panel, light ash effect: /products/sektion-cover-panels-and-deco-strips/20348349.txt
+- ASKERSUND Cover panel, ash light ash effect: /products/sektion-cover-panels-and-deco-strips/00348350.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

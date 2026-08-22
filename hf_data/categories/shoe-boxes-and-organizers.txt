@@ -1,0 +1,30 @@
+# @CATEGORY
+Name: Shoe boxes & organizers
+ProductCount: 8
+
+# @FILTERS
+PriceRange: $0.99 - $26.99
+Materials: 100 % polypropylene, 100% polypropylene (min. 40% recycled), Edge: Aluminum, Epoxy/polyester powder coating, Fabric: 100 % Polyethylene plastic, 100% polyester (min. 90% recycled), Fabric: 100% polyester (min. 90% recycled), Insert/ Connector: Polypropylene, Insert: Polypropylene, Panel: Polystyrene, Polypropylene plastic (min. 20% recycled), Steel, Powder coating, Supporting fabric: 100 % PEVA plastic
+Brand: IKEA
+
+# @ITEMS
+- SKUFFEN shoe box, clear: /products/shoe-boxes-and-organizers/30532356.txt
+- SKUBB shoe box, white, 8 ¾x13 ½x6 ¼": /products/shoe-boxes-and-organizers/40300285.txt
+- SKUBB shoe box, dark gray, 8 ¾x13 ½x6 ¼": /products/shoe-boxes-and-organizers/40472979.txt
+- SKOSTALL shoe organizer, black, 4 ¼x7 ½x10 ¾": /products/shoe-boxes-and-organizers/30528514.txt
+- PÄRKLA shoe bag, 19x8 ¾": /products/shoe-boxes-and-organizers/30522381.txt
+- MURVEL shoe organizer, gray, 5 ½x5 ½x9 ½": /products/shoe-boxes-and-organizers/20434832.txt
+- HEMMAFIXARE shoe box, fabric stripe/white/gray: /products/shoe-boxes-and-organizers/40503914.txt
+- HEMMAFIXARE shoe box, fabric stripe/white/gray: /products/shoe-boxes-and-organizers/10526097.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

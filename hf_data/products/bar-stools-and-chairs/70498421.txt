@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: STIG bar stool with backrest, black/black
+SKU: 70498421
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/stig-bar-stool-with-backrest-black-black-70498421/
+Category: Bar stools & chairs
+Description: , 291/8" This comfy bar stool brings you up a notch so you can enjoy a meal with a view at bar height. There is plenty of leg room and it is made of easy-care materials so occasional spills are easy t...
+
+# @OFFER
+Price: 29.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Steel, Epoxy powder coating, Seat/ Back: Polypropylene plastic (min. 50% recycled)
+Dimensions: Suitable for bar table heights 39-42"
+Features: Possible to recycle the plastic parts, if available in your community.
+Care: Wipe clean with a mild soapy solution. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/stig-bar-stool-with-backrest-black-black__0948118_pe798873_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

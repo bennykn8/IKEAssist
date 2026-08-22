@@ -1,0 +1,25 @@
+# @CATEGORY
+Name: Home safety
+ProductCount: 3
+
+# @FILTERS
+PriceRange: $9.99 - $14.99
+Materials: ABS plastic, Housing: ABS plastic, Natural rubber, Calcium carbonate, Support bracket: Steel, Galvanized
+Brand: IKEA
+
+# @ITEMS
+- SOLSTOL cabinet lock: /products/home-safety/60541241.txt
+- DOPPA bathtub mat, beige: /products/home-safety/00549985.txt
+- BADRING water leak sensor, smart: /products/home-safety/90504360.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

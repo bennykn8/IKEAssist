@@ -1,0 +1,42 @@
+# @CATEGORY
+Name: Brackets
+ProductCount: 20
+
+# @FILTERS
+PriceRange: $1.00 - $18.00
+Materials: Aluminum, Epoxy/polyester powder coating, Aluminum, Nickel plated, Clear acrylic lacquer, Aluminum, Powder coating, Fiberboard, Acrylic paint, Polypropylene plastic (min. 20% recycled), Reinforced polypropylene plastic (min. 20% recycled), Solid aspen, Clear acrylic lacquer, Solid wood, Stain, Clear acrylic lacquer, Steel, Epoxy/polyester powder coating, Steel, Powder coating, Steel, Steel, Epoxy/polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- TOMTHULT bracket, white: /products/brackets/40399899.txt
+- SIBBHULT Bracket, white: /products/brackets/10417734.txt
+- SANDSHULT Bracket, white stained aspen, 7x8 ¾": /products/brackets/50456403.txt
+- SANDSHULT bracket, aspen, 7x8 ¾": /products/brackets/60399902.txt
+- RAMSHULT bracket, white, 7x8 ¾": /products/brackets/80399897.txt
+- RAMSHULT bracket, gray-beige, 7x8 ¾": /products/brackets/20557639.txt
+- RAMSHULT Bracket, black, 7x8 ¾": /products/brackets/50421244.txt
+- PERSHULT Bracket, white, 11 ¾x11 ¾": /products/brackets/20399895.txt
+- PERSHULT Bracket, white, 7 ¾x11 ¾": /products/brackets/10430518.txt
+- KROKSHULT Bracket, anthracite, 7x9 ½": /products/brackets/40399903.txt
+- GRANHULT connecting bracket, nickel plated: /products/brackets/80430534.txt
+- GRANHULT Connecting bracket, nickel plated: /products/brackets/00430533.txt
+- GRANHULT connecting bracket, black, 11 ¾x4 ¾": /products/brackets/20543237.txt
+- GRANHULT connecting bracket, black, 7 ¾x4 ¾": /products/brackets/00543238.txt
+- GRANHULT Bracket, nickel plated, 7 ¾x4 ¾": /products/brackets/50430535.txt
+- GRANHULT Bracket, nickel plated, 11 ¾x4 ¾": /products/brackets/30430536.txt
+- GRANHULT bracket, black, 11 ¾x4 ¾": /products/brackets/40543236.txt
+- GRANHULT bracket, black, 7 ¾x4 ¾": /products/brackets/30543227.txt
+- FÖRLÄGGARE bracket, white, 7x9 ¾": /products/brackets/60550198.txt
+- FÖRLÄGGARE bracket, black, 7x9 ¾": /products/brackets/10583714.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

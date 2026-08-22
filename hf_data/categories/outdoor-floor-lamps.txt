@@ -1,0 +1,26 @@
+# @CATEGORY
+Name: Outdoor floor lamps
+ProductCount: 4
+
+# @FILTERS
+PriceRange: $24.99 - $34.99
+Materials: Battery box: Polycarbonate plastic, Polycarbonate plastic, Cover: ABS plastic, Handle: Stainless steel, Bamboo, Optical lens: Polycarbonate plastic, Shade: Steel, Acrylic coating, Powder coating
+Brand: IKEA
+
+# @ITEMS
+- SOLVINDEN LED floor lamp, blue/stripe battery operated: /products/outdoor-floor-lamps/00594954.txt
+- SOLVINDEN LED floor lamp, battery operated/outdoor: /products/outdoor-floor-lamps/80570591.txt
+- SOLVINDEN LED floor lamp, battery operated outdoor: /products/outdoor-floor-lamps/20594825.txt
+- SOLVINDEN LED floor lamp, battery operated/outdoor: /products/outdoor-floor-lamps/00570590.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

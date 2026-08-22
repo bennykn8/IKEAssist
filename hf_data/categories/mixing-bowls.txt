@@ -1,0 +1,28 @@
+# @CATEGORY
+Name: Mixing bowls
+ProductCount: 6
+
+# @FILTERS
+PriceRange: $0.99 - $24.99
+Materials: Bowl: Polypropylene, Foot ring: Synthetic rubber, Glass, Glassware: Tempered glass, Lid: Polypropylene, Polypropylene, Stainless steel
+Brand: IKEA
+
+# @ITEMS
+- VISPAD mixing bowl, set of 2, white: /products/mixing-bowls/50421791.txt
+- VARDAGEN mixing bowl, stainless steel, 135 oz: /products/mixing-bowls/00586162.txt
+- VARDAGEN bowl, clear glass: /products/mixing-bowls/70289248.txt
+- SUMPCYPRESS bowl with lid, set of: /products/mixing-bowls/80559273.txt
+- PONNYFISK mixing bowl, light gray-blue, 34 oz: /products/mixing-bowls/90598491.txt
+- FIKADAGS mixing bowl, white, 74 oz: /products/mixing-bowls/40510839.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

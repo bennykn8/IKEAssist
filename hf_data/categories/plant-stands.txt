@@ -1,0 +1,51 @@
+# @CATEGORY
+Name: Plant stands
+ProductCount: 29
+
+# @FILTERS
+PriceRange: $3.99 - $79.99
+Materials: Bamboo, Clear acrylic lacquer, Bottom panel: Fiberboard, Acrylic paint, Cap: Polypropylene, Decoration: Solid birch, Clear acrylic lacquer, Feet: Polypropylene, Galvanized steel, Ladder: Bamboo, Clear acrylic lacquer, Leg frame/ Saucer: Steel, Powder coating, Leg frame: Solid wood, Paint, Leg/ Tray: Steel, Polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- VANILJSTÅNG plant stand, pine/black, 26 ½": /products/plant-stands/40426341.txt
+- VANILJSTÅNG plant stand, pine/black, 21 ¾": /products/plant-stands/00426343.txt
+- TOLKNING plant stand, handmade rattan: /products/plant-stands/70512686.txt
+- SKUGGRÖNA wall-mounted plant stand, dark green, 21 ¼": /products/plant-stands/60562016.txt
+- SKUGGRÖNA wall-mounted plant stand, dark green, 30 ¾": /products/plant-stands/00562019.txt
+- SKUGGRÖNA wall-mounted plant stand, black, 21 ¼": /products/plant-stands/70562011.txt
+- SKUGGRÖNA wall-mounted plant stand, black, 30 ¾": /products/plant-stands/20562018.txt
+- SATSUMAS Plant stand with 5 plant pots, bamboo, white: /products/plant-stands/10258155.txt
+- SATSUMAS plant stand, bamboo/white, 27 ½": /products/plant-stands/90258156.txt
+- SATSUMAS White Bamboo Plant Stand - 3 Tier - Popular: /products/plant-stands/40258154.txt
+- PRIMÄRSKOG plant stand, 20 ¾": /products/plant-stands/20555094.txt
+- OLIVBLAD plant stand on wheels, indoor/outdoor dark gray, 12 ½": /products/plant-stands/00585577.txt
+- OLIVBLAD plant stand, indoor/outdoor dark gray, 22 ¾": /products/plant-stands/40585575.txt
+- OLIVBLAD plant stand, indoor/outdoor dark gray: /products/plant-stands/20585604.txt
+- OLIVBLAD plant stand, indoor/outdoor black, 22 ¾": /products/plant-stands/50486650.txt
+- OLIVBLAD plant stand, indoor/outdoor black, 13 ¾": /products/plant-stands/10486652.txt
+- OLIVBLAD plant stand, indoor/outdoor black: /products/plant-stands/10486647.txt
+- KULTURSKOG plant stand, light green, 22 ¾": /products/plant-stands/40555093.txt
+- KULTURSKOG plant stand, black, 22 ¾": /products/plant-stands/80556509.txt
+- KLOTTHUJA plant pot holder, indoor/outdoor black, 4 ¼": /products/plant-stands/60550674.txt
+- KLOTTHUJA plant pot holder, indoor/outdoor black, 4 ¾": /products/plant-stands/30550675.txt
+- KLOTTHUJA plant pot holder, indoor/outdoor black: /products/plant-stands/10550676.txt
+- DAKSJUS plant stand, bamboo, 23 ½": /products/plant-stands/70567018.txt
+- DAKSJUS plant stand, bamboo, 8 ¼": /products/plant-stands/10567021.txt
+- ANVÄNDBAR hanging plant holder, hanging/natural: /products/plant-stands/70326420.txt
+- ALPVIDE plant stand, white: /products/plant-stands/70546262.txt
+- ALPVIDE plant stand, white, 24 ¾": /products/plant-stands/10546260.txt
+- ALPVIDE plant stand, gray: /products/plant-stands/50546263.txt
+- ÅKERBÄR plant stand on wheels, indoor/outdoor/galvanized, 12 ¼": /products/plant-stands/10537166.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

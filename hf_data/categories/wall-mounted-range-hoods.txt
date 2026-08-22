@@ -1,0 +1,29 @@
+# @CATEGORY
+Name: Wall mounted range hoods
+ProductCount: 8
+
+# @FILTERS
+PriceRange: $89.99 - $999.00
+Brand: IKEA
+
+# @ITEMS
+- VINSTGIVANDE Wall mounted extractor hood, Stainless steel: /products/wall-mounted-range-hoods/50466001.txt
+- VINSTGIVANDE wall mounted range hood, black Stainless steel: /products/wall-mounted-range-hoods/10462142.txt
+- UNGDOMLIG wall mounted range hood, black: /products/wall-mounted-range-hoods/50462140.txt
+- UNDANTAG wall mounted range hood, Stainless steel/glass: /products/wall-mounted-range-hoods/90462143.txt
+- LUFTBUREN Wall mounted extractor hood, Stainless steel: /products/wall-mounted-range-hoods/20462146.txt
+- LAGAN Under cabinet extractor hood, white: /products/wall-mounted-range-hoods/30466002.txt
+- GENOMDRIVA Under cabinet extractor hood, Stainless steel: /products/wall-mounted-range-hoods/30462136.txt
+- ALLMÄNBILDAD wall mounted range hood, Stainless steel: /products/wall-mounted-range-hoods/70462144.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

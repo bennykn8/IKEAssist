@@ -1,0 +1,34 @@
+# @CATEGORY
+Name: Bookcase & cabinet lighting
+ProductCount: 12
+
+# @FILTERS
+PriceRange: $5.99 - $25.00
+Materials: Base/ Housing: Polycarbonate/ABS plastic, Base: ABS plastic (min. 50% recycled), Body: Polypropylene, Cable clip: Polyamide, Diffuser: Polycarbonate plastic, Housing: Polycarbonate plastic (min. 50% recycled), Junction box: Polypropylene, Main parts: ABS plastic, Main parts: Polyamide, Mounting bracket: ABS plastic
+Brand: IKEA
+
+# @ITEMS
+- YTBERG cabinet lighting, white/dimmable: /products/bookcase-and-cabinet-lighting/50516831.txt
+- YTBERG cabinet lighting, black/dimmable: /products/bookcase-and-cabinet-lighting/10527898.txt
+- TVÄRDRAG cabinet lighting, black/dimmable: /products/bookcase-and-cabinet-lighting/40516841.txt
+- STRIMSÄV LED spotlight, white: /products/bookcase-and-cabinet-lighting/80570567.txt
+- STRIMSÄV LED spotlight, black: /products/bookcase-and-cabinet-lighting/00565372.txt
+- RAMSTA LED mini lamp, battery operated white: /products/bookcase-and-cabinet-lighting/30328609.txt
+- KÖLVATTEN LED spotlight, white/battery operated: /products/bookcase-and-cabinet-lighting/50571988.txt
+- KAPPLAKE LED spotlight, white: /products/bookcase-and-cabinet-lighting/30543166.txt
+- ANSLUTA Power supply cord: /products/bookcase-and-cabinet-lighting/30121411.txt
+- ANSLUTA LED driver with cord, white, 19 W: /products/bookcase-and-cabinet-lighting/90405845.txt
+- ANSLUTA Intermediate connection cord: /products/bookcase-and-cabinet-lighting/60119925.txt
+- ANSLUTA Intermediate connection cord: /products/bookcase-and-cabinet-lighting/40119926.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

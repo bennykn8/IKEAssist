@@ -1,0 +1,27 @@
+# @CATEGORY
+Name: ENHET legs & plinths
+ProductCount: 5
+
+# @FILTERS
+PriceRange: $9.00 - $25.00
+Materials: Foot: Polypropylene plastic (min. 20% recycled), Insert nut: Steel, Epoxy/Acrylic coating, Plate: Steel, Powder coating, Galvanized steel, Plinth: Particleboard, Plastic foil, Roll edge: Laminate, Tube: Steel, Powder coating
+Brand: IKEA
+
+# @ITEMS
+- ENHET toekick, white: /products/enhet-legs-and-plinths/50515365.txt
+- ENHET legs f frame, white: /products/enhet-legs-and-plinths/60514445.txt
+- ENHET legs f frame, anthracite: /products/enhet-legs-and-plinths/10514443.txt
+- ENHET legs f cabinet, white: /products/enhet-legs-and-plinths/60514426.txt
+- ENHET legs f cabinet, anthracite: /products/enhet-legs-and-plinths/80514425.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

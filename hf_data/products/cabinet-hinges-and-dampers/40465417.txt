@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: UTRUSTA hinge/push-open for horizontal door, white
+SKU: 40465417
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/utrusta-hinge-push-open-for-horizontal-door-white-40465417/
+Category: Cabinet hinges & dampers
+Description: With these hinges you can place your doors horizontally – and enhance the straight lines and the modern expression of your kitchen. Push to open the doors and enjoy the silence as they close softly. P...
+
+# @OFFER
+Price: 45
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Steel, Nickel plated, Cover cap: ABS plastic
+Dimensions: Use 2 hinges for a drawer front with max. height 15” and max. width 36”.
+Features: This hinge is not suitable for doors. It is to be completed with a drawer front to create a horiztonal hanging door, sold separately.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/utrusta-hinge-push-open-for-horizontal-door-white__0790852_pe764412_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

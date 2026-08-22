@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MALM high bed frame/2 storage boxes, blue, Queen
+SKU: 39560043
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/malm-high-bed-frame-2-storage-boxes-blue-s39560043/
+Category: Bed frames with storage
+Description: A clean-lined bed in a blue color that adds an elegant and calm feel to your bedroom. You also get matching, spacious storage boxes that roll out smoothly on castors. The storage boxes are easy to rol...
+
+# @OFFER
+Price: 260
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Head/footboard: Particleboard, Fiberboard, Fiberboard, Printed and embossed acrylic paint, Plastic edging, Honeycomb structure paper filling (100% recycled), Bedside: Particleboard, Fiberboard, Printed and embossed acrylic paint, Paper, Plastic edging, Drawer side/ Drawer back: Particleboard, Plastic foil
+Features: SKORVA midbeam is included in the price but packaged separately. It is required for the stability of the bed frame and to keep the mattress in place. | Slatted bed base and mattress sold separately.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/malm-high-bed-frame-2-storage-boxes-blue__1330510_pe945705_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

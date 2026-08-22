@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MANDAL bed frame with storage, birch/white, Full
+SKU: 30280481
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/mandal-bed-frame-with-storage-birch-white-30280481/
+Category: Bed frames with storage
+Description: The 4 large drawers give you an extra storage space under the bed. May be completed with MANDAL headboard. Made of solid wood, which is a durable and warm natural material.
+
+# @OFFER
+Price: 499
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Solid birch, Clear acrylic lacquer, Bed base frame: Solid birch, Acrylic paint, Drawer front/ Drawer bottom: Fiberboard, Acrylic paint
+Features: Center support beam and slatted bed base are included. | Mattress and bedlinens are sold separately.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/mandal-bed-frame-with-storage-birch-white__1151050_pe884752_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

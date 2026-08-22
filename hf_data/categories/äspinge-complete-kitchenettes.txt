@@ -1,0 +1,24 @@
+# @CATEGORY
+Name: ÄSPINGE complete kitchenettes
+ProductCount: 2
+
+# @FILTERS
+PriceRange: $550.00 - $638.00
+Materials: Countertop: Stainless steel, Door/ Drawer back/ Drawer front/ Drawer side/ Drawer bottom: Particleboard, Melamine foil, Plastic edging, Frame/ Shelf/ Bracket/ Door/ Hook/ Flatware tray: Steel, Epoxy/polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- ÄSPINGE kitchenette, black/ash: /products/äspinge-complete-kitchenettes/99478267.txt
+- ÄSPINGE kitchenette, black/ash: /products/äspinge-complete-kitchenettes/20500285.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

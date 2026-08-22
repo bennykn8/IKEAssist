@@ -1,0 +1,26 @@
+# @CATEGORY
+Name: Children's wardrobes
+ProductCount: 4
+
+# @FILTERS
+PriceRange: $149.99 - $349.99
+Materials: Back panel: Fiberboard, Acrylic paint, Back panel: Fiberboard, Acrylic paint, Acrylic paint, Door: Particleboard, Melamine foil, Plastic edging, Lower shelf/ Rail: Solid pine, Stain, Clear acrylic lacquer, Clear acrylic lacquer, Main parts: Solid pine, Stain, Clear acrylic lacquer, Side panel/ Bottom panel/ Top panel/ Shelf: Particleboard, Plastic edging, Melamine foil, Side panel: Particleboard, Melamine foil, Plastic edging, Plastic edging, Top panel/ Bottom panel/ Shelf/ Door: Particleboard, Melamine foil, Plastic edging, Top shelf: Solid pine, Clear acrylic lacquer
+Brand: IKEA
+
+# @ITEMS
+- SUNDVIK wardrobe, white: /products/childrens-wardrobes/90576700.txt
+- SUNDVIK wardrobe, gray: /products/childrens-wardrobes/70576579.txt
+- SMÅGÖRA wardrobe, white: /products/childrens-wardrobes/70576701.txt
+- GODISHUS wardrobe, white: /products/childrens-wardrobes/80576512.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

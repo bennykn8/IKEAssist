@@ -1,0 +1,30 @@
+# @CATEGORY
+Name: IDÅSEN desk combinations
+ProductCount: 8
+
+# @FILTERS
+PriceRange: $334.00 - $669.00
+Materials: Foot ring: Steel, Epoxy/polyester powder coating, Stainless steel, 100 % polyester, Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Ash veneer, Stain, Clear acrylic lacquer, Plastic edging, Supporting rail/ Outer tube/ Inside tube/ Cross-brace/ Foot ring: Steel, Pigmented epoxy/polyester powder coating, Supporting rail/ Top rail/ Cross rail/ Outer tube/ Inside tube/ Housing/ Cross-brace: Steel, Epoxy/polyester powder coating, Top rail/ Cross rail/ Housing: Steel, Epoxy/polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- IDÅSEN desk sit/stand, brown/dark gray: /products/idåsen-desk-combinations/89281011.txt
+- IDÅSEN desk sit/stand, brown/dark gray: /products/idåsen-desk-combinations/19280963.txt
+- IDÅSEN desk sit/stand, black/dark gray: /products/idåsen-desk-combinations/79280998.txt
+- IDÅSEN desk sit/stand, black/dark gray: /products/idåsen-desk-combinations/49280947.txt
+- IDÅSEN desk, brown/dark gray: /products/idåsen-desk-combinations/99281039.txt
+- IDÅSEN desk, brown/dark gray: /products/idåsen-desk-combinations/49281027.txt
+- IDÅSEN desk, black/dark gray: /products/idåsen-desk-combinations/59281036.txt
+- IDÅSEN desk, black/dark gray: /products/idåsen-desk-combinations/19281024.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

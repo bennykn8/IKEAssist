@@ -1,0 +1,59 @@
+# @CATEGORY
+Name: VALLSTENA white fronts
+ProductCount: 37
+
+# @FILTERS
+PriceRange: $8.00 - $40.00
+Materials: Edge: Plastic edging, Plastic edging, Frontside/ Backside: Plastic foil, Main parts: Particleboard
+Brand: IKEA
+
+# @ITEMS
+- VALLSTENA drawer front, white: /products/vallstena-white-fronts/90541843.txt
+- VALLSTENA drawer front, white: /products/vallstena-white-fronts/90541838.txt
+- VALLSTENA drawer front, white: /products/vallstena-white-fronts/80541848.txt
+- VALLSTENA drawer front, white: /products/vallstena-white-fronts/80541834.txt
+- VALLSTENA drawer front, white: /products/vallstena-white-fronts/70541844.txt
+- VALLSTENA drawer front, white: /products/vallstena-white-fronts/70541839.txt
+- VALLSTENA drawer front, white: /products/vallstena-white-fronts/50541840.txt
+- VALLSTENA drawer front, white: /products/vallstena-white-fronts/50541835.txt
+- VALLSTENA drawer front, white: /products/vallstena-white-fronts/40541845.txt
+- VALLSTENA drawer front, white: /products/vallstena-white-fronts/30541841.txt
+- VALLSTENA drawer front, white: /products/vallstena-white-fronts/30541836.txt
+- VALLSTENA drawer front, white: /products/vallstena-white-fronts/20541846.txt
+- VALLSTENA drawer front, white: /products/vallstena-white-fronts/10541837.txt
+- VALLSTENA drawer front, white: /products/vallstena-white-fronts/00541847.txt
+- VALLSTENA drawer front, white: /products/vallstena-white-fronts/00541833.txt
+- VALLSTENA door, white: /products/vallstena-white-fronts/90541824.txt
+- VALLSTENA door, white: /products/vallstena-white-fronts/90541819.txt
+- VALLSTENA door, white: /products/vallstena-white-fronts/80541829.txt
+- VALLSTENA door, white: /products/vallstena-white-fronts/70541820.txt
+- VALLSTENA door, white: /products/vallstena-white-fronts/70541815.txt
+- VALLSTENA door, white: /products/vallstena-white-fronts/60541830.txt
+- VALLSTENA door, white: /products/vallstena-white-fronts/60541825.txt
+- VALLSTENA door, white: /products/vallstena-white-fronts/60541811.txt
+- VALLSTENA door, white: /products/vallstena-white-fronts/50541821.txt
+- VALLSTENA door, white: /products/vallstena-white-fronts/50541816.txt
+- VALLSTENA door, white: /products/vallstena-white-fronts/40541831.txt
+- VALLSTENA door, white: /products/vallstena-white-fronts/40541826.txt
+- VALLSTENA door, white: /products/vallstena-white-fronts/40541812.txt
+- VALLSTENA door, white: /products/vallstena-white-fronts/30541822.txt
+- VALLSTENA door, white: /products/vallstena-white-fronts/30541817.txt
+- VALLSTENA door, white: /products/vallstena-white-fronts/20541827.txt
+- VALLSTENA door, white: /products/vallstena-white-fronts/20541813.txt
+- VALLSTENA door, white: /products/vallstena-white-fronts/10541823.txt
+- VALLSTENA door, white: /products/vallstena-white-fronts/10541818.txt
+- VALLSTENA door, white: /products/vallstena-white-fronts/00541828.txt
+- VALLSTENA door, white: /products/vallstena-white-fronts/00541814.txt
+- VALLSTENA 2-p door/corner base cabinet set, white: /products/vallstena-white-fronts/20541832.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

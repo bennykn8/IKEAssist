@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: LAPPTÅG throw, dark gray-green
+SKU: 70572208
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lapptag-throw-dark-gray-green-70572208/
+Category: Blankets & throws
+Description: , 51x67" Handwoven throw in dark grey-green – one side has more wool for extra warmth when its chilly and the other side has more cotton for cooler comfort. Lovely natural look and tactile feel.
+
+# @OFFER
+Price: 39.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 60 % cotton, 40 % wool
+Care: Hand wash warm water. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lapptag-throw-dark-gray-green__1249625_pe923394_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

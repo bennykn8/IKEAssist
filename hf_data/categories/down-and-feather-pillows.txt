@@ -1,0 +1,32 @@
+# @CATEGORY
+Name: Down & feather pillows
+ProductCount: 10
+
+# @FILTERS
+PriceRange: $19.99 - $99.99
+Materials: Core filling: 90% duck feathers, 10% duck down, Fabric: 100 % cotton, Filling material: 90% duck feathers, 10% duck down, Outer fabric/ Inner fabric: 100 % cotton, Pocket filling: 75% duck down, 25% duck feathers, Pocket filling: 90% duck down, 10% duck feathers
+Brand: IKEA
+
+# @ITEMS
+- PILSPINNARE pillow, stomach sleeper, Queen: /products/down-and-feather-pillows/80587148.txt
+- PILSPINNARE pillow, stomach sleeper, King: /products/down-and-feather-pillows/20587146.txt
+- PILSPINNARE pillow, side/back sleeper, Queen: /products/down-and-feather-pillows/80587129.txt
+- PILSPINNARE pillow, side/back sleeper, King: /products/down-and-feather-pillows/20587127.txt
+- GULKAVLE pillow, stomach sleeper, Queen: /products/down-and-feather-pillows/70547167.txt
+- GULKAVLE pillow, stomach sleeper, King: /products/down-and-feather-pillows/10547165.txt
+- GULKAVLE pillow, side/back sleeper, Queen: /products/down-and-feather-pillows/80547157.txt
+- GULKAVLE pillow, side/back sleeper, King: /products/down-and-feather-pillows/20547155.txt
+- BERGVEN pillow, side/back sleeper, King: /products/down-and-feather-pillows/50571592.txt
+- BERGVEN pillow, side/back sleeper, Queen: /products/down-and-feather-pillows/10571594.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

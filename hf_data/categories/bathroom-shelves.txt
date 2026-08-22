@@ -1,0 +1,43 @@
+# @CATEGORY
+Name: Bathroom shelves
+ProductCount: 21
+
+# @FILTERS
+PriceRange: $2.99 - $69.99
+Materials: Adapter: Stainless steel, Stainless steel, Aluminum, Chrome plated, Aluminum, Epoxy/polyester powder coating, Arm/ Cover plate: Aluminum, Chrome plated, Arm/ End cap/ Cover plate: Aluminum, Chrome plated, Back cover: Reinforced polyamide, Back: Reinforced polyamide, Bamboo, Clear acrylic lacquer, Bolt: Stainless steel, Bracket/ Front/ Strip/ Rivet: Stainless steel
+Brand: IKEA
+
+# @ITEMS
+- TISKEN Towel rack with suction cup, white: /products/bathroom-shelves/40381286.txt
+- TISKEN hook with suction cup, white: /products/bathroom-shelves/70381275.txt
+- SKOGSVIKEN towel rail, black, 23 ½": /products/bathroom-shelves/60423822.txt
+- SKOGSVIKEN hook for door, black: /products/bathroom-shelves/20423819.txt
+- SKOGHALL towel rail, self-adhesive, chrome plated: /products/bathroom-shelves/70598637.txt
+- SKOGHALL towel rail, self-adhesive, black: /products/bathroom-shelves/30598639.txt
+- SKOGHALL hook, self-adhesive, chrome plated: /products/bathroom-shelves/50567830.txt
+- SKOGHALL hook, self-adhesive, black: /products/bathroom-shelves/60579229.txt
+- RÅGRUND chair with towel rack, bamboo: /products/bathroom-shelves/90253074.txt
+- LILLASJÖN wall shelf with 5 hooks: /products/bathroom-shelves/50478023.txt
+- KROKFJORDEN hook with suction cup, zinc plated: /products/bathroom-shelves/70453998.txt
+- ENUDDEN Hanger for door, white: /products/bathroom-shelves/60251665.txt
+- BROGRUND Towel rail, stainless steel, 26 ½": /products/bathroom-shelves/30328534.txt
+- BROGRUND hook, stainless steel: /products/bathroom-shelves/20524677.txt
+- BROGRUND Hanger for door, stainless steel: /products/bathroom-shelves/20328544.txt
+- BROGRUND glass shelf: /products/bathroom-shelves/90524674.txt
+- BROFJÄRDEN wall shelf with towel rail, chrome effect: /products/bathroom-shelves/20582238.txt
+- BROFJÄRDEN towel rail, chrome effect, 29 ¼": /products/bathroom-shelves/50582232.txt
+- BROFJÄRDEN towel holder, chrome effect: /products/bathroom-shelves/10582229.txt
+- BROFJÄRDEN double hook, chrome effect: /products/bathroom-shelves/50582227.txt
+- BÄSINGEN towel rail, anthracite, 25 ½": /products/bathroom-shelves/20595976.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

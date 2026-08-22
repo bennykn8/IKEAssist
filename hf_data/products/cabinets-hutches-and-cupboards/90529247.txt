@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HAVSTA cabinet, black
+SKU: 90529247
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/havsta-cabinet-black-90529247/
+Category: Cabinets, hutches & cupboards
+Description: , 317/8x133/4x483/8" Carefully designed details in solid pine with a brushed surface adds a rustic feel and charm to your home. Add a plinth to create a standalone – or mount this on top of a 18½" dee...
+
+# @OFFER
+Price: 270
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Side panel/ Bottom panel/ Door frame/ Door panel/ Shelf: Solid pine, Stain, Clear lacquer, Back panel: Fiberboard, Acrylic paint
+Features: You can mount any 13¾" deep stackable unit on a 18½" deep cabinet to create a vertical combination, or convert it into a standalone by adding the plinth in compatible size (sold separately). | Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Two people are needed to assemble this furniture.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/havsta-cabinet-black__1294514_pe935487_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

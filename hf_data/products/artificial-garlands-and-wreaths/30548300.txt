@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SMYCKA artificial garland, indoor/outdoor, 1 ¾ yard
+SKU: 30548300
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/smycka-artificial-garland-indoor-outdoor-30548300/
+Category: Artificial garlands & wreaths
+Description: This winding plant is made with a minimum of 50% recycled plastic, but looks so real you can almost smell it. Hang it inside or outside, or use to spruce up your table setting. Lifelike artificial pla...
+
+# @OFFER
+Price: 1.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Leaf: 100 % polyester (100% recycled), Stem: Polyethylene plastic (min. 50% recycled)
+Features: Suitable for indoor and outdoor use.
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/smycka-artificial-garland-indoor-outdoor__1184722_pe898052_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

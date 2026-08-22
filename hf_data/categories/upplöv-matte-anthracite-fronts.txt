@@ -1,0 +1,60 @@
+# @CATEGORY
+Name: UPPLÖV matte anthracite fronts
+ProductCount: 38
+
+# @FILTERS
+PriceRange: $73.00 - $351.00
+Materials: Edge: Plastic edging, Plastic edging, Frontside/ Backside: Plastic foil (min. 90% recycled), Main parts: Fiberboard, Main parts: Particleboard
+Brand: IKEA
+
+# @ITEMS
+- UPPLÖV drawer front, matte anthracite: /products/upplöv-matte-anthracite-fronts/90470727.txt
+- UPPLÖV drawer front, matte anthracite: /products/upplöv-matte-anthracite-fronts/80470723.txt
+- UPPLÖV drawer front, matte anthracite: /products/upplöv-matte-anthracite-fronts/80470718.txt
+- UPPLÖV drawer front, matte anthracite: /products/upplöv-matte-anthracite-fronts/70470728.txt
+- UPPLÖV drawer front, matte anthracite: /products/upplöv-matte-anthracite-fronts/60470724.txt
+- UPPLÖV drawer front, matte anthracite: /products/upplöv-matte-anthracite-fronts/60470719.txt
+- UPPLÖV drawer front, matte anthracite: /products/upplöv-matte-anthracite-fronts/50470729.txt
+- UPPLÖV drawer front, matte anthracite: /products/upplöv-matte-anthracite-fronts/40470720.txt
+- UPPLÖV drawer front, matte anthracite: /products/upplöv-matte-anthracite-fronts/30470730.txt
+- UPPLÖV drawer front, matte anthracite: /products/upplöv-matte-anthracite-fronts/30470725.txt
+- UPPLÖV drawer front, matte anthracite: /products/upplöv-matte-anthracite-fronts/20470721.txt
+- UPPLÖV drawer front, matte anthracite: /products/upplöv-matte-anthracite-fronts/20470716.txt
+- UPPLÖV drawer front, matte anthracite: /products/upplöv-matte-anthracite-fronts/10470726.txt
+- UPPLÖV drawer front, matte anthracite: /products/upplöv-matte-anthracite-fronts/00470722.txt
+- UPPLÖV drawer front, matte anthracite: /products/upplöv-matte-anthracite-fronts/00470717.txt
+- UPPLÖV door, matte anthracite: /products/upplöv-matte-anthracite-fronts/90470708.txt
+- UPPLÖV door, matte anthracite: /products/upplöv-matte-anthracite-fronts/80470704.txt
+- UPPLÖV door, matte anthracite: /products/upplöv-matte-anthracite-fronts/80470695.txt
+- UPPLÖV door, matte anthracite: /products/upplöv-matte-anthracite-fronts/70470714.txt
+- UPPLÖV door, matte anthracite: /products/upplöv-matte-anthracite-fronts/70470709.txt
+- UPPLÖV door, matte anthracite: /products/upplöv-matte-anthracite-fronts/60470700.txt
+- UPPLÖV door, matte anthracite: /products/upplöv-matte-anthracite-fronts/60470696.txt
+- UPPLÖV door, matte anthracite: /products/upplöv-matte-anthracite-fronts/50470710.txt
+- UPPLÖV door, matte anthracite: /products/upplöv-matte-anthracite-fronts/50470705.txt
+- UPPLÖV door, matte anthracite: /products/upplöv-matte-anthracite-fronts/50470692.txt
+- UPPLÖV door, matte anthracite: /products/upplöv-matte-anthracite-fronts/40470701.txt
+- UPPLÖV door, matte anthracite: /products/upplöv-matte-anthracite-fronts/40470697.txt
+- UPPLÖV door, matte anthracite: /products/upplöv-matte-anthracite-fronts/30470711.txt
+- UPPLÖV door, matte anthracite: /products/upplöv-matte-anthracite-fronts/30470693.txt
+- UPPLÖV door, matte anthracite: /products/upplöv-matte-anthracite-fronts/20470702.txt
+- UPPLÖV door, matte anthracite: /products/upplöv-matte-anthracite-fronts/20470698.txt
+- UPPLÖV door, matte anthracite: /products/upplöv-matte-anthracite-fronts/10470712.txt
+- UPPLÖV door, matte anthracite: /products/upplöv-matte-anthracite-fronts/10470707.txt
+- UPPLÖV door, matte anthracite: /products/upplöv-matte-anthracite-fronts/10470694.txt
+- UPPLÖV door, matte anthracite: /products/upplöv-matte-anthracite-fronts/00470703.txt
+- UPPLÖV door, matte anthracite: /products/upplöv-matte-anthracite-fronts/00470699.txt
+- UPPLÖV 2-p door/corner base cabinet set, right-handed/matte anthracite: /products/upplöv-matte-anthracite-fronts/40470715.txt
+- UPPLÖV 2-p door/corner base cabinet set, left-handed/matte anthracite: /products/upplöv-matte-anthracite-fronts/20497400.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

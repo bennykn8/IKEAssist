@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: JÄSNING bread basket
+SKU: 10480136
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/jaesning-bread-basket-10480136/
+Category: Baking tools & gadgets
+Description: , 9" Perfect size every time. A proofing basket holds the dough in place and gives bread the right height when it rises – and gives the loaf a nice pattern when it’s done. After all, we also eat with ...
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 60 % cotton, 40 % linen, Basket: Rattan
+Features: Hand wash the proofing basket with cold water 1-2 times per year or as needed. Do not use detergent. | Allow the basket to air dry before storing it away. | Rattan is a natural fiber that might change color over time.
+Care: Shrinkage maximum 4%. | Machine wash warm (max 140°F/60°C) normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/jaesning-bread-basket__0932118_pe791590_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

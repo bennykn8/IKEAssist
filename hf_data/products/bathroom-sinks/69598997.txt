@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: ORRSJÖN sink with water trap, white 8" widespread
+SKU: 69598997
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/orrsjoen-sink-with-water-trap-white-8-widespread-s69598997/
+Category: Bathroom sinks
+Description: , 31x213/4" This integrated ceramic wash-basin is designed for a perfect fit in our wash-stands. A flawless look with soft, smooth lines and plenty of space to place your toothbrush holder and soap di...
+
+# @OFFER
+Price: 160
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Ceramic, Colored glaze, Cover/ Spring: Stainless steel, Cover cap/ Mechanism: Acetal plastic
+Dimensions: Waste outlet pipe diameter: 1 1/2" (38.1 mm).
+Features: Comprises: 1 sink and 1 water trap. | Polished stainless steel wash-basin pop-up plug included. | Overflow kit with chrome-finish overflow ring included.
+Care: Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary. | Do not use scouring powder, steel wool, hard or sharp tools which can scratch the surface of the sink.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/orrsjoen-sink-with-water-trap-white-8-widespread__1397986_pe967802_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

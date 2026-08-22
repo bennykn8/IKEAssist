@@ -1,0 +1,37 @@
+# @CATEGORY
+Name: USB chargers, portable chargers & more
+ProductCount: 15
+
+# @FILTERS
+PriceRange: $2.99 - $24.99
+Materials: Base: Cork, Clip: Steel, Feet: EVA plastic, Housing: ABS plastic, Housing: Polycarbonate/ABS plastic, Polycarbonate plastic, Spacer: Synthetic rubber, Thermoplastic elastomer
+Brand: IKEA
+
+# @ITEMS
+- SMÅHAGEL 3-port USB charger, white: /products/usb-chargers-portable-chargers-and-more/60539182.txt
+- SMÅHAGEL 1-port USB charger, white: /products/usb-chargers-portable-chargers-and-more/10538731.txt
+- SJÖSS 45W 2-port USB-C charger, fast charging: /products/usb-chargers-portable-chargers-and-more/10574470.txt
+- SJÖSS 30W 1-port USB-C charger, fast charging: /products/usb-chargers-portable-chargers-and-more/30574469.txt
+- SITTBRUNN USB-C to USB-C, blue, 39 ¼": /products/usb-chargers-portable-chargers-and-more/30546650.txt
+- SITTBRUNN USB-A to USB-C, white, 78 ¾": /products/usb-chargers-portable-chargers-and-more/90587685.txt
+- SITTBRUNN USB-A to USB-C, light yellow, 39 ¼": /products/usb-chargers-portable-chargers-and-more/80539483.txt
+- RUNDHULT USB-C to USB-C, dark gray, 4'11"/100 W: /products/usb-chargers-portable-chargers-and-more/00581107.txt
+- RUNDHULT USB-C to USB-C, black/white, 4'11"/100 W: /products/usb-chargers-portable-chargers-and-more/20581106.txt
+- NORDMÄRKE USB charger, white/cork: /products/usb-chargers-portable-chargers-and-more/60442571.txt
+- LÖRBY USB charger with clamp: /products/usb-chargers-portable-chargers-and-more/70381973.txt
+- LILLHULT USB-C to USB-C, light gray: /products/usb-chargers-portable-chargers-and-more/40581092.txt
+- LILLHULT USB-C to lightning, gray: /products/usb-chargers-portable-chargers-and-more/30581257.txt
+- LILLHULT USB-A to USB-C, black/white: /products/usb-chargers-portable-chargers-and-more/20584124.txt
+- LILLHULT USB-A to lightning, dark gray: /products/usb-chargers-portable-chargers-and-more/80581269.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

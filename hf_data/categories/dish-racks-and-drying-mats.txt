@@ -1,0 +1,44 @@
+# @CATEGORY
+Name: Dish racks & drying mats
+ProductCount: 22
+
+# @FILTERS
+PriceRange: $1.49 - $34.99
+Materials: Bamboo, Clear acrylic lacquer, Body: Polypropylene, Cover cap/ Draining-tray/ Flatware tray: Polypropylene plastic (min. 20% recycled), Cover cap: Polyamide, Dish drainer: Powder coating, Galvanized steel, Draining-tray: Polypropylene, Fabric: 100 % polyester (100% recycled), Feet: Synthetic rubber, Filling material: Polyurethane foam., Galvanized steel, Polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- VÄLVÅRDAD utensil holder, beige/galvanized: /products/dish-racks-and-drying-mats/30473719.txt
+- VÄLVÅRDAD dish drying shelf, stainless steel, 5x12 ½": /products/dish-racks-and-drying-mats/70473717.txt
+- VÄLVÅRDAD dish drying rack, stainless steel, 4 ¾x12 ½": /products/dish-racks-and-drying-mats/60473713.txt
+- VÄLVÅRDAD dish drainer, beige/galvanized, 20 ½x13 ¾": /products/dish-racks-and-drying-mats/00430142.txt
+- STÄMLING dish drainer, off-white: /products/dish-racks-and-drying-mats/70565948.txt
+- RINNIG sink container, black: /products/dish-racks-and-drying-mats/80595445.txt
+- RINNIG plate holder, yellow: /products/dish-racks-and-drying-mats/40601354.txt
+- RINNIG plate holder: /products/dish-racks-and-drying-mats/70387258.txt
+- RINNIG dish drying mat, beige: /products/dish-racks-and-drying-mats/50595442.txt
+- RINNIG dish drainer, double-sided, white, 15 ¾x12 ¼": /products/dish-racks-and-drying-mats/60601348.txt
+- RINNIG dish drainer, double-sided, green, 15 ¾x12 ¼": /products/dish-racks-and-drying-mats/20601350.txt
+- OSTBIT plate holder, bamboo: /products/dish-racks-and-drying-mats/90322360.txt
+- ORDNING utensil holder, stainless steel: /products/dish-racks-and-drying-mats/30131716.txt
+- ORDNING utensil holder, stainless steel: /products/dish-racks-and-drying-mats/30011832.txt
+- ORDNING Dish drainer, stainless steel: /products/dish-racks-and-drying-mats/10018194.txt
+- NYSKÖLJD dish drying mat, dark gray, 17 ¼x14 ¼": /products/dish-racks-and-drying-mats/00451059.txt
+- NYSKÖLJD dish drying mat, blue, 17 ¼x14 ¼": /products/dish-racks-and-drying-mats/50387259.txt
+- LILLHAVET multifunctional dish rack, anthracite: /products/dish-racks-and-drying-mats/80461276.txt
+- KVOT dish drainer, galvanized: /products/dish-racks-and-drying-mats/36980400.txt
+- FLUNDRA dish drainer, white: /products/dish-racks-and-drying-mats/40176950.txt
+- EKIPERA utensil holder tray, black: /products/dish-racks-and-drying-mats/20242588.txt
+- AVSTEG utensil holder, white: /products/dish-racks-and-drying-mats/80531670.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

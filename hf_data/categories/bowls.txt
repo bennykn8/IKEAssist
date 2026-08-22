@@ -1,0 +1,61 @@
+# @CATEGORY
+Name: Bowls
+ProductCount: 39
+
+# @FILTERS
+PriceRange: $0.49 - $19.99
+Materials: Feldspar porcelain, Feldspar porcelain, Colored glaze, Glass, Polypropylene, Stoneware, Stoneware, Colored glaze, Stoneware, Pigmented glaze, Clear glaze, Tempered glass, Tempered opal glass, Tempered opal glass, Glass enamel
+Brand: IKEA
+
+# @ITEMS
+- VITABBORRE bowl, blue, 6 ¼": /products/bowls/10611180.txt
+- VITABBORRE bowl, beige, 6 ¼": /products/bowls/30611198.txt
+- VARDAGEN bowl, clear glass, 4 ¾": /products/bowls/00289261.txt
+- STRIMMIG bowl, white, 4 ½": /products/bowls/40468190.txt
+- STRIMMIG bowl, white: /products/bowls/40468185.txt
+- STOCKHOLM 2025 bowl, brown: /products/bowls/30592425.txt
+- SILVERSIDA bowl, patterned/blue, 4 ½": /products/bowls/80565698.txt
+- SILVERSIDA bowl, patterned/blue, 5 ½": /products/bowls/50565690.txt
+- SANDSKÄDDA bowl, light grey-beige, 5 ½": /products/bowls/40559449.txt
+- SANDSKÄDDA bowl, light grey-beige, 4 ½": /products/bowls/00559446.txt
+- SÄLLSKAPLIG bowl, clear glass/patterned: /products/bowls/80473335.txt
+- PARADISISK bowl, off-white, 6 ½": /products/bowls/70483467.txt
+- OMBONAD bowl, dark gray: /products/bowls/20502963.txt
+- OFTAST bowl, white black/dot pattern: /products/bowls/50608265.txt
+- OFTAST bowl, white: /products/bowls/80258915.txt
+- OFTAST bowl, light green green/dot pattern: /products/bowls/30608247.txt
+- OFTAST bowl, light green: /products/bowls/40609492.txt
+- NÄTBARB bowl, black, 5 ½": /products/bowls/10563693.txt
+- MOSSMAL bowl, dot pattern/light green, 6 ½": /products/bowls/90582777.txt
+- KEJSERLIG bowl, mixed colors: /products/bowls/00511497.txt
+- IKEA 365+ bowl, rounded sides white: /products/bowls/80279687.txt
+- IKEA 365+ bowl, rounded sides white: /products/bowls/50258950.txt
+- IKEA 365+ bowl, rounded sides white: /products/bowls/20278351.txt
+- IKEA 365+ bowl, rounded sides white, 7 ½": /products/bowls/00468130.txt
+- GODMIDDAG bowl, white, 7 ½": /products/bowls/90479704.txt
+- GODMIDDAG bowl, white, 4 ½": /products/bowls/70584980.txt
+- GODMIDDAG bowl, white, 6 ½": /products/bowls/00585030.txt
+- GLADELIG bowl, gray, 4 ½": /products/bowls/80600748.txt
+- GLADELIG bowl, gray, 5 ½": /products/bowls/40600750.txt
+- GLADELIG bowl, dark gray, 5 ½": /products/bowls/10597018.txt
+- GLADELIG bowl, blue, 5 ½": /products/bowls/40600712.txt
+- GLADELIG bowl, blue, 4 ½": /products/bowls/10600723.txt
+- FÄRGKLAR bowl, matte light turquoise, 6 ½": /products/bowls/10477191.txt
+- FÄRGKLAR bowl, matte light gray, 6 ½": /products/bowls/50479353.txt
+- FÄRGKLAR bowl, matte green, 6 ½": /products/bowls/30478137.txt
+- FÄRGKLAR bowl, light pink, 6 ½": /products/bowls/20600416.txt
+- FÄRGKLAR bowl, glossy brown, 6 ½": /products/bowls/70485428.txt
+- FÄRGKLAR bowl, glossy brown, 4 ½": /products/bowls/10485426.txt
+- ENTUSIASM bowl, patterned/blue, 4 ½": /products/bowls/70417241.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

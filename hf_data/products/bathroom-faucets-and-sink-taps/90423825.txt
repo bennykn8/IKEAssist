@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ÅBÄCKEN mist nozzle for faucet
+SKU: 90423825
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/abaecken-mist-nozzle-for-faucet-90423825/
+Category: Bathroom faucets & sink taps
+Description: This ergonomically designed nozzle allows you to keep good hand hygiene and benefit from healthy habits when you wash. Choose mist or spray mode and save water every time you run the tap. Smooth, easy...
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Nozzle: Acetal plastic, Synthetic rubber, Ceramic material, Connector: Synthetic rubber, Polypropylene, Handle: ABS plastic
+Features: Max. temperature hot water system 60°C/140°F. | Saves up to 95% water in mist mode and 66% in spray mode when compared to standard faucets with a water flow rate of 1.5 gal/min. | Recommended for use with bathroom faucets.
+Care: Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary. | To remove larger limescale deposits – use diluted, ordinary white vinegar and rinse with water.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/abaecken-mist-nozzle-for-faucet__1083307_pe859003_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

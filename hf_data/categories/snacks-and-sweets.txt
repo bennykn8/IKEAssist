@@ -1,0 +1,48 @@
+# @CATEGORY
+Name: Snacks & sweets
+ProductCount: 27
+
+# @FILTERS
+PriceRange: $0.99 - $7.99
+Brand: IKEA
+
+# @ITEMS
+- MUNSBIT roasted cashews, salted, 2 oz: /products/snacks-and-sweets/00563537.txt
+- MUNSBIT roasted almonds, salted, 2 oz: /products/snacks-and-sweets/60563600.txt
+- MUNSBIT mix of roasted nuts, cranberries and raisins/unsalted, 2 oz: /products/snacks-and-sweets/40554545.txt
+- MUNSBIT mix of roasted nuts/berries, salted, 2 oz: /products/snacks-and-sweets/90554543.txt
+- KEXCHOKLAD crispy wafer in milk chocolate, mini bag, 6 oz: /products/snacks-and-sweets/00604383.txt
+- KEXCHOKLAD crispy wafer in milk chocolate, 2 oz: /products/snacks-and-sweets/30610839.txt
+- FYRTAKT sweet licorice, 4 oz: /products/snacks-and-sweets/70590047.txt
+- FYRTAKT sour jelly candy, cola flavor, 0 lb: /products/snacks-and-sweets/40588734.txt
+- FYRTAKT salty liquorice, 4 oz: /products/snacks-and-sweets/30590148.txt
+- FYRTAKT mix of sweet and sour jelly candy, 16 oz: /products/snacks-and-sweets/20590158.txt
+- FYRTAKT mix of jelly candy, 16 oz: /products/snacks-and-sweets/60590161.txt
+- FYRTAKT jelly candy, with berry flavors, 4 oz: /products/snacks-and-sweets/20586948.txt
+- FYRTAKT jelly candy, cola flavor, 4 oz: /products/snacks-and-sweets/40588729.txt
+- FESTLIGT potato crisps, sour cream/onion, 5 oz: /products/snacks-and-sweets/70440779.txt
+- FESTLIGT potato crisps, salted, 5 oz: /products/snacks-and-sweets/40440790.txt
+- FAZER milk chocolate bar, toffee pieces, 5 oz: /products/snacks-and-sweets/90584700.txt
+- FAZER milk chocolate bar, salty toffee crunch, 5 oz: /products/snacks-and-sweets/70584701.txt
+- DUMLE chocolate covered toffee: /products/snacks-and-sweets/60392854.txt
+- CHOKLAD NÖT milk chocolate bar, with hazelnuts Rainforest Alliance Certified, 4 oz: /products/snacks-and-sweets/50531450.txt
+- CHOKLAD MÖRK dark chocolate bar, Rainforest Alliance Certified, 0 lb: /products/snacks-and-sweets/00531546.txt
+- CHOKLAD LJUS milk chocolate bar, Rainforest Alliance Certified, 4 oz: /products/snacks-and-sweets/90531212.txt
+- BELÖNING white chocolate tablet, with raspberry Rainforest Alliance Certified, 4 oz: /products/snacks-and-sweets/20531461.txt
+- BELÖNING milk chocolate moose, self-assembly Rainforest Alliance Certified, 3 oz: /products/snacks-and-sweets/80531689.txt
+- BELÖNING milk chocolate bar, w caramel and salty almond filling Rainforest Alliance Certified, 2 oz: /products/snacks-and-sweets/80531585.txt
+- BELÖNING milk chocolate bar, w caramel and salty almond filling Rainforest Alliance Certified, 8 oz: /products/snacks-and-sweets/60525670.txt
+- BELÖNING milk chocolate bar, oat and caramel Rainforest Alliance Certified, 1 oz: /products/snacks-and-sweets/40531573.txt
+- BELÖNING milk chocolate bar, oat and caramel Rainforest Alliance Certified, 8 oz: /products/snacks-and-sweets/20525672.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,28 @@
+# @CATEGORY
+Name: HAVBÄCK storage
+ProductCount: 6
+
+# @FILTERS
+PriceRange: $99.00 - $219.00
+Materials: Back panel: Fiberboard, Plastic foil, Plastic foil, Frame/ Door/ Adjustable shelf/ Fixed shelf: Particleboard, Plastic foil, Plastic edging, Plastic edging (min. 50% recycled), Frame/ Door: Particleboard, Plastic foil, Plastic edging, Plastic edging (min. 50% recycled), Shelf: Tempered glass
+Brand: IKEA
+
+# @ITEMS
+- HAVBÄCK wall cabinet with door, white: /products/havbäck-storage/70535169.txt
+- HAVBÄCK wall cabinet with door, dark gray: /products/havbäck-storage/80535178.txt
+- HAVBÄCK wall cabinet with door, beige: /products/havbäck-storage/10574012.txt
+- HAVBÄCK high cabinet with doors, white: /products/havbäck-storage/20535181.txt
+- HAVBÄCK high cabinet with doors, dark gray: /products/havbäck-storage/30535190.txt
+- HAVBÄCK high cabinet with doors, beige: /products/havbäck-storage/80574004.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

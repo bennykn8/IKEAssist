@@ -1,0 +1,24 @@
+# @CATEGORY
+Name: HEMNES storage
+ProductCount: 2
+
+# @FILTERS
+PriceRange: $134.99 - $134.99
+Materials: Rail/ Leg: Solid birch, Acrylic paint, Solid pine, Stain, Clear acrylic lacquer, Top/ Shelf: Fiberboard, Acrylic paint
+Brand: IKEA
+
+# @ITEMS
+- HEMNES Shelf unit, white: /products/hemnes-storage/30217654.txt
+- HEMNES Shelf unit, gray: /products/hemnes-storage/20349004.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,58 @@
+# @CATEGORY
+Name: Cooking preparation tools
+ProductCount: 36
+
+# @FILTERS
+PriceRange: $0.79 - $24.99
+Materials: Blade: Stainless steel, Body: ABS plastic, Body: Aluminum, Chrome plated, Body: High impact polystyrene, Body: Polyamide, Body: Reinforced polyamide, Body: Reinforced polypropylene, Bracket/ Grater: Stainless steel, Container/ Lid: Polypropylene, Cover: Polypropylene
+Brand: IKEA
+
+# @ITEMS
+- VARDAGEN zester with handle, stainless steel/beech: /products/cooking-preparation-tools/70581477.txt
+- VARDAGEN potato peeler: /products/cooking-preparation-tools/00578322.txt
+- VARDAGEN potato masher, stainless steel/beech: /products/cooking-preparation-tools/10581512.txt
+- UPPFYLLD vegetable spiralizer, set of 2, bright orange/bright green: /products/cooking-preparation-tools/70578267.txt
+- UPPFYLLD vegetable cutters, set of 2, bright yellow/bright orange: /products/cooking-preparation-tools/90578266.txt
+- UPPFYLLD vegetable brush, bright yellow: /products/cooking-preparation-tools/70578366.txt
+- UPPFYLLD rotary grater, set of 2, white: /products/cooking-preparation-tools/60578263.txt
+- UPPFYLLD pizza cutter, off-white: /products/cooking-preparation-tools/20578260.txt
+- UPPFYLLD peeler, bright green: /products/cooking-preparation-tools/40578259.txt
+- UPPFYLLD lemon squeezer, bright yellow/bright green: /products/cooking-preparation-tools/90528691.txt
+- UPPFYLLD jar opener, off-white/bright orange, 8 ¼": /products/cooking-preparation-tools/00529398.txt
+- UPPFYLLD handheld zester, off-white: /products/cooking-preparation-tools/20578255.txt
+- UPPFYLLD grater with handle, bright green: /products/cooking-preparation-tools/50578254.txt
+- UPPFYLLD grater with container, set of 4, mixed colors: /products/cooking-preparation-tools/70578210.txt
+- UPPFYLLD funnel, bright yellow: /products/cooking-preparation-tools/80521930.txt
+- UPPFYLLD fruit cutter, set of 4, mixed colors: /products/cooking-preparation-tools/70578253.txt
+- UPPFYLLD egg slicer, set of 4, mixed colors: /products/cooking-preparation-tools/50528688.txt
+- UPPFYLLD egg slicer, off-white: /products/cooking-preparation-tools/70605124.txt
+- UPPFYLLD cheese slicer, bright yellow: /products/cooking-preparation-tools/90578252.txt
+- TROJKA scissors, light green: /products/cooking-preparation-tools/20578364.txt
+- SVARTFISK kitchen shears, stainless steel/black: /products/cooking-preparation-tools/60578362.txt
+- SVÄRDFISK scissors, set of 2, stainless steel gray/gray-turquoise: /products/cooking-preparation-tools/40578363.txt
+- STRÅLFENA spaghetti server, solid birch: /products/cooking-preparation-tools/40580479.txt
+- MÅNÖGA scissors, stainless steel/black: /products/cooking-preparation-tools/80576531.txt
+- MÄRKBART scissors, set of: /products/cooking-preparation-tools/40328557.txt
+- KONCIS garlic press, stainless steel: /products/cooking-preparation-tools/30578194.txt
+- KONCIS cheese slicer, stainless steel: /products/cooking-preparation-tools/50596494.txt
+- KONCIS can opener, stainless steel: /products/cooking-preparation-tools/00081534.txt
+- IKEA 365+ VÄRDEFULL potato peeler, black: /products/cooking-preparation-tools/90578191.txt
+- IKEA 365+ VÄRDEFULL meat tenderizer, black: /products/cooking-preparation-tools/10578190.txt
+- IKEA 365+ VÄRDEFULL can opener, black: /products/cooking-preparation-tools/80152155.txt
+- IKEA 365+ mandoline, black: /products/cooking-preparation-tools/50471564.txt
+- IKEA 365+ grater, black: /products/cooking-preparation-tools/10577925.txt
+- IDEALISK potato press, stainless steel: /products/cooking-preparation-tools/90578172.txt
+- IDEALISK grater, stainless steel: /products/cooking-preparation-tools/10578171.txt
+- ÄDELSTEN mortar and pestel, marble black: /products/cooking-preparation-tools/60201251.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

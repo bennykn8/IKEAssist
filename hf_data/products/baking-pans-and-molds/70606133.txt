@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VINTERROCKA springform pan, stainless steel, 8 ¾"
+SKU: 70606133
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vinterrocka-springform-pan-stainless-steel-70606133/
+Category: Baking pans & molds
+Description: Make sure your next baking session is fun and hassle-free. This springform is a versatile kitchen assistant that helps you succeed with everything from cheesecake and quiche to deep-pan pizza. Made of...
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Stainless steel
+Features: Always grease the pan with oil or butter for best results. | Wash this product before using it for the first time.
+Care: Dishwasher-safe. | Oven-safe – withstands temperatures up to 536 °F.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vinterrocka-springform-pan-stainless-steel__1399113_pe968256_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

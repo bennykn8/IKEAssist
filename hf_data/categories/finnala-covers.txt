@@ -1,0 +1,112 @@
+# @CATEGORY
+Name: FINNALA covers
+ProductCount: 90
+
+# @FILTERS
+PriceRange: $15.00 - $684.00
+Materials: 100 % cotton, 100% polyester (min. 90% recycled), 65% polyester (min. 90% recycled), 35 % cotton, 78 % cotton, 22 % polyester (100% recycled), Back fabric: 100 % polyester (100% recycled), Cover, other surfaces: 100 % polyester, Fabric: 100 % cotton, Fabric: 100% polyester (min. 90% recycled), Fabric: 65% polyester (min. 90% recycled), 35 % cotton, Fabric: 78 % cotton, 22 % polyester (100% recycled)
+Brand: IKEA
+
+# @ITEMS
+- FINNALA cvr crnr sofa, 5-seat w chaise, Tallmyra black/gray: /products/finnala-covers/69575608.txt
+- FINNALA cvr crnr sofa, 5-seat w chaise, Gunnared medium gray: /products/finnala-covers/59575604.txt
+- FINNALA cvr crnr sofa, 5-seat w chaise, Gunnared beige: /products/finnala-covers/29575610.txt
+- FINNALA cvr crnr sleeper sofa 5-seat w chs, Tallmyra black/gray: /products/finnala-covers/59575623.txt
+- FINNALA cvr crnr sleeper sofa 5-seat w chs, Gunnared medium gray: /products/finnala-covers/99575616.txt
+- FINNALA cvr crnr sleeper sofa 5-seat w chs, Gunnared beige: /products/finnala-covers/49575614.txt
+- FINNALA cover sleeper sofa w chaise, Tallmyra black/gray: /products/finnala-covers/29575634.txt
+- FINNALA cover sleeper sofa w chaise, Gunnared medium gray: /products/finnala-covers/69575627.txt
+- FINNALA cover sleeper sofa w chaise, Gunnared beige: /products/finnala-covers/09575625.txt
+- FINNALA cover sectional/4-seat w chaise, Tallmyra black/gray: /products/finnala-covers/39575657.txt
+- FINNALA cover sectional/4-seat w chaise, Gunnared medium gray: /products/finnala-covers/69575651.txt
+- FINNALA cover sectional/4-seat w chaise, Gunnared beige: /products/finnala-covers/29575648.txt
+- FINNALA cover for sofa, with open end/Gunnared beige: /products/finnala-covers/29319757.txt
+- FINNALA cover for sofa, with chaise/Tallmyra black/gray: /products/finnala-covers/79319769.txt
+- FINNALA cover for sofa, with chaise/Gunnared medium gray: /products/finnala-covers/49319775.txt
+- FINNALA cover for sofa, with chaise/Gunnared beige: /products/finnala-covers/99319773.txt
+- FINNALA cover for sofa, Tallmyra black/gray: /products/finnala-covers/69319741.txt
+- FINNALA Cover for sofa section, Tallmyra black/gray: /products/finnala-covers/50454847.txt
+- FINNALA cover for sofa section, Orrsta black-blue: /products/finnala-covers/90454845.txt
+- FINNALA Cover for sofa section, Gunnared medium gray: /products/finnala-covers/20454844.txt
+- FINNALA Cover for sofa section, Gunnared beige: /products/finnala-covers/40454843.txt
+- FINNALA cover for sofa, Gunnared medium gray: /products/finnala-covers/89319735.txt
+- FINNALA cover for sofa, Gunnared beige: /products/finnala-covers/39319733.txt
+- FINNALA cover for sleeper sofa, with chaise/Tallmyra black/gray: /products/finnala-covers/59319789.txt
+- FINNALA cover for sleeper sofa, with chaise/Gunnared medium gray: /products/finnala-covers/89319783.txt
+- FINNALA cover for sleeper sofa, with chaise/Gunnared beige: /products/finnala-covers/29319781.txt
+- FINNALA cover for sleeper sofa, Tallmyra black/gray: /products/finnala-covers/19319753.txt
+- FINNALA cover for sleeper sofa, Tallmyra black/gray: /products/finnala-covers/19319729.txt
+- FINNALA cover for sleeper sofa, Gunnared medium gray: /products/finnala-covers/49319723.txt
+- FINNALA cover for sleeper sofa, Gunnared medium gray: /products/finnala-covers/39319747.txt
+- FINNALA cover for sleeper sofa, Gunnared beige: /products/finnala-covers/89319721.txt
+- FINNALA cover for sleeper sofa, Gunnared beige: /products/finnala-covers/79319745.txt
+- FINNALA cover for sectional, 5-seat, with chaise/Tallmyra black/gray: /products/finnala-covers/69319840.txt
+- FINNALA cover for sectional, 5-seat, with chaise/Gunnared medium gray: /products/finnala-covers/39319846.txt
+- FINNALA cover for sectional, 5-seat, with chaise/Gunnared beige: /products/finnala-covers/89319844.txt
+- FINNALA cover for sectional, 5-seat, Tallmyra black/gray: /products/finnala-covers/09319838.txt
+- FINNALA cover for sectional, 5-seat, Gunnared medium gray: /products/finnala-covers/39319832.txt
+- FINNALA cover for sectional, 5-seat, Gunnared beige: /products/finnala-covers/79319830.txt
+- FINNALA cover for sectional, 4-seat, with open end/Tallmyra black/gray: /products/finnala-covers/59319826.txt
+- FINNALA cover for sectional, 4-seat, with open end/Gunnared beige: /products/finnala-covers/29319818.txt
+- FINNALA cover for sectional, 4-seat, with chaise/Tallmyra black/gray: /products/finnala-covers/79319793.txt
+- FINNALA cover for sectional, 4-seat, with chaise/Gunnared medium gray: /products/finnala-covers/09319800.txt
+- FINNALA cover for sectional, 4-seat, with chaise/Gunnared beige: /products/finnala-covers/69319798.txt
+- FINNALA cover for sectional, 4-seat, Tallmyra black/gray: /products/finnala-covers/19319814.txt
+- FINNALA cover for sectional, 4-seat, Gunnared medium gray: /products/finnala-covers/39319808.txt
+- FINNALA cover for sectional, 4-seat, Gunnared beige: /products/finnala-covers/79319806.txt
+- FINNALA cover for ottoman with storage, Tallmyra black/gray: /products/finnala-covers/20454877.txt
+- FINNALA Cover for ottoman with storage, Tallmyra beige: /products/finnala-covers/40454876.txt
+- FINNALA cover for ottoman with storage, Orrsta black-blue: /products/finnala-covers/60454875.txt
+- FINNALA cover for ottoman with storage, Gunnared medium gray: /products/finnala-covers/90454874.txt
+- FINNALA Cover for ottoman with storage, Gunnared beige: /products/finnala-covers/10454873.txt
+- FINNALA cover for ottoman with storage, Dalstorp multicolor: /products/finnala-covers/70454974.txt
+- FINNALA cover for loveseat, Tallmyra black/gray: /products/finnala-covers/69319717.txt
+- FINNALA cover for loveseat sleeper section, Tallmyra black/gray: /products/finnala-covers/30454990.txt
+- FINNALA cover for loveseat sleeper section, Orrsta black-blue: /products/finnala-covers/70454988.txt
+- FINNALA cover for loveseat sleeper section, Gunnared medium gray: /products/finnala-covers/90454987.txt
+- FINNALA cover for loveseat sleeper section, Gunnared beige: /products/finnala-covers/10454986.txt
+- FINNALA cover for loveseat section, Tallmyra black/gray: /products/finnala-covers/60454842.txt
+- FINNALA Cover for loveseat section, Gunnared medium gray: /products/finnala-covers/20454839.txt
+- FINNALA Cover for loveseat section, Gunnared beige: /products/finnala-covers/40454838.txt
+- FINNALA cover for loveseat, Gunnared medium gray: /products/finnala-covers/99319711.txt
+- FINNALA cover for loveseat, Gunnared beige: /products/finnala-covers/39319709.txt
+- FINNALA cover for headrest, Tallmyra black/gray: /products/finnala-covers/30482672.txt
+- FINNALA cover for headrest, Orrsta black-blue: /products/finnala-covers/30482667.txt
+- FINNALA cover for headrest, Gunnared medium gray: /products/finnala-covers/10482673.txt
+- FINNALA cover for headrest, Gunnared beige: /products/finnala-covers/10482668.txt
+- FINNALA Cover for corner section, Tallmyra black/gray: /products/finnala-covers/40454857.txt
+- FINNALA cover for corner section, Orrsta black-blue: /products/finnala-covers/80454855.txt
+- FINNALA Cover for corner section, Gunnared medium gray: /products/finnala-covers/10454854.txt
+- FINNALA Cover for corner section, Gunnared beige: /products/finnala-covers/30454853.txt
+- FINNALA Cover for chaise section, Tallmyra black/gray: /products/finnala-covers/30454867.txt
+- FINNALA Cover for chaise section, Gunnared medium gray: /products/finnala-covers/00454864.txt
+- FINNALA Cover for chaise section, Gunnared beige: /products/finnala-covers/20454863.txt
+- FINNALA Cover for armrest, Tallmyra black/gray: /products/finnala-covers/50454852.txt
+- FINNALA Cover for armrest, Gunnared medium gray: /products/finnala-covers/10454849.txt
+- FINNALA Cover for armrest, Gunnared beige: /products/finnala-covers/30454848.txt
+- FINNALA cover for armrest, Dalstorp multicolor: /products/finnala-covers/70454969.txt
+- FINNALA cover for 4-seat sectional, Tallmyra black/gray: /products/finnala-covers/69575646.txt
+- FINNALA cover for 4-seat sectional, Gunnared medium gray: /products/finnala-covers/39575638.txt
+- FINNALA cover for 4-seat sectional, Gunnared beige: /products/finnala-covers/79575636.txt
+- FINNALA Cover for 1-seat section, Tallmyra black/gray: /products/finnala-covers/40454862.txt
+- FINNALA cover for 1-seat section, Orrsta black-blue: /products/finnala-covers/80454860.txt
+- FINNALA Cover for 1-seat section, Gunnared medium gray: /products/finnala-covers/00454859.txt
+- FINNALA Cover for 1-seat section, Gunnared beige: /products/finnala-covers/20454858.txt
+- FINNALA cover f/corner sleeper sofa, 5-seat, with chaise/Tallmyra black/gray: /products/finnala-covers/19319852.txt
+- FINNALA cover f/corner sleeper sofa, 5-seat, with chaise/Gunnared medium gray: /products/finnala-covers/89319858.txt
+- FINNALA cover f/corner sleeper sofa, 5-seat, with chaise/Gunnared beige: /products/finnala-covers/29319856.txt
+- FINNALA chaise cover, Tallmyra black/gray: /products/finnala-covers/59319874.txt
+- FINNALA chaise cover, Gunnared medium gray: /products/finnala-covers/79319868.txt
+- FINNALA chaise cover, Gunnared beige: /products/finnala-covers/19319866.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

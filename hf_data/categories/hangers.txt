@@ -1,0 +1,35 @@
+# @CATEGORY
+Name: Hangers
+ProductCount: 13
+
+# @FILTERS
+PriceRange: $0.99 - $9.99
+Materials: ABS plastic (min. 20% recycled), Hanger: Bamboo, Hook/ Bar/ Spring: Steel, Hook/ Cap: Steel, Hook: Steel, Hook: Steel, Galvanized, Main parts: 100 % nylon, Clear acrylic lacquer, Solid eucalyptus wood, Main parts: Solid wood, Main parts: Solid wood, Acrylic paint, Main parts: Solid wood, Clear acrylic lacquer
+Brand: IKEA
+
+# @ITEMS
+- TRYSSE hanger, white/gray: /products/hangers/10515070.txt
+- STAJLIG hanger, indoor/outdoor, white: /products/hangers/00291419.txt
+- SPRUTTIG hanger, black: /products/hangers/20317079.txt
+- SNYGGING hanger, gray: /products/hangers/90541391.txt
+- JORDART shoehorn, black: /products/hangers/10606051.txt
+- HÖSVANS hanger, bamboo: /products/hangers/00555801.txt
+- GÅRDSMÄSTARE pants/skirt hanger, white: /products/hangers/30540728.txt
+- BUMERANG shoulder shaper for hanger, white: /products/hangers/70293274.txt
+- BUMERANG pants/skirt hanger, natural: /products/hangers/40432479.txt
+- BUMERANG hanger, white: /products/hangers/70238541.txt
+- BUMERANG hanger, natural: /products/hangers/30238543.txt
+- BUMERANG hanger, black: /products/hangers/20238534.txt
+- BUMERANG coat hanger, natural: /products/hangers/90444267.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

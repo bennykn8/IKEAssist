@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BILLY desk, white
+SKU: 80533278
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/billy-desk-white-80533278/
+Category: Bookshelves & bookcases
+Description: , 297/8x235/8" You can mount this desk in BILLY bookcase to save room and solve problems when space is limited. Push the desk in when you're done working for the day – and pull it out for dinnertime. ...
+
+# @OFFER
+Price: 50
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Particleboard, Melamine foil, Melamine foil, Plastic edging, Front rail/ Side rail/ Middle rail: Solid pine, Acrylic paint, Back rail: Fiberboard, Acrylic paint
+Features: Fits BILLY bookcase 31½"wide and 11" deep. | To be mounted in BILLY bookcase, sold separately.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/billy-desk-white__1287222_pe933878_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

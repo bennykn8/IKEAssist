@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LUSTIGKURRE basket, natural water hyacinth/seagrass, 12 ½x13x12 ½"
+SKU: 30457328
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lustigkurre-basket-natural-water-hyacinth-seagrass-30457328/
+Category: Baskets
+Description: This hand-woven basket with its airy pattern and warm color scheme gives you a glimpse of what you store inside. Decorative wherever you put it, but fits perfectly in KALLAX shelf unit.
+
+# @OFFER
+Price: 17.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Inside frame: Steel, Powder coating, Body: Water hyacinth, Seagrass, Clear lacquer
+Features: All new materials have a particular smell which gradually disappears.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lustigkurre-basket-natural-water-hyacinth-seagrass__0922247_pe788098_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

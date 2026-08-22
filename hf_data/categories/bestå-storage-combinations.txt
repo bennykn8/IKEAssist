@@ -1,0 +1,84 @@
+# @CATEGORY
+Name: BESTÅ storage combinations
+ProductCount: 62
+
+# @FILTERS
+PriceRange: $165.00 - $870.00
+Materials: Back panel: Fiberboard, Paper foil, Plastic foil, Particleboard, Fiberboard, Paper foil, Plastic edging, Plastic edging, Plastic edging, Paper foil, Particleboard, Paper foil, Plastic edging, Top panel/ Bottom panel/ Side panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Plastic edging
+Brand: IKEA
+
+# @ITEMS
+- BESTÅ storage combination with doors, white stained oak effect/Selsviken high-gloss/white: /products/bestå-storage-combinations/69071622.txt
+- BESTÅ storage combination with doors, white stained oak effect/Selsviken high-gloss/beige: /products/bestå-storage-combinations/49071623.txt
+- BESTÅ storage combination with doors, white stained oak effect/Laxviken white: /products/bestå-storage-combinations/59071514.txt
+- BESTÅ storage combination with doors, white stained oak effect/Lappviken white stained oak effect: /products/bestå-storage-combinations/99071507.txt
+- BESTÅ storage combination with doors, white stained oak effect/Lappviken white: /products/bestå-storage-combinations/69071504.txt
+- BESTÅ storage combination with doors, white stained oak effect/Lappviken/Stubbarp white stained oak effect: /products/bestå-storage-combinations/39301771.txt
+- BESTÅ storage combination with doors, white/Selsviken high-gloss/white: /products/bestå-storage-combinations/19057529.txt
+- BESTÅ storage combination with doors, white/Selsviken high-gloss/beige: /products/bestå-storage-combinations/19057794.txt
+- BESTÅ storage combination with doors, white/Riksviken light bronze effect: /products/bestå-storage-combinations/49421674.txt
+- BESTÅ storage combination with doors, white/Mörtviken/Stubbarp white: /products/bestå-storage-combinations/79421696.txt
+- BESTÅ storage combination with doors, white/Laxviken white: /products/bestå-storage-combinations/09071465.txt
+- BESTÅ storage combination with doors, white/Lappviken white: /products/bestå-storage-combinations/79057526.txt
+- BESTÅ storage combination with doors, white/Lappviken/Stubbarp white: /products/bestå-storage-combinations/29301762.txt
+- BESTÅ storage combination with doors, white/Lappviken dark gray: /products/bestå-storage-combinations/09575507.txt
+- BESTÅ storage combination with doors, white/Kallviken/Stubbarp concrete effect: /products/bestå-storage-combinations/09305068.txt
+- BESTÅ storage combination with doors, white/Kallviken dark gray concrete effect: /products/bestå-storage-combinations/39434752.txt
+- BESTÅ storage combination with doors, white/Hedeviken oak veneer: /products/bestå-storage-combinations/19421661.txt
+- BESTÅ storage combination with doors, white/Hedeviken oak veneer: /products/bestå-storage-combinations/09421708.txt
+- BESTÅ storage combination with doors, white/Hanviken white: /products/bestå-storage-combinations/49057523.txt
+- BESTÅ storage combination with doors, white Hammarsmed/beige: /products/bestå-storage-combinations/99569352.txt
+- BESTÅ storage combination with doors, white Hammarsmed/anthracite: /products/bestå-storage-combinations/79569353.txt
+- BESTÅ storage combination with doors, white/Björköviken birch veneer: /products/bestå-storage-combinations/29421707.txt
+- BESTÅ storage combination with doors, white/Björköviken birch veneer: /products/bestå-storage-combinations/19421675.txt
+- BESTÅ storage combination with doors, white Bergsviken/black marble effect: /products/bestå-storage-combinations/69421705.txt
+- BESTÅ storage combination with doors, white Bergsviken/black marble effect: /products/bestå-storage-combinations/09421690.txt
+- BESTÅ storage combination with doors, dark gray/Mörtviken dark gray: /products/bestå-storage-combinations/99508151.txt
+- BESTÅ storage combination with doors, dark gray/Mörtviken dark gray: /products/bestå-storage-combinations/09508141.txt
+- BESTÅ storage combination with doors, dark gray/Lappviken/Stubbarp dark gray: /products/bestå-storage-combinations/99508146.txt
+- BESTÅ storage combination with doors, dark gray/Lappviken dark gray: /products/bestå-storage-combinations/89508142.txt
+- BESTÅ storage combination with doors, dark gray/Kallviken/Stubbarp dark gray: /products/bestå-storage-combinations/79508147.txt
+- BESTÅ storage combination with doors, dark gray/Kallviken dark gray: /products/bestå-storage-combinations/49508139.txt
+- BESTÅ storage combination with doors, dark gray/Bergsviken black: /products/bestå-storage-combinations/79508152.txt
+- BESTÅ storage combination with doors, dark gray Bergsviken/black marble effect: /products/bestå-storage-combinations/69508143.txt
+- BESTÅ storage combination with doors, black-brown Selsviken/high gloss dark olive-green: /products/bestå-storage-combinations/39421684.txt
+- BESTÅ storage combination with doors, black-brown/Selsviken high-gloss/black: /products/bestå-storage-combinations/69071523.txt
+- BESTÅ storage combination with doors, black-brown/Selsviken high-gloss/beige: /products/bestå-storage-combinations/39124764.txt
+- BESTÅ storage combination with doors, black-brown/Mörtviken/Stubbarp black: /products/bestå-storage-combinations/99421695.txt
+- BESTÅ storage combination with doors, black-brown/Laxviken white: /products/bestå-storage-combinations/59071528.txt
+- BESTÅ storage combination with doors, black-brown/Lappviken/Stubbarp black-brown: /products/bestå-storage-combinations/59301765.txt
+- BESTÅ storage combination with doors, black-brown/Lappviken black-brown: /products/bestå-storage-combinations/89057903.txt
+- BESTÅ storage combination with doors, black-brown Kallviken/dark gray concrete effect: /products/bestå-storage-combinations/19205884.txt
+- BESTÅ storage combination with doors, black-brown/Hedeviken oak veneer: /products/bestå-storage-combinations/89421653.txt
+- BESTÅ storage combination with doors, black-brown/Hedeviken oak veneer: /products/bestå-storage-combinations/79421700.txt
+- BESTÅ storage combination with doors, black-brown Hedeviken/dark brown stained oak veneer: /products/bestå-storage-combinations/69421654.txt
+- BESTÅ storage combination with doors, black-brown Hedeviken/dark brown stained oak veneer: /products/bestå-storage-combinations/59421697.txt
+- BESTÅ storage combination with doors, black-brown/Hanviken black-brown: /products/bestå-storage-combinations/59058409.txt
+- BESTÅ storage combination with doors, black-brown/Hammarsmed anthracite: /products/bestå-storage-combinations/29569355.txt
+- BESTÅ storage combination with doors, black-brown Björköviken/brown stained oak veneer: /products/bestå-storage-combinations/19421699.txt
+- BESTÅ storage combination with doors, black-brown Björköviken/brown stained oak veneer: /products/bestå-storage-combinations/09421671.txt
+- BESTÅ storage combination w/glass doors, black-brown/Selsviken high gloss/black smoked glass: /products/bestå-storage-combinations/39059457.txt
+- BESTÅ shelving unit, with 5 shelves/white stained oak effect: /products/bestå-storage-combinations/29590413.txt
+- BESTÅ shelving unit, with 5 shelves/white: /products/bestå-storage-combinations/09590409.txt
+- BESTÅ shelving unit, with 5 shelves/dark gray: /products/bestå-storage-combinations/89590405.txt
+- BESTÅ shelving unit, with 5 shelves/black-brown: /products/bestå-storage-combinations/59590402.txt
+- BESTÅ shelf unit with doors, white stained oak effect/Lappviken white stained oak effect: /products/bestå-storage-combinations/99429700.txt
+- BESTÅ shelf unit with doors, white Lappviken/white: /products/bestå-storage-combinations/39429699.txt
+- BESTÅ shelf unit with doors, dark gray/Lappviken dark gray: /products/bestå-storage-combinations/09535795.txt
+- BESTÅ shelf unit with doors, black-brown/Lappviken black-brown: /products/bestå-storage-combinations/79429697.txt
+- BESTÅ cabinet, white stained oak effect: /products/bestå-storage-combinations/59285001.txt
+- BESTÅ cabinet, white: /products/bestå-storage-combinations/39284998.txt
+- BESTÅ cabinet, dark gray: /products/bestå-storage-combinations/59508148.txt
+- BESTÅ cabinet, black-brown: /products/bestå-storage-combinations/69284987.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: OLIVSPINNMAL throw, off-white/multicolor
+SKU: 90592639
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/olivspinnmal-throw-off-white-multicolor-90592639/
+Category: Blankets & throws
+Description: , 47x63" Soft throw in off-white with pattern in orange, grey-green and petrol. It keeps you cozy on chilly evenings whether you are cuddling in the sofa or need an extra layer of warmth while eating ...
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % polyester (100% recycled)
+Care: Machine wash cold, delicate cycle. | Shrinkage maximum 4%.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/olivspinnmal-throw-off-white-multicolor__1320882_pe941422_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

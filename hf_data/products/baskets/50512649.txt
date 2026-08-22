@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TOLKNING , set of 2, handmade bamboo
+SKU: 50512649
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tolkning-set-of-2-handmade-bamboo-50512649/
+Category: Baskets
+Description: The versatile TOLKNING series is made of natural fibers with a warm look. These multifunctional hanging baskets are made of leftover bamboo from our natural fiber production – and help you stay organi...
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Slat/ Bottom/ Handle: Bamboo, Clear lacquer, Binding: Rattan, Clear lacquer
+Features: Each product is a unique, handmade work of art with natural variations in color and shape. | The basket is not approved for food contact, but of course you can use it for storing other things in the kitchen. | Includes: 2 handmade baskets in sizes 7⅞x7⅞x13" and 7⅞x7⅞x18⅞".
+Care: Wipe clean with a dry cloth. | Bamboo is happiest in dry, cool environments with an even temperature.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tolkning-set-of-2-handmade-bamboo__1079913_pe857777_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

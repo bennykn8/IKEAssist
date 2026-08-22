@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: YLLEVAD art card, flowers-blooming
+SKU: 10578878
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/yllevad-art-card-flowers-blooming-10578878/
+Category: Art cards
+Description: , 4x6" Artwork makes a difference and adds a personal touch to your home, even if you’re not the artist. With YLLEVAD art cards you can create your own mini-gallery on a wall or shelf in a flash. Moti...
+
+# @OFFER
+Price: 0.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Paper
+Care: Clean with a duster.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/yllevad-art-card-flowers-blooming__1237312_pe917914_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

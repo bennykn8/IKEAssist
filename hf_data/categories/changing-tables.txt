@@ -1,0 +1,29 @@
+# @CATEGORY
+Name: Changing tables
+ProductCount: 7
+
+# @FILTERS
+PriceRange: $39.00 - $399.00
+Materials: Bottom panel: Fiberboard, Paper foil, Acrylic paint, Bottom panel: Particleboard, Melamine foil, Paper edging, Plastic edging, Bottom side rail/ Front rail: Solid birch, Tinted clear acrylic lacquer, Filling material: Fiberboard, Paper foil, Leg: Layer-glued wood veneer, Birch veneer, Tinted clear acrylic lacquer, Main parts/ Front rail/ Fixed shelf: Solid pine, Stain, Clear acrylic lacquer, Main parts/ Rail: Solid wood, Acrylic paint, Main parts: Solid beech, Shelf: Particleboard, Acrylic paint, Side frame: Solid pine, Stain, Clear acrylic lacquer, Fiberboard, Paper foil
+Brand: IKEA
+
+# @ITEMS
+- SUNDVIK changing table/chest, white: /products/changing-tables/50576575.txt
+- SUNDVIK changing table/chest, gray: /products/changing-tables/80576574.txt
+- SNIGLAR Changing table, beech, white: /products/changing-tables/50197589.txt
+- SMÅGÖRA changing table/bookshelf, white: /products/changing-tables/50460891.txt
+- MYLLRA changing table with drawers, white: /products/changing-tables/30596032.txt
+- GULLIVER changing table, white: /products/changing-tables/80307039.txt
+- ÄLSKVÄRD changing table, birch/white: /products/changing-tables/20466682.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

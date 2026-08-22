@@ -1,0 +1,38 @@
+# @CATEGORY
+Name: Leather ottomans
+ProductCount: 16
+
+# @FILTERS
+PriceRange: $150.00 - $379.00
+Materials: Coated fabric parts: 100 % polyurethane, 75 % polyester, 25 % cotton, Cushion: Polyurethane foam 2.0 lb/cu.ft., Frame: 100% polyester (min. 70% recycled), Particleboard, Plywood, Polyurethane foam 1.5 lb/cu.ft., Frame: Particleboard, Solid wood, Polyurethane foam 1.2 lb/cu.ft., Melamine foil, Layer-glued wood veneer, Birch veneer, Clear lacquer, Layer-glued wood veneer, Birch veneer, Stain, Layer-glued wood veneer, Oak veneer, Stain, Clear acrylic lacquer, Leather: Dyed through top-grain leather with a treated, embossed and pigmented surface, Lining: 100 % cotton, Seat cushion: High-resilience polyurethane foam (cold foam) 2.2 lb/cu.ft.
+Brand: IKEA
+
+# @ITEMS
+- STRANDMON ottoman, Grann/Bomstad dark brown: /products/leather-ottomans/30494627.txt
+- POÄNG ottoman, brown/Glose off-white: /products/leather-ottomans/29336035.txt
+- POÄNG ottoman, brown/Glose dark brown: /products/leather-ottomans/09336036.txt
+- POÄNG ottoman, black-brown/Glose off-white: /products/leather-ottomans/19830550.txt
+- POÄNG ottoman, black-brown/Glose dark brown: /products/leather-ottomans/79829134.txt
+- POÄNG ottoman, birch veneer/Glose off-white: /products/leather-ottomans/39830549.txt
+- POÄNG ottoman, birch veneer/Glose dark brown: /products/leather-ottomans/39829131.txt
+- MORABO ottoman, Grann/Bomstad gray-green/wood: /products/leather-ottomans/69317855.txt
+- MORABO ottoman, Grann/Bomstad gray-green/metal: /products/leather-ottomans/99317854.txt
+- MORABO ottoman, Grann/Bomstad golden brown/wood: /products/leather-ottomans/69317474.txt
+- MORABO ottoman, Grann/Bomstad golden brown/metal: /products/leather-ottomans/39317475.txt
+- MORABO ottoman, Grann/Bomstad black/wood: /products/leather-ottomans/69316605.txt
+- MORABO ottoman, Grann/Bomstad black/metal: /products/leather-ottomans/19316603.txt
+- KIVIK ottoman, Grann/Bomstad black: /products/leather-ottomans/80519507.txt
+- HAVBERG ottoman, Grann/Bomstad golden brown: /products/leather-ottomans/90531660.txt
+- HAVBERG ottoman, Grann/Bomstad black: /products/leather-ottomans/80531665.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

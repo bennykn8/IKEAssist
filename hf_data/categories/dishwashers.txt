@@ -1,0 +1,30 @@
+# @CATEGORY
+Name: Dishwashers
+ProductCount: 9
+
+# @FILTERS
+PriceRange: $369.00 - $1099.00
+Brand: IKEA
+
+# @ITEMS
+- VINTROSA built-in dishwasher, Stainless steel: /products/dishwashers/70591018.txt
+- VILLKORLIG built-in dishwasher, Stainless steel: /products/dishwashers/40462169.txt
+- RENGJORD built-in dishwasher, panel-ready: /products/dishwashers/90504572.txt
+- RANSBERG built-in dishwasher, panel-ready: /products/dishwashers/10591158.txt
+- LAGAN built-in dishwasher, white: /products/dishwashers/80462167.txt
+- LAGAN built-in dishwasher, white: /products/dishwashers/00587623.txt
+- FORNABODA built-in dishwasher, panel-ready: /products/dishwashers/90591017.txt
+- FLÅBODA built-in dishwasher, panel-ready: /products/dishwashers/30591157.txt
+- ESSENTIELL built-in dishwasher, black Stainless steel: /products/dishwashers/90522284.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

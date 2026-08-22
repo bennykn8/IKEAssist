@@ -1,0 +1,55 @@
+# @CATEGORY
+Name: Kitchen knives
+ProductCount: 33
+
+# @FILTERS
+PriceRange: $3.99 - $139.99
+Materials: Bamboo, Clear acrylic lacquer, Base/ Stand: ABS plastic, Base: Cork, Basket: Steel, Powder coating, Blade/ Rivet: Stainless steel, Blade: Stainless steel, Bottom: Cork, Cover cap: Polypropylene, Cover: Polypropylene, Handle: Acetal plastic
+Brand: IKEA
+
+# @ITEMS
+- VÖRDA vegetable knife, black: /products/kitchen-knives/60578338.txt
+- VÖRDA utility knife, black: /products/kitchen-knives/00578336.txt
+- VÖRDA paring knife, black: /products/kitchen-knives/50578334.txt
+- VÖRDA meat cleaver, black: /products/kitchen-knives/70578328.txt
+- VÖRDA chef's knife, black: /products/kitchen-knives/30578330.txt
+- VÖRDA 3-piece knife set: /products/kitchen-knives/90578332.txt
+- VIMPELFISK knife block, bamboo/gray-turquoise: /products/kitchen-knives/90582701.txt
+- VARDAGEN vegetable knife, dark gray: /products/kitchen-knives/80578323.txt
+- VARDAGEN santoku knife, stainless steel/walnut: /products/kitchen-knives/80602484.txt
+- VARDAGEN paring knife, stainless steel/walnut: /products/kitchen-knives/20602477.txt
+- VARDAGEN paring knife, dark gray: /products/kitchen-knives/40578320.txt
+- VARDAGEN chef's knife, stainless steel/walnut: /products/kitchen-knives/30602467.txt
+- VARDAGEN 3-piece knife set, stainless steel/walnut: /products/kitchen-knives/10602468.txt
+- UPPFYLLD paring knife, set of 3, mixed colors: /products/kitchen-knives/60578258.txt
+- TIGERBARB 3-piece knife set, gray-turquoise: /products/kitchen-knives/70576536.txt
+- STJÄRNSTÖR chef's knife, stainless steel/dark gray: /products/kitchen-knives/40606653.txt
+- SMÅBIT 2-piece knife set, light turquoise/bright red: /products/kitchen-knives/60576626.txt
+- JÄMFÖRA Knife block with 3 knives, black: /products/kitchen-knives/10346831.txt
+- IKEA 365+ vegetable knife, stainless steel: /products/kitchen-knives/50578188.txt
+- IKEA 365+ utility knife, stainless steel: /products/kitchen-knives/70578187.txt
+- IKEA 365+ paring knife, stainless steel: /products/kitchen-knives/90578186.txt
+- IKEA 365+ knife block, 5x9 ½": /products/kitchen-knives/10286399.txt
+- IKEA 365+ chef's knife, stainless steel: /products/kitchen-knives/40578179.txt
+- IKEA 365+ bread knife, stainless steel: /products/kitchen-knives/60578178.txt
+- IKEA 365+ 5-piece knife set, stainless steel: /products/kitchen-knives/40578358.txt
+- IKEA 365+ 3-piece knife set: /products/kitchen-knives/10578185.txt
+- HYVLA knife block, bamboo: /products/kitchen-knives/30293898.txt
+- FÖRSLAG 3-piece knife set: /products/kitchen-knives/50578112.txt
+- FÖRDUBBLA 2-piece knife set, gray: /products/kitchen-knives/10578109.txt
+- BRILJERA vegetable knife: /products/kitchen-knives/50578089.txt
+- BRILJERA chef's knife: /products/kitchen-knives/90578087.txt
+- BRILJERA 3-piece knife set: /products/kitchen-knives/70578088.txt
+- ÄNDLIG 3-piece knife set, light gray/white: /products/kitchen-knives/80578342.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

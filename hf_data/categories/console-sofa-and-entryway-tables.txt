@@ -1,0 +1,33 @@
+# @CATEGORY
+Name: Console, sofa & entryway tables
+ProductCount: 11
+
+# @FILTERS
+PriceRange: $119.99 - $279.99
+Materials: Drawer bottom: Fiberboard, Acrylic paint, Drawer side/ Drawer back: Solid pine, Filling material: Honeycomb structure paper filling (min. 70% recycled), Glass panel: Tempered glass, Paint, Leg: Solid beech, Leg: Solid oak, Leg: Solid pine, Main parts: Particleboard, Fiberboard, Plastic edging, Acrylic paint, Panel/ Metal part/ Underframe/ Underframe: Steel, Epoxy/polyester powder coating, Rail/ Table top: Solid pine, Clear acrylic lacquer, Stain, Clear acrylic lacquer, Stain
+Brand: IKEA
+
+# @ITEMS
+- PANGET console table, white: /products/console-sofa-and-entryway-tables/80474170.txt
+- PANGET console table, dark gray/stained: /products/console-sofa-and-entryway-tables/60474166.txt
+- LISTERBY console table, oak veneer: /products/console-sofa-and-entryway-tables/50515327.txt
+- LISTERBY console table, dark brown beech veneer: /products/console-sofa-and-entryway-tables/50562248.txt
+- LACK console table, white stained oak: /products/console-sofa-and-entryway-tables/30574351.txt
+- LACK console table, black-brown: /products/console-sofa-and-entryway-tables/10574352.txt
+- HAVSTA Console table, white: /products/console-sofa-and-entryway-tables/40404202.txt
+- HAVSTA console table, gray-beige: /products/console-sofa-and-entryway-tables/50565548.txt
+- HAVSTA console table, gray: /products/console-sofa-and-entryway-tables/60422549.txt
+- HAVSTA console table, black: /products/console-sofa-and-entryway-tables/30565554.txt
+- ÄSPERÖD console table, black/glass black: /products/console-sofa-and-entryway-tables/60586710.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

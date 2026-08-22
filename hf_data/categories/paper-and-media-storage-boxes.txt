@@ -1,0 +1,120 @@
+# @CATEGORY
+Name: Paper & media storage boxes
+ProductCount: 98
+
+# @FILTERS
+PriceRange: $0.29 - $27.99
+Materials: 100% recycled corrugated cardboard, 100% recycled solid cardboard, Paper, 100% recycled solid cardboard, Paper, Chlorine free bleached paper, Clear alkyd resin lacquer, Bamboo, Tinted lacquer, Box/ Lid: 100% recycled solid cardboard, Paper, Cover: Cork, Inner fabric: 100 % polypropylene, Insert: Paperboard (min. 30% recycled), Insert: Polypropylene, Label holder: Steel, Powder coating
+Brand: IKEA
+
+# @ITEMS
+- VATTENTRÅG box with lid, 12 ½x9x: /products/paper-and-media-storage-boxes/20551091.txt
+- TJOG storage box with lid, dark gray, 9 ¾x14 ¼x: /products/paper-and-media-storage-boxes/40477665.txt
+- TJOG storage box with lid, dark gray, 12 ½x12 ¼x11 ¾": /products/paper-and-media-storage-boxes/20477671.txt
+- TJENA storage box with lid, white black/dotted, 9 ¾x13 ¾x7 ¾": /products/paper-and-media-storage-boxes/70601055.txt
+- SPINNROCK box with compartments, white, 12 ½x9 ¾x: /products/paper-and-media-storage-boxes/70543051.txt
+- SPINNROCK box with compartments, white, 9 ¾x6 ¼x: /products/paper-and-media-storage-boxes/10543049.txt
+- RÄTTAREN storage box with lid, set of 2, black/white: /products/paper-and-media-storage-boxes/10597985.txt
+- PLOGFÅRA storage box with lid, set of 2, light beige: /products/paper-and-media-storage-boxes/10543214.txt
+- PLOGFÅRA storage box with lid, light beige, 8 ¾x6 ¼x3 ¼": /products/paper-and-media-storage-boxes/90543210.txt
+- PLOGFÅRA storage box, light beige, 13 ¾x13x12 ½": /products/paper-and-media-storage-boxes/40543217.txt
+- PANSARTAX storage box with lid, transparent gray-blue, 6 ½x6 ½x6 ½": /products/paper-and-media-storage-boxes/60515020.txt
+- PANSARTAX storage box with lid, transparent gray-blue: /products/paper-and-media-storage-boxes/40515021.txt
+- PANSARTAX storage box with lid, transparent gray-blue, 13x13x6 ½": /products/paper-and-media-storage-boxes/00525404.txt
+- NOJIG organizer, plastic/beige, 4x7 ¾x: /products/paper-and-media-storage-boxes/70457487.txt
+- NOJIG organizer, plastic/beige: /products/paper-and-media-storage-boxes/60477037.txt
+- NOJIG organizer, plastic/beige, 6x7 ¾x: /products/paper-and-media-storage-boxes/50468104.txt
+- NOJIG organizer, plastic/beige, 7 ¾x9 ¾x: /products/paper-and-media-storage-boxes/20468105.txt
+- NIMM storage box with lid, spotted gray, 12 ½x11 ¾x11 ¾": /products/paper-and-media-storage-boxes/60595998.txt
+- NIMM storage box with lid, spotted gray, 13 ¾x19 ¾x11 ¾": /products/paper-and-media-storage-boxes/40595999.txt
+- NIMM storage box with lid, black, 9 ¾x13 ¾x: /products/paper-and-media-storage-boxes/80518169.txt
+- NIMM storage box with lid, black, 12 ½x11 ¾x11 ¾": /products/paper-and-media-storage-boxes/40518166.txt
+- NIMM storage box with lid, black, 13 ¾x19 ¾x11 ¾": /products/paper-and-media-storage-boxes/00520053.txt
+- LURPASSA box with lid, set of 2, seagrass: /products/paper-and-media-storage-boxes/50480912.txt
+- KVARNVIK storage box with lid, gray, 7x9 ¾x: /products/paper-and-media-storage-boxes/70412875.txt
+- KVARNVIK Storage box with lid, gray, 9 ¾x13 ¾x7 ¾": /products/paper-and-media-storage-boxes/10412878.txt
+- KUGGIS storage box with lid, white, 12 ½x12 ½x12 ½": /products/paper-and-media-storage-boxes/00526875.txt
+- KUGGIS lid, white: /products/paper-and-media-storage-boxes/80568545.txt
+- KUGGIS lid, white, 7x10 ¼": /products/paper-and-media-storage-boxes/60568527.txt
+- KUGGIS lid, white, 10 ¼x13 ¾": /products/paper-and-media-storage-boxes/50568537.txt
+- KUGGIS lid, white, 14 ½x21 ¼": /products/paper-and-media-storage-boxes/30568519.txt
+- KUGGIS lid, light gray, 7x10 ¼": /products/paper-and-media-storage-boxes/90599155.txt
+- KUGGIS lid, light gray, 10 ¼x13 ¾": /products/paper-and-media-storage-boxes/70599156.txt
+- KUGGIS lid, light gray, 14 ½x21 ¼": /products/paper-and-media-storage-boxes/50599157.txt
+- KUGGIS lid, light gray: /products/paper-and-media-storage-boxes/20599154.txt
+- KUGGIS lid, dark gray-beige, 7x10 ¼": /products/paper-and-media-storage-boxes/80586238.txt
+- KUGGIS lid, dark gray-beige, 10 ¼x13 ¾": /products/paper-and-media-storage-boxes/20586241.txt
+- KUGGIS lid, black, 14 ½x21 ¼": /products/paper-and-media-storage-boxes/90568516.txt
+- KUGGIS lid, black, 7x10 ¼": /products/paper-and-media-storage-boxes/60568551.txt
+- KUGGIS lid, black, 10 ¼x13 ¾": /products/paper-and-media-storage-boxes/50568523.txt
+- KUGGIS lid, bamboo, 10 ¼x13 ¾": /products/paper-and-media-storage-boxes/90568620.txt
+- KUGGIS lid, bamboo, 7x10 ¼": /products/paper-and-media-storage-boxes/50568617.txt
+- KUGGIS lid, bamboo, 14 ½x21 ¼": /products/paper-and-media-storage-boxes/30568623.txt
+- KUGGIS lid, bamboo: /products/paper-and-media-storage-boxes/10568619.txt
+- KUGGIS insert with 8 compartments, white: /products/paper-and-media-storage-boxes/00280208.txt
+- KUGGIS box with lid, white, 5x7x3 ¼": /products/paper-and-media-storage-boxes/99561153.txt
+- KUGGIS box with lid, white, 14 ½x21 ¼x8 ¼": /products/paper-and-media-storage-boxes/89561200.txt
+- KUGGIS box with lid, white, 10 ¼x13 ¾x: /products/paper-and-media-storage-boxes/59561188.txt
+- KUGGIS box with lid, white, 7x10 ¼x: /products/paper-and-media-storage-boxes/49561155.txt
+- KUGGIS box with lid, white, 7x10 ¼x3 ¼": /products/paper-and-media-storage-boxes/09561157.txt
+- KUGGIS box with lid, white/bamboo, 14 ½x21 ¼x8 ¼": /products/paper-and-media-storage-boxes/79561291.txt
+- KUGGIS box with lid, white/bamboo, 7x10 ¼x3 ¼": /products/paper-and-media-storage-boxes/79561286.txt
+- KUGGIS box with lid, white/bamboo, 5x7x3 ¼": /products/paper-and-media-storage-boxes/69561282.txt
+- KUGGIS box with lid, white/bamboo, 10 ¼x13 ¾x: /products/paper-and-media-storage-boxes/39561288.txt
+- KUGGIS box with lid, white/bamboo, 7x10 ¼x: /products/paper-and-media-storage-boxes/29561284.txt
+- KUGGIS box with lid, dark gray-beige, 10 ¼x13 ¾x: /products/paper-and-media-storage-boxes/89582491.txt
+- KUGGIS box with lid, dark gray-beige, 7x10 ¼x3 ¼": /products/paper-and-media-storage-boxes/59582483.txt
+- KUGGIS box with lid, dark gray-beige/bamboo, 7x10 ¼x3 ¼": /products/paper-and-media-storage-boxes/99582612.txt
+- KUGGIS box with lid, dark gray-beige/bamboo, 10 ¼x13 ¾x: /products/paper-and-media-storage-boxes/89582617.txt
+- KUGGIS box, white, 7x10 ¼x3 ¼": /products/paper-and-media-storage-boxes/70568560.txt
+- KUGGIS box, white, 5x7x3 ¼": /products/paper-and-media-storage-boxes/60568546.txt
+- KUGGIS box, white, 7x10 ¼x: /products/paper-and-media-storage-boxes/40568528.txt
+- KUGGIS box, white, 10 ¼x13 ¾x: /products/paper-and-media-storage-boxes/30568538.txt
+- KUGGIS box, white, 14 ½x21 ¼x8 ¼": /products/paper-and-media-storage-boxes/10568520.txt
+- KUGGIS box, light gray, 5x7x3 ¼": /products/paper-and-media-storage-boxes/80599146.txt
+- KUGGIS box, light gray, 7x10 ¼x3 ¼": /products/paper-and-media-storage-boxes/60599147.txt
+- KUGGIS box, light gray, 14 ½x21 ¼x8 ¼": /products/paper-and-media-storage-boxes/40599153.txt
+- KUGGIS box, light gray, 10 ¼x13 ¾x: /products/paper-and-media-storage-boxes/40599148.txt
+- KUGGIS box, dark gray-beige, 7x10 ¼x3 ¼": /products/paper-and-media-storage-boxes/40586235.txt
+- KUGGIS box, dark gray-beige, 10 ¼x13 ¾x: /products/paper-and-media-storage-boxes/20586236.txt
+- KOSINGEN box, light gray: /products/paper-and-media-storage-boxes/20601133.txt
+- HARVMATTA box with lid, light beige, 4 ¾x9 ½x2 ¼": /products/paper-and-media-storage-boxes/70555299.txt
+- HARVMATTA box with lid, anthracite, 9 ½x13 ¾x2 ¼": /products/paper-and-media-storage-boxes/30555300.txt
+- HARVMATTA box with compartments, dark gray-beige, 9 ½x7x2 ¼": /products/paper-and-media-storage-boxes/20555305.txt
+- GJÄTTA storage box with lid, velvet dark blue, 9 ¾x13 ¾x7 ¾": /products/paper-and-media-storage-boxes/80580477.txt
+- GJÄTTA storage box with lid, velvet dark blue, 12 ½x13 ¾x12 ½": /products/paper-and-media-storage-boxes/30579075.txt
+- GJÄTTA storage box with lid, velvet brown-red, 7x9 ¾x: /products/paper-and-media-storage-boxes/60579074.txt
+- FJÄDERHARV storage box with lid, white, 9 ¾x13 ¾x6 ¼": /products/paper-and-media-storage-boxes/90596901.txt
+- FJÄDERHARV storage box with lid, white, 9 ¾x13 ¾x3 ¼": /products/paper-and-media-storage-boxes/20596891.txt
+- FJÄDERHARV storage box with lid, white, 12 ½x13 ¾x12 ¼": /products/paper-and-media-storage-boxes/00596887.txt
+- FJÄDERHARV storage box with lid, anthracite, 12 ½x13 ¾x12 ¼": /products/paper-and-media-storage-boxes/90596897.txt
+- FJÄDERHARV storage box with lid, anthracite, 9 ¾x13 ¾x6 ¼": /products/paper-and-media-storage-boxes/80596888.txt
+- FJÄDERHARV storage box with lid, anthracite, 9 ¾x13 ¾x3 ¼": /products/paper-and-media-storage-boxes/70596898.txt
+- FJÄDERHARV mini chest with 2 drawers, white, 6 ¼x9 ¾": /products/paper-and-media-storage-boxes/10596900.txt
+- FJÄDERHARV mini chest with 2 drawers, white, 12 ½x9 ¾": /products/paper-and-media-storage-boxes/10596896.txt
+- FJÄDERHARV mini chest with 2 drawers, anthracite, 6 ¼x9 ¾": /products/paper-and-media-storage-boxes/80596893.txt
+- FJÄDERHARV mini chest with 2 drawers, anthracite, 12 ½x9 ¾": /products/paper-and-media-storage-boxes/00596892.txt
+- DRÖNJÖNS storage box, white, 13x14 ½x: /products/paper-and-media-storage-boxes/70515500.txt
+- DRÖNA lid, dark gray textile, 15 ¼x13 ½": /products/paper-and-media-storage-boxes/70556406.txt
+- DRÖNA box, white, 9 ¾x13 ¾x9 ¾": /products/paper-and-media-storage-boxes/50467067.txt
+- DRÖNA box, white: /products/paper-and-media-storage-boxes/30574006.txt
+- DRÖNA box, set of 3, blue, 7x9 ¾x: /products/paper-and-media-storage-boxes/50581242.txt
+- DRÖNA box, dark yellow: /products/paper-and-media-storage-boxes/80603332.txt
+- DRÖNA box, dark gray: /products/paper-and-media-storage-boxes/00508452.txt
+- DRÖNA box, blue: /products/paper-and-media-storage-boxes/60580812.txt
+- DRÖNA box, black, 9 ¾x13 ¾x9 ¾": /products/paper-and-media-storage-boxes/90467065.txt
+- DRÖNA box, black: /products/paper-and-media-storage-boxes/60508430.txt
+- DRÖNA box, beige/patterned turquoise: /products/paper-and-media-storage-boxes/90588963.txt
+- BLÄDDRA box, gray: /products/paper-and-media-storage-boxes/10586779.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

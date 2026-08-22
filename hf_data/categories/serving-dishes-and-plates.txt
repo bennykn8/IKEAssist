@@ -1,0 +1,43 @@
+# @CATEGORY
+Name: Serving dishes & plates
+ProductCount: 21
+
+# @FILTERS
+PriceRange: $3.99 - $29.99
+Materials: Bamboo, Oil, Disc: Solid rubberwood, Clear acrylic lacquer, Feldspar porcelain, Colored glaze, Feldspar porcelain, Glaze, Fine china, Glaze, Foot ring: Thermoplastic elastomer, Foot: Clear acrylic lacquer, Sedge, Clear lacquer, Stainless steel, Stainless steel, Stoneware
+Brand: IKEA
+
+# @ITEMS
+- UPPLAGA gravy boat, white, 10 oz: /products/serving-dishes-and-plates/20560298.txt
+- UPPLAGA butter dish, white: /products/serving-dishes-and-plates/40560301.txt
+- TUVHÄTTA serving plate, stainless steel: /products/serving-dishes-and-plates/10539556.txt
+- STRIMMIG serving plate, white: /products/serving-dishes-and-plates/00501035.txt
+- STRIMMIG serving plate, stoneware gray: /products/serving-dishes-and-plates/80456213.txt
+- STOCKHOLM 2025 serving plate, set of 2, gray: /products/serving-dishes-and-plates/30592430.txt
+- SNUDDA lazy Susan, rubberwood: /products/serving-dishes-and-plates/80543263.txt
+- SILVERSIDA serving plate, patterned/blue: /products/serving-dishes-and-plates/90565688.txt
+- RÖDSNULTRA serving plate, mixed patterns, 7 ¾x4 ¼": /products/serving-dishes-and-plates/80604505.txt
+- PENNFISK basket, natural sedge/handmade round: /products/serving-dishes-and-plates/00531886.txt
+- PENNFISK basket, natural sedge/handmade oval: /products/serving-dishes-and-plates/20531885.txt
+- OSTBIT serving plate, bamboo: /products/serving-dishes-and-plates/60524802.txt
+- OMBONAD serving plate, dark gray: /products/serving-dishes-and-plates/00503303.txt
+- IKEA 365+ serving plate, white: /products/serving-dishes-and-plates/90607363.txt
+- IKEA 365+ serving plate, white: /products/serving-dishes-and-plates/70607364.txt
+- IKEA 365+ serving plate, white, 15x8 ¾": /products/serving-dishes-and-plates/30278398.txt
+- IKEA 365+ serving plate, white: /products/serving-dishes-and-plates/00607367.txt
+- GRYNSOPP butter dish, clear glass: /products/serving-dishes-and-plates/80494804.txt
+- GODMIDDAG serving plate, white: /products/serving-dishes-and-plates/80477201.txt
+- GODMIDDAG serving plate, white: /products/serving-dishes-and-plates/50479720.txt
+- FRÖJDEFULL serving plate, white: /products/serving-dishes-and-plates/20519732.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

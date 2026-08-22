@@ -1,0 +1,284 @@
+# @CATEGORY
+Name: Dining sets up to 4 seats
+ProductCount: 262
+
+# @FILTERS
+PriceRange: $129.99 - $1489.00
+Materials: All parts: Acrylic paint, Back fabric/ Lining: 100 % polyester (100% recycled), Back fabric: 100 % polyester (100% recycled), Back leg/back frame/ Front leg/ Seat frame/ Pin/ Hinge arm: Steel, Epoxy/polyester powder coating, Backrest/ Armrest/ Front leg: Solid beech, Stain, Clear acrylic lacquer, Backrest: Layer-glued wood veneer, Acacia veneer, Stain, Clear acrylic lacquer, Base fabric: 100 % polyester (100% recycled), Bottom panel: Particleboard, Acrylic paint, Plastic edging, Bottom: Particleboard, Acrylic paint, Plastic edging, Bracket: Aluminum, Epoxy powder coating
+Brand: IKEA
+
+# @ITEMS
+- VOXLÖV / VOXLÖV table and 4 chairs, bamboo/bamboo: /products/dining-sets-up-to-4-seats/29388656.txt
+- VOXLÖV / ODGER table and 4 chairs, bamboo/anthracite: /products/dining-sets-up-to-4-seats/49388679.txt
+- VOXLÖV / ÄLVSTA table and 4 chairs, light bamboo/rattan white: /products/dining-sets-up-to-4-seats/99481571.txt
+- VIHALS / VIHALS table and 4 chairs, white white/white Tibbleby beige-gray: /products/dining-sets-up-to-4-seats/39599494.txt
+- VIHALS / VIHALS table and 4 chairs, white white/white Tibbleby beige-gray: /products/dining-sets-up-to-4-seats/29599526.txt
+- VIHALS / VIHALS table and 4 chairs, white white/white: /products/dining-sets-up-to-4-seats/99589944.txt
+- VIHALS / VIHALS table and 4 chairs, white white/white: /products/dining-sets-up-to-4-seats/19589938.txt
+- VIHALS / VIHALS table and 4 chairs, white/white Tibbleby beige-gray: /products/dining-sets-up-to-4-seats/79599538.txt
+- VIHALS / VIHALS table and 4 chairs, white/white Tibbleby beige-gray: /products/dining-sets-up-to-4-seats/09599508.txt
+- VIHALS / VIHALS table and 4 chairs, white/white: /products/dining-sets-up-to-4-seats/79589959.txt
+- VIHALS / VIHALS table and 4 chairs, white/white: /products/dining-sets-up-to-4-seats/39589956.txt
+- VIHALS / VIHALS table and 4 chairs, white white/green Tibbleby gray-green: /products/dining-sets-up-to-4-seats/99599523.txt
+- VIHALS / VIHALS table and 4 chairs, white white/green Tibbleby gray-green: /products/dining-sets-up-to-4-seats/99599491.txt
+- VIHALS / VIHALS table and 4 chairs, white/green Tibbleby gray-green: /products/dining-sets-up-to-4-seats/69599505.txt
+- VIHALS / VIHALS table and 4 chairs, white/green Tibbleby gray-green: /products/dining-sets-up-to-4-seats/39599535.txt
+- VIHALS / VIHALS table and 4 chairs, green green/white Tibbleby beige-gray: /products/dining-sets-up-to-4-seats/59599520.txt
+- VIHALS / VIHALS table and 4 chairs, green green/white: /products/dining-sets-up-to-4-seats/59589941.txt
+- VIHALS / VIHALS table and 4 chairs, green green/green Tibbleby gray-green: /products/dining-sets-up-to-4-seats/19599517.txt
+- VIHALS / VIHALS table and 4 chairs, gateleg table white/white Tibbleby beige-gray: /products/dining-sets-up-to-4-seats/09599532.txt
+- VIHALS / VIHALS table and 4 chairs, gateleg table white/white: /products/dining-sets-up-to-4-seats/69589950.txt
+- VIHALS / VIHALS table and 4 chairs, gateleg table white/green Tibbleby gray-green: /products/dining-sets-up-to-4-seats/69599529.txt
+- VIHALS / VIHALS table and 4 chairs, gateleg table white/folding white: /products/dining-sets-up-to-4-seats/89599364.txt
+- VIHALS / BUSLÄTT table and 4 chairs, white white/white pine: /products/dining-sets-up-to-4-seats/69590473.txt
+- VIHALS / BUSLÄTT table and 4 chairs, white white/white pine: /products/dining-sets-up-to-4-seats/09590490.txt
+- VIHALS / BUSLÄTT table and 4 chairs, green green/white pine: /products/dining-sets-up-to-4-seats/79590415.txt
+- TORSBY / TOBIAS table and 4 chairs, high-gloss/white chrome plated/chrome plated brown/red: /products/dining-sets-up-to-4-seats/59499281.txt
+- TORSBY / LUSTEBO table and 4 chairs, high-gloss/white chrome plated/Viarp beige/brown: /products/dining-sets-up-to-4-seats/99523528.txt
+- TONSTAD / TONSTAD table and 4 chairs, off-white/Viarp beige/brown off-white: /products/dining-sets-up-to-4-seats/49599728.txt
+- TONSTAD / TONSTAD table and 4 chairs, off-white/Viarp beige/brown off-white: /products/dining-sets-up-to-4-seats/29599791.txt
+- TONSTAD / TONSTAD table and 4 chairs, off-white/off-white Fridtuna light beige: /products/dining-sets-up-to-4-seats/09599787.txt
+- TONSTAD / TONSTAD table and 4 chairs, off-white/off-white Fridtuna light beige: /products/dining-sets-up-to-4-seats/09599725.txt
+- TONSTAD / TONSTAD table and 4 chairs, off-white/Fridtuna light beige off-white: /products/dining-sets-up-to-4-seats/79599784.txt
+- TONSTAD / TONSTAD table and 4 chairs, off-white/Fridtuna light beige off-white: /products/dining-sets-up-to-4-seats/79599722.txt
+- TONSTAD / TONSTAD table and 4 chairs, off-white/Bomstad golden brown off-white: /products/dining-sets-up-to-4-seats/49599766.txt
+- TONSTAD / TONSTAD table and 4 chairs, off-white/Bomstad golden brown off-white: /products/dining-sets-up-to-4-seats/39599781.txt
+- TONSTAD / TONSTAD table and 4 chairs, oak effect/Viarp beige/brown oak effect: /products/dining-sets-up-to-4-seats/79602220.txt
+- TONSTAD / TONSTAD table and 4 chairs, oak effect/Viarp beige/brown oak effect: /products/dining-sets-up-to-4-seats/19602223.txt
+- TONSTAD / TONSTAD table and 4 chairs, oak effect/oak effect Fridtuna light beige: /products/dining-sets-up-to-4-seats/79602183.txt
+- TONSTAD / TONSTAD table and 4 chairs, oak effect/oak effect Fridtuna light beige: /products/dining-sets-up-to-4-seats/09602186.txt
+- TONSTAD / TONSTAD table and 4 chairs, oak effect/Fridtuna light beige oak effect: /products/dining-sets-up-to-4-seats/59602198.txt
+- TONSTAD / TONSTAD table and 4 chairs, oak effect/Fridtuna light beige oak effect: /products/dining-sets-up-to-4-seats/19602195.txt
+- TONSTAD / TONSTAD table and 4 chairs, oak effect/Bomstad golden brown oak effect: /products/dining-sets-up-to-4-seats/69602211.txt
+- TONSTAD / TONSTAD table and 4 chairs, oak effect/Bomstad golden brown oak effect: /products/dining-sets-up-to-4-seats/29602208.txt
+- TONSTAD / TONSTAD table and 4 chairs, brown oak effect/Viarp beige/brown brown oak effect: /products/dining-sets-up-to-4-seats/89602286.txt
+- TONSTAD / TONSTAD table and 4 chairs, brown oak effect/Viarp beige/brown brown oak effect: /products/dining-sets-up-to-4-seats/79602277.txt
+- TONSTAD / TONSTAD table and 4 chairs, brown oak effect/Fridtuna light beige brown oak effect: /products/dining-sets-up-to-4-seats/59602283.txt
+- TONSTAD / TONSTAD table and 4 chairs, brown oak effect/Fridtuna light beige brown oak effect: /products/dining-sets-up-to-4-seats/49602274.txt
+- TONSTAD / TONSTAD table and 4 chairs, brown oak effect/brown oak effect Fridtuna light beige: /products/dining-sets-up-to-4-seats/39602255.txt
+- TONSTAD / TONSTAD table and 4 chairs, brown oak effect/brown oak effect Fridtuna light beige: /products/dining-sets-up-to-4-seats/09602252.txt
+- TONSTAD / TONSTAD table and 4 chairs, brown oak effect/Bomstad golden brown brown oak effect: /products/dining-sets-up-to-4-seats/19602280.txt
+- TONSTAD / TONSTAD table and 4 chairs, brown oak effect/Bomstad golden brown brown oak effect: /products/dining-sets-up-to-4-seats/09602271.txt
+- TONSTAD table and 4 chairs: /products/dining-sets-up-to-4-seats/89599774.txt
+- TONSTAD table and 4 chairs, off-white/white: /products/dining-sets-up-to-4-seats/99612402.txt
+- TONSTAD table and 4 chairs, off-white/Tonerud dark beige: /products/dining-sets-up-to-4-seats/59599718.txt
+- TONSTAD table and 4 chairs, oak effect/Tonerud dark beige: /products/dining-sets-up-to-4-seats/59602235.txt
+- TONSTAD table and 4 chairs, oak effect/Tonerud dark beige: /products/dining-sets-up-to-4-seats/29602232.txt
+- TONSTAD table and 4 chairs, brown oak effect/Gunnared dark grey black: /products/dining-sets-up-to-4-seats/99602318.txt
+- TONSTAD table and 4 chairs, brown oak effect/Gunnared dark grey black: /products/dining-sets-up-to-4-seats/39602321.txt
+- TONSTAD table and 4 chairs, brown oak effect/Gunnared beige black: /products/dining-sets-up-to-4-seats/89602309.txt
+- TONSTAD table and 4 chairs, brown oak effect/Gunnared beige black: /products/dining-sets-up-to-4-seats/29602312.txt
+- TONSTAD / GRÖNSTA table and 4 chairs, off-white/white: /products/dining-sets-up-to-4-seats/69596644.txt
+- TONSTAD / GRÖNSTA table and 4 chairs, brown oak effect/white: /products/dining-sets-up-to-4-seats/69596917.txt
+- TONSTAD / GRÖNSTA table and 4 chairs, brown oak effect/white: /products/dining-sets-up-to-4-seats/49596824.txt
+- TONSTAD / GRÖNSTA table and 4 chairs, brown oak effect/gray-turquoise: /products/dining-sets-up-to-4-seats/89596916.txt
+- TONSTAD / GRÖNSTA table and 4 chairs, brown oak effect/gray-turquoise: /products/dining-sets-up-to-4-seats/19596830.txt
+- STRANDTORP / SIGTRYGG table and 4 chairs, brown/dark brown black: /products/dining-sets-up-to-4-seats/89568942.txt
+- STRANDTORP / MÅRENÄS table and 4 chairs, brown/Gunnared red-brown black: /products/dining-sets-up-to-4-seats/09569304.txt
+- STRANDTORP / MÅRENÄS table and 4 chairs, brown/Gunnared dark grey black: /products/dining-sets-up-to-4-seats/49569298.txt
+- STRANDTORP / MÅRENÄS table and 4 chairs, brown/Gunnared beige black: /products/dining-sets-up-to-4-seats/59569293.txt
+- STRANDTORP / GRÖNSTA table and 4 chairs, brown/white: /products/dining-sets-up-to-4-seats/59568948.txt
+- STRANDTORP / GRÖNSTA table and 4 armchairs, brown/white: /products/dining-sets-up-to-4-seats/59569306.txt
+- STOCKHOLM 2025 / STOCKHOLM 2025 table and 4 chairs, oak veneer/oak rattan: /products/dining-sets-up-to-4-seats/79606609.txt
+- STOCKHOLM 2025 / STOCKHOLM 2025 table and 4 chairs, oak veneer/oak leather: /products/dining-sets-up-to-4-seats/59606605.txt
+- STOCKHOLM 2025 / STOCKHOLM 2025 table and 4 chairs, oak veneer/dark brown leather: /products/dining-sets-up-to-4-seats/49606601.txt
+- STOCKHOLM 2025 / STOCKHOLM 2025 table and 4 armchairs, oak veneer/dark brown: /products/dining-sets-up-to-4-seats/49579990.txt
+- STOCKHOLM 2025 / SKANSNÄS table and 4 chairs, oak veneer/black beech: /products/dining-sets-up-to-4-seats/19580004.txt
+- SKOGSTA / SAKARIAS table and 4 chairs, acacia black/Sporda dark gray: /products/dining-sets-up-to-4-seats/99297163.txt
+- SKANSNÄS / SKANSNÄS table and 4 chairs, brown beech/brown beech: /products/dining-sets-up-to-4-seats/19561595.txt
+- SKANSNÄS / SKANSNÄS table and 4 chairs, brown beech/brown beech: /products/dining-sets-up-to-4-seats/09561633.txt
+- SKANSNÄS / SKANSNÄS table and 4 chairs, brown beech/black beech: /products/dining-sets-up-to-4-seats/59561598.txt
+- SKANSNÄS / SKANSNÄS table and 4 chairs, brown beech/black beech: /products/dining-sets-up-to-4-seats/39561636.txt
+- SKANSNÄS / LUSTEBO table and 4 chairs, brown beech/Viarp beige/brown: /products/dining-sets-up-to-4-seats/59561640.txt
+- SKANSNÄS / LUSTEBO table and 4 chairs, brown beech/Viarp beige/brown: /products/dining-sets-up-to-4-seats/19561623.txt
+- SKANSNÄS / LILLÅNÄS table and 4 chairs, brown beech/chrome plated Gunnared dark grey: /products/dining-sets-up-to-4-seats/79561644.txt
+- SKANSNÄS / LILLÅNÄS table and 4 chairs, brown beech/chrome plated Gunnared dark grey: /products/dining-sets-up-to-4-seats/49561631.txt
+- SKANSNÄS / GRÖNSTA table and 4 chairs, with armrest brown/white: /products/dining-sets-up-to-4-seats/89561648.txt
+- SKANSNÄS / GRÖNSTA table and 4 chairs, with armrest brown/turquoise: /products/dining-sets-up-to-4-seats/29561646.txt
+- SKANSNÄS / GRÖNSTA table and 4 chairs, armrests brown/white: /products/dining-sets-up-to-4-seats/89561653.txt
+- SKANSNÄS / GRÖNSTA table and 4 chairs, armrests brown/turquoise: /products/dining-sets-up-to-4-seats/29561651.txt
+- SANDSBERG / ÖSTANÖ table and 4 chairs, black black/Remmarn red-brown: /products/dining-sets-up-to-4-seats/29569497.txt
+- SANDSBERG / ÖSTANÖ table and 4 chairs, black black/Remmarn dark gray: /products/dining-sets-up-to-4-seats/19569488.txt
+- SANDSBERG / ADDE table and 4 chairs, black/black: /products/dining-sets-up-to-4-seats/59429194.txt
+- RÖNNINGE / VOXLÖV table and 4 chairs, birch/light bamboo: /products/dining-sets-up-to-4-seats/39569703.txt
+- RÖNNINGE / VOXLÖV table and 4 chairs, birch/light bamboo: /products/dining-sets-up-to-4-seats/19569695.txt
+- RÖNNINGE / RÖNNINGE table and 4 chairs, birch/birch: /products/dining-sets-up-to-4-seats/99429045.txt
+- RÖNNINGE / RÖNNINGE table and 4 chairs, birch/birch: /products/dining-sets-up-to-4-seats/79388767.txt
+- RÖNNINGE / LISABO table and 4 chairs, birch/Tallmyra white/black white: /products/dining-sets-up-to-4-seats/59569716.txt
+- RÖNNINGE / KARLPETTER table and 4 chairs, birch/Gunnared light green white: /products/dining-sets-up-to-4-seats/79569701.txt
+- RÖNNINGE / KARLPETTER table and 4 chairs, birch/Gunnared light green white: /products/dining-sets-up-to-4-seats/29569708.txt
+- PINNTORP / PINNTORP table and 4 chairs, light brown stained white stained/light brown stained: /products/dining-sets-up-to-4-seats/89564449.txt
+- PINNTORP / PINNTORP table and 4 chairs, light brown stained white stained/light brown stained: /products/dining-sets-up-to-4-seats/59484468.txt
+- PINNTORP / PINNTORP table and 4 chairs, light brown stained red stained/red stained: /products/dining-sets-up-to-4-seats/59564455.txt
+- PINNTORP / PINNTORP table and 4 chairs, light brown stained red stained/red stained: /products/dining-sets-up-to-4-seats/19484451.txt
+- PINNTORP / PINNTORP table and 4 chairs, light brown stained red stained/light brown stained: /products/dining-sets-up-to-4-seats/89570186.txt
+- NORDVIKEN / SKOGSTA table and 4 chairs, antique stain/black: /products/dining-sets-up-to-4-seats/69571634.txt
+- NORDVIKEN / SKOGSBO table and 4 chairs, black/dark brown: /products/dining-sets-up-to-4-seats/19528209.txt
+- NORDVIKEN / NORDVIKEN table and 4 chairs, black/black: /products/dining-sets-up-to-4-seats/59305155.txt
+- NORDVIKEN / NORDVIKEN table and 4 chairs, antique stain/antique stain: /products/dining-sets-up-to-4-seats/39386647.txt
+- NORDVIKEN / INGOLF table and 4 chairs, black/Nolhaga grey-beige brown-black: /products/dining-sets-up-to-4-seats/09571627.txt
+- NORDVIKEN / BERGMUND table and 4 chairs, black/Ryrane dark blue: /products/dining-sets-up-to-4-seats/39477077.txt
+- NORDVIKEN / BERGMUND table and 4 chairs, black/Inseros white/black: /products/dining-sets-up-to-4-seats/59477076.txt
+- NORDEN / TEODORES table and 4 chairs, white/white: /products/dining-sets-up-to-4-seats/39568826.txt
+- NORDEN / TEODORES table and 4 chairs, birch/white: /products/dining-sets-up-to-4-seats/89568904.txt
+- NORDEN / KYRRE table and 4 stools, white/birch: /products/dining-sets-up-to-4-seats/79568829.txt
+- NORDEN / KYRRE table and 4 stools, birch/birch: /products/dining-sets-up-to-4-seats/79568891.txt
+- NORDEN / FRÖSVI table and 4 chairs, white/white: /products/dining-sets-up-to-4-seats/49568816.txt
+- NORDEN / FRÖSVI table and 4 chairs, white/Knisa light gray: /products/dining-sets-up-to-4-seats/29568822.txt
+- NORDEN / FRÖSVI table and 4 chairs, birch/Knisa dark gray: /products/dining-sets-up-to-4-seats/69568896.txt
+- NORDEN / FRÖSVI table and 4 chairs, birch/beech: /products/dining-sets-up-to-4-seats/29568898.txt
+- NÄSINGE / NORDVIKEN table and 4 chairs, white/white: /products/dining-sets-up-to-4-seats/99602629.txt
+- NÄSINGE / NORDVIKEN table and 4 chairs, white/white: /products/dining-sets-up-to-4-seats/79602630.txt
+- NÄSINGE / NORDVIKEN table and 4 chairs, white/white: /products/dining-sets-up-to-4-seats/69596936.txt
+- NÄSINGE / NORDVIKEN table and 4 chairs, white/white: /products/dining-sets-up-to-4-seats/59602631.txt
+- NÄSINGE / NORDVIKEN table and 4 chairs, white/white: /products/dining-sets-up-to-4-seats/49596942.txt
+- NÄSINGE / NORDVIKEN table and 4 chairs, white/white: /products/dining-sets-up-to-4-seats/39602632.txt
+- NÄSINGE / NORDVIKEN table and 4 chairs, white/white: /products/dining-sets-up-to-4-seats/39602627.txt
+- NÄSINGE / NORDVIKEN table and 4 chairs, white/white: /products/dining-sets-up-to-4-seats/19602628.txt
+- NÄSINGE / NORDVIKEN table and 4 chairs, white/white: /products/dining-sets-up-to-4-seats/09596939.txt
+- NÄSINGE / NÄSINGE table and 4 chairs, white/white Tibbleby beige-gray: /products/dining-sets-up-to-4-seats/99602337.txt
+- NÄSINGE / NÄSINGE table and 4 chairs, white/white Tibbleby beige-gray: /products/dining-sets-up-to-4-seats/69602334.txt
+- NÄSINGE / NÄSINGE table and 4 chairs, white/white Tibbleby beige-gray: /products/dining-sets-up-to-4-seats/39602340.txt
+- NÄSINGE / NÄSINGE table and 4 chairs, dark brown stained beech veneer/dark brown stained Kilanda light beige: /products/dining-sets-up-to-4-seats/79602357.txt
+- NÄSINGE / NÄSINGE table and 4 chairs, dark brown stained beech veneer/dark brown stained Kilanda light beige: /products/dining-sets-up-to-4-seats/49602354.txt
+- NÄSINGE / NÄSINGE table and 4 chairs, dark brown stained beech veneer/dark brown stained Kilanda light beige: /products/dining-sets-up-to-4-seats/19602360.txt
+- NÄSINGE / BERGMUND table and 4 chairs, white/Gunnared medium grey white: /products/dining-sets-up-to-4-seats/59602966.txt
+- NÄSINGE / BERGMUND table and 4 chairs, white/Gunnared medium grey white: /products/dining-sets-up-to-4-seats/49602957.txt
+- NÄSINGE / BERGMUND table and 4 chairs, white/Gunnared medium grey white: /products/dining-sets-up-to-4-seats/39602948.txt
+- NÄSINGE / BERGMUND table and 4 chairs, dark brown stained beech veneer/Orrsta light grey black: /products/dining-sets-up-to-4-seats/99602945.txt
+- NÄSINGE / BERGMUND table and 4 chairs, dark brown stained beech veneer/Orrsta light grey black: /products/dining-sets-up-to-4-seats/29602963.txt
+- NÄSINGE / BERGMUND table and 4 chairs, dark brown stained beech veneer/Orrsta light grey black: /products/dining-sets-up-to-4-seats/19602954.txt
+- NÄSINGE / BERGMUND table and 4 chairs, dark brown stained beech veneer/Gunnared medium grey black: /products/dining-sets-up-to-4-seats/89602960.txt
+- NÄSINGE / BERGMUND table and 4 chairs, dark brown stained beech veneer/Gunnared medium grey black: /products/dining-sets-up-to-4-seats/79602951.txt
+- NÄSINGE / BERGMUND table and 4 chairs, dark brown stained beech veneer/Gunnared medium grey black: /products/dining-sets-up-to-4-seats/69602942.txt
+- NACKANÄS / SKOGSBO table and 4 chairs, acacia/dark brown: /products/dining-sets-up-to-4-seats/19528252.txt
+- NACKANÄS / NACKANÄS table and 4 chairs, acacia/acacia: /products/dining-sets-up-to-4-seats/69467562.txt
+- NACKANÄS / EBBALYCKE table and 4 chairs, acacia/Idekulla beige: /products/dining-sets-up-to-4-seats/39560142.txt
+- MÖRBYLÅNGA / TOSSBERG table and 4 chairs, oak veneer brown stained/Gunnared dark grey black: /products/dining-sets-up-to-4-seats/09569318.txt
+- MÖRBYLÅNGA / TOBIAS table and 4 chairs, oak veneer brown stained/brown-red chrome plated: /products/dining-sets-up-to-4-seats/39484959.txt
+- MÖRBYLÅNGA / TOBIAS table and 4 chairs, oak veneer brown stained/brown-red chrome plated: /products/dining-sets-up-to-4-seats/09484946.txt
+- MÖRBYLÅNGA / MÅRENÄS table and 4 armchairs, oak veneer brown stained/black Gunnared dark grey: /products/dining-sets-up-to-4-seats/29520104.txt
+- MÖRBYLÅNGA / MÅRENÄS table and 4 armchairs, oak veneer brown stained/black Gunnared beige: /products/dining-sets-up-to-4-seats/69520098.txt
+- MÖRBYLÅNGA / MÅRENÄS table and 4 armchairs, oak veneer black/Gunnared red-brown: /products/dining-sets-up-to-4-seats/99520110.txt
+- MÖRBYLÅNGA / LUSTEBO table and 4 chairs, oak veneer brown stained/Viarp beige/brown: /products/dining-sets-up-to-4-seats/09523523.txt
+- MÖRBYLÅNGA / GRÖNSTA table and 4 chairs, oak veneer brown stained/white: /products/dining-sets-up-to-4-seats/39548881.txt
+- MÖRBYLÅNGA / GRÖNSTA table and 4 chairs, oak veneer brown stained/gray-turquoise: /products/dining-sets-up-to-4-seats/99548878.txt
+- MÖRBYLÅNGA / GRÖNSTA table and 4 armchairs, oak veneer brown stained/white: /products/dining-sets-up-to-4-seats/39569312.txt
+- MARIEDAMM / ODGER table and 4 chairs, black marble effect/anthracite: /products/dining-sets-up-to-4-seats/69568716.txt
+- MARIEDAMM / ODGER table and 4 chairs, black marble effect/anthracite: /products/dining-sets-up-to-4-seats/59568689.txt
+- MARIEDAMM / LILLÅNÄS table and 4 chairs, black marble effect/Gunnared dark grey chrome plated: /products/dining-sets-up-to-4-seats/89568715.txt
+- MARIEDAMM / LILLÅNÄS table and 4 chairs, black marble effect/Gunnared dark grey chrome plated: /products/dining-sets-up-to-4-seats/09568696.txt
+- MARIEDAMM / KARLPETTER table and 4 chairs, black marble effect/Gunnared medium grey black: /products/dining-sets-up-to-4-seats/59568712.txt
+- MARIEDAMM / KARLPETTER table and 4 chairs, black marble effect/Gunnared medium grey black: /products/dining-sets-up-to-4-seats/59568694.txt
+- LISABO / SALNÖ table and 4 armchairs, black rattan/Gransel natural: /products/dining-sets-up-to-4-seats/69564619.txt
+- LISABO / RÖNNINGE table and 4 chairs, ash veneer/birch: /products/dining-sets-up-to-4-seats/39297118.txt
+- LISABO / LYCKAN table and 4 chairs, ash veneer/yellow birch veneer: /products/dining-sets-up-to-4-seats/99590264.txt
+- LISABO / LYCKAN table and 4 chairs, ash veneer/yellow birch veneer: /products/dining-sets-up-to-4-seats/19590263.txt
+- LISABO / LYCKAN table and 4 chairs, ash veneer/birch veneer: /products/dining-sets-up-to-4-seats/79590260.txt
+- LISABO / LYCKAN table and 4 chairs, ash veneer/birch veneer: /products/dining-sets-up-to-4-seats/59590261.txt
+- LISABO / LISABO table and 4 chairs, black/Tallmyra black/gray: /products/dining-sets-up-to-4-seats/49554918.txt
+- LISABO / LISABO table and 4 chairs, black/Tallmyra black/gray: /products/dining-sets-up-to-4-seats/19554910.txt
+- LISABO / LISABO table and 4 chairs, black/black: /products/dining-sets-up-to-4-seats/79554912.txt
+- LISABO / LISABO table and 4 chairs, black/black: /products/dining-sets-up-to-4-seats/19385535.txt
+- LISABO / LISABO table and 4 chairs, ash veneer/black: /products/dining-sets-up-to-4-seats/89385532.txt
+- LISABO / LISABO table and 4 chairs, ash veneer/ash: /products/dining-sets-up-to-4-seats/69554856.txt
+- LISABO / LISABO table and 4 chairs, ash veneer/ash: /products/dining-sets-up-to-4-seats/49385529.txt
+- LISABO / LISABO table and 4 chairs, ash/Tallmyra white/black: /products/dining-sets-up-to-4-seats/39554829.txt
+- LISABO / LISABO table and 4 chairs, ash/Tallmyra white/black: /products/dining-sets-up-to-4-seats/19554854.txt
+- LISABO / KARLPETTER table and 4 chairs, black/Gunnared medium grey black: /products/dining-sets-up-to-4-seats/49481795.txt
+- LISABO / KARLPETTER table and 4 chairs, black/Gunnared light green black: /products/dining-sets-up-to-4-seats/89568616.txt
+- LISABO / KARLPETTER table and 4 chairs, black/Gunnared light green black: /products/dining-sets-up-to-4-seats/69568603.txt
+- LISABO / KARLPETTER table and 4 chairs, ash veneer/Gunnared medium grey white: /products/dining-sets-up-to-4-seats/99568338.txt
+- LISABO / KARLPETTER table and 4 chairs, ash veneer/Gunnared medium grey white: /products/dining-sets-up-to-4-seats/09568333.txt
+- LISABO / ÄLVSTA table and 4 chairs, black/rattan black: /products/dining-sets-up-to-4-seats/79568607.txt
+- LISABO / ÄLVSTA table and 4 chairs, black/rattan black: /products/dining-sets-up-to-4-seats/49481583.txt
+- LISABO / ÄLVSTA table and 4 chairs, ash veneer/rattan white: /products/dining-sets-up-to-4-seats/29568186.txt
+- LISABO / ÄLVSTA table and 4 chairs, ash veneer/rattan white: /products/dining-sets-up-to-4-seats/29568153.txt
+- INGATORP / STEFAN table and 4 chairs, black/Knisa gray/beige: /products/dining-sets-up-to-4-seats/79488093.txt
+- INGATORP / SKOGSTA table and 4 chairs, white/acacia: /products/dining-sets-up-to-4-seats/99545196.txt
+- INGATORP / SKOGSTA table and 4 chairs, black/acacia: /products/dining-sets-up-to-4-seats/69545193.txt
+- INGATORP / SKOGSBO table and 4 chairs, white white/dark brown: /products/dining-sets-up-to-4-seats/59515101.txt
+- INGATORP / SKOGSBO table and 4 chairs, white white/dark brown: /products/dining-sets-up-to-4-seats/59515097.txt
+- INGATORP / SKOGSBO table and 4 chairs, black/dark brown: /products/dining-sets-up-to-4-seats/99574792.txt
+- INGATORP / SKOGSBO table and 4 chairs, black/dark brown: /products/dining-sets-up-to-4-seats/29574757.txt
+- INGATORP / INGOLF table and 4 chairs, white/white: /products/dining-sets-up-to-4-seats/59400497.txt
+- INGATORP / INGOLF table and 4 chairs, white: /products/dining-sets-up-to-4-seats/29917307.txt
+- INGATORP / INGOLF table and 4 chairs, white/Hallarp beige: /products/dining-sets-up-to-4-seats/79482699.txt
+- INGATORP / INGOLF table and 4 chairs, white/Hallarp beige: /products/dining-sets-up-to-4-seats/49482808.txt
+- INGATORP / INGOLF table and 4 chairs, black/Nolhaga gray/beige: /products/dining-sets-up-to-4-seats/29483333.txt
+- INGATORP / INGOLF table and 4 chairs, black/brown-black: /products/dining-sets-up-to-4-seats/79400496.txt
+- INGATORP / INGOLF table and 4 chairs, black/brown-black: /products/dining-sets-up-to-4-seats/19297157.txt
+- INGATORP / INGOLF table and 4 chairs, black/brown-black Nolhaga grey-beige: /products/dining-sets-up-to-4-seats/59574789.txt
+- INGATORP / BERGMUND table and 4 chairs, white/Inseros white: /products/dining-sets-up-to-4-seats/29477068.txt
+- INGATORP / BERGMUND table and 4 chairs, black/Ryrane dark blue: /products/dining-sets-up-to-4-seats/19477064.txt
+- INGATORP / BERGMUND table and 4 chairs, black/Inseros white/black: /products/dining-sets-up-to-4-seats/39477063.txt
+- HAUGA / STEFAN table and 4 chairs, gray/brown-black: /products/dining-sets-up-to-4-seats/69574915.txt
+- HAUGA / HAUGA table and 4 chairs, white/white: /products/dining-sets-up-to-4-seats/89574863.txt
+- HAUGA / HAUGA table and 4 chairs, gray/gray: /products/dining-sets-up-to-4-seats/79574910.txt
+- HÄGERNÄS table and 4 chairs, pine: /products/dining-sets-up-to-4-seats/30606757.txt
+- HÄGERNÄS table and 4 chairs, black stained pine: /products/dining-sets-up-to-4-seats/20575997.txt
+- HÄGERNÄS table and 4 chairs, antique stain pine: /products/dining-sets-up-to-4-seats/70575947.txt
+- GRÅSALA / ÖSTANÖ table and 4 chairs, gray/Remmarn red-brown: /products/dining-sets-up-to-4-seats/59497296.txt
+- GRÅSALA / ÖSTANÖ table and 4 chairs, gray/Remmarn dark gray: /products/dining-sets-up-to-4-seats/89497285.txt
+- GRÅSALA / LIDÅS table and 4 chairs, gray/white white: /products/dining-sets-up-to-4-seats/49497273.txt
+- GRÅSALA / GRÅSALA table and 4 chairs, gray gray/gray: /products/dining-sets-up-to-4-seats/79484047.txt
+- GRÅSALA / ADDE table and 4 chairs, gray gray/black: /products/dining-sets-up-to-4-seats/39497259.txt
+- EKEDALEN / TOBIAS table and 4 chairs, dark brown/brown-red chrome plated: /products/dining-sets-up-to-4-seats/79484943.txt
+- EKEDALEN / SIGTRYGG table and 4 chairs, white/birch white: /products/dining-sets-up-to-4-seats/99481627.txt
+- EKEDALEN / SIGTRYGG table and 4 chairs, dark brown/dark brown black: /products/dining-sets-up-to-4-seats/99481632.txt
+- EKEDALEN / LIDÅS table and 4 chairs, white/white white: /products/dining-sets-up-to-4-seats/59570423.txt
+- EKEDALEN / LIDÅS table and 4 chairs, dark brown/black black: /products/dining-sets-up-to-4-seats/19570731.txt
+- EKEDALEN / KRYLBO table and 4 chairs, white/Tonerud dark beige: /products/dining-sets-up-to-4-seats/49536335.txt
+- EKEDALEN / KRYLBO table and 4 chairs, white/Tonerud blue: /products/dining-sets-up-to-4-seats/99570421.txt
+- EKEDALEN / KRYLBO table and 4 chairs, dark brown/Tonerud dark beige: /products/dining-sets-up-to-4-seats/49570862.txt
+- EKEDALEN / KARLPETTER table and 4 chairs, dark brown/Gunnared medium grey chrome plated: /products/dining-sets-up-to-4-seats/89481802.txt
+- EKEDALEN / KARLPETTER table and 4 chairs, dark brown/Gunnared light green black: /products/dining-sets-up-to-4-seats/99570973.txt
+- EKEDALEN / KÄTTIL table and 4 chairs, white/Knisa light gray: /products/dining-sets-up-to-4-seats/29428817.txt
+- EKEDALEN / INGOLF table and 4 chairs, white/white: /products/dining-sets-up-to-4-seats/69482968.txt
+- EKEDALEN / GRÖNSTA table and 4 chairs, white/white: /products/dining-sets-up-to-4-seats/19548815.txt
+- EKEDALEN / GRÖNSTA table and 4 chairs, white/gray-turquoise: /products/dining-sets-up-to-4-seats/59548804.txt
+- EKEDALEN / EKEDALEN table and 2 benches, dark brown/dark brown: /products/dining-sets-up-to-4-seats/49482771.txt
+- EKEDALEN / BERGMUND table and 4 chairs, white/Orrsta light gray/white: /products/dining-sets-up-to-4-seats/69477047.txt
+- EKEDALEN / BERGMUND table and 4 chairs, white/Fågelfors multicolor: /products/dining-sets-up-to-4-seats/29477049.txt
+- EKEDALEN / ÄLVSTA table and 4 chairs, white/rattan white: /products/dining-sets-up-to-4-seats/09481580.txt
+- EKEDALEN / ÄLVSTA table and 4 chairs, dark brown/rattan black: /products/dining-sets-up-to-4-seats/49570819.txt
+- DOCKSTA / TOBIAS table and 4 chairs, white white/transparent chrome plated: /products/dining-sets-up-to-4-seats/49483431.txt
+- DOCKSTA / TOBIAS table and 4 chairs, white white/brown/red: /products/dining-sets-up-to-4-seats/39499277.txt
+- DOCKSTA / TEODORES table and 4 chairs, black black/black: /products/dining-sets-up-to-4-seats/59568137.txt
+- DOCKSTA / ÖSTANÖ table and 4 chairs, black black/Remmarn red-brown: /products/dining-sets-up-to-4-seats/29568129.txt
+- DOCKSTA / ÖSTANÖ table and 4 chairs, black black/Remmarn dark gray: /products/dining-sets-up-to-4-seats/89568131.txt
+- DOCKSTA / MÅNHULT table and 4 chairs, black black/Hakebo gray-green: /products/dining-sets-up-to-4-seats/29568134.txt
+- DOCKSTA / LIDÅS table and 4 chairs, white white/white white: /products/dining-sets-up-to-4-seats/49568114.txt
+- DOCKSTA / LIDÅS table and 4 chairs, white white/white chrome plated: /products/dining-sets-up-to-4-seats/29481602.txt
+- DOCKSTA / LIDÅS table and 4 chairs, black black/black black: /products/dining-sets-up-to-4-seats/99568135.txt
+- DOCKSTA / KRYLBO table and 4 chairs, white white/Tonerud dark beige: /products/dining-sets-up-to-4-seats/09568125.txt
+- DANDERYD / SKOGSTA table and 4 chairs, white/acacia: /products/dining-sets-up-to-4-seats/69545188.txt
+- DANDERYD / SKOGSTA table and 4 chairs, white/acacia: /products/dining-sets-up-to-4-seats/09557867.txt
+- DANDERYD / SKOGSTA table and 4 chairs, oak veneer white/acacia: /products/dining-sets-up-to-4-seats/79568103.txt
+- DANDERYD / SKOGSTA table and 4 chairs, black/black: /products/dining-sets-up-to-4-seats/19544290.txt
+- DANDERYD / SKOGSTA table and 4 chairs, black/acacia: /products/dining-sets-up-to-4-seats/49557865.txt
+- DANDERYD / SKOGSTA table and 4 chairs, black/acacia: /products/dining-sets-up-to-4-seats/09545191.txt
+- DANDERYD / INGOLF table and 4 chairs, white/white: /products/dining-sets-up-to-4-seats/49544236.txt
+- DANDERYD / INGOLF table and 4 chairs, white/Hallarp beige: /products/dining-sets-up-to-4-seats/19544247.txt
+- DANDERYD / INGOLF table and 4 chairs, oak veneer white/white: /products/dining-sets-up-to-4-seats/69392538.txt
+- DANDERYD / INGOLF table and 4 chairs, black/Nolhaga gray-beige: /products/dining-sets-up-to-4-seats/79544287.txt
+- DANDERYD / INGOLF table and 4 chairs, black/brown-black: /products/dining-sets-up-to-4-seats/09544281.txt
+- DANDERYD / EBBALYCKE table and 4 chairs, white/Idekulla beige: /products/dining-sets-up-to-4-seats/89560130.txt
+- DANDERYD / EBBALYCKE table and 4 chairs, oak veneer white/Idekulla beige: /products/dining-sets-up-to-4-seats/99568102.txt
+- DANDERYD / EBBALYCKE table and 4 chairs, black/Idekulla beige: /products/dining-sets-up-to-4-seats/19560119.txt
+- DANDERYD / DANDERYD table and 4 chairs, white/Vissle gray: /products/dining-sets-up-to-4-seats/39544251.txt
+- DANDERYD / DANDERYD table and 4 chairs, oak veneer white/Vissle gray: /products/dining-sets-up-to-4-seats/99483947.txt
+- DANDERYD / BERGMUND table and 4 chairs, white/Gunnared medium grey: /products/dining-sets-up-to-4-seats/89544258.txt
+- DANDERYD / BERGMUND table and 4 chairs, black/Gunnared medium grey: /products/dining-sets-up-to-4-seats/59544306.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

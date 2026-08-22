@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SEKTION / MAXIMERA base cab with 2 fronts/3 drawers, white/Stensta dark brown ash veneer
+SKU: 09574701
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sektion-maximera-base-cab-with-2-fronts-3-drawers-white-stensta-dark-brown-ash-veneer-s09574701/
+Category: Base cabinets
+Description: , 30x24x30" SEKTION kitchen system gives you endless possibilities to design your dream kitchen. Paired with STENSTA fronts in dark brown stained ash veneer with solid wood handles you get a warm and ...
+
+# @OFFER
+Price: 415
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Drawer front: Particleboard, Frontside/ Backside/ Edge: Ash veneer, Stain, Clear acrylic lacquer, Handle: Solid beech, Stain, Clear acrylic lacquer
+Features: To be completed with SEKTION suspension rail for mounting the cabinet to the wall. | Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Suspension rail sold separately.
+Care: Wipe clean with a damp cloth.  Use only water or a non-abrasive detergent. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sektion-maximera-base-cab-with-2-fronts-3-drawers-white-stensta-dark-brown-ash-veneer__1349393_pe951330_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

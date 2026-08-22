@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: VIPPÄRT chair pad, beige
+SKU: 40599285
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vippaert-chair-pad-beige-40599285/
+Category: Chair pads & seat cushions
+Description: , 15x15x2" Have a seat and stay a while – this chair pad has an extra thick and cushiony feeling. When one side becomes worn or dirty, just flip the pad over – the other side looks the same only its c...
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 55 % cotton, 45% polyester (min. 90% recycled), Filling: 100 % polyester - hollow fiber (100% recycled)
+Care: Machine wash warm, normal cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vippaert-chair-pad-beige__0668998_pe714812_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

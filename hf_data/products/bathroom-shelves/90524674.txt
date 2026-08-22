@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BROGRUND glass shelf
+SKU: 90524674
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/brogrund-glass-shelf-90524674/
+Category: Bathroom shelves
+Description: , 263/8x43/8" Clean, simple and distinctive. The BROGRUND series offers a wide variety of accessories to create order out of chaos with a modern, fresh look. Details like hidden screws add to the clea...
+
+# @OFFER
+Price: 18.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Bracket/ Front/ Strip/ Rivet: Stainless steel, Back cover: Reinforced polyamide, Plastic stopper: Polypropylene, Polypropylene
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Tempered glass is easy to clean. | Can be used with other products in the BROGRUND series.
+Care: Wipe clean with a damp cloth. Use only water or window-cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/brogrund-glass-shelf__0710429_pe727546_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

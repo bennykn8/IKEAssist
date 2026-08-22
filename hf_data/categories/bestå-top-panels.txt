@@ -1,0 +1,31 @@
+# @CATEGORY
+Name: BESTÅ top panels
+ProductCount: 9
+
+# @FILTERS
+PriceRange: $20.00 - $85.00
+Materials: Glass panel: Tempered glass, Glass enamel, Plastic foil, Glass panel: Tempered glass, Paint, Particleboard, Clear lacquer, Paper foil, Oak veneer, Tinted lacquer, Particleboard, Paper foil, Clear lacquer, Oak veneer, Tinted lacquer, Tempered glass, Glass enamel, Plastic foil
+Brand: IKEA
+
+# @ITEMS
+- BESTÅ top panel, oak veneer: /products/bestå-top-panels/20472918.txt
+- BESTÅ Top panel, oak veneer: /products/bestå-top-panels/00472919.txt
+- BESTÅ top panel, glass white/light green: /products/bestå-top-panels/80540759.txt
+- BESTÅ top panel, glass white/light green: /products/bestå-top-panels/40540756.txt
+- BESTÅ top panel, glass white/light green: /products/bestå-top-panels/30540747.txt
+- BESTÅ top panel for TV, oak veneer: /products/bestå-top-panels/80496365.txt
+- BESTÅ top panel for TV, oak veneer: /products/bestå-top-panels/50496362.txt
+- BESTÅ top panel for TV, glass white/light green: /products/bestå-top-panels/50540765.txt
+- BESTÅ top panel for TV, glass white/light green: /products/bestå-top-panels/10540772.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: DEJSA ceiling lamp with 3 lights, chrome plated/opal glass
+SKU: 90478035
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/dejsa-ceiling-lamp-with-3-lights-chrome-plated-opal-glass-90478035/
+Category: Ceiling lamps
+Description: The lamps in the DEJSA series all have chrome details and softly-shaped shades of mouth-blown opal glass. Whichever one you choose, you get a soft, dim light that creates a cozy atmosphere in the room...
+
+# @OFFER
+Price: 89.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Cover plate/ Tube/ Shade holder: Steel, Nickel plated, Shade: Glass
+Features: Light bulbs sold separately. IKEA recommends LED bulb E26 globe opal white (3 pcs). | Hardwired installation. | Mounted with screws.
+Care: Wipe clean with a soft cloth dampened with water and a mild dish detergent or soap, if necessary. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/dejsa-ceiling-lamp-with-3-lights-chrome-plated-opal-glass__0967524_pe810175_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

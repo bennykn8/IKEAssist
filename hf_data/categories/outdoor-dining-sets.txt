@@ -1,0 +1,109 @@
+# @CATEGORY
+Name: Outdoor dining sets
+ProductCount: 87
+
+# @FILTERS
+PriceRange: $179.00 - $2299.00
+Materials: 100% polyester (min. 90% recycled), Armrest/ Front rail/ Back rail/ Back/ Main parts: Solid eucalyptus wood, Acrylic stain, Back/ Seat: Polyethylene, Polyethylene, Polypropylene, Cover/ Smolder resistant lining: Polyester wadding, Cushion cover/ Fabric: 100% polyester (min. 90% recycled), Cushion cover/ Filling/ Fabric: 100 % polyester (100% recycled), Fabric/ Cushion cover/ Filling: 100 % polyester (100% recycled), Fabric/ Cushion cover: 100% polyester (min. 90% recycled), Feet: Polypropylene, Filling: 100 % polyester (100% recycled)
+Brand: IKEA
+
+# @ITEMS
+- VITTSKÄR table and 8 chairs, outdoor plastic rattan dark gray: /products/outdoor-dining-sets/49608978.txt
+- VITTSKÄR table and 8 chairs, outdoor plastic rattan dark gray/Frösön/Duvholmen beige: /products/outdoor-dining-sets/89610903.txt
+- VÄSMAN / VÄSMAN table+6 armchairs, outdoor, extendable light brown stained/brown: /products/outdoor-dining-sets/99581641.txt
+- VÄSMAN / VÄSMAN table+6 armchairs, outdoor, extendable light brown stained/black: /products/outdoor-dining-sets/89582679.txt
+- VÄSMAN / ENSHOLM table+6 chairs, outdoor, extendable light brown stained/green: /products/outdoor-dining-sets/69581732.txt
+- VÄRMANSÖ table and 4 chairs, outdoor, dark gray/brown: /products/outdoor-dining-sets/89500198.txt
+- VÄRMANSÖ table+6 chairs, outdoor, dark gray/brown: /products/outdoor-dining-sets/59500213.txt
+- TORPARÖ table + 4 reclining chairs, outdoor, white/white/gray: /products/outdoor-dining-sets/29494869.txt
+- TEGELÖN / VÄSMAN table and 4 armchairs, outdoor, dark gray/black/black: /products/outdoor-dining-sets/79437131.txt
+- TEGELÖN / VÄSMAN table+6 armchairs, outdoor, dark gray/black/black: /products/outdoor-dining-sets/19437134.txt
+- TEGELÖN / TEGELÖN table and 4 chairs, outdoor, dark gray/black: /products/outdoor-dining-sets/39431188.txt
+- TEGELÖN / TEGELÖN table+6 chairs, outdoor, dark gray/black: /products/outdoor-dining-sets/19431194.txt
+- TÄRNÖ table and 4 chairs, outdoor, foldable black/light brown stained/foldable Klösan dark blue: /products/outdoor-dining-sets/99576343.txt
+- TÄRNÖ table and 4 chairs, outdoor, foldable black/light brown stained/foldable Klösan dark blue: /products/outdoor-dining-sets/19576356.txt
+- TÄRNÖ table and 4 chairs, outdoor, black/light brown stained: /products/outdoor-dining-sets/29393709.txt
+- TÄRNÖ table and 4 chairs, outdoor, black/light brown stained/Frösön/Duvholmen beige: /products/outdoor-dining-sets/19393724.txt
+- TÄRNÖ table and 4 chairs, outdoor, black/light brown stained foldable/foldable Kuddarna light gray-beige: /products/outdoor-dining-sets/39576119.txt
+- SEGERÖN / VÄSMAN table and 4 armchairs, outdoor white/beige/brown: /products/outdoor-dining-sets/19544742.txt
+- SEGERÖN / VÄSMAN table+6 armchairs, outdoor, white/beige/brown: /products/outdoor-dining-sets/79544744.txt
+- SEGERÖN table and 4 armchairs, outdoor white/beige/Frösön/Duvholmen beige: /products/outdoor-dining-sets/39500841.txt
+- SEGERÖN table and 4 armchairs, outdoor dark green/Frösön/Duvholmen stripe pattern: /products/outdoor-dining-sets/29532965.txt
+- SEGERÖN table and 4 armchairs, outdoor dark green/Frösön/Duvholmen beige: /products/outdoor-dining-sets/99500824.txt
+- SEGERÖN table+6 armchairs, outdoor, white/beige/Frösön/Duvholmen beige: /products/outdoor-dining-sets/99500857.txt
+- SEGERÖN table+6 armchairs, outdoor, white/beige/Frösön/Duvholmen beige: /products/outdoor-dining-sets/19509079.txt
+- SEGERÖN table+6 armchairs, outdoor, dark green/Frösön/Duvholmen stripe pattern: /products/outdoor-dining-sets/49532969.txt
+- SEGERÖN table+6 armchairs, outdoor, dark green/Frösön/Duvholmen beige: /products/outdoor-dining-sets/29500846.txt
+- SEGERÖN table+6 armchairs, outdoor, dark green/Frösön/Duvholmen beige: /products/outdoor-dining-sets/09509070.txt
+- SEGERÖN / ENSHOLM table and 4 chairs, outdoor dark green/green: /products/outdoor-dining-sets/99544738.txt
+- NORRMANSÖ / VASSHOLMEN table+6 chairs, outdoor, acacia/black white: /products/outdoor-dining-sets/09435215.txt
+- NORRMANSÖ / NORRMANSÖ table+6 chairs, outdoor, acacia/beige acacia: /products/outdoor-dining-sets/39426158.txt
+- NORRMANSÖ / NORRMANSÖ table+3 chairs+2 benches, outdoor acacia/beige acacia: /products/outdoor-dining-sets/19582499.txt
+- NÄMMARÖ / VÄSMAN table and 4 armchairs, outdoor, light brown stained/brown: /products/outdoor-dining-sets/49544745.txt
+- NÄMMARÖ / VÄSMAN table and 4 armchairs, outdoor, light brown stained/brown: /products/outdoor-dining-sets/39582506.txt
+- NÄMMARÖ / VÄSMAN table+6 armchairs, outdoor, light brown stained/brown: /products/outdoor-dining-sets/09544747.txt
+- NÄMMARÖ table and 4 folding chairs, outdoor, light brown stained: /products/outdoor-dining-sets/19544723.txt
+- NÄMMARÖ table and 4 armchairs, outdoor, light brown stained: /products/outdoor-dining-sets/59544405.txt
+- NÄMMARÖ table and 4 armchairs, outdoor, light brown stained: /products/outdoor-dining-sets/19582480.txt
+- NÄMMARÖ table and 4 armchairs, outdoor, light brown stained/Kuddarna light grey-beige: /products/outdoor-dining-sets/49584430.txt
+- NÄMMARÖ table and 4 armchairs, outdoor, light brown stained/Kuddarna light grey-beige: /products/outdoor-dining-sets/19576078.txt
+- NÄMMARÖ table and 4 armchairs, outdoor, light brown stained/Frösön/Duvholmen beige: /products/outdoor-dining-sets/29584426.txt
+- NÄMMARÖ table + 6 reclining chairs, outdoor, light brown stained: /products/outdoor-dining-sets/99579313.txt
+- NÄMMARÖ table + 6 reclining chairs, outdoor, light brown stained/Kuddarna light grey-beige: /products/outdoor-dining-sets/19576083.txt
+- NÄMMARÖ table + 6 reclining chairs, outdoor, light brown stained/Frösön/Duvholmen stripe pattern: /products/outdoor-dining-sets/29544553.txt
+- NÄMMARÖ table + 6 reclining chairs, outdoor, light brown stained/Frösön/Duvholmen beige: /products/outdoor-dining-sets/59534637.txt
+- NÄMMARÖ table+6 armchairs, outdoor, light brown stained: /products/outdoor-dining-sets/79544386.txt
+- NÄMMARÖ table+6 armchairs, outdoor, light brown stained/Kuddarna light grey-beige: /products/outdoor-dining-sets/69576085.txt
+- NÄMMARÖ table + 4 reclining chairs, outdoor, light brown stained: /products/outdoor-dining-sets/69544396.txt
+- NÄMMARÖ table + 4 reclining chairs, outdoor, light brown stained: /products/outdoor-dining-sets/09581792.txt
+- NÄMMARÖ table + 4 reclining chairs, outdoor, light brown stained/Kuddarna light grey-beige: /products/outdoor-dining-sets/09576074.txt
+- NÄMMARÖ table + 4 reclining chairs, outdoor, light brown stained/Kuddarna light gray-beige: /products/outdoor-dining-sets/79584419.txt
+- NÄMMARÖ table + 4 reclining chairs, outdoor, light brown stained/Frösön/Duvholmen stripe pattern: /products/outdoor-dining-sets/69544546.txt
+- NÄMMARÖ table + 4 reclining chairs, outdoor, light brown stained/Frösön/Duvholmen beige: /products/outdoor-dining-sets/59584415.txt
+- NÄMMARÖ table, 2 chairs and bench, outdoor, light brown stained: /products/outdoor-dining-sets/39544374.txt
+- NÄMMARÖ table, 2 chairs and bench, outdoor, light brown stained/Kuddarna light grey-beige: /products/outdoor-dining-sets/09576069.txt
+- NÄMMARÖ table, 2 chairs and bench, outdoor, light brown stained/Frösön/Duvholmen stripe pattern: /products/outdoor-dining-sets/79544541.txt
+- NÄMMARÖ table, 2 chairs and bench, outdoor, light brown stained/Frösön/Duvholmen beige: /products/outdoor-dining-sets/99505398.txt
+- NÄMMARÖ bar table and 4 bar stools, outdoor/light brown stained: /products/outdoor-dining-sets/49491228.txt
+- NÄMMARÖ bar table and 2 bar stools, outdoor, light brown stained: /products/outdoor-dining-sets/69491227.txt
+- NÄMMARÖ bar table and 2 bar stools, outdoor, light brown stained: /products/outdoor-dining-sets/59515182.txt
+- LERHOLMEN picnic table, acacia outdoor: /products/outdoor-dining-sets/40539263.txt
+- BONDHOLMEN table and 4 armchairs, outdoor, brown: /products/outdoor-dining-sets/69549836.txt
+- BONDHOLMEN table and 4 armchairs, outdoor, brown/Järpön/Duvholmen anthracite: /products/outdoor-dining-sets/29549857.txt
+- BONDHOLMEN table and 4 armchairs, outdoor, brown/Frösön/Duvholmen dark gray: /products/outdoor-dining-sets/69549855.txt
+- BONDHOLMEN table + 6 reclining chairs, outdoor, brown: /products/outdoor-dining-sets/79551230.txt
+- BONDHOLMEN table + 6 reclining chairs, outdoor, brown/Järpön/Duvholmen anthracite: /products/outdoor-dining-sets/69551179.txt
+- BONDHOLMEN table + 6 reclining chairs, outdoor, brown/Frösön/Duvholmen dark gray: /products/outdoor-dining-sets/39551232.txt
+- BONDHOLMEN table+6 armchairs, outdoor, brown: /products/outdoor-dining-sets/19551172.txt
+- BONDHOLMEN table+6 armchairs, outdoor, brown/Järpön/Duvholmen anthracite: /products/outdoor-dining-sets/99551234.txt
+- BONDHOLMEN table+6 armchairs, outdoor, brown/Frösön/Duvholmen dark gray: /products/outdoor-dining-sets/29551176.txt
+- BONDHOLMEN table + 4 reclining chairs, outdoor, brown: /products/outdoor-dining-sets/99549873.txt
+- BONDHOLMEN table + 4 reclining chairs, outdoor, brown/Järpön/Duvholmen anthracite: /products/outdoor-dining-sets/09549896.txt
+- BONDHOLMEN table + 4 reclining chairs, outdoor, brown/Frösön/Duvholmen dark gray: /products/outdoor-dining-sets/59549894.txt
+- BONDHOLMEN table, 3 armchairs + bench, outdoor, brown: /products/outdoor-dining-sets/79549685.txt
+- BONDHOLMEN table, 3 armchairs + bench, outdoor, brown/Järpön/Duvholmen anthracite: /products/outdoor-dining-sets/39549673.txt
+- BONDHOLMEN table, 3 armchairs + bench, outdoor, brown/Frösön/Duvholmen dark gray: /products/outdoor-dining-sets/29549678.txt
+- ASKHOLMEN table and 4 folding chairs, outdoor, dark brown: /products/outdoor-dining-sets/79529102.txt
+- ASKHOLMEN table and 4 folding chairs, outdoor, dark brown/Kuddarna light grey-beige: /products/outdoor-dining-sets/89576065.txt
+- ASKHOLMEN table and 4 folding chairs, outdoor, dark brown/Klösan dark blue: /products/outdoor-dining-sets/69576293.txt
+- ASKHOLMEN table and 4 folding chairs, outdoor, dark brown/Frösön/Duvholmen beige: /products/outdoor-dining-sets/79530011.txt
+- ASKHOLMEN table and 4 armchairs, outdoor, dark brown: /products/outdoor-dining-sets/09529110.txt
+- ASKHOLMEN table and 4 armchairs, outdoor, dark brown/Kuddarna light grey-beige: /products/outdoor-dining-sets/89579894.txt
+- ASKHOLMEN table and 4 armchairs, outdoor, dark brown/Klösan dark blue: /products/outdoor-dining-sets/59576302.txt
+- ASKHOLMEN table and 4 armchairs, outdoor, dark brown/Frösön/Duvholmen beige: /products/outdoor-dining-sets/49530300.txt
+- ASKHOLMEN gateleg table+4 chairs, outdoor, foldable dark brown: /products/outdoor-dining-sets/89530039.txt
+- ASKHOLMEN gateleg table+4 chairs, outdoor, foldable dark brown/Kuddarna light grey-beige: /products/outdoor-dining-sets/09579869.txt
+- ASKHOLMEN gateleg table+4 chairs, outdoor, foldable dark brown/Klösan dark blue: /products/outdoor-dining-sets/89576268.txt
+- ASKHOLMEN gateleg table+4 chairs, outdoor, foldable dark brown/Frösön/Duvholmen beige: /products/outdoor-dining-sets/89530044.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

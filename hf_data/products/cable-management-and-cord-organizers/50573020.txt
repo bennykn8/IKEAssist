@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: KALKSTUFF cable holder, set of 3, dark gray
+SKU: 50573020
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kalkstuff-cable-holder-set-of-3-dark-gray-50573020/
+Category: Cable management & cord organizers
+Description: Pure magic for your cables. Attach these holders wherever you like with the double-sided tape, then enjoy not having cords tangled around your devices – and no more picking up cables from the floor!
+
+# @OFFER
+Price: 2.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polypropylene
+Dimensions: Cable diameter: 3-6 mm and 5-8 mm.
+Features: This flexible cable holder is made of recycled plastic and can be adjusted to fit the size of the cable. | 2 cable holders have smaller cable channels that can hold for example 2 USB-cables and 4 USB-cables each, and 1 has bigger cable channels that can hold for example 2 HDMI-cables. | The adhesive tape can leave marks when the product is removed.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kalkstuff-cable-holder-set-of-3-dark-gray__1180190_pe896332_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

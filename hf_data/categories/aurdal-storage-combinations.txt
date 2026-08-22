@@ -1,0 +1,68 @@
+# @CATEGORY
+Name: AURDAL storage combinations
+ProductCount: 46
+
+# @FILTERS
+PriceRange: $145.00 - $1135.00
+Materials: Leg/ Mounting plate/ Pin: Steel, Epoxy/polyester powder coating, Main parts/ Bracket/ Pin: Steel, Epoxy/polyester powder coating, Main parts: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Main parts: Steel, Epoxy/polyester powder coating, Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Plastic edging, Particleboard, Paper foil, Plastic part: ABS plastic, Steel, Epoxy/polyester powder coating, Steel, Powder coating, Wheel: Acetal plastic
+Brand: IKEA
+
+# @ITEMS
+- AURDAL wardrobe combination, white: /products/aurdal-storage-combinations/99571680.txt
+- AURDAL wardrobe combination, white: /products/aurdal-storage-combinations/99564632.txt
+- AURDAL wardrobe combination, white: /products/aurdal-storage-combinations/99331529.txt
+- AURDAL wardrobe combination, white: /products/aurdal-storage-combinations/89565255.txt
+- AURDAL wardrobe combination, white: /products/aurdal-storage-combinations/89564623.txt
+- AURDAL wardrobe combination, white: /products/aurdal-storage-combinations/89564331.txt
+- AURDAL wardrobe combination, white: /products/aurdal-storage-combinations/89331520.txt
+- AURDAL wardrobe combination, white: /products/aurdal-storage-combinations/79571662.txt
+- AURDAL wardrobe combination, white: /products/aurdal-storage-combinations/79564647.txt
+- AURDAL wardrobe combination, white: /products/aurdal-storage-combinations/79331530.txt
+- AURDAL wardrobe combination, white: /products/aurdal-storage-combinations/79331525.txt
+- AURDAL wardrobe combination, white: /products/aurdal-storage-combinations/69331521.txt
+- AURDAL wardrobe combination, white: /products/aurdal-storage-combinations/59564356.txt
+- AURDAL wardrobe combination, white: /products/aurdal-storage-combinations/59331526.txt
+- AURDAL wardrobe combination, white: /products/aurdal-storage-combinations/49565257.txt
+- AURDAL wardrobe combination, white: /products/aurdal-storage-combinations/49564328.txt
+- AURDAL wardrobe combination, white: /products/aurdal-storage-combinations/49331522.txt
+- AURDAL wardrobe combination, white: /products/aurdal-storage-combinations/39565253.txt
+- AURDAL wardrobe combination, white: /products/aurdal-storage-combinations/39564357.txt
+- AURDAL wardrobe combination, white: /products/aurdal-storage-combinations/39331527.txt
+- AURDAL wardrobe combination, white: /products/aurdal-storage-combinations/29331523.txt
+- AURDAL wardrobe combination, white: /products/aurdal-storage-combinations/19564645.txt
+- AURDAL wardrobe combination, white: /products/aurdal-storage-combinations/19331528.txt
+- AURDAL wardrobe combination, white: /products/aurdal-storage-combinations/09565259.txt
+- AURDAL wardrobe combination, white: /products/aurdal-storage-combinations/09331524.txt
+- AURDAL wardrobe combination, dark gray: /products/aurdal-storage-combinations/99564646.txt
+- AURDAL wardrobe combination, dark gray: /products/aurdal-storage-combinations/99331534.txt
+- AURDAL wardrobe combination, dark gray: /products/aurdal-storage-combinations/89565260.txt
+- AURDAL wardrobe combination, dark gray: /products/aurdal-storage-combinations/89564430.txt
+- AURDAL wardrobe combination, dark gray: /products/aurdal-storage-combinations/89331539.txt
+- AURDAL wardrobe combination, dark gray: /products/aurdal-storage-combinations/79571681.txt
+- AURDAL wardrobe combination, dark gray: /products/aurdal-storage-combinations/69565256.txt
+- AURDAL wardrobe combination, dark gray: /products/aurdal-storage-combinations/69564624.txt
+- AURDAL wardrobe combination, dark gray: /products/aurdal-storage-combinations/69331540.txt
+- AURDAL wardrobe combination, dark gray: /products/aurdal-storage-combinations/69331535.txt
+- AURDAL wardrobe combination, dark gray: /products/aurdal-storage-combinations/59571663.txt
+- AURDAL wardrobe combination, dark gray: /products/aurdal-storage-combinations/59331531.txt
+- AURDAL wardrobe combination, dark gray: /products/aurdal-storage-combinations/49331541.txt
+- AURDAL wardrobe combination, dark gray: /products/aurdal-storage-combinations/49331536.txt
+- AURDAL wardrobe combination, dark gray: /products/aurdal-storage-combinations/39331532.txt
+- AURDAL wardrobe combination, dark gray: /products/aurdal-storage-combinations/29565258.txt
+- AURDAL wardrobe combination, dark gray: /products/aurdal-storage-combinations/29331537.txt
+- AURDAL wardrobe combination, dark gray: /products/aurdal-storage-combinations/19565254.txt
+- AURDAL wardrobe combination, dark gray: /products/aurdal-storage-combinations/19564631.txt
+- AURDAL wardrobe combination, dark gray: /products/aurdal-storage-combinations/19331533.txt
+- AURDAL wardrobe combination, dark gray: /products/aurdal-storage-combinations/09331538.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

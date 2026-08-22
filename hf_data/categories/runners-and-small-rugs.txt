@@ -1,0 +1,61 @@
+# @CATEGORY
+Name: Runners & small rugs
+ProductCount: 39
+
+# @FILTERS
+PriceRange: $4.99 - $99.99
+Materials: 100 % cotton, 100 % jute, 100 % polypropylene, 58 % jute, 35 % wool, 7 % cotton, Backing: 100 % Synthetic rubber, Backing: 100 % polyester (100% recycled), Backing: EVA foam, Backing: Synthetic latex, Decor strip: 100 % jute, 100 % cotton, Filling: Polyurethane foam
+Brand: IKEA
+
+# @ITEMS
+- VOLLERSLEV rug, high pile, white: /products/runners-and-small-rugs/20492563.txt
+- VOLLERSLEV rug, high pile, gray: /products/runners-and-small-rugs/40519161.txt
+- VINDEBÄK rug, high pile, light beige: /products/runners-and-small-rugs/30508422.txt
+- VEDBÄK rug, low pile, light gray: /products/runners-and-small-rugs/90528894.txt
+- VÄNDPLATS rug, low pile, blue black/stripe: /products/runners-and-small-rugs/90600941.txt
+- VÄGSKYLT rug, flatwoven, pink/orange: /products/runners-and-small-rugs/20587009.txt
+- VÄGSKYLT rug, flatwoven, blue-green/black: /products/runners-and-small-rugs/00587034.txt
+- TOFTLUND rug, white: /products/runners-and-small-rugs/30472951.txt
+- TIPHEDE rug, flatwoven, natural/black: /products/runners-and-small-rugs/40592825.txt
+- TIPHEDE rug, flatwoven, black/natural: /products/runners-and-small-rugs/20528878.txt
+- TIDTABELL rug, flatwoven, gray: /products/runners-and-small-rugs/90561874.txt
+- TIDTABELL rug, flatwoven, beige: /products/runners-and-small-rugs/60561875.txt
+- TIDTABELL rug, flatwoven, beige: /products/runners-and-small-rugs/10561868.txt
+- TEBSTRUP rug, low pile, multicolor: /products/runners-and-small-rugs/30522055.txt
+- TÅNUM rug, flatwoven, assorted colors: /products/runners-and-small-rugs/30212675.txt
+- STOENSE Rug, low pile, off-white, Length: 4 ': /products/runners-and-small-rugs/50426802.txt
+- STOENSE rug, low pile, beige: /products/runners-and-small-rugs/30607686.txt
+- STARREKLINTE rug, flatwoven, natural/black: /products/runners-and-small-rugs/90569139.txt
+- SORTSÖ rug, flatwoven, unbleached: /products/runners-and-small-rugs/70418518.txt
+- SORTSÖ rug, flatwoven, light blue: /products/runners-and-small-rugs/60528876.txt
+- RÖRKÄR rug, flatwoven, black/natural: /products/runners-and-small-rugs/70418778.txt
+- RIDSTIG rug, flatwoven, gray/off-white: /products/runners-and-small-rugs/20600968.txt
+- NÖVLING rug, low pile, dark blue/yellow-brown: /products/runners-and-small-rugs/20532979.txt
+- MÄVINN runner, flatwoven, beige blue/stripe: /products/runners-and-small-rugs/80601012.txt
+- MÄVINN rug, stripe multicolor: /products/runners-and-small-rugs/00575045.txt
+- MÄVINN rug, flower-shaped natural: /products/runners-and-small-rugs/40575048.txt
+- LOHALS rug, flatwoven, natural: /products/runners-and-small-rugs/20515102.txt
+- LOHALS rug, flatwoven, natural: /products/runners-and-small-rugs/20307481.txt
+- LINDKNUD rug, high pile, dark gray: /products/runners-and-small-rugs/50478725.txt
+- KÖRFÄLT kitchen mat, light gray: /products/runners-and-small-rugs/00610789.txt
+- IDROTTSPLATS rug, flatwoven, blue: /products/runners-and-small-rugs/90569262.txt
+- IDROTTSPLATS rug, flatwoven, blue: /products/runners-and-small-rugs/10569261.txt
+- HOTELLRUM rug, high pile, blue/green yellow: /products/runners-and-small-rugs/70577654.txt
+- GATUSEKTION kitchen mat, gray/check: /products/runners-and-small-rugs/60610786.txt
+- GÅNGSTIG kitchen mat, flatwoven green/off-white: /products/runners-and-small-rugs/30578146.txt
+- GÅNGSTIG kitchen mat, flatwoven green/off-white: /products/runners-and-small-rugs/20578142.txt
+- GÅNGPASSAGE kitchen mat, gray/white: /products/runners-and-small-rugs/80581146.txt
+- GÅNGPASSAGE kitchen mat, gray/white: /products/runners-and-small-rugs/00581145.txt
+- ELSYSTEM rug, low pile, black/white/stripe: /products/runners-and-small-rugs/90597321.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

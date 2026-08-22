@@ -1,0 +1,58 @@
+# @CATEGORY
+Name: Lamp shades
+ProductCount: 36
+
+# @FILTERS
+PriceRange: $4.99 - $69.99
+Materials: 100% polyethylene, 100% polyethylene, Banana fibers, Clear acrylic lacquer, Body: Rattan, Clear acrylic lacquer, Decoration: Steel, Powder coating, Edge: 100 % cotton, Fabric: 100 % polyester (100% recycled), Frame: Steel, Epoxy/polyester powder coating, Frame: Steel, Galvanized steel, Frame: Steel, Powder coating, Glass
+Brand: IKEA
+
+# @ITEMS
+- TORARED Pendant lamp shade, seagrass, Height: 13" Diameter:: /products/lamp-shades/20430382.txt
+- TAGGTOFS pendant lamp shade, white/bamboo: /products/lamp-shades/00566734.txt
+- SYMFONISK shade for speaker lamp base, textile/black: /products/lamp-shades/80494757.txt
+- SYMFONISK shade for speaker lamp base, glass/white: /products/lamp-shades/30494750.txt
+- SYMFONISK shade for speaker lamp base, glass/black: /products/lamp-shades/90494747.txt
+- SKOTTORP lamp shade, light gray: /products/lamp-shades/80449005.txt
+- SKOTTORP lamp shade, light gray: /products/lamp-shades/30509563.txt
+- SKOTTORP lamp shade, light gray: /products/lamp-shades/20509549.txt
+- RISBYN Pendant lamp shade, onion shape, white: /products/lamp-shades/10404091.txt
+- RINGSTA lamp shade, white: /products/lamp-shades/90404092.txt
+- RINGSTA lamp shade, white: /products/lamp-shades/70405361.txt
+- RINGSTA Lamp shade, white: /products/lamp-shades/10405364.txt
+- RINGSTA lamp shade, black/white: /products/lamp-shades/10607135.txt
+- REGNSKUR pendant lamp shade, round white: /products/lamp-shades/20430377.txt
+- REGNSKUR pendant lamp shade, oval turquoise: /products/lamp-shades/20566912.txt
+- NYMÖ lamp shade, black/brass color: /products/lamp-shades/60377207.txt
+- NYMÖ Lamp shade, black, brass color: /products/lamp-shades/00377210.txt
+- MYRHULT Lamp shade, white: /products/lamp-shades/30405457.txt
+- MOLNSKIKT lamp shade, dark red velvet: /products/lamp-shades/30575204.txt
+- MÄVINN lamp shade, banana fiber/handmade: /products/lamp-shades/70600975.txt
+- KAPPELAND pendant lamp shade, rattan: /products/lamp-shades/90514514.txt
+- KAPPELAND pendant lamp shade, rattan: /products/lamp-shades/80540189.txt
+- KALLFRONT pendant lamp shade, black: /products/lamp-shades/30492483.txt
+- JAKOBSBYN Pendant lamp shade, smoked: /products/lamp-shades/50333049.txt
+- JAKOBSBYN pendant lamp shade, silver color: /products/lamp-shades/40521767.txt
+- JAKOBSBYN pendant lamp shade, frosted glass/gray: /products/lamp-shades/90473325.txt
+- JAKOBSBYN pendant lamp shade, clear glass: /products/lamp-shades/90333052.txt
+- HORRED pendant lamp shade, metal/black: /products/lamp-shades/60459910.txt
+- GULLSUDARE pendant lamp shade, white/handmade, 17 ¾": /products/lamp-shades/90603869.txt
+- GULLSUDARE pendant lamp shade, white/handmade, 27 ½": /products/lamp-shades/80583616.txt
+- GOTTORP Pendant lamp shade, bamboo, Height: 15" Diameter:: /products/lamp-shades/00441070.txt
+- DYKARKLOCKA pendant lamp shade, white stained oak veneer: /products/lamp-shades/10557244.txt
+- BRUNSTA pendant lamp shade, black: /products/lamp-shades/90579770.txt
+- BRUNSTA pendant lamp shade, black: /products/lamp-shades/10579774.txt
+- BLÅSTÅNG pendant lamp shade: /products/lamp-shades/80580731.txt
+- BÄCKNATE pendant lamp shade, white: /products/lamp-shades/60578791.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

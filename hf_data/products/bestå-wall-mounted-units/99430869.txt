@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BESTÅ wall-mounted cabinet combination, white/Hanviken
+SKU: 99430869
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/besta-wall-mounted-cabinet-combination-white-hanviken-s99430869/
+Category: BESTÅ wall mounted units
+Description: , 235/8x161/2x15" Everything you need for storing and keeping things organized at home. Choose a ready-made combination or create your own, adapted to your style and belongings. This is just one of ma...
+
+# @OFFER
+Price: 90
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Bottom panel/ Side panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Plastic edging, Back panel: Fiberboard, Paper foil, Plastic foil, Fiberboard, Paper foil, Plastic edging
+Features: The max load for a wall-hung frame depends on the wall material. | Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | BESTÅ suspension rail for wall mounting is included.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/besta-wall-mounted-cabinet-combination-white-hanviken__1053847_pe847280_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

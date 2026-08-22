@@ -1,0 +1,25 @@
+# @CATEGORY
+Name: Smart lamps
+ProductCount: 3
+
+# @FILTERS
+PriceRange: $24.99 - $169.99
+Materials: Base: Concrete, Paint, Base: Polyester, Ceiling cup: Polystyrene, Diffuser: Polycarbonate plastic, End cap: ABS plastic, Housing: Aluminum, Anodized, Shade: Polystyrene
+Brand: IKEA
+
+# @ITEMS
+- STOFTMOLN LED ceiling/wall lamp, smart wireless dimmable/warm white white: /products/smart-lamps/20505551.txt
+- PILSKOTT LED pendant lamp, smart black: /products/smart-lamps/60478107.txt
+- PILSKOTT LED floor lamp, smart black: /products/smart-lamps/20478128.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,25 @@
+# @CATEGORY
+Name: Outdoor privacy screens & shades
+ProductCount: 3
+
+# @FILTERS
+PriceRange: $34.99 - $110.00
+Materials: Foot: Steel, Steel, Galvanized, Polyester powder coating, Partition wall: Galvanized steel, Polyester powder coating, Rod: 68 % glass fiber, 5% CaCO3 + 27 % polyester, Solid acacia wood, Acrylic stain, Strap: 100 % polypropylene, Top/ Side/ Floor/ Pocket/ Net/ Piping/ Bag: 100% polyester (min. 90% recycled), U profile: Steel, Galvanized, Polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- STRANDÖN pop-up sun/wind shelter, green/blue: /products/outdoor-privacy-screens-and-shades/40557780.txt
+- NÄMMARÖ privacy screen, light brown stained indoor/outdoor: /products/outdoor-privacy-screens-and-shades/20532743.txt
+- LUNGÖN privacy screen, off-white indoor/outdoor: /products/outdoor-privacy-screens-and-shades/80515509.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

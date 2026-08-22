@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: AURDAL wardrobe combination, dark gray
+SKU: 79571681
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/aurdal-wardrobe-combination-dark-gray-s79571681/
+Category: AURDAL storage combinations
+Description: , 707/8-837/8x153/4x87" Do you want to utilize the small and tricky places in your home? With AURDAL storage system you can customize a solution to fit all storage needs for shoes and clothes in the r...
+
+# @OFFER
+Price: 480
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Leg/ Mounting plate/ Pin: Steel, Epoxy/polyester powder coating, Steel, Powder coating
+Features: Fits with AURDAL wardrobe system. | The parts in the AURDAL series can be combined in many different ways and so can easily be adapted to needs and space. | You can keep the gap between the drawers for a handleless expression with a good grip or reduce it and add handles to your AURDAL storage combination.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/aurdal-wardrobe-combination-dark-gray__1332548_pe946308_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

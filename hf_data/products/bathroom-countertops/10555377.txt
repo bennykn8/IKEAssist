@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: TOLKEN countertop, black marble effect/foliated board
+SKU: 10555377
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tolken-countertop-black-marble-effect-foliated-board-10555377/
+Category: Bathroom countertops
+Description: , 67x211/2" Laminate countertops are highly durable and easy to maintain. A little care will keep them looking brand new for years. You can place the sink where you prefer – left, right or in the midd...
+
+# @OFFER
+Price: 115
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fiberboard, Plastic foil, Melamine foil
+Dimensions: Countertop is sized for a perfect fit and should not be cut to alter width or depth. It is possible to cut out for sink.
+Features: Please note that a silicone kit and a jigsaw are needed to attach the sink to the countertop. Sold separately. | Glue and silicone are needed to attach the washbasin to the countertop. Sold separately. | Let the silicone underneath the countertop harden for 2 hours before attaching the sink.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tolken-countertop-black-marble-effect-foliated-board__1199307_pe904425_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

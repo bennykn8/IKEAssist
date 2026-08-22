@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KABOMBA LED wall lamp, dimmable matte/black
+SKU: 10489820
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kabomba-led-wall-lamp-dimmable-matte-black-10489820/
+Category: Bathroom wall lights
+Description: , 19x6" Wall lamp in a modern art deco style with a built-in dimmable LED bulb. Full light to put on make-up or shave, and more diffused light to create a calm and comfy atmosphere, just like in a hot...
+
+# @OFFER
+Price: 99.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Base/ Shade: Steel, Powder coating, Cover: ABS plastic, Diffuser: Polycarbonate plastic
+Features: May be completed with other lamps in the same series. | The light source has a lifetime of approx. 25,000 hours. This corresponds to about 20 years if the lamp is on for 3 hours per day. | The lamp emits 600 lumen, which is approximately equal to the light emitted by a 60-watt incandescent bulb.
+Care: Wipe clean with a soft cloth dampened with water and a mild dish detergent or soap, if necessary. | Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kabomba-led-wall-lamp-dimmable-matte-black__0990238_pe818810_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

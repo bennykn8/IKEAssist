@@ -1,0 +1,29 @@
+# @CATEGORY
+Name: Outdoor table lamps
+ProductCount: 7
+
+# @FILTERS
+PriceRange: $3.99 - $24.99
+Materials: Base: ABS plastic, Base: Polypropylene, Battery box: Polycarbonate plastic, Battery box: Polycarbonate plastic, Polycarbonate plastic, Body: Steel, Acrylic coating, Powder coating, Cover: ABS plastic, Diffuser: Acrylic, Handle: Stainless steel, Optical lens: Polycarbonate plastic, Shade/ Inner body: ABS plastic
+Brand: IKEA
+
+# @ITEMS
+- SOLVINDEN LED table lamp, lantern/battery operated white: /products/outdoor-table-lamps/10594958.txt
+- SOLVINDEN LED table lamp, lantern/battery operated pink: /products/outdoor-table-lamps/50594956.txt
+- SOLVINDEN LED table lamp, battery operated/outdoor white: /products/outdoor-table-lamps/40570574.txt
+- SOLVINDEN LED table lamp, battery operated outdoor/cone-shaped white: /products/outdoor-table-lamps/10570575.txt
+- SOLVINDEN LED table lamp, battery operated/outdoor: /products/outdoor-table-lamps/60570573.txt
+- SOLVINDEN LED table lamp, battery operated/outdoor: /products/outdoor-table-lamps/00570571.txt
+- SOLVINDEN LED decorative light, table, outdoor/battery operated white: /products/outdoor-table-lamps/60593027.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

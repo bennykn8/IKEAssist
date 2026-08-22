@@ -1,0 +1,44 @@
+# @CATEGORY
+Name: Shelves
+ProductCount: 22
+
+# @FILTERS
+PriceRange: $2.99 - $65.00
+Materials: Back panel: Fiberboard, Main parts/ Drawer front: Particleboard, Acrylic paint, Paper foil, Plastic edging, Particleboard, Paper foil, Plastic edging, Particleboard, Paper foil, Plastic edging, Plastic edging, Partition: Particleboard, Paper foil, Plastic edging, Solid aspen, Clear acrylic lacquer, Solid wood, Stain, Clear acrylic lacquer
+Brand: IKEA
+
+# @ITEMS
+- TRANHULT shelf, white stained aspen: /products/shelves/60454899.txt
+- TRANHULT Shelf, white stained aspen: /products/shelves/30454674.txt
+- TRANHULT shelf, aspen: /products/shelves/80454902.txt
+- TRANHULT Shelf, aspen: /products/shelves/10399886.txt
+- EKBY ALEX Shelf with drawers, white: /products/shelves/20192828.txt
+- BURHULT shelf, white: /products/shelves/80400042.txt
+- BERGSHULT shelf, white: /products/shelves/70421238.txt
+- BERGSHULT Shelf, white: /products/shelves/50421239.txt
+- BERGSHULT Shelf, white: /products/shelves/40400044.txt
+- BERGSHULT Shelf, white: /products/shelves/30421235.txt
+- BERGSHULT shelf, walnut effect: /products/shelves/80534169.txt
+- BERGSHULT shelf, walnut effect: /products/shelves/60534165.txt
+- BERGSHULT shelf, walnut effect: /products/shelves/40534166.txt
+- BERGSHULT shelf, walnut effect: /products/shelves/00534168.txt
+- BERGSHULT shelf, gray-beige: /products/shelves/90557626.txt
+- BERGSHULT shelf, gray-beige: /products/shelves/80557622.txt
+- BERGSHULT shelf, gray-beige: /products/shelves/30557634.txt
+- BERGSHULT shelf, gray-beige: /products/shelves/10557630.txt
+- BERGSHULT shelf, brown-black: /products/shelves/80426283.txt
+- BERGSHULT shelf, brown-black: /products/shelves/60426284.txt
+- BERGSHULT Shelf, brown-black: /products/shelves/30426285.txt
+- BERGSHULT Shelf, brown-black: /products/shelves/00426282.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

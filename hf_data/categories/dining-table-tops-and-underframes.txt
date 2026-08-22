@@ -1,0 +1,26 @@
+# @CATEGORY
+Name: Dining table tops & underframes
+ProductCount: 4
+
+# @FILTERS
+PriceRange: $29.99 - $99.99
+Materials: Inside leg: Steel, Leg/ Side rail: Steel, Epoxy/polyester powder coating, Particleboard, Laminate, Plastic edging, Laminate, Particleboard, Melamine foil, Plastic edging, Plastic edging, Melamine foil
+Brand: IKEA
+
+# @ITEMS
+- STENSELE tabletop, anthracite: /products/dining-table-tops-and-underframes/90412898.txt
+- MELLTORP Underframe, white: /products/dining-table-tops-and-underframes/50280102.txt
+- MELLTORP tabletop, white: /products/dining-table-tops-and-underframes/90280096.txt
+- MELLTORP Tabletop, white: /products/dining-table-tops-and-underframes/50280098.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

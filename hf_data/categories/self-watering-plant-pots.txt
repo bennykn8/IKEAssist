@@ -1,0 +1,24 @@
+# @CATEGORY
+Name: Self watering plant pots
+ProductCount: 2
+
+# @FILTERS
+PriceRange: $2.99 - $4.99
+Materials: Insert: Terracotta, Main parts/ Lid: Polypropylene plastic (min. 50% recycled), Sealing ring: Silicone rubber
+Brand: IKEA
+
+# @ITEMS
+- SVÄMSKOG self-watering insert, terracotta/transparent, 24 oz: /products/self-watering-plant-pots/80570874.txt
+- SVÄMSKOG self-watering insert, terracotta/transparent, 8 oz: /products/self-watering-plant-pots/40570871.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

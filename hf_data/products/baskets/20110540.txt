@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KNIPSA basket, seagrass, 12 ½x13x12 ½"
+SKU: 20110540
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/knipsa-basket-seagrass-20110540/
+Category: Baskets
+Description: Seagrass is woven around a steel frame to create a sturdy and decorative basket. The natural material, with its soft color variations create a warm, rustic vibe. A perfect fit in KALLAX shelving. Perf...
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Seagrass, Clear acrylic lacquer, Steel, Epoxy/polyester powder coating
+Features: All new materials have a particular smell which gradually disappears.
+Care: The material can dry out and deteriorate if placed near a heat source.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/knipsa-basket-seagrass__0713061_pe729165_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

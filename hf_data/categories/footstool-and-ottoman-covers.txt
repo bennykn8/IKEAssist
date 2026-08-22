@@ -1,0 +1,39 @@
+# @CATEGORY
+Name: Footstool & ottoman covers
+ProductCount: 17
+
+# @FILTERS
+PriceRange: $15.00 - $99.00
+Materials: 100 % cotton, 100 % polyester (100% recycled), 100% polyester (min. 90% recycled), Comfort filling: Polyurethane foam 2.2 lb/cu.ft., Cord: 100 % polyester, Fabric: 100 % cotton, Fabric: 100 % polyester (100% recycled), Fabric: 100% polyester (min. 90% recycled), Fabric: 55 % cotton, 25 % polyester (100% recycled), 12 % viscose/rayon, 8 % linen, Wadding: 100% polyester (min. 80% recycled)
+Brand: IKEA
+
+# @ITEMS
+- UPPLAND cover for ottoman with storage, Kilanda light beige: /products/footstool-and-ottoman-covers/10584129.txt
+- UPPLAND cover for ottoman with storage, Kilanda dark blue: /products/footstool-and-ottoman-covers/70584126.txt
+- UPPLAND cover for ottoman with storage, Kelinge rust: /products/footstool-and-ottoman-covers/20584609.txt
+- UPPLAND cover for ottoman with storage, Kelinge gray-turquoise: /products/footstool-and-ottoman-covers/80584611.txt
+- UPPLAND cover for ottoman with storage, Kelinge beige: /products/footstool-and-ottoman-covers/60584607.txt
+- UPPLAND cover for ottoman with storage, Kelinge anthracite: /products/footstool-and-ottoman-covers/80584606.txt
+- UPPLAND cover for ottoman with storage, Karlshov beige/multicolor: /products/footstool-and-ottoman-covers/30584128.txt
+- UPPLAND cover for ottoman with storage, Hillared dark blue: /products/footstool-and-ottoman-covers/00584610.txt
+- UPPLAND cover for ottoman with storage, Hillared beige: /products/footstool-and-ottoman-covers/40584608.txt
+- UPPLAND cover for ottoman with storage, Hillared anthracite: /products/footstool-and-ottoman-covers/00584605.txt
+- UPPLAND cover for ottoman with storage, Hakebo gray-green: /products/footstool-and-ottoman-covers/70584131.txt
+- UPPLAND cover for ottoman with storage, Hakebo dark gray: /products/footstool-and-ottoman-covers/90584130.txt
+- STRANDMON slipcover for ottoman, Stigsbo multicolor/black: /products/footstool-and-ottoman-covers/10575498.txt
+- STRANDMON slipcover for ottoman, Naggen beige: /products/footstool-and-ottoman-covers/70597911.txt
+- SÖDERHAMN cover for ottoman, Tonerud red: /products/footstool-and-ottoman-covers/30567341.txt
+- SÖDERHAMN cover for ottoman, Kelinge gray-turquoise: /products/footstool-and-ottoman-covers/60567392.txt
+- POÄNG ottoman cushion, Knisa bright orange: /products/footstool-and-ottoman-covers/80603657.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

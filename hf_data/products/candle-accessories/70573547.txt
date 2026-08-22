@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: DYFT decorative stones, dark gray, 1 lb8 oz
+SKU: 70573547
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/dyft-decorative-stones-dark-gray-70573547/
+Category: Candle accessories
+Description: A simple thing like stones can be a nice decoration in a bowl or a vase. With this collection, you can decorate with beautiful small pebbles, even if you live far from the beach. The stones makes a ni...
+
+# @OFFER
+Price: 3.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Stone, Polyurethane paint
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/dyft-decorative-stones-dark-gray__1216256_pe912365_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

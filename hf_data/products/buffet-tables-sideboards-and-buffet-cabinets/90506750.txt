@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KLACKENÄS sideboard, black/oak veneer brown stained
+SKU: 90506750
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/klackenaes-sideboard-black-oak-veneer-brown-stained-90506750/
+Category: Buffet tables, sideboards & buffet cabinets
+Description: , 471/4x381/4" KLACKENÄS oak veneer sideboard has a unique design with integrated handles. The generous size offers a lot of space on the top shelf and optimal storage on the inside. A perfect partner...
+
+# @OFFER
+Price: 399
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Side panel/ Partition: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Plastic edging, Bottom panel/ Top panel/ Shelf/ Plinth front/ Plinth side: Particleboard, Paper foil, Plastic edging, Back panel: Fiberboard, Plastic foil, Printed acrylic paint, Paper foil
+Features: Matches perfectly with MÖRBYLÅNGA table which has the same material and style. | May be combined with the black BESTÅ glass top panel, 47x16", to protect the sideboard's top shelf from scratches and marks – and to enhance the look. | Use STÖDJA utensil tray to maximize the storage and organize the inside of the sideboard.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/klackenaes-sideboard-black-oak-veneer-brown-stained__1016126_pe830224_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

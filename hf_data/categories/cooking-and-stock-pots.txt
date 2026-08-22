@@ -1,0 +1,41 @@
+# @CATEGORY
+Name: Cooking & stock pots
+ProductCount: 19
+
+# @FILTERS
+PriceRange: $7.99 - $119.99
+Materials: Body: Aluminum, Coated with Teflon(R) Infinity., Body: Aluminum, Stainless steel, Copper, Cast iron, Enamel, Disc/ Washer: Stainless steel, Disc: Aluminum, Fire protector: Aluminum, Powder coating, Flame guard: Stainless steel, Phenolic plastic, Handle/ Knob/ Cover/ Body: Stainless steel, Handle/ Knob: Solid rubberwood, Linseed oil, Handle: Phenolic plastic
+Brand: IKEA
+
+# @ITEMS
+- VARDAGEN pot with lid, enamelled cast iron matte/black, 5.3 qt: /products/cooking-and-stock-pots/80560667.txt
+- MIDDAGSMAT pot with lid, clear glass/stainless steel, 5.3 qt: /products/cooking-and-stock-pots/90576521.txt
+- MIDDAGSMAT pot with lid, clear glass/stainless steel, 10.6 qt: /products/cooking-and-stock-pots/70576522.txt
+- MIDDAGSMAT pot with lid, clear glass/stainless steel, 3.2 qt: /products/cooking-and-stock-pots/30576519.txt
+- KLIPPFISK pot with lid, non-stick coating glass/wood black-blue, 5.3 qt: /products/cooking-and-stock-pots/90602515.txt
+- IKEA 365+ pot with lid, stainless steel, 3 qt: /products/cooking-and-stock-pots/90577912.txt
+- IKEA 365+ pot with lid, stainless steel, 5 qt: /products/cooking-and-stock-pots/50577914.txt
+- IKEA 365+ pot with lid, stainless steel, 11 qt: /products/cooking-and-stock-pots/30577910.txt
+- IKEA 365+ pot with lid, stainless steel, 16 qt: /products/cooking-and-stock-pots/10577911.txt
+- HEMLAGAD pot with lid, non-stick coating black, 5.3 qt: /products/cooking-and-stock-pots/80580910.txt
+- HEMLAGAD pot with lid, non-stick coating black, 3.2 qt: /products/cooking-and-stock-pots/40580907.txt
+- HEMLAGAD pot with lid, black, 3.2 qt: /products/cooking-and-stock-pots/10576596.txt
+- HEMKOMST pot with lid, stainless steel/glass, 10.6 qt: /products/cooking-and-stock-pots/40578080.txt
+- HEMKOMST pot with lid, stainless steel/glass, 3.2 qt: /products/cooking-and-stock-pots/20578081.txt
+- HEMKOMST pot with lid, stainless steel/glass, 5.3 qt: /products/cooking-and-stock-pots/00578082.txt
+- FJÄRSING pot with lid, gray: /products/cooking-and-stock-pots/10564904.txt
+- FINMAT pot with lid, copper/stainless steel, 3 qt: /products/cooking-and-stock-pots/30578113.txt
+- FINMAT pot with lid, copper/stainless steel, 5 qt: /products/cooking-and-stock-pots/10578114.txt
+- ANNONS pot with lid, glass/stainless steel, 3.0 qt: /products/cooking-and-stock-pots/00577855.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

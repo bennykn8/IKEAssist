@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LURÖY slatted bed base, King
+SKU: 50160213
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/luroey-slatted-bed-base-50160213/
+Category: Bed slats
+Description: LURÖY slatted bed base with curved slats helps to absorb your body weight. The open structure allows air to circulate – which improves the breathability of the mattress and keeps it fresh. The slats a...
+
+# @OFFER
+Price: 60
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Bed slats: Layer-glued wood veneer, Adhesive resin as coating, Ribbon: 100 %polyester
+Features: Fits a King size bed frame.
+Care: Wood: Wipe clean using a damp cloth and a mild cleaner. | Wood: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/luroey-slatted-bed-base__0268303_pe406267_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

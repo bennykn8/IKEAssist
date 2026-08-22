@@ -1,0 +1,31 @@
+# @CATEGORY
+Name: Magazine files
+ProductCount: 9
+
+# @FILTERS
+PriceRange: $0.99 - $16.99
+Materials: 100% recycled corrugated cardboard, 100% recycled solid cardboard, Paper, Box: 100% recycled solid cardboard, Paper, Main part: Steel, Powder coating, Metal part: Steel, Powder coating, PET plastic (min. 50% recycled), Paperboard (min. 100% recycled), 100 %polyester, Chlorine free bleached paper, Paperboard (min. 100% recycled), Chlorine free bleached paper, Paperboard (min. 100% recycled), Paper, Scratch protection: 100 %polyester
+Brand: IKEA
+
+# @ITEMS
+- TJOG magazine file, dark gray: /products/magazine-files/90477658.txt
+- TJENA magazine file, white black/dotted: /products/magazine-files/00601054.txt
+- TJABBA magazine file, white: /products/magazine-files/10492455.txt
+- KUGGIS magazine file, white: /products/magazine-files/10515334.txt
+- HÄSTVISKARE magazine file, oak effect: /products/magazine-files/50576014.txt
+- GJÄTTA magazine file, velvet dark blue: /products/magazine-files/20580201.txt
+- FJÄDERHARV magazine file, white: /products/magazine-files/40596890.txt
+- FJÄDERHARV magazine file, anthracite: /products/magazine-files/60596889.txt
+- DRÖNJÖNS magazine file, white: /products/magazine-files/10439694.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

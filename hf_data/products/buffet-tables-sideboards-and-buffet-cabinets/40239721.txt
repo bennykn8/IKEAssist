@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: STOCKHOLM Sideboard, walnut veneer
+SKU: 40239721
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/stockholm-sideboard-walnut-veneer-40239721/
+Category: Buffet tables, sideboards & buffet cabinets
+Description: , 63x31 7/8". The sideboard in walnut veneer and solid ash brings a warm, natural feeling to your room. The distinctive grain pattern in the walnut veneer gives each piece of furniture a unique charac...
+
+# @OFFER
+Price: 499
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel: Particleboard, Walnut veneer, Clear acrylic lacquer, Paper foil, Walnut veneer, Paper edging, Side panel/ Partition: Particleboard, Walnut veneer, Clear acrylic lacquer, Walnut veneer, Paper edging, Adjustable shelf: Particleboard, Walnut veneer, Clear acrylic lacquer, Walnut veneer, Paper foil
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/stockholm-sideboard-walnut-veneer__0625359_pe692210_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,33 @@
+# @CATEGORY
+Name: Kids tableware & dinnerware
+ProductCount: 11
+
+# @FILTERS
+PriceRange: $0.49 - $7.99
+Materials: Polypropylene, Polypropylene, Polypropylene, Silicone rubber, Stainless steel, Stainless steel, Polypropylene
+Brand: IKEA
+
+# @ITEMS
+- SMASKA 3-piece flatware set, mixed colors: /products/kids-tableware-and-dinnerware/10596938.txt
+- KALAS tumbler, mixed colors: /products/kids-tableware-and-dinnerware/00461379.txt
+- KALAS spoon, mixed colors: /products/kids-tableware-and-dinnerware/70455695.txt
+- KALAS plate, mixed colors: /products/kids-tableware-and-dinnerware/80461380.txt
+- KALAS bowl, mixed colors: /products/kids-tableware-and-dinnerware/20461378.txt
+- KALAS 18-piece flatware set, mixed colors: /products/kids-tableware-and-dinnerware/70461385.txt
+- GULDVÄVARE place mat, pale pink: /products/kids-tableware-and-dinnerware/70595653.txt
+- GULDVÄVARE place mat, green: /products/kids-tableware-and-dinnerware/70573750.txt
+- GRÖNFINK place mat, red/green, 11 ¾x15 ¾": /products/kids-tableware-and-dinnerware/70575122.txt
+- GRÖNFINK place mat, multicolor, 11 ¾x15 ¾": /products/kids-tableware-and-dinnerware/30572413.txt
+- FABLER 3-piece flatware set, stainless steel: /products/kids-tableware-and-dinnerware/60137571.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

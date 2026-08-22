@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: DALFRED bar stool, birch
+SKU: 80613091
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/dalfred-bar-stool-birch-80613091/
+Category: Bar stools & chairs
+Description: , 243/4-291/8" You can adjust the height as you like.
+
+# @OFFER
+Price: 85
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Solid birch, Adhesive, Acrylic paint, Footrest/ Mounting plate/ Tube: Steel, Epoxy/polyester powder coating, Threaded column: Steel, Polyamide, Acetal plastic
+Dimensions: Suitable for bar heights between 35⅜" and 43¼".
+Features: Recommended for indoor use only. | To prevent scratches on sensitive surfaces, add FIXA self-adhesive floor protectors, sold separately.
+Care: Wipe clean with a mild soapy solution. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/dalfred-bar-stool-birch__1409370_pe972226_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

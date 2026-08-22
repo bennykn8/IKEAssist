@@ -1,0 +1,55 @@
+# @CATEGORY
+Name: Office chairs
+ProductCount: 33
+
+# @FILTERS
+PriceRange: $30.00 - $529.99
+Materials: Armrest fixture/ Armrest inside/ Inner frame/ Armrest frame/ Button/ Mounting plate: Reinforced polyamide, Armrest fixture/ Cover/ Inner frame/ Armrest frame/ Button: Reinforced polyamide, Armrest frame: Steel, Epoxy/polyester powder coating, Armrest pad: Polypropylene, Synthetic rubber, Armrest pad: Synthetic rubber, Back bar: Steel, Acrylic paint, Back frame/ Armrest frame/ Back bar: Steel, Epoxy/polyester powder coating, Back frame/ Gas cylinder/ Leg/ Back frame/ Gas cylinder/ Leg: Steel, Epoxy/polyester powder coating, Back frame: Layer-glued wood veneer, Base fabric/ Fabric cover: 100% polyester (min. 90% recycled)
+Brand: IKEA
+
+# @ITEMS
+- VALLFJÄLLET office chair with headrest, Gunnared gray: /products/office-chairs/69505187.txt
+- VALLFJÄLLET office chair, Gunnared gray: /products/office-chairs/00554076.txt
+- VALLFJÄLLET headrest, Gunnared gray: /products/office-chairs/20554075.txt
+- SMÖRKULL office chair with armrests, Gräsnäs red: /products/office-chairs/10503454.txt
+- SMÖRKULL office chair with armrests, Gräsnäs dark gray: /products/office-chairs/70503451.txt
+- MARKUS office chair, Vissle light gray, Medium: /products/office-chairs/30521862.txt
+- MARKUS office chair, Vissle dark gray, Medium: /products/office-chairs/90289172.txt
+- LIDKULLEN Sit/stand support, Gunnared dark gray: /products/office-chairs/50445787.txt
+- JÄRVFJÄLLET office chair with armrests, Grann white: /products/office-chairs/70521855.txt
+- JÄRVFJÄLLET office chair with armrests, Glose black: /products/office-chairs/60510640.txt
+- HATTEFJÄLL office chair with armrests, Smidig black/black: /products/office-chairs/90538968.txt
+- HATTEFJÄLL office chair with armrests, Gunnared red/white: /products/office-chairs/60525104.txt
+- HATTEFJÄLL office chair with armrests, Gunnared medium gray/white: /products/office-chairs/00538963.txt
+- HATTEFJÄLL office chair with armrests, Gunnared light green/white: /products/office-chairs/00532956.txt
+- HATTEFJÄLL office chair with armrests, Gunnared green/black: /products/office-chairs/00538977.txt
+- HATTEFJÄLL office chair with armrests, Gunnared dark gray/black: /products/office-chairs/20538976.txt
+- HATTEFJÄLL office chair with armrests, Gunnared beige/white: /products/office-chairs/00538958.txt
+- GRÖNFJÄLL office chair with armrests, Letafors yellow-brown/black: /products/office-chairs/30532912.txt
+- GRÖNFJÄLL office chair with armrests, Letafors gray-green/white: /products/office-chairs/20532922.txt
+- GRÖNFJÄLL office chair with armrests, Letafors gray/black: /products/office-chairs/00503478.txt
+- GRÖNFJÄLL office chair with arm/headrest, Letafors yellow-brown/black: /products/office-chairs/39513928.txt
+- GRÖNFJÄLL office chair with arm/headrest, Letafors green/white: /products/office-chairs/29513924.txt
+- GRÖNFJÄLL office chair with arm/headrest, Letafors gray/black: /products/office-chairs/69513917.txt
+- GRÖNFJÄLL headrest, Letafors yellow-brown/black: /products/office-chairs/30532907.txt
+- GRÖNFJÄLL headrest, Letafors gray-green/white: /products/office-chairs/00532918.txt
+- GRÖNFJÄLL headrest, Letafors gray/black: /products/office-chairs/20503482.txt
+- FLINTAN pair of armrests, black: /products/office-chairs/10489033.txt
+- FLINTAN pair of armrests, beige: /products/office-chairs/50492199.txt
+- FLINTAN office chair with armrests, black: /products/office-chairs/29424471.txt
+- FLINTAN office chair with armrests, beige: /products/office-chairs/49424465.txt
+- FLINTAN office chair, black: /products/office-chairs/90489029.txt
+- FLINTAN office chair, beige: /products/office-chairs/00492205.txt
+- ALEFJÄLL Office chair, Glose black: /products/office-chairs/10367461.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

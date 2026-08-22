@@ -1,0 +1,30 @@
+# @CATEGORY
+Name: Bathroom wall cabinets
+ProductCount: 8
+
+# @FILTERS
+PriceRange: $89.99 - $199.00
+Materials: Back panel: Fiberboard, Plastic foil, Cord anchorage: Polyamide, Cover/ Bottom/ Cover cap/ Cable organizer: ABS plastic, Door frame/ Side frame: Aluminum, Powder coating, Frame/ Shelf: Particleboard, Plastic foil, Plastic edging (min. 50% recycled), Plastic edging, Panel/ Frame: Steel, Powder coating, Shade/ Diffuser: Polycarbonate plastic, Shelf: Tempered glass
+Brand: IKEA
+
+# @ITEMS
+- TREASJÖN mirror cabinet w/2 doors & light: /products/bathroom-wall-cabinets/90576677.txt
+- MOSSJÖN wall cabinet w shelves/glass door, anthracite: /products/bathroom-wall-cabinets/60567778.txt
+- HAGAÅN wall open cabinet, oak effect: /products/bathroom-wall-cabinets/00535525.txt
+- HAGAÅN wall open cabinet, brown oak effect: /products/bathroom-wall-cabinets/10535539.txt
+- HAGAÅN open cabinet, oak effect: /products/bathroom-wall-cabinets/90535521.txt
+- HAGAÅN open cabinet, oak effect: /products/bathroom-wall-cabinets/60535513.txt
+- HAGAÅN open cabinet, brown oak effect: /products/bathroom-wall-cabinets/90535535.txt
+- HAGAÅN open cabinet, brown oak effect: /products/bathroom-wall-cabinets/80535531.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

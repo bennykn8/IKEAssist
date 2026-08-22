@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BESTÅ top panel, oak veneer
+SKU: 20472918
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/besta-top-panel-oak-veneer-20472918/
+Category: BESTÅ top panels
+Description: , 471/4x161/2" A top panel in oak veneer gives your storage solution a warm and natural feel. Or makes it better looking and more durable in case you want to put things on top. The top panel protects ...
+
+# @OFFER
+Price: 75
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Clear lacquer, Paper foil, Oak veneer, Tinted lacquer
+Features: Mounting fittings are included.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/besta-top-panel-oak-veneer__0918705_pe786463_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

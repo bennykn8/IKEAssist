@@ -1,0 +1,31 @@
+# @CATEGORY
+Name: Rechargeable batteries & battery chargers
+ProductCount: 9
+
+# @FILTERS
+PriceRange: $7.99 - $27.99
+Materials: Battery box: Polypropylene, Box/ Lid/ Middle shell: Polycarbonate plastic (min. 50% recycled), Magnet: Neodymium, Nickel plated, Polycarbonate plastic, Polycarbonate plastic (min. 50% recycled), Steel, PET plastic
+Brand: IKEA
+
+# @ITEMS
+- VARMFRONT portable charger, blue, 5200 mAh: /products/rechargeable-batteries-and-battery-chargers/90555651.txt
+- STENKOL / LADDA battery charger and 4 batteries: /products/rechargeable-batteries-and-battery-chargers/89419631.txt
+- STENKOL / LADDA battery charger and 4 batteries: /products/rechargeable-batteries-and-battery-chargers/49419647.txt
+- STENKOL battery charger: /products/rechargeable-batteries-and-battery-chargers/50506525.txt
+- LITOSFÄR battery charger with storage, dark blue: /products/rechargeable-batteries-and-battery-chargers/90546690.txt
+- LADDA rechargeable battery, HR06 AA 1.2V, 2450mAh: /products/rechargeable-batteries-and-battery-chargers/50504692.txt
+- LADDA rechargeable battery, HR06 AA 1.2V, 1900mAh: /products/rechargeable-batteries-and-battery-chargers/00509814.txt
+- LADDA rechargeable battery, HR03 AAA 1.2V, 750mAh: /products/rechargeable-batteries-and-battery-chargers/90509819.txt
+- BRAUNIT Battery pack: /products/rechargeable-batteries-and-battery-chargers/10449754.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

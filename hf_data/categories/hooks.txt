@@ -1,0 +1,39 @@
+# @CATEGORY
+Name: Hooks
+ProductCount: 17
+
+# @FILTERS
+PriceRange: $0.99 - $29.99
+Materials: ABS plastic, Aluminum, Epoxy/polyester powder coating, Aluminum, Nickel plated, Acrylic coating, Clear acrylic lacquer, Body: Aluminum, Epoxy/polyester powder coating, Bracket: Solid pine, Clear lacquer, Hook: Aluminum, Acrylic coating, Hook: Steel, Epoxy/polyester powder coating, Main parts/ Knob: Aluminum, Nickel plated, Acrylic coating, Clear lacquer, Main parts: Solid beech, Clear lacquer, Main parts: Steel, Powder coating
+Brand: IKEA
+
+# @ITEMS
+- UTSÅDD hook, cat: /products/hooks/50567788.txt
+- TIPPVAGN hook, self-adhesive, house/white: /products/hooks/60563704.txt
+- SNÖRAKA hook, white: /products/hooks/30598984.txt
+- SEKINER hook for door, white: /products/hooks/60498110.txt
+- PLOGA vertical hook rack, 23 ½": /products/hooks/00528346.txt
+- KNOPARE hook, green: /products/hooks/70503837.txt
+- KLYKET folding hook, aluminum/beige: /products/hooks/50503598.txt
+- KARTOTEK rack with 5 hooks, pine/gray: /products/hooks/80347078.txt
+- KÄMPIG hook, brass color: /products/hooks/50347131.txt
+- KÄMPIG 3-arm swivel hook, brass color: /products/hooks/40362264.txt
+- JORDMÅNEN hook, dark gray-green: /products/hooks/30579023.txt
+- JORDBORR hook, self-adhesive, snowflake/multicolor: /products/hooks/70563713.txt
+- HÖVOLM rack with 6 knobs, oak: /products/hooks/10500059.txt
+- HÖGAFFEL wall hook: /products/hooks/70532062.txt
+- GALTBOX rack with 3 hooks, self-adhesive/white: /products/hooks/10563711.txt
+- FJANTIG Hook, black: /products/hooks/60347102.txt
+- BÄSTIS hook, black: /products/hooks/40448437.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,52 @@
+# @CATEGORY
+Name: Serving bowls
+ProductCount: 30
+
+# @FILTERS
+PriceRange: $1.99 - $29.99
+Materials: Bamboo, Clear acrylic lacquer, Bamboo, Clear lacquer, Decoration: 100 % cotton, Feldspar porcelain, Colored glaze, Glass, Stainless steel, Stoneware, Stoneware, Colored glaze, Stoneware, Pigmented glaze, Tempered glass
+Brand: IKEA
+
+# @ITEMS
+- VARDAGEN serving bowl, clear glass: /products/serving-bowls/60289239.txt
+- UPPLAGA serving bowl, white: /products/serving-bowls/40443802.txt
+- STOCKHOLM 2025 serving bowl, beige: /products/serving-bowls/50592429.txt
+- STENTICKA serving bowl, pink: /products/serving-bowls/60537183.txt
+- SILVERSIDA serving bowl, patterned/blue: /products/serving-bowls/20565696.txt
+- SANDSKÄDDA serving bowl, light grey-beige: /products/serving-bowls/80559452.txt
+- SÄLLSKAPLIG bowl with lid, clear glass/patterned: /products/serving-bowls/80473321.txt
+- RUNDLIG serving bowl, bamboo/white, 11 ¾": /products/serving-bowls/10234862.txt
+- OFTAST serving bowl, white: /products/serving-bowls/20439392.txt
+- OFTAST serving bowl, light green: /products/serving-bowls/00608258.txt
+- NÄTBARB serving bowl, black: /products/serving-bowls/70563690.txt
+- MÄVINN bread basket, jute, 11x6x3 ¼": /products/serving-bowls/30600977.txt
+- MÄVINN bowl, brown/ceramic, 6 ½": /products/serving-bowls/00587835.txt
+- KUSTFYR serving bowl, white/cat black: /products/serving-bowls/20617365.txt
+- KUSTFYR serving bowl, white/black, 7 ½": /products/serving-bowls/10617361.txt
+- KUSTFYR serving bowl, black/spider white: /products/serving-bowls/30617360.txt
+- IKEA 365+ bowl, angled sides white: /products/serving-bowls/30279703.txt
+- HÖSTAGILLE serving bowl, light beige/orange-brown: /products/serving-bowls/30602127.txt
+- GRÖNSAKER serving bowl, bamboo: /products/serving-bowls/20485727.txt
+- GODMIDDAG serving bowl, white: /products/serving-bowls/90479718.txt
+- GLADELIG serving bowl, dark gray: /products/serving-bowls/90599589.txt
+- GLADELIG serving bowl, beige-green: /products/serving-bowls/30599587.txt
+- BLANDA serving bowl, clear glass: /products/serving-bowls/90057252.txt
+- BLANDA MATT serving bowl, bamboo: /products/serving-bowls/60214343.txt
+- BLANDA MATT serving bowl, bamboo: /products/serving-bowls/20214340.txt
+- BLANDA MATT serving bowl, bamboo: /products/serving-bowls/00222973.txt
+- BLANDA BLANK serving bowl, stainless steel: /products/serving-bowls/50057254.txt
+- BLANDA BLANK serving bowl, stainless steel: /products/serving-bowls/30081467.txt
+- BLANDA BLANK serving bowl, stainless steel: /products/serving-bowls/20057255.txt
+- BLANDA BLANK serving bowl, stainless steel: /products/serving-bowls/00057256.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,243 @@
+# @CATEGORY
+Name: Duvet covers & duvet cover sets
+ProductCount: 221
+
+# @FILTERS
+PriceRange: $9.99 - $119.00
+Materials: 100 % cotton, 100 % lyocell, 100 % polyester (100% recycled), 50 % viscose/rayon, 50 % cotton, 51 % linen, 49 % cotton, 54 % cotton, 46 % viscose/rayon, 54 % polyester (100% recycled), 46 % viscose/rayon, 57 % cotton, 43 % lyocell, 60 % cotton, 40 % lyocell, 65 % cotton, 35 % polyester (100% recycled)
+Brand: IKEA
+
+# @ITEMS
+- VÅRBRÄCKA duvet cover and pillowcase(s), beige/white, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/80412592.txt
+- VÅRBRÄCKA duvet cover and pillowcase(s), beige/white, King: /products/duvet-covers-and-duvet-cover-sets/60412593.txt
+- VÅRBRÄCKA duvet cover and pillowcase(s), beige/white, Twin: /products/duvet-covers-and-duvet-cover-sets/40412594.txt
+- TÅTELSMYGARE duvet cover and pillowcase(s), white/blue, Twin: /products/duvet-covers-and-duvet-cover-sets/80554794.txt
+- TÅTELSMYGARE duvet cover and pillowcase(s), white/blue, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/20554792.txt
+- TÅTELSMYGARE duvet cover and pillowcase(s), white/blue, King: /products/duvet-covers-and-duvet-cover-sets/00554793.txt
+- STRANDLUMMER duvet cover and pillowcase(s), multicolor/floral pattern, King: /products/duvet-covers-and-duvet-cover-sets/50579852.txt
+- STRANDLUMMER duvet cover and pillowcase(s), multicolor/floral pattern, Twin: /products/duvet-covers-and-duvet-cover-sets/30579853.txt
+- STRANDLUMMER duvet cover and pillowcase(s), multicolor/floral pattern, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/30579805.txt
+- SPJUTVIAL duvet cover and pillowcase(s), light gray/mélange, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/80479771.txt
+- SPJUTVIAL duvet cover and pillowcase(s), light gray/mélange, King: /products/duvet-covers-and-duvet-cover-sets/60479772.txt
+- SPJUTVIAL duvet cover and pillowcase(s), light gray/mélange, Twin: /products/duvet-covers-and-duvet-cover-sets/40479773.txt
+- SORGMANTEL duvet cover and pillowcase(s), white/green, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/70549500.txt
+- SORGMANTEL duvet cover and pillowcase(s), white/green, King: /products/duvet-covers-and-duvet-cover-sets/30549502.txt
+- SORGMANTEL duvet cover and pillowcase(s), white/green, Twin: /products/duvet-covers-and-duvet-cover-sets/10549503.txt
+- SÖTRÖNN duvet cover and pillowcase(s), white/black/patterned, King: /products/duvet-covers-and-duvet-cover-sets/80548171.txt
+- SÖTRÖNN duvet cover and pillowcase(s), white/black/patterned, Twin: /products/duvet-covers-and-duvet-cover-sets/60548172.txt
+- SÖTRÖNN duvet cover and pillowcase(s), white/black/patterned, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/00548170.txt
+- SMÅNUNNEÖRT duvet cover and pillowcase(s), red-brown white/stripe, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/50599992.txt
+- SMÅNUNNEÖRT duvet cover and pillowcase(s), red-brown white/stripe, King: /products/duvet-covers-and-duvet-cover-sets/30599993.txt
+- SMÅNUNNEÖRT duvet cover and pillowcase(s), red-brown white/stripe, Twin: /products/duvet-covers-and-duvet-cover-sets/10599994.txt
+- SMÅNUNNEÖRT duvet cover and pillowcase(s), dark gray-blue white/stripe, Twin: /products/duvet-covers-and-duvet-cover-sets/90599886.txt
+- SMÅNUNNEÖRT duvet cover and pillowcase(s), dark gray-blue white/stripe, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/40599884.txt
+- SMÅNUNNEÖRT duvet cover and pillowcase(s), dark gray-blue white/stripe, King: /products/duvet-covers-and-duvet-cover-sets/10599885.txt
+- SLÖJSILJA duvet cover and pillowcase(s), light blue/white/stripe, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/70561403.txt
+- SLÖJSILJA duvet cover and pillowcase(s), light blue/white/stripe, King: /products/duvet-covers-and-duvet-cover-sets/50561404.txt
+- SLÖJSILJA duvet cover and pillowcase(s), light blue/white/stripe, Twin: /products/duvet-covers-and-duvet-cover-sets/20561405.txt
+- SLÅNHÖSTMAL duvet cover and pillowcase(s), orange/pink/stripe, King: /products/duvet-covers-and-duvet-cover-sets/90575296.txt
+- SLÅNHÖSTMAL duvet cover and pillowcase(s), orange/pink/stripe, Twin: /products/duvet-covers-and-duvet-cover-sets/70575297.txt
+- SLÅNHÖSTMAL duvet cover and pillowcase(s), orange/pink/stripe, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/10575295.txt
+- SLÅNHÖSTMAL duvet cover and pillowcase(s), black/white/stripe, King: /products/duvet-covers-and-duvet-cover-sets/80575273.txt
+- SLÅNHÖSTMAL duvet cover and pillowcase(s), black/white/stripe, Twin: /products/duvet-covers-and-duvet-cover-sets/60575274.txt
+- SLÅNHÖSTMAL duvet cover and pillowcase(s), black/white/stripe, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/00575272.txt
+- SCHERSMIN duvet cover and pillowcase(s), white, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/50599751.txt
+- SCHERSMIN duvet cover and pillowcase(s), white, King: /products/duvet-covers-and-duvet-cover-sets/30599752.txt
+- SCHERSMIN duvet cover and pillowcase(s), white, Twin: /products/duvet-covers-and-duvet-cover-sets/10599753.txt
+- SCHERSMIN duvet cover and pillowcase(s), pale pink, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/80599778.txt
+- SCHERSMIN duvet cover and pillowcase(s), pale pink, King: /products/duvet-covers-and-duvet-cover-sets/60599779.txt
+- SCHERSMIN duvet cover and pillowcase(s), pale pink, Twin: /products/duvet-covers-and-duvet-cover-sets/40599780.txt
+- SCHERSMIN duvet cover and pillowcase(s), pale green, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/70599830.txt
+- SCHERSMIN duvet cover and pillowcase(s), pale green, King: /products/duvet-covers-and-duvet-cover-sets/30604918.txt
+- SCHERSMIN duvet cover and pillowcase(s), pale green, Twin: /products/duvet-covers-and-duvet-cover-sets/30599832.txt
+- RUNDHAGTORN duvet cover and pillowcase(s), white, Twin: /products/duvet-covers-and-duvet-cover-sets/90600154.txt
+- RUNDHAGTORN duvet cover and pillowcase(s), white, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/30600152.txt
+- RUNDHAGTORN duvet cover and pillowcase(s), white, King: /products/duvet-covers-and-duvet-cover-sets/10600153.txt
+- RUNDHAGTORN duvet cover and pillowcase(s), beige, King: /products/duvet-covers-and-duvet-cover-sets/80600178.txt
+- RUNDHAGTORN duvet cover and pillowcase(s), beige, Twin: /products/duvet-covers-and-duvet-cover-sets/60600179.txt
+- RUNDHAGTORN duvet cover and pillowcase(s), beige, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/00600177.txt
+- RUNDHAGTORN duvet cover and pillowcase(s), anthracite, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/50600127.txt
+- RUNDHAGTORN duvet cover and pillowcase(s), anthracite, King: /products/duvet-covers-and-duvet-cover-sets/30600128.txt
+- RUNDHAGTORN duvet cover and pillowcase(s), anthracite, Twin: /products/duvet-covers-and-duvet-cover-sets/10600129.txt
+- RODGERSIA duvet cover and pillowcase(s), pink/white, King: /products/duvet-covers-and-duvet-cover-sets/70579455.txt
+- RODGERSIA duvet cover and pillowcase(s), pink/white, Twin: /products/duvet-covers-and-duvet-cover-sets/30579457.txt
+- RODGERSIA duvet cover and pillowcase(s), pink/white, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/00579454.txt
+- RODGERSIA duvet cover and pillowcase(s), green/white, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/80579431.txt
+- RODGERSIA duvet cover and pillowcase(s), green/white, King: /products/duvet-covers-and-duvet-cover-sets/60579432.txt
+- RODGERSIA duvet cover and pillowcase(s), green/white, Twin: /products/duvet-covers-and-duvet-cover-sets/40579433.txt
+- RODGERSIA duvet cover and pillowcase(s), gray/white, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/80579407.txt
+- RODGERSIA duvet cover and pillowcase(s), gray/white, King: /products/duvet-covers-and-duvet-cover-sets/60579408.txt
+- RODGERSIA duvet cover and pillowcase(s), gray/white, Twin: /products/duvet-covers-and-duvet-cover-sets/40579409.txt
+- RODGERSIA duvet cover and pillowcase(s), blue/white, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/40586848.txt
+- RODGERSIA duvet cover and pillowcase(s), blue/white, King: /products/duvet-covers-and-duvet-cover-sets/20586849.txt
+- RODGERSIA duvet cover and pillowcase(s), blue/white, Twin: /products/duvet-covers-and-duvet-cover-sets/00586850.txt
+- PORTLAKMÅLLA duvet cover and pillowcase(s), green/white, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/70605812.txt
+- PORTLAKMÅLLA duvet cover and pillowcase(s), green/white, King: /products/duvet-covers-and-duvet-cover-sets/50605813.txt
+- PORTLAKMÅLLA duvet cover and pillowcase(s), green/white, Twin: /products/duvet-covers-and-duvet-cover-sets/30605814.txt
+- PILTANDVINGE duvet cover and pillowcase(s), pink, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/60579154.txt
+- PILTANDVINGE duvet cover and pillowcase(s), pink, King: /products/duvet-covers-and-duvet-cover-sets/30579155.txt
+- PILTANDVINGE duvet cover and pillowcase(s), pink, Twin: /products/duvet-covers-and-duvet-cover-sets/10579156.txt
+- PILTANDVINGE duvet cover and pillowcase(s), light green, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/80579129.txt
+- PILTANDVINGE duvet cover and pillowcase(s), light green, King: /products/duvet-covers-and-duvet-cover-sets/60579130.txt
+- PILTANDVINGE duvet cover and pillowcase(s), light green, Twin: /products/duvet-covers-and-duvet-cover-sets/40579131.txt
+- PILTANDVINGE duvet cover and pillowcase(s), gray, King: /products/duvet-covers-and-duvet-cover-sets/80579105.txt
+- PILTANDVINGE duvet cover and pillowcase(s), gray, Twin: /products/duvet-covers-and-duvet-cover-sets/60579106.txt
+- PILTANDVINGE duvet cover and pillowcase(s), gray, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/10579104.txt
+- PILTANDVINGE duvet cover and pillowcase(s), blue, King: /products/duvet-covers-and-duvet-cover-sets/90582409.txt
+- PILTANDVINGE duvet cover and pillowcase(s), blue, Twin: /products/duvet-covers-and-duvet-cover-sets/70582410.txt
+- PILTANDVINGE duvet cover and pillowcase(s), blue, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/10582408.txt
+- PILDVÄRGMAL duvet cover and pillowcase(s), white/floral pattern, King: /products/duvet-covers-and-duvet-cover-sets/80599858.txt
+- PILDVÄRGMAL duvet cover and pillowcase(s), white/floral pattern, Twin: /products/duvet-covers-and-duvet-cover-sets/60599859.txt
+- PILDVÄRGMAL duvet cover and pillowcase(s), white/floral pattern, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/00599857.txt
+- OFELIA VASS duvet cover and pillowcase(s), white, King: /products/duvet-covers-and-duvet-cover-sets/70133025.txt
+- OFELIA VASS duvet cover and pillowcase(s), white, Twin: /products/duvet-covers-and-duvet-cover-sets/30133032.txt
+- OFELIA VASS duvet cover and pillowcase(s), white, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/00133024.txt
+- NATTJASMIN duvet cover and pillowcase(s), white, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/60337155.txt
+- NATTJASMIN duvet cover and pillowcase(s), white, King: /products/duvet-covers-and-duvet-cover-sets/40337156.txt
+- NATTJASMIN duvet cover and pillowcase(s), white, Twin: /products/duvet-covers-and-duvet-cover-sets/20337157.txt
+- NATTJASMIN duvet cover and pillowcase(s), light beige, King: /products/duvet-covers-and-duvet-cover-sets/90442598.txt
+- NATTJASMIN duvet cover and pillowcase(s), light beige, Twin: /products/duvet-covers-and-duvet-cover-sets/70442599.txt
+- NATTJASMIN duvet cover and pillowcase(s), light beige, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/10442597.txt
+- NATTJASMIN duvet cover and pillowcase(s), blue-green, King: /products/duvet-covers-and-duvet-cover-sets/80595841.txt
+- NATTJASMIN duvet cover and pillowcase(s), blue-green, Twin: /products/duvet-covers-and-duvet-cover-sets/60595842.txt
+- NATTJASMIN duvet cover and pillowcase(s), blue-green, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/00595840.txt
+- NÄSSELKLOCKA duvet cover and pillowcase(s), light grey-beige/multicolor, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/80584550.txt
+- NÄSSELKLOCKA duvet cover and pillowcase(s), light grey-beige/multicolor, King: /products/duvet-covers-and-duvet-cover-sets/40584552.txt
+- NÄSSELKLOCKA duvet cover and pillowcase(s), light grey-beige/multicolor, Twin: /products/duvet-covers-and-duvet-cover-sets/20584553.txt
+- MYGGLASVINGE duvet cover and pillowcase(s), multicolor, Twin: /products/duvet-covers-and-duvet-cover-sets/90591239.txt
+- MYGGLASVINGE duvet cover and pillowcase(s), multicolor, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/30591237.txt
+- MYGGLASVINGE duvet cover and pillowcase(s), multicolor, King: /products/duvet-covers-and-duvet-cover-sets/10591238.txt
+- MAJSMOTT duvet cover and pillowcase(s), off-white/black, King: /products/duvet-covers-and-duvet-cover-sets/60564973.txt
+- MAJSMOTT duvet cover and pillowcase(s), off-white/black, Twin: /products/duvet-covers-and-duvet-cover-sets/40564974.txt
+- LUNDSKAFTING duvet cover and pillowcase(s), white/black/brown, Twin: /products/duvet-covers-and-duvet-cover-sets/90606368.txt
+- LUNDSKAFTING duvet cover and pillowcase(s), white/black/brown, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/30606366.txt
+- LUNDSKAFTING duvet cover and pillowcase(s), white/black/brown, King: /products/duvet-covers-and-duvet-cover-sets/10606367.txt
+- LUKTJASMIN duvet cover and pillowcase(s), gray-beige, Twin: /products/duvet-covers-and-duvet-cover-sets/60570304.txt
+- LUKTJASMIN duvet cover and pillowcase(s), dark gray, Twin: /products/duvet-covers-and-duvet-cover-sets/80442532.txt
+- LINDDVÄRGMAL duvet cover and pillowcase(s), blue/check, King: /products/duvet-covers-and-duvet-cover-sets/30585670.txt
+- LÄKEVÄNDEROT duvet cover and pillowcase(s), light gray-green, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/90606523.txt
+- LÄKEVÄNDEROT duvet cover and pillowcase(s), light gray-green, King: /products/duvet-covers-and-duvet-cover-sets/70606524.txt
+- LÄKEVÄNDEROT duvet cover and pillowcase(s), light gray-green, Twin: /products/duvet-covers-and-duvet-cover-sets/40606525.txt
+- LÄKEVÄNDEROT duvet cover and pillowcase(s), beige, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/60606497.txt
+- LÄKEVÄNDEROT duvet cover and pillowcase(s), beige, King: /products/duvet-covers-and-duvet-cover-sets/40606498.txt
+- LÄKEVÄNDEROT duvet cover and pillowcase(s), beige, Twin: /products/duvet-covers-and-duvet-cover-sets/20606499.txt
+- KUNGSCISSUS duvet cover and pillowcase(s), white/green, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/80565071.txt
+- KUNGSCISSUS duvet cover and pillowcase(s), white/green, Twin: /products/duvet-covers-and-duvet-cover-sets/50565077.txt
+- KUNGSCISSUS duvet cover and pillowcase(s), white/green, King: /products/duvet-covers-and-duvet-cover-sets/20565074.txt
+- KRANSMALVA duvet cover and pillowcase(s), yellow, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/80572057.txt
+- KRANSMALVA duvet cover and pillowcase(s), yellow, Twin: /products/duvet-covers-and-duvet-cover-sets/40572059.txt
+- KRANSMALVA duvet cover and pillowcase(s), orange, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/50572030.txt
+- KRANSMALVA duvet cover and pillowcase(s), orange, Twin: /products/duvet-covers-and-duvet-cover-sets/10572032.txt
+- KORSKOVALL duvet cover and pillowcase(s), multicolor/floral pattern, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/60575330.txt
+- KORSKOVALL duvet cover and pillowcase(s), multicolor/floral pattern, King: /products/duvet-covers-and-duvet-cover-sets/40575331.txt
+- KORSKOVALL duvet cover and pillowcase(s), multicolor/floral pattern, Twin: /products/duvet-covers-and-duvet-cover-sets/20575332.txt
+- KLIPPBRÄCKA duvet cover and pillowcase(s), white/black, Twin: /products/duvet-covers-and-duvet-cover-sets/60585008.txt
+- KLIPPBRÄCKA duvet cover and pillowcase(s), white/black, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/00585006.txt
+- KLIBBKORSÖRT duvet cover and pillowcase(s), multicolor, King: /products/duvet-covers-and-duvet-cover-sets/60600018.txt
+- KÄRRDUNÖRT duvet cover and pillowcase(s), dark green/multicolor, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/60536329.txt
+- KÄRRDUNÖRT duvet cover and pillowcase(s), dark green/multicolor, King: /products/duvet-covers-and-duvet-cover-sets/40536330.txt
+- KÄRRDUNÖRT duvet cover and pillowcase(s), dark green/multicolor, Twin: /products/duvet-covers-and-duvet-cover-sets/20536331.txt
+- JÄTTELILJA duvet cover and pillowcase(s), white/floral patterned, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/80412511.txt
+- JÄTTELILJA duvet cover and pillowcase(s), white/floral patterned, King: /products/duvet-covers-and-duvet-cover-sets/60412512.txt
+- HYLSNEJLIKA duvet cover and pillowcase(s), multicolor, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/50605530.txt
+- HYLSNEJLIKA duvet cover and pillowcase(s), multicolor, King: /products/duvet-covers-and-duvet-cover-sets/30605531.txt
+- HYLSNEJLIKA duvet cover and pillowcase(s), multicolor, Twin: /products/duvet-covers-and-duvet-cover-sets/10605532.txt
+- HAMPFLOCKEL duvet cover and pillowcase(s), white, Twin: /products/duvet-covers-and-duvet-cover-sets/80606397.txt
+- HAMPFLOCKEL duvet cover and pillowcase(s), white, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/20606395.txt
+- HAMPFLOCKEL duvet cover and pillowcase(s), white, King: /products/duvet-covers-and-duvet-cover-sets/00606396.txt
+- HAMPFLOCKEL duvet cover and pillowcase(s), dark gray, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/50606445.txt
+- HAMPFLOCKEL duvet cover and pillowcase(s), dark gray, King: /products/duvet-covers-and-duvet-cover-sets/30606446.txt
+- HAMPFLOCKEL duvet cover and pillowcase(s), dark gray, Twin: /products/duvet-covers-and-duvet-cover-sets/10606447.txt
+- HAMPFLOCKEL duvet cover and pillowcase(s), dark blue, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/80606420.txt
+- HAMPFLOCKEL duvet cover and pillowcase(s), dark blue, King: /products/duvet-covers-and-duvet-cover-sets/60606421.txt
+- HAMPFLOCKEL duvet cover and pillowcase(s), dark blue, Twin: /products/duvet-covers-and-duvet-cover-sets/40606422.txt
+- HAMPFLOCKEL duvet cover and pillowcase(s), brown, King: /products/duvet-covers-and-duvet-cover-sets/90611459.txt
+- HAMPFLOCKEL duvet cover and pillowcase(s), brown, Twin: /products/duvet-covers-and-duvet-cover-sets/70611460.txt
+- HAMPFLOCKEL duvet cover and pillowcase(s), brown, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/10611458.txt
+- EKTANDVINGE duvet cover and pillowcase(s), pale gray-green white/check, Twin: /products/duvet-covers-and-duvet-cover-sets/70585437.txt
+- EKTANDVINGE duvet cover and pillowcase(s), pale gray-green white/check, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/60585433.txt
+- EKTANDVINGE duvet cover and pillowcase(s), pale gray-green white/check, King: /products/duvet-covers-and-duvet-cover-sets/10585435.txt
+- EKTANDVINGE duvet cover and pillowcase(s), anthracite white/check, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/70585404.txt
+- EKTANDVINGE duvet cover and pillowcase(s), anthracite white/check, King: /products/duvet-covers-and-duvet-cover-sets/40585405.txt
+- EKTANDVINGE duvet cover and pillowcase(s), anthracite white/check, Twin: /products/duvet-covers-and-duvet-cover-sets/20585406.txt
+- EKPURPURMAL duvet cover and pillowcase(s), white blue/cloud, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/90547010.txt
+- EKPURPURMAL duvet cover and pillowcase(s), white blue/cloud, King: /products/duvet-covers-and-duvet-cover-sets/70547011.txt
+- EKPURPURMAL duvet cover and pillowcase(s), white blue/cloud, Twin: /products/duvet-covers-and-duvet-cover-sets/50547012.txt
+- DVALA duvet cover and pillowcase(s), white, Twin: /products/duvet-covers-and-duvet-cover-sets/80377956.txt
+- DVALA duvet cover and pillowcase(s), white, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/30377954.txt
+- DVALA duvet cover and pillowcase(s), white, King: /products/duvet-covers-and-duvet-cover-sets/00377955.txt
+- DOFTAKLEJA duvet cover and pillowcase(s), white/anthracite, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/90600521.txt
+- DOFTAKLEJA duvet cover and pillowcase(s), white/anthracite, King: /products/duvet-covers-and-duvet-cover-sets/70600522.txt
+- DOFTAKLEJA duvet cover and pillowcase(s), white/anthracite, Twin: /products/duvet-covers-and-duvet-cover-sets/50600523.txt
+- DOFTAKLEJA duvet cover and pillowcase(s), dark blue/light brown, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/80600606.txt
+- DOFTAKLEJA duvet cover and pillowcase(s), dark blue/light brown, Twin: /products/duvet-covers-and-duvet-cover-sets/60600612.txt
+- DOFTAKLEJA duvet cover and pillowcase(s), dark blue/light brown, King: /products/duvet-covers-and-duvet-cover-sets/60600607.txt
+- CYMBALBLOMMA duvet cover and pillowcase(s), white/blue, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/60546960.txt
+- CYMBALBLOMMA duvet cover and pillowcase(s), white/blue, Twin: /products/duvet-covers-and-duvet-cover-sets/20546962.txt
+- BRUNKRISSLA duvet cover and pillowcase(s), pink, King: /products/duvet-covers-and-duvet-cover-sets/70558311.txt
+- BRUNKRISSLA duvet cover and pillowcase(s), pink, Twin: /products/duvet-covers-and-duvet-cover-sets/30558313.txt
+- BRUNKRISSLA duvet cover and pillowcase(s), pink, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/10558309.txt
+- BRUNKRISSLA duvet cover and pillowcase(s), green/multicolor, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/50554818.txt
+- BRUNKRISSLA duvet cover and pillowcase(s), green/multicolor, King: /products/duvet-covers-and-duvet-cover-sets/30554819.txt
+- BRUNKRISSLA duvet cover and pillowcase(s), green/multicolor, Twin: /products/duvet-covers-and-duvet-cover-sets/10554820.txt
+- BRUNKRISSLA duvet cover and pillowcase(s), black, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/80564590.txt
+- BRUNKRISSLA duvet cover and pillowcase(s), black, King: /products/duvet-covers-and-duvet-cover-sets/60564591.txt
+- BRUNKRISSLA duvet cover and pillowcase(s), black, Twin: /products/duvet-covers-and-duvet-cover-sets/40564592.txt
+- BROKDRACENA duvet cover and pillowcase(s), white/black, King: /products/duvet-covers-and-duvet-cover-sets/90605788.txt
+- BROKDRACENA duvet cover and pillowcase(s), white/black, Twin: /products/duvet-covers-and-duvet-cover-sets/70605789.txt
+- BROKDRACENA duvet cover and pillowcase(s), white/black, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/10605787.txt
+- BREDVECKLARE duvet cover and pillowcase(s), white blue/check, Twin: /products/duvet-covers-and-duvet-cover-sets/80579351.txt
+- BREDVECKLARE duvet cover and pillowcase(s), white blue/check, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/40579348.txt
+- BREDVECKLARE duvet cover and pillowcase(s), white blue/check, King: /products/duvet-covers-and-duvet-cover-sets/20579349.txt
+- BJÖRKGRÅMAL duvet cover and pillowcase(s), black white/dotted, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/80591188.txt
+- BJÖRKGRÅMAL duvet cover and pillowcase(s), black white/dotted, King: /products/duvet-covers-and-duvet-cover-sets/60591189.txt
+- BJÖRKGRÅMAL duvet cover and pillowcase(s), black white/dotted, Twin: /products/duvet-covers-and-duvet-cover-sets/40591190.txt
+- BESKSÖTEMAL duvet cover and pillowcase(s), red-brown/check, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/50585645.txt
+- BESKSÖTEMAL duvet cover and pillowcase(s), red-brown/check, King: /products/duvet-covers-and-duvet-cover-sets/30585646.txt
+- BERGPALM duvet cover and pillowcase(s), green/stripe, King: /products/duvet-covers-and-duvet-cover-sets/80423185.txt
+- BERGPALM duvet cover and pillowcase(s), green/stripe, Twin: /products/duvet-covers-and-duvet-cover-sets/60423186.txt
+- BERGPALM duvet cover and pillowcase(s), green/stripe, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/10423184.txt
+- BERGPALM duvet cover and pillowcase(s), gray/stripe, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/80423265.txt
+- BERGPALM duvet cover and pillowcase(s), gray/stripe, King: /products/duvet-covers-and-duvet-cover-sets/30423239.txt
+- BERGPALM duvet cover and pillowcase(s), gray/stripe, Twin: /products/duvet-covers-and-duvet-cover-sets/10423240.txt
+- BERGPALM duvet cover and pillowcase(s), blue/stripe, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/90522613.txt
+- BERGPALM duvet cover and pillowcase(s), blue/stripe, King: /products/duvet-covers-and-duvet-cover-sets/70522614.txt
+- BERGPALM duvet cover and pillowcase(s), blue/stripe, Twin: /products/duvet-covers-and-duvet-cover-sets/40522615.txt
+- BERGKORSÖRT duvet cover and pillowcase(s), white/gray, King: /products/duvet-covers-and-duvet-cover-sets/20570278.txt
+- BERGKORSÖRT duvet cover and pillowcase(s), white/gray, Twin: /products/duvet-covers-and-duvet-cover-sets/00570279.txt
+- ÄNGSNEJLIKA duvet cover and pillowcase(s), gray-beige/off-white, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/80585328.txt
+- ÄNGSNEJLIKA duvet cover and pillowcase(s), gray-beige/off-white, King: /products/duvet-covers-and-duvet-cover-sets/60585329.txt
+- ÄNGSNEJLIKA duvet cover and pillowcase(s), gray-beige/off-white, Twin: /products/duvet-covers-and-duvet-cover-sets/40585330.txt
+- ÄNGSNEJLIKA duvet cover and pillowcase(s), dark blue/light blue, Twin: /products/duvet-covers-and-duvet-cover-sets/90585356.txt
+- ÄNGSNEJLIKA duvet cover and pillowcase(s), dark blue/light blue, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/40585354.txt
+- ÄNGSNEJLIKA duvet cover and pillowcase(s), dark blue/light blue, King: /products/duvet-covers-and-duvet-cover-sets/10585355.txt
+- ÄNGSLILJA duvet cover and pillowcase(s), white, King: /products/duvet-covers-and-duvet-cover-sets/80318542.txt
+- ÄNGSLILJA duvet cover and pillowcase(s), white, Twin: /products/duvet-covers-and-duvet-cover-sets/60318543.txt
+- ÄNGSLILJA duvet cover and pillowcase(s), white, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/00318541.txt
+- ÄNGSLILJA duvet cover and pillowcase(s), red-brown, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/80585149.txt
+- ÄNGSLILJA duvet cover and pillowcase(s), red-brown, King: /products/duvet-covers-and-duvet-cover-sets/40585151.txt
+- ÄNGSLILJA duvet cover and pillowcase(s), red-brown, Twin: /products/duvet-covers-and-duvet-cover-sets/20585152.txt
+- ÄNGSLILJA duvet cover and pillowcase(s), natural, Twin: /products/duvet-covers-and-duvet-cover-sets/90591989.txt
+- ÄNGSLILJA duvet cover and pillowcase(s), natural, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/30591987.txt
+- ÄNGSLILJA duvet cover and pillowcase(s), natural, King: /products/duvet-covers-and-duvet-cover-sets/10591988.txt
+- ÄNGSLILJA duvet cover and pillowcase(s), gray-green, Twin: /products/duvet-covers-and-duvet-cover-sets/80585187.txt
+- ÄNGSLILJA duvet cover and pillowcase(s), gray-green, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/70585183.txt
+- ÄNGSLILJA duvet cover and pillowcase(s), gray-green, King: /products/duvet-covers-and-duvet-cover-sets/20585185.txt
+- ÄNGSLILJA duvet cover and pillowcase(s), gray, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/90318645.txt
+- ÄNGSLILJA duvet cover and pillowcase(s), gray, King: /products/duvet-covers-and-duvet-cover-sets/70318646.txt
+- ÄNGSLILJA duvet cover and pillowcase(s), gray, Twin: /products/duvet-covers-and-duvet-cover-sets/50318647.txt
+- ÄNGSLILJA duvet cover and pillowcase(s), blue-gray, Full/Queen (Double/Queen): /products/duvet-covers-and-duvet-cover-sets/40585226.txt
+- ÄNGSLILJA duvet cover and pillowcase(s), blue-gray, King: /products/duvet-covers-and-duvet-cover-sets/20585227.txt
+- ÄNGSLILJA duvet cover and pillowcase(s), blue-gray, Twin: /products/duvet-covers-and-duvet-cover-sets/00585228.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

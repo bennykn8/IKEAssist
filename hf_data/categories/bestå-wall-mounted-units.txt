@@ -1,0 +1,142 @@
+# @CATEGORY
+Name: BESTÅ wall mounted units
+ProductCount: 120
+
+# @FILTERS
+PriceRange: $75.00 - $305.00
+Materials: Back panel: Fiberboard, Paper foil, Plastic foil, Fiberboard, Oak veneer, Clear acrylic lacquer, Fiberboard, Paper foil, Plastic edging, Fiberboard, Stain, Clear acrylic lacquer, Oak veneer, Frame: Aluminium (min. 70% recycled), Aluminium (min. 70% recycled), Epoxy/polyester powder coating, Frame: Aluminum, Epoxy/polyester powder coating, Front: Fiberboard, Acrylic paint, Glass panel: Tempered glass, Particleboard, Fiberboard, Acrylic paint, Paper foil, Clear lacquer, Particleboard, High-pressure melamine laminate, Plastic foil, Plastic edging
+Brand: IKEA
+
+# @ITEMS
+- BESTÅ wall-mounted cabinet combination, white/Sutterviken white: /products/bestå-wall-mounted-units/99439855.txt
+- BESTÅ wall-mounted cabinet combination, white/Sutterviken white: /products/bestå-wall-mounted-units/99429677.txt
+- BESTÅ wall-mounted cabinet combination, white/Sutterviken white: /products/bestå-wall-mounted-units/69439828.txt
+- BESTÅ wall-mounted cabinet combination, white/Sutterviken white: /products/bestå-wall-mounted-units/39429246.txt
+- BESTÅ wall-mounted cabinet combination, white/Sutterviken: /products/bestå-wall-mounted-units/79440826.txt
+- BESTÅ wall-mounted cabinet combination, white/Sutterviken: /products/bestå-wall-mounted-units/79430870.txt
+- BESTÅ wall-mounted cabinet combination, white/Smeviken white: /products/bestå-wall-mounted-units/69439847.txt
+- BESTÅ wall-mounted cabinet combination, white/Smeviken white: /products/bestå-wall-mounted-units/69432054.txt
+- BESTÅ wall-mounted cabinet combination, white/Smeviken white: /products/bestå-wall-mounted-units/69429674.txt
+- BESTÅ wall-mounted cabinet combination, white/Smeviken white: /products/bestå-wall-mounted-units/49429340.txt
+- BESTÅ wall-mounted cabinet combination, white/Smeviken: /products/bestå-wall-mounted-units/49440823.txt
+- BESTÅ wall-mounted cabinet combination, white/Smeviken: /products/bestå-wall-mounted-units/39430867.txt
+- BESTÅ wall-mounted cabinet combination, white/Sindvik white: /products/bestå-wall-mounted-units/19432056.txt
+- BESTÅ wall-mounted cabinet combination, white/Sindvik white: /products/bestå-wall-mounted-units/09439845.txt
+- BESTÅ wall-mounted cabinet combination, white/Sindvik white clear glass: /products/bestå-wall-mounted-units/79429225.txt
+- BESTÅ wall-mounted cabinet combination, white/Sindvik white clear glass: /products/bestå-wall-mounted-units/29429666.txt
+- BESTÅ wall-mounted cabinet combination, white/Sindvik white clear glass: /products/bestå-wall-mounted-units/09429691.txt
+- BESTÅ wall-mounted cabinet combination, white/Sindvik clear glass: /products/bestå-wall-mounted-units/09440801.txt
+- BESTÅ wall-mounted cabinet combination, white/Selsviken white: /products/bestå-wall-mounted-units/39432055.txt
+- BESTÅ wall-mounted cabinet combination, white/Selsviken white: /products/bestå-wall-mounted-units/29439849.txt
+- BESTÅ wall-mounted cabinet combination, white/Selsviken high-gloss/white: /products/bestå-wall-mounted-units/69429693.txt
+- BESTÅ wall-mounted cabinet combination, white/Selsviken high-gloss/white: /products/bestå-wall-mounted-units/69429669.txt
+- BESTÅ wall-mounted cabinet combination, white/Selsviken high-gloss/white: /products/bestå-wall-mounted-units/59429226.txt
+- BESTÅ wall-mounted cabinet combination, white/Selsviken high gloss: /products/bestå-wall-mounted-units/89440798.txt
+- BESTÅ wall-mounted cabinet combination, white/Ostvik white: /products/bestå-wall-mounted-units/79432058.txt
+- BESTÅ wall-mounted cabinet combination, white/Ostvik white: /products/bestå-wall-mounted-units/59429245.txt
+- BESTÅ wall-mounted cabinet combination, white/Ostvik white: /products/bestå-wall-mounted-units/39429675.txt
+- BESTÅ wall-mounted cabinet combination, white/Ostvik white: /products/bestå-wall-mounted-units/19439859.txt
+- BESTÅ wall-mounted cabinet combination, white/Ostvik white/clear glass: /products/bestå-wall-mounted-units/19430868.txt
+- BESTÅ wall-mounted cabinet combination, white/Ostvik clear glass: /products/bestå-wall-mounted-units/99440825.txt
+- BESTÅ wall-mounted cabinet combination, white/Mörtviken white: /products/bestå-wall-mounted-units/79439856.txt
+- BESTÅ wall-mounted cabinet combination, white/Mörtviken white: /products/bestå-wall-mounted-units/79429683.txt
+- BESTÅ wall-mounted cabinet combination, white/Mörtviken white: /products/bestå-wall-mounted-units/59429269.txt
+- BESTÅ wall-mounted cabinet combination, white/Mörtviken white: /products/bestå-wall-mounted-units/39439844.txt
+- BESTÅ wall-mounted cabinet combination, white/Mörtviken white: /products/bestå-wall-mounted-units/29432051.txt
+- BESTÅ wall-mounted cabinet combination, white/Mörtviken: /products/bestå-wall-mounted-units/19440853.txt
+- BESTÅ wall-mounted cabinet combination, white/Laxviken white: /products/bestå-wall-mounted-units/99432057.txt
+- BESTÅ wall-mounted cabinet combination, white/Laxviken white: /products/bestå-wall-mounted-units/99429663.txt
+- BESTÅ wall-mounted cabinet combination, white/Laxviken white: /products/bestå-wall-mounted-units/89429673.txt
+- BESTÅ wall-mounted cabinet combination, white/Laxviken white: /products/bestå-wall-mounted-units/49439848.txt
+- BESTÅ wall-mounted cabinet combination, white/Laxviken: /products/bestå-wall-mounted-units/59430866.txt
+- BESTÅ wall-mounted cabinet combination, white/Laxviken: /products/bestå-wall-mounted-units/29440824.txt
+- BESTÅ wall-mounted cabinet combination, white/Lappviken white: /products/bestå-wall-mounted-units/79429664.txt
+- BESTÅ wall-mounted cabinet combination, white/Lappviken white: /products/bestå-wall-mounted-units/69431865.txt
+- BESTÅ wall-mounted cabinet combination, white/Lappviken white: /products/bestå-wall-mounted-units/49431866.txt
+- BESTÅ wall-mounted cabinet combination, white/Lappviken white: /products/bestå-wall-mounted-units/49429689.txt
+- BESTÅ wall-mounted cabinet combination, white/Lappviken white: /products/bestå-wall-mounted-units/19431858.txt
+- BESTÅ wall-mounted cabinet combination, white/Lappviken white: /products/bestå-wall-mounted-units/09429224.txt
+- BESTÅ wall-mounted cabinet combination, white/Hedeviken oak veneer: /products/bestå-wall-mounted-units/59429250.txt
+- BESTÅ wall-mounted cabinet combination, white Hedeviken/oak veneer: /products/bestå-wall-mounted-units/49440842.txt
+- BESTÅ wall-mounted cabinet combination, white Hedeviken/oak veneer: /products/bestå-wall-mounted-units/39440852.txt
+- BESTÅ wall-mounted cabinet combination, white Hedeviken/oak veneer: /products/bestå-wall-mounted-units/39430872.txt
+- BESTÅ wall-mounted cabinet combination, white/Hedeviken oak veneer: /products/bestå-wall-mounted-units/39429680.txt
+- BESTÅ wall-mounted cabinet combination, white/Hedeviken oak: /products/bestå-wall-mounted-units/09439826.txt
+- BESTÅ wall-mounted cabinet combination, white/Hanviken white: /products/bestå-wall-mounted-units/69440799.txt
+- BESTÅ wall-mounted cabinet combination, white/Hanviken white: /products/bestå-wall-mounted-units/59432059.txt
+- BESTÅ wall-mounted cabinet combination, white/Hanviken white: /products/bestå-wall-mounted-units/29439854.txt
+- BESTÅ wall-mounted cabinet combination, white/Hanviken white: /products/bestå-wall-mounted-units/19429676.txt
+- BESTÅ wall-mounted cabinet combination, white/Hanviken white: /products/bestå-wall-mounted-units/19429247.txt
+- BESTÅ wall-mounted cabinet combination, white/Hanviken: /products/bestå-wall-mounted-units/99430869.txt
+- BESTÅ wall-mounted cabinet combination, white Glassvik/white/light green frosted glass: /products/bestå-wall-mounted-units/99489195.txt
+- BESTÅ wall-mounted cabinet combination, white Glassvik/white/light green frosted glass: /products/bestå-wall-mounted-units/79489196.txt
+- BESTÅ wall-mounted cabinet combination, white Glassvik/white/light green frosted glass: /products/bestå-wall-mounted-units/69489229.txt
+- BESTÅ wall-mounted cabinet combination, white Glassvik/white/light green frosted glass: /products/bestå-wall-mounted-units/59489197.txt
+- BESTÅ wall-mounted cabinet combination, white Glassvik/white/light green frosted glass: /products/bestå-wall-mounted-units/29489231.txt
+- BESTÅ wall-mounted cabinet combination, white Glassvik/white/light green frosted glass: /products/bestå-wall-mounted-units/09489190.txt
+- BESTÅ wall-mounted cabinet combination, white Glassvik/white/light green clear glass: /products/bestå-wall-mounted-units/99489181.txt
+- BESTÅ wall-mounted cabinet combination, white Glassvik/white/light green clear glass: /products/bestå-wall-mounted-units/89489172.txt
+- BESTÅ wall-mounted cabinet combination, white Glassvik/white/light green clear glass: /products/bestå-wall-mounted-units/69489173.txt
+- BESTÅ wall-mounted cabinet combination, white Glassvik/white/light green clear glass: /products/bestå-wall-mounted-units/59489178.txt
+- BESTÅ wall-mounted cabinet combination, white Glassvik/white/light green clear glass: /products/bestå-wall-mounted-units/49489230.txt
+- BESTÅ wall-mounted cabinet combination, white Glassvik/white/light green clear glass: /products/bestå-wall-mounted-units/09489232.txt
+- BESTÅ wall-mounted cabinet combination, high-gloss/black/Selsviken: /products/bestå-wall-mounted-units/59439824.txt
+- BESTÅ wall-mounted cabinet combination, high-gloss/black/Glassvik: /products/bestå-wall-mounted-units/29439825.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Sindvik: /products/bestå-wall-mounted-units/79439823.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Sindvik: /products/bestå-wall-mounted-units/19439864.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Sindvik: /products/bestå-wall-mounted-units/09440797.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Sindvik black-brown clear glass: /products/bestå-wall-mounted-units/89429692.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Sindvik black-brown clear glass: /products/bestå-wall-mounted-units/59429274.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Sindvik black-brown clear glass: /products/bestå-wall-mounted-units/09429667.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Selsviken high-gloss/black: /products/bestå-wall-mounted-units/49429694.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Selsviken high-gloss/black: /products/bestå-wall-mounted-units/29429275.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Selsviken black: /products/bestå-wall-mounted-units/89429668.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Selsviken black: /products/bestå-wall-mounted-units/59439862.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Selsviken black: /products/bestå-wall-mounted-units/49440795.txt
+- BESTÅ wall-mounted cabinet combination, black-brown Mörtviken/black: /products/bestå-wall-mounted-units/79440845.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Mörtviken black: /products/bestå-wall-mounted-units/79440831.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Mörtviken black: /products/bestå-wall-mounted-units/59439838.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Mörtviken black: /products/bestå-wall-mounted-units/59429684.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Mörtviken black: /products/bestå-wall-mounted-units/49432045.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Mörtviken black: /products/bestå-wall-mounted-units/39429270.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Lappviken: /products/bestå-wall-mounted-units/99439822.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Lappviken: /products/bestå-wall-mounted-units/79440794.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Lappviken: /products/bestå-wall-mounted-units/79439861.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Lappviken black-brown: /products/bestå-wall-mounted-units/79429273.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Lappviken black-brown: /products/bestå-wall-mounted-units/49429665.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Lappviken black-brown: /products/bestå-wall-mounted-units/09432033.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Kallviken dark gray: /products/bestå-wall-mounted-units/79429249.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Kallviken dark gray: /products/bestå-wall-mounted-units/59429679.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Kallviken dark gray: /products/bestå-wall-mounted-units/09432047.txt
+- BESTÅ wall-mounted cabinet combination, black-brown Kallviken/dark gray concrete effect: /products/bestå-wall-mounted-units/19440834.txt
+- BESTÅ wall-mounted cabinet combination, black-brown Kallviken/dark gray concrete effect: /products/bestå-wall-mounted-units/19439835.txt
+- BESTÅ wall-mounted cabinet combination, black-brown Kallviken/dark gray concrete effect: /products/bestå-wall-mounted-units/09440844.txt
+- BESTÅ wall-mounted cabinet combination, black-brown Hedeviken/dark brown stained oak veneer: /products/bestå-wall-mounted-units/99429682.txt
+- BESTÅ wall-mounted cabinet combination, black-brown Hedeviken/dark brown stained oak veneer: /products/bestå-wall-mounted-units/89440835.txt
+- BESTÅ wall-mounted cabinet combination, black-brown Hedeviken/dark brown stained oak veneer: /products/bestå-wall-mounted-units/39439839.txt
+- BESTÅ wall-mounted cabinet combination, black-brown Hedeviken/dark brown stained oak veneer: /products/bestå-wall-mounted-units/39429251.txt
+- BESTÅ wall-mounted cabinet combination, black-brown Hedeviken/dark brown stained oak veneer: /products/bestå-wall-mounted-units/29440843.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Hedeviken dark brown: /products/bestå-wall-mounted-units/89432048.txt
+- BESTÅ wall-mounted cabinet combination, black-brown Glassvik/smoked glass: /products/bestå-wall-mounted-units/89441081.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Glassvik smoked glass: /products/bestå-wall-mounted-units/49441083.txt
+- BESTÅ wall-mounted cabinet combination, black-brown Glassvik/black smoked glass: /products/bestå-wall-mounted-units/99441085.txt
+- BESTÅ wall-mounted cabinet combination, black-brown Glassvik/black smoked glass: /products/bestå-wall-mounted-units/59441087.txt
+- BESTÅ wall-mounted cabinet combination, black-brown Glassvik/black smoked glass: /products/bestå-wall-mounted-units/49440861.txt
+- BESTÅ wall-mounted cabinet combination, black-brown Glassvik/black smoked glass: /products/bestå-wall-mounted-units/29441079.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Glassvik black: /products/bestå-wall-mounted-units/99432038.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Glassvik black: /products/bestå-wall-mounted-units/39439863.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Glassvik black: /products/bestå-wall-mounted-units/29432032.txt
+- BESTÅ wall-mounted cabinet combination, black-brown Glassvik/black clear glass: /products/bestå-wall-mounted-units/69429339.txt
+- BESTÅ wall-mounted cabinet combination, black-brown Glassvik/black clear glass: /products/bestå-wall-mounted-units/29440796.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

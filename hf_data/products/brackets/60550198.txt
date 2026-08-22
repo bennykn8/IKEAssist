@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FÖRLÄGGARE bracket, white, 7x9 ¾"
+SKU: 60550198
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/foerlaeggare-bracket-white-60550198/
+Category: Brackets
+Description: This wall bracket stands out with its slightly twisted design. Customize the look by pairing it with various shelves. Fits 20 and 30 cm deep shelves, depending on which way you turn it. The bracket is...
+
+# @OFFER
+Price: 5
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Powder coating
+Features: Mount the short side on a 7⅞" deep shelf and the long side on a 11⅞" deep shelf. | Screws to mount the bracket to the shelf are included. | Screws for wall mounting are not included.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/foerlaeggare-bracket-white__1288700_pe934267_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

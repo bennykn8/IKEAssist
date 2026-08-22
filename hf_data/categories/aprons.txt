@@ -1,0 +1,28 @@
+# @CATEGORY
+Name: Aprons
+ProductCount: 6
+
+# @FILTERS
+PriceRange: $6.99 - $14.99
+Materials: 100 % cotton, Backing: 100 % Polyurethane, Button: Brass, Fabric: 100 % polyester, Fabric: 60 % cotton, 40 % linen, Fabric: 75 % cotton, 25 % jute, Fabric: 80 %polyester, 20 % cotton, Hook and loop fastener: 100 % nylon, Ribbon: 100 % cotton, Ties: 100 % cotton
+Brand: IKEA
+
+# @ITEMS
+- SANDVIVA waist apron, blue, 27 ¼x25 ½": /products/aprons/90467942.txt
+- SANDVIVA apron, dark gray: /products/aprons/60587880.txt
+- RINNIG apron, patterned: /products/aprons/00609899.txt
+- MARIATHERES children's apron, beige: /products/aprons/30479580.txt
+- MARIATHERES apron, gray: /products/aprons/90479577.txt
+- MÄVINN apron, black white/stripe: /products/aprons/20600992.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,56 @@
+# @CATEGORY
+Name: Lounge chairs
+ProductCount: 34
+
+# @FILTERS
+PriceRange: $39.99 - $399.00
+Materials: Back and seat frame/ Leg: Steel, Polyester powder coating, Back and seat frame: Solid wood, Back frame: Solid wood, Plywood, Polyurethane foam 2.0 lb/cu.ft., Fiberboard, Backrest cushion: Polyurethane foam 2.2 lb/cu.ft., Polypropylene, Backrest/ Armrest: Layer-glued wood veneer, Polyurethane foam 1.5 lb/cu.ft., Polyurethane foam 2.0 lb/cu.ft., Base fabric: 75 % polyester (100% recycled), 25 % linen, Bottom frame: Solid birch, Plywood, Tinted lacquer, Bottom frame: Solid wood, Plywood, Tinted lacquer, Coated fabric: 100 % polyurethane, 75 %polyester, 25 % cotton, Coated fabric: 53 % Polyurethane, 35 % polyester (100% recycled), 12 % cotton
+Brand: IKEA
+
+# @ITEMS
+- STOCKHOLM 2025 chair, birch veneer: /products/lounge-chairs/80594785.txt
+- STOCKHOLM 2025 armchair, Djurmo gray/white: /products/lounge-chairs/40594754.txt
+- SOTENÄS armchair, Hakebo yellow: /products/lounge-chairs/90570821.txt
+- SOTENÄS armchair, Hakebo red: /products/lounge-chairs/40581916.txt
+- SKÅLBODA armchair, white: /products/lounge-chairs/20582035.txt
+- SKÅLBODA armchair, orange: /products/lounge-chairs/40555309.txt
+- SKÅLBODA armchair, black: /products/lounge-chairs/90554388.txt
+- SJÄLSÖ armchair: /products/lounge-chairs/90555095.txt
+- REMSTA armchair, Hakebo dark gray: /products/lounge-chairs/70477942.txt
+- REMSTA armchair, Hakebo beige: /products/lounge-chairs/80477946.txt
+- REMSTA armchair, Djuparp dark green-blue: /products/lounge-chairs/80484956.txt
+- PERSBOL armchair, brown-red/Tibbleby beige/gray: /products/lounge-chairs/40525925.txt
+- PERSBOL armchair, black/Tibbleby beige/gray: /products/lounge-chairs/80525914.txt
+- PERSBOL armchair, birch/Tibbleby beige/gray: /products/lounge-chairs/20525926.txt
+- MOFALLA chair: /products/lounge-chairs/80555091.txt
+- LINNEBÄCK chair, Vissle dark gray: /products/lounge-chairs/50487225.txt
+- LINNEBÄCK chair, Orrsta olive-green: /products/lounge-chairs/10487232.txt
+- LINNEBÄCK chair, Orrsta light gray: /products/lounge-chairs/70487234.txt
+- HERRÅKRA armchair, Vissle gray: /products/lounge-chairs/70544734.txt
+- HERRÅKRA armchair, Skulsta black: /products/lounge-chairs/60535551.txt
+- HERRÅKRA armchair, Diseröd dark yellow: /products/lounge-chairs/40535547.txt
+- GÄVLE chair, Diseröd red: /products/lounge-chairs/30588843.txt
+- GÄVLE chair, Diseröd gray: /products/lounge-chairs/40588847.txt
+- FULLÖSA armchair, Gatehult gray: /products/lounge-chairs/80555294.txt
+- FRÖSET chair, white stained oak veneer: /products/lounge-chairs/80425641.txt
+- EKENÄSET armchair, Kilanda light beige: /products/lounge-chairs/30533493.txt
+- EKENÄSET armchair, Kelinge gray-turquoise: /products/lounge-chairs/90533485.txt
+- EKENÄSET armchair, Jonsbyn black: /products/lounge-chairs/80539015.txt
+- DYVLINGE swivel chair, Kelinge orange: /products/lounge-chairs/40581921.txt
+- DYVLINGE swivel chair, Kelinge green: /products/lounge-chairs/30570838.txt
+- DYVLINGE swivel chair, Kelinge black: /products/lounge-chairs/80570831.txt
+- BINGSTA high back armchair, Vissle dark gray/Kabusa dark gray: /products/lounge-chairs/60454234.txt
+- BINGSTA armchair, Vissle dark yellow/Kabusa dark yellow: /products/lounge-chairs/90455656.txt
+- BINGSTA Armchair, Vissle dark gray/Kabusa dark gray, Width: 27 1/2" Height: 29 7/8". Order today!: /products/lounge-chairs/40454230.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

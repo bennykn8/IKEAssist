@@ -1,0 +1,36 @@
+# @CATEGORY
+Name: Nursing, feeding & eating
+ProductCount: 14
+
+# @FILTERS
+PriceRange: $1.99 - $9.99
+Materials: Backing: 100 % Synthetic rubber, Backing: 100 %polyester, Bib: 100 % PEVA, Bib: Polyethylene, Bowl/ Mug/ Lid/ Spoon: Polypropylene, Edge fabric: 100% polyester (min. 90% recycled), Edging: 100 % polyester (100% recycled), Fabric: 100 % cotton, Foot: Synthetic rubber, Front side: 100 % Synthetic rubber
+Brand: IKEA
+
+# @ITEMS
+- SMÅGLI plate/bowl: /products/nursing-feeding-and-eating/30208348.txt
+- MATVRÅ bib, fruit/vegetables pattern/green yellow: /products/nursing-feeding-and-eating/40426925.txt
+- MATA 4-piece dinnerware set, bright green: /products/nursing-feeding-and-eating/30596937.txt
+- KLADDIG bib, white/green: /products/nursing-feeding-and-eating/90607141.txt
+- KLADDIG bib, multicolor: /products/nursing-feeding-and-eating/80307223.txt
+- GULDVÄVARE bib, pale pink: /products/nursing-feeding-and-eating/10595651.txt
+- GULDVÄVARE bib, green/white: /products/nursing-feeding-and-eating/30573752.txt
+- GULDVÄVARE bib, green: /products/nursing-feeding-and-eating/90573754.txt
+- GULDVÄVARE bib, dark yellow/white: /products/nursing-feeding-and-eating/50595574.txt
+- GRÖNFINK bib, green/yellow: /products/nursing-feeding-and-eating/10572409.txt
+- GRÖNFINK bib, green: /products/nursing-feeding-and-eating/60584711.txt
+- BÖRJA training cup, white/blue: /products/nursing-feeding-and-eating/00596811.txt
+- BÖRJA plate/bowl, white/blue: /products/nursing-feeding-and-eating/90596816.txt
+- BÖRJA feeding and baby spoon, white/blue: /products/nursing-feeding-and-eating/40596814.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

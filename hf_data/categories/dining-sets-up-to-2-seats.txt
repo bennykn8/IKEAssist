@@ -1,0 +1,99 @@
+# @CATEGORY
+Name: Dining sets up to 2 seats
+ProductCount: 77
+
+# @FILTERS
+PriceRange: $47.97 - $529.99
+Materials: Back fabric/ Lining: 100 % polyester (100% recycled), Back fabric: 100 % polyester (100% recycled), Back leg/back frame/ Front leg/ Seat frame/ Pin/ Hinge arm: Steel, Epoxy/polyester powder coating, Base fabric: 100 % polyester (100% recycled), Base: Aluminum, Epoxy/polyester powder coating, Cross rail: Particleboard, Plastic foil, Cross rail: Particleboard, Plastic foil, Paper foil, Drop-leaf: Particleboard, Fiberboard, Acrylic paint, Acrylic paint, Fiberboard, Plastic edging, Acrylic paint, Drop-leaf: Solid pine, Adhesive, Stain, Clear acrylic lacquer, Stain, Clear lacquer, End cap: Polypropylene
+Brand: IKEA
+
+# @ITEMS
+- VIHALS / VIHALS table and 2 folding chairs, gateleg table white/white: /products/dining-sets-up-to-2-seats/09590254.txt
+- VIHALS / VIHALS table and 2 folding chairs, gateleg table white/red: /products/dining-sets-up-to-2-seats/59590256.txt
+- VIHALS / VIHALS table and 2 folding chairs, gateleg table white/green: /products/dining-sets-up-to-2-seats/79590255.txt
+- VIHALS / VIHALS table and 2 chairs, white white/white Tibbleby beige-gray: /products/dining-sets-up-to-2-seats/69599435.txt
+- VIHALS / VIHALS table and 2 chairs, white white/white: /products/dining-sets-up-to-2-seats/29589933.txt
+- VIHALS / VIHALS table and 2 chairs, white/white Tibbleby beige-gray: /products/dining-sets-up-to-2-seats/09599481.txt
+- VIHALS / VIHALS table and 2 chairs, white/white: /products/dining-sets-up-to-2-seats/09589953.txt
+- VIHALS / VIHALS table and 2 chairs, white white/green Tibbleby gray-green: /products/dining-sets-up-to-2-seats/09599438.txt
+- VIHALS / VIHALS table and 2 chairs, white/green Tibbleby gray-green: /products/dining-sets-up-to-2-seats/49599484.txt
+- VIHALS / VIHALS table and 2 chairs, gateleg table white/white Tibbleby beige-gray: /products/dining-sets-up-to-2-seats/59599431.txt
+- VIHALS / VIHALS table and 2 chairs, gateleg table white/white: /products/dining-sets-up-to-2-seats/29590253.txt
+- VIHALS / VIHALS table and 2 chairs, gateleg table white/green Tibbleby gray-green: /products/dining-sets-up-to-2-seats/39599427.txt
+- TONSTAD / TONSTAD table and 2 chairs, off-white/Viarp beige/brown off-white: /products/dining-sets-up-to-2-seats/89599712.txt
+- TONSTAD / TONSTAD table and 2 chairs, off-white/off-white Fridtuna light beige: /products/dining-sets-up-to-2-seats/69599708.txt
+- TONSTAD / TONSTAD table and 2 chairs, off-white/Fridtuna light beige off-white: /products/dining-sets-up-to-2-seats/29599705.txt
+- TONSTAD / TONSTAD table and 2 chairs, off-white/Bomstad golden brown off-white: /products/dining-sets-up-to-2-seats/19599763.txt
+- TONSTAD / TONSTAD table and 2 chairs, brown oak effect/Viarp beige/brown brown oak effect: /products/dining-sets-up-to-2-seats/69602268.txt
+- TONSTAD / TONSTAD table and 2 chairs, brown oak effect/Fridtuna light beige brown oak effect: /products/dining-sets-up-to-2-seats/29602265.txt
+- TONSTAD / TONSTAD table and 2 chairs, brown oak effect/brown oak effect Fridtuna light beige: /products/dining-sets-up-to-2-seats/69602249.txt
+- TONSTAD / TONSTAD table and 2 chairs, brown oak effect/Bomstad golden brown brown oak effect: /products/dining-sets-up-to-2-seats/99602262.txt
+- TONSTAD table and 2 chairs, off-white/Tonerud dark beige: /products/dining-sets-up-to-2-seats/99599702.txt
+- TONSTAD table and 2 chairs, off-white/Tonerud blue: /products/dining-sets-up-to-2-seats/99599698.txt
+- TONSTAD / GRÖNSTA table and 2 chairs, off-white/white: /products/dining-sets-up-to-2-seats/79596592.txt
+- TONSTAD / GRÖNSTA table and 2 chairs, brown oak effect/white: /products/dining-sets-up-to-2-seats/09596784.txt
+- TONSTAD / GRÖNSTA table and 2 chairs, brown oak effect/gray-turquoise: /products/dining-sets-up-to-2-seats/79596813.txt
+- STENSELE / ÖSTANÖ table and 2 chairs, anthracite anthracite/Remmarn dark gray: /products/dining-sets-up-to-2-seats/89569423.txt
+- STENSELE / ODGER table and 2 chairs, anthracite anthracite/anthracite: /products/dining-sets-up-to-2-seats/99569465.txt
+- STENSELE / LIDÅS table and 2 chairs, anthracite anthracite/black/black: /products/dining-sets-up-to-2-seats/69569462.txt
+- STENSELE / KARLPETTER table and 2 chairs, anthracite anthracite/Gunnared medium grey black: /products/dining-sets-up-to-2-seats/89569418.txt
+- PINNTORP / PINNTORP table and 2 chairs, light brown stained white stained/light brown stained: /products/dining-sets-up-to-2-seats/69484444.txt
+- PINNTORP / PINNTORP table and 2 chairs, light brown stained white stained/light brown stained: /products/dining-sets-up-to-2-seats/49564446.txt
+- NORDVIKEN / SKOGSBO table and 2 chairs, black/dark brown: /products/dining-sets-up-to-2-seats/89528201.txt
+- NORDVIKEN / NORDVIKEN table and 2 chairs, black/black: /products/dining-sets-up-to-2-seats/89305074.txt
+- NORDVIKEN / INGOLF table and 2 chairs, black/Nolhaga grey-beige brown-black: /products/dining-sets-up-to-2-seats/99571623.txt
+- NORBERG / KÄTTIL table and 2 chairs, white/Knisa light gray: /products/dining-sets-up-to-2-seats/69480832.txt
+- NORBERG / FRANKLIN table and 2 chairs, white/white: /products/dining-sets-up-to-2-seats/69481695.txt
+- NORBERG / FRANKLIN table and 2 chairs, white/black: /products/dining-sets-up-to-2-seats/49480847.txt
+- NÄSINGE / NORDVIKEN table and 2 chairs, white/white: /products/dining-sets-up-to-2-seats/79602625.txt
+- NÄSINGE / NORDVIKEN table and 2 chairs, white/white: /products/dining-sets-up-to-2-seats/59602626.txt
+- NÄSINGE / NORDVIKEN table and 2 chairs, white/white: /products/dining-sets-up-to-2-seats/39596933.txt
+- NÄSINGE / NÄSINGE table and 2 chairs, white/white Tibbleby beige-gray: /products/dining-sets-up-to-2-seats/29602331.txt
+- NÄSINGE / NÄSINGE table and 2 chairs, dark brown stained beech veneer/dark brown Kilanda light beige: /products/dining-sets-up-to-2-seats/09602351.txt
+- NÄSINGE / BERGMUND table and 2 chairs, white/Gunnared medium grey white: /products/dining-sets-up-to-2-seats/29602939.txt
+- NÄSINGE / BERGMUND table and 2 chairs, dark brown stained beech veneer/Orrsta light grey black: /products/dining-sets-up-to-2-seats/89602936.txt
+- NÄSINGE / BERGMUND table and 2 chairs, dark brown stained beech veneer/Gunnared medium grey black: /products/dining-sets-up-to-2-seats/59602933.txt
+- MELLTORP / MARIUS table and 2 stools, white/black: /products/dining-sets-up-to-2-seats/99011764.txt
+- MELLTORP / LIDÅS table and 2 chairs, white white/white white: /products/dining-sets-up-to-2-seats/29481616.txt
+- MELLTORP / KÄTTIL table and 2 chairs, white/Knisa light gray: /products/dining-sets-up-to-2-seats/69428839.txt
+- MELLTORP / GENESÖN table and 2 chairs, white white/metal blue: /products/dining-sets-up-to-2-seats/99536352.txt
+- MELLTORP / ADDE table and 2 chairs, white: /products/dining-sets-up-to-2-seats/49011766.txt
+- LISABO / LISABO table and 2 chairs, black/Tallmyra black/gray: /products/dining-sets-up-to-2-seats/29554924.txt
+- LISABO / LISABO table and 2 chairs, black/black: /products/dining-sets-up-to-2-seats/49545090.txt
+- LISABO / KARLPETTER table and 2 chairs, black/Gunnared light green black: /products/dining-sets-up-to-2-seats/69568392.txt
+- LISABO / ÄLVSTA table and 2 chairs, black/rattan black: /products/dining-sets-up-to-2-seats/09568371.txt
+- IDANÄS / SKOGSBO table and 2 chairs, white/dark brown: /products/dining-sets-up-to-2-seats/89515114.txt
+- HAUGA / STEFAN table and 2 chairs, gray/brown-black: /products/dining-sets-up-to-2-seats/19574913.txt
+- HAUGA / HAUGA table and 2 chairs, white/white: /products/dining-sets-up-to-2-seats/99574853.txt
+- HAUGA / HAUGA table and 2 chairs, gray/gray: /products/dining-sets-up-to-2-seats/19574908.txt
+- GUNDE / ÖSTANÖ table and 2 chairs, folding black/Remmarn dark gray: /products/dining-sets-up-to-2-seats/19564810.txt
+- GUNDE / GUNDE table and 2 stools, folding black/folding black: /products/dining-sets-up-to-2-seats/19564749.txt
+- GUNDE / GUNDE table and 2 folding chairs, folding black/black: /products/dining-sets-up-to-2-seats/09564599.txt
+- GUNDE / ADDE table and 2 chairs, folding black/black: /products/dining-sets-up-to-2-seats/09564801.txt
+- GRÅSALA / ÖSTANÖ table and 2 chairs, gray/Remmarn red-brown: /products/dining-sets-up-to-2-seats/69497291.txt
+- GRÅSALA / ÖSTANÖ table and 2 chairs, gray/Remmarn dark gray: /products/dining-sets-up-to-2-seats/99497280.txt
+- GRÅSALA / LIDÅS table and 2 chairs, gray/white white: /products/dining-sets-up-to-2-seats/79497276.txt
+- GRÅSALA / GRÅSALA table and 2 chairs, gray gray/gray: /products/dining-sets-up-to-2-seats/09484041.txt
+- GRÅSALA / ADDE table and 2 chairs, gray gray/black: /products/dining-sets-up-to-2-seats/99497256.txt
+- EKEDALEN / LIDÅS table and 2 chairs, white/white white: /products/dining-sets-up-to-2-seats/59570381.txt
+- EKEDALEN / KRYLBO table and 2 chairs, white/Tonerud blue: /products/dining-sets-up-to-2-seats/99570379.txt
+- EKEDALEN / KÄTTIL table and 2 chairs, white/Knisa light gray: /products/dining-sets-up-to-2-seats/79428829.txt
+- EKEDALEN / GRÖNSTA table and 2 chairs, white/white: /products/dining-sets-up-to-2-seats/99548798.txt
+- EKEDALEN / GRÖNSTA table and 2 chairs, white/gray-turquoise: /products/dining-sets-up-to-2-seats/89548794.txt
+- EKEDALEN / BERGMUND table and 2 chairs, white/Orrsta light grey white: /products/dining-sets-up-to-2-seats/19570415.txt
+- DANDERYD / SKOGSTA table and 2 chairs, oak veneer white/acacia: /products/dining-sets-up-to-2-seats/89568094.txt
+- DANDERYD / INGOLF table and 2 chairs, oak veneer white/white: /products/dining-sets-up-to-2-seats/09478399.txt
+- DANDERYD / EBBALYCKE table and 2 chairs, oak veneer white/Idekulla beige: /products/dining-sets-up-to-2-seats/29560109.txt
+- DANDERYD / DANDERYD table and 2 chairs, oak veneer white/Vissle gray: /products/dining-sets-up-to-2-seats/29483936.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

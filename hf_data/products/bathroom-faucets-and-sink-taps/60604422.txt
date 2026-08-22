@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: MACKSJÖN centerset sink faucet, brushed nickel
+SKU: 60604422
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/macksjoen-centerset-sink-faucet-brushed-nickel-60604422/
+Category: Bathroom faucets & sink taps
+Description: , 4" MACKSJÖN centerset sink faucet boasts a robust stainless-steel design and a pressure-compensating aerator for efficient water flow. Its soft curves and smooth surface make cleaning effortless Eas...
+
+# @OFFER
+Price: 70
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Spout: Stainless steel, Metallized, Handle: Zinc, Metallized
+Dimensions: Supply hoses with 9/16" X UNEF connection included. Length: 20".
+Features: Overflow ring, plug lid, fixing screw and waste grill in matching color included. | Fits IKEA wash basins, wash basins from other manufacturers or countertops with predrilled 4" spread holes. | If you are uncertain about the installation, contact a professional. The installation shall be made in accordance with valid local building and plumbing regulations.
+Care: Wipe dry with a clean cloth. | Clean with a soft cloth dampened with water and a mild dish detergent or soap. Never use scouring powder, steel wool or a detergent that is calcium-dissolving, sour or contains alcohol or an abrasive.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/macksjoen-centerset-sink-faucet-brushed-nickel__1435444_pe983831_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

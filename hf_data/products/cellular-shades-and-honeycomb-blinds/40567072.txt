@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HOPPVALS cellular blind, beige
+SKU: 40567072
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hoppvals-cellular-blind-beige-40567072/
+Category: Cellular shades & honeycomb blinds
+Description: , 30x64" This energy-saving blind is inspired by bees. The honeycomb structure inside creates a layer of insulation which helps reduce heating costs. The cord is tucked inside safely out of reach of c...
+
+# @OFFER
+Price: 29.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100% polyester (min. 90% recycled), Top rail: Aluminum, Powder coating, Bottom rail: Galvanized steel, Powder coating, Polyester paint
+Features: RIKTIG draw rod makes it easier to pull down the blind. | The blind cannot be cut. | RIKTIG draw rod is sold separately.
+Care: Do not wash. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hoppvals-cellular-blind-beige__1197570_pe903589_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

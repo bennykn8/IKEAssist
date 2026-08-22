@@ -1,0 +1,28 @@
+# @CATEGORY
+Name: NYSJÖN storage & mirrors
+ProductCount: 6
+
+# @FILTERS
+PriceRange: $57.99 - $269.98
+Materials: Back panel: Fiberboard, Acrylic paint, Handle: 100 % polypropylene, Particleboard, Melamine foil, Plastic edging, Plastic edging, Shelf: Tempered glass, Side panel/ Top/bottom panel/ Shelf/ Door/ Back rail: Particleboard, Melamine foil, Plastic edging, Plastic edging, Side panel/ Top/bottom panel: Particleboard, Melamine foil, Plastic edging, Plastic edging
+Brand: IKEA
+
+# @ITEMS
+- NYSJÖN storage combination for laundry, white: /products/nysjön-storage-and-mirrors/09415953.txt
+- NYSJÖN sink cabinet, white: /products/nysjön-storage-and-mirrors/60470408.txt
+- NYSJÖN mirror cabinet, white: /products/nysjön-storage-and-mirrors/10470830.txt
+- NYSJÖN laundry cabinet, white: /products/nysjön-storage-and-mirrors/40496471.txt
+- NYSJÖN high cabinet, white: /products/nysjön-storage-and-mirrors/20470815.txt
+- NYSJÖN cabinet for washing machine, white: /products/nysjön-storage-and-mirrors/10496477.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,33 @@
+# @CATEGORY
+Name: Outdoor benches
+ProductCount: 11
+
+# @FILTERS
+PriceRange: $89.99 - $354.00
+Materials: 100% polyester (min. 90% recycled), Armrest/ Front rail/ Back rail/ Back/ Main parts: Solid eucalyptus wood, Acrylic stain, Back: Solid acacia wood, Adhesive, Acrylic stain, Cover/ Smolder resistant lining: Polyester wadding, Cushion cover: 100% polyester (min. 90% recycled), Fabric/ Cushion cover: 100% polyester (min. 90% recycled), Filling: 100 % polyester (100% recycled), Foot: Polyamide, Leg/ Seat rail/ Support: Steel, Polyester powder coating, Seat: Solid acacia wood, Acrylic stain
+Brand: IKEA
+
+# @ITEMS
+- TÄRNÖ bench, outdoor, foldable black/light brown stained: /products/outdoor-benches/00534903.txt
+- PÄRONHOLMEN bench with backrest, outdoor, red: /products/outdoor-benches/90503799.txt
+- NORRMANSÖ bench, outdoor, acacia: /products/outdoor-benches/70586696.txt
+- NÄMMARÖ bench with cushion, light brown stained/light grey-beige: /products/outdoor-benches/39575407.txt
+- NÄMMARÖ bench with backrest, outdoor, light brown stained/Frösön/Duvholmen stripe pattern: /products/outdoor-benches/49534973.txt
+- NÄMMARÖ bench with backrest, outdoor, light brown stained: /products/outdoor-benches/30510302.txt
+- NÄMMARÖ bench with backrest and cushions, light brown stained/Kuddarna light grey-beige: /products/outdoor-benches/99578163.txt
+- NÄMMARÖ bench, outdoor, light brown stained: /products/outdoor-benches/60510310.txt
+- BONDHOLMEN bench with backrest, outdoor, brown/Järpön/Duvholmen anthracite: /products/outdoor-benches/19549645.txt
+- BONDHOLMEN bench with backrest, outdoor, brown/Frösön/Duvholmen dark gray: /products/outdoor-benches/69549643.txt
+- BONDHOLMEN bench with backrest, outdoor, brown: /products/outdoor-benches/30558167.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

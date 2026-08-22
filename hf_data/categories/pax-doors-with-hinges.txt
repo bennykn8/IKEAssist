@@ -1,0 +1,85 @@
+# @CATEGORY
+Name: PAX doors with hinges
+ProductCount: 63
+
+# @FILTERS
+PriceRange: $55.00 - $200.00
+Materials: Back panel: Fiberboard, Paper foil, Board on frame: Particleboard, Fiberboard, Plastic edging, Acrylic paint, Board on frame: Particleboard, Fiberboard, Plastic edging, Paper foil, Cover cap: Fiberboard, Clear acrylic lacquer, Door filling: Fiberboard, Acrylic paint, Door frame: Aluminium (min. 70% recycled), Anodized, Door frame: Fiberboard, Acrylic paint, Acrylic paint, Door frame: Fiberboard, Oak veneer, Oak veneer, Clear acrylic lacquer, Plastic edging, Door frame: Fiberboard, Paper foil, Plastic edging, Door frame: Fiberboard, Plastic edging, Paper foil
+Brand: IKEA
+
+# @ITEMS
+- TYSSEDAL door with hinges, white: /products/pax-doors-with-hinges/39090250.txt
+- TYSSEDAL door with hinges, white: /products/pax-doors-with-hinges/19090251.txt
+- TYSSEDAL door with hinges, white/glass: /products/pax-doors-with-hinges/29171949.txt
+- TONSTAD door with hinges, off-white: /products/pax-doors-with-hinges/79553031.txt
+- TONSTAD door with hinges, off-white: /products/pax-doors-with-hinges/19553034.txt
+- TONSTAD door with hinges, oak veneer: /products/pax-doors-with-hinges/99553054.txt
+- TONSTAD door with hinges, oak veneer: /products/pax-doors-with-hinges/59553051.txt
+- TONSTAD door with hinges, oak veneer/glass: /products/pax-doors-with-hinges/99553049.txt
+- TONSTAD door with hinges, oak veneer/glass: /products/pax-doors-with-hinges/59553046.txt
+- TONSTAD door with hinges, brown/stained oak veneer: /products/pax-doors-with-hinges/89553040.txt
+- TONSTAD door with hinges, brown/stained oak veneer: /products/pax-doors-with-hinges/29553038.txt
+- TONSTAD door with hinges, brown/stained oak veneer glass: /products/pax-doors-with-hinges/69553041.txt
+- TONSTAD door with hinges, brown/stained oak veneer glass: /products/pax-doors-with-hinges/09553044.txt
+- STORKLINTA door with hinges, oak effect: /products/pax-doors-with-hinges/99571717.txt
+- STORKLINTA door with hinges, oak effect: /products/pax-doors-with-hinges/69571714.txt
+- STORKLINTA door with hinges, dark brown/oak effect: /products/pax-doors-with-hinges/69571709.txt
+- STORKLINTA door with hinges, dark brown/oak effect: /products/pax-doors-with-hinges/09571712.txt
+- REINSVOLL door with hinges, gray-beige: /products/pax-doors-with-hinges/19335908.txt
+- MISTUDDEN door with hinges, gray/patterned: /products/pax-doors-with-hinges/89553059.txt
+- MISTUDDEN door with hinges, gray/patterned: /products/pax-doors-with-hinges/49553056.txt
+- LINNABERG door with hinges, white: /products/pax-doors-with-hinges/59553065.txt
+- LINNABERG door with hinges, white: /products/pax-doors-with-hinges/09553063.txt
+- KAMMARTORP mirror door w soft closing hinges, gray: /products/pax-doors-with-hinges/99553068.txt
+- KAMMARTORP mirror door w soft closing hinges, gray: /products/pax-doors-with-hinges/59553070.txt
+- GULLABERG door with hinges, white: /products/pax-doors-with-hinges/59571700.txt
+- GULLABERG door with hinges, white: /products/pax-doors-with-hinges/39571697.txt
+- GULLABERG door with hinges, gray: /products/pax-doors-with-hinges/99571703.txt
+- GULLABERG door with hinges, gray: /products/pax-doors-with-hinges/49571705.txt
+- GRIMO door with hinges, white: /products/pax-doors-with-hinges/99183581.txt
+- GRIMO door with hinges, white: /products/pax-doors-with-hinges/59183583.txt
+- GRIMO door with hinges, gray: /products/pax-doors-with-hinges/59332192.txt
+- GRIMO door with hinges, gray: /products/pax-doors-with-hinges/19332194.txt
+- GRIMO door with hinges, gray-green: /products/pax-doors-with-hinges/99573207.txt
+- GRIMO door with hinges, gray-green: /products/pax-doors-with-hinges/69573204.txt
+- FYRUDDEN door with hinges, blue: /products/pax-doors-with-hinges/89573217.txt
+- FYRUDDEN door with hinges, blue: /products/pax-doors-with-hinges/59573214.txt
+- FORSAND door with hinges, white: /products/pax-doors-with-hinges/69287702.txt
+- FORSAND door with hinges, white: /products/pax-doors-with-hinges/69279472.txt
+- FORSAND door with hinges, white: /products/pax-doors-with-hinges/29287704.txt
+- FORSAND door with hinges, white: /products/pax-doors-with-hinges/29279474.txt
+- FORSAND door with hinges, gray-beige: /products/pax-doors-with-hinges/79436259.txt
+- FORSAND door with hinges, gray-beige: /products/pax-doors-with-hinges/19436257.txt
+- FORSAND door with hinges, dark gray: /products/pax-doors-with-hinges/89436254.txt
+- FORSAND door with hinges, dark gray: /products/pax-doors-with-hinges/29436252.txt
+- FARDAL door with hinges, high gloss white: /products/pax-doors-with-hinges/99904189.txt
+- FARDAL door with hinges, high gloss white: /products/pax-doors-with-hinges/89188174.txt
+- FARDAL door with hinges, high gloss white: /products/pax-doors-with-hinges/79904190.txt
+- FARDAL door with hinges, high gloss white: /products/pax-doors-with-hinges/39188176.txt
+- FARDAL door with hinges, high gloss light orange: /products/pax-doors-with-hinges/79573213.txt
+- FARDAL door with hinges, high gloss light orange: /products/pax-doors-with-hinges/39573210.txt
+- FARDAL door with hinges, high gloss/light gray: /products/pax-doors-with-hinges/79177703.txt
+- FARDAL door with hinges, high gloss/light gray: /products/pax-doors-with-hinges/19177701.txt
+- BERGSBO door with hinges, white: /products/pax-doors-with-hinges/89904180.txt
+- BERGSBO door with hinges, white: /products/pax-doors-with-hinges/29904178.txt
+- BERGSBO door with hinges, gray-beige: /products/pax-doors-with-hinges/49436246.txt
+- BERGSBO door with hinges, gray-beige: /products/pax-doors-with-hinges/09436248.txt
+- BERGSBO door with hinges, frosted glass/white: /products/pax-doors-with-hinges/09904179.txt
+- BERGSBO door with hinges, dark gray: /products/pax-doors-with-hinges/79436240.txt
+- BERGSBO door with hinges, dark gray: /products/pax-doors-with-hinges/19436243.txt
+- ÅHEIM door with hinges, mirror glass: /products/pax-doors-with-hinges/69281719.txt
+- ÅHEIM door with hinges, mirror glass: /products/pax-doors-with-hinges/39281725.txt
+- ÅHEIM door with hinges, mirror glass: /products/pax-doors-with-hinges/29281716.txt
+- ÅHEIM door with hinges, mirror glass: /products/pax-doors-with-hinges/09281722.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

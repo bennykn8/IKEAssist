@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SOLFÅGEL canvas pad, 16 pieces
+SKU: 10544223
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/solfagel-canvas-pad-10544223/
+Category: Arts and crafts supplies for kids
+Description: Canvas is a great material to paint or draw on since it’s textured and is both lightweight and durable. This pad suits those who want to experiment with acrylic paints or colored pencils. A high-quali...
+
+# @OFFER
+Price: 5.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Solid cardboard
+Features: May be completed with SOLFÅGEL acrylic paints and/or colored pencils.
+Care: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/solfagel-canvas-pad__1165582_pe890901_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

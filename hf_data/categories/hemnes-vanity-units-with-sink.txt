@@ -1,0 +1,48 @@
+# @CATEGORY
+Name: HEMNES vanity units with sink
+ProductCount: 26
+
+# @FILTERS
+PriceRange: $439.00 - $984.00
+Materials: Drawer bottom: Particleboard, High-pressure melamine laminate, High-pressure melamine laminate, Plastic edging, Drawer sides/ Drawer back/ Drawer divider: Solid pine, Adhesive, Clear acrylic lacquer, Drawer sides/ Drawer back: Solid pine, Adhesive, Clear acrylic lacquer, Filling, side: Particleboard, Melamine foil, Acrylic paint, Melamine foil, Frame: Fiberboard, Pigmented epoxy/polyester powder coating, Main parts/ Drawer front: Solid pine, Adhesive, Stain, Clear acrylic lacquer, Support rail: Fiberboard, Acrylic paint
+Brand: IKEA
+
+# @ITEMS
+- HEMNES / TOLKEN Bathroom vanity with sink & faucets, white/white marble effect: /products/hemnes-vanity-units-with-sink/69578635.txt
+- HEMNES / TOLKEN Bathroom vanity with sink & faucet, white/white marble effect: /products/hemnes-vanity-units-with-sink/99578629.txt
+- HEMNES / TOLKEN Bathroom vanity with sink & faucet, white/white marble effect: /products/hemnes-vanity-units-with-sink/59578631.txt
+- HEMNES / TOLKEN Bathroom vanity with sink & faucet, white/white marble effect: /products/hemnes-vanity-units-with-sink/19578633.txt
+- HEMNES / RUTSJÖN Bathroom vanity with sink & faucet, white: /products/hemnes-vanity-units-with-sink/69578621.txt
+- HEMNES / RUTSJÖN Bathroom vanity with sink & faucet, white: /products/hemnes-vanity-units-with-sink/39578627.txt
+- HEMNES / RUTSJÖN Bathroom vanity with sink & faucet, gray: /products/hemnes-vanity-units-with-sink/59579174.txt
+- HEMNES / RUTSJÖN Bathroom vanity with sink & faucet, gray: /products/hemnes-vanity-units-with-sink/19579171.txt
+- HEMNES / RUTSJÖN Bathroom vanity with sink & faucet, gray: /products/hemnes-vanity-units-with-sink/09579176.txt
+- HEMNES / RUTSJÖN Bathroom vanity with sink & faucet, blue: /products/hemnes-vanity-units-with-sink/99579172.txt
+- HEMNES / ORRSJÖN Double vanity with sink & faucet, gray: /products/hemnes-vanity-units-with-sink/79536895.txt
+- HEMNES / ORRSJÖN Bathroom vanity with sink & faucets, white: /products/hemnes-vanity-units-with-sink/49578617.txt
+- HEMNES / ORRSJÖN Bathroom vanity with sink & faucets, white: /products/hemnes-vanity-units-with-sink/29578618.txt
+- HEMNES / ORRSJÖN Bathroom vanity with sink & faucets, gray: /products/hemnes-vanity-units-with-sink/99579167.txt
+- HEMNES / ORRSJÖN Bathroom vanity with sink & faucets, gray: /products/hemnes-vanity-units-with-sink/79579168.txt
+- HEMNES / ORRSJÖN Bathroom vanity with sink & faucet, white: /products/hemnes-vanity-units-with-sink/89578615.txt
+- HEMNES / ORRSJÖN Bathroom vanity with sink & faucet, white: /products/hemnes-vanity-units-with-sink/59578612.txt
+- HEMNES / ORRSJÖN Bathroom vanity with sink & faucet, white: /products/hemnes-vanity-units-with-sink/19578614.txt
+- HEMNES / ORRSJÖN Bathroom vanity with sink & faucet, gray: /products/hemnes-vanity-units-with-sink/69579164.txt
+- HEMNES / ORRSJÖN Bathroom vanity with sink & faucet, gray: /products/hemnes-vanity-units-with-sink/69579159.txt
+- HEMNES / ORRSJÖN Bathroom vanity with sink & faucet, gray: /products/hemnes-vanity-units-with-sink/69536749.txt
+- HEMNES / ORRSJÖN Bathroom vanity with sink & faucet, gray: /products/hemnes-vanity-units-with-sink/59536844.txt
+- HEMNES / ORRSJÖN Bathroom vanity with sink & faucet, gray: /products/hemnes-vanity-units-with-sink/39579165.txt
+- HEMNES / ORRSJÖN Bathroom vanity with sink & faucet, gray: /products/hemnes-vanity-units-with-sink/09579162.txt
+- HEMNES / ORRSJÖN Bathroom vanity with sink & faucet, blue: /products/hemnes-vanity-units-with-sink/49579160.txt
+- HEMNES / ORRSJÖN Bathroom vanity with sink & faucet, blue: /products/hemnes-vanity-units-with-sink/09579157.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

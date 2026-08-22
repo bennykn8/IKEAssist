@@ -1,0 +1,29 @@
+# @CATEGORY
+Name: Tea pots, kettles & accessories
+ProductCount: 7
+
+# @FILTERS
+PriceRange: $3.99 - $24.99
+Materials: Body: Heat resistant glass, Body: Stainless steel, Phenolic plastic, Feldspar porcelain, Colored glaze, Insert: Stainless steel, Polypropylene, Lid: Polypropylene, Stainless steel, Stoneware, Colored glaze, Whistle: Melamine
+Brand: IKEA
+
+# @ITEMS
+- VATTENTÄT kettle, stainless steel/black, 2 qt: /products/tea-pots-kettles-and-accessories/10612504.txt
+- UPPLAGA teapot, white, 1.3 qt: /products/tea-pots-kettles-and-accessories/80560295.txt
+- RIKLIG teapot, glass, 1.6 qt: /products/tea-pots-kettles-and-accessories/90150071.txt
+- RIKLIG Teapot, glass, Height: 4" Volume: 0.6 qt: /products/tea-pots-kettles-and-accessories/40297848.txt
+- LJUDLÖS tea infuser, stainless steel: /products/tea-pots-kettles-and-accessories/80360239.txt
+- IDEALISK tea infuser, stainless steel: /products/tea-pots-kettles-and-accessories/46956800.txt
+- GLADELIG teapot, gray, 1.3 qt: /products/tea-pots-kettles-and-accessories/00537548.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

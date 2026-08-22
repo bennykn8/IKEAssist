@@ -1,0 +1,62 @@
+# @CATEGORY
+Name: PAX frames for hinge doors
+ProductCount: 40
+
+# @FILTERS
+PriceRange: $130.00 - $190.00
+Materials: Back panel: Fiberboard, Paper foil, Fiberboard, Particleboard, Paper foil, Main parts/ Top panel/ Bottom panel/ Plinth: Particleboard, Paper foil, Particleboard, Fiberboard, Paper foil
+Brand: IKEA
+
+# @ITEMS
+- PAX wall-mounted storage frame, white: /products/pax-frames-for-hinge-doors/90588166.txt
+- PAX wall-mounted storage frame, white: /products/pax-frames-for-hinge-doors/80588162.txt
+- PAX wall-mounted storage frame, white: /products/pax-frames-for-hinge-doors/80588157.txt
+- PAX wall-mounted storage frame, white: /products/pax-frames-for-hinge-doors/70588167.txt
+- PAX wall-mounted storage frame, white: /products/pax-frames-for-hinge-doors/60589006.txt
+- PAX wall-mounted storage frame, white: /products/pax-frames-for-hinge-doors/60588158.txt
+- PAX wall-mounted storage frame, white: /products/pax-frames-for-hinge-doors/40588164.txt
+- PAX wall-mounted storage frame, white: /products/pax-frames-for-hinge-doors/40588159.txt
+- PAX wall-mounted storage frame, white: /products/pax-frames-for-hinge-doors/20588160.txt
+- PAX wall-mounted storage frame, white: /products/pax-frames-for-hinge-doors/10588165.txt
+- PAX wall-mounted storage frame, white: /products/pax-frames-for-hinge-doors/00588161.txt
+- PAX wall-mounted storage frame, white: /products/pax-frames-for-hinge-doors/00588156.txt
+- PAX wall-mounted storage frame, gray-beige: /products/pax-frames-for-hinge-doors/90588185.txt
+- PAX wall-mounted storage frame, gray-beige: /products/pax-frames-for-hinge-doors/70588186.txt
+- PAX wall-mounted storage frame, gray-beige: /products/pax-frames-for-hinge-doors/60588182.txt
+- PAX wall-mounted storage frame, gray-beige: /products/pax-frames-for-hinge-doors/50588187.txt
+- PAX wall-mounted storage frame, gray-beige: /products/pax-frames-for-hinge-doors/40588183.txt
+- PAX wall-mounted storage frame, gray-beige: /products/pax-frames-for-hinge-doors/20588184.txt
+- PAX wall-mounted storage frame, dark gray: /products/pax-frames-for-hinge-doors/90588171.txt
+- PAX wall-mounted storage frame, dark gray: /products/pax-frames-for-hinge-doors/80588181.txt
+- PAX wall-mounted storage frame, dark gray: /products/pax-frames-for-hinge-doors/80588176.txt
+- PAX wall-mounted storage frame, dark gray: /products/pax-frames-for-hinge-doors/70588172.txt
+- PAX wall-mounted storage frame, dark gray: /products/pax-frames-for-hinge-doors/60588177.txt
+- PAX wall-mounted storage frame, dark gray: /products/pax-frames-for-hinge-doors/50588173.txt
+- PAX wall-mounted storage frame, dark gray: /products/pax-frames-for-hinge-doors/50588168.txt
+- PAX wall-mounted storage frame, dark gray: /products/pax-frames-for-hinge-doors/40588178.txt
+- PAX wall-mounted storage frame, dark gray: /products/pax-frames-for-hinge-doors/30588169.txt
+- PAX wall-mounted storage frame, dark gray: /products/pax-frames-for-hinge-doors/20588179.txt
+- PAX wall-mounted storage frame, dark gray: /products/pax-frames-for-hinge-doors/10588170.txt
+- PAX wall-mounted storage frame, dark gray: /products/pax-frames-for-hinge-doors/00588175.txt
+- PAX add-on corner unit with 4 shelves, white: /products/pax-frames-for-hinge-doors/80346941.txt
+- PAX add-on corner unit with 4 shelves, white: /products/pax-frames-for-hinge-doors/70346932.txt
+- PAX add-on corner unit with 4 shelves, white: /products/pax-frames-for-hinge-doors/40346938.txt
+- PAX add-on corner unit with 4 shelves, white: /products/pax-frames-for-hinge-doors/30346934.txt
+- PAX add-on corner unit with 4 shelves, gray-beige: /products/pax-frames-for-hinge-doors/50515110.txt
+- PAX add-on corner unit with 4 shelves, gray-beige: /products/pax-frames-for-hinge-doors/10515112.txt
+- PAX add-on corner unit with 4 shelves, dark gray: /products/pax-frames-for-hinge-doors/70515114.txt
+- PAX add-on corner unit with 4 shelves, dark gray: /products/pax-frames-for-hinge-doors/60515119.txt
+- PAX add-on corner unit with 4 shelves, dark gray: /products/pax-frames-for-hinge-doors/20515121.txt
+- PAX add-on corner unit with 4 shelves, dark gray: /products/pax-frames-for-hinge-doors/20515116.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

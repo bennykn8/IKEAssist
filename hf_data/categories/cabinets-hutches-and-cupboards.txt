@@ -1,0 +1,148 @@
+# @CATEGORY
+Name: Cabinets, hutches & cupboards
+ProductCount: 126
+
+# @FILTERS
+PriceRange: $40.00 - $1620.00
+Materials: Adjustable shelf/ Drawer front/ Drawer side/ Door panel: Particleboard, Walnut veneer, Clear acrylic lacquer, Walnut veneer, Back panel/ Door frame/ Door panel: Fiberboard, Acrylic paint, Back panel/ Drawer bottom: Fiberboard, Acrylic paint, Back panel/ Upper back panel: Fiberboard, Paper foil, Back panel: Fiberboard, Back panel: Fiberboard, Acrylic paint, Back panel: Fiberboard, Acrylic paint, Paper foil, Back panel: Fiberboard, Paper foil, Acrylic paint, Back panel: Fiberboard, Paper foil, Plastic foil, Back panel: Fiberboard, Plastic foil
+Brand: IKEA
+
+# @ITEMS
+- VIHALS storage combination, white: /products/cabinets-hutches-and-cupboards/29440616.txt
+- VIHALS cabinet with sliding doors, white: /products/cabinets-hutches-and-cupboards/20483262.txt
+- VIHALS cabinet with sliding doors, dark gray: /products/cabinets-hutches-and-cupboards/90542890.txt
+- TULLSTORP cabinet, gray: /products/cabinets-hutches-and-cupboards/40498432.txt
+- TONSTAD storage combination with drawers, off-white/glass: /products/cabinets-hutches-and-cupboards/99575739.txt
+- TONSTAD storage combination with drawers, off-white/glass: /products/cabinets-hutches-and-cupboards/69575745.txt
+- TONSTAD storage combination with drawers, off-white/glass: /products/cabinets-hutches-and-cupboards/39575742.txt
+- TONSTAD storage combination with drawers, brown stained oak veneer/glass: /products/cabinets-hutches-and-cupboards/19575743.txt
+- TONSTAD storage combination w sliding doors, off-white: /products/cabinets-hutches-and-cupboards/29571848.txt
+- TONSTAD storage combination w sliding doors, oak veneer: /products/cabinets-hutches-and-cupboards/79570257.txt
+- TONSTAD storage combination w sliding doors, brown stained oak veneer: /products/cabinets-hutches-and-cupboards/19570255.txt
+- TONSTAD storage combination, off-white: /products/cabinets-hutches-and-cupboards/89571850.txt
+- TONSTAD storage combination, off-white: /products/cabinets-hutches-and-cupboards/89571845.txt
+- TONSTAD storage combination, off-white: /products/cabinets-hutches-and-cupboards/59571757.txt
+- TONSTAD storage combination, oak veneer: /products/cabinets-hutches-and-cupboards/49570273.txt
+- TONSTAD storage combination, brown stained oak veneer: /products/cabinets-hutches-and-cupboards/89570271.txt
+- TONSTAD cabinet with sliding doors, off-white: /products/cabinets-hutches-and-cupboards/30488886.txt
+- TONSTAD cabinet with sliding doors, oak veneer: /products/cabinets-hutches-and-cupboards/10489231.txt
+- TONSTAD cabinet with sliding doors, brown stained oak veneer: /products/cabinets-hutches-and-cupboards/30489230.txt
+- TONSTAD cabinet with doors, off-white: /products/cabinets-hutches-and-cupboards/30509997.txt
+- TONSTAD cabinet with doors, oak veneer: /products/cabinets-hutches-and-cupboards/70509995.txt
+- TONSTAD cabinet with doors, brown stained oak veneer: /products/cabinets-hutches-and-cupboards/50509996.txt
+- STOCKHOLM cabinet with 2 drawers, walnut veneer: /products/cabinets-hutches-and-cupboards/80239724.txt
+- STOCKHOLM 2025 cabinet with sliding doors, rattan/pine: /products/cabinets-hutches-and-cupboards/70586639.txt
+- STOCKHOLM 2025 cabinet with 2 doors, oak veneer/dark brown: /products/cabinets-hutches-and-cupboards/10586487.txt
+- STOCKHOLM 2025 cabinet with 2 doors, oak veneer: /products/cabinets-hutches-and-cupboards/90586488.txt
+- STOCKHOLM 2025 cabinet with 2 doors, green: /products/cabinets-hutches-and-cupboards/10586492.txt
+- SPIKSMED cabinet, light gray: /products/cabinets-hutches-and-cupboards/10520873.txt
+- SPIKSMED cabinet combination, light gray: /products/cabinets-hutches-and-cupboards/49535289.txt
+- SPIKSMED cabinet combination, light gray: /products/cabinets-hutches-and-cupboards/39503316.txt
+- SKRUVBY storage combination, white: /products/cabinets-hutches-and-cupboards/39525605.txt
+- SKRUVBY storage combination w/glass doors, white: /products/cabinets-hutches-and-cupboards/19525611.txt
+- SKRUVBY storage combination w/glass doors, black-blue: /products/cabinets-hutches-and-cupboards/79525608.txt
+- SKRUVBY storage combination, black-blue: /products/cabinets-hutches-and-cupboards/69525604.txt
+- SKRUVBY cabinet with doors, white: /products/cabinets-hutches-and-cupboards/20503547.txt
+- SKRUVBY cabinet with doors, black-blue: /products/cabinets-hutches-and-cupboards/30520358.txt
+- SÅGMÄSTARE storage combination: /products/cabinets-hutches-and-cupboards/39579962.txt
+- SÅGMÄSTARE cabinet, light gray-blue: /products/cabinets-hutches-and-cupboards/90555364.txt
+- REGISSÖR Cabinet, white: /products/cabinets-hutches-and-cupboards/40342073.txt
+- REGISSÖR Cabinet, brown: /products/cabinets-hutches-and-cupboards/60342072.txt
+- LOMMARP cabinet with glass doors, light beige: /products/cabinets-hutches-and-cupboards/80436994.txt
+- LOMMARP Cabinet with glass doors, dark blue-green: /products/cabinets-hutches-and-cupboards/40383737.txt
+- LOMMARP cabinet with glass doors, black: /products/cabinets-hutches-and-cupboards/90508527.txt
+- LOMMARP cabinet, light beige: /products/cabinets-hutches-and-cupboards/70483028.txt
+- LOMMARP cabinet, dark blue-green: /products/cabinets-hutches-and-cupboards/90483027.txt
+- LOMMARP cabinet, black: /products/cabinets-hutches-and-cupboards/10508526.txt
+- LIXHULT storage combination, gray: /products/cabinets-hutches-and-cupboards/29279186.txt
+- LIXHULT storage combination, gray: /products/cabinets-hutches-and-cupboards/19279177.txt
+- LIXHULT storage combination, gray/anthracite: /products/cabinets-hutches-and-cupboards/09388365.txt
+- LIXHULT storage combination, anthracite: /products/cabinets-hutches-and-cupboards/79388362.txt
+- LIXHULT storage combination, anthracite: /products/cabinets-hutches-and-cupboards/39388359.txt
+- LIXHULT cabinet, metal/gray: /products/cabinets-hutches-and-cupboards/70328669.txt
+- LIXHULT cabinet, metal/anthracite: /products/cabinets-hutches-and-cupboards/20476520.txt
+- LEDAMOT cabinet, light grey-beige: /products/cabinets-hutches-and-cupboards/40544740.txt
+- KALKNÄS cabinet with sliding doors, white: /products/cabinets-hutches-and-cupboards/90496261.txt
+- KALKNÄS cabinet with sliding doors, white: /products/cabinets-hutches-and-cupboards/30496264.txt
+- IKEA PS Cabinet, white: /products/cabinets-hutches-and-cupboards/10251451.txt
+- IDANÄS high cabinet w gls-drs and 1 drawer, dark brown stained: /products/cabinets-hutches-and-cupboards/80490108.txt
+- IDANÄS cabinet with bi-fold glass doors, dark brown stained: /products/cabinets-hutches-and-cupboards/90509621.txt
+- HAVSTA storage with sliding glass doors, white: /products/cabinets-hutches-and-cupboards/39534761.txt
+- HAVSTA storage with sliding glass doors, white: /products/cabinets-hutches-and-cupboards/19534880.txt
+- HAVSTA storage with sliding glass doors, gray-beige: /products/cabinets-hutches-and-cupboards/59534760.txt
+- HAVSTA storage with sliding glass doors, gray-beige: /products/cabinets-hutches-and-cupboards/39534879.txt
+- HAVSTA storage with sliding glass doors, black: /products/cabinets-hutches-and-cupboards/79534759.txt
+- HAVSTA storage with sliding glass doors, black: /products/cabinets-hutches-and-cupboards/59534878.txt
+- HAVSTA storage combination with doors, white: /products/cabinets-hutches-and-cupboards/59534755.txt
+- HAVSTA storage combination with doors, gray-beige: /products/cabinets-hutches-and-cupboards/09534753.txt
+- HAVSTA storage combination with doors, black: /products/cabinets-hutches-and-cupboards/29534752.txt
+- HAVSTA storage combination, white: /products/cabinets-hutches-and-cupboards/79534679.txt
+- HAVSTA storage combination w sliding doors, white: /products/cabinets-hutches-and-cupboards/39534836.txt
+- HAVSTA storage combination w sliding doors, gray-beige: /products/cabinets-hutches-and-cupboards/69534830.txt
+- HAVSTA storage combination w sliding doors, black: /products/cabinets-hutches-and-cupboards/89534829.txt
+- HAVSTA storage combination w/glass doors, white: /products/cabinets-hutches-and-cupboards/79534735.txt
+- HAVSTA storage combination w/glass doors, white: /products/cabinets-hutches-and-cupboards/39534902.txt
+- HAVSTA storage combination w/glass doors, gray-beige: /products/cabinets-hutches-and-cupboards/69534892.txt
+- HAVSTA storage combination w/glass doors, gray-beige: /products/cabinets-hutches-and-cupboards/59534901.txt
+- HAVSTA storage combination w/glass doors, gray-beige: /products/cabinets-hutches-and-cupboards/09534734.txt
+- HAVSTA storage combination w/glass doors, black: /products/cabinets-hutches-and-cupboards/89534891.txt
+- HAVSTA storage combination w/glass doors, black: /products/cabinets-hutches-and-cupboards/79534900.txt
+- HAVSTA storage combination w/glass doors, black: /products/cabinets-hutches-and-cupboards/29534733.txt
+- HAVSTA storage combination, gray-beige: /products/cabinets-hutches-and-cupboards/09534673.txt
+- HAVSTA storage combination, black: /products/cabinets-hutches-and-cupboards/19534677.txt
+- HAVSTA cabinet with base, white: /products/cabinets-hutches-and-cupboards/29534667.txt
+- HAVSTA cabinet with base, white: /products/cabinets-hutches-and-cupboards/00529242.txt
+- HAVSTA cabinet with base, gray-beige: /products/cabinets-hutches-and-cupboards/39534662.txt
+- HAVSTA cabinet with base, gray-beige: /products/cabinets-hutches-and-cupboards/80529238.txt
+- HAVSTA cabinet with base, black: /products/cabinets-hutches-and-cupboards/19534663.txt
+- HAVSTA cabinet with base, black: /products/cabinets-hutches-and-cupboards/50559646.txt
+- HAVSTA cabinet, white: /products/cabinets-hutches-and-cupboards/50529249.txt
+- HAVSTA cabinet, gray-beige: /products/cabinets-hutches-and-cupboards/30529245.txt
+- HAVSTA cabinet, black: /products/cabinets-hutches-and-cupboards/90529247.txt
+- HAVSTA base frame, gray-beige: /products/cabinets-hutches-and-cupboards/80539652.txt
+- HAVSTA base frame, gray-beige: /products/cabinets-hutches-and-cupboards/20539645.txt
+- HAUGA storage combination, white: /products/cabinets-hutches-and-cupboards/79443919.txt
+- HAUGA storage combination, gray: /products/cabinets-hutches-and-cupboards/99443918.txt
+- HAUGA sideboard, white: /products/cabinets-hutches-and-cupboards/50596559.txt
+- HAUGA high cabinet with 2 doors, white: /products/cabinets-hutches-and-cupboards/20415046.txt
+- HAUGA high cabinet with 2 doors, gray: /products/cabinets-hutches-and-cupboards/60415054.txt
+- HAUGA cabinet with 2 doors, white: /products/cabinets-hutches-and-cupboards/30519637.txt
+- HAUGA cabinet with 2 doors, gray: /products/cabinets-hutches-and-cupboards/50519636.txt
+- FRYKSÅS cabinet, rattan: /products/cabinets-hutches-and-cupboards/40574096.txt
+- BRIMNES Cabinet with doors, white: /products/cabinets-hutches-and-cupboards/40300662.txt
+- BRIMNES cabinet with doors, black: /products/cabinets-hutches-and-cupboards/80300660.txt
+- BESTÅ wall-mounted cabinet combination, white stained oak effect/Lappviken white stained oak effect: /products/cabinets-hutches-and-cupboards/29412487.txt
+- BESTÅ wall-mounted cabinet combination, white/Selsviken high-gloss/white: /products/cabinets-hutches-and-cupboards/99412484.txt
+- BESTÅ wall-mounted cabinet combination, white/Riksviken light bronze effect: /products/cabinets-hutches-and-cupboards/79412475.txt
+- BESTÅ wall-mounted cabinet combination, white/Lappviken white: /products/cabinets-hutches-and-cupboards/89425910.txt
+- BESTÅ wall-mounted cabinet combination, white/Hedeviken oak veneer: /products/cabinets-hutches-and-cupboards/49417865.txt
+- BESTÅ wall-mounted cabinet combination, white/Hanviken white: /products/cabinets-hutches-and-cupboards/49425912.txt
+- BESTÅ wall-mounted cabinet combination, white/Björköviken birch veneer: /products/cabinets-hutches-and-cupboards/29421793.txt
+- BESTÅ wall-mounted cabinet combination, white Bergsviken/black marble effect: /products/cabinets-hutches-and-cupboards/79421795.txt
+- BESTÅ wall-mounted cabinet combination, dark gray/Mörtviken dark gray: /products/cabinets-hutches-and-cupboards/29508116.txt
+- BESTÅ wall-mounted cabinet combination, dark gray/Lappviken dark gray: /products/cabinets-hutches-and-cupboards/99508113.txt
+- BESTÅ wall-mounted cabinet combination, dark gray/Kallviken concrete effect: /products/cabinets-hutches-and-cupboards/19508112.txt
+- BESTÅ wall-mounted cabinet combination, dark gray/Bergsviken black: /products/cabinets-hutches-and-cupboards/79508114.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Selsviken high-gloss/black: /products/cabinets-hutches-and-cupboards/29412468.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Selsviken high-gloss/beige: /products/cabinets-hutches-and-cupboards/89412465.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Riksviken light bronze effect: /products/cabinets-hutches-and-cupboards/29425913.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Mörtviken black: /products/cabinets-hutches-and-cupboards/49412453.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Lappviken black-brown: /products/cabinets-hutches-and-cupboards/09425909.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Kallviken concrete effect: /products/cabinets-hutches-and-cupboards/79412456.txt
+- BESTÅ wall-mounted cabinet combination, black-brown Hedeviken/oak veneer: /products/cabinets-hutches-and-cupboards/19424117.txt
+- BESTÅ wall-mounted cabinet combination, black-brown Hedeviken/dark brown stained oak veneer: /products/cabinets-hutches-and-cupboards/19417862.txt
+- BESTÅ wall-mounted cabinet combination, black-brown/Hanviken black-brown: /products/cabinets-hutches-and-cupboards/69425911.txt
+- BESTÅ wall-mounted cabinet combination, black-brown Björköviken/brown stained oak veneer: /products/cabinets-hutches-and-cupboards/89421790.txt
+- BESTÅ wall-mounted cabinet combination, black-brown Bergsviken/black marble effect: /products/cabinets-hutches-and-cupboards/09421789.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

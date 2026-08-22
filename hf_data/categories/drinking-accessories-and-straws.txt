@@ -1,0 +1,29 @@
+# @CATEGORY
+Name: Drinking accessories & straws
+ProductCount: 7
+
+# @FILTERS
+PriceRange: $3.99 - $19.99
+Materials: Brush: Stainless steel, Coir and coconut husk, Handle/ Tongs/ Screw/ Nut: Stainless steel, Main parts: Glass, Main parts: Stainless steel, Paper, Pestle: Solid rubberwood, Oil, Stainless steel, Straw/ Spoon: Stainless steel, Straw: Stainless steel, Zinc, Nickel plated
+Brand: IKEA
+
+# @ITEMS
+- SEGELFISK corkscrew, stainless steel: /products/drinking-accessories-and-straws/60531548.txt
+- LUFTTÄT drinking straws/brush set of 5, mixed shapes mixed colors: /products/drinking-accessories-and-straws/20561288.txt
+- LUFTTÄT 5-pc drink strw/spoon set w clng br, stainless steel: /products/drinking-accessories-and-straws/40561287.txt
+- LUFTTÄT 3-piece bar set, stainless steel/wood: /products/drinking-accessories-and-straws/10428624.txt
+- IDEALISK corkscrew, silver color/matte: /products/drinking-accessories-and-straws/10149029.txt
+- FRÖJDA ice bucket with tongs, clear glass/stainless steel: /products/drinking-accessories-and-straws/10581338.txt
+- FÖRNYANDE drinking straw, paper/white: /products/drinking-accessories-and-straws/90445592.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

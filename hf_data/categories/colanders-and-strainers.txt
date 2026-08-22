@@ -1,0 +1,35 @@
+# @CATEGORY
+Name: Colanders & strainers
+ProductCount: 13
+
+# @FILTERS
+PriceRange: $1.99 - $29.99
+Materials: Cup: Polypropylene, Edge: Synthetic rubber, Frame: Stainless steel, Stainless steel, Handle: Stainless steel, Lid: Polyethylene, Main parts: Stainless steel, Main parts: Steel, Enamel, Zinc, Chrome plated, Net: Stainless steel, Polypropylene, Polypropylene, Synthetic rubber
+Brand: IKEA
+
+# @ITEMS
+- UPPFYLLD salad spinner, white: /products/colanders-and-strainers/00521948.txt
+- UPPFYLLD salad shaker with strainer, bright green/clear, 47 oz: /products/colanders-and-strainers/40578264.txt
+- UPPFYLLD colander, bright green, 9 ½": /products/colanders-and-strainers/60521945.txt
+- ORDNING colander, stainless steel: /products/colanders-and-strainers/00578204.txt
+- NORRSJÖN Colander, stainless steel: /products/colanders-and-strainers/00339713.txt
+- LILLHAVET colander, anthracite: /products/colanders-and-strainers/50503466.txt
+- KORKEN sifter/funnel set of 3, stainless steel: /products/colanders-and-strainers/10576624.txt
+- KLOCKREN colander, 2.1 qt: /products/colanders-and-strainers/60578116.txt
+- KLOCKREN colander, 5.3 qt: /products/colanders-and-strainers/20578118.txt
+- IDEALISK strainer, stainless steel, 7 ¾": /products/colanders-and-strainers/70578173.txt
+- IDEALISK colander, stainless steel/black: /products/colanders-and-strainers/50578169.txt
+- IDEALISK colander, stainless steel: /products/colanders-and-strainers/30578170.txt
+- GEMAK colander, off-white: /products/colanders-and-strainers/90577889.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

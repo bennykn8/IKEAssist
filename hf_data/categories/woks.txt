@@ -1,0 +1,26 @@
+# @CATEGORY
+Name: Woks
+ProductCount: 4
+
+# @FILTERS
+PriceRange: $14.99 - $34.99
+Materials: Body: Stainless steel, Sol-gel ceramic non-stick coating, Bottom: Stainless steel, Aluminum, Disc: Aluminum, Fire protector: Aluminum, Powder coating, Handle: Phenolic plastic, Polyurethane plastic, Handle: Stainless steel, Main parts: Aluminum, Sol-gel ceramic non-stick coating, Silicone resin paint, Main parts: Stainless steel, Sol-gel ceramic non-stick coating, Protecting plate/ Flame guard/ Rivet: Stainless steel
+Brand: IKEA
+
+# @ITEMS
+- MIDDAGSMAT wok, non-stick coating/stainless steel: /products/woks/90580599.txt
+- MIDDAGSMAT wok, non-stick coating/stainless steel: /products/woks/10580598.txt
+- IKEA 365+ wok, stainless steel/non-stick coating: /products/woks/70580717.txt
+- HEMLAGAD wok with lid, non-stick coating black: /products/woks/50580921.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

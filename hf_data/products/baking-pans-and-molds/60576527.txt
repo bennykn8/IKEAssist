@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MÅNTAGG pie plate, non-stick coating dark gray
+SKU: 60576527
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/mantagg-pie-plate-non-stick-coating-dark-gray-60576527/
+Category: Baking pans & molds
+Description: , 12" Treat friends and family to irresistible desserts – a creamy cheesecake, gooey brownies or a classic apple pie. Steel which distributes heat evenly and non-stick coating guarantee a tasty result...
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Galvanized steel, Coated with Teflon(R) Infinity., Non stick coating
+Features: Wash this product before using it for the first time. | Gently clean with a soft cloth or sponge and mild detergent do not scrub. | Oven-safe up to 230 C°/446 F°.
+Care: Handwash only. | Oven-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/mantagg-pie-plate-non-stick-coating-dark-gray__1172547_pe893347_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,37 @@
+# @CATEGORY
+Name: Curtain track systems for ceiling & walls
+ProductCount: 15
+
+# @FILTERS
+PriceRange: $6.00 - $88.00
+Materials: Acetal plastic, Aluminium (min. 70% recycled), Epoxy/polyester powder coating, Aluminum, Epoxy/polyester powder coating, Ceiling bracket: Steel, Epoxy/polyester powder coating, Clip: ABS plastic, Cover cap: Polypropylene, Galvanized steel, Epoxy/polyester powder coating, Plastic stopper: Synthetic rubber, Rail: Aluminum, Epoxy/polyester powder coating, Wallbracket/ Cover: Aluminum, Epoxy/polyester powder coating
+Brand: IKEA
+
+# @ITEMS
+- VIDGA two track set, white: /products/curtain-track-systems-for-ceiling-and-walls/29428266.txt
+- VIDGA triple curtain  rail, included ceiling fittings/white: /products/curtain-track-systems-for-ceiling-and-walls/70492886.txt
+- VIDGA single track with corner connector, white: /products/curtain-track-systems-for-ceiling-and-walls/59428260.txt
+- VIDGA single track set, white: /products/curtain-track-systems-for-ceiling-and-walls/49428232.txt
+- VIDGA single track set for wall, white: /products/curtain-track-systems-for-ceiling-and-walls/89428254.txt
+- VIDGA single track rail, included ceiling fittings/white: /products/curtain-track-systems-for-ceiling-and-walls/20492916.txt
+- VIDGA single and triple track set, white: /products/curtain-track-systems-for-ceiling-and-walls/39428261.txt
+- VIDGA set for panel curtains, wall mounted/white: /products/curtain-track-systems-for-ceiling-and-walls/29428252.txt
+- VIDGA set for panel curtains, ceiling mounted/white: /products/curtain-track-systems-for-ceiling-and-walls/09428248.txt
+- VIDGA panel curtain holder, white, 23 ½": /products/curtain-track-systems-for-ceiling-and-walls/50483005.txt
+- VIDGA curtain track set f ceiling, 2 trck, white: /products/curtain-track-systems-for-ceiling-and-walls/49571507.txt
+- VIDGA corner solution, white: /products/curtain-track-systems-for-ceiling-and-walls/69428226.txt
+- VIDGA corner room divider, white: /products/curtain-track-systems-for-ceiling-and-walls/69428245.txt
+- VIDGA corner piece, single track, included ceiling hardware/white: /products/curtain-track-systems-for-ceiling-and-walls/30498381.txt
+- FRAMFUSIG single track rail with gliders, white, 39 ¼-70 ¾": /products/curtain-track-systems-for-ceiling-and-walls/00489528.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

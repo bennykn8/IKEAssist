@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BESTÅ drawer runner, push-open
+SKU: 30488315
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/besta-drawer-runner-push-open-30488315/
+Category: BESTÅ fittings & inside organizers
+Description: Want a cleaner expression and drawers that are easy to open, even when you have your hands full? BESTÅ drawer runner has an integrated push-opener – you just open the drawer with a light push!
+
+# @OFFER
+Price: 15
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Galvanized steel
+Features: The push-open function requires a space between the frame and the drawer front to allow the drawer to be pushed to open. The small gap is necessary to allow this function and is not a product deviation. | Includes: 2 drawer runners and 1 synchronization pin.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/besta-drawer-runner-push-open__0981451_pe815371_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

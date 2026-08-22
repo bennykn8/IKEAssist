@@ -1,0 +1,48 @@
+# @CATEGORY
+Name: Edison bulbs
+ProductCount: 26
+
+# @FILTERS
+PriceRange: $3.99 - $24.99
+Materials: Cover/ Diffuser: Polycarbonate plastic, Glass, Heat sink: Aluminum, Powder coating
+Brand: IKEA
+
+# @ITEMS
+- MOLNART LED bulb E26 260 lumen, ellipse shaped multicolor: /products/edison-bulbs/50540464.txt
+- MOLNART LED bulb E26 240 lumen, tube-shaped white/clear glass: /products/edison-bulbs/70540439.txt
+- MOLNART LED bulb E26 150 lumen, tube-shaped clear glass/patterned: /products/edison-bulbs/90561195.txt
+- MOLNART LED bulb E26 150 lumen, mushroom brown clear glass: /products/edison-bulbs/10584879.txt
+- MOLNART LED bulb E26 150 lumen, globe gray clear glass: /products/edison-bulbs/40584892.txt
+- MOLNART LED bulb E26 150 lumen, globe brown clear glass: /products/edison-bulbs/60586362.txt
+- MOLNART LED bulb E26 150 lumen, cylinder glass/stripe: /products/edison-bulbs/00586770.txt
+- MOLNART LED bulb E26 140 lumen, globe gray clear glass: /products/edison-bulbs/40513480.txt
+- MOLNART LED bulb E26 120 lumen, donut-shaped opal, 2400 K: /products/edison-bulbs/00586746.txt
+- LUNNOM LED sign bulb E12 100 lumen, clear: /products/edison-bulbs/90539331.txt
+- LUNNOM LED sign bulb E12 100 lumen, clear: /products/edison-bulbs/10539330.txt
+- LUNNOM LED bulb E26 450 lumen, dimmable/globe clear glass: /products/edison-bulbs/40539376.txt
+- LUNNOM LED bulb E26 450 lumen, dimmable/globe clear glass: /products/edison-bulbs/20539377.txt
+- LUNNOM LED bulb E26 150 lumen, tear drop shape clear: /products/edison-bulbs/60539436.txt
+- LUNNOM LED bulb E26 150 lumen, tear drop shape clear: /products/edison-bulbs/40539437.txt
+- LUNNOM LED bulb E26 150 lumen, globe clear: /products/edison-bulbs/80539360.txt
+- LUNNOM LED bulb E26 150 lumen, globe clear: /products/edison-bulbs/80539322.txt
+- LUNNOM LED bulb E26 150 lumen, globe clear: /products/edison-bulbs/60539361.txt
+- LUNNOM LED bulb E26 150 lumen, globe clear: /products/edison-bulbs/60539318.txt
+- LUNNOM LED bulb E12 210 lumen, dimmable/chandelier brown clear glass: /products/edison-bulbs/60539262.txt
+- LUNNOM LED bulb E12 200 lumen, dimmable/tube-shaped clear glass: /products/edison-bulbs/50516973.txt
+- LUNNOM LED bulb E12 200 lumen, dimmable/tube-shaped clear glass: /products/edison-bulbs/30516969.txt
+- LUNNOM LED bulb E12 180 lumen, dimmable/chandelier brown clear glass: /products/edison-bulbs/80539261.txt
+- LUNNOM LED bulb E12 135 lumen, globe clear: /products/edison-bulbs/90539393.txt
+- LUNNOM LED bulb E12 135 lumen, globe clear: /products/edison-bulbs/10539392.txt
+- GRÖNSLICK LED bulb E26 4000lm: /products/edison-bulbs/60557246.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

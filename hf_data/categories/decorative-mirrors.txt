@@ -1,0 +1,39 @@
+# @CATEGORY
+Name: Decorative mirrors
+ProductCount: 17
+
+# @FILTERS
+PriceRange: $11.99 - $219.99
+Materials: Back panel: Fiberboard, Tinted clear acrylic lacquer, Back panel: Steel, Copper-plated, Acrylic coating, Binding: Rattan, Stain, Clear acrylic lacquer, Edge: Printed acrylic paint, Frame/ Binding: Rattan, Clear acrylic lacquer, Frame/ Foot: Steel, Nickel plated, Frame: Aluminium (min. 70% recycled), Epoxy/polyester powder coating, Frame: Polystyrene, Plastic foil, Frame: Rattan, Rattan, Tinted clear acrylic lacquer, Frame: Solid acacia wood, Bamboo, Stain, Clear acrylic lacquer
+Brand: IKEA
+
+# @ITEMS
+- VRIGSTAD mirror, sedge, 24 ¾": /products/decorative-mirrors/30531045.txt
+- SVANSELE mirror, gold: /products/decorative-mirrors/30501802.txt
+- SVANSELE mirror, gold: /products/decorative-mirrors/10501803.txt
+- SKOGSGRÄNSEN decorative mirror, copper color: /products/decorative-mirrors/20541912.txt
+- RÅMEBO mirror, gold: /products/decorative-mirrors/70507147.txt
+- RÅMEBO mirror, gold: /products/decorative-mirrors/50507148.txt
+- PRUNKHALLON mirror, light pink: /products/decorative-mirrors/70601786.txt
+- MARISTOVA mirror: /products/decorative-mirrors/70534023.txt
+- MADESJÖ mirror, set of: /products/decorative-mirrors/90507146.txt
+- LOMMARYD mirror: /products/decorative-mirrors/80508716.txt
+- KLIBBAL mirror, brown: /products/decorative-mirrors/30573380.txt
+- GRYTÅS mirror, silver color: /products/decorative-mirrors/00516225.txt
+- GRINSBOL mirror, rattan, 21 ¾": /products/decorative-mirrors/60531044.txt
+- FÄRGEK decorative mirror, gray: /products/decorative-mirrors/50540906.txt
+- ENERGISKOG decorative mirror, with fringes/beige copper color, 10 ¼x: /products/decorative-mirrors/00541913.txt
+- BUSKBO mirror, rattan: /products/decorative-mirrors/10531051.txt
+- BLODLÖNN mirror: /products/decorative-mirrors/70542382.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

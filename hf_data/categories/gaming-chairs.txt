@@ -1,0 +1,40 @@
+# @CATEGORY
+Name: Gaming chairs
+ProductCount: 18
+
+# @FILTERS
+PriceRange: $89.99 - $449.99
+Materials: Armrest pad: Polypropylene, Back bar: Steel, Epoxy/polyester powder coating, Back fabric: 56 % nylon, 44% elastic polyester, Back frame/ Back bar: Steel, Epoxy/polyester powder coating, Back frame: Steel, Epoxy powder coating, Back frame: Steel, Polypropylene, Reinforced polyamide, Zinc, Base fabric: 55% elastic polyester, 45 % nylon, Bracket/ Sleeve/ Posture column/ Armrest frame/ Star base center/ Star base leg/ Back frame: Steel, Epoxy/polyester powder coating, Coated fabric parts: 100 % polyurethane, 75 % polyester, 25 % cotton, Coated fabric: 100 % polyurethane, 75 % polyester, 25 % cotton
+Brand: IKEA
+
+# @ITEMS
+- UTESPELARE gaming chair, Bomstad gray: /products/gaming-chairs/50507619.txt
+- UTESPELARE gaming chair, Bomstad black: /products/gaming-chairs/70507618.txt
+- STYRSPEL gaming chair, purple/black: /products/gaming-chairs/60522030.txt
+- STYRSPEL gaming chair, gray/red: /products/gaming-chairs/80526089.txt
+- STYRSPEL gaming chair, dark gray/gray: /products/gaming-chairs/50522035.txt
+- STYRSPEL gaming chair, blue/light gray: /products/gaming-chairs/70506690.txt
+- MATCHSPEL gaming chair, Bomstad light gray: /products/gaming-chairs/30571531.txt
+- MATCHSPEL gaming chair, Bomstad black: /products/gaming-chairs/40507605.txt
+- LÖPARBANA gaming chair, Vissle green: /products/gaming-chairs/10586331.txt
+- LÖPARBANA gaming chair, Vissle dark gray: /products/gaming-chairs/30586330.txt
+- HUVUDSPELARE gaming chair, black: /products/gaming-chairs/70507604.txt
+- GRUPPSPEL gaming chair, Gunnared black/gray: /products/gaming-chairs/80507585.txt
+- GRUPPSPEL gaming chair, Gunnared beige: /products/gaming-chairs/00507589.txt
+- GRUPPSPEL gaming chair, Grann black: /products/gaming-chairs/30507559.txt
+- BRÄNNBOLL gaming lounge chair, Vissle dark gray: /products/gaming-chairs/00586614.txt
+- BRÄNNBOLL gaming lounge chair, Knisa bright blue: /products/gaming-chairs/10586618.txt
+- BRÄNNBOLL gaming easy chair, gray/bright yellow: /products/gaming-chairs/60586338.txt
+- BRÄNNBOLL gaming easy chair, gray/black: /products/gaming-chairs/00586336.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

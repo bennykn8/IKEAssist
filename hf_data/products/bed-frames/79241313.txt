@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SONGESAND bed frame, white/Lönset, Queen
+SKU: 79241313
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/songesand-bed-frame-white-loenset-s79241313/
+Category: Bed frames
+Description: A sturdy bed frame with soft, profile edges and high legs. A classic shape that will last for many years. Add SONGESAND bed underbed storage boxes to store extra bedding without taking up more space.
+
+# @OFFER
+Price: 369
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Leg/ Top rail: Fiberboard, Paper foil, Plastic edging, Bed end filling/ Rail/ Bedside: Particleboard, Paper foil, Plastic edging, Galvanized steel
+Features: SKORVA midbeam is included in the price but packaged separately. It is required for the stability of the bed frame and to keep the mattress in place. | LÖNSET slatted bed base is included in the price, but is packaged separately. | Add SONGESAND underbed storage boxes to create lots of extra storage space.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/songesand-bed-frame-white-loenset__0638583_pe699000_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

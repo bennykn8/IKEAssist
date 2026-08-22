@@ -1,0 +1,28 @@
+# @CATEGORY
+Name: Sauté pans
+ProductCount: 6
+
+# @FILTERS
+PriceRange: $12.99 - $99.99
+Materials: Body/ Protecting plate/ Rivet/ Flame guard/ Valve/ Rim/ Screw: Stainless steel, Body: Aluminum, Stainless steel, Copper, Bottom: Stainless steel, Aluminum, Disc/ Washer: Stainless steel, Disc: Aluminum, Handle/ Knob: Phenolic plastic, Handle/ Knob: Solid rubberwood, Linseed oil, Handle/ Main parts/ Lid: Stainless steel, Lid/ Handles/ Rivet: Stainless steel, Lid: Heat resistant glass
+Brand: IKEA
+
+# @ITEMS
+- MIDDAGSMAT sauté pan with lid, clear glass/stainless steel: /products/sauté-pans/30576524.txt
+- KLIPPFISK sauté pan with lid, non-stick coating glass/wood gray-turquoise: /products/sauté-pans/70602502.txt
+- KLIPPFISK sauté pan with lid, non-stick coating glass/wood gray-turquoise, 9 ½": /products/sauté-pans/50602517.txt
+- IKEA 365+ sauté pan, stainless steel: /products/sauté-pans/60576607.txt
+- FINMAT sauté pan with lid, copper/stainless steel: /products/sauté-pans/90578129.txt
+- DAGASILL sauté pan with lid, red: /products/sauté-pans/80533612.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

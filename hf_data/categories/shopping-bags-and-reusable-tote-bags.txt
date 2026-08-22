@@ -1,0 +1,44 @@
+# @CATEGORY
+Name: Shopping bags & reusable tote bags
+ProductCount: 22
+
+# @FILTERS
+PriceRange: $0.89 - $34.99
+Materials: 100 % cotton, 100 % polyester (100% recycled), 100 % polypropylene, Bag: 100 % cotton, Bag: 83 % jute, 17 % cotton, Buckle: Acetal plastic, Fabric/ Webbing: 100 % polypropylene, Fabric: 100 % polyester (100% recycled), Fabric: Polypropylene (min. 70% recycled), Frame: Steel
+Brand: IKEA
+
+# @ITEMS
+- STORSTOMMA shopping bag, large, multicolor, 2401 oz: /products/shopping-bags-and-reusable-tote-bags/10483210.txt
+- STORSTOMMA bag, multicolor: /products/shopping-bags-and-reusable-tote-bags/40484835.txt
+- SPIKRAK shopping bag, cotton/natural, 13 gallon: /products/shopping-bags-and-reusable-tote-bags/70513365.txt
+- SKYNKE shopping bag, white/multicolor, 17 ¾x14 ¼": /products/shopping-bags-and-reusable-tote-bags/30588777.txt
+- SKYNKE shopping bag, stripe/black white, 17 ¾x14 ¼": /products/shopping-bags-and-reusable-tote-bags/50517680.txt
+- SKYNKE shopping bag, multicolor/patterned, 17 ¾x14 ¼": /products/shopping-bags-and-reusable-tote-bags/80594498.txt
+- SÄCKKÄRRA shopping bag, white/green, 7x17 ¾x17 ¾"/10 gallon: /products/shopping-bags-and-reusable-tote-bags/30588758.txt
+- SÄCKKÄRRA shopping bag, white/blue, 14 ½x22 ½x15 ¼"/19 gallon: /products/shopping-bags-and-reusable-tote-bags/50588757.txt
+- RADARBULLE shopping bag with wheels, black, 13x9 ½x26 ¾"/1285 oz: /products/shopping-bags-and-reusable-tote-bags/10498693.txt
+- PLANTERING shopping bag, light brown/red, 17 ¾x14 ¼": /products/shopping-bags-and-reusable-tote-bags/60563596.txt
+- MÄVINN bag, handmade/stripe natural: /products/shopping-bags-and-reusable-tote-bags/80575051.txt
+- KUSTFYR bag, ghost black/white, 10 ¾x7x10 ¾"440 oz: /products/shopping-bags-and-reusable-tote-bags/50599633.txt
+- KUNGSFORS mesh bag, set of 2, natural: /products/shopping-bags-and-reusable-tote-bags/20372834.txt
+- KUNGSFORS mesh bag, green: /products/shopping-bags-and-reusable-tote-bags/10514787.txt
+- KUNGSFORS mesh bag, blue: /products/shopping-bags-and-reusable-tote-bags/50518934.txt
+- KNALLA bag, black/white, 15 ¾x9 ¾x18 ½"/12 gallon: /products/shopping-bags-and-reusable-tote-bags/00473693.txt
+- HÄSTHAGE bag, white: /products/shopping-bags-and-reusable-tote-bags/50525637.txt
+- GÖRSNYGG shopping bag, large, light beige, 22 ½x14 ½x15 ¼"/2401 oz: /products/shopping-bags-and-reusable-tote-bags/20504194.txt
+- GÖRSNYGG bag, blue, 15 ¾x11 ¾x23 ½"/19 gallon: /products/shopping-bags-and-reusable-tote-bags/60499261.txt
+- GÖRSNYGG bag, 15 ¾x11 ¾x23 ½"/19 gallon: /products/shopping-bags-and-reusable-tote-bags/10595948.txt
+- FRAKTA shopping bag, medium, blue, 17 ¾x7x17 ¾"/10 gallon: /products/shopping-bags-and-reusable-tote-bags/60301707.txt
+- FRAKTA shopping bag, large, blue, 21 ¾x14 ½x13 ¾"/19 gallon: /products/shopping-bags-and-reusable-tote-bags/17228340.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

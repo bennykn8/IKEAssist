@@ -1,0 +1,26 @@
+# @CATEGORY
+Name: Ironing boards
+ProductCount: 4
+
+# @FILTERS
+PriceRange: $7.99 - $39.99
+Materials: Fabric: 100 % cotton, Filling: Non-woven polyester fabric, Foot/ Handle/ Washer: Polypropylene, Foot/ Runners: Polyethylene, Frame: Steel, Epoxy/polyester powder coating, Mesh/ Frame/ Frame support: Steel, Epoxy/polyester powder coating, Padding: Polyester/recycled fiber wadding, Spring/ Rail: Steel, Galvanized, Spring: Steel, Galvanized
+Brand: IKEA
+
+# @ITEMS
+- RUTER ironing board, white, 42 ½x: /products/ironing-boards/60471610.txt
+- LAGT ironing board cover, gray: /products/ironing-boards/30348235.txt
+- JÄLL tabletop ironing board, 28 ¾x12 ½": /products/ironing-boards/20242890.txt
+- DÄNKA ironing board, 47 ¼x14 ½": /products/ironing-boards/20471612.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

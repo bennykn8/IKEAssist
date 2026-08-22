@@ -1,0 +1,35 @@
+# @CATEGORY
+Name: Remote light switches
+ProductCount: 13
+
+# @FILTERS
+PriceRange: $9.99 - $128.99
+Materials: ABS plastic, ABS plastic, ABS plastic, Back part: ABS plastic, Cover/ Mounting bracket/ Lid: ABS plastic, Front part: Stainless steel, Gasket: Synthetic rubber, Lens: Polyethylene, Light guide: Polycarbonate plastic, Main parts: Polycarbonate plastic, Polycarbonate plastic, Polycarbonate plastic
+Brand: IKEA
+
+# @ITEMS
+- VALLHORN wireless motion sensor, smart/white: /products/remote-light-switches/40504348.txt
+- TRETAKT plug with remote control, smart: /products/remote-light-switches/50569730.txt
+- TRETAKT plug, smart: /products/remote-light-switches/40556511.txt
+- TRÅDFRI Driver for wireless control, gray, 30 W: /products/remote-light-switches/60342661.txt
+- TRÅDFRI Driver for wireless control, gray, 10 W: /products/remote-light-switches/10356189.txt
+- SYMFONISK / DIRIGERA sound remote with hub kit, gen 2 smart/white: /products/remote-light-switches/79536918.txt
+- STYRBAR remote control, smart white: /products/remote-light-switches/80488370.txt
+- STYRBAR remote control, smart stainless steel: /products/remote-light-switches/50463615.txt
+- SOMRIG Remote control, white smart: /products/remote-light-switches/30560354.txt
+- RODRET wireless dimmer/power switch, smart white: /products/remote-light-switches/80559800.txt
+- PARASOLL door/window sensor, smart/white: /products/remote-light-switches/70504318.txt
+- INSPELNING plug, smart/energy monitor: /products/remote-light-switches/90569846.txt
+- DIRIGERA hub for smart products, white smart: /products/remote-light-switches/50503414.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

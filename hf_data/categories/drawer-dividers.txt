@@ -1,0 +1,81 @@
+# @CATEGORY
+Name: Drawer dividers
+ProductCount: 59
+
+# @FILTERS
+PriceRange: $1.49 - $52.00
+Materials: 100 % polyester, Basket/ Handle/ Lower tube: Steel, Epoxy coating, Powder coating, Bottom: Fiberboard, Bamboo veneer, Stain, Clear lacquer, Bottom: Fiberboard, Bamboo veneer, Stain, Clear polyurethane/acrylic lacquer, Bumpers: Synthetic rubber, Cover plate/ Back Cover: ABS plastic, Divider/ Insert, bottom: Polypropylene, Handle: Steel, Powder coating, Hook: ABS plastic, Thermoplastic elastomer, Main parts/ Rivet/ Tubes/ Screw/ Washer: Stainless steel
+Brand: IKEA
+
+# @ITEMS
+- VARIERA shelf insert, white: /products/drawer-dividers/80136622.txt
+- VARIERA Shelf insert, white, Width: 12 5/8". Order here!: /products/drawer-dividers/60136623.txt
+- VARIERA pot lid organizer, stainless steel: /products/drawer-dividers/70154800.txt
+- VARIERA drawer liner, clear: /products/drawer-dividers/80012853.txt
+- UPPDATERA utensil tray, white, 6x19 ½": /products/drawer-dividers/60491364.txt
+- UPPDATERA utensil tray, white: /products/drawer-dividers/20491403.txt
+- UPPDATERA utensil tray/tray with knife rack, white/anthracite: /products/drawer-dividers/49509582.txt
+- UPPDATERA utensil tray/tray with knife rack, anthracite/light bamboo: /products/drawer-dividers/59509572.txt
+- UPPDATERA utensil tray, light bamboo, 6x19 ½": /products/drawer-dividers/00491357.txt
+- UPPDATERA utensil tray, bamboo: /products/drawer-dividers/40588121.txt
+- UPPDATERA tray with spice rack, white/anthracite: /products/drawer-dividers/19432711.txt
+- UPPDATERA tray with spice rack, light bamboo/anthracite: /products/drawer-dividers/29432782.txt
+- UPPDATERA tray with knife rack, white/anthracite: /products/drawer-dividers/59432691.txt
+- UPPDATERA tray with knife rack, light bamboo/anthracite: /products/drawer-dividers/19432706.txt
+- UPPDATERA storage box, light bamboo, 9 ½x12 ½x: /products/drawer-dividers/80520718.txt
+- UPPDATERA storage box, light bamboo, 6 ¼x9 ½x: /products/drawer-dividers/40520720.txt
+- UPPDATERA storage box, dark bamboo, 9 ½x12 ½x: /products/drawer-dividers/60571780.txt
+- UPPDATERA storage box, dark bamboo, 6 ¼x9 ½x: /products/drawer-dividers/00571778.txt
+- UPPDATERA spice rack, anthracite: /products/drawer-dividers/90491367.txt
+- UPPDATERA sliding organizer for drawer, gray: /products/drawer-dividers/00544186.txt
+- UPPDATERA plate holder, anthracite: /products/drawer-dividers/70486178.txt
+- UPPDATERA plate holder, anthracite: /products/drawer-dividers/50486179.txt
+- UPPDATERA pegboard drawer organizer, anthracite: /products/drawer-dividers/50502985.txt
+- UPPDATERA pegboard drawer organizer, anthracite: /products/drawer-dividers/40554116.txt
+- UPPDATERA knife rack, anthracite: /products/drawer-dividers/80491363.txt
+- UPPDATERA flatware+utsl trays/tray/spice rck, anthracite/light bamboo: /products/drawer-dividers/39509629.txt
+- UPPDATERA flatware+utsl trays/tray/knife rck, anthracite/light bamboo: /products/drawer-dividers/89509617.txt
+- UPPDATERA flatware tray, white, 12x19 ½": /products/drawer-dividers/70491410.txt
+- UPPDATERA flatware tray, white, 15x19 ½": /products/drawer-dividers/60494206.txt
+- UPPDATERA flatware tray, white: /products/drawer-dividers/40491402.txt
+- UPPDATERA flatware tray/utensil tray, light bamboo: /products/drawer-dividers/09509616.txt
+- UPPDATERA flatware tray/tray with knife rack, anthracite/light bamboo: /products/drawer-dividers/29509615.txt
+- UPPDATERA flatware tray, light bamboo, 12x19 ½": /products/drawer-dividers/20491484.txt
+- UPPDATERA flatware tray, light bamboo, 15x19 ½": /products/drawer-dividers/20491356.txt
+- UPPDATERA flatware tray, bamboo: /products/drawer-dividers/60588120.txt
+- UPPDATERA flatware tray/2 utensil trays, light bamboo: /products/drawer-dividers/69509623.txt
+- UPPDATERA flatware caddy, yellow, 4 ¾x4 ¾": /products/drawer-dividers/80580849.txt
+- UPPDATERA flatware caddy, anthracite, 4 ¾x4 ¾": /products/drawer-dividers/40433105.txt
+- UPPDATERA drawer liner, gray: /products/drawer-dividers/60551046.txt
+- UPPDATERA divider for drawer, white: /products/drawer-dividers/80491443.txt
+- UPPDATERA divider for drawer, white: /products/drawer-dividers/60491444.txt
+- UPPDATERA divider for drawer, white: /products/drawer-dividers/30491445.txt
+- UPPDATERA cutl tray/trays w knife+spice racks, anthracite/white: /products/drawer-dividers/09509635.txt
+- UPPDATERA ctl tr/utsl trs/tr w kni rck, anthracite/light bamboo: /products/drawer-dividers/39509648.txt
+- UPPDATERA ctl tr/utsl tr/trs w kni+spc rck, anthracite/light bamboo: /products/drawer-dividers/09509640.txt
+- UPPDATERA ctl tr/tr w kni rck/trs w spc rcks, anthracite/light bamboo: /products/drawer-dividers/19509649.txt
+- UPPDATERA box, white: /products/drawer-dividers/40546471.txt
+- UPPDATERA box, white: /products/drawer-dividers/20546467.txt
+- UPPDATERA box, set of 3, gray: /products/drawer-dividers/30549795.txt
+- UPPDATERA box, light pink, 9 ½x6 ¾": /products/drawer-dividers/10504057.txt
+- UPPDATERA box, green, 9 ½x6 ¾": /products/drawer-dividers/80504054.txt
+- UPPDATERA box, anthracite, 9 ½x6 ¾": /products/drawer-dividers/80504049.txt
+- UPPDATERA adjustable organizer for drawer, gray: /products/drawer-dividers/80544192.txt
+- UPPDATERA adjustable organizer for drawer, gray: /products/drawer-dividers/40544194.txt
+- STÖDJA utensil tray, white: /products/drawer-dividers/60177227.txt
+- STÖDJA flatware tray, white: /products/drawer-dividers/70177222.txt
+- STÖDJA flatware tray, white: /products/drawer-dividers/10177220.txt
+- SMÄCKER flatware tray, gray: /products/drawer-dividers/90241788.txt
+- SMÄCKER flatware tray, bright green: /products/drawer-dividers/80601465.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

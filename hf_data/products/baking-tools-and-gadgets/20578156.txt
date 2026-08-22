@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LÄTTBAKAD cookie cutter, set of 5, silver color
+SKU: 20578156
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/laettbakad-cookie-cutter-set-of-5-silver-color-20578156/
+Category: Baking tools & gadgets
+Description: Why should all cookies be the same size? With cookie cutters in several sizes, you get cookies that suit both big and small cookie lovers. And the little ones will probably like the actual baking more...
+
+# @OFFER
+Price: 4.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Stainless steel
+Features: Includes: 5 round cookie cutters (dia. 1⅛", 2", 2¾", 3½" and 4⅜"). | Wash this product before using it for the first time.
+Care: Dishwasher-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/laettbakad-cookie-cutter-set-of-5-silver-color__0930500_pe790784_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

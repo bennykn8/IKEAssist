@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: SKRUVBY storage combination, black-blue
+SKU: 49494646
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/skruvby-storage-combination-black-blue-s49494646/
+Category: Bookshelves & bookcases
+Description: , 511/8x551/8" The SKRUVBY series has a traditional look with solitaire storage units that can be coordinated. This flexible and practical solution works just as well in the living room as in the dini...
+
+# @OFFER
+Price: 188
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Bottom panel: Particleboard, Paper foil, Plastic edging, Plastic edging, Side panel/ Shelf: Particleboard, Paper foil, Door: Fiberboard, Paper foil, Plastic edging, Plastic edging
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/skruvby-storage-combination-black-blue__1130658_pe877912_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

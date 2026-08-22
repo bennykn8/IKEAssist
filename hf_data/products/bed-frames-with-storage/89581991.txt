@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VIHALS bed frame with 2 storage boxes, white/Luröy, Twin
+SKU: 89581991
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vihals-bed-frame-with-2-storage-boxes-white-luroey-s89581991/
+Category: Bed frames with storage
+Description: Simple yet versatile bed frame with 2 storage boxes for all those bedroom necessities. A smart solution that matches the other pieces of furniture in the VIHALS series.
+
+# @OFFER
+Price: 179
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Bedside: Particleboard, Fiberboard, Acrylic paint, Acrylic paint, Plastic edging, Headboard/ Footboard: Particleboard, Fiberboard, Acrylic paint, Acrylic paint, Plastic edging, Honeycomb structure paper filling (100% recycled), Bed slats: Layer-glued wood veneer, Adhesive resin as coating
+Features: LURÖY slatted bed base is included in the price, but is packaged separately. | Feel free to combine with the other furniture in the VIHALS series. | Mattress and bedlinens are sold separately.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vihals-bed-frame-with-2-storage-boxes-white-luroey__1447002_pe988912_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

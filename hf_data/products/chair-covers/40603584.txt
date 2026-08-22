@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TONSTAD chair cover, Bomstad golden brown
+SKU: 40603584
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tonstad-chair-cover-bomstad-golden-brown-40603584/
+Category: Chair covers
+Description: Bomstad chair cover is made of a durable material that both feels and looks like leather. The material consists of polyester and cotton and has a protective coating of polyurethane.
+
+# @OFFER
+Price: 35
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Coated fabric parts/ Coated fabric parts: 100 % polyurethane, 75 % polyester, 25 % cotton, Wadding: Polyester wadding, Inner fabric: 100 % polypropylene
+Features: Recommended for indoor use only. | This is an extra cover for TONSTAD chair. Chair sold separately.
+Care: Clean with a dust cloth or vacuum lightly using the soft brush attachment. | Do not wash.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tonstad-chair-cover-bomstad-golden-brown__1472227_pe997478_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

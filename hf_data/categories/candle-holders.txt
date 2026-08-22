@@ -1,0 +1,77 @@
+# @CATEGORY
+Name: Candle holders
+ProductCount: 55
+
+# @FILTERS
+PriceRange: $0.49 - $29.99
+Materials: Aluminum, Epoxy/polyester powder coating, Balancing weight/ Tube: Steel, Epoxy/polyester powder coating, Base/ Wire: Stainless steel, Body: Aluminum, Epoxy/polyester powder coating, Bottom part/ Top part: Aluminum, Epoxy/polyester powder coating, Bottom part: Galvanized steel, Polyester powder coating, Candlecup: Aluminum, Epoxy/polyester powder coating, Candleholder: Glass, Cover: Sedge, Clear acrylic lacquer, Feet: EVA plastic
+Brand: IKEA
+
+# @ITEMS
+- VINDSTILLA tealight holder, yellow, 2 ¾": /products/candle-holders/30591906.txt
+- VINDSTILLA tealight holder, yellow, 4 ¼": /products/candle-holders/00591903.txt
+- VINDSTILLA tealight holder, brown, 4 ¼": /products/candle-holders/50591905.txt
+- VINDSTILLA tealight holder, brown, 2 ¾": /products/candle-holders/10591907.txt
+- VINDSTILLA candle holder, yellow: /products/candle-holders/40591901.txt
+- VINDSTILLA candle holder, white, 4 ¼": /products/candle-holders/40563516.txt
+- VINDSTILLA candle holder, white: /products/candle-holders/10563513.txt
+- VINDSTILLA candle holder, brown: /products/candle-holders/20591902.txt
+- TUVKORNELL candle holder, set of 3, orange: /products/candle-holders/80554384.txt
+- TRÄDSTAM tealight holder, dark blue/white: /products/candle-holders/50591929.txt
+- TRÄDSTAM pillar candle holder, dark pink/white: /products/candle-holders/30591930.txt
+- TALLTITA tealight holder, set of 2, pink/brown: /products/candle-holders/80605901.txt
+- TALLTITA tealight holder, set of 2, gray/frosted glass: /products/candle-holders/70607024.txt
+- TALLTITA tealight holder, set of 2, blue/lilac: /products/candle-holders/20607026.txt
+- STOCKHOLM 2025 tealight holder, clear glass: /products/candle-holders/60590496.txt
+- STOCKHOLM 2025 candlestick/tealight holder, brass color: /products/candle-holders/20590506.txt
+- STOCKHOLM 2025 candlestick/tealight holder, black: /products/candle-holders/90590503.txt
+- SMÄLLSPIREA tealight holder, clear glass/patterned, 1 ½": /products/candle-holders/30542181.txt
+- SLIPPRIG tealight holder, handmade sedge: /products/candle-holders/90531410.txt
+- SILVERPÄRON pillar candle holder, white: /products/candle-holders/30574983.txt
+- SILVERPÄRON pillar candle holder, black: /products/candle-holders/40575010.txt
+- SILVERPÄRON candlestick/tealight holder, bright red: /products/candle-holders/60574986.txt
+- SILVERPÄRON candlestick for 2 candles, silver color, 7 ¾": /products/candle-holders/40574987.txt
+- SILKESTRÄD candle dish, light green: /products/candle-holders/00570528.txt
+- RÄFFELBJÖRK candle holder, mother-of-pearl color: /products/candle-holders/30608501.txt
+- PÄRLBAND tealight holder, gold: /products/candle-holders/50348545.txt
+- PÄRLBAND tealight holder, black: /products/candle-holders/00464368.txt
+- PÄRLBAND block candle holder, black: /products/candle-holders/20471674.txt
+- KUSTFYR tealight holder, spider black: /products/candle-holders/90599626.txt
+- KUSTFYR tealight holder, pumpkin black: /products/candle-holders/00599621.txt
+- KUSTFYR candle holder, pumpkin black: /products/candle-holders/80599617.txt
+- HÖSTAGILLE candle dish, rose-gold color: /products/candle-holders/40598974.txt
+- HÖSTAGILLE candelabra, black: /products/candle-holders/60575783.txt
+- HÖSTAGILLE candelabra, black: /products/candle-holders/40599718.txt
+- HEDERVÄRD tealight holder, black: /products/candle-holders/20510623.txt
+- HEDERVÄRD candlestick/tealight holder, black: /products/candle-holders/90517211.txt
+- GODTAGBAR candlestick, ceramic white: /products/candle-holders/70445673.txt
+- GLASIG candle dish, clear glass: /products/candle-holders/60259143.txt
+- GALEJ tealight holder: /products/candle-holders/36418000.txt
+- FULLTALIG candlestick, set of 3, light grey-beige: /products/candle-holders/60613134.txt
+- FULLTALIG candlestick, set of 3, light gray-blue: /products/candle-holders/80613133.txt
+- FULLTALIG candlestick, set of 3, black: /products/candle-holders/40342134.txt
+- FRÖJDA tealight holder, clear glass: /products/candle-holders/80581392.txt
+- FRÖJDA candlestick, white, 1 ¼": /products/candle-holders/20581328.txt
+- FRÖJDA candlestick, set of 3, white: /products/candle-holders/10581319.txt
+- FINSMAK tealight holder, clear glass, 1 ½": /products/candle-holders/00470982.txt
+- BLODOLVON candle dish, gray: /products/candle-holders/50559463.txt
+- BLADFÅGEL tealight holder, pink, 1 ¼": /products/candle-holders/00607032.txt
+- BLADFÅGEL tealight holder, green, 1 ¼": /products/candle-holders/00605900.txt
+- BLADFÅGEL tealight holder, clear glass, 1 ¼": /products/candle-holders/40607030.txt
+- BLADFÅGEL candle dish, pink, 4 ¼": /products/candle-holders/20607045.txt
+- BLADFÅGEL candle dish, green, 4 ¼": /products/candle-holders/70607043.txt
+- BLADFÅGEL candle dish, clear glass, 4 ¼": /products/candle-holders/10607041.txt
+- BERGGRAN candle holder, gray, 3 ½": /products/candle-holders/50559415.txt
+- BERGGRAN candle holder, anthracite, 2 ¾": /products/candle-holders/10559417.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

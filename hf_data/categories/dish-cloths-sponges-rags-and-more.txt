@@ -1,0 +1,35 @@
+# @CATEGORY
+Name: Dish cloths, sponges, rags & more
+ProductCount: 13
+
+# @FILTERS
+PriceRange: $0.49 - $6.99
+Materials: 100 % cotton, 60 % cotton, 40 % linen, Body: Polystyrene, Polypropylene plastic (min. 20% recycled), Body: Polyurethane plastic, Bristles: Agave leaf fiber, Bristles: Polyamide, Bristles: Polyester, Brush: Polyester, Brush: Solid beech, Oil, Handle: Polypropylene plastic (min. 20% recycled)
+Brand: IKEA
+
+# @ITEMS
+- VIDEVECKMAL dish brush with soap dispenser, bright green: /products/dish-cloths-sponges-rags-and-more/90556702.txt
+- VÄLVÅRDAD dish-washing brush refills, agave leaf fiber: /products/dish-cloths-sponges-rags-and-more/10490526.txt
+- VÄLVÅRDAD dish brush, stainless steel/beech: /products/dish-cloths-sponges-rags-and-more/40430164.txt
+- SVAMPIG sponge, gray-green: /products/dish-cloths-sponges-rags-and-more/10595439.txt
+- RINNIG dish brush, gray: /products/dish-cloths-sponges-rags-and-more/30407814.txt
+- RINNIG dish brush, bright yellow/off-white: /products/dish-cloths-sponges-rags-and-more/20565856.txt
+- RINNIG cleaning gloves, bright yellow/off-white, S: /products/dish-cloths-sponges-rags-and-more/70565854.txt
+- RINNIG cleaning gloves, bright yellow/off-white, M: /products/dish-cloths-sponges-rags-and-more/10565852.txt
+- MEDELVÅG bottle brush, white: /products/dish-cloths-sponges-rags-and-more/40385067.txt
+- MARIATHERES dish-cloth, gray/beige: /products/dish-cloths-sponges-rags-and-more/10479595.txt
+- HILDEGUN dish-cloth, red: /products/dish-cloths-sponges-rags-and-more/90484036.txt
+- ANTAGEN dish brush, white: /products/dish-cloths-sponges-rags-and-more/30534223.txt
+- ANTAGEN dish brush, bright orange: /products/dish-cloths-sponges-rags-and-more/00534229.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

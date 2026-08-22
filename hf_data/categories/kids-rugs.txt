@@ -1,0 +1,39 @@
+# @CATEGORY
+Name: Kids rugs
+ProductCount: 17
+
+# @FILTERS
+PriceRange: $9.99 - $69.99
+Materials: 100 % cotton, 52 % polyester (100% recycled), 48 % cotton, Backing: 100 % Synthetic rubber, Backing: Synthetic rubber, Base fabric: 100 % polypropylene, Base fabric: 100% polyester (min. 80% recycled), Base: 100 % EVA plastic, Pile: 100 % nylon, Pile: 100 % polyester (100% recycled), Pile: 100% polyester (min. 90% recycled)
+Brand: IKEA
+
+# @ITEMS
+- VALLABY rug, green: /products/kids-rugs/10548216.txt
+- STORABO rug, green: /products/kids-rugs/70356822.txt
+- STÄPPSPARV rug, beige, 39 ¼x: /products/kids-rugs/60603026.txt
+- SKOGSDUVA rug, high pile, green: /products/kids-rugs/40578278.txt
+- NATTHÄGER rug, low pile, blue orange/toucan: /products/kids-rugs/50595324.txt
+- MARKKRYPARE rug, dark gray: /products/kids-rugs/20558573.txt
+- LEN rug, dotted/gray: /products/kids-rugs/90589043.txt
+- LEN Curtains with tie-backs, 1 pair, dotted, white: /products/kids-rugs/10457635.txt
+- HEMMAHOS rug, gray: /products/kids-rugs/60356691.txt
+- DRÖMSLOTT rug, dog-shaped off-white/gray: /products/kids-rugs/30526379.txt
+- BUSENKEL rug, harlequin pattern/multicolor: /products/kids-rugs/60520427.txt
+- BRUMMIG rug, hedgehog shaped/brown: /products/kids-rugs/50521187.txt
+- BLÅVINGAD rug, ocean animals pattern/multicolor: /products/kids-rugs/80528366.txt
+- BLÅSKATA rug, black/gray: /products/kids-rugs/00569520.txt
+- BARNDRÖM rug, pink: /products/kids-rugs/80548208.txt
+- AFTONSPARV rug, space rounded/blue: /products/kids-rugs/70554054.txt
+- AFTONSPARV curtains with tie-backs, 1 pair, space blue/white: /products/kids-rugs/20561028.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

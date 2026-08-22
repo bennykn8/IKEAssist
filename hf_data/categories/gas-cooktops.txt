@@ -1,0 +1,27 @@
+# @CATEGORY
+Name: Gas cooktops
+ProductCount: 6
+
+# @FILTERS
+PriceRange: $399.00 - $1099.00
+Brand: IKEA
+
+# @ITEMS
+- STORBRÄNNAN gas cooktop, Stainless steel: /products/gas-cooktops/10540545.txt
+- NORREDSTA gas cooktop, Stainless steel: /products/gas-cooktops/70587610.txt
+- FORSHÄLLAN gas cooktop, Stainless steel: /products/gas-cooktops/90540546.txt
+- BRÄNNPUNKT gas cooktop, Stainless steel: /products/gas-cooktops/40462065.txt
+- BRÄNNPUNKT gas cooktop, black: /products/gas-cooktops/60462069.txt
+- AVBRÄNNING gas cooktop, Stainless steel: /products/gas-cooktops/50462135.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,28 @@
+# @CATEGORY
+Name: Bags
+ProductCount: 6
+
+# @FILTERS
+PriceRange: $1.99 - $9.99
+Materials: Bag: 100 % polypropylene, Polypropylene (min. 50% recycled), Polypropylene (min. 60% recycled), Polypropylene (min. 70% recycled), 100 % BOPP plastic, Polypropylene, Paper, Clear acrylic lacquer, Strap: 100 %polyester, Thread: 100 % polyester
+Brand: IKEA
+
+# @ITEMS
+- HUSBONDE 12-piece sticker set, trash & recycling: /products/bags/80606142.txt
+- DIMPA storage bag, clear, 25 ½x8 ¾x25 ½": /products/bags/10056770.txt
+- DIMPA sorting bag with lid, light grey-beige, 1691 oz: /products/bags/40601434.txt
+- DIMPA recycling bag, white/dark gray/light gray, 85/8x133/4x173/4"/9 gallon: /products/bags/40180136.txt
+- AJÖSS recycling bag, light gray, 22x17"/744 oz: /products/bags/10439378.txt
+- AJÖSS recycling bag, dark gray, 22x26 ½"/1184 oz: /products/bags/60439366.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

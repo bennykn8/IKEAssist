@@ -1,0 +1,70 @@
+# @CATEGORY
+Name: Conference chairs
+ProductCount: 48
+
+# @FILTERS
+PriceRange: $30.00 - $459.99
+Materials: Adapter: Steel, Epoxy/polyester powder coating, Aluminum, Epoxy/polyester powder coating, Back fabric: 100 % polyester (100% recycled), Castor: Polypropylene, Synthetic rubber, Coated fabric parts: 100 % polyurethane, 75 % polyester, 25 % cotton, Connecting plate/ Mechanism/ Gas cylinder/ Star base center/ Star base leg: Steel, Epoxy/polyester powder coating, Core filling: Polyurethane foam., Fabric: 100% polyester (min. 90% recycled), Filling: 100% polyester (min. 80% recycled), Frame: 100% polyester (min. 40% recycled), High resilient polyurethane foam (cold foam)., Steel, Non-woven polypropylene, Fiberboard
+Brand: IKEA
+
+# @ITEMS
+- TOSSBERG / LÅNGFJÄLL conference chair, Gunnared dark gray/white: /products/conference-chairs/99513119.txt
+- TOSSBERG / LÅNGFJÄLL conference chair, Gunnared dark gray/black: /products/conference-chairs/49513126.txt
+- TOSSBERG / LÅNGFJÄLL conference chair, Gunnared beige/white: /products/conference-chairs/89513105.txt
+- TOSSBERG / LÅNGFJÄLL conference chair, Gunnared beige/black: /products/conference-chairs/09513109.txt
+- TOSSBERG / LÅNGFJÄLL conference chair, Grann light brown/white: /products/conference-chairs/49513094.txt
+- TOSSBERG / LÅNGFJÄLL conference chair, Grann light brown/black: /products/conference-chairs/39513099.txt
+- TOSSBERG / LÅNGFJÄLL conference chair, Grann black/white: /products/conference-chairs/49509695.txt
+- TOSSBERG / LÅNGFJÄLL conference chair, Grann black/black: /products/conference-chairs/39512231.txt
+- MULLFJÄLLET conference chair with casters, Naggen dark gray: /products/conference-chairs/89399812.txt
+- MULLFJÄLLET conference chair with casters, Naggen dark gray: /products/conference-chairs/10472914.txt
+- MULLFJÄLLET conference chair with casters, Naggen beige: /products/conference-chairs/39399800.txt
+- MULLFJÄLLET conference chair with casters, Naggen beige: /products/conference-chairs/30472913.txt
+- MULLFJÄLLET armrest, Naggen dark gray: /products/conference-chairs/50472912.txt
+- MULLFJÄLLET armrest, Naggen beige: /products/conference-chairs/70472911.txt
+- LÅNGFJÄLL pair of armrests, white: /products/conference-chairs/70320569.txt
+- LÅNGFJÄLL Pair of armrests, black: /products/conference-chairs/50320565.txt
+- LÅNGFJÄLL conference chair with armrests, Gunnared red-orange/white: /products/conference-chairs/79507727.txt
+- LÅNGFJÄLL conference chair with armrests, Gunnared red-orange/black: /products/conference-chairs/69507737.txt
+- LÅNGFJÄLL conference chair with armrests, Gunnared green-gray/white: /products/conference-chairs/19506820.txt
+- LÅNGFJÄLL conference chair with armrests, Gunnared green-gray/black: /products/conference-chairs/79507732.txt
+- LÅNGFJÄLL conference chair with armrests, Gunnared dark gray/white: /products/conference-chairs/19252776.txt
+- LÅNGFJÄLL conference chair with armrests, Gunnared dark gray/black: /products/conference-chairs/79177901.txt
+- LÅNGFJÄLL conference chair with armrests, Gunnared beige/white: /products/conference-chairs/89252768.txt
+- LÅNGFJÄLL conference chair with armrests, Gunnared beige/black: /products/conference-chairs/79177859.txt
+- LÅNGFJÄLL conference chair, Gunnared red-orange/white: /products/conference-chairs/29506075.txt
+- LÅNGFJÄLL conference chair, Gunnared red-orange/black: /products/conference-chairs/89506063.txt
+- LÅNGFJÄLL conference chair, Gunnared green-gray/white: /products/conference-chairs/59506069.txt
+- LÅNGFJÄLL conference chair, Gunnared green-gray/black: /products/conference-chairs/69506059.txt
+- LÅNGFJÄLL conference chair, Gunnared dark gray/white: /products/conference-chairs/79252387.txt
+- LÅNGFJÄLL conference chair, Gunnared dark gray/black: /products/conference-chairs/59177577.txt
+- LÅNGFJÄLL conference chair, Gunnared beige/white: /products/conference-chairs/59252369.txt
+- LÅNGFJÄLL conference chair, Gunnared beige/black: /products/conference-chairs/29177569.txt
+- LÄKTARE conference chair, red/white: /products/conference-chairs/19503256.txt
+- LÄKTARE conference chair, red/black: /products/conference-chairs/09503271.txt
+- LÄKTARE conference chair, medium gray/white: /products/conference-chairs/89503253.txt
+- LÄKTARE conference chair, medium gray/black: /products/conference-chairs/89503267.txt
+- LÄKTARE conference chair, light green/white: /products/conference-chairs/89503248.txt
+- LÄKTARE conference chair, light green/black: /products/conference-chairs/79503263.txt
+- LÄKTARE conference chair, light beige/white: /products/conference-chairs/19503275.txt
+- LÄKTARE conference chair, light beige/black: /products/conference-chairs/49503207.txt
+- LÄKTARE conference chair, birch veneer/white: /products/conference-chairs/09503191.txt
+- LÄKTARE conference chair, birch veneer/black: /products/conference-chairs/99503257.txt
+- LÄKTARE chair cover, Gunnared red: /products/conference-chairs/10528015.txt
+- LÄKTARE chair cover, Gunnared medium gray: /products/conference-chairs/30528000.txt
+- LÄKTARE chair cover, Gunnared light green: /products/conference-chairs/70527999.txt
+- LÄKTARE chair cover, Gunnared light beige: /products/conference-chairs/10528001.txt
+- FJÄLLBERGET conference chair with casters, white stained oak veneer/Gunnared beige: /products/conference-chairs/30487764.txt
+- FJÄLLBERGET Conference chair with casters, black stained ash veneer, Gunnared dark gray: /products/conference-chairs/40396419.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

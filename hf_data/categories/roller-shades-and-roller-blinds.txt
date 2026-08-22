@@ -1,0 +1,43 @@
+# @CATEGORY
+Name: Roller shades & roller blinds
+ProductCount: 21
+
+# @FILTERS
+PriceRange: $33.99 - $59.99
+Materials: Bottom rail: Polystyrene, PET plastic, Fabric: 100% polyester (min. 80% recycled), Fabric: 81 % polyester (100% recycled), 19 % nylon, Handle: Polycarbonate plastic, Tinted clear acrylic lacquer, Top rail/ Bottom rail: Aluminium (min. 70% recycled), Powder coating, Top rail/ Bottom rail: Aluminum, Anodized
+Brand: IKEA
+
+# @ITEMS
+- TANDLUNDFLY double layered blind, 36x98 ½": /products/roller-shades-and-roller-blinds/80596510.txt
+- TANDLUNDFLY double layered blind, 32x98 ½": /products/roller-shades-and-roller-blinds/80596505.txt
+- TANDLUNDFLY double layered blind, 34x98 ½": /products/roller-shades-and-roller-blinds/60596506.txt
+- TANDLUNDFLY double layered blind, 23x98 ½": /products/roller-shades-and-roller-blinds/50596502.txt
+- TANDLUNDFLY double layered blind, 27x98 ½": /products/roller-shades-and-roller-blinds/30596503.txt
+- TANDLUNDFLY double layered blind, 48x98 ½": /products/roller-shades-and-roller-blinds/20589094.txt
+- TANDLUNDFLY double layered blind, 30x98 ½": /products/roller-shades-and-roller-blinds/10596504.txt
+- TANDLUNDFLY double layered blind, 38x98 ½": /products/roller-shades-and-roller-blinds/00596514.txt
+- SKOGSKLÖVER roller blind, white, 30x76 ¾": /products/roller-shades-and-roller-blinds/80431388.txt
+- SKOGSKLÖVER roller blind, white, 23x76 ¾": /products/roller-shades-and-roller-blinds/70431384.txt
+- SKOGSKLÖVER roller blind, white, 36x76 ¾": /products/roller-shades-and-roller-blinds/60431394.txt
+- SKOGSKLÖVER Roller blind, white, 32x76 ¾": /products/roller-shades-and-roller-blinds/40431390.txt
+- SKOGSKLÖVER Roller blind, white, 27x76 ¾": /products/roller-shades-and-roller-blinds/20431386.txt
+- SKOGSKLÖVER Roller blind, white, 38x76 ¾": /products/roller-shades-and-roller-blinds/10431396.txt
+- SKOGSKLÖVER Roller blind, white, 48x76 ¾": /products/roller-shades-and-roller-blinds/10431382.txt
+- SKOGSKLÖVER Roller blind, white, 34x76 ¾": /products/roller-shades-and-roller-blinds/00431392.txt
+- SANDVEDEL roller blind, beige, 36x76 ¾": /products/roller-shades-and-roller-blinds/90474061.txt
+- SANDVEDEL roller blind, beige, 30x76 ¾": /products/roller-shades-and-roller-blinds/90474056.txt
+- SANDVEDEL roller blind, beige, 23x76 ¾": /products/roller-shades-and-roller-blinds/80474052.txt
+- SANDVEDEL roller blind, beige, 34x76 ¾": /products/roller-shades-and-roller-blinds/50474058.txt
+- SANDVEDEL roller blind, beige, 27x76 ¾": /products/roller-shades-and-roller-blinds/40474054.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,36 @@
+# @CATEGORY
+Name: Polyester pillows
+ProductCount: 14
+
+# @FILTERS
+PriceRange: $2.99 - $44.99
+Materials: 100 % polyester (100% recycled), Cover: 100 % cotton, Fabric: 100 % cotton, Fabric: 100 % polyester (100% recycled), Fabric: 55 % lyocell, 45 % cotton, Fabric: 65 % polyester (100% recycled), 35 % cotton, Filling material: 100 % polyester (100% recycled), Filling material: 100 % polyester - hollow fiber (100% recycled), Filling: 100 % polyester - hollow fiber (100% recycled), Lining: 100 % polypropylene
+Brand: IKEA
+
+# @ITEMS
+- VILDKORN pillow, stomach sleeper, Queen: /products/polyester-pillows/60460602.txt
+- VILDKORN Pillow, low, King: /products/polyester-pillows/00460600.txt
+- VILDKORN pillow, side/back sleeper, Queen: /products/polyester-pillows/80460583.txt
+- VILDKORN Pillow, high, King: /products/polyester-pillows/20460581.txt
+- SKOGSFRÄKEN pillow, stomach sleeper, King: /products/polyester-pillows/80460559.txt
+- SKOGSFRÄKEN Pillow, low, Queen: /products/polyester-pillows/40460561.txt
+- SKOGSFRÄKEN pillow, side/back sleeper, King: /products/polyester-pillows/80460540.txt
+- SKOGSFRÄKEN Pillow, high, Queen: /products/polyester-pillows/40460542.txt
+- SENAPSMOTT pillow, side/back sleeper, with cooling fabric: /products/polyester-pillows/50580327.txt
+- SANDGRÄSMAL pillow, Standard: /products/polyester-pillows/10572635.txt
+- LAPPTÅTEL pillow, side/back sleeper, Standard: /products/polyester-pillows/90460380.txt
+- GRÖNAMARANT pillow, side/back sleeper, Queen: /products/polyester-pillows/80460427.txt
+- GRÖNAMARANT Pillow, high, King: /products/polyester-pillows/20460425.txt
+- AXFRYLE body pillow, white: /products/polyester-pillows/80442396.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

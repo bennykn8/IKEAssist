@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: BACKSJÖN semi-recessed sink with water trap, black
+SKU: 49575402
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/backsjoen-semi-recessed-sink-with-water-trap-black-s49575402/
+Category: Bathroom sinks
+Description: , 20x195/8" This semi-recessed crushed marble wash-basin with sleek, modern design creates an eye-catching centerpiece and gives you valuable counterspace for unloading bathroom essentials.
+
+# @OFFER
+Price: 200
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Polyester/crushed marble, Polyester, Cover/ Spring: Stainless steel, Cover cap/ Mechanism: Acetal plastic
+Dimensions: Fits HAVBÄCK and TÄNNFORSEN washstands with doors, width 23⅝".
+Features: Comprises: 1 sink and 1 water trap. | Chrome-finish wash-basin pop-up plug and overflow kit included. | If you are uncertain about the installation, contact a professional. The installation shall be made in accordance with valid local building and plumbing regulations.
+Care: Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary. | Do not use scouring powder, steel wool, hard or sharp tools which can scratch the surface of the sink.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/backsjoen-semi-recessed-sink-with-water-trap-black__1377803_pe960988_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

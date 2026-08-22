@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SELSVIKEN door, high gloss white
+SKU: 80291632
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/selsviken-door-high-gloss-white-80291632/
+Category: BESTÅ doors & drawer fronts
+Description: , 231/2x251/8" SELSVIKEN white front has a sleek, simple design with a high-gloss surface that's durable and easy to clean. It adds a fresh and modern look to your storage. Complement with GLASSVIK gl...
+
+# @OFFER
+Price: 50
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Plastic foil, Plastic edging
+Features: To be completed with BESTÅ hinges. One door requires one pack of hinges, sold separately. | May be completed with knobs or handles, sold separately. | If you want to create a uniform look throughout your home, you can combine SELSVIKEN front with the matching FARDAL door for PAX.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/selsviken-door-high-gloss-white__0634401_pe696424_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

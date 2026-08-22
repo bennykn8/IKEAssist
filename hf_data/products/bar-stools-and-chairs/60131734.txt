@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: GLENN Bar stool, white, chrome plated
+SKU: 60131734
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/glenn-bar-stool-white-chrome-plated-60131734/
+Category: Bar stools & chairs
+Description: , 26". The stool can be stacked, so you can keep several on hand and store them in the same space as one.
+
+# @OFFER
+Price: 115
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Leg frame: Steel, Chrome plated, Feet: Polypropylene, Seat shell: Polycarbonate plastic
+Dimensions: Suitable for bar height 35⅜".
+Features: Recommended for indoor use only. | To prevent surface scratches and the sound of chair legs scraping on the floor, add FIXA self-adhesive floor protectors, sold separately.
+Care: Wipe clean with a water dampened cloth. | For maximum quality, re-tighten the screws when necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/glenn-bar-stool-white-chrome-plated__0728083_pe736048_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,262 @@
+# @CATEGORY
+Name: Combinations
+ProductCount: 240
+
+# @FILTERS
+PriceRange: $30.00 - $996.00
+Materials: Back panel/ Shelf: Steel, Epoxy/polyester powder coating, Back panel: Fiberboard, Bracket: Galvanized steel, Powder coating, Door frame: Solid pine, Door panel: 100 %polyester, Drawer rail: Steel, Epoxy/polyester powder coating, Drawer side/ Drawer back: Particleboard, Plastic foil, Fiberboard, Acrylic paint, Plastic edging, Honeycomb structure paper filling (min. 70% recycled), Particleboard, Fiberboard, Fiberboard, Acrylic paint, Printed acrylic paint, Plastic edging, Honeycomb structure paper filling (min. 70% recycled), Particleboard, Fiberboard, Fiberboard, Printed and embossed acrylic paint, Plastic edging, Honeycomb structure paper filling (min. 70% recycled), Particleboard, Fiberboard
+Brand: IKEA
+
+# @ITEMS
+- OMAR shelving unit with clothes rail, with 1 shelf/galvanized: /products/combinations/99487691.txt
+- OMAR shelving unit with clothes rail, galvanized: /products/combinations/59487688.txt
+- OMAR shelving unit: /products/combinations/89297192.txt
+- OMAR bottle shelving unit: /products/combinations/49829084.txt
+- OMAR 3 shelf sections: /products/combinations/19279479.txt
+- OMAR 2 section shelving unit: /products/combinations/79412946.txt
+- OMAR 1 section shelving unit: /products/combinations/69829083.txt
+- OMAR 1 section shelving unit: /products/combinations/19829090.txt
+- LINNMON / SPÄND desk, white: /products/combinations/69563865.txt
+- LINNMON / SPÄND desk, black-brown/white: /products/combinations/89563874.txt
+- LINNMON / OLOV desk, white: /products/combinations/39590158.txt
+- LINNMON / OLOV desk, white: /products/combinations/19416198.txt
+- LINNMON / OLOV desk, white/black: /products/combinations/79416195.txt
+- LINNMON / OLOV desk, dark gray/white: /products/combinations/89590207.txt
+- LINNMON / OLOV desk, black-brown/white: /products/combinations/99590221.txt
+- LINNMON / OLOV desk, black-brown/white: /products/combinations/79416379.txt
+- LINNMON / OLOV desk, black-brown: /products/combinations/59416380.txt
+- LINNMON / KRILLE desk, white: /products/combinations/09416212.txt
+- LINNMON / KRILLE desk, white/black: /products/combinations/89509702.txt
+- LINNMON / KRILLE desk, black-brown/black: /products/combinations/89509698.txt
+- LINNMON / ADILS table, white: /products/combinations/49590153.txt
+- LINNMON / ADILS table, white: /products/combinations/29932181.txt
+- LINNMON / ADILS table, white/black: /products/combinations/79590156.txt
+- LINNMON / ADILS table, white/black: /products/combinations/09932177.txt
+- LINNMON / ADILS table, dark gray/white: /products/combinations/99590160.txt
+- LINNMON / ADILS table, dark gray/black: /products/combinations/79590203.txt
+- LINNMON / ADILS table, black-brown/white: /products/combinations/79590217.txt
+- LINNMON / ADILS table, black-brown/black: /products/combinations/39590219.txt
+- LINNMON / ADILS desk, black-brown/white: /products/combinations/29416367.txt
+- LINNMON / ADILS desk, black-brown: /products/combinations/09416368.txt
+- LAGKAPTEN / TILLSLAG desk, white: /products/combinations/69417204.txt
+- LAGKAPTEN / TILLSLAG desk, white: /products/combinations/39417187.txt
+- LAGKAPTEN / TILLSLAG desk, white/green: /products/combinations/49478321.txt
+- LAGKAPTEN / TILLSLAG desk, white anthracite/white: /products/combinations/89508439.txt
+- LAGKAPTEN / TILLSLAG desk, white anthracite/green: /products/combinations/89508444.txt
+- LAGKAPTEN / TILLSLAG desk, black-brown/white: /products/combinations/59417515.txt
+- LAGKAPTEN / TILLSLAG desk, black-brown/white: /products/combinations/39417521.txt
+- LAGKAPTEN / SPÄND desk, white: /products/combinations/99571604.txt
+- LAGKAPTEN / SPÄND desk, white: /products/combinations/89563685.txt
+- LAGKAPTEN / SPÄND desk, white: /products/combinations/79563662.txt
+- LAGKAPTEN / SPÄND desk, white: /products/combinations/49563625.txt
+- LAGKAPTEN / SPÄND desk, white: /products/combinations/39563843.txt
+- LAGKAPTEN / SPÄND desk, white: /products/combinations/09563608.txt
+- LAGKAPTEN / SPÄND desk, white/anthracite: /products/combinations/89563628.txt
+- LAGKAPTEN / SPÄND desk, white/anthracite: /products/combinations/69563846.txt
+- LAGKAPTEN / SPÄND desk, white/anthracite: /products/combinations/29563688.txt
+- LAGKAPTEN / SPÄND desk, white/anthracite: /products/combinations/29563612.txt
+- LAGKAPTEN / SPÄND desk, white/anthracite: /products/combinations/09563665.txt
+- LAGKAPTEN / SPÄND desk, grid/multicolor white: /products/combinations/99582773.txt
+- LAGKAPTEN / SPÄND desk, grid multicolor/white: /products/combinations/99582768.txt
+- LAGKAPTEN / SPÄND desk, grid multicolor/white: /products/combinations/89583990.txt
+- LAGKAPTEN / SPÄND desk, black-brown/white: /products/combinations/89563713.txt
+- LAGKAPTEN / SPÄND desk, black-brown/white: /products/combinations/79563855.txt
+- LAGKAPTEN / SPÄND desk, black-brown/white: /products/combinations/59563620.txt
+- LAGKAPTEN / SPÄND desk, black-brown/white: /products/combinations/39563635.txt
+- LAGKAPTEN / SPÄND desk, black-brown/white: /products/combinations/29563674.txt
+- LAGKAPTEN / SPÄND desk, black-brown/white: /products/combinations/19568530.txt
+- LAGKAPTEN / OLOV desk, white: /products/combinations/99417170.txt
+- LAGKAPTEN / OLOV desk, white: /products/combinations/79416770.txt
+- LAGKAPTEN / OLOV desk, white/black: /products/combinations/39417168.txt
+- LAGKAPTEN / OLOV desk, white/black: /products/combinations/19416773.txt
+- LAGKAPTEN / OLOV desk, white anthracite/white: /products/combinations/99508491.txt
+- LAGKAPTEN / OLOV desk, white anthracite/white: /products/combinations/69508416.txt
+- LAGKAPTEN / OLOV desk, white anthracite/black: /products/combinations/89508420.txt
+- LAGKAPTEN / OLOV desk, white anthracite/black: /products/combinations/79508487.txt
+- LAGKAPTEN / OLOV desk, black-brown/white: /products/combinations/69417483.txt
+- LAGKAPTEN / OLOV desk, black-brown/white: /products/combinations/39417026.txt
+- LAGKAPTEN / OLOV desk, black-brown/black: /products/combinations/99417486.txt
+- LAGKAPTEN / OLOV desk, black-brown/black: /products/combinations/79417029.txt
+- LAGKAPTEN / NÄRSPEL desk, white/dark gray: /products/combinations/79417190.txt
+- LAGKAPTEN / NÄRSPEL desk, white anthracite/dark gray: /products/combinations/49508436.txt
+- LAGKAPTEN / MITTBACK desk, white/birch: /products/combinations/19417193.txt
+- LAGKAPTEN / MITTBACK desk, white anthracite/birch: /products/combinations/49508484.txt
+- LAGKAPTEN / MITTBACK desk, gray/wood effect birch: /products/combinations/49585378.txt
+- LAGKAPTEN / KRILLE desk, white: /products/combinations/49416776.txt
+- LAGKAPTEN / KRILLE desk, white: /products/combinations/19417174.txt
+- LAGKAPTEN / KRILLE desk, white/black: /products/combinations/49509718.txt
+- LAGKAPTEN / KRILLE desk, white/black: /products/combinations/09509975.txt
+- LAGKAPTEN / KRILLE desk, white anthracite/white: /products/combinations/49520216.txt
+- LAGKAPTEN / KRILLE desk, white anthracite/white: /products/combinations/39508413.txt
+- LAGKAPTEN / KRILLE desk, white anthracite/black: /products/combinations/89509981.txt
+- LAGKAPTEN / KRILLE desk, white anthracite/black: /products/combinations/29509724.txt
+- LAGKAPTEN / KRILLE desk, black-brown/white: /products/combinations/39417489.txt
+- LAGKAPTEN / KRILLE desk, black-brown/white: /products/combinations/19417032.txt
+- LAGKAPTEN / KRILLE desk, black-brown/black: /products/combinations/89509716.txt
+- LAGKAPTEN / KRILLE desk, black-brown/black: /products/combinations/09509961.txt
+- LAGKAPTEN / ALEX desk, white: /products/combinations/99521435.txt
+- LAGKAPTEN / ALEX desk, white: /products/combinations/99431982.txt
+- LAGKAPTEN / ALEX desk, white: /products/combinations/89521695.txt
+- LAGKAPTEN / ALEX desk, white: /products/combinations/69416817.txt
+- LAGKAPTEN / ALEX desk, white: /products/combinations/59417619.txt
+- LAGKAPTEN / ALEX desk, white: /products/combinations/49431927.txt
+- LAGKAPTEN / ALEX desk, white: /products/combinations/09521604.txt
+- LAGKAPTEN / ALEX desk, white: /products/combinations/09521595.txt
+- LAGKAPTEN / ALEX desk, white/black-brown: /products/combinations/99417622.txt
+- LAGKAPTEN / ALEX desk, white/black-brown: /products/combinations/79431997.txt
+- LAGKAPTEN / ALEX desk, white/black-brown: /products/combinations/59416865.txt
+- LAGKAPTEN / ALEX desk, white anthracite/white: /products/combinations/99508434.txt
+- LAGKAPTEN / ALEX desk, white anthracite/white: /products/combinations/99508410.txt
+- LAGKAPTEN / ALEX desk, white anthracite/white: /products/combinations/79508430.txt
+- LAGKAPTEN / ALEX desk, white/anthracite: /products/combinations/79521653.txt
+- LAGKAPTEN / ALEX desk, white/anthracite: /products/combinations/29521453.txt
+- LAGKAPTEN / ALEX desk, white/anthracite: /products/combinations/19521651.txt
+- LAGKAPTEN / ALEX desk, grid multicolor/white: /products/combinations/39583940.txt
+- LAGKAPTEN / ALEX desk, grid multicolor/white: /products/combinations/29582757.txt
+- LAGKAPTEN / ALEX desk, gray/wood effect: /products/combinations/89585395.txt
+- LAGKAPTEN / ALEX desk, gray/wood effect: /products/combinations/19585450.txt
+- LAGKAPTEN / ALEX desk, gray/wood effect black: /products/combinations/59584934.txt
+- LAGKAPTEN / ALEX desk, gray/wood effect black: /products/combinations/39585388.txt
+- LAGKAPTEN / ALEX desk, gray/wood effect black: /products/combinations/19584926.txt
+- LAGKAPTEN / ALEX desk, gray/wood effect black: /products/combinations/09585380.txt
+- LAGKAPTEN / ALEX desk, black-brown/white: /products/combinations/89521520.txt
+- LAGKAPTEN / ALEX desk, black-brown/white: /products/combinations/79607675.txt
+- LAGKAPTEN / ALEX desk, black-brown/white: /products/combinations/79510937.txt
+- LAGKAPTEN / ALEX desk, black-brown/white: /products/combinations/69521658.txt
+- LAGKAPTEN / ALEX desk, black-brown/white: /products/combinations/59607662.txt
+- LAGKAPTEN / ALEX desk, black-brown/white: /products/combinations/59432163.txt
+- LAGKAPTEN / ALEX desk, black-brown/white: /products/combinations/29521556.txt
+- LAGKAPTEN / ALEX desk, black-brown/white: /products/combinations/29417687.txt
+- LAGKAPTEN / ALEX desk, black-brown/white: /products/combinations/19417051.txt
+- LAGKAPTEN / ALEX desk, black-brown/white: /products/combinations/09432189.txt
+- LAGKAPTEN / ALEX desk, black-brown: /products/combinations/89432171.txt
+- LAGKAPTEN / ALEX desk, black-brown: /products/combinations/79432195.txt
+- LAGKAPTEN / ALEX desk, black-brown/black: /products/combinations/99607660.txt
+- LAGKAPTEN / ALEX desk, black-brown/black: /products/combinations/99510903.txt
+- LAGKAPTEN / ALEX desk, black-brown/black: /products/combinations/89521493.txt
+- LAGKAPTEN / ALEX desk, black-brown/black: /products/combinations/89417057.txt
+- LAGKAPTEN / ALEX desk, black-brown/black: /products/combinations/69417690.txt
+- LAGKAPTEN / ALEX desk, black-brown/black: /products/combinations/49521490.txt
+- LAGKAPTEN / ALEX desk, black-brown/black: /products/combinations/29607673.txt
+- LAGKAPTEN / ALEX desk, black-brown/black: /products/combinations/29521655.txt
+- LAGKAPTEN / ADILS desk, white: /products/combinations/59417153.txt
+- LAGKAPTEN / ADILS desk, white: /products/combinations/29416758.txt
+- LAGKAPTEN / ADILS desk, white/black: /products/combinations/89417156.txt
+- LAGKAPTEN / ADILS desk, white/black: /products/combinations/29416763.txt
+- LAGKAPTEN / ADILS desk, white anthracite/white: /products/combinations/59508426.txt
+- LAGKAPTEN / ADILS desk, white anthracite/white: /products/combinations/49508403.txt
+- LAGKAPTEN / ADILS desk, white anthracite/black: /products/combinations/79508406.txt
+- LAGKAPTEN / ADILS desk, white anthracite/black: /products/combinations/49508422.txt
+- LAGKAPTEN / ADILS desk, grid multicolor/white: /products/combinations/99582749.txt
+- LAGKAPTEN / ADILS desk, grid multicolor/white: /products/combinations/29582776.txt
+- LAGKAPTEN / ADILS desk, gray/wood effect black: /products/combinations/79585372.txt
+- LAGKAPTEN / ADILS desk, gray/wood effect black: /products/combinations/09584026.txt
+- LAGKAPTEN / ADILS desk, black-brown/white: /products/combinations/19417466.txt
+- LAGKAPTEN / ADILS desk, black-brown/white: /products/combinations/09417018.txt
+- LAGKAPTEN / ADILS desk, black-brown/black: /products/combinations/79417473.txt
+- LAGKAPTEN / ADILS desk, black-brown/black: /products/combinations/49417021.txt
+- IVAR wall cabinet with doors, pine: /products/combinations/09417382.txt
+- IVAR shelving unit with underframe: /products/combinations/89555807.txt
+- IVAR shelving unit with foldable table, pine: /products/combinations/79469527.txt
+- IVAR shelving unit with cabinet, pine: /products/combinations/29422330.txt
+- IVAR shelving unit, with box shelf/pine: /products/combinations/49590577.txt
+- IVAR shelving unit, with 4 doors pine/felt: /products/combinations/39572569.txt
+- IVAR shelving unit, with 2 doors pine/felt felt: /products/combinations/79572572.txt
+- IVAR shelving unit, with 2 box shelves/pine: /products/combinations/29590578.txt
+- IVAR shelving unit: /products/combinations/99572571.txt
+- IVAR shelving unit: /products/combinations/99562812.txt
+- IVAR shelving unit: /products/combinations/69562823.txt
+- IVAR shelving unit, pine: /products/combinations/89248314.txt
+- IVAR shelving unit, pine: /products/combinations/79407054.txt
+- IVAR shelving unit, pine: /products/combinations/59248320.txt
+- IVAR shelving unit, pine: /products/combinations/29403845.txt
+- IVAR shelf unit with doors, pine/felt: /products/combinations/39507871.txt
+- IVAR shelf unit with doors, pine/felt: /products/combinations/19507867.txt
+- IVAR shelf unit, pine: /products/combinations/89404578.txt
+- IVAR shelf unit, pine: /products/combinations/69251345.txt
+- IVAR shelf unit, pine: /products/combinations/49248311.txt
+- IVAR shelf unit, pine: /products/combinations/39407070.txt
+- IVAR shelf unit, pine/metal white: /products/combinations/99553501.txt
+- IVAR shelf unit, pine/metal white: /products/combinations/59553503.txt
+- IVAR shelf unit, pine/metal white: /products/combinations/19553500.txt
+- IVAR shelf unit, pine/metal white: /products/combinations/09553505.txt
+- IVAR 4 section shelving unit, pine: /products/combinations/99407067.txt
+- IVAR 4 section shelving unit, pine: /products/combinations/89403951.txt
+- IVAR 4 section shelving unit, pine: /products/combinations/09251348.txt
+- IVAR 3 section shelving unit, pine: /products/combinations/89403946.txt
+- IVAR 3 section shelving unit, pine: /products/combinations/69403947.txt
+- IVAR 3 section shelving unit, pine: /products/combinations/69248386.txt
+- IVAR 3 section shelving unit, pine: /products/combinations/49407258.txt
+- IVAR 3 section shelving unit, pine: /products/combinations/29248374.txt
+- IVAR 2 section unit with foldable table: /products/combinations/69606577.txt
+- IVAR 2 section shelving unit w/cabinet, pine: /products/combinations/39403939.txt
+- IVAR 2 section shelving unit w/cabinet, pine: /products/combinations/39248359.txt
+- IVAR 2 section shelving unit, pine: /products/combinations/99590612.txt
+- IVAR 2 section shelving unit, pine: /products/combinations/89407058.txt
+- IVAR 2 section shelving unit, pine: /products/combinations/79248319.txt
+- IVAR 2 section shelving unit, pine: /products/combinations/49407055.txt
+- IVAR 2 section shelving unit, pine: /products/combinations/49248325.txt
+- IVAR 2 section shelving unit, pine: /products/combinations/29407056.txt
+- IVAR 2 section shelving unit, pine: /products/combinations/19403935.txt
+- BROR work bench with drawers, black/pine plywood: /products/combinations/70494300.txt
+- BROR work bench, gray-green/pine plywood: /products/combinations/10547387.txt
+- BROR Work bench, black, pine plywood: /products/combinations/30333286.txt
+- BROR wall shelf combination, with pegboard/black: /products/combinations/99571864.txt
+- BROR wall shelf combination, with pegboard/2 shelves/black: /products/combinations/19571858.txt
+- BROR wall shelf combination, with hooks/2 shelves/black: /products/combinations/39571862.txt
+- BROR wall shelf combination, black: /products/combinations/89571751.txt
+- BROR wall shelf combination, black: /products/combinations/79571855.txt
+- BROR wall shelf combination, black: /products/combinations/09571854.txt
+- BROR utility cart, gray-green/pine plywood: /products/combinations/80547384.txt
+- BROR Utility cart, black, pine plywood: /products/combinations/60333850.txt
+- BROR storage unit with cabinet + cart, gray-green/pine plywood: /products/combinations/99516146.txt
+- BROR storage unit with cabinet + cart, black/pine plywood: /products/combinations/19471991.txt
+- BROR storage combo w/cabinets+workbench, black/pine plywood: /products/combinations/49436883.txt
+- BROR shelving unit with drawers/shelves, black: /products/combinations/19495096.txt
+- BROR shelving unit with cabinet: /products/combinations/79272677.txt
+- BROR shelving unit with cabinet, gray-green/pine plywood: /products/combinations/89516142.txt
+- BROR shelving unit with cabinet, gray-green/pine plywood: /products/combinations/09516141.txt
+- BROR shelving unit with cabinet, black: /products/combinations/89283005.txt
+- BROR shelving unit with cabinet, black: /products/combinations/69275718.txt
+- BROR shelving unit with cabinet, black: /products/combinations/49471744.txt
+- BROR shelving unit with cabinet, black: /products/combinations/39283003.txt
+- BROR shelving unit, gray-green/pine plywood: /products/combinations/69516138.txt
+- BROR shelving unit, gray-green/pine plywood: /products/combinations/49516144.txt
+- BROR shelving unit, gray-green/pine plywood: /products/combinations/49516139.txt
+- BROR shelving unit, gray-green/pine plywood: /products/combinations/19516145.txt
+- BROR shelving unit, black/wood: /products/combinations/19272703.txt
+- BROR shelving unit, black: /products/combinations/99471746.txt
+- BROR shelving unit, black: /products/combinations/69471738.txt
+- BROR shelving unit, black: /products/combinations/59471753.txt
+- BROR shelving unit, black: /products/combinations/49471980.txt
+- BROR shelving unit, black: /products/combinations/39272655.txt
+- BROR shelving unit, black: /products/combinations/09471977.txt
+- BROR shelving unit, black: /products/combinations/09471741.txt
+- BROR shelf unit w cabinet/drawers, black: /products/combinations/09423217.txt
+- BROR cabinet with doors, black: /products/combinations/50494297.txt
+- BROR cabinet with 2 doors, gray-green: /products/combinations/50547390.txt
+- BROR 20 pieces pegboard set, black: /products/combinations/30570414.txt
+- ANFALLARE / TILLSLAG desk, bamboo/white: /products/combinations/19417739.txt
+- ANFALLARE / TILLSLAG desk, bamboo/green: /products/combinations/69478315.txt
+- ANFALLARE / OLOV desk, bamboo/white: /products/combinations/19417701.txt
+- ANFALLARE / OLOV desk, bamboo/black: /products/combinations/59417704.txt
+- ANFALLARE / KRILLE desk, bamboo/white: /products/combinations/89417707.txt
+- ANFALLARE / KRILLE desk, bamboo/black: /products/combinations/89509995.txt
+- ANFALLARE / HILVER desk, bamboo: /products/combinations/29417710.txt
+- ANFALLARE / ALEX desk, bamboo/white: /products/combinations/59521668.txt
+- ANFALLARE / ALEX desk, bamboo/white: /products/combinations/59417742.txt
+- ANFALLARE / ALEX desk, bamboo/black-brown: /products/combinations/89417745.txt
+- ANFALLARE / ADILS desk, bamboo/white: /products/combinations/09417693.txt
+- ANFALLARE / ADILS desk, bamboo/black: /products/combinations/39417696.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

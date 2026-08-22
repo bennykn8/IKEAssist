@@ -1,0 +1,30 @@
+# @CATEGORY
+Name: Round tables
+ProductCount: 8
+
+# @FILTERS
+PriceRange: $109.99 - $699.00
+Materials: Base: Aluminum, Epoxy/polyester powder coating, Cover: ABS plastic, Inside leg: Steel, Leg base: Solid birch, Tinted clear acrylic lacquer, Leg/ Bracket: Steel, Epoxy powder coating, Leg/ Rail: Steel, Epoxy/polyester powder coating, Leg/ Side rail: Steel, Epoxy/polyester powder coating, Leg/ Underframe/ Cross rail: Particleboard, Solid oak, Thick oak veneer, Stain, Tinted clear acrylic lacquer, Mounting plate/ Column/ Base: Steel, Epoxy/polyester powder coating, Particleboard, Laminate, Plastic edging
+Brand: IKEA
+
+# @ITEMS
+- VIHALS table, white/white: /products/round-tables/49589970.txt
+- STENSELE table, anthracite/anthracite: /products/round-tables/79288230.txt
+- MÖRBYLÅNGA table, oak veneer brown stained: /products/round-tables/60412885.txt
+- MARIEDAMM table, black marble effect: /products/round-tables/70492645.txt
+- LISABO table, black/ash veneer: /products/round-tables/50416501.txt
+- LISABO table, ash veneer: /products/round-tables/40416498.txt
+- DOCKSTA table, white/white: /products/round-tables/19324995.txt
+- DOCKSTA table, black/black: /products/round-tables/99418848.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

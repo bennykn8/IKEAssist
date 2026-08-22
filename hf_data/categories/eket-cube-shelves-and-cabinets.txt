@@ -1,0 +1,99 @@
+# @CATEGORY
+Name: EKET cube shelves & cabinets
+ProductCount: 77
+
+# @FILTERS
+PriceRange: $20.00 - $100.00
+Materials: Back panel: Fiberboard, Paper foil, Back panel: Fiberboard, Paper foil, Plastic foil, Door panel: Particleboard, Fiberboard, Paper foil, Plastic edging, Plastic edging, Plastic edging, Door panel: Particleboard, Paper foil, Plastic edging, Plastic edging, Drawer bottom: Fiberboard, Printed acrylic paint, Printed acrylic paint, Drawer side/ Drawer back: Particleboard, Plastic foil, Galvanized steel, Panel: Particleboard, Honeycomb structure paper filling (100% recycled), Fiberboard, Paper foil, Plastic edging
+Brand: IKEA
+
+# @ITEMS
+- EKET wall-mounted shelving unit, white stained oak effect: /products/eket-cube-shelves-and-cabinets/39286266.txt
+- EKET wall-mounted shelving unit, white stained oak effect: /products/eket-cube-shelves-and-cabinets/29286257.txt
+- EKET wall-mounted shelving unit, white: /products/eket-cube-shelves-and-cabinets/89435221.txt
+- EKET wall-mounted shelving unit, white: /products/eket-cube-shelves-and-cabinets/49285817.txt
+- EKET wall-mounted shelving unit, white: /products/eket-cube-shelves-and-cabinets/39285808.txt
+- EKET wall-mounted shelving unit, walnut effect: /products/eket-cube-shelves-and-cabinets/99490274.txt
+- EKET wall-mounted shelving unit, walnut effect: /products/eket-cube-shelves-and-cabinets/19490273.txt
+- EKET wall-mounted shelving unit, pale yellow: /products/eket-cube-shelves-and-cabinets/89521365.txt
+- EKET wall-mounted shelving unit, pale yellow: /products/eket-cube-shelves-and-cabinets/59521357.txt
+- EKET wall-mounted shelving unit, light gray-blue: /products/eket-cube-shelves-and-cabinets/39521358.txt
+- EKET wall-mounted shelving unit, light gray-blue: /products/eket-cube-shelves-and-cabinets/19521364.txt
+- EKET wall-mounted shelving unit, gray-green: /products/eket-cube-shelves-and-cabinets/79521356.txt
+- EKET wall-mounted shelving unit, gray-green: /products/eket-cube-shelves-and-cabinets/39521363.txt
+- EKET wall-mounted shelving unit, dark gray: /products/eket-cube-shelves-and-cabinets/79285830.txt
+- EKET wall-mounted shelving unit, dark gray: /products/eket-cube-shelves-and-cabinets/69435222.txt
+- EKET wall-mounted shelving unit, dark gray: /products/eket-cube-shelves-and-cabinets/39285827.txt
+- EKET wall-mounted shelf unit, white: /products/eket-cube-shelves-and-cabinets/89285820.txt
+- EKET wall-mounted shelf unit, walnut effect: /products/eket-cube-shelves-and-cabinets/09581184.txt
+- EKET wall-mounted shelf unit, dark gray: /products/eket-cube-shelves-and-cabinets/19285833.txt
+- EKET wall mounted media shelf w rail, white: /products/eket-cube-shelves-and-cabinets/29580881.txt
+- EKET wall mounted media shelf w rail, dark gray: /products/eket-cube-shelves-and-cabinets/29580975.txt
+- EKET wall mounted media shelf w rail, brown/walnut effect: /products/eket-cube-shelves-and-cabinets/09580976.txt
+- EKET wall cb w 1 shlf/door, white: /products/eket-cube-shelves-and-cabinets/19590376.txt
+- EKET wall cb w 1 shlf/door, dark gray: /products/eket-cube-shelves-and-cabinets/99590382.txt
+- EKET wall cabinet with glass door, white stained oak effect: /products/eket-cube-shelves-and-cabinets/99336353.txt
+- EKET wall cabinet with glass door, white stained oak effect: /products/eket-cube-shelves-and-cabinets/19336371.txt
+- EKET wall cabinet with glass door, white: /products/eket-cube-shelves-and-cabinets/59336374.txt
+- EKET wall cabinet with glass door, white: /products/eket-cube-shelves-and-cabinets/29336356.txt
+- EKET wall cabinet with glass door, pale yellow: /products/eket-cube-shelves-and-cabinets/19533022.txt
+- EKET wall cabinet with glass door, pale yellow: /products/eket-cube-shelves-and-cabinets/09533013.txt
+- EKET wall cabinet with glass door, light gray-blue: /products/eket-cube-shelves-and-cabinets/69533010.txt
+- EKET wall cabinet with glass door, light gray-blue: /products/eket-cube-shelves-and-cabinets/39533021.txt
+- EKET wall cabinet with glass door, gray-green: /products/eket-cube-shelves-and-cabinets/89533009.txt
+- EKET wall cabinet with glass door, gray-green: /products/eket-cube-shelves-and-cabinets/59533020.txt
+- EKET wall cabinet with glass door, dark gray: /products/eket-cube-shelves-and-cabinets/69336359.txt
+- EKET wall cabinet with glass door, dark gray: /products/eket-cube-shelves-and-cabinets/49336341.txt
+- EKET wall cabinet with glass door, brown walnut effect: /products/eket-cube-shelves-and-cabinets/79533019.txt
+- EKET wall cabinet with glass door, brown walnut effect: /products/eket-cube-shelves-and-cabinets/29533012.txt
+- EKET wall cabinet with 2 drawers, white: /products/eket-cube-shelves-and-cabinets/69329387.txt
+- EKET wall cabinet with 2 drawers, walnut effect: /products/eket-cube-shelves-and-cabinets/89581175.txt
+- EKET wall cabinet with 2 drawers, dark gray: /products/eket-cube-shelves-and-cabinets/39329384.txt
+- EKET wall cabinet/2 door, walnut effect: /products/eket-cube-shelves-and-cabinets/49581182.txt
+- EKET media shelf, white: /products/eket-cube-shelves-and-cabinets/90582027.txt
+- EKET media shelf, dark gray: /products/eket-cube-shelves-and-cabinets/30582025.txt
+- EKET media shelf, brown/walnut effect: /products/eket-cube-shelves-and-cabinets/00576479.txt
+- EKET cabinet with door, white: /products/eket-cube-shelves-and-cabinets/80332114.txt
+- EKET cabinet with door, dark gray: /products/eket-cube-shelves-and-cabinets/90344927.txt
+- EKET cabinet with door, brown/walnut effect: /products/eket-cube-shelves-and-cabinets/60574590.txt
+- EKET cabinet with door and shelf, white: /products/eket-cube-shelves-and-cabinets/90333938.txt
+- EKET Cabinet with door and shelf, dark gray: /products/eket-cube-shelves-and-cabinets/50344929.txt
+- EKET cabinet with door and shelf, brown/walnut effect: /products/eket-cube-shelves-and-cabinets/00574588.txt
+- EKET Cabinet with 4 compartments, white: /products/eket-cube-shelves-and-cabinets/60333954.txt
+- EKET Cabinet with 4 compartments, dark gray: /products/eket-cube-shelves-and-cabinets/00334536.txt
+- EKET cabinet with 4 compartments, brown/walnut effect: /products/eket-cube-shelves-and-cabinets/10574583.txt
+- EKET Cabinet with 2 drawers, white, Width: 13 3/: /products/eket-cube-shelves-and-cabinets/30428915.txt
+- EKET Cabinet with 2 drawers, white, Width: 27 1/: /products/eket-cube-shelves-and-cabinets/00333947.txt
+- EKET cabinet with 2 drawers, dark gray: /products/eket-cube-shelves-and-cabinets/80344923.txt
+- EKET Cabinet with 2 drawers, dark gray, Width: 13 3/: /products/eket-cube-shelves-and-cabinets/30428920.txt
+- EKET cabinet with 2 drawers, brown/walnut effect: /products/eket-cube-shelves-and-cabinets/80574594.txt
+- EKET cabinet with 2 drawers, brown/walnut effect: /products/eket-cube-shelves-and-cabinets/20574592.txt
+- EKET Cabinet with 2 doors and shelf, white: /products/eket-cube-shelves-and-cabinets/20333951.txt
+- EKET Cabinet with 2 doors and shelf, dark gray: /products/eket-cube-shelves-and-cabinets/20344921.txt
+- EKET cabinet with 2 doors and shelf, brown/walnut effect: /products/eket-cube-shelves-and-cabinets/20574587.txt
+- EKET cabinet, white stained oak effect: /products/eket-cube-shelves-and-cabinets/90428842.txt
+- EKET cabinet, white stained oak effect: /products/eket-cube-shelves-and-cabinets/80428852.txt
+- EKET cabinet, white: /products/eket-cube-shelves-and-cabinets/80334603.txt
+- EKET cabinet, white: /products/eket-cube-shelves-and-cabinets/70332124.txt
+- EKET cabinet, pale yellow: /products/eket-cube-shelves-and-cabinets/80556236.txt
+- EKET cabinet, pale yellow: /products/eket-cube-shelves-and-cabinets/20556239.txt
+- EKET cabinet, light gray-blue: /products/eket-cube-shelves-and-cabinets/60556218.txt
+- EKET cabinet, light gray-blue: /products/eket-cube-shelves-and-cabinets/20556215.txt
+- EKET cabinet, gray-green: /products/eket-cube-shelves-and-cabinets/90556226.txt
+- EKET cabinet, gray-green: /products/eket-cube-shelves-and-cabinets/30556229.txt
+- EKET Cabinet, dark gray, Width: 13 3/4" Height: 13 3/4". Shop today!: /products/eket-cube-shelves-and-cabinets/50334591.txt
+- EKET Cabinet, dark gray, Width: 13 3/4" Height: 13 3/4". Add to cart!: /products/eket-cube-shelves-and-cabinets/40334558.txt
+- EKET cabinet, brown walnut effect: /products/eket-cube-shelves-and-cabinets/60530577.txt
+- EKET cabinet, brown walnut effect: /products/eket-cube-shelves-and-cabinets/30530574.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

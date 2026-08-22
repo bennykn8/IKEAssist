@@ -1,0 +1,38 @@
+# @CATEGORY
+Name: Bathroom countertop & drawer organizers
+ProductCount: 16
+
+# @FILTERS
+PriceRange: $2.29 - $21.99
+Materials: Bamboo, Clear acrylic lacquer, Bamboo, Clear lacquer, Base fabric: 100 % PEVA, 100% polyester (min. 90% recycled), Basket: Polypropylene plastic (min. 20% recycled), Bottom part: Fiberboard, Clear lacquer, Box: Bamboo, Clear lacquer, Frame: Steel, Powder coating, Glass, Handle: Polypropylene, Jar: Glass
+Brand: IKEA
+
+# @ITEMS
+- VISSLAÅN drawer organizers, set of 3, gray: /products/bathroom-countertop-and-drawer-organizers/20562117.txt
+- VISSLAÅN drawer organizer, gray, 13 ¾x4 ¼x: /products/bathroom-countertop-and-drawer-organizers/40562116.txt
+- VISSLAÅN box with lid, set of 5, gray: /products/bathroom-countertop-and-drawer-organizers/90554538.txt
+- VISSLAÅN box with compartments, gray, 12 ¾x12 ¼x3 ¼": /products/bathroom-countertop-and-drawer-organizers/00562104.txt
+- UPPRÄMEN storage basket, gray-green, 13 ¾x6 ¾x9 ¾": /products/bathroom-countertop-and-drawer-organizers/60498563.txt
+- TAVELÅN tray: /products/bathroom-countertop-and-drawer-organizers/50465756.txt
+- SKOGSVIKEN tray, black: /products/bathroom-countertop-and-drawer-organizers/90473486.txt
+- SILVTJÄRN container: /products/bathroom-countertop-and-drawer-organizers/30501920.txt
+- SAXBORGA jar with lid and tray, set of 5, glass cork: /products/bathroom-countertop-and-drawer-organizers/40391879.txt
+- RÅNEN basket: /products/bathroom-countertop-and-drawer-organizers/00527078.txt
+- HALSREM jewelry box with compartments, 13x8 ¾": /products/bathroom-countertop-and-drawer-organizers/60573623.txt
+- DRAGAN box, set of 3, bamboo, 9 ¼x6 ½x5 ½": /products/bathroom-countertop-and-drawer-organizers/50281856.txt
+- DRAGAN 4-piece bathroom set, bamboo: /products/bathroom-countertop-and-drawer-organizers/40222607.txt
+- BOLLÖSUND toiletry bag, beige: /products/bathroom-countertop-and-drawer-organizers/00570887.txt
+- BOLLÖSUND drawer organizers, set of 4, beige: /products/bathroom-countertop-and-drawer-organizers/20570886.txt
+- BOLLÖSUND drawer organizer, hanging/beige: /products/bathroom-countertop-and-drawer-organizers/80570888.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

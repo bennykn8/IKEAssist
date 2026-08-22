@@ -1,0 +1,34 @@
+# @CATEGORY
+Name: Kitchen towels
+ProductCount: 12
+
+# @FILTERS
+PriceRange: $0.99 - $9.99
+Materials: 100 % cotton, 100 % linen, 85 % cotton, 15 % jute
+Brand: IKEA
+
+# @ITEMS
+- SANDVIVA dish towel, yellow/gray: /products/kitchen-towels/00587878.txt
+- SANDVIVA dish towel, green/white: /products/kitchen-towels/50587885.txt
+- RINNIG dish towel, white/dark gray/patterned: /products/kitchen-towels/20476346.txt
+- RINNIG dish towel, red/beige stripe: /products/kitchen-towels/70612695.txt
+- RINNIG dish towel, multicolor patterned: /products/kitchen-towels/20612768.txt
+- RINNIG dish towel, green/blue stripe: /products/kitchen-towels/00612694.txt
+- MARIATHERES dish towel, linen beige/stripe: /products/kitchen-towels/40479589.txt
+- KUSTFYR dish towel, ghost/spider white/black: /products/kitchen-towels/40623006.txt
+- KUSTFYR dish towel, cat eye/white/black: /products/kitchen-towels/20623007.txt
+- INAMARIA dish towel, floral pattern: /products/kitchen-towels/80493079.txt
+- HILDEGUN dish towel, red: /products/kitchen-towels/00484007.txt
+- HILDEGUN dish towel, blue: /products/kitchen-towels/80484008.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

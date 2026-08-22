@@ -1,0 +1,47 @@
+# @CATEGORY
+Name: AXSTAD dark gray fronts
+ProductCount: 25
+
+# @FILTERS
+PriceRange: $31.00 - $265.00
+Materials: Back side: High-pressure melamine laminate, Backside: High-pressure melamine laminate, Front side: Plastic foil (min. 90% recycled), Frontside: Plastic foil (min. 90% recycled), Main parts: Fiberboard, Main parts: Fiberboard, Tempered glass
+Brand: IKEA
+
+# @ITEMS
+- AXSTAD glass door, dark gray: /products/axstad-dark-gray-fronts/90466117.txt
+- AXSTAD glass door, dark gray: /products/axstad-dark-gray-fronts/60466114.txt
+- AXSTAD Glass door, dark gray: /products/axstad-dark-gray-fronts/30466115.txt
+- AXSTAD Glass door, dark gray: /products/axstad-dark-gray-fronts/10466116.txt
+- AXSTAD drawer front, dark gray: /products/axstad-dark-gray-fronts/90466103.txt
+- AXSTAD drawer front, dark gray: /products/axstad-dark-gray-fronts/80466113.txt
+- AXSTAD drawer front, dark gray: /products/axstad-dark-gray-fronts/80466108.txt
+- AXSTAD drawer front, dark gray: /products/axstad-dark-gray-fronts/60466109.txt
+- AXSTAD Drawer front, dark gray: /products/axstad-dark-gray-fronts/50466100.txt
+- AXSTAD Drawer front, dark gray: /products/axstad-dark-gray-fronts/40466110.txt
+- AXSTAD Drawer front, dark gray: /products/axstad-dark-gray-fronts/20466106.txt
+- AXSTAD Drawer front, dark gray: /products/axstad-dark-gray-fronts/10466098.txt
+- AXSTAD door, dark gray: /products/axstad-dark-gray-fronts/80466090.txt
+- AXSTAD door, dark gray: /products/axstad-dark-gray-fronts/70466095.txt
+- AXSTAD door, dark gray: /products/axstad-dark-gray-fronts/70466081.txt
+- AXSTAD door, dark gray: /products/axstad-dark-gray-fronts/70466076.txt
+- AXSTAD door, dark gray: /products/axstad-dark-gray-fronts/60466091.txt
+- AXSTAD Door, dark gray: /products/axstad-dark-gray-fronts/50466096.txt
+- AXSTAD Door, dark gray: /products/axstad-dark-gray-fronts/50466077.txt
+- AXSTAD Door, dark gray: /products/axstad-dark-gray-fronts/40466092.txt
+- AXSTAD Door, dark gray: /products/axstad-dark-gray-fronts/40466087.txt
+- AXSTAD Door, dark gray: /products/axstad-dark-gray-fronts/30466083.txt
+- AXSTAD Door, dark gray: /products/axstad-dark-gray-fronts/20466088.txt
+- AXSTAD Door, dark gray: /products/axstad-dark-gray-fronts/00466094.txt
+- AXSTAD 2-p door/corner base cabinet set, dark gray: /products/axstad-dark-gray-fronts/30466097.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

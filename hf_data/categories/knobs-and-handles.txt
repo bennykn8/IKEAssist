@@ -1,0 +1,125 @@
+# @CATEGORY
+Name: Knobs and handles
+ProductCount: 103
+
+# @FILTERS
+PriceRange: $0.75 - $32.00
+Materials: Aluminium (min. 70% recycled), Epoxy/polyester powder coating, Aluminium (min. 70% recycled), Nickel plated, Acrylic coating, Clear lacquer, Aluminium (min. 70% recycled), Nickel plated, Clear acrylic lacquer, Aluminum, Acrylic coating, Nickel plated, Aluminum, Brass, Acrylic coating, Aluminum, Chrome plated, Aluminum, Epoxy/polyester powder coating, Aluminum, Nickel plated, Acrylic coating, Clear lacquer, Aluminum, Nickel plated, Clear acrylic lacquer, Aluminum, Powder coating
+Brand: IKEA
+
+# @ITEMS
+- VINNÄSET knob, brown: /products/knobs-and-handles/30588937.txt
+- VINNÄSET knob: /products/knobs-and-handles/50434294.txt
+- TÄRNESTAD knob, oak: /products/knobs-and-handles/20542860.txt
+- SÖRBYN knob: /products/knobs-and-handles/50450340.txt
+- SÖRBYN handle: /products/knobs-and-handles/90450338.txt
+- SKRUVSHULT knob, anthracite: /products/knobs-and-handles/80507482.txt
+- SKRUVSHULT knob, anthracite: /products/knobs-and-handles/70507487.txt
+- SKRUVSHULT handle, anthracite: /products/knobs-and-handles/50505955.txt
+- ÖSTERNÄS leather handle, tanned leather: /products/knobs-and-handles/40348895.txt
+- ÖSTERNÄS leather handle, tanned leather: /products/knobs-and-handles/20348896.txt
+- ODLINGSGRÄNS knob, white: /products/knobs-and-handles/40596531.txt
+- ODLINGSGRÄNS knob, gray: /products/knobs-and-handles/00596533.txt
+- NYDALA Knob, bronze color: /products/knobs-and-handles/40405758.txt
+- NYDALA knob, black: /products/knobs-and-handles/80449642.txt
+- NYDALA handle, bronze color: /products/knobs-and-handles/60405757.txt
+- NYDALA Handle, bronze color: /products/knobs-and-handles/20405759.txt
+- NYDALA Handle, black: /products/knobs-and-handles/40449639.txt
+- NYDALA Handle, black: /products/knobs-and-handles/00449636.txt
+- KLINGSTORP knob, off-white/chrome plated: /products/knobs-and-handles/60553682.txt
+- KLINGSTORP knob, off-white/chrome plated: /products/knobs-and-handles/60542858.txt
+- KLINGSTORP knob, black/chrome plated: /products/knobs-and-handles/90565283.txt
+- KLINGSTORP knob, black/chrome plated: /products/knobs-and-handles/30565281.txt
+- KLINGSTORP handle, off-white/chrome plated: /products/knobs-and-handles/90553685.txt
+- KLINGSTORP handle, black/chrome plated: /products/knobs-and-handles/40565285.txt
+- KALLRÖR handle, stainless steel: /products/knobs-and-handles/50357002.txt
+- KALLRÖR handle, stainless steel: /products/knobs-and-handles/30357003.txt
+- KALLRÖR handle, stainless steel: /products/knobs-and-handles/10357004.txt
+- KALERUM knob, stainless steel color: /products/knobs-and-handles/40542859.txt
+- KALERUM knob, brass color: /products/knobs-and-handles/60596554.txt
+- KALERUM handle, stainless steel color: /products/knobs-and-handles/60553644.txt
+- KALERUM handle, stainless steel color: /products/knobs-and-handles/40553659.txt
+- KALERUM handle, stainless steel color: /products/knobs-and-handles/30553650.txt
+- KALERUM handle, brass color: /products/knobs-and-handles/40596550.txt
+- HACKÅS knob, anthracite: /products/knobs-and-handles/80339790.txt
+- HACKÅS handle, anthracite: /products/knobs-and-handles/50342478.txt
+- HACKÅS handle, anthracite: /products/knobs-and-handles/30342479.txt
+- GUBBARP knob, white: /products/knobs-and-handles/80336433.txt
+- GUBBARP handle, white: /products/knobs-and-handles/00336432.txt
+- GRIBBOL knob, silver color: /products/knobs-and-handles/20496325.txt
+- GRIBBOL knob, brass color: /products/knobs-and-handles/50496324.txt
+- GRIBBOL knob, black: /products/knobs-and-handles/70496323.txt
+- GRIBBOL handle, silver color: /products/knobs-and-handles/20496306.txt
+- GRIBBOL handle, brass color: /products/knobs-and-handles/40496305.txt
+- GRIBBOL handle, black: /products/knobs-and-handles/00496307.txt
+- GALTHULT leather handle, black: /products/knobs-and-handles/00519200.txt
+- ENERYDA knob, chrome plated: /products/knobs-and-handles/80347511.txt
+- ENERYDA knob, chrome plated: /products/knobs-and-handles/50347503.txt
+- ENERYDA knob, chrome plated: /products/knobs-and-handles/00347510.txt
+- ENERYDA knob, brass color: /products/knobs-and-handles/60347507.txt
+- ENERYDA knob, brass color: /products/knobs-and-handles/40347508.txt
+- ENERYDA knob, brass color: /products/knobs-and-handles/20347509.txt
+- ENERYDA knob, black: /products/knobs-and-handles/80347506.txt
+- ENERYDA knob, black: /products/knobs-and-handles/30347504.txt
+- ENERYDA knob, black: /products/knobs-and-handles/00347505.txt
+- ENERYDA handle, chrome plated: /products/knobs-and-handles/60347512.txt
+- ENERYDA handle, brass color: /products/knobs-and-handles/20347514.txt
+- ENERYDA handle, black: /products/knobs-and-handles/70347516.txt
+- ENERYDA cup cabinet pull, chrome plated: /products/knobs-and-handles/40347513.txt
+- ENERYDA cup cabinet pull, brass color: /products/knobs-and-handles/90347515.txt
+- ENERYDA cup cabinet pull, black: /products/knobs-and-handles/50347517.txt
+- DRAGSMARK clip-on handle, white: /products/knobs-and-handles/00559804.txt
+- BORGHAMN handle: /products/knobs-and-handles/40318978.txt
+- BORGHAMN handle: /products/knobs-and-handles/20316046.txt
+- BORGHAMN handle: /products/knobs-and-handles/00316047.txt
+- BILLSBRO handle, white: /products/knobs-and-handles/90334320.txt
+- BILLSBRO handle, white: /products/knobs-and-handles/90334315.txt
+- BILLSBRO handle, white: /products/knobs-and-handles/90334301.txt
+- BILLSBRO handle, white: /products/knobs-and-handles/70334321.txt
+- BILLSBRO handle, white: /products/knobs-and-handles/60334307.txt
+- BILLSBRO handle, white: /products/knobs-and-handles/20334314.txt
+- BILLSBRO Handle, white: /products/knobs-and-handles/20334309.txt
+- BILLSBRO handle, white: /products/knobs-and-handles/00334310.txt
+- BILLSBRO handle, stainless steel color: /products/knobs-and-handles/80323633.txt
+- BILLSBRO handle, stainless steel color: /products/knobs-and-handles/80323628.txt
+- BILLSBRO handle, stainless steel color: /products/knobs-and-handles/60323629.txt
+- BILLSBRO handle, stainless steel color: /products/knobs-and-handles/60323592.txt
+- BILLSBRO handle, stainless steel color: /products/knobs-and-handles/40323630.txt
+- BILLSBRO handle, stainless steel color: /products/knobs-and-handles/20323631.txt
+- BILLSBRO Handle, stainless steel color: /products/knobs-and-handles/10323599.txt
+- BILLSBRO handle, stainless steel color: /products/knobs-and-handles/00323632.txt
+- BILLSBRO handle, anthracite: /products/knobs-and-handles/90576314.txt
+- BILLSBRO handle, anthracite: /products/knobs-and-handles/80576183.txt
+- BILLSBRO handle, anthracite: /products/knobs-and-handles/50576311.txt
+- BILLSBRO handle, anthracite: /products/knobs-and-handles/10576313.txt
+- BAGGANÄS knob, stainless steel: /products/knobs-and-handles/90338422.txt
+- BAGGANÄS knob, stainless steel: /products/knobs-and-handles/30338420.txt
+- BAGGANÄS knob, stainless steel: /products/knobs-and-handles/10338421.txt
+- BAGGANÄS knob, gray-green: /products/knobs-and-handles/50588007.txt
+- BAGGANÄS knob, deep green: /products/knobs-and-handles/90588005.txt
+- BAGGANÄS knob, brass color: /products/knobs-and-handles/80338408.txt
+- BAGGANÄS knob, brass color: /products/knobs-and-handles/00338412.txt
+- BAGGANÄS knob, black: /products/knobs-and-handles/90338417.txt
+- BAGGANÄS knob, black: /products/knobs-and-handles/10338416.txt
+- BAGGANÄS knob, beige: /products/knobs-and-handles/70588006.txt
+- BAGGANÄS handle, stainless steel: /products/knobs-and-handles/70338418.txt
+- BAGGANÄS handle, stainless steel: /products/knobs-and-handles/50338419.txt
+- BAGGANÄS handle, gray-green: /products/knobs-and-handles/60588002.txt
+- BAGGANÄS handle, deep green: /products/knobs-and-handles/40588003.txt
+- BAGGANÄS handle, brass color: /products/knobs-and-handles/20338411.txt
+- BAGGANÄS handle, brass color: /products/knobs-and-handles/00338407.txt
+- BAGGANÄS handle, black: /products/knobs-and-handles/80338413.txt
+- BAGGANÄS handle, black: /products/knobs-and-handles/60338414.txt
+- BAGGANÄS handle, beige: /products/knobs-and-handles/80588001.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

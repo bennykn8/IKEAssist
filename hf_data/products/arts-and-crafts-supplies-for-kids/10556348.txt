@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SOLFÅGEL roll-up pencil case, beige
+SKU: 10556348
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/solfagel-roll-up-pencil-case-beige-10556348/
+Category: Arts and crafts supplies for kids
+Description: In this pencil case you can store and protect your pencils and brushes. Easy to roll up, tie and bring with you in a bag. Made from 100% recycled polyester. This pencil case has room for many pencils ...
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % polyester (100% recycled)
+Features: May be completed with SOLFÅGEL colored pencils and MÅLA brushes.
+Care: Machine wash, warm, durable-press cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/solfagel-roll-up-pencil-case-beige__1164184_pe890453_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

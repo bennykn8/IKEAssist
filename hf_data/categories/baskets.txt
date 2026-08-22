@@ -1,0 +1,77 @@
+# @CATEGORY
+Name: Baskets
+ProductCount: 55
+
+# @FILTERS
+PriceRange: $0.79 - $39.99
+Materials: 100 % cotton, 100 % jute, Bamboo, Clear acrylic lacquer, Banana fibers, Clear lacquer, Base fabric: 100% polyester (min. 90% recycled), Basket/ Binding: Rattan, Clear lacquer, Basket/ Decoration: Jute, Basket: 100 % jute, Basket: Jute, Basket: Steel, Powder coating
+Brand: IKEA
+
+# @ITEMS
+- VÄXTHUS basket, rattan/handmade, 12 ½x13 ¾": /products/baskets/40551132.txt
+- VÄXTHUS basket, poplar/handmade, 19 ¾x10 ¾": /products/baskets/70551135.txt
+- VÄLTNING box, natural, 13x13x12 ¼": /products/baskets/80589005.txt
+- VÄLTNING box, natural, 9 ¾x13 ¾x: /products/baskets/50589002.txt
+- TRUMMIS basket, handmade rattan, 9 ¾x13 ¾x7 ¾": /products/baskets/60500820.txt
+- TOLKNING , set of 2, handmade bamboo: /products/baskets/50512649.txt
+- TOLKNING hanging basket, jute: /products/baskets/70512648.txt
+- TJABBIG basket, natural: /products/baskets/80532603.txt
+- TJABBIG basket, natural, 9 ¾x: /products/baskets/50532567.txt
+- TÄTING basket, banana leaves/natural, 13 ¾x9 ¾x9 ¾": /products/baskets/20474601.txt
+- SNÖPLOG basket with lid, set of 2, poplar: /products/baskets/80581863.txt
+- SNÖPLOG basket, set of 3, bamboo: /products/baskets/70581849.txt
+- SNIDAD basket, rattan, 21 ¼x15 ¼": /products/baskets/30394944.txt
+- SMARRA box with lid, natural, 11 ¾x11 ¾x: /products/baskets/90348063.txt
+- RISATORP wire basket, white, 9 ¾x10 ¼x: /products/baskets/90281618.txt
+- RISATORP wire basket, white, 10 ¾x16 ½x: /products/baskets/20527633.txt
+- RISATORP wire basket, pink, 9 ¾x10 ¼x: /products/baskets/80588690.txt
+- RISATORP wire basket, dark green, 9 ¾x10 ¼x: /products/baskets/20588688.txt
+- RISATORP wire basket, dark gray, 9 ¾x10 ¼x: /products/baskets/20588711.txt
+- RISATORP basket with compartments, white, 13x9 ½x4 ¼": /products/baskets/50527636.txt
+- RISATORP basket with compartments, white, 13x9 ½x: /products/baskets/00527634.txt
+- PURRPINGLA storage basket, textile/beige: /products/baskets/70591952.txt
+- PUDDA basket: /products/baskets/90429648.txt
+- PUDDA basket: /products/baskets/70429649.txt
+- PLOGSVÄNG storage basket, white, 6x7 ¾x: /products/baskets/20593454.txt
+- MJÖLKKANNA basket, bamboo, 9 ¾x13 ¾x: /products/baskets/80556887.txt
+- MJÖLKKANNA basket, bamboo, 7x9 ¾x5 ½": /products/baskets/00556886.txt
+- MÄVINN basket, palm leaf handmade, 10 ¼x4x: /products/baskets/30600835.txt
+- MÄVINN basket, jute/braided, 14 ½x13 ¾x13 ¾": /products/baskets/90587770.txt
+- MÄVINN basket, jute: /products/baskets/80552035.txt
+- MÄVINN basket, jute, 8 ¾": /products/baskets/70552026.txt
+- MÄVINN basket, beige/jute handmade, 11 ¾x11 ¾x13 ¾": /products/baskets/60601013.txt
+- MÄVINN basket, banana fiber handmade, 11x9 ¾x: /products/baskets/10601015.txt
+- MÄVINN basket, 12 ¼": /products/baskets/10575040.txt
+- LUSTIGKURRE basket, natural water hyacinth/seagrass, 12 ½x13x12 ½": /products/baskets/30457328.txt
+- LÖVRÄFSA basket, bamboo, 19 ¾x12 ½": /products/baskets/80556854.txt
+- LJUNGAN basket with lid: /products/baskets/50527882.txt
+- LJUNGAN basket, 9 ¾x7 ¾x7 ¾": /products/baskets/70527881.txt
+- LABBSAL basket, handmade water hyacinth, 12 ½x13 ½x12 ½": /products/baskets/80500796.txt
+- KRALLIG basket, sedge natural/white, 9 ¾": /products/baskets/30591671.txt
+- KNIPSA basket, seagrass, 12 ½x13x12 ½": /products/baskets/20110540.txt
+- JÄGMÄSTARE basket, 9 ¾x13 ¾x7 ¾": /products/baskets/40555960.txt
+- HÖKRUBBA basket with lid, bamboo: /products/baskets/30581865.txt
+- HÖKRUBBA basket, water hyacinth, 10 ¼x13 ¾x: /products/baskets/90581867.txt
+- HÖKRUBBA basket, sedge, 13 ½": /products/baskets/10581866.txt
+- HÖKRUBBA basket, banana leaves: /products/baskets/70581868.txt
+- GNABBAS basket, 12 ½x13 ¾x12 ½": /products/baskets/60400298.txt
+- FRYKEN box with lid, set of 3, seagrass: /products/baskets/80328145.txt
+- FLÅDIS basket, seagrass: /products/baskets/60322173.txt
+- DJURTRÄNARE basket, white/green, 9 ¾x13 ¾x7 ½": /products/baskets/70591419.txt
+- DJURTRÄNARE basket, white/blue, 7x9 ¾x5 ½": /products/baskets/10591417.txt
+- DJURTRÄNARE basket, white/black/blue, 12 ½x7 ½": /products/baskets/30591421.txt
+- BULLIG box, bamboo/brown, 12 ½x13 ¾x: /products/baskets/30474592.txt
+- BRANÄS Basket, rattan, 12 ½x13 ½x12 ½": /products/baskets/00138432.txt
+- ÅSUNDEN basket, dark gray, 11 ¾x14 ¼x9 ¾": /products/baskets/30263434.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

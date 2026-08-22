@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: GLYPEN Bath faucet, chrome plated
+SKU: 10457193
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/glypen-bath-faucet-chrome-plated-10457193/
+Category: Bathroom faucets & sink taps
+Description: . This faucet helps lower water and energy use so you can lower your bills too. The quality is built to last through many years of pouring, washing and rinsing.
+
+# @OFFER
+Price: 80
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Body: Zinc, Chrome plated, Inner body: Reinforced polyamide, Spout: Brass, Brass, Chrome plated
+Dimensions: Connection hoses with 9/16" x 24UNEF connection included. Length: 13¾".
+Features: If you are uncertain about the installation, contact a professional. The installation shall be made in accordance with valid local building and plumbing regulations. | To be mounted in a 1⅜" hole in a max. 2" thick sink/countertop. | A tool is included that makes it easy to install the faucet in place.
+Care: Do not use scouring-powder, steel wool, hard or sharp tools which can scratch the surface. | Wipe clean with a soft cloth dampened with water and a mild dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/glypen-bath-faucet-chrome-plated__0779359_pe759469_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

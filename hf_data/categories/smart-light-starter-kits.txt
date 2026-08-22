@@ -1,0 +1,37 @@
+# @CATEGORY
+Name: Smart light starter kits
+ProductCount: 15
+
+# @FILTERS
+PriceRange: $17.99 - $149.99
+Materials: ABS plastic, ABS plastic, Back part/ Front part: ABS plastic, ABS plastic, Cover: Polycarbonate plastic, Gasket: Synthetic rubber, Junction box: Polypropylene, Mounting bracket: ABS plastic, Polycarbonate plastic, Shade/ Junction box: Polypropylene plastic (min. 20% recycled), Shade/ Tube: Steel, Powder coating, Top part/ Battery box/ Lid: ABS plastic
+Brand: IKEA
+
+# @ITEMS
+- YTBERG / TRÅDFRI lighting kit, white: /products/smart-light-starter-kits/59561777.txt
+- YTBERG / TRÅDFRI lighting kit, white: /products/smart-light-starter-kits/59561683.txt
+- YTBERG / TRÅDFRI lighting kit, black: /products/smart-light-starter-kits/79561738.txt
+- YTBERG / TRÅDFRI lighting kit, black: /products/smart-light-starter-kits/09561614.txt
+- TVÄRDRAG / TRÅDFRI lighting kit, black: /products/smart-light-starter-kits/79561413.txt
+- TVÄRDRAG / TRÅDFRI lighting kit, black: /products/smart-light-starter-kits/39561504.txt
+- TRÅDFRI / STYRBAR starter kit, smart wireless dimmable/white spectrum globe, P45 E: /products/smart-light-starter-kits/79508468.txt
+- TRÅDFRI / STYRBAR starter kit, smart wireless dimmable/white spectrum globe, P45 E: /products/smart-light-starter-kits/39508470.txt
+- TRÅDFRI starter kit, smart/wireless dimmable white spectrum, E: /products/smart-light-starter-kits/00547585.txt
+- TRÅDFRI starter kit, smart/wireless dimmable white spectrum, E: /products/smart-light-starter-kits/00547571.txt
+- TRÅDFRI starter kit, smart/wireless dimmable white spectrum, GU: /products/smart-light-starter-kits/00547566.txt
+- TRÅDFRI starter kit, smart wireless dimmable/warm white, E: /products/smart-light-starter-kits/20541554.txt
+- TRÅDFRI starter kit, smart wireless dimmable/warm white, E: /products/smart-light-starter-kits/10541564.txt
+- TRÅDFRI starter kit, smart wireless dimmable/color and white spectrum, E: /products/smart-light-starter-kits/40547606.txt
+- TRÅDFRI starter kit, smart wireless dimmable/color and white spectrum, E: /products/smart-light-starter-kits/00547608.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HOLMARED countertop, bamboo/veneer
+SKU: 80557387
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/holmared-countertop-bamboo-veneer-80557387/
+Category: Butcher block countertops
+Description: , 98x11/8" This thick bamboo veneer worktop is very hardwearing and able to withstand everyday kitchen use. The wood expression with unique grain pattern feels warm and vibrant. Available to take home...
+
+# @OFFER
+Price: 209
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Bamboo, Bamboo, Bamboo, Plastic edging, Oil-acrylic, Particleboard, Oil-acrylic, Clear acrylic lacquer, Wax
+Features: Not suitable for use in damp rooms. | To ensure that your worktop ages gracefully, treat it regularly with TRIXIG wood treatment oil; it gives the surface a beautiful sheen, protects the wood and prolongs the life of the worktop. | Every worktop is unique, with varying grain pattern and natural color shifts that are part of the charm of wood.
+Care: The worktop surface is pre-treated at the factory with hard wax oil. Due to the nature of the material, treat the edges and cut-outs with STOCKARYD or TRIXIG wood treatment oil, prior to installation.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/holmared-countertop-bamboo-veneer__1237175_pe917830_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

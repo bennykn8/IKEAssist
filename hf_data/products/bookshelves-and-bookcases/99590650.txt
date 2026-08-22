@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BILLY / BERGSHULT bookcase comb w foldable table, white
+SKU: 99590650
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/billy-bergshult-bookcase-comb-w-foldable-table-white-s99590650/
+Category: Bookshelves & bookcases
+Description: , 311/2x413/4" A beloved icon that can be used in many ways. This combination of BILLY bookcase with foldable table and BERGSHULT/FÖRLÄGGARE wall shelf makes use of space and offers extra storage to y...
+
+# @OFFER
+Price: 189
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Paper foil, Plastic edging, Plastic edging, Top panel/ Fixed shelf/ Side panel/ Fixed shelf: Particleboard, Paint, Plastic edging, Side panel: Fiberboard, Paint, Paint
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Screws to mount the bracket to the shelf are included. | The shelf carries a max. of 22 lbs when properly mounted on the wall.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/billy-bergshult-bookcase-comb-w-foldable-table-white__1417060_pe975833_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

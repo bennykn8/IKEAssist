@@ -1,0 +1,121 @@
+# @CATEGORY
+Name: Upholstered beds
+ProductCount: 99
+
+# @FILTERS
+PriceRange: $99.00 - $999.00
+Materials: Back fabric/ Lining: 100 % polyester (100% recycled), Back fabric: 100 % polyester (100% recycled), Base fabric/ Supporting fabric: 100% polyester (min. 90% recycled), Base fabric: 78 % cotton, 22 % polyester (100% recycled), Bed slats: Layer-glued wood veneer, Adhesive resin as coating, Bottom frame: Particleboard, Solid wood, Plywood, Laminated veneer lumber, Fiberboard, Solid pine, Bottom frame: Plywood, Solid wood, Particleboard, Bottom frame: Solid wood, Plywood, Particleboard, Bottom headboard rail: 100% polyester (min. 70% recycled), Fiberboard, Plywood, Laminated veneer lumber, Center support beam: Galvanized steel
+Brand: IKEA
+
+# @ITEMS
+- VADHEIM upholstered bed frame, Gunnared light green, King: /products/upholstered-beds/80465689.txt
+- VADHEIM upholstered bed frame, Gunnared light green, Full: /products/upholstered-beds/00477144.txt
+- TUFJORD upholstered bed frame, Tallmyra white/black/Luröy, Double: /products/upholstered-beds/99555326.txt
+- TUFJORD upholstered bed frame, Tallmyra white/black/Luröy, King: /products/upholstered-beds/79555327.txt
+- TUFJORD upholstered bed frame, Tallmyra white/black/Luröy, Queen: /products/upholstered-beds/39555329.txt
+- TUFJORD upholstered bed frame, Tallmyra white/black/Lönset, Queen: /products/upholstered-beds/89555355.txt
+- TUFJORD upholstered bed frame, Tallmyra white/black/Lönset, King: /products/upholstered-beds/79555351.txt
+- TUFJORD upholstered bed frame, Tallmyra white/black/Lönset, Double: /products/upholstered-beds/19555349.txt
+- TUFJORD upholstered bed frame, Tallmyra white/black, Full: /products/upholstered-beds/50573256.txt
+- TUFJORD upholstered bed frame, Tallmyra white/black, King: /products/upholstered-beds/30573257.txt
+- TUFJORD upholstered bed frame, Tallmyra white/black, Queen: /products/upholstered-beds/10573258.txt
+- TUFJORD upholstered bed frame, Tallmyra black-blue/Luröy, Double: /products/upholstered-beds/59555314.txt
+- TUFJORD upholstered bed frame, Tallmyra black-blue/Luröy, Queen: /products/upholstered-beds/29555315.txt
+- TUFJORD upholstered bed frame, Tallmyra black-blue/Luröy, King: /products/upholstered-beds/09555316.txt
+- TUFJORD upholstered bed frame, Tallmyra black-blue/Lönset, King: /products/upholstered-beds/99555350.txt
+- TUFJORD upholstered bed frame, Tallmyra black-blue/Lönset, Double: /products/upholstered-beds/59555347.txt
+- TUFJORD upholstered bed frame, Tallmyra black-blue/Lönset, Queen: /products/upholstered-beds/39555353.txt
+- TUFJORD upholstered bed frame, Tallmyra black-blue, Full: /products/upholstered-beds/90572504.txt
+- TUFJORD upholstered bed frame, Tallmyra black-blue, King: /products/upholstered-beds/60572505.txt
+- TUFJORD upholstered bed frame, Tallmyra black-blue, Queen: /products/upholstered-beds/20572507.txt
+- TÄRNKULLEN upholstered bed frame, Vissle beige, Full: /products/upholstered-beds/99569234.txt
+- TÄRNKULLEN upholstered bed frame, Vissle beige, Queen: /products/upholstered-beds/69569240.txt
+- TÄRNKULLEN upholstered bed frame, Vissle beige, King: /products/upholstered-beds/49569236.txt
+- TÄRNKULLEN upholstered bed frame, Vissle beige, Twin: /products/upholstered-beds/29569242.txt
+- TÄRNKULLEN upholstered bed frame, Vissle beige/Luröy, Full: /products/upholstered-beds/69564370.txt
+- TÄRNKULLEN upholstered bed frame, Vissle beige/Luröy, Twin: /products/upholstered-beds/59564380.txt
+- TÄRNKULLEN upholstered bed frame, Vissle beige/Luröy, Queen: /products/upholstered-beds/59564375.txt
+- TÄRNKULLEN upholstered bed frame, Vissle beige/Luröy, King: /products/upholstered-beds/29564372.txt
+- TÄRNKULLEN upholstered bed frame, Tibbleby beige/gray, Twin: /products/upholstered-beds/89569220.txt
+- TÄRNKULLEN upholstered bed frame, Tibbleby beige/gray/Luröy, Twin: /products/upholstered-beds/29564353.txt
+- TÄLLÅSEN upholstered bed frame, Kulsta light beige/Luröy, Full: /products/upholstered-beds/79520253.txt
+- TÄLLÅSEN upholstered bed frame, Kulsta light beige/Luröy, King: /products/upholstered-beds/59520254.txt
+- TÄLLÅSEN upholstered bed frame, Kulsta light beige/Luröy, Queen: /products/upholstered-beds/19520251.txt
+- TÄLLÅSEN upholstered bed frame, Kulsta light beige/Lönset, Queen: /products/upholstered-beds/99520252.txt
+- TÄLLÅSEN upholstered bed frame, Kulsta light beige/Lönset, Full: /products/upholstered-beds/29520255.txt
+- TÄLLÅSEN upholstered bed frame, Kulsta light beige/Lönset, King: /products/upholstered-beds/09520256.txt
+- TÄLLÅSEN upholstered bed frame, Kulsta light beige, King: /products/upholstered-beds/90572797.txt
+- TÄLLÅSEN upholstered bed frame, Kulsta light beige, Queen: /products/upholstered-beds/70572798.txt
+- TÄLLÅSEN upholstered bed frame, Kulsta light beige, Full: /products/upholstered-beds/10572796.txt
+- TÄLLÅSEN upholstered bed frame, Kulsta gray-green/Luröy, King: /products/upholstered-beds/99514760.txt
+- TÄLLÅSEN upholstered bed frame, Kulsta gray-green/Luröy, Queen: /products/upholstered-beds/59514762.txt
+- TÄLLÅSEN upholstered bed frame, Kulsta gray-green/Luröy, Full: /products/upholstered-beds/19514759.txt
+- TÄLLÅSEN upholstered bed frame, Kulsta gray-green/Lönset, King: /products/upholstered-beds/79514775.txt
+- TÄLLÅSEN upholstered bed frame, Kulsta gray-green/Lönset, Queen: /products/upholstered-beds/39514777.txt
+- TÄLLÅSEN upholstered bed frame, Kulsta gray-green/Lönset, Full: /products/upholstered-beds/09514774.txt
+- TÄLLÅSEN upholstered bed frame, Kulsta gray-green, Queen: /products/upholstered-beds/40538937.txt
+- TÄLLÅSEN upholstered bed frame, Kulsta gray-green, King: /products/upholstered-beds/30550425.txt
+- TÄLLÅSEN upholstered bed frame, Kulsta gray-green, Full: /products/upholstered-beds/10538934.txt
+- SLATTUM upholstered bed frame, Vissle dark gray, Queen: /products/upholstered-beds/70571256.txt
+- SLATTUM upholstered bed frame, Vissle dark gray, Full: /products/upholstered-beds/40571253.txt
+- SLATTUM upholstered bed frame, Vissle dark gray, Twin: /products/upholstered-beds/10571259.txt
+- SLATTUM upholstered bed frame, Knisa bright blue, Queen: /products/upholstered-beds/10571278.txt
+- SAGESUND upholstered bed frame, Diseröd brown/Luröy, Queen: /products/upholstered-beds/89496479.txt
+- SAGESUND upholstered bed frame, Diseröd brown/Luröy, King: /products/upholstered-beds/69496480.txt
+- SAGESUND upholstered bed frame, Diseröd brown/Luröy, Full: /products/upholstered-beds/59496485.txt
+- SAGESUND upholstered bed frame, Diseröd brown/Lönset, Queen: /products/upholstered-beds/89496511.txt
+- SAGESUND upholstered bed frame, Diseröd brown/Lönset, Full: /products/upholstered-beds/49496508.txt
+- SAGESUND upholstered bed frame, Diseröd brown/Lönset, King: /products/upholstered-beds/09496510.txt
+- SAGESUND upholstered bed frame, Diseröd brown, Queen: /products/upholstered-beds/60490393.txt
+- SAGESUND upholstered bed frame, Diseröd brown, Full: /products/upholstered-beds/60490388.txt
+- SAGESUND upholstered bed frame, Diseröd brown, King: /products/upholstered-beds/00490391.txt
+- RAMNEFJÄLL upholstered bed frame, Klovsta gray/white, King: /products/upholstered-beds/89560253.txt
+- RAMNEFJÄLL upholstered bed frame, Klovsta gray/white, Full: /products/upholstered-beds/89560248.txt
+- RAMNEFJÄLL upholstered bed frame, Klovsta gray/white, Queen: /products/upholstered-beds/79560258.txt
+- RAMNEFJÄLL upholstered bed frame, Klovsta gray/white, Twin: /products/upholstered-beds/69560273.txt
+- RAMNEFJÄLL upholstered bed frame, Klovsta gray/white/Luröy, Queen: /products/upholstered-beds/99560262.txt
+- RAMNEFJÄLL upholstered bed frame, Klovsta gray/white/Luröy, King: /products/upholstered-beds/39560255.txt
+- RAMNEFJÄLL upholstered bed frame, Klovsta gray/white/Luröy, Full: /products/upholstered-beds/29560251.txt
+- RAMNEFJÄLL upholstered bed frame, Klovsta gray/white/Luröy, Twin: /products/upholstered-beds/19560275.txt
+- RAMNEFJÄLL upholstered bed frame, Kilanda light beige, Full: /products/upholstered-beds/89560187.txt
+- RAMNEFJÄLL upholstered bed frame, Kilanda light beige, Twin: /products/upholstered-beds/79560220.txt
+- RAMNEFJÄLL upholstered bed frame, Kilanda light beige, Queen: /products/upholstered-beds/69560206.txt
+- RAMNEFJÄLL upholstered bed frame, Kilanda light beige, King: /products/upholstered-beds/69560193.txt
+- RAMNEFJÄLL upholstered bed frame, Kilanda light beige/Luröy, King: /products/upholstered-beds/99560196.txt
+- RAMNEFJÄLL upholstered bed frame, Kilanda light beige/Luröy, Full: /products/upholstered-beds/69560188.txt
+- RAMNEFJÄLL upholstered bed frame, Kilanda light beige/Luröy, Queen: /products/upholstered-beds/29560208.txt
+- RAMNEFJÄLL upholstered bed frame, Kilanda light beige/Luröy, Twin: /products/upholstered-beds/19560223.txt
+- IDANÄS upholstered storage bed, Naggen beige, King: /products/upholstered-beds/60588101.txt
+- IDANÄS upholstered storage bed, Naggen beige, Queen: /products/upholstered-beds/20588103.txt
+- IDANÄS upholstered storage bed, Naggen beige, Full: /products/upholstered-beds/20588099.txt
+- IDANÄS upholstered storage bed, Gunnared dark gray, King: /products/upholstered-beds/40447188.txt
+- IDANÄS upholstered storage bed, Gunnared dark gray, Full: /products/upholstered-beds/20484695.txt
+- IDANÄS upholstered storage bed, Gunnared dark gray, Queen: /products/upholstered-beds/00447190.txt
+- IDANÄS upholstered bed frame, Naggen beige, Twin: /products/upholstered-beds/90594940.txt
+- IDANÄS upholstered bed frame, Naggen beige, King: /products/upholstered-beds/40588079.txt
+- IDANÄS upholstered bed frame, Naggen beige, Queen: /products/upholstered-beds/00588081.txt
+- IDANÄS upholstered bed frame, Naggen beige, Full: /products/upholstered-beds/00588076.txt
+- IDANÄS upholstered bed frame, Gunnared pale pink, King: /products/upholstered-beds/80458957.txt
+- IDANÄS upholstered bed frame, Gunnared dark gray, Full: /products/upholstered-beds/70484693.txt
+- IDANÄS upholstered bed frame, Gunnared dark gray, Queen: /products/upholstered-beds/60458958.txt
+- IDANÄS upholstered bed frame, Gunnared dark gray, King: /products/upholstered-beds/00458956.txt
+- GLADSTAD upholstered bed frame, Kabusa light gray, Full: /products/upholstered-beds/10490461.txt
+- GLADSTAD upholstered bed frame, Kabusa light gray, Twin: /products/upholstered-beds/00490471.txt
+- GLADSTAD upholstered bed frame, Kabusa light gray, Queen: /products/upholstered-beds/00490466.txt
+- GLADSTAD upholstered bed, 4 storage boxes, Kabusa light gray, Queen: /products/upholstered-beds/69407021.txt
+- GLADSTAD upholstered bed, 4 storage boxes, Kabusa light gray, Full: /products/upholstered-beds/69407016.txt
+- GLADSTAD upholstered bed, 2 storage boxes, Kabusa light gray, Queen: /products/upholstered-beds/89406803.txt
+- GLADSTAD upholstered bed, 2 storage boxes, Kabusa light gray, Full: /products/upholstered-beds/59406814.txt
+- GLADSTAD upholstered bed, 2 storage boxes, Kabusa light gray, Twin: /products/upholstered-beds/49406763.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

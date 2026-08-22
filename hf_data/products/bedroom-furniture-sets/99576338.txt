@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: GLAMBERGET bedroom furniture, set of 3, pine/Katorp beige, Twin/Full
+SKU: 99576338
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/glamberget-bedroom-furniture-set-of-3-pine-katorp-beige-s99576338/
+Category: Bedroom furniture sets
+Description: The GLAMBERGET series is smart, space-saving and multi-functional furniture. By combining an extendable bed, a wardrobe and a room divider, you can easily create a room within a room.
+
+# @OFFER
+Price: 808.98
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Head/foot board/ Bedside/ Midbeam/ Bed slats/ Support rail/ Leg frame/ Leg/ Drawer front/ Drawer side/ Drawer back/ Lid/ Rail: Solid pine, Drawer bottom: Fiberboard, Paper foil, Fabric/ Fabric: 80 % cotton, 20 % linen
+Features: Slatted bed base is included, a midbeam is not required. | The bed frame can be extended to fit any mattress between 31½-63x78¾ in. | The clothes rail holds about 15-20 shirts on hangers.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/glamberget-bedroom-furniture-set-of-3-pine-katorp-beige__1370848_pe959011_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

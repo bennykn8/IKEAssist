@@ -1,0 +1,49 @@
+# @CATEGORY
+Name: Bathroom countertops
+ProductCount: 27
+
+# @FILTERS
+PriceRange: $50.00 - $115.00
+Materials: Bamboo, Particleboard, Clear acrylic lacquer, Fiberboard, Plastic foil, Melamine foil, Particleboard, High-pressure melamine laminate, High-pressure melamine laminate, Plastic edging, Particleboard, High-pressure melamine laminate, Laminate
+Brand: IKEA
+
+# @ITEMS
+- TOLKEN countertop, white marble effect/foliated board: /products/bathroom-countertops/90555383.txt
+- TOLKEN countertop, white marble effect/foliated board: /products/bathroom-countertops/80555388.txt
+- TOLKEN countertop, white marble effect/foliated board: /products/bathroom-countertops/70555384.txt
+- TOLKEN countertop, white marble effect/foliated board: /products/bathroom-countertops/40555385.txt
+- TOLKEN countertop, white marble effect/foliated board: /products/bathroom-countertops/20555386.txt
+- TOLKEN countertop, white marble effect/foliated board: /products/bathroom-countertops/00555387.txt
+- TOLKEN countertop, gray stone effect/foliated board: /products/bathroom-countertops/80555109.txt
+- TOLKEN countertop, gray stone effect/foliated board: /products/bathroom-countertops/60555105.txt
+- TOLKEN countertop, gray stone effect/foliated board: /products/bathroom-countertops/40555106.txt
+- TOLKEN countertop, gray stone effect/foliated board: /products/bathroom-countertops/20555107.txt
+- TOLKEN countertop, brown walnut effect/laminated board: /products/bathroom-countertops/90568328.txt
+- TOLKEN countertop, brown walnut effect/laminated board: /products/bathroom-countertops/80568324.txt
+- TOLKEN countertop, brown walnut effect/laminated board: /products/bathroom-countertops/70568334.txt
+- TOLKEN countertop, brown walnut effect/laminated board: /products/bathroom-countertops/50568325.txt
+- TOLKEN countertop, brown walnut effect/laminated board: /products/bathroom-countertops/30568326.txt
+- TOLKEN countertop, brown walnut effect/laminated board: /products/bathroom-countertops/10568327.txt
+- TOLKEN countertop, black marble effect/foliated board: /products/bathroom-countertops/90555378.txt
+- TOLKEN countertop, black marble effect/foliated board: /products/bathroom-countertops/70555379.txt
+- TOLKEN countertop, black marble effect/foliated board: /products/bathroom-countertops/50555380.txt
+- TOLKEN countertop, black marble effect/foliated board: /products/bathroom-countertops/30555381.txt
+- TOLKEN countertop, black marble effect/foliated board: /products/bathroom-countertops/10555382.txt
+- TOLKEN countertop, black marble effect/foliated board: /products/bathroom-countertops/10555377.txt
+- HEMTRÄSK countertop, white/laminate: /products/bathroom-countertops/60530247.txt
+- ÅLSKEN countertop, bamboo/veneer: /products/bathroom-countertops/80555147.txt
+- ÅLSKEN countertop, bamboo/veneer: /products/bathroom-countertops/70555143.txt
+- ÅLSKEN countertop, bamboo/veneer: /products/bathroom-countertops/50555144.txt
+- ÅLSKEN countertop, bamboo/veneer: /products/bathroom-countertops/20555145.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

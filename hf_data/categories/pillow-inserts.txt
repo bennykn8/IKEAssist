@@ -1,0 +1,28 @@
+# @CATEGORY
+Name: Pillow inserts
+ProductCount: 6
+
+# @FILTERS
+PriceRange: $7.00 - $15.00
+Materials: Fabric: 100 % cotton, Fabric: 100 % polyester (100% recycled), Filling material: Duck feathers, Filling: 100 % polyester - hollow fiber (100% recycled), Filling: Duck feathers
+Brand: IKEA
+
+# @ITEMS
+- INNER inner cushion, white/firm: /products/pillow-inserts/50586975.txt
+- INNER inner cushion, white/firm: /products/pillow-inserts/30586976.txt
+- INNER inner cushion, white/firm: /products/pillow-inserts/10586977.txt
+- FJÄDRAR inner cushion, white: /products/pillow-inserts/60267124.txt
+- FJÄDRAR inner cushion, off-white: /products/pillow-inserts/60262188.txt
+- FJÄDRAR inner cushion, gray: /products/pillow-inserts/70539228.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

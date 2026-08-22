@@ -1,0 +1,25 @@
+# @CATEGORY
+Name: Toiletry bags, accessory bags & more travel bag organizers
+ProductCount: 3
+
+# @FILTERS
+PriceRange: $2.99 - $7.99
+Materials: 100% polyester (min. 90% recycled), 100 % Polyurethane, Fabric: 100% polyester (min. 90% recycled), Webbing: 100 % polypropylene
+Brand: IKEA
+
+# @ITEMS
+- VÄRLDENS accessory bag, black, 8 ¼x1 ½x1 ½": /products/toiletry-bags-accessory-bags-and-more-travel-bag-organizers/40490520.txt
+- RENSARE clothes bag, set of 3, check pattern/gray black: /products/toiletry-bags-accessory-bags-and-more-travel-bag-organizers/10461208.txt
+- RENSARE bag, check pattern/black, 11 ¾x15 ¾"/2 gallon: /products/toiletry-bags-accessory-bags-and-more-travel-bag-organizers/70461205.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

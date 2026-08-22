@@ -1,0 +1,116 @@
+# @CATEGORY
+Name: Pendant lighting
+ProductCount: 94
+
+# @FILTERS
+PriceRange: $9.99 - $299.99
+Materials: 100% polyethylene, 100% polyethylene, Aluminum, Acrylic coating, Aluminum, Clear lacquer, Arm: Reinforced polyamide, Metallized, Paint, Arm: Steel, Paint, Base/ Shade: Bamboo, Clear acrylic lacquer, Blade: 100 % polyester, Blade: ABS plastic, Metallized, Paint, Blade: Polycarbonate plastic, Body: Rattan, Clear acrylic lacquer
+Brand: IKEA
+
+# @ITEMS
+- ZEBRASÄV pendant lamp, white/plastic: /products/pendant-lighting/10580070.txt
+- ZEBRASÄV pendant lamp, brown/paper: /products/pendant-lighting/90580085.txt
+- YTLÄGE pendant lamp, white: /products/pendant-lighting/80574240.txt
+- VINDÖGA pendant lamp, bamboo/handmade: /products/pendant-lighting/60553696.txt
+- VINDÖGA pendant lamp, bamboo/handmade: /products/pendant-lighting/40553697.txt
+- VINDKAST pendant lamp, white: /products/pendant-lighting/00469120.txt
+- VARMBLIXT LED pendant lamp, white frosted glass: /products/pendant-lighting/00531141.txt
+- TRETTIOEN pendant lamp, white: /products/pendant-lighting/10564112.txt
+- TRETTIOEN pendant lamp, blue: /products/pendant-lighting/30564371.txt
+- TRETTIOEN pendant lamp, aluminum color: /products/pendant-lighting/80510682.txt
+- SVARTNORA pendant lamp, stainless steel effect: /products/pendant-lighting/40504777.txt
+- SUNNEBY / TRÅDFRI pendant lamp with LED bulb, black/smart warm white: /products/pendant-lighting/19531023.txt
+- SUNNEBY / MOLNSKIKT pendant lamp, black/dark red velvet: /products/pendant-lighting/69567811.txt
+- SUNNEBY / MOLNART pendant lamp with LED bulb, white textile/tube-shaped patterned: /products/pendant-lighting/29556428.txt
+- SUNNEBY / MOLNART pendant lamp with LED bulb, white/ellipse shaped multicolor: /products/pendant-lighting/59505475.txt
+- SUNNEBY / MOLNART pendant lamp with LED bulb, black textile/cylinder stripe: /products/pendant-lighting/59598907.txt
+- SUNNEBY / MOLNART pendant lamp with LED bulb, black/ellipse shaped multicolor: /products/pendant-lighting/99505459.txt
+- SUNNEBY / MOLNART pendant lamp with LED bulb, black/donut-shaped opal: /products/pendant-lighting/79598893.txt
+- SUNNEBY / MOLNART pendant lamp, black/globe gray clear glass: /products/pendant-lighting/09490122.txt
+- SUNNEBY / LUNNOM pendant lamp with LED bulb, white/globe clear: /products/pendant-lighting/89503903.txt
+- SUNNEBY / LUNNOM pendant lamp with LED bulb, white/clear glass: /products/pendant-lighting/19505364.txt
+- SUNNEBY / LUNNOM pendant lamp with LED bulb, black globe/clear: /products/pendant-lighting/79501136.txt
+- SUNNEBY / LUNNOM pendant lamp with LED bulb, black/clear glass: /products/pendant-lighting/39504028.txt
+- STOCKHOLM 2025 pendant lamp, white textile/brass plated: /products/pendant-lighting/20585996.txt
+- STOCKHOLM 2025 pendant lamp, glass/brass plated: /products/pendant-lighting/70586314.txt
+- STOCKHOLM 2025 pendant lamp, glass/brass plated: /products/pendant-lighting/20585958.txt
+- SOLKLINT pendant lamp, brass/gray clear glass: /products/pendant-lighting/30464098.txt
+- SKYMNINGEN pendant lamp, white: /products/pendant-lighting/10528360.txt
+- SKURUP pendant lamp, black: /products/pendant-lighting/70407124.txt
+- SKURUP pendant lamp, black: /products/pendant-lighting/70397399.txt
+- SINNERLIG pendant lamp, bamboo/handmade: /products/pendant-lighting/70315030.txt
+- SINNERLIG pendant lamp, bamboo/handmade: /products/pendant-lighting/60515869.txt
+- SAMBORD pendant lamp with 3 lamps, black/white: /products/pendant-lighting/80586969.txt
+- RÖDFLIK pendant lamp, light beige: /products/pendant-lighting/70583103.txt
+- RÖDFLIK pendant lamp, gray-green: /products/pendant-lighting/80582749.txt
+- REMTÅNG pendant lamp, gray-green: /products/pendant-lighting/70566429.txt
+- REGNSKUR / SUNNEBY pendant lamp, white: /products/pendant-lighting/79392608.txt
+- REGNSKUR / HEMMA pendant lamp, turquoise/white: /products/pendant-lighting/39535812.txt
+- RANARP Pendant lamp, black: /products/pendant-lighting/10390956.txt
+- RAMSELE Pendant lamp, flower, white: /products/pendant-lighting/10407103.txt
+- NYMÅNE LED pendant lamp, wireless dimmable white spectrum/white: /products/pendant-lighting/80503832.txt
+- NYMÅNE LED pendant lamp, wireless dimmable white spectrum/anthracite: /products/pendant-lighting/00504048.txt
+- MUDDERVERK pendant lamp, brass/opal glass: /products/pendant-lighting/80577700.txt
+- MISTERHULT Pendant lamp, bamboo: /products/pendant-lighting/40441025.txt
+- MELODI pendant lamp, white: /products/pendant-lighting/60386532.txt
+- KAPPELAND / HEMMA pendant lamp, rattan/white: /products/pendant-lighting/89530954.txt
+- KAPPELAND / HEMMA pendant lamp, rattan/white: /products/pendant-lighting/09530972.txt
+- KAPPELAND / HEMMA pendant lamp, rattan/black: /products/pendant-lighting/29530952.txt
+- KAPPELAND / HEMMA pendant lamp, rattan/black: /products/pendant-lighting/19530962.txt
+- KALLFRONT / HEMMA pendant lamp, black: /products/pendant-lighting/59566497.txt
+- JAKOBSBYN / JÄLLBY pendant lamp, smoked glass/brass plated: /products/pendant-lighting/29388128.txt
+- JAKOBSBYN / JÄLLBY pendant lamp, clear glass/nickel plated: /products/pendant-lighting/19388119.txt
+- JÄRPLIDEN pendant lamp, white glass/nickel plated: /products/pendant-lighting/10499621.txt
+- JÄLLBY / MOLNART pendant lamp with LED bulb, textile nickel plated/mushroom brown clear glass: /products/pendant-lighting/29597103.txt
+- JÄLLBY / MOLNART pendant lamp with LED bulb, textile nickel plated/globe gray clear glass: /products/pendant-lighting/49596273.txt
+- JÄLLBY / MOLNART pendant lamp with LED bulb, textile nickel plated/globe brown clear glass: /products/pendant-lighting/59597210.txt
+- JÄLLBY / MOLNART pendant lamp with LED bulb, nickel plated/tube-shaped white/clear glass: /products/pendant-lighting/59507813.txt
+- JÄLLBY / MOLNART pendant lamp with LED bulb, nickel plated/ellipse shaped multicolor: /products/pendant-lighting/89505799.txt
+- JÄLLBY / MOLNART pendant lamp with LED bulb, brass plated/tube-shaped white/clear glass: /products/pendant-lighting/09507783.txt
+- JÄLLBY / MOLNART pendant lamp with LED bulb, brass plated/ellipse shaped multicolor: /products/pendant-lighting/89505775.txt
+- JÄLLBY / LUNNOM pendant lamp with LED bulb, nickel plated/globe clear: /products/pendant-lighting/29503944.txt
+- JÄLLBY / LUNNOM pendant lamp with LED bulb, brass plated globe/clear: /products/pendant-lighting/29507744.txt
+- IKEA PS 2014 Pendant lamp, white, silver color: /products/pendant-lighting/00311498.txt
+- IKEA PS 2014 Pendant lamp, white, copper color: /products/pendant-lighting/30311492.txt
+- IKEA PS 2014 pendant lamp, black: /products/pendant-lighting/20531748.txt
+- HÖLJES Pendant lamp, white: /products/pendant-lighting/60325794.txt
+- HÖGVIND pendant lamp with 3 lamps, nickel plated/gray glass: /products/pendant-lighting/50499266.txt
+- HEKTAR pendant lamp, dark gray: /products/pendant-lighting/80216534.txt
+- HEKTAR Pendant lamp, dark gray: /products/pendant-lighting/20390376.txt
+- HEKTAR Pendant lamp, dark gray: /products/pendant-lighting/20296109.txt
+- GRINDFALLET pendant lamp, black: /products/pendant-lighting/40504999.txt
+- GRÅVACKA / MOLNART pendant lamp with LED bulb, beige/gray clear glass: /products/pendant-lighting/09490184.txt
+- FYRTIOFYRA pendant lamp, chrome effect/white: /products/pendant-lighting/10516022.txt
+- FELSISK pendant lamp, wood gray: /products/pendant-lighting/00602195.txt
+- FELSISK pendant lamp with 4 lamps, wood gray: /products/pendant-lighting/80602196.txt
+- FELSISK pendant lamp with 4 lamps, black: /products/pendant-lighting/40489526.txt
+- EVEDAL Pendant lamp, gray: /products/pendant-lighting/10364226.txt
+- DYKARKLOCKA / HEMMA pendant lamp, white stained oak veneer/white: /products/pendant-lighting/29580777.txt
+- DYKARKLOCKA / HEMMA pendant lamp, white stained oak veneer/black: /products/pendant-lighting/39580734.txt
+- BUNKEFLO pendant lamp, white/birch: /products/pendant-lighting/10488397.txt
+- BUNKEFLO pendant lamp, red/birch: /products/pendant-lighting/50559180.txt
+- BLÅSVERK pendant lamp, beige: /products/pendant-lighting/30520909.txt
+- BLÅSTÅNG / HEMMA pendant lamp, beige/white: /products/pendant-lighting/69583359.txt
+- BLÅSTÅNG / HEMMA pendant lamp, beige/black: /products/pendant-lighting/49583303.txt
+- BÄCKNATE / HEMMA pendant lamp, white: /products/pendant-lighting/69590680.txt
+- ANKARSPEL pendant lamp, pewter effect: /products/pendant-lighting/70494338.txt
+- AKTERSPRING pendant lamp, opal glass/brass plated: /products/pendant-lighting/00591644.txt
+- AGUNNARYD pendant lamp with 3 lamps, black: /products/pendant-lighting/10364783.txt
+- ACKJA / TRÅDFRI pendant lamp with LED bulb, wave shaped black/smart wireless dimmable: /products/pendant-lighting/79562163.txt
+- ACKJA / TRÅDFRI pendant lamp with LED bulb, wave shaped black/smart wireless dimmable: /products/pendant-lighting/19562156.txt
+- ACKJA pendant lamp, wave shaped/black: /products/pendant-lighting/40558925.txt
+- ACKJA / MOLNART pendant lamp with LED bulb, wave shaped black/tube-shaped patterned: /products/pendant-lighting/79562139.txt
+- ACKJA / MOLNART pendant lamp with LED bulb, wave shaped black/globe gray clear glass: /products/pendant-lighting/99561841.txt
+- ACKJA / MOLNART pendant lamp with LED bulb, wave shaped black/cylinder stripe: /products/pendant-lighting/79590788.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

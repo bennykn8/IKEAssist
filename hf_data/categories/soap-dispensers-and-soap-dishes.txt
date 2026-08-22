@@ -1,0 +1,41 @@
+# @CATEGORY
+Name: Soap dispensers & soap dishes
+ProductCount: 19
+
+# @FILTERS
+PriceRange: $0.99 - $19.99
+Materials: Bathroom cup/Container/Tray: Glass,Paint, Bottle: Polypropylene, Container/ Tray: Polypropylene plastic (min. 20% recycled), Container: Glass, Container: Glass,Paint, Container: Stoneware, Colored glaze, Polyurethane paint, Cover plate: Aluminum, Chrome plated, Cover/ Body: ABS plastic, Cup/ Tray: PET plastic (min. 50% recycled), Frame/ Plate: Polycarbonate plastic
+Brand: IKEA
+
+# @ITEMS
+- TVÅLSJÖN 3-piece bathroom set: /products/soap-dispensers-and-soap-dishes/80456637.txt
+- TISKEN soap dish with suction cup, white: /products/soap-dispensers-and-soap-dishes/90381284.txt
+- TACKAN soap dispenser, white: /products/soap-dispensers-and-soap-dishes/90322303.txt
+- STORAVAN 3-piece bathroom set, white: /products/soap-dispensers-and-soap-dishes/70429003.txt
+- SKISSEN 3-piece bathroom set: /products/soap-dispensers-and-soap-dishes/10456645.txt
+- SILVTJÄRN soap dispenser: /products/soap-dispensers-and-soap-dishes/90498873.txt
+- GANSJÖN 3-piece bathroom set, light green: /products/soap-dispensers-and-soap-dishes/20605447.txt
+- GANSJÖN 3-piece bathroom set, bright yellow: /products/soap-dispensers-and-soap-dishes/30587037.txt
+- GANSJÖN 3-piece bathroom set, black: /products/soap-dispensers-and-soap-dishes/90587039.txt
+- EKOLN soap dispenser, light gray-turquoise: /products/soap-dispensers-and-soap-dishes/30593726.txt
+- EKOLN soap dispenser, dark gray: /products/soap-dispensers-and-soap-dishes/40441619.txt
+- EKOLN soap dispenser, beige: /products/soap-dispensers-and-soap-dishes/60493004.txt
+- EKOLN soap dish, light gray-turquoise: /products/soap-dispensers-and-soap-dishes/20593717.txt
+- EKOLN soap dish, dark gray: /products/soap-dispensers-and-soap-dishes/60441618.txt
+- EKOLN soap dish, beige: /products/soap-dispensers-and-soap-dishes/20493001.txt
+- DRAGAN soap dispenser, bamboo: /products/soap-dispensers-and-soap-dishes/90271493.txt
+- BROFJÄRDEN soap dish, chrome effect: /products/soap-dispensers-and-soap-dishes/50581548.txt
+- BROFJÄRDEN 3-piece bathroom set, gray: /products/soap-dispensers-and-soap-dishes/50564884.txt
+- ÅLTJÄRN 3-piece bathroom set: /products/soap-dispensers-and-soap-dishes/10523273.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

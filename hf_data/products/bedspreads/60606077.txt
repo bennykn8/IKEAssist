@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VETEJORDFLY bedspread, white/beige, Full/Queen
+SKU: 60606077
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vetejordfly-bedspread-white-beige-60606077/
+Category: Bedspreads
+Description: VETEJORDFLY bedspread in pink/white with dark green edge can be used for many things – to cover your bed, add a stylish layer to your sofa or transform your nighttime bed into daytime seating.
+
+# @OFFER
+Price: 29.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Outer fabric: 100 % polyester (100% recycled), Filling: 100% polyester (min. 80% recycled)
+Features: This product is suitable for use in smaller hotels, inns and B&Bs as the design and material are optimized for frequent use and washing. | This product is flammability tested and complies with standard EN ISO 12952-1. | This product is flammability tested in accordance to standard CAN/CGSB 4.2 No 27.5 and meets the requirement of flame spread time ≥7.1 sec.
+Care: Shrinkage maximum 4%. | Machine wash warm, normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vetejordfly-bedspread-white-beige__1397659_pe967699_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

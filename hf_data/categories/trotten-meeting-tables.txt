@@ -1,0 +1,26 @@
+# @CATEGORY
+Name: TROTTEN meeting tables
+ProductCount: 4
+
+# @FILTERS
+PriceRange: $184.99 - $204.99
+Materials: Inside frame: Steel, Main parts: Steel, Epoxy/polyester powder coating, Particleboard, Melamine foil, Plastic edging
+Brand: IKEA
+
+# @ITEMS
+- TROTTEN table, white: /products/trotten-meeting-tables/09429605.txt
+- TROTTEN table, white/anthracite: /products/trotten-meeting-tables/49429608.txt
+- TROTTEN table, beige/white: /products/trotten-meeting-tables/89436975.txt
+- TROTTEN table, beige/anthracite: /products/trotten-meeting-tables/09429610.txt
+
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt
