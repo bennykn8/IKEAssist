@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TILLGÅNG tray, pale green
+SKU: 60562295
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tillgang-tray-pale-green-60562295/
+Category: Trays
+Description: , 15x11" This tray is almost like a superhero. It has a dirt-repellent and scratch-resistant surface, it is dishwasher safe, it is suitable to use both outdoors and indoors - and it also fits most tro...
+
+# @OFFER
+Price: 0.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polypropylene
+Features: Dimensioned to fit most tray racks.
+Care: Dishwasher-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tillgang-tray-pale-green__1196158_pe902804_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

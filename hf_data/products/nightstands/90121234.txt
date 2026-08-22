@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HEMNES nightstand, black-brown
+SKU: 90121234
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hemnes-nightstand-black-brown-90121234/
+Category: Nightstands
+Description: , 181/8x133/4" A high table that is just as convenient by the bed as in the entrance or as a side table by your favorite armchair. Made from sustainably-sourced solid wood, like the other furniture in...
+
+# @OFFER
+Price: 129.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts/ Shelf: Solid pine, Stain, Clear acrylic lacquer, Drawer sides/ Drawer back: Solid pine, Drawer bottom: Fiberboard, Foil
+Features: Coordinates with other furniture in the HEMNES series.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hemnes-nightstand-black-brown__0624435_pe691842_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

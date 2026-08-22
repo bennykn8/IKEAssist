@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VARDAGEN beverage dispenser, 5.3 qt
+SKU: 60578319
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vardagen-beverage-dispenser-60578319/
+Category: Pitchers & carafes
+Description: A jar with a tap can lift any party! Together with the stand in the same series, it’s easy for guests to refill their glasses with water, lemonade or punch. Perfect for your garden party or picnic, as...
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Body: Glass, Metal parts: Stainless steel, Plastic parts: Silicone rubber
+Features: Only for cold drinks. | The lid must be slightly opened for the faucet to work, since a vacuum builds up in the jar when the lid is closed.
+Care: Handwash only. | Only for drinks with a max. temperature of 122°F.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vardagen-beverage-dispenser__0799772_pe767634_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

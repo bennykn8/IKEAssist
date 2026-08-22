@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: DUVSKÄR bistro set, outdoor/black-blue
+SKU: 79494862
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/duvskaer-bistro-set-outdoor-black-blue-s79494862/
+Category: Outdoor bistro sets
+Description: Gives you more time to enjoy the outdoors since all materials are weather-resistant, durable and maintenance-free. The chair can be stacked to save space. Takes little room to store as the table folds...
+
+# @OFFER
+Price: 369
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Solid eucalyptus wood, Acrylic stain, Underframe: Steel, Steel, Polyester powder coating, Clip/ Sleeve/ Feet: Polyamide
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/duvskaer-bistro-set-outdoor-black-blue__1146147_pe882918_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

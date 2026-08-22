@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: IKEA 365+ baking dish, white, 15x10 ¼"
+SKU: 40286736
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ikea-365-baking-dish-white-40286736/
+Category: Ovenware
+Description: This large oven dish is perfect if you want to serve roasted vegetables or a tasty pie to many guests. The handles make it easy to carry and the timeless shape is easy to match with other porcelain.
+
+# @OFFER
+Price: 34.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Feldspar porcelain
+Features: Wash this product before using it for the first time.
+Care: Microwave-safe. | Dishwasher-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ikea-365-baking-dish-white__0395697_pe566225_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

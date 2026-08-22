@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LINANÄS loveseat, Vissle dark gray
+SKU: 00512246
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/linanaes-loveseat-vissle-dark-gray-00512246/
+Category: Loveseats
+Description: Easy transportation was the goal when we created this comfy loveseat with durable dark-gray polyester fabric. And we succeeded! It fits in a car and can follow you home right away. The price? Low of c...
+
+# @OFFER
+Price: 299
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Seat frame: Plywood, Polyurethane foam 1.2 lb/cu.ft., Laminated veneer lumber, Polyurethane foam 1.5 lb/cu.ft., Fiberboard, Fiberboard, Back frame: Steel, Epoxy/polyester powder coating, Armrest: Plywood, Polyurethane foam 1.2 lb/cu.ft., 100% recycled solid cardboard, Fiberboard, Fiberboard
+Features: Stationary cover.
+Care: Non-removable cover: Do not wash. | Non-removable cover: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/linanaes-loveseat-vissle-dark-gray__0962404_pe808061_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

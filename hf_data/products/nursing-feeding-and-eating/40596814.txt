@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BÖRJA feeding and baby spoon, white/blue
+SKU: 40596814
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/boerja-feeding-and-baby-spoon-white-blue-40596814/
+Category: Nursing, feeding & eating
+Description: A long spoon for you and a grip-friendly one for your baby. Both are likely needed when it's time for your child to learn to eat on their own. The small spoon is easy for babies to hold when learning ...
+
+# @OFFER
+Price: 1.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polypropylene
+Features: Includes:1 baby spoon (5") and 1 feeding spoon (6").
+Care: Dishwasher-safe up to 158ºF (70°C).
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/boerja-feeding-and-baby-spoon-white-blue__1430782_pe982170_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

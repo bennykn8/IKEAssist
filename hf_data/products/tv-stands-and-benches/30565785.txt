@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HAUGA TV unit, white
+SKU: 30565785
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hauga-tv-unit-white-30565785/
+Category: TV stands & benches
+Description: , 543/8x141/8x211/4" Use throughout the home, on its own or with other furniture in the HAUGA series. This TV unit has 2 drawers where you can store remote and game controls – and cable management to ...
+
+# @OFFER
+Price: 119.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Side panel/ Drawer front: Particleboard, Paper foil, Plastic edging, Plastic edging, Top panel/ Back rail/ Shelf/ Partition/ Bottom panel: Particleboard, Paper foil, Back panel: Fiberboard, Acrylic paint
+Features: We recommend a TV bench to be a bit wider than the TV placed on it. This TV bench suits a TV up to 53 inches. You can choose a larger TV if it’s not heavier than the specified max load for the bench’s top.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hauga-tv-unit-white__0914120_pe783855_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

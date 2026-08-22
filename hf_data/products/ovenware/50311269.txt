@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FÖLJSAM baking dish, clear glass, 9 ¾x9 ¾"
+SKU: 50311269
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/foeljsam-baking-dish-clear-glass-50311269/
+Category: Ovenware
+Description: This square oven dish in clear glass is deep enough for a yummy lasagna and big enough for a load of frozen meatballs. Prepare or heat the food in the oven – and put the dish directly on the table.
+
+# @OFFER
+Price: 4.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Heat resistant glass
+Features: Wash this product before using it for the first time. | The material in this product may be recyclable. Please check the recycling rules in your community and if recycling facilities exist in your area.
+Care: Microwave-safe. | Dishwasher-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/foeljsam-baking-dish-clear-glass__0710555_pe727642_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

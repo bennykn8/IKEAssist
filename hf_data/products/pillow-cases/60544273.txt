@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TÅGVECKLARE pillowcase, white/dark gray, Queen
+SKU: 60544273
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tagvecklare-pillowcase-white-dark-gray-60544273/
+Category: Pillow cases
+Description: TÅGVECKLARE pillowcase with a graphic pattern pairs easily with other textiles to give your bed a fresh new look. Pure cotton fabric with thick yarns that create a stitched feel. Pillowcase with envel...
+
+# @OFFER
+Price: 5.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % cotton
+Features: 118 thread count. | Thread count indicates the number of threads per square inch of fabric. The higher the thread count the more densely woven the fabric.
+Care: Shrinkage maximum 4%. | Machine wash warm (max 140°F/60°C) normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tagvecklare-pillowcase-white-dark-gray__1122039_pe874457_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

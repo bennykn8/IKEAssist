@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TISKEN toothbrush holder with suction cup, white
+SKU: 80381294
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tisken-toothbrush-holder-with-suction-cup-white-80381294/
+Category: Toothbrush holders
+Description: TISKEN series puts things within easy reach without having to drill any holes into your walls. The tight-grip suction cups won’t let go of smooth surfaces like glass or tiles – unless you want them to...
+
+# @OFFER
+Price: 6.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame/ Plate: Polycarbonate plastic, Suction cup: Thermoplastic elastomer, Cover/ Body: ABS plastic
+Features: Only sticks on flat surfaces such as glass, mirrors, and tiles. | Clean the surface before mounting the suction cup to ensure better grip. | Holds up to 6 lbs.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tisken-toothbrush-holder-with-suction-cup-white__0749031_pe745404_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

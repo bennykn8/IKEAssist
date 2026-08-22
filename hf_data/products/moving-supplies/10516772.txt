@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: RULLEBÖR cart, black
+SKU: 10516772
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/rulleboer-cart-black-10516772/
+Category: Moving supplies
+Description: Let this sturdy trolley help you carry large and heavy things from the store, the car or when moving and refurnishing. Simple to fold up and takes up little space to store. You can easily fasten the l...
+
+# @OFFER
+Price: 44.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Bar holder/ Panel/ Wire mesh: Steel, Epoxy/polyester powder coating, Feet: Polypropylene, Wheel: Polypropylene, Synthetic rubber
+Features: Max. load: 66 lbs. | 1 elastic cord is included.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/rulleboer-cart-black__1045853_pe842738_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

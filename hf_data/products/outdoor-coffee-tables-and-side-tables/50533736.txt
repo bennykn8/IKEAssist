@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FÅLSKÄR coffee table, outdoor, brown
+SKU: 50533736
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/falskaer-coffee-table-outdoor-brown-50533736/
+Category: Outdoor coffee tables & side tables
+Description: This table hides a secret under the lid – a spacious storage space. Fill it with cushions and other things you want to hide – or leave it empty and let the shape be the centerpiece of your outdoor spa...
+
+# @OFFER
+Price: 119.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame/ Table top: Steel, Polyester powder coating, Weaving: Polyethylene, Polyethylene, Polypropylene
+Features: Suitable for indoor and outdoor use. | Tighten all hardware/screws securely before use. Check them regularly and retighten if necessary.
+Care: Clean: Use a mild soapy solution. Wipe dry with a clean dry cloth. | Maintenance: Require no maintenance.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/falskaer-coffee-table-outdoor-brown__1205155_pe906956_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

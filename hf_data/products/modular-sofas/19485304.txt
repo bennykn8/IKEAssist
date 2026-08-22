@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: JÄTTEBO chaise module, right, Samsala dark yellow-green
+SKU: 19485304
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/jaettebo-chaise-module-right-samsala-dark-yellow-green-s19485304/
+Category: Modular sofas
+Description: Enjoy long movie nights and comfy socializing with friends in JÄTTEBO modular sofa. Combine this chaise longue module with storage with other modules to create a customized sofa for you and your home....
+
+# @OFFER
+Price: 730
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Smolder resistant lining/ Smolder resistant lining: Polyester wadding, Seat frame: Laminated veneer lumber, Particleboard, Fiberboard, Plywood, Solid wood, Polyurethane foam 1.2 lb/cu.ft., Acrylic paint, Melamine foil, Back frame: Solid wood, Particleboard, Fiberboard, Plywood, Polyurethane foam 1.2 lb/cu.ft., Polyurethane foam 1.5 lb/cu.ft.
+Care: Removable cover: Machine wash warm, normal cycle. | Removable cover: To be washed separately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/jaettebo-chaise-module-right-samsala-dark-yellow-green__1109615_pe870105_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

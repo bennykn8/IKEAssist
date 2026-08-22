@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FRÖSÖN sun lounger cushion cover, outdoor dark gray
+SKU: 10509903
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/froesoen-sun-lounger-cushion-cover-outdoor-dark-gray-10509903/
+Category: Outdoor chair cushions
+Description: , 743/4x235/8" You can just shake off water from a light rain, as the cushion cover is water repellent.  Easy to secure the cushion to the sun lounger with the elastic strap. No need to tie knots ‒ ju...
+
+# @OFFER
+Price: 45
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100% polyester (min. 90% recycled)
+Features: Inner cushion is sold separately. | The sun lounger cushion cover can also be used as an extra cover for FRÖSÖN/DUVHOLMEN sun lounger cushion 75x24".
+Care: Machine wash warm, normal cycle. | Close the zipper before washing.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/froesoen-sun-lounger-cushion-cover-outdoor-dark-gray__1018210_pe831099_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GRÅFJÄLLET dressing table, anthracite
+SKU: 30570225
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/grafjaellet-dressing-table-anthracite-30570225/
+Category: Makeup vanities & dressing tables
+Description: , 393/8x161/2" The GRÅFJÄLLET series combines industrial influences with clean and bold lines that create a timeless expression. This dressing table has an airy design with well-thought-out details an...
+
+# @OFFER
+Price: 129.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top: Particleboard, Paper foil, Plastic edging, Frame: Steel, Steel, Epoxy/polyester powder coating, Drawer: Steel, Epoxy/polyester powder coating
+Features: Adjustable feet included. | The Allen key is stored behind the mirror for future adjustments.
+Care: Metal: Wipe clean using a damp cloth and a mild cleaner. | Metal: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/grafjaellet-dressing-table-anthracite__1327659_pe944548_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

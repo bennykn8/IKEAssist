@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: POÄNG chair cushion, Skiftebo yellow
+SKU: 10489561
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/poaeng-chair-cushion-skiftebo-yellow-10489561/
+Category: POÄNG covers
+Description: POÄNG cushions have a nice feel, making your armchair ever comfier, and are available in various styles, colors and fabrics. The thick Skiftebo cushion is durable and has a vibrant yellow color.
+
+# @OFFER
+Price: 84
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Wadding: 100% polyester (min. 80% recycled), Comfort filling: Polyurethane foam., Polyurethane foam 2.2 lb/cu.ft., Lining, underside: 100 % polypropylene
+Care: Cushion: Do not wash. | Cushion: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/poaeng-chair-cushion-skiftebo-yellow__0937116_pe793583_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

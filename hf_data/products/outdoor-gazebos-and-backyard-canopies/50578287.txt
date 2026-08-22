@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TORPÖN net, black
+SKU: 50578287
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/torpoen-net-black-50578287/
+Category: Outdoor gazebos & backyard canopies
+Description: , 3543/8" Upgrade your umbrella with TORPÖN net to create a cozy yet airy sense of space in your outdoor area. Adapts to various sizes of umbrellas and protects you from insects – perfect for spontane...
+
+# @OFFER
+Price: 29.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric/ Mesh: 100% polyester (min. 90% recycled), Sheet: 100 % polyethylene, Zipper/ Thread: 100 %polyester
+Features: Fits JOGGESÖ parasol 118", HÖGÖN parasol 106", HÖGÖN hanging parasol 106" and HISSÖ hanging parasol 118". | Product is possible to recycle or use for energy recovery, if available in your community. | Folding instructions are included.
+Care: Machine wash warm, normal cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/torpoen-net-black__1276358_pe930918_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

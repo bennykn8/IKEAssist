@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: VALLFJÄLLET office chair, Gunnared gray
+SKU: 00554076
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vallfjaellet-office-chair-gunnared-gray-00554076/
+Category: Office chairs
+Description: Minimalist style combined with maximum functionality. The ergonomic VALLFJÄLLET office chair is easy to adjust so it gives your body comfortable support – regardless if you are in the office or at hom...
+
+# @OFFER
+Price: 389.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100% polyester (min. 90% recycled), Layer glued seat/ Backrest: Eucalyptus veneer, Seat foam: High resilient polyurethane foam (cold foam).
+Care: Non-removable cover: Light stains can be removed with a textile cleaner or a damp sponge and a mild soapy solution. | Frame: Wipe clean with a mild soapy solution.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vallfjaellet-office-chair-gunnared-gray__0921238_pe787734_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

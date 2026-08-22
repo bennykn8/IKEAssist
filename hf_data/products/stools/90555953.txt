@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BOESKIL stool, black/natural
+SKU: 90555953
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/boeskil-stool-black-natural-90555953/
+Category: Stools
+Description: , 19x187/8x18" An extra seat or nice support for your feet. With a sturdy metal frame and a seat in woven jute, this practical stool is easy to move as needed – and perfect to have close at hand when ...
+
+# @OFFER
+Price: 39.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Webbing: 72 % jute, 28 % cotton, Seat frame: Steel, Epoxy powder coating, Foot: Polypropylene
+Features: Recommended for indoor use only. | Jute is a natural fiber that might change color over time.
+Care: Chair: Wipe clean with a dry cloth. | Chair: The best way to extend the life of your product is to clean it regularly and store it in a cool, dry place indoors, or in a storage bag or storage box when not in use.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/boeskil-stool-black-natural__1185899_pe898604_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

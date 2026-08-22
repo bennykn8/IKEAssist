@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MIDDAGSMAT saucepan with lid, non-stick coating clear glass/stainless steel, 1.1 qt
+SKU: 50580596
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/middagsmat-saucepan-with-lid-non-stick-coating-clear-glass-stainless-steel-50580596/
+Category: Sauce pans
+Description: MIDDAGSMAT saucepan has the basic functions needed for your everyday cooking. Timeless design, low weight, fast heating and sol-gel ceramic non-stick coating offer a good start to all your meals!
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Stainless steel, Sol-gel ceramic non-stick coating, Aluminum, Flame guard: Stainless steel, Phenolic plastic, Rivet/ Valve/ Rim/ Screw: Stainless steel
+Features: Use only wooden or plastic utensils without sharp edges. | This product has a non-stick coating where no PTFE or other PFAS have been allowed. | Wash this product before using it for the first time.
+Care: Handwash only. | Suitable for use on gas cooktop.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/middagsmat-saucepan-with-lid-non-stick-coating-clear-glass-stainless-steel__1257571_pe925894_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

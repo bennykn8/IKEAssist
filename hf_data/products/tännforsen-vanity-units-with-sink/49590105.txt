@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TÄNNFORSEN / RUTSJÖN Bathroom vanity with sink & faucet, white
+SKU: 49590105
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/taennforsen-rutsjoen-bathroom-vanity-with-sink-faucet-white-s49590105/
+Category: TÄNNFORSEN vanity units with sink
+Description: , 313/8x217/8x363/4" TÄNNFORSEN bathroom furniture expresses classic elegance with beveled edges that add a crafted look. This combo has 2 spacious drawers and raised backsplash to reinforce the tradi...
+
+# @OFFER
+Price: 629
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Side frame/ Support rail/ Drawer front frame: Fiberboard, Plastic foil (min. 70% recycled), Plastic edging, Plastic edging (min. 50% recycled), Inner side filling/ Drawer front panel: Fiberboard, Plastic foil (min. 70% recycled), Melamine foil, Middle rail/ Drawer divider/ Drawer sides: Particleboard, Plastic foil, Plastic edging, Plastic edging (min. 50% recycled)
+Features: If you are uncertain about the installation, contact a professional. The installation shall be made in accordance with valid local building and plumbing regulations. | Silicone is needed for installation, not included. | Knobs and handles are sold separately.
+Care: Wipe clean with a mild soapy solution. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/taennforsen-rutsjoen-bathroom-vanity-with-sink-faucet-white__1418500_pe976619_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

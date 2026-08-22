@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: KUSTFYR paper bag, mixed patterns white/black, 4 ¾x9 ½"
+SKU: 40599596
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kustfyr-paper-bag-mixed-patterns-white-black-40599596/
+Category: Wrapping paper and bags
+Description: Trick or treat? These 12 paper bags with white ghosts and a scary cobweb pattern are perfect for little surprises, snacks or candy at the Halloween party. Perfect as a gift bag for homemade biscuits, ...
+
+# @OFFER
+Price: 1.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Paper
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kustfyr-paper-bag-mixed-patterns-white-black__1406591_pe971037_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

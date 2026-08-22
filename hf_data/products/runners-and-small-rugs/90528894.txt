@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VEDBÄK rug, low pile, light gray
+SKU: 90528894
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vedbaek-rug-low-pile-light-gray-90528894/
+Category: Runners & small rugs
+Description: , 2'7"x5'11" This detailed floral-pattern rug in grey offers a classic look with a fresh twist. The rug combines easily with many styles and stands the test of time even in the busiest of spaces. A pe...
+
+# @OFFER
+Price: 39.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Use surface: 100 % polypropylene, Backing: 100 % Synthetic rubber
+Features: You will need 1 STOPP FILT rug underlay with anti-slip (5'5"x7'9") for this rug. Trim if necessary.
+Care: Do not wash. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vedbaek-rug-low-pile-light-gray__1062214_pe850714_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

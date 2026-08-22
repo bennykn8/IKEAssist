@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HAVSTA shelving unit with base, black
+SKU: 39534643
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/havsta-shelving-unit-with-base-black-s39534643/
+Category: Storage shelves & shelving units
+Description: , 317/8x145/8x523/4" Carefully designed details in solid pine with a brushed surface adds a rustic feel and charm to your home. One shelf looks just as good alone as it does with several others in a l...
+
+# @OFFER
+Price: 270
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Plinth front/ Plinth side: Solid pine, Stain, Clear lacquer, Plinth back: Solid pine, Clear acrylic lacquer, Metal part: Steel, Powder coating
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Two people are needed to assemble this furniture. | Combines with other products in the HAVSTA series.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/havsta-shelving-unit-with-base-black__1289301_pe934566_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

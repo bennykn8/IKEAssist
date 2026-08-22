@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KIVIK corner section, Tallmyra white/black
+SKU: 19499669
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kivik-corner-section-tallmyra-white-black-s19499669/
+Category: Modular sofas
+Description: KIVIK is a generous seating series with a soft, deep seat and comfy support for your back. By adding this corner section, you get a cosy corner to curl up in – and more space for guests or nice me-tim...
+
+# @OFFER
+Price: 690
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Smolder resistant lining/ Smolder resistant lining: Polyester wadding, Back and seat frame: Fiberboard, Plywood, Particleboard, Solid wood, Seat cushion: High-resilience polyurethane foam (cold foam) 2.2 lb/cu.ft., Polyurethane foam 2.0 lb/cu.ft., Felt liner
+Features: The corner section is a loveseat corner section without armrests that must be connected to a sofa section with armrests to make a sectional sofa.
+Care: Removable cover: Machine wash warm, normal cycle. | Removable cover: To be washed separately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kivik-corner-section-tallmyra-white-black__0817506_pe774048_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

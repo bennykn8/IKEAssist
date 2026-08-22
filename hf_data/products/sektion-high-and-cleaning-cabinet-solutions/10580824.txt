@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: UTRUSTA pull-out rack for cleaning supplies
+SKU: 10580824
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/utrusta-pull-out-rack-for-cleaning-supplies-10580824/
+Category: SEKTION High & cleaning cabinet solutions
+Description: , 551/8" Two ways to make cleaning more fun; play loud music and organize the cleaning cabinet with this interior fitting. It makes space for everything – just pull it out and cleaning turns into a da...
+
+# @OFFER
+Price: 120
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: U profile/ Tubes/ Handle/ Basket/ Headboard/ Bottom panel/ Hook: Steel, Epoxy/polyester powder coating, Strap: 100 %polyester
+Dimensions: Fits PAX wardrobe frames, depth 22⅞".
+Features: Developed to fit into METOD kitchen system. | To be completed with UTRUSTA hinges 110°, 2-pk.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/utrusta-pull-out-rack-for-cleaning-supplies__1326595_pe944303_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

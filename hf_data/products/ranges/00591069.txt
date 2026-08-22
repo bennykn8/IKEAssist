@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: SNESSLINGE range with glass ceramic cooktop, Stainless steel
+SKU: 00591069
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/snesslinge-range-with-glass-ceramic-cooktop-stainless-steel-00591069/
+Category: Ranges
+Description: , 30" This range with fan-forced convection is packed with function, ideal for preparing several dishes at once. The oven is self-cleaning too, so you have more time to cook and do things you enjoy.
+
+# @OFFER
+Price: 1499
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Features: 5 radiant cooking zones: | Left front: 5"/8" - 750/2200W. | Left rear: 8" - 2200W.
+Care: Cooker: Do not use scouring-powder, steel wool, hard or sharp tools which can scratch the surface. | Cooker: Remove stains and food residue after each use using a cloth damped with warm water and a mild detergent.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/snesslinge-range-with-glass-ceramic-cooktop-stainless-steel__1405236_pe970393_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

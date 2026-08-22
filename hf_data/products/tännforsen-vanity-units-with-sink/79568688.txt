@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TÄNNFORSEN / VÄSTERSJÖN Bathroom vanity w doors/sink/faucet, white/white marble effect
+SKU: 79568688
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/taennforsen-vaestersjoen-bathroom-vanity-w-doors-sink-faucet-white-white-marble-effect-s79568688/
+Category: TÄNNFORSEN vanity units with sink
+Description: , 25x211/2x357/8" TÄNNFORSEN bathroom furniture expresses classic elegance with beveled edges. This combo with countertop and round wash-basin with raised back forms a beautiful centerpiece with a cra...
+
+# @OFFER
+Price: 589
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Side frame/ Support rail/ Door frame: Fiberboard, Plastic foil (min. 70% recycled), Plastic edging, Plastic edging (min. 50% recycled), Inner side filling/ Door filling: Fiberboard, Plastic foil (min. 70% recycled), Melamine foil, Bottom panel: Particleboard, Plastic foil (min. 70% recycled), Plastic foil, Plastic edging, Plastic edging (min. 50% recycled)
+Features: If you are uncertain about the installation, contact a professional. The installation shall be made in accordance with valid local building and plumbing regulations. | Silicone is needed for installation, not included. | Knobs and handles are sold separately.
+Care: Wipe clean with a mild soapy solution. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/taennforsen-vaestersjoen-bathroom-vanity-w-doors-sink-faucet-white-white-marble-effect__1336593_pe947385_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

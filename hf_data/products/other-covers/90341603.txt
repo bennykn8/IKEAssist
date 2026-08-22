@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: NYHAMN cover for sleeper sofa, Knisa gray/beige
+SKU: 90341603
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/nyhamn-cover-for-sleeper-sofa-knisa-gray-beige-90341603/
+Category: Other covers
+Description: This cover is made of very durable polyester with a quilted, soft structure. It´s easy to keep clean too since it is removable and machine washable. Buy several and renew your sofa whenever you like.
+
+# @OFFER
+Price: 79
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100% polyester (min. 90% recycled), Lining, underside: 100 % polypropylene
+Features: The material in this product may be recyclable. Please check the recycling rules in your community and if recycling facilities exist in your area.
+Care: Machine wash warm, normal cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/nyhamn-cover-for-sleeper-sofa-knisa-gray-beige__0829150_pe652873_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

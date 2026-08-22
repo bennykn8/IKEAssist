@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: SPATHIPHYLLUM potted plant, Peace lily
+SKU: 00197902
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/spathiphyllum-potted-plant-peace-lily-00197902/
+Category: Office & desk plants
+Description: , 6" When the leaves droop on this easy-care plant, it’s trying to tell you that it needs water. Easy to understand – and a wonderful roommate that makes your home more vibrant. Decorate your home wit...
+
+# @OFFER
+Price: 12.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Plant/ Substrate: Cultivated potted plant, Pot: Polypropylene
+Dimensions: The height of the plants can vary.
+Features: Native to Colombia and Venezuela. | Easy care plant. | This plant will dry out if placed too close to a heat source such as a radiator.
+Care: Only for decoration. Not suitable for consumption. | Placement: For indoor use
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/spathiphyllum-potted-plant-peace-lily__1471230_pe997152_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

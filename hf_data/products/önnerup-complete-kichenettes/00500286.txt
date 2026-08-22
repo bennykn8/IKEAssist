@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ÖNNERUP kitchenette, off-white
+SKU: 00500286
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/oennerup-kitchenette-off-white-00500286/
+Category: ÖNNERUP complete kichenettes
+Description: , 511/8x251/4x861/4" A kitchenette that can also serve as a freestanding buffet, bringing a warm and traditional look to your dining space. Open shelves for things you want to show and closed storage ...
+
+# @OFFER
+Price: 699
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Drawer side/ Drawer back: Particleboard, Plastic foil, Plastic edging, Drawer bottom: Fiberboard, Plastic foil, Side panel/ Shelf: Fiberboard, Acrylic paint, Polyurethane paint
+Features: Comprises: kitchen frame, worktop, 4 shelves, 2 doors and 3 drawers. | Knobs and handles are sold separately. | 10-year limited warranty. Read about the terms in the warranty brochure.
+Care: Wipe clean with a damp cloth. | Wipe clean with a soft cloth dampened with water and a mild dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/oennerup-kitchenette-off-white__1244718_pe921262_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

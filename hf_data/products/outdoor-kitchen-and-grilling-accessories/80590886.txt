@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: GRILLTIDER serving tray, stainless steel, 11 ¾x7 ¾"
+SKU: 80590886
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/grilltider-serving-tray-stainless-steel-80590886/
+Category: Outdoor kitchen & grilling accessories
+Description: When serving food at a BBQ party, things need to be simple, practical and durable. GRILLTIDER series has bowls, trays and baskets for serving your best grilled dishes and street food to family and fri...
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Stainless steel
+Care: Dishwasher-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/grilltider-serving-tray-stainless-steel__1062694_pe850938_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SKÅDIS container with lid, white
+SKU: 80335909
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/skadis-container-with-lid-white-80335909/
+Category: Wall Storage
+Description: Create a better organization of your things by adding SKÅDIS accessories to your SKÅDIS pegboard. A great solution to fit your needs and to keep your favorite things close at hand. Good for storing an...
+
+# @OFFER
+Price: 10
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Steel, Epoxy/polyester powder coating, Container: PET plastic
+Features: Can also be used in bathrooms.
+Care: The container can be hand washed. The holder can be wiped clean with a damp cloth, then dried with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/skadis-container-with-lid-white__0711385_pe728176_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

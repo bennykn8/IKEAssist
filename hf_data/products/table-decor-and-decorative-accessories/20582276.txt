@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: HÖSTAGILLE decoration pumpkin, set of 5, mixed colors
+SKU: 20582276
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hoestagille-decoration-pumpkin-set-of-5-mixed-colors-20582276/
+Category: Table decor & decorative accessories
+Description: Pumpkins with different colors and shapes go hand and hand with autumn, and these 5 decorations look just as nice year after year. Perfect to put on your set table when it's time for the season's part...
+
+# @OFFER
+Price: 8.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Stem: Polyethylene plastic (min. 50% recycled), Body: Polyethylene, Acrylic paint, Bag: 100 %polyester
+Dimensions: Comprises: 1 decoration (height 5", width 2.9"), 2 decorations (height 4.7", width 4.3") and 2 decorations (height 3.3", width 3.7").
+Features: Recommended for indoor use only.
+Care: Wipe clean with a damp cloth. | Only for decoration. Not suitable for consumption.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hoestagille-decoration-pumpkin-set-of-5-mixed-colors__1291512_pe934908_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

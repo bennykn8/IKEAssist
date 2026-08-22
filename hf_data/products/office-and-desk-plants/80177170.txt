@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: DRACAENA MARGINATA potted plant, Dragon tree/1 stem, 4 ¼"
+SKU: 80177170
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/dracaena-marginata-potted-plant-dragon-tree-1-stem-80177170/
+Category: Office & desk plants
+Description: This tough plant withstands dryness and is easy-care. Perfect if you are a beginner when it comes to plants. A wonderful roommate that makes your home more vibrant. Decorate your home with plants comb...
+
+# @OFFER
+Price: 2.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Plant/ Substrate: Cultivated potted plant, Pot: Polypropylene
+Features: Easy care plant. | This plant is sensitive to over-watering. Too much water in the pot can restrict the oxygen flow to the roots, causing damage to the plant. | Give your plants a boost with fertilizer every month. If you notice that the plant has gone dormant, leave it be until next season.
+Care: Others: Only for decoration. Not suitable for consumption. | Placement: For indoor use
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/dracaena-marginata-potted-plant-dragon-tree-1-stem__1473790_pe997858_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

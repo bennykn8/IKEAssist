@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LACK wall shelf unit, black-brown
+SKU: 80430591
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lack-wall-shelf-unit-black-brown-80430591/
+Category: Storage shelves & shelving units
+Description: , 113/4x743/4" A tight space or an unused wall? This shelf almost always fits. You can also choose to hang it vertically or horizontally depending on space and storage needs. Choose if you want to mou...
+
+# @OFFER
+Price: 99.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Honeycomb structure paper filling (100% recycled), Fiberboard, Plastic edging, Acrylic paint, Printed acrylic paint
+Features: When the wall shelf unit is hung in a horizontal position the total max. load is 55 lbs. When hung in a vertical position the max. load is 6 lbs per shelf. | Screws for wall mounting are not included. | If you are uncertain about what type of mounting devices to use, please contact your local hardware store.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lack-wall-shelf-unit-black-brown__0670335_pe715461_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: EKHOLMA sofa, Hakebo beige
+SKU: 29537411
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ekholma-sofa-hakebo-beige-s29537411/
+Category: Three-seat sofas
+Description: Sophisticated exterior and comfy interior. EKHOLMA sofa has an elegant design, fitted cover that you can remove and wash – and pocket springs that do wonders for comfort and help the sofa keep its sha...
+
+# @OFFER
+Price: 549
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Solid wood, Particleboard, Plywood, Polyurethane foam 2.0 lb/cu.ft., Particleboard, Fiberboard, Pocket spring unit: Steel, Leg: Solid wood, Stain, Clear acrylic lacquer
+Care: Lining: Clean with a dust cloth or vacuum lightly using the soft brush attachment. | Frame: Wipe clean using a damp cloth and a mild cleaner.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ekholma-sofa-hakebo-beige__1360615_pe954530_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

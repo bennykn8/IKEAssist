@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BLÅVINGAD soft toy, blue whale
+SKU: 50532039
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/blavingad-soft-toy-blue-whale-50532039/
+Category: Soft toys
+Description: , 39" In the mouth of this big blue whale there is room for pajamas or a treasure. It’s because this soft animal is a true friend who can keep a secret, play and give hugs when needed. Made of recycle...
+
+# @OFFER
+Price: 29.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100 %polyester, Filling: 100% polyester - hollow fiber (100% recycled)
+Features: Matches everything in the BLÅVINGAD collection: soft toys, textiles, lighting, and other accessories.
+Care: Machine wash, warm, durable-press cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/blavingad-soft-toy-blue-whale__1107939_pe869237_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

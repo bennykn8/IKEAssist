@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GREJIG Shoe rack
+SKU: 40329868
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/grejig-shoe-rack-gray-40329868/
+Category: Shoe racks & stands
+Description: , 22 7/8x10 5/8". Just as practical for everyday shoes in the hallway as for fancy shoes in the wardrobe. And since the rack is foldable, you can have some extra racks in the hallway closet that you c...
+
+# @OFFER
+Price: 4.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Polyethylene powder coating
+Features: Holds approx. 3 pairs of shoes. | Can be used in areas with high humidity such as bathrooms and balconies, but should not be directly exposed to water from, for example, a shower or rain.
+Care: Wipe clean with a water dampened cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/grejig-shoe-rack-gray__0710739_pe727757_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: FINNALA armrest, Dalstorp multicolor
+SKU: 99319457
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/finnala-armrest-dalstorp-multicolor-s99319457/
+Category: Modular sofas
+Description: This cover is made from Dalstorp fabric in 100% cotton. It has a smooth surface with a modern style and graphic print. The cover is easy to keep clean since it is removable and machine washable.
+
+# @OFFER
+Price: 105
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Smolder resistant lining: Polyester wadding, Frame: Plywood, Polyurethane foam 2.0 lb/cu.ft., Particleboard, Solid wood, Fiberboard, Leg: Polypropylene
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/finnala-armrest-dalstorp-multicolor__0724727_pe734569_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

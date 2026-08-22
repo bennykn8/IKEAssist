@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: ADLAD scented candle in glass, Scandinavian Woods/white, 12 hr
+SKU: 50504423
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/adlad-scented-candle-in-glass-scandinavian-woods-white-50504423/
+Category: Scented candles
+Description: What’s the scent of home for you? ADLAD scented candle offers a comforting, familiar experience of Scandinavian forests with spicy citrus notes. Welcome home to a genuine atmosphere inspired by nature...
+
+# @OFFER
+Price: 0.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Candlecup: Glass, Candle: Plant-based wax (min. 50%), paraffin wax, Wick: Cotton and other cellulose based materials
+Care: Handwash only. | You easily remove hardened wax by washing the surface with warm water.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/adlad-scented-candle-in-glass-scandinavian-woods-white__1060247_pe849857_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KUGGIS box with lid, dark gray-beige, 10 ¼x13 ¾x
+SKU: 89582491
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kuggis-box-with-lid-dark-gray-beige-s89582491/
+Category: Paper & media storage boxes
+Description: 6" This box is practical for storing papers, gadgets or hobby items. The lid protect the contents from dust and make it possible to stack several boxes on top of each other. Can also be used in bathro...
+
+# @OFFER
+Price: 11.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: PET plastic (min. 50% recycled)
+Features: Not approved for food contact. | Can also be used in bathrooms.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kuggis-box-with-lid-dark-gray-beige__1382415_pe962294_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: JÄTTESTA TV storage combination, white/light bamboo
+SKU: 19508980
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/jaettesta-tv-storage-combination-white-light-bamboo-s19508980/
+Category: TV & media storage
+Description: , 126x153/4x763/4"
+
+# @OFFER
+Price: 507.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Panel: Bamboo, Stain, Tinted clear acrylic lacquer, Frame: Steel, Epoxy/polyester powder coating, Cover cap: Aluminum
+Features: The top panel of the TV bench is intended for a TV with a maximum weight of 66 lbs. | We recommend a TV bench to be a bit wider than the TV placed on it. This TV bench suits a TV up to 63 inches. You can choose a larger TV if it’s not heavier than the specified max load for the bench’s top.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/jaettesta-tv-storage-combination-white-light-bamboo__1159828_pe888646_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

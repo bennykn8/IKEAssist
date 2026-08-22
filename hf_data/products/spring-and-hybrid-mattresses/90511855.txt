@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VALEVÅG pocket spring mattress, medium firm/white, Twin
+SKU: 90511855
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/valevag-pocket-spring-mattress-medium-firm-white-90511855/
+Category: Spring & hybrid mattresses
+Description: A 9½ in medium-firm high mattress with individual pocket springs. Even distribution of body weight by comfort zones offers softer support for hips and shoulders. A thick layer of foam adds to the comf...
+
+# @OFFER
+Price: 229
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Ticking/ Main parts/ Ticking, top/ Ticking, side: 100 % polyester (100% recycled), Ticking, underside: 90% viscose, 10% polyester (100% recycled), Lining, top/ Lining, side: 100 % polypropylene
+Features: The mattress may need about 72 hours to fully regain its shape and comfort after having been roll-packed. Any wrinkles will disappear too. | Sometimes the packaging may have given the mattress a noticeable smell which will disappear over a short period of time. | 249 springs per square meter in a 90x200 cm mattress.
+Care: Mattress cover: Do not wash. | Mattress cover: Clean with upholstery shampoo.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/valevag-pocket-spring-mattress-medium-firm-white__1142851_pe881372_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

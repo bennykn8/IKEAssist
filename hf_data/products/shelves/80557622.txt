@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BERGSHULT shelf, gray-beige
+SKU: 80557622
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/bergshult-shelf-gray-beige-80557622/
+Category: Shelves
+Description: , 471/4x77/8" BERGHULT shelf allows you to create a storage solution that fits your space. It features a beveled edge on one side and a smooth edge on the other, providing you with the flexibility to ...
+
+# @OFFER
+Price: 15
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Paper foil, Plastic edging, Plastic edging
+Features: Complete with 2 or 3 brackets. Sold separately. | 47¼" BERGSHULT shelves are not suitable to be combined with GRANHULT brackets, due to risk of the shelf sagging. | If using only 2 brackets on a 47¼" shelf, the distance between the brackets should be 27½-31½".
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/bergshult-shelf-gray-beige__1249394_pe923356_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

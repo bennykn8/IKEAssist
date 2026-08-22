@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GLADELIG baking dish, blue
+SKU: 30531069
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/gladelig-baking-dish-blue-30531069/
+Category: Ovenware
+Description: , 8" You can also use this small oven dish as a deep plate. The ocean-blue, glazed surface with golden-brown details turns meals into pure joy – and makes it easy to serve in style, direct from oven t...
+
+# @OFFER
+Price: 14.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Stoneware
+Features: Reactive glaze gives each set a handcrafted and unique look, this is natural and adds to the product's charm. | Suitable for use with an air fryer.
+Care: Microwave-safe. | Dishwasher-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/gladelig-baking-dish-blue__1144213_pe881763_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

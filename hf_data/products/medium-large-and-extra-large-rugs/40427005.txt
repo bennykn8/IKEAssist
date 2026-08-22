@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: STOENSE Rug, low pile, medium gray
+SKU: 40427005
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/stoense-rug-low-pile-medium-gray-40427005/
+Category: Medium, large and extra-large rugs
+Description: , 4 ' 4"x6 ' 5". The thick, soft-spun pile is all about comfort, combined with gentle colors and a light sheen that bring harmony to the room. Large floor? Place several rugs together – the thick pile...
+
+# @OFFER
+Price: 79.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Use surface: 100 % polypropylene, Backing: 100 % Synthetic rubber
+Features: You will need 1 STOPP FILT rug underlay with anti-slip (4'x6') for this rug. Trim if necessary. | To ensure you are satisfied with the size of the rug once you get it home, we recommend that you measure the intended floor space for your rug before you buy it.
+Care: Do not wash. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/stoense-rug-low-pile-medium-gray__0624371_pe691789_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

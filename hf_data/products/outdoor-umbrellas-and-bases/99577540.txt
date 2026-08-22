@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SEGLARÖ / IGGÖN hanging umbrella with base, anthracite/dark gray
+SKU: 99577540
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/seglaroe-iggoen-hanging-umbrella-with-base-anthracite-dark-gray-s99577540/
+Category: Outdoor umbrellas & bases
+Description: , 1297/8x941/2"
+
+# @OFFER
+Price: 369
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Pole: Aluminium (min. 70% recycled), Polyester powder coating, Ribs: Steel, Polyester powder coating, Crank housing: Aluminum, Polyester powder coating
+Features: The umbrella does not provide protection against reflected or scattered solar ultraviolet radiation. | Minimum 66 lbs of sand is needed for each bag. | May be completed with TOSTERÖ umbrella cover (86⅝").
+Care: The best way to extend the life of your umbrella is by cleaning it regularly, protecting it with a cover whenever not in use and storing it in a cool, dry place indoors when the season is over. | Machine wash cold, normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/seglaroe-iggoen-hanging-umbrella-with-base-anthracite-dark-gray__1379415_pe961530_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

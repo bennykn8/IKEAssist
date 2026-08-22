@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KUSTFYR hanging decoration, ghost white
+SKU: 50599708
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kustfyr-hanging-decoration-ghost-white-50599708/
+Category: Table decor & decorative accessories
+Description: , 20" BOO! This ghost creates that right Halloween atmosphere in a flash. Easy to hang up anywhere in your home − and just as easy to fold flat again and store in the package until next year. Easy to ...
+
+# @OFFER
+Price: 14.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Paper
+Features: Do not throw away the packaging. It is perfect to store the decoration in so that it keeps its nice shape for longer and can be used again and again.
+Care: Clean with a duster.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kustfyr-hanging-decoration-ghost-white__1406588_pe971035_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

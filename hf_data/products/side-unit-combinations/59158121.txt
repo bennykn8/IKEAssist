@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ELVARLI wardrobe combination, white
+SKU: 59158121
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/elvarli-wardrobe-combination-white-s59158121/
+Category: Side unit combinations
+Description: , 171/2x215/8x85" ELVARLI storage system adapts to your space. The open solution with durable shelves creates an attractive display of your belongings. Psst! Please attach to the wall. A lightweight, ...
+
+# @OFFER
+Price: 290
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Aluminium (min. 70% recycled), Epoxy/polyester powder coating, Main parts: Steel, Anti-corrosive phosphate coating, Epoxy/polyester powder coating, Pin: Steel, Galvanized
+Features: One 15¾" clothes rail holds about 10-12 shirts on hangers. | Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Two people are needed to assemble this furniture.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/elvarli-wardrobe-combination-white__0626594_pe692898_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: STÄLL shoe cabinet with 4 compartments, dark gray
+SKU: 90530236
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/staell-shoe-cabinet-with-4-compartments-dark-gray-90530236/
+Category: Shoe cabinets
+Description: , 373/4x63/4x353/8" STÄLL shoe cabinet takes care of your footwear in the best way. It helps you stay organized in the hallway and also saves important floor space. Shoe storage with a sense of style,...
+
+# @OFFER
+Price: 149.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Side panel/ Drawer front: Particleboard, Plastic edging, Acrylic paint, Paper foil, Leg: Solid birch, Acrylic paint, Insert: Polypropylene
+Features: Holds approx. 8 pairs of shoes. | Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home.
+Care: Wipe clean with a soft cloth dampened with water and a mild dish detergent or soap, if necessary. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/staell-shoe-cabinet-with-4-compartments-dark-gray__1292548_pe935049_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: NÄBBFISK napkin holder, paper/patterned green
+SKU: 90569747
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/naebbfisk-napkin-holder-paper-patterned-green-90569747/
+Category: Napkin holders
+Description: , 6x9" Inspired by nature and the new outdoor season - the NÄBBFISK series helps you enjoy preparing, serving and eating seasonal dishes together with family and friends. Enjoy your meal!
+
+# @OFFER
+Price: 1.49
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Paperboard (min. 100% recycled), Polyethylene
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/naebbfisk-napkin-holder-paper-patterned-green__1268081_pe928617_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

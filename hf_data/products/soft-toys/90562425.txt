@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: AFTONSPARV soft toy, Earth/multicolor
+SKU: 90562425
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/aftonsparv-soft-toy-earth-multicolor-90562425/
+Category: Soft toys
+Description: How would a child describe the Earth? Without a doubt, their imaginations would create something truly unique. This is our version – a real softie that is just as nice to hug as it is fun to play with...
+
+# @OFFER
+Price: 4.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100 % polyester (100% recycled), Filling: 100 % polyester - hollow fiber (100% recycled)
+Features: May be completed with other products from the AFTONSPARV collection.
+Care: Machine wash warm, normal cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/aftonsparv-soft-toy-earth-multicolor__1185152_pe898286_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

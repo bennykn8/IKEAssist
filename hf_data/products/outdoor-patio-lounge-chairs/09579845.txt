@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: JUTHOLMEN chair, outdoor, dark gray/Kuddarna light grey-beige
+SKU: 09579845
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/jutholmen-chair-outdoor-dark-gray-kuddarna-light-grey-beige-s09579845/
+Category: Outdoor patio lounge chairs
+Description: , 255/8x283/4x325/8" Create a comfy spot for relaxing outdoors with JUTHOLMEN modular sofa made of easy-care plastic rattan. Add soft cushions that are highly resistant to fading and have anti-slip to...
+
+# @OFFER
+Price: 130
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Seat frame/ Back frame/ Bottom frame: Steel, Polyester powder coating, Main parts/ Support: Polypropylene, Polyethylene, Mounting plate: Galvanized steel
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/jutholmen-chair-outdoor-dark-gray-kuddarna-light-grey-beige__1380052_pe961604_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

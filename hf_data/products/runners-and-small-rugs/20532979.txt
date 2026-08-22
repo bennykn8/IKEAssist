@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: NÖVLING rug, low pile, dark blue/yellow-brown
+SKU: 20532979
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/noevling-rug-low-pile-dark-blue-yellow-brown-20532979/
+Category: Runners & small rugs
+Description: , 4'2"x6'5" The decorative pattern with deep tones and pile in varying lengths come together in a classic and playful expression. The material is stain resistant and will keep its beauty for a long ti...
+
+# @OFFER
+Price: 99.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Use surface: 100% polyester (min. 90% recycled), Backing: 100 % Synthetic rubber
+Features: This rug fits with a 2-seat sofa, but can also fit other size sofas depending on how you place it. | The rug is machine-woven.
+Care: Airing and vacuuming will help to eliminate the smell that the rug can have when it is new. | Do not wash.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/noevling-rug-low-pile-dark-blue-yellow-brown__1123720_pe874877_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

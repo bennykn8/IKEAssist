@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: FINNALA 1-seat section, Tallmyra black/gray
+SKU: 09319536
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/finnala-1-seat-section-tallmyra-black-gray-s09319536/
+Description: Use this FINNALA 1-seat section with other sections in the series to create the perfect sofa for you and your space. A clean design and long-lasting comfort are always included. The cover is easy to k...
+
+# @OFFER
+Price: 300
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Smolder resistant lining/ Smolder resistant lining: Polyester wadding, Seat cushion: High-resilience polyurethane foam (cold foam) 2.2 lb/cu.ft., Pocket spring unit: Steel
+Care: Frame: Wipe clean using a damp cloth and a mild cleaner. | Frame: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/finnala-1-seat-section-tallmyra-black-gray__0727749_pe735801_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

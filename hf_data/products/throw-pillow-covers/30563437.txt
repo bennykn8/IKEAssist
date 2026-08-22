@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MAJSMOTT cushion cover, off-white/black
+SKU: 30563437
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/majsmott-cushion-cover-off-white-black-30563437/
+Category: Throw pillow covers
+Description: , 20x20" The expressive, untamed leaf pattern in off-white/black brings a bold graphic look to your living room or bedroom. Made from 100% cotton and a perfect match with MAJSMOTT curtains, bed linen ...
+
+# @OFFER
+Price: 6.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % cotton
+Features: Fits inner cushions 19⅝x19⅝".
+Care: Shrinkage maximum 4%. | Machine wash warm, normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/majsmott-cushion-cover-off-white-black__1187109_pe899047_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VÄGSKYLT rug, flatwoven, pink/orange
+SKU: 20587009
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vaegskylt-rug-flatwoven-pink-orange-20587009/
+Category: Runners & small rugs
+Description: , 2'7"x8'2" A warm and cheerful expression greets you each time you enter the room. The playful look of this cotton rug with pink and orange stripes does not go unnoticed. Pairs perfectly with VÄGSKYL...
+
+# @OFFER
+Price: 39.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % cotton
+Features: To ensure you are satisfied with the size of the rug once you get it home, we recommend that you measure the intended floor space for your rug before you buy it. | You will need 1 STOPP FILT rug underlay with anti-slip (5'5"x7'9") for this rug. Trim if necessary.
+Care: Do not wash. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vaegskylt-rug-flatwoven-pink-orange__1337826_pe948142_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

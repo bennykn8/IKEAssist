@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KIVIK sectional, 4-seat, with chaise/Grann/Bomstad black
+SKU: 99443193
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kivik-sectional-4-seat-with-chaise-grann-bomstad-black-s99443193/
+Category: Sofas with chaise
+Description: Cuddle up in the comfortable KIVIK sofa. The generous size, low armrests and pocket springs with foam that adapts to the body invites you and your guests to many hours of socializing and relaxation.
+
+# @OFFER
+Price: 1699
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Coated fabric parts: 100 % polyurethane, 75 % polyester, 25 % cotton, Leather: Dyed through top-grain leather with a treated, embossed and pigmented surface, Back and seat frame: Fiberboard, Plywood, Particleboard, Solid wood, Polyurethane foam 1.2 lb/cu.ft.
+Features: Please check with your local authorities to make sure that the product complies with any specific requirements for business use. | The seat- and back cushions and inside, outside, top and front of the armrests are covered with GRANN – a soft, smooth and strong grain leather with natural variations. Other surfaces have the coated fabric BOMSTAD.
+Care: Do not iron. | Vacuum clean.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kivik-sectional-4-seat-with-chaise-grann-bomstad-black__0151451_pe309530_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

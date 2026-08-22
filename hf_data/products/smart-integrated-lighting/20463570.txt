@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MITTLED LED ktchn drawer lighting w sensor, dimmable white
+SKU: 20463570
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/mittled-led-ktchn-drawer-lighting-w-sensor-dimmable-white-20463570/
+Category: Smart integrated lighting
+Description: , 29" It enhances the atmosphere and gives a good overview of things inside your drawers. No need to turn on bright lights to look for things in the middle of the night. Easy to install – no electrici...
+
+# @OFFER
+Price: 24
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Aluminum
+Features: Built-in LED light source. | Approved for IP20. | Light color: warm white (2700 Kelvin).
+Care: Wipe clean with a dry cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/mittled-led-ktchn-drawer-lighting-w-sensor-dimmable-white__0943503_pe796957_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LILLABO 45-piece train set with track
+SKU: 20330066
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lillabo-45-piece-train-set-with-track-20330066/
+Category: Wooden toys
+Description: This set has everything needed to build a train track with curves, bridges, tunnels and barriers. There are also buildings, trees and signs that help the driver go the right way – and stop when needed...
+
+# @OFFER
+Price: 34.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Track: Solid beech, Vehicles/ Tree: Solid beech, Acrylic paint, Clear acrylic lacquer, Nail/ Axle: Steel, Galvanized
+Features: The train set connects together using the magnets on the train cars.
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lillabo-45-piece-train-set-with-track__0712397_pe728813_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

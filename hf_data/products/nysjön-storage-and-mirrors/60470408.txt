@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: NYSJÖN sink cabinet, white
+SKU: 60470408
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/nysjoen-sink-cabinet-white-60470408/
+Category: NYSJÖN storage & mirrors
+Description: , 195/8x325/8" A perfect size when you need to be thrifty with your space. There’s room for piping in the back of the cabinet and plenty of shelf space for towels, bottles, hair accessories, and toile...
+
+# @OFFER
+Price: 57.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Melamine foil, Plastic edging, Plastic edging
+Features: Knobs, hinges, and legs included. | One stationary shelf included. | Complete with BJÖRKÅN sink.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/nysjoen-sink-cabinet-white__0971605_pe811407_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

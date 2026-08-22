@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LINNABERG door, green/patterned
+SKU: 20584398
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/linnaberg-door-green-patterned-20584398/
+Category: PAX doors without hinges
+Description: , 191/2x765/8" The doors can be hung with the opening to the right or the left. Perfect when you want to do something extra with your storage and your room – suits just as well in the bedroom as in th...
+
+# @OFFER
+Price: 60
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Board on frame: Particleboard, Fiberboard, Plastic edging, Acrylic paint, Filling material: Honeycomb structure paper filling (100% recycled)
+Features: Knobs and handles are sold separately. | To be completed with KOMPLEMENT hinges 3-pack. | Fits with PAX wardrobe system.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/linnaberg-door-green-patterned__1395212_pe966892_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

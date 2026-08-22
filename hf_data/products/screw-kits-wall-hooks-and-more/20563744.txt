@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TRIXIG 85-piece hooks and hanging set
+SKU: 20563744
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/trixig-85-piece-hooks-and-hanging-set-20563744/
+Category: Screw kits, wall hooks & more
+Description: The TRIXIG series has most of what a DIYer needs – from cordless drills to screws. Perfect when you want to complete your toolbox or give a housewarming gift to someone who has recently moved.
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Box/ Lid/ Divider: Polypropylene plastic (min. 50% recycled), Hook fitting/ Nail: Steel, Brass plated, Hook: Steel, Galvanized
+Features: Comprises: screw hooks Ø.1x.4x1.4"/Ø.12x.5x1.7", 10 of each, 12 angle hooks Ø.1x.60x2", 8 S-hooks Ø.1x.8x1.5", 10 picture hooks 1.2x.8", 10 picture hooks for concrete 1.2", 25 nails Ø.06x1". | For larger pictures, use two hooks for added safety.
+Care: Recommended for indoor use only.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/trixig-85-piece-hooks-and-hanging-set__1222999_pe914750_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

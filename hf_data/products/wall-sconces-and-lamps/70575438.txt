@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: RORKULT wall lamp, stripe pattern/white glass
+SKU: 70575438
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/rorkult-wall-lamp-stripe-pattern-white-glass-70575438/
+Category: Wall sconces & lamps
+Description: , 14" RORKULT wall lamp has a young yet classic expression and spreads a pleasant light through its parasol-shaped opal glass, which is sure to evoke memories in you of wonderful days on holiday by th...
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Box: ABS plastic, Diffuser: Polycarbonate plastic (min. 50% recycled), Knob: Steel, Nickel plated, Acrylic coating
+Dimensions: Light bulb is sold separately. IKEA recommends LED bulb E12 globe opal white with a max. diameter of 1.75 inches.
+Features: Screws for wall mounting are not included. | Use an opal light bulb if you have an ordinary lamp shade or lamp and want an even, diffused distribution of light. | Special waste handling may be required. Please contact your local authorities for more information.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/rorkult-wall-lamp-stripe-pattern-white-glass__1270082_pe929202_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

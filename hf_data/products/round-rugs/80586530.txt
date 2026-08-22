@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BRÄNNBOLL gaming rug, black
+SKU: 80586530
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/braennboll-gaming-rug-black-80586530/
+Category: Round rugs
+Description: , 6'5" BRÄNNBOLL gaming rug with a pixel pattern add a cool gaming vibes twist to a room. The tightly stitched green edging reduces the risk of stumbling off the rug and breaking something while playi...
+
+# @OFFER
+Price: 99.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Use surface/ Back fabric: 100 % polypropylene, Backing: 100 % Synthetic rubber
+Features: To get the edge of your rug to lie flat without curling up, fold the edge in the opposite direction and place a heavy object on top for 2 days.
+Care: Do not wash. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/braennboll-gaming-rug-black__1315491_pe940490_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: SJÖSS 45W 2-port USB-C charger, fast charging
+SKU: 10574470
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sjoess-45w-2-port-usb-c-charger-fast-charging-10574470/
+Category: USB chargers, portable chargers & more
+Description: Use SJÖSS 45W USB-C charger to charge 2 devices simultaneously. Quick and efficient – at home or on the go. Suitable for phones, tablets and most laptops. Supports the latest fast charging technology....
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polycarbonate plastic
+Dimensions: USB cable length and quality influences charging speed and performance.
+Features: The USB-C outlet can provide up to 3A/45W. | Output power per USB-C outlet: one USB-C outlet in use – 45W, and when two USB-C outlets in use – 22W. | The USB-C charger is compatible with Power Delivery (PD 3.0), Quick Charge (QC4+) and Programmable Power Supply (PPS).
+Care: To clean the product, unplug from power source and wipe with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sjoess-45w-2-port-usb-c-charger-fast-charging__1281143_pe931843_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

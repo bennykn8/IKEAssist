@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BROFJÄRDEN toilet roll holder, chrome effect
+SKU: 70581552
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/brofjaerden-toilet-roll-holder-chrome-effect-70581552/
+Category: Toilet brushes
+Description: BROFJÄRDEN bathroom accessories with shiny chrome-plated details reminisce of elegant, lasting designs of the past. Durable and corrosion-resistant chrome finish. No visible screws, as the hardware is...
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Toilet paper holder/ Arm/ End cap/ Cover plate: Aluminum, Chrome plated, Adapter: Stainless steel, Stainless steel, Bolt: Stainless steel
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Screws for wall mounting are not included. | If you are uncertain about what type of mounting devices to use, please contact your local hardware store.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/brofjaerden-toilet-roll-holder-chrome-effect__1329650_pe945218_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

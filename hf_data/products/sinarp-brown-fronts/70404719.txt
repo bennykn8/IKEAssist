@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SINARP drawer front, brown
+SKU: 70404719
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sinarp-drawer-front-brown-70404719/
+Category: SINARP brown fronts
+Description: , 36x5" SINARP fronts offer a timeless design with a modern twist, in dark wood tones that are full of character. The solid oak edging elegantly outlines the front adding fine detail and warmth to you...
+
+# @OFFER
+Price: 85
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Particleboard, Front side/ Back side: Oak veneer, Stain, Tinted lacquer, Clear acrylic lacquer, Edge: Solid wood, Stain, Tinted lacquer, Clear acrylic lacquer
+Features: Requires a knob or a handle | May be completed with black or bronze-color NYDALA knobs and handles. | Fits SEKTION kitchen series.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sinarp-drawer-front-brown__0943179_pe796780_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

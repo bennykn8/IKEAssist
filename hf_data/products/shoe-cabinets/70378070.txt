@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: OMTÄNKSAM shoehorn, anthracite
+SKU: 70378070
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/omtaenksam-shoehorn-anthracite-70378070/
+Category: Shoe cabinets
+Description: A sturdy metal shoehorn which is also extra-long, so you avoid having to bend over when putting on your shoes. Part of the OMTÄNKSAM collection – products that give you a helping hand in everyday life...
+
+# @OFFER
+Price: 6.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Epoxy powder coating
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/omtaenksam-shoehorn-anthracite__0811612_pe771730_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

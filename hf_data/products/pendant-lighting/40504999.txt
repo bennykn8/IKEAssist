@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GRINDFALLET pendant lamp, black
+SKU: 40504999
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/grindfallet-pendant-lamp-black-40504999/
+Category: Pendant lighting
+Description: , 12" The vertical lines of the globe-shaped lamp shade create playful shadows in the room. Combine it with a decorative light bulb to make your pendant lamp complete. Combine the lamp with decorative...
+
+# @OFFER
+Price: 34.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Acrylic coating
+Features: Light bulb sold separately. IKEA recommends LED bulb E26 globe clear. | Special waste handling may be required. Please contact your local authorities for more information. | To be hung on a ceiling hook.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/grindfallet-pendant-lamp-black__1008888_pe827365_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

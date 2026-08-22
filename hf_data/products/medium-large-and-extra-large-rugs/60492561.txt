@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VOLLERSLEV rug, high pile, dark blue
+SKU: 60492561
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vollerslev-rug-high-pile-dark-blue-60492561/
+Category: Medium, large and extra-large rugs
+Description: , 5'3"x7'7" A new take on traditional shaggy! The long dark blue pile is woven with varying yarn thicknesses to create a soft, irresistible texture that is also cozy to sit, walk, play or lie on. Extr...
+
+# @OFFER
+Price: 149.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Pile: 100 % polypropylene, Backing: 100 % Synthetic rubber
+Features: You will need 1 STOPP FILT rug underlay with anti-slip (5'5"x7'9") for this rug. Trim if necessary. | This rug fits with a 2-3 seat sofa, but can also fit other size sofas depending on how you place it. | The rug is machine-woven.
+Care: Do not wash. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vollerslev-rug-high-pile-dark-blue__0933595_pe792162_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: SKUGGRÖNA wall-mounted plant stand, dark green, 30 ¾"
+SKU: 00562019
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/skuggroena-wall-mounted-plant-stand-dark-green-00562019/
+Category: Plant stands
+Description: Add some greenery to your walls. Mount SKUGGRÖNA plant stand horizontally or vertically and fill it with plants and decorative objects – or use it for small items such as keys or cellphones.
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Polyester powder coating
+Dimensions: We recommend that you place plant pots with a maximum diameter of 3½" on the shelves.
+Features: Maximum load on each shelf is 6.6 lbs. | May be completed with 3½" SOJABÖNA plant pots. | Screws for wall mounting are not included.
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/skuggroena-wall-mounted-plant-stand-dark-green__1362509_pe955264_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

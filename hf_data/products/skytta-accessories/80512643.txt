@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: SKYTTA rail for sliding door frame, 3 tracks black
+SKU: 80512643
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/skytta-rail-for-sliding-door-frame-3-tracks-black-80512643/
+Category: SKYTTA accessories
+Description: Create a floor-to-ceiling sliding door solution with these rails together with SKYTTA sliding doors. No need to drill in the floor since the floor rail tapes in place. It works on various kinds of sur...
+
+# @OFFER
+Price: 130
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Cover strip: Aluminum, Anodized, Support rail: Solid pine, Stain
+Dimensions: This ceiling rail can be adjusted to cater for +/- ¼" height difference between the rail and the ceiling.
+Features: Includes: 1 floor rail, 1 ceiling rail, and 1 wooden beam. | Available in white, black, and aluminum. | Clean the floor rail and door wheels regularly to make sure that the doors are easy to open and close.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/skytta-rail-for-sliding-door-frame-3-tracks-black__1004757_pe825153_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

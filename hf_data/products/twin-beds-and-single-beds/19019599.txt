@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MALM bed frame, white/Lönset, Twin
+SKU: 19019599
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/malm-bed-frame-white-loenset-s19019599/
+Category: Twin beds & single beds
+Description: A clean design that’s just as beautiful on all sides – place the bed on its own or with the headboard against a wall. If you need space for extra bedding, add MALM bed storage boxes on casters.
+
+# @OFFER
+Price: 279
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Head/footboard: Particleboard, Fiberboard, Fiberboard, Printed and embossed acrylic paint, Plastic edging, Honeycomb structure paper filling (100% recycled), Bedside: Particleboard, Fiberboard, Printed and embossed acrylic paint, Paper, Plastic edging, Bed base slats: Layer-glued wood veneer, Paper foil, Adhesive resin as coating
+Features: Add 2 MALM bed boxes to create lots of extra storage space. | LÖNSET slatted bed base is included in the price, but is packaged separately. | Mattress and bedlinens are sold separately.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/malm-bed-frame-white-loenset__0637620_pe704551_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

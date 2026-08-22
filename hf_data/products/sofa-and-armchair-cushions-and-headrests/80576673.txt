@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GRYTTOM cushion set, Gransel natural
+SKU: 80576673
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/gryttom-cushion-set-gransel-natural-80576673/
+Category: Sofa & armchair cushions & headrests
+Description: , 20x20/15x8" This cushion set makes SALNÖ armchair even more comfortable, and since the cover is easy to remove and wash, you can enjoy many moments of relaxing me-time in your favorite spot. Easy to...
+
+# @OFFER
+Price: 30
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric/ Top fabric: 43 % cotton, 27 % viscose/rayon, 18 % polyester (100% recycled), 12 % linen, Lining/ Back fabric: 100 % polyester (100% recycled), Wadding/ Core filling: 100% polyester (min. 80% recycled)
+Features: Fits SALNÖ armchair. | Product is possible to recycle or use for energy recovery, if available in your community.
+Care: Inner cushion: Do not wash. | Inner cushion: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/gryttom-cushion-set-gransel-natural__1232004_pe916324_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

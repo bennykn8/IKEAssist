@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FARMARKVAST compost bin, gray-green, 135 oz
+SKU: 90567003
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/farmarkvast-compost-bin-gray-green-90567003/
+Category: Trash cans & waste baskets
+Description: Keep this bin on the kitchen worktop while cooking and cleaning up to collect organic waste and food scraps. You do not need a bag since the bin is easy to wash by hand after emptying it. The folding ...
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Bin/ Lid: Polypropylene plastic (min. 50% recycled), Handle: Reinforced polyamide plastic (min. 20% recycled), Hook/ Knob: Polyamide plastic (min. 20% recycled)
+Features: Not approved for food contact. | Recommended for indoor use only. | For hygienic reasons, you should regularly empty and clean the bin.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/farmarkvast-compost-bin-gray-green__1256301_pe925017_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

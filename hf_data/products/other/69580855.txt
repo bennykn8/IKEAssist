@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: BESTÅ TV storage combination, white/Hanviken/Stubbarp white
+SKU: 69580855
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/besta-tv-storage-combination-white-hanviken-stubbarp-white-s69580855/
+Description: , 941/2x161/2x901/2" It’s easy to keep the cords from your TV and other devices out of sight but close at hand, as there are several cord outlets at the back of the TV bench.
+
+# @OFFER
+Price: 855
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Bottom panel/ Side panel/ Partition: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Paper foil, Plastic edging, Plastic edging, Plastic edging, Back panel: Fiberboard, Paper foil, Plastic foil, Top panel/ Bottom panel/ Side panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Plastic edging
+Features: We recommend a TV bench to be a bit wider than the TV placed on it. This TV bench suits a TV up to 99 inches. You can choose a larger TV if it’s not heavier than the specified max load for the bench’s top. | If you choose the soft closing function for your BESTÅ, we recommend complementing the fronts with knobs/handles to make the drawers/cabinets more convenient to open. | Due to the design of HANVIKEN, knobs/handles can only be mounted in the outer frame of the door/drawer front, not in the center part.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/besta-tv-storage-combination-white-hanviken-stubbarp-white__0719352_pe732012_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

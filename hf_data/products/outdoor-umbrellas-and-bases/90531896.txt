@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: JOGGESÖ umbrella, light grey-beige
+SKU: 90531896
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/joggesoe-umbrella-light-grey-beige-90531896/
+Category: Outdoor umbrellas & bases
+Description: , 1181/8" Enjoy long lunches in the shade under JOGGESÖ parasol. The generous size makes it perfect to have by the outdoor dining table – and you can tilt the parasol, so it protects you from the sun ...
+
+# @OFFER
+Price: 109.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Pole: Aluminum, Polyester powder coating, Tilt mechanism: Zinc, Chrome plated, Ribs: Steel, Polyester powder coating
+Features: This product is suitable for use in a public environment since the design and the material are optimized for frequent use. | The umbrella does not provide protection against reflected or scattered solar ultraviolet radiation. | May be completed with TOSTERÖ umbrella cover (86⅝").
+Care: The best way to extend the life of your umbrella is by cleaning it regularly, protecting it with a cover whenever not in use and storing it in a cool, dry place indoors when the season is over. | Frame: Wipe clean with a mild soapy solution.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/joggesoe-umbrella-light-grey-beige__1118688_pe873224_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

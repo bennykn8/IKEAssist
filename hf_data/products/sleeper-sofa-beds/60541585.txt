@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: BÅRSLÖV sleeper sofa, Tibbleby beige/gray
+SKU: 60541585
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/barsloev-sleeper-sofa-tibbleby-beige-gray-60541585/
+Category: Sleeper sofa beds
+Description: Soft shapes and big, comfy cushions will make you long for BÅRSLÖV sofa-bed. Here you can hang out, sit or sleep – and make use of the practical storage. Easy-care fabrics keep the sofa in good condit...
+
+# @OFFER
+Price: 999
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Plywood, Laminated veneer lumber, Polyurethane foam 2.0 lb/cu.ft., Particleboard, Solid wood, Bed box: Particleboard, Plywood, High-pressure melamine laminate, Paint, Back cushion: 100 % polyester - hollow fiber (100% recycled), 30% cut polyurethane foam/ 70% polyester fibers, Polyurethane foam.
+Care: Frame, non-removable cover: Vacuum clean. | Frame, non-removable cover: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/barsloev-sleeper-sofa-tibbleby-beige-gray__1213685_pe911212_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

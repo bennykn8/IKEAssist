@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LYCKSELE LÖVÅS sleeper sofa, Knisa light gray
+SKU: 29387039
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lycksele-loevas-sleeper-sofa-knisa-light-gray-s29387039/
+Category: Loveseat sleepers
+Description: This sofa quickly and easily turns into a bed for two. Easy to keep fresh since the mattress and sofa covers can be removed and washed. Switch between several covers to give the sofa and room a new lo...
+
+# @OFFER
+Price: 499
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Steel, Steel, Epoxy/polyester powder coating, Bed slat: Layer-glued wood veneer, Adhesive resin as coating, Wadding: 100% polyester (min. 70% recycled)
+Features: The material in this product may be recyclable. Please check the recycling rules in your community and if recycling facilities exist in your area.
+Care: Mattress cover: Do not wash. | Mattress cover: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lycksele-loevas-sleeper-sofa-knisa-light-gray__0949707_pe799982_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

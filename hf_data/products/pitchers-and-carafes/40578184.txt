@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: IKEA 365+ beverage dispenser, bamboo/clear glass, 4 qt
+SKU: 40578184
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ikea-365-beverage-dispenser-bamboo-clear-glass-40578184/
+Category: Pitchers & carafes
+Description: A nice and simple way to serve beverages – for everyday moments and parties. IKEA 365+ jar with tap has a stylish design in glass and bamboo and a wide opening so you can easily add fruit or herbs.
+
+# @OFFER
+Price: 29.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Body: Glass, Metal parts: Stainless steel, Ceramic material, Plastic parts: Silicone rubber, Reinforced polyamide
+Features: The bamboo stand is sold separately.
+Care: Glass: Handwash only. | Glass: Only for drinks with a max. temperature of 122°F.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ikea-365-beverage-dispenser-bamboo-clear-glass__1142614_pe881314_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

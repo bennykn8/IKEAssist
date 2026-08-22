@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: VÄRLDENS backpack, black, 12 ¼x6x19 ¼"/7 gallon
+SKU: 60487927
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vaerldens-backpack-black-60487927/
+Category: Messenger backpacks, tote bag backpacks & more
+Description: A perfect backpack with lots of room for everything you need and a little more. Made of recycled polyester, loaded with smart features, practical compartments – and an extra removable bag to use if ne...
+
+# @OFFER
+Price: 45.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric/ Lining: 100% polyester (min. 90% recycled), Webbing: 100 % polypropylene, Filling: Polyethylene foam
+Care: Hand wash warm water. | To be washed separately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vaerldens-backpack-black__0976472_pe813245_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

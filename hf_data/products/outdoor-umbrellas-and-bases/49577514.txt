@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HÖGÖN / IGGÖN umbrella with base, dark blue/dark gray
+SKU: 49577514
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hoegoen-iggoen-umbrella-with-base-dark-blue-dark-gray-s49577514/
+Category: Outdoor umbrellas & bases
+Description: , 1061/4" This umbrella can make your summer days better. It’s easy to open and close, the canopy’s color lasts longer in the sun and can be removed and washed. And it provides good protection against...
+
+# @OFFER
+Price: 119.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Pole: Aluminum, Polyester powder coating, Ribs: Steel, Polyester powder coating, Plastic parts: Polypropylene
+Features: The umbrella does not provide protection against reflected or scattered solar ultraviolet radiation. | Possible to separate for recycling or energy recovery if available in your community. | Minimum 66 lbs of sand is needed for each bag.
+Care: Umbrella fabric: Machine wash warm, normal cycle. | Umbrella fabric: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hoegoen-iggoen-umbrella-with-base-dark-blue-dark-gray__1379411_pe961522_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

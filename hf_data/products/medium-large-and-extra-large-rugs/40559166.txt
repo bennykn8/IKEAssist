@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TIPHEDE rug, flatwoven, natural/black
+SKU: 40559166
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tiphede-rug-flatwoven-natural-black-40559166/
+Category: Medium, large and extra-large rugs
+Description: , 7'3"x9'2" A versatile rug made of cotton, in colors that fit right in. It’s perfect under your dining table, in the living room or by your bed. When it’s time for a fresh-up, just put it in the wash...
+
+# @OFFER
+Price: 29.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % cotton
+Features: You will need 1 STOPP FILT rug underlay with anti-slip (5'5"x7'9") for this rug. Trim if necessary. | It may take time for fold marks to disappear after unpacking your rug. Iron, if needed.
+Care: Hand wash warm water. | Wash dark colors separately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tiphede-rug-flatwoven-natural-black__0772066_pe755879_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

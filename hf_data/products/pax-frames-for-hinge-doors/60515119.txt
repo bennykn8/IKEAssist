@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: PAX add-on corner unit with 4 shelves, dark gray
+SKU: 60515119
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/pax-add-on-corner-unit-with-4-shelves-dark-gray-60515119/
+Category: PAX frames for hinge doors
+Description: , 207/8x227/8x791/8" When you combine this unit with other PAX frames you can utilise all of the space in a corner. You get handy storage for hanging, folding or displaying your clothes and accessorie...
+
+# @OFFER
+Price: 180
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Fiberboard, Paper foil
+Dimensions: The width of the PAX frame increases approximately 4⅜" when it is combined with the add-on corner unit. Please follow the assembly instructions in the package.
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Two people are needed to assemble this furniture. | The frame can be assembled in an upright position if your ceiling height is a minimum of 79½". Follow the assembly instructions in the package.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/pax-add-on-corner-unit-with-4-shelves-dark-gray__1029306_pe835734_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

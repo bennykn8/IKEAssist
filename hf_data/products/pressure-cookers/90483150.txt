@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: IKEA 365+ pressure cooker, stainless steel, 6.3 qt
+SKU: 90483150
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ikea-365-pressure-cooker-stainless-steel-90483150/
+Category: Pressure cookers
+Description: This pressure cooker preserves flavors and nutrients in a fantastic way – and it reduces the cooking time by up to 50 percent. Serve food rich with taste while saving time and energy. It’s a win-win! ...
+
+# @OFFER
+Price: 69.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Body/ Lid: Stainless steel, Stainless steel, Disc: Aluminum, Handle: Phenolic plastic, Reinforced polyamide
+Features: Wash this product before using it for the first time. | For replacement gaskets - contact the Customer service department at your local IKEA store.
+Care: Handwash only. | Suitable for use on gas cooktop.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ikea-365-pressure-cooker-stainless-steel__0812235_pe771975_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

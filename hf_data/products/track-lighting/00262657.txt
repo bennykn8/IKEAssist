@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TIDIG ceiling light with 5 spotlights, nickel plated
+SKU: 00262657
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tidig-ceiling-light-with-5-spotlights-nickel-plated-00262657/
+Category: Track lighting
+Description: Stylish ceiling spot with a nickel-plated track and shades in white glass – enjoy light where you want it since the 5 spots can be directed individually. Goes just as well in a hallway as in the kitch...
+
+# @OFFER
+Price: 69.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Steel, Brush finish nickel-plated, Paint, Shade: Glass
+Features: Light bulbs sold separately. IKEA recommends LED bulb GU10 (5 pcs). | Screws are sold separately. | May be completed with other lamps in the same series.
+Care: Dust the lamp with a dust cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tidig-ceiling-light-with-5-spotlights-nickel-plated__0607352_pe682901_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TONSTAD bed frame, oak veneer/Lyngör white, Twin
+SKU: 49575812
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tonstad-bed-frame-oak-veneer-lyngoer-white-s49575812/
+Category: Twin beds & single beds
+Description: Classic design meets beautifully brushed veneer in the TONSTAD series, giving the furniture a unique character – and LYNGÖR mattress base gives extra height and helps your mattress keep its shape for ...
+
+# @OFFER
+Price: 549
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Oak veneer, Oak veneer, Clear acrylic lacquer, Oak veneer, Paper edging, Bottom panel/ Panel/ Side panel: Particleboard, Oak veneer, Clear acrylic lacquer, Paper foil, Oak veneer, Paper edging, Leg: Solid wood, Oak veneer, Clear acrylic lacquer
+Features: Comprises: 1 bed frame, 1 LYNGÖR mattress base and 1 LYNGÖR mattress base cover. | Mattress and bedlinens are sold separately. | More information about each product in the set can be found on each product page on IKEA.us.
+Care: Removable cover: Machine wash warm (max 140°F/60°C) normal cycle. | Removable cover: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tonstad-bed-frame-oak-veneer-lyngoer-white__1416090_pe975443_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

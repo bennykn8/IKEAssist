@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KNOPPÄNG Frame, black, 24x35 ¾"
+SKU: 10429652
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/knoppaeng-frame-black-10429652/
+Category: Picture & photo frames
+Description: . Decorate with pictures you love. This frame has a thin edge with a profile that has a traditional look and comes in many sizes.
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Fiberboard, Paper foil, Front protection: Polystyrene, Mat: Paper
+Features: This frame fits with a picture that has dimensions 19⅝x27½" if you use it with the mat, and it fits with a picture that has dimensions 24x35⅞" if you choose to use the frame without the mat. | Mat included. | The mat will not turn yellow since it is acid-free.
+Care: Clean with a duster.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/knoppaeng-frame-black__0756626_pe748998_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

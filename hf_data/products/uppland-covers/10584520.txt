@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: UPPLAND cover for armchair, Hillared dark blue
+SKU: 10584520
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/uppland-cover-for-armchair-hillared-dark-blue-10584520/
+Category: UPPLAND covers
+Description: UPPLAND covers are easy to change, so buy an extra cover - or two, and change according to mood or season. A range of coordinated covers makes it easy for you to give your furniture a new look.
+
+# @OFFER
+Price: 129
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Back fabric: 100 % polyester (100% recycled), Cord: 100 % polyester, Fabric: 55 % cotton, 25 % polyester (100% recycled), 12 % viscose/rayon, 8 % linen
+Features: Fits UPPLAND frame only.
+Care: Removable cover: Machine wash warm, normal cycle. | Removable cover: To be washed separately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/uppland-cover-for-armchair-hillared-dark-blue__0779557_pe759620_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

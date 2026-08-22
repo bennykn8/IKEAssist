@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: EDSBRUK frame, white
+SKU: 60427325
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/edsbruk-frame-white-60427325/
+Category: Picture & photo frames
+Description: , 12x16" Decorate with pictures you love. This traditional, robust frame has a soft profile and comes in many sizes, perfect for a picture wall. The plastic front protection is safe ― and does justice...
+
+# @OFFER
+Price: 16.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Fiberboard, Paper foil, Front protection: Polystyrene, Mat: Paper
+Features: This frame fits with a picture that has dimensions 8x10" if you use it with the mount, and it fits with a picture that has dimensions 12x16" if you choose to use the frame without the mount. | Mat included. | The mat will not turn yellow since it is acid-free.
+Care: Clean with a duster.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/edsbruk-frame-white__0706492_pe725880_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

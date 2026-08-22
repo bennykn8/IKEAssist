@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: ELVARLI wardrobe combination, white
+SKU: 99157902
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/elvarli-wardrobe-combination-white-s99157902/
+Category: Post unit combinations
+Description: , 361/8x20x871/4-1373/4" Make your ELVARLI storage solution into a home for your books, clothes or a lovely display of decorative items. Shelves, clothes rails and height adjustable post will help you...
+
+# @OFFER
+Price: 310
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Aluminium (min. 70% recycled), Epoxy/polyester powder coating, Clothes rail: Steel, Anti-corrosive phosphate coating, Epoxy/polyester powder coating, Tube/ Tube cap/ Holder: Reinforced polyamide
+Dimensions: Each post includes two fittings which enable mounting shelves, etc. to extendable portion, allowing you to utilize the entire post height.
+Features: One 31½" clothes rail holds about 24-26 shirts on hangers. | Different ceiling materials require different types of fasteners. Use fasteners suitable for the ceilings in your home (not included). | Two people are needed to assemble this furniture.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/elvarli-wardrobe-combination-white__0442433_pe593801_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

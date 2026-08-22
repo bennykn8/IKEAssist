@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TOLKNING ottoman with storage, handmade rattan
+SKU: 90512666
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tolkning-ottoman-with-storage-handmade-rattan-90512666/
+Category: Rattan ottomans
+Description: The versatile TOLKNING series is made of natural fibers with a warm look. This pouffe has a secret – it loves a clutter-free home and offers not only an extra seat but also a convenient storage soluti...
+
+# @OFFER
+Price: 89.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Rattan, Clear acrylic lacquer, Frame: Steel, Powder coating, Bottom panel: Plywood, Stain, Clear acrylic lacquer
+Features: Each product is a unique, handmade work of art with natural variations in color and shape. | Can be used in the bathroom or in different locations across the home.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tolkning-ottoman-with-storage-handmade-rattan__1098697_pe865490_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

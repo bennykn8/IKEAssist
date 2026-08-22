@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: LIDKULLEN Sit/stand support, Gunnared dark gray
+SKU: 50445787
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lidkullen-sit-stand-support-gunnared-dark-gray-50445787/
+Category: Office chairs
+Description: . Moves you when seated. This sit/stand support helps you to sit actively.
+
+# @OFFER
+Price: 139.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Seat foam: High resilient polyurethane foam (cold foam)., Seat: Molded eucalyptus plywood, Cover, underside: Polypropylene, Non-woven polypropylene
+Care: Machine wash warm, normal cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lidkullen-sit-stand-support-gunnared-dark-gray__0771308_pe755688_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KALLAX shelf unit, white
+SKU: 90301555
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kallax-shelf-unit-white-90301555/
+Category: Storage shelves & shelving units
+Description: , 301/8x161/8" Hang it on the wall or stand it on the floor – the KALLAX series adapts to your needs. Smooth surfaces and rounded corners give a quality feel and you can personalize the unit with inse...
+
+# @OFFER
+Price: 34.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Printed and embossed acrylic paint, Plastic edging
+Features: Complete with KALLAX underframe to give this shelving unit a new look while making it easier to vacuum underneath. | May be completed with KALLAX insert, sold separately. | Coordinates well with pieces of furniture in the LACK series that have the same timeless expression and material as KALLAX.
+Care: Wipe clean with a soft cloth dampened with water and a mild dish detergent or soap, if necessary. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kallax-shelf-unit-white__0383004_pe557240_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

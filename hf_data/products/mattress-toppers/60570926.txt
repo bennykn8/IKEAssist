@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: NÄSFJÄLLET mattress topper, white, Queen
+SKU: 60570926
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/naesfjaellet-mattress-topper-white-60570926/
+Category: Mattress toppers
+Description: Add some extra cushioning to your sleep. This mattress pad is 4 cm thick with standard foam for that little bit of extra softness and comfort. The cover is washable to keep it fresh. Standard foam mak...
+
+# @OFFER
+Price: 99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Ticking: 100 % polyester (100% recycled), Quilt filling: 100% polyester (min. 70% recycled), Backing: 100 % polypropylene
+Features: Care instructions can be found inside the cover. | For best results, hang dry after washing. | A mattress pad helps to protect and prolong the life of your mattress.
+Care: Mattress topper cover: Machine wash warm (max 140°F/60°C) normal cycle. | Mattress topper cover: Close the zipper before washing.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/naesfjaellet-mattress-topper-white__1257449_pe925826_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

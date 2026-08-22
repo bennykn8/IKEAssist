@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ELVARLI Side unit, white
+SKU: 00317532
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/elvarli-side-unit-white-00317532/
+Category: Post, side units & interiors
+Description: , 14 1/8x85". Use ELVARLI side unit as your base and add interiors as you wish to create your own personalized storage solution. Easy to assemble, adapt and disassemble with a simple click-function.
+
+# @OFFER
+Price: 75
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Aluminium (min. 70% recycled), Epoxy/polyester powder coating
+Features: A cross brace is needed on every other section for increased stability. | To be completed with ELVARLI cross brace. | Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/elvarli-side-unit-white__0643846_pe702190_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

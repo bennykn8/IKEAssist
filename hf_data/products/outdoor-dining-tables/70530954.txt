@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TÄRNÖ table, outdoor, white/green
+SKU: 70530954
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/taernoe-table-outdoor-white-green-70530954/
+Category: Outdoor dining tables
+Description: , 215/8x211/4" Foldable, durable and lovable with its mix of natural acacia hardwood and powder-coated steel. A perfect size for the balcony or in a cozy corner of the deck. The table folds to make it...
+
+# @OFFER
+Price: 29
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Slats: Solid acacia wood, Acrylic stain, Clear lacquer, Leg/ Rail/ Cross rail/ Support: Steel, Polyester powder coating, Feet/ Protector: Polypropylene
+Features: Seats 2. | Only recommended for outdoor use. | Possible to separate for recycling or energy recovery if available in your community.
+Care: The best way to extend the life of your wooden outdoor furniture is by cleaning it regularly, not leaving it outdoors unprotected more than necessary, and re-staining it on a regular basis. | Clean: Use a mild soapy solution. Wipe dry with a clean dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/taernoe-table-outdoor-white-green__1153876_pe885877_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

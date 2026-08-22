@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BLÖTSNÖ LED string light with 12 lights, indoor, battery operated black
+SKU: 50401509
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/bloetsnoe-led-string-light-with-12-lights-indoor-battery-operated-black-50401509/
+Category: String lights
+Description: . Light chains are perfect when you want to make your home more festive for special events – or ordinary weekdays. Use them when setting the table or to create a cozy atmosphere in your hall or bedroo...
+
+# @OFFER
+Price: 21.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Shade: Polycarbonate plastic, Shade holder/ Cover/ Battery box: ABS plastic
+Features: Built-in LED light source. | IKEA recommends LADDA rechargeable batteries. | Only for indoor use.
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/bloetsnoe-led-string-light-with-12-lights-indoor-battery-operated-black__0597213_pe677032_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

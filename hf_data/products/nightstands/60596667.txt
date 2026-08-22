@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VIKHAMMER nightstand, walnut veneer
+SKU: 60596667
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vikhammer-nightstand-walnut-veneer-60596667/
+Category: Nightstands
+Description: , 235/8x153/8" For those who want to decorate a bedroom in an elegant style. This bedside table in walnut veneer with a matching steel underframe goes well with slightly higher beds and has lots of st...
+
+# @OFFER
+Price: 129.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel: Particleboard, Walnut veneer, Stain, Clear lacquer, Paper foil, Walnut veneer, Stain, Clear lacquer, Walnut veneer, Stain, Clear lacquer, Side panel: Particleboard, Walnut veneer, Stain, Clear lacquer, Walnut veneer, Stain, Clear lacquer, Walnut veneer, Stain, Clear lacquer, Bottom panel/ Drawer front: Particleboard, Walnut veneer, Stain, Clear lacquer, Paper foil, Walnut veneer, Stain, Clear lacquer
+Features: May be completed with FIXA stick-on floor protectors to protect the underlying surface against wear.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vikhammer-nightstand-walnut-veneer__1412894_pe974105_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

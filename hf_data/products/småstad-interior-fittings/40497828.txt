@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HJÄLPA adjustable clothes rail, white
+SKU: 40497828
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hjaelpa-adjustable-clothes-rail-white-40497828/
+Category: SMÅSTAD interior fittings
+Description: , 235/8-393/8" HJÄLPA interior organizers include rails, baskets, hooks, and shelves, which make the most of the available space and keep things organized. The adjustable clothes rail makes it easy to...
+
+# @OFFER
+Price: 5
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Tube: Steel, Epoxy/polyester powder coating, Connection: Polypropylene, Stop fitting: Synthetic rubber
+Features: Fits with PLATSA storage system. | To be completed with HJÄLPA suspension rails, sold separately.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hjaelpa-adjustable-clothes-rail-white__1010872_pe828274_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

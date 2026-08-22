@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: AKTERSPRING pendant lamp, opal glass/brass plated
+SKU: 00591644
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/akterspring-pendant-lamp-opal-glass-brass-plated-00591644/
+Category: Pendant lighting
+Description: , 29" Simplicity with elegance. Pendant lamp with a brass-plated metal frame and 3 mouth-blown shades connected by beige textile cords – spreading plenty of light over the dining table or in your livi...
+
+# @OFFER
+Price: 129.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Shade: Glass, Tube: Steel
+Dimensions: Light bulbs sold separately. IKEA recommends LED bulb E12 globe opal white with a max. diameter of 1.77 inches (3 pcs).
+Features: Mounted with screws. | Screws are not included. | Special waste handling may be required. Please contact your local authorities for more information.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/akterspring-pendant-lamp-opal-glass-brass-plated__1416206_pe975488_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

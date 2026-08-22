@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TOSSBERG chair, metal black/Grann black
+SKU: 20584435
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tossberg-chair-metal-black-grann-black-20584435/
+Category: Upholstered chairs
+Description: A stable chair made for those lovely dinners with family and friends. Covered with durable leather where the soft padding and lumbar support make you sit comfortably – for long periods. Soft, hardwear...
+
+# @OFFER
+Price: 280
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: 100 % polypropylene, High resilient polyurethane foam (cold foam)., Fiberboard, Steel, Seat cushion: High resilient polyurethane foam (cold foam)., Leg: Steel, Polyethylene, Epoxy/polyester powder coating
+Features: May be completed with FIXA stick-on floor protectors to protect the underlying surface against wear.
+Care: Seat: Clean with a dust cloth or vacuum lightly using the soft brush attachment. | Seat: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tossberg-chair-metal-black-grann-black__1359994_pe954319_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

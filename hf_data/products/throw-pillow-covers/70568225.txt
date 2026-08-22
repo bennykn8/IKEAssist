@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: DAMMOTT cushion cover, dark gray/off-white
+SKU: 70568225
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/dammott-cushion-cover-dark-gray-off-white-70568225/
+Category: Throw pillow covers
+Description: , 26x26" Rustic cushion cover in soft acrylic/polyester with a diamond pattern. Modern design with Scandinavian traditions that creates a warm, cozy feel. The matching DAGFRID throw completes the farm...
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 99 % acrylic, 1 %polyester
+Features: Fits inner cushions 19⅝x19⅝".
+Care: Machine wash cold, durable-press cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/dammott-cushion-cover-dark-gray-off-white__0974571_pe812456_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

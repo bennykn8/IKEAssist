@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FINNALA armrest, Grann/Bomstad golden brown
+SKU: 20456433
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/finnala-armrest-grann-bomstad-golden-brown-20456433/
+Category: Modular sofas
+Description: These armrests make FINNALA sofa complete and add to the comfortable, embracing feel.
+
+# @OFFER
+Price: 200
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Plywood, Polyurethane foam 2.0 lb/cu.ft., Particleboard, Solid wood, Fiberboard, Leg: Polypropylene, Leather: Dyed through top-grain leather with a treated, embossed and pigmented surface
+Features: The inside, top and front of the armrest are covered with GRANN – a soft, smooth and strong grain leather with natural variations. Other surfaces have the coated fabric BOMSTAD.
+Care: Non-removable cover: Clean with a dust cloth or vacuum lightly using the soft brush attachment. | Non-removable cover: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/finnala-armrest-grann-bomstad-golden-brown__0819149_pe774717_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

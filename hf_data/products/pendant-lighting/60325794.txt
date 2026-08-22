@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HÖLJES Pendant lamp, white
+SKU: 60325794
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hoeljes-pendant-lamp-white-60325794/
+Category: Pendant lighting
+Description: . This lampshade in glass is mouth blown by a skilled craftsperson and therefore unique. This ceiling cup makes mounting the lamp easy, since all you need to do is pull it tightly up against the ceili...
+
+# @OFFER
+Price: 59.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Ceiling cup/ Tube/ Cover: Steel, Nickel plated, Shade: Glass, Decoration: ABS plastic
+Features: Light bulb sold separately. IKEA recommends LED bulb E26 globe opal white. | Use an opal light bulb if you have an ordinary lamp shade or lamp and want an even, diffused distribution of light.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hoeljes-pendant-lamp-white__0607401_pe682951_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

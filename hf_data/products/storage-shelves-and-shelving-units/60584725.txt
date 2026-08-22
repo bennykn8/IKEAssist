@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LÅDMAKARE cabinet with sliding doors, oak effect
+SKU: 60584725
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ladmakare-cabinet-with-sliding-doors-oak-effect-60584725/
+Category: Storage shelves & shelving units
+Description: Choose this cabinet to discreetly store items you want to keep out of sight in your LÅDMAKARE. The sliding doors do not take up any space when opened.
+
+# @OFFER
+Price: 40
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top/bottom panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Plastic edging, Back panel: Particleboard, Paper foil, Door: Fiberboard, Paper foil
+Features: To be completed with LÅDMAKARE side and/or middle panels. Sold separately. | You cannot place two cabinets directly on top of each other but must always leave a gap between them in your solution.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ladmakare-cabinet-with-sliding-doors-oak-effect__1376785_pe960517_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

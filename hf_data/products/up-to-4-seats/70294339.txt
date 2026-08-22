@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LISABO table, ash veneer
+SKU: 70294339
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lisabo-table-ash-veneer-70294339/
+Category: Up to 4 seats
+Description: , 551/8x303/4" Beautiful in its simplicity with a warm, natural wooden look. The innovative construction is very sturdy and with just a few clicks, the table is assembled and ready for use. Easy to as...
+
+# @OFFER
+Price: 249.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel: Ash veneer, Birch veneer, Solid birch, Birch plywood, Particleboard, Tinted clear acrylic lacquer, Fiberboard, Leg base: Solid birch, Tinted clear acrylic lacquer
+Features: Seats 4. | Recommended for indoor use only. | Matches well with LISABO, ÄLVSTA, RÖNNINGE and KARLPETTER chairs, sold separately.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lisabo-table-ash-veneer__0737105_pe740883_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

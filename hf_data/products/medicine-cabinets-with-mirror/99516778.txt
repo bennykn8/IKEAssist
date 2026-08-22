@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FAXÄLVEN mirror with built-in lighting
+SKU: 99516778
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/faxaelven-mirror-with-built-in-lighting-s99516778/
+Category: Medicine cabinets with mirror
+Description: , 393/8" This eye-catching circular mirror with back-lit lighting all around, visually expands the size of the room. The round shape does not have any corners, creating a soft and smooth look. Dimmabl...
+
+# @OFFER
+Price: 259.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Steel, Powder coating, Mirror: Glass, Plastic foil, Shade: Glass
+Features: Comprises: 1 mirror with built-in lighting and 1 driver for wireless control. | To be completed with RODRET wireless dimmer/power switch, sold separately. | SILVERGLANS driver for wireless control requires wired-in installation.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/faxaelven-mirror-with-built-in-lighting__1198696_pe904171_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

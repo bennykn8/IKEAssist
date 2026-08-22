@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: PAX wardrobe combination, white
+SKU: 99560733
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/pax-wardrobe-combination-white-s99560733/
+Category: PAX wardrobes without doors
+Description: , 983/8x227/8x791/8" A wardrobe with a compartment for everything. For those who really love organizing each item, big or small, and still have a nice overview. Sorting on style or color is up to you....
+
+# @OFFER
+Price: 1110
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fiberboard, Particleboard, Paper foil, Steel, Epoxy/polyester powder coating, Particleboard, Paper foil
+Dimensions: The frame can be assembled in an upright position if your ceiling height is a minimum of 79½". Follow the assembly instructions in the package.
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Two people are needed to assemble this furniture. | If you want to complete your PAX frame with a sliding door, the minimum ceiling height required is 80¾".
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/pax-wardrobe-combination-white__1103734_pe867370_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

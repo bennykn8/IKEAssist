@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: UPPLAND cover for loveseat, Kelinge gray-turquoise
+SKU: 40557855
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/uppland-cover-for-loveseat-kelinge-gray-turquoise-40557855/
+Category: UPPLAND covers
+Description: Cover made of wide-wale corduroy that feels thick and comfy to sit on – and is soft to the touch. The cover has a slight lustre and is easy to keep clean since it is removable and machine washable.
+
+# @OFFER
+Price: 129
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Cord: 100 % polyester, Back fabric/ Fabric: 100 % polyester (100% recycled)
+Features: Fits UPPLAND frame only. | This product is an extra cover. Sofa is sold separately.
+Care: Removable cover: Machine wash warm, normal cycle. | Removable cover: To be washed separately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/uppland-cover-for-loveseat-kelinge-gray-turquoise__1241938_pe919982_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

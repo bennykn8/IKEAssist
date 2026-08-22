@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LÄCKÖ table+2 chairs, outdoor, gray/Klösan dark blue
+SKU: 69576311
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/laeckoe-table-2-chairs-outdoor-gray-kloesan-dark-blue-s69576311/
+Category: Outdoor bistro sets
+Description: , 271/2"
+
+# @OFFER
+Price: 185
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top/ Leg: Steel, Polyester powder coating, Frame support: Polypropylene, Foot: Polyamide
+Features: Product is possible to recycle or use for energy recovery, if available in your community. | May be completed with TOSTERÖ storage box or VÄTTERSÖ storage box.
+Care: Hand wash warm water. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/laeckoe-table-2-chairs-outdoor-gray-kloesan-dark-blue__1381187_pe961788_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

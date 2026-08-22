@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ÄSPINGE kitchenette, black/ash
+SKU: 99478267
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/aespinge-kitchenette-black-ash-s99478267/
+Category: ÄSPINGE complete kitchenettes
+Description: , 471/4x235/8x793/8" ÄSPINGE kitchenette offers many clever storage options in blended materials to create a small-sized solution with lots of character. Just add your choice of TILLREDA appliances an...
+
+# @OFFER
+Price: 638
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Door/ Drawer back/ Drawer front/ Drawer side/ Drawer bottom: Particleboard, Melamine foil, Plastic edging, Frame/ Shelf/ Bracket/ Door/ Hook/ Flatware tray: Steel, Epoxy/polyester powder coating, Countertop: Stainless steel
+Features: Includes: Kitchen frame, hanging wall shelves, backsplash with shelf, countertop, doors, drawer boxes, 2 cutlery trays, 12 hooks, 2 handles, legs, hinges and hardware. | A tool is included that makes it easy to install the faucet in place. | FYNDIG sink, LAGAN mixer tap and LILLVIKEN sink strainer with stopper sold separately.
+Care: Wipe clean with a soft cloth dampened with water and a mild dish detergent or soap, if necessary. | Always wipe and rub the sink along the steel grain when cleaning.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/aespinge-kitchenette-black-ash__1092713_pe862968_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

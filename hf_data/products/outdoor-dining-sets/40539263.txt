@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LERHOLMEN picnic table, acacia outdoor
+SKU: 40539263
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lerholmen-picnic-table-acacia-outdoor-40539263/
+Category: Outdoor dining sets
+Description: Gather family and friends for a snack or dinner. This picnic table seats up to 6 people and makes outdoor life easier, as it’s made from durable and low-maintenance acacia. The hole in the middle of t...
+
+# @OFFER
+Price: 349
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top/ Support rail/ Leg frame/ Seat/ Leg rail/ Bottom rail: Solid acacia wood, Acrylic stain, Under frame: Solid acacia wood, Acrylic stain, Solid acacia wood, Acrylic stain
+Features: Use VÅRDA wood stain, for outdoor-use when re-staining the furniture. | Only recommended for outdoor use.
+Care: The best way to extend the life of your wooden outdoor furniture is by cleaning it regularly, not leaving it outdoors unprotected more than necessary, and re-staining it on a regular basis. | Clean: Use a mild soapy solution. Wipe dry with a clean dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lerholmen-picnic-table-acacia-outdoor__1236725_pe917726_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

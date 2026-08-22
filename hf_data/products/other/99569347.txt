@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: BESTÅ wall cabinet with 2 doors, white/Hammarsmed beige
+SKU: 99569347
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/besta-wall-cabinet-with-2-doors-white-hammarsmed-beige-s99569347/
+Description: , 235/8x85/8x503/8" Everything you need for storing and keeping things organized at home. This is one of many, many possible combinations. Choose a ready-made one already now or create your own with B...
+
+# @OFFER
+Price: 290
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Bottom panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Paper foil, Plastic edging, Plastic edging, Plastic edging, Side panel: Particleboard, Paper foil, Paper foil, Plastic edging, Plastic edging, Plastic edging, Back panel: Fiberboard, Paper foil, Plastic foil
+Features: Ensure that you have a minimum of 2" between the top of the frame and the ceiling in order to mount the frame to the suspension rail. | Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | The max load for a wall-hung frame depends on the wall material.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/besta-wall-cabinet-with-2-doors-white-hammarsmed-beige__1335975_pe947248_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

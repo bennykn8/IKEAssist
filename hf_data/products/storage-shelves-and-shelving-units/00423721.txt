@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KALLAX insert with mirror door
+SKU: 00423721
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kallax-insert-with-mirror-door-00423721/
+Category: Storage shelves & shelving units
+Description: , 13x13" Customize your KALLAX shelf unit according to your needs and use your space in the smartest way. This insert has a mirror door that adds a personal and solid expression to the unit. Easy to a...
+
+# @OFFER
+Price: 20
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Insert: Fiberboard, Acrylic paint, Plastic foil, Door: Fiberboard, Acrylic paint, Mirror: Glass, Plastic foil
+Features: Dimensioned to fit KALLAX shelf unit. | To be completed with KALLAX shelf unit.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kallax-insert-with-mirror-door__0617766_pe688188_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GRADVIS plant mister, clear glass/gold, 5 oz
+SKU: 00504604
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/gradvis-plant-mister-clear-glass-gold-00504604/
+Category: Plant supplies & accessories
+Description: Glass with shiny details, a round shape and beautiful grooves – GRADVIS mister gives your home a softer feel. Mist your favorite plants and keep it close at hand and on display as a beautiful object. ...
+
+# @OFFER
+Price: 14.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Bottle: Glass, Pump: Polypropylene, Stainless steel, Metallized
+Features: Should be stored indoors.
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/gradvis-plant-mister-clear-glass-gold__1010738_pe828354_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

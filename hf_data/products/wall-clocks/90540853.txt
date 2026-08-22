@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: PUGG wall clock, stainless steel, 12 ½"
+SKU: 90540853
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/pugg-wall-clock-stainless-steel-90540853/
+Category: Wall clocks
+Description: A clock without the tick-tock. The mechanism has a silent movement so you can relax and sleep without being disturbed by the sound. Fitted with a quartz movement, it is accurate at keeping time.
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Clock frame: Stainless steel, Front protection: Glass
+Features: Batteries sold separately. IKEA recommends LADDA rechargeable batteries. This clock also works with alkaline batteries, 1xAA. | Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home.
+Care: Clean with a duster. | The hands are set using the dial on the back of the clock mechanism. Moving the hands directly with your fingers can destroy the clock mechanism.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/pugg-wall-clock-stainless-steel__0633562_pe695914_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: EVEDAL table lamp, marble/gray
+SKU: 10405745
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/evedal-table-lamp-marble-gray-10405745/
+Category: Table lamps
+Description: Genuine materials like glass and brass, together with timeless Scandinavian design. We hope that you want to keep this series of lamps your entire life, and maybe pass them down to the next generation...
+
+# @OFFER
+Price: 279.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Base: Marble, Tube: Solid oak, Clear lacquer, Decoration: Brass, Clear alkyd resin lacquer
+Features: Light bulb sold separately. IKEA recommends LED bulb E26 globe opal white. | Marble is a natural material with a natural variation in its look ‒ which makes each lamp unique.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/evedal-table-lamp-marble-gray__0663169_pe712303_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

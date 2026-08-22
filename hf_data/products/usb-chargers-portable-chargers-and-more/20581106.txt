@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: RUNDHULT USB-C to USB-C, black/white, 4'11"/100 W
+SKU: 20581106
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/rundhult-usb-c-to-usb-c-black-white-20581106/
+Category: USB chargers, portable chargers & more
+Description: Say hello to our fast-charging USB-C cable! RUNDHULT is a perfect companion when traveling with a laptop or tablet – it’s 1.5 metres long, made of durable textile and gets you ready for your next adve...
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Thermoplastic elastomer
+Features: Works with devices that have a USB-C connection. | Overheating protection in the USB-C connector. | Power: 100W.
+Care: Unplug the charger from the power source before cleaning. | Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/rundhult-usb-c-to-usb-c-black-white__1256197_pe924939_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KOMPLEMENT divider for frame, dark gray
+SKU: 00509215
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/komplement-divider-for-frame-dark-gray-00509215/
+Category: PAX Interior organizers
+Description: , 291/2-393/8x227/8" Make efficient use of your wardrobe space. Hang short clothing above the divider and long clothing like dresses on the side. Inside the divider, you can place drawers, shelves and...
+
+# @OFFER
+Price: 50
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Partition: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Plastic edging, Plastic edging, Bottom panel: Particleboard, Paper foil, Top panel: Particleboard, Paper foil, Plastic edging, Plastic edging
+Features: Fits 39¼x22⅞" and 29½x22⅞" frames. | Can be comined with all KOMPLEMENT interior organizers in size 19⅝x22⅞".
+Care: Clean by vacuuming or use a lint roller. | Do not wash.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/komplement-divider-for-frame-dark-gray__1014662_pe833716_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

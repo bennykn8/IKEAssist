@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ENKELSPÅRIG water bottle, stainless steel/beige, 17 oz
+SKU: 00497222
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/enkelsparig-water-bottle-stainless-steel-beige-00497222/
+Category: Water bottle & travel mugs
+Description: Make sure to always bring your favorite beverage. This stainless steel water bottle can be used year after year and easily joins you on the go thanks to its slim design and the beige lid’s handle.
+
+# @OFFER
+Price: 6.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Body: Stainless steel, Lid: Polypropylene, Seal: Silicone rubber
+Features: Only for cold drinks. | Wash this product before using it for the first time.
+Care: Handwash only.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/enkelsparig-water-bottle-stainless-steel-beige__0985523_pe816659_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

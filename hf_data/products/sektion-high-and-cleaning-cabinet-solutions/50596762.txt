@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: UTRUSTA corner base cab pull-out fitting, gray
+SKU: 50596762
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/utrusta-corner-base-cab-pull-out-fitting-gray-50596762/
+Category: SEKTION High & cleaning cabinet solutions
+Description: , 50" Let the pots come to you. This corner base cabinet pull-out fitting allows you to maximize kitchen storage space - and easily see and reach all your stored items by pulling the fitting out of th...
+
+# @OFFER
+Price: 170
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Guide rail/ Sheet/ Tube/ Bolt/ Bearing holder: Steel, Epoxy/polyester powder coating, Rail holder: Acetal plastic, Shelf: Particleboard, Melamine foil, Plastic edging
+Features: Fits in a corner base cabinet with left-hand or right-hand door. | Fits SEKTION corner base cabinet, 50x26".
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/utrusta-corner-base-cab-pull-out-fitting-gray__1437998_pe984589_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: MJÖSA pedal bin, dark gray, 3 gallon
+SKU: 10422844
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/mjoesa-pedal-bin-dark-gray-10422844/
+Category: Trash cans & waste baskets
+Description: A smaller, decorative pedal bin in a discreet shade of gray. This everyday hero offers a soft-closing lid, an inner bucket that’s easy to take out and empty, and a handle that makes it easy to move. E...
+
+# @OFFER
+Price: 39.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Body: Steel, Galvanized steel, Powder coating, Lid/ Handle/ Screw/ Plate: Stainless steel, Lid holder/ Bucket/ Connector: Polypropylene
+Care: Wipe clean regularly with a cloth dampened in a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/mjoesa-pedal-bin-dark-gray__0711140_pe728008_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ÄLGANÄS shoe rack, black
+SKU: 20585883
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/aelganaes-shoe-rack-black-20585883/
+Category: Shoe racks & stands
+Description: , 297/8x91/2x231/4" Smart storage that puts a smile on your face! This nifty clothes rack with shoe storage has room for everything from jackets and keys to sneakers – in an itty-bitty space in the ha...
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Steel, Powder coating, Shelf: Steel, Steel, Powder coating, Foot: Polypropylene
+Features: Holds approximately 12 pairs of shoes on the shelves. | With an Allen key, you can quickly adjust the bolts to position the shelves horizontally or vertically. | Can be used in areas with high humidity such as bathrooms and balconies, but should not be directly exposed to water from, for example, a shower or rain.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/aelganaes-shoe-rack-black__1358334_pe953840_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

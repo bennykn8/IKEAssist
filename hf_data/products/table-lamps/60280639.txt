@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ÅRSTID table lamp, nickel plated/white
+SKU: 60280639
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/arstid-table-lamp-nickel-plated-white-60280639/
+Category: Table lamps
+Description: One of our most cherished lamp series and it’s no wonder why – it has a timeless design that fits right in. Combine several lamps from the series to create a soft, comfortable light and a unified look...
+
+# @OFFER
+Price: 34.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Steel, Brush finish nickel-plated, Acrylic coating, Shade: 100 % polyester, Polypropylene plastic (min. 50% recycled)
+Features: Light bulb sold separately. IKEA recommends LED bulb E26 globe opal white. | Includes pull switch. | Use an opal light bulb if you have an ordinary lamp shade or lamp and want an even, diffused distribution of light.
+Care: Dust the lamp with a dust cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/arstid-table-lamp-nickel-plated-white__0609332_pe684455_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

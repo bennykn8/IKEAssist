@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TROFAST storage combination with boxes, light white stained pine light green/bright green
+SKU: 09574918
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/trofast-storage-combination-with-boxes-light-white-stained-pine-light-green-bright-green-s09574918/
+Category: TROFAST combinations
+Description: , 365/8x173/8x201/2" Children need good and spacious storage for their things. The TROFAST series has wooden frames, mesh boxes and plastic boxes and trays (min. 50% recycled). Easy to pull out, carry...
+
+# @OFFER
+Price: 126.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Solid pine, Tinted clear acrylic lacquer, polypropylene (min. 50% recycled)
+Features: Can be used with TROFAST lid. | Recommended for indoor use only. | Not approved for food contact.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/trofast-storage-combination-with-boxes-light-white-stained-pine-light-green-bright-green__1354689_pe952721_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

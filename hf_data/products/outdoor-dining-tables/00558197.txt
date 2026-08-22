@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BONDHOLMEN table, outdoor, brown
+SKU: 00558197
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/bondholmen-table-outdoor-brown-00558197/
+Category: Outdoor dining tables
+Description: , 921/2x353/8" The BONDHOLMEN series has the furniture you need to create comfortable solutions for dining and relaxing in your outdoor space. Everything in high-quality, durable eucalyptus with gener...
+
+# @OFFER
+Price: 449
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top/ Main parts: Solid eucalyptus wood, Acrylic stain, Foot: Polyamide
+Features: Combines with other products in the BONDHOLMEN series. | Only recommended for outdoor use. | Seats 6.
+Care: The best way to extend the life of your wooden outdoor furniture is by cleaning it regularly, not leaving it outdoors unprotected more than necessary, and re-staining it on a regular basis. | Clean: Use a mild soapy solution. Wipe dry with a clean dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/bondholmen-table-outdoor-brown__1285179_pe933248_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

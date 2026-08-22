@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: ÖVERMÄTT food cover, set of 3, silicone multicolor
+SKU: 80417311
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/oevermaett-food-cover-set-of-3-silicone-multicolor-80417311/
+Category: Resealable bags & food storage accessories
+Description: Still a little left in the glass or jar, but no lid? Here’s a flexible solution – a food cover made of silicone that is dishwasher safe and can be used again and again. Can be washed and reused. Easy ...
+
+# @OFFER
+Price: 5.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Silicone rubber
+Dimensions: The 3 food covers fit objects with diameter: 1-3", 2-4" and 2-5".
+Features: Includes: 1 transparent food cover (dia. 2"), 1 pink food cover (dia. 3") and 1 turquoise food cover (dia. 4").
+Care: Dishwasher-safe. | Not microwave-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/oevermaett-food-cover-set-of-3-silicone-multicolor__0653137_pe707820_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

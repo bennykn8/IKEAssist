@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TRÅDFRI LED bulb E26 450 lumen, smart wireless dimmable/white spectrum globe
+SKU: 30441337
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tradfri-led-bulb-e26-450-lumen-smart-wireless-dimmable-white-spectrum-globe-30441337/
+Category: Smart LED light bulbs
+Description: Now it’s easy to use smart lighting. With this decorative light bulb you can create the right mood and look at home. Dim it wirelessly and switch between three white tones that suit you and your decor...
+
+# @OFFER
+Price: 17.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Glass
+Features: Add a remote control to steer your light source. | Can only be used with IKEA Smart lighting products. | This product allows wireless dimming. With IKEA Smart lighting, you can dim your lights without a hardwired installation.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tradfri-led-bulb-e26-450-lumen-smart-wireless-dimmable-white-spectrum-globe__1015390_pe830038_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

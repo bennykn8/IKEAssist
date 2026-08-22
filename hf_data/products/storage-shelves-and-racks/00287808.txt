@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HEJNE Shelf, softwood, 30 3/8x11" 2 pack
+SKU: 00287808
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hejne-shelf-softwood-00287808/
+Category: Storage shelves & racks
+Description: . Untreated solid pine is a durable natural material that can be painted, oiled or stained according to preference. You can personalize the furniture even more by staining or painting it your favorite...
+
+# @OFFER
+Price: 15
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Solid pine, Solid spruce
+Features: To be used between 2 HEJNE posts, sold separately.
+Care: Wipe clean with a dry cloth. | Stains can be removed by using an eraser or fine sandpaper.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hejne-shelf-softwood__0276153_pe414331_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

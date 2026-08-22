@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: ONSEVIG rug, low pile, multicolor
+SKU: 10559894
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/onsevig-rug-low-pile-multicolor-10559894/
+Category: Medium, large and extra-large rugs
+Description: , 7'10"x9'10" Durable, stain resistant and easy to care for since the rug is made of synthetic fibers. The pattern looks faded and worn, which gives the rug a vintage look. Ideal for high traffic area...
+
+# @OFFER
+Price: 199.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Pile: 100 % polypropylene, Backing: 100 % Synthetic rubber
+Care: Do not wash. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/onsevig-rug-low-pile-multicolor__0941458_pe795476_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

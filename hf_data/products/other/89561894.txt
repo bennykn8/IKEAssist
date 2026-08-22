@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: SKYDRAG / TRÅDFRI lighting kit, white
+SKU: 89561894
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/skydrag-tradfri-lighting-kit-white-s89561894/
+Description: , 24" Lighting creates atmosphere in homes and makes everyday life easier. This LED lighting set is specially designed for ENHET kitchens – complete, smart and easy to install.
+
+# @OFFER
+Price: 113.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Lamp house: Aluminum, Powder coating, Diffuser: Polycarbonate plastic, Bracket: Polyamide, ABS plastic (min. 20% recycled)
+Features: This product is part of our smart home range. Connect it, along with other smart products, to DIRIGERA hub and IKEA Home smart app for more features and functions. | Includes: 1 driver for wireless control (30W), 1 power supply cord, 1 wireless dimmer, and 2 white lighting strips (23⅝"). | Works with IKEA Home smart.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/skydrag-tradfri-lighting-kit-white__1234518_pe917167_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

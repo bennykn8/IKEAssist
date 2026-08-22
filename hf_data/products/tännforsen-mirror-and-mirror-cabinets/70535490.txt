@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TÄNNFORSEN mirror cabinet with doors, white
+SKU: 70535490
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/taennforsen-mirror-cabinet-with-doors-white-70535490/
+Category: TÄNNFORSEN mirror & mirror cabinets
+Description: , 30x6x37" Classic details like beveled panels make TÄNNFORSEN bathroom series a statement of your unique style. This shallow mirror cabinet helps you get ready for the day ahead and takes up little s...
+
+# @OFFER
+Price: 289
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Particleboard, Plastic foil (min. 70% recycled), Plastic edging, Plastic edging (min. 50% recycled), Door frame: Fiberboard, Plastic foil (min. 70% recycled), Plastic edging, Plastic edging (min. 50% recycled), Door filling: Fiberboard, Plastic foil, Plastic foil
+Features: If you are uncertain about the installation, contact a professional. The installation shall be made in accordance with valid local building and plumbing regulations. | This cabinet is to be wall mounted. | Comprises: 1 cabinet, 2 mirror doors, 4 hinges, 4 adjustable glass shelves and suspension rail.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/taennforsen-mirror-cabinet-with-doors-white__1197676_pe903687_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

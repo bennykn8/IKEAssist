@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: IKEA 365+ lid, round/glass
+SKU: 70577946
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ikea-365-lid-round-glass-70577946/
+Category: Mix & match food containers & lids
+Description: With a leak-proof lid you protect and keep the contents fresh for longer. It’s simple to snap this in place on all the round food containers in the IKEA 365+ series. Tight-fitting lid which keeps food...
+
+# @OFFER
+Price: 2
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Lid: Glass, Seal: Silicone rubber
+Features: Fits with IKEA 365+ round-shape food containers and jars. | Wash this product before using it for the first time.
+Care: Dishwasher-safe up to 158ºF (70°C). | Only for food and beverages with a max. temperature of 120°F.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ikea-365-lid-round-glass__0710844_pe727776_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

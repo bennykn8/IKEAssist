@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: TUFJORD upholstered bed frame, Tallmyra black-blue/Lönset, Queen
+SKU: 39555353
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tufjord-upholstered-bed-frame-tallmyra-black-blue-loenset-s39555353/
+Category: Upholstered beds
+Description: TUFJORD will make you long for bedtime. The headboard’s embracing curves help you to unwind, and make lazy mornings spent in bed even cozier. And the soft, textured upholstery enhances the comfy feel....
+
+# @OFFER
+Price: 669
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Base fabric: 78 % cotton, 22 % polyester (100% recycled), Headboard: 100% polyester (min. 70% recycled), Epoxy/polyester powder coating, Plywood, Laminated veneer lumber, Fiberboard, Polyurethane foam 1.2 lb/cu.ft., Steel, Paperboard (100% recycled), Bottom headboard rail: 100% polyester (min. 70% recycled), Fiberboard, Plywood, Laminated veneer lumber
+Features: Mattress and bedlinens are sold separately. | Center support beam included. | LÖNSET slatted bed base is included in the price, but is packaged separately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tufjord-upholstered-bed-frame-tallmyra-black-blue-loenset__1259492_pe926697_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

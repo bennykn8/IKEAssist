@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BALUNGEN Toilet roll holder, chrome plated
+SKU: 30291502
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/balungen-toilet-roll-holder-chrome-plated-30291502/
+Category: Toilet brushes
+Description: . Inspired by fine bathrooms at the turn of the century, the BALUNGEN series is just as clever as it is beautiful with details like hidden screws and chrome finish that create a harmonious look in you...
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Foot/ Top/ End cap: Zinc, Chrome plated, Plate: Polypropylene, Bar/ Holder: Stainless steel
+Features: Combines with other products in the BALUNGEN series.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/balungen-toilet-roll-holder-chrome-plated__0384897_pe558683_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

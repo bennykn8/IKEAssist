@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: GULLABERG nightstand, with 1 drawer with door/white
+SKU: 20561764
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/gullaberg-nightstand-with-1-drawer-with-door-white-20561764/
+Category: Nightstands
+Description: , 15x153/4x291/2" The GULLABERG series is elegant storage furniture in a robust and traditional design with crafted details. This bedside table has both a drawer and generous hidden storage behind a d...
+
+# @OFFER
+Price: 99.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Front rail/ Shelf/ Bottom panel: Particleboard, Acrylic paint, Paper foil, Plastic edging, Side panel: Particleboard, Acrylic paint, Paper foil, Back panel: Particleboard, Paper foil, Paper foil
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/gullaberg-nightstand-with-1-drawer-with-door-white__1283771_pe932625_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

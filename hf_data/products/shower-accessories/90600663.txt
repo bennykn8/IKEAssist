@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TRAMPSJÖN bathtub mat, light turquoise
+SKU: 90600663
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/trampsjoen-bathtub-mat-light-turquoise-90600663/
+Category: Shower accessories
+Description: , 17x17" This bathtub mat won’t budge until you remove it so you can feel secure knowing you won’t slip while taking a bath or shower. It’s comfy under your feet and has a hole so you can easily hang ...
+
+# @OFFER
+Price: 6.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Synthetic rubber
+Features: For bathtub use only.
+Care: Do not bleach. | Do not tumble dry.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/trampsjoen-bathtub-mat-light-turquoise__1384967_pe963080_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

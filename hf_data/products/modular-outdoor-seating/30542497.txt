@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HAVSTEN armchair, outdoor, beige
+SKU: 30542497
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/havsten-armchair-outdoor-beige-30542497/
+Category: Modular outdoor seating
+Description: If you like the look, try how it feels. Generous seats, fluffy cushions and elastic mesh fabric make HAVSTEN comfortable. Create your own combination, sit back and relax. Outdoors or indoors!
+
+# @OFFER
+Price: 280
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Mesh: 63% TPE, 37 % polyester, Strap: 81% polypropylene, 19 % polyester, Metal tube: Steel, Galvanized, Polyester powder coating
+Features: To be completed with HAVSTEN seat/back cushion, sold separately.
+Care: Hand wash warm water. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/havsten-armchair-outdoor-beige__1138954_pe880159_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

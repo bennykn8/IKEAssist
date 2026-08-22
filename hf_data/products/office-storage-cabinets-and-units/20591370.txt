@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: BEKANT storage unit on casters, mesh/black
+SKU: 20591370
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/bekant-storage-unit-on-casters-mesh-black-20591370/
+Category: Office storage cabinets & units
+Description: , 161/8x393/4" Roll it to wherever you need it. You can also use it as a presentation desk since it has integrated cable management. Durable and steady with a quality that will last for many years. In...
+
+# @OFFER
+Price: 379.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Shelf: Particleboard, Ash veneer, Stain, Clear acrylic lacquer, Plastic edging, Side panel/ Back panel/ Pen holder: Steel, Epoxy/polyester powder coating, Poles: Aluminum, Epoxy/polyester powder coating
+Care: Wipe clean with a mild soapy solution. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/bekant-storage-unit-on-casters-mesh-black__1302670_pe938129_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

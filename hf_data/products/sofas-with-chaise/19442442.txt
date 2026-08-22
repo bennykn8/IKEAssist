@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SMEDSTORP sofa with chaise, Lejde/red/brown oak
+SKU: 19442442
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/smedstorp-sofa-with-chaise-lejde-red-brown-oak-s19442442/
+Category: Sofas with chaise
+Description: A sofa for those who like soft shapes of the past, but want modern comfort. Enjoy resilient foam cushions, comfortable armrests and cone-shaped legs in a lovely retro style that lasts for many years.
+
+# @OFFER
+Price: 1349
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Solid wood, Plywood, Particleboard, Fiberboard, Polyurethane foam 1.5 lb/cu.ft., Polypropylene, Laminated veneer lumber, Seat cushion: Polyurethane foam 2.0 lb/cu.ft., High-resilience polyurethane foam (cold foam) 2.2 lb/cu.ft., Felt liner, Steel, Back cushion: Polyurethane foam.
+Features: Stationary cover.
+Care: Frame, non-removable cover: Wet marks should always be dried off as soon as possible to stop moisture penetration. | Frame, non-removable cover: Remove dust with a lint remover.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/smedstorp-sofa-with-chaise-lejde-red-brown-oak__0989844_pe818640_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

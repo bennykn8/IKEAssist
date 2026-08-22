@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VESTERÖY mattress and mattress pad, medium firm white/Näsfjället white, Full
+SKU: 09572269
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vesteroey-mattress-and-mattress-pad-medium-firm-white-naesfjaellet-white-s09572269/
+Category: Spring & hybrid mattresses
+Description: Pocket springs that respond independently without transferring motion to others. Standard foam makes this mattress pad supportive and comfortable.
+
+# @OFFER
+Price: 258
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Ticking: 100 % polyester (100% recycled), Quilt filling: 100% polyester (min. 70% recycled), Backing: 100 % polypropylene
+Features: The mattress may need about 72 hours to fully regain its shape and comfort after having been roll-packed. Any wrinkles will disappear too. | Sometimes the packaging may have given the mattress a noticeable smell which will disappear over a short period of time. | Care instructions can be found inside the cover.
+Care: Mattress topper cover: Machine wash warm (max 140°F/60°C) normal cycle. | Mattress topper cover: Close the zipper before washing.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vesteroey-mattress-and-mattress-pad-medium-firm-white-naesfjaellet-white__1372283_pe959396_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

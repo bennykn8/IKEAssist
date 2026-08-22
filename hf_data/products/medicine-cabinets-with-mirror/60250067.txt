@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: STORJORM Mirror cabinet w/2 doors & light, white
+SKU: 60250067
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/storjorm-mirror-cabinet-w-2-doors-light-white-60250067/
+Category: Medicine cabinets with mirror
+Description: , 23 5/8x5 1/2x37 3/4". The LED light source consumes up to 85% less energy and lasts 20 times longer than incandescent bulbs. Gives a diffused light.
+
+# @OFFER
+Price: 319
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts/ Door: Fiberboard, Pigmented polyester powder coating, Mirror glass: Glass, Plastic foil, Rail: Aluminum, Anodized
+Features: The light is turned on/off via the general power switch in the room. | 4 shelves included. | Hardwired installation.
+Care: Wipe clean with a mild soapy solution. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/storjorm-mirror-cabinet-w-2-doors-light-white__0721660_pe733333_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

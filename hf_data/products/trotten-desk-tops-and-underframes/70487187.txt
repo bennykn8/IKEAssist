@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TROTTEN underframe for table top, white
+SKU: 70487187
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/trotten-underframe-for-table-top-white-70487187/
+Category: TROTTEN desk tops & underframes
+Description: , 311/2x311/2x393/8" 10-year Warranty. Read about the terms in the warranty brochure.
+
+# @OFFER
+Price: 110
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Steel, Epoxy/polyester powder coating, Inside frame: Steel
+Features: Possible to separate for recycling or energy recovery if available in your community.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/trotten-underframe-for-table-top-white__1012677_pe828965_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

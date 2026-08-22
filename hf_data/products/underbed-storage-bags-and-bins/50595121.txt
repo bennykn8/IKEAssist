@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: VIHALS underbed storage box, set of 2, white, Full/Double/Twin/Single
+SKU: 50595121
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vihals-underbed-storage-box-set-of-2-white-50595121/
+Category: Underbed storage bags & bins
+Description: With these drawers, you can easily create extra storage space under VIHALS daybed. A smart solution that adapts to your needs and matches the other pieces of furniture in the series.
+
+# @OFFER
+Price: 50
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Drawer front: Particleboard, Melamine foil, Acrylic paint, Acrylic paint, Plastic edging, Drawer back/ Drawer sides/ Partition: Particleboard, Melamine foil, Plastic foil, Paper foil, Melamine foil, Plastic edging, Bottom panel: Fiberboard, Acrylic paint, Paper foil, Plastic foil
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vihals-underbed-storage-box-set-of-2-white__1420919_pe977542_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: STORKLINTA nightstand, gray/green/with 2 drawers
+SKU: 10574644
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/storklinta-nightstand-gray-green-with-2-drawers-10574644/
+Category: Nightstands
+Description: , 195/8x187/8x207/8" The STORKLINTA series has a modern and simple design that’s easy to live with. The bedside table with integrated drawer handles has room for small items, a reading lamp and other ...
+
+# @OFFER
+Price: 79.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Side panel/ Drawer front: Particleboard, Acrylic paint, Plastic edging, Plinth: Particleboard, Acrylic paint, Plastic edging, Plastic edging, Back panel: Fiberboard
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/storklinta-nightstand-gray-green-with-2-drawers__1395288_pe966935_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

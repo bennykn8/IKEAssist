@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LOHALS rug, flatwoven, natural
+SKU: 30511288
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lohals-rug-flatwoven-natural-30511288/
+Category: Medium, large and extra-large rugs
+Description: , 4'4"x6'5" An all-time favorite that brings a rustic, laid-back feel to any space. Made from Jute, a hard-wearing natural material with natural colour variations that make each rug distinct and uniqu...
+
+# @OFFER
+Price: 79.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % jute
+Features: You will need 1 STOPP FILT rug underlay with anti-slip (5'5"x7'9") for this rug. Trim if necessary. | To get the edge of your rug to lie flat without curling up, fold the edge in the opposite direction and place a heavy object on top for 2 days. | The rug is machine-woven.
+Care: Airing and vacuuming will help to eliminate the smell that the rug can have when it is new. | Do not wash.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lohals-rug-flatwoven-natural__0280221_pe419173_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SMÅGÖRA shelf unit, white
+SKU: 60465529
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/smagoera-shelf-unit-white-60465529/
+Category: Toy boxes & shelves
+Description: , 113/8x345/8" This timeless shelf grows up with your child from the changing table to their first den. Place it on the floor or hang it on the wall, vertically or horizontally – and fill it with diap...
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Side panel/ Fixed shelf/ Bottom panel/ Mounting plate: Particleboard, Melamine foil, Plastic edging, Back panel: Fiberboard, Acrylic paint, Acrylic paint
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home.
+Care: Wipe clean with a damp cloth. | Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/smagoera-shelf-unit-white__0772937_pe756154_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

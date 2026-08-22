@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: MOTSVARIG range with glass ceramic cooktop, black Stainless steel
+SKU: 20462052
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/motsvarig-range-with-glass-ceramic-cooktop-black-stainless-steel-20462052/
+Category: Ranges
+Description: A smooth, easy-clean oven and glass cooktop for easy and flexible baking. The spacious drawer underneath keeps cookware close at hand 5 year limited warranty. Read about the terms in the limited warra...
+
+# @OFFER
+Price: 899
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Features: Capacity: 5.3 cu.ft. | 2x1200 W radiant zones. | 1x3000W radiant zone.
+Care: Do not use scouring-powder, steel wool, hard or sharp tools which can scratch the surface. | Remove stains and food residue after each use using a cloth damped with warm water and a mild detergent.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/motsvarig-range-with-glass-ceramic-cooktop-black-stainless-steel__0852447_pe780077_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

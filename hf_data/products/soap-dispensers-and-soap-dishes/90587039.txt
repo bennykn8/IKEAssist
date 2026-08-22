@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: GANSJÖN 3-piece bathroom set, black
+SKU: 90587039
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/gansjoen-3-piece-bathroom-set-black-90587039/
+Category: Soap dispensers & soap dishes
+Description: The dark matte glass brings a smooth and stylish vibe into your bathroom. The tray holds the set together but can also be used separately for jewellery, candles or smaller accessories. Easy to fill wi...
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Tray/Bathroom cup: Paint,Glass, Container: Glass,Paint, Pump: Polyethylene,Stainless steel,Polypropylene,Glass
+Dimensions: Includes: 1 soap dispenser, 11.5 oz (Ø2¾" H6¼"), 1 toothbrush holder (Ø2¾" H4⅜"), and 1 tray (length 6¼", depth 3⅞" ).
+Features: Combines with other products in GANSJÖN series.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/gansjoen-3-piece-bathroom-set-black__1402493_pe969164_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

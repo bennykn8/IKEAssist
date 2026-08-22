@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: DRACAENA plant, Lucky bamboo
+SKU: 30063595
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/dracaena-plant-lucky-bamboo-30063595/
+Category: Office & desk plants
+Description: , 18" Share a room with a green friend. Plants give a homely feel so you can create a peaceful green oasis – or let them inspire your creativity. Want to create a jungle feel? Allow more plants to mov...
+
+# @OFFER
+Price: 2.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Plant/ Substrate: Cultivated potted plant, Pot: Polypropylene
+Features: Native to West and Central Africa. | Easy care plant.
+Care: Temperature: Minimum temperature 54º F (12°C). | Placement: For indoor use
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/dracaena-plant-lucky-bamboo__0657569_pe709849_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

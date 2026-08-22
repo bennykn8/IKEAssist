@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: HATTEFJÄLL office chair with armrests, Smidig black/black
+SKU: 90538968
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hattefjaell-office-chair-with-armrests-smidig-black-black-90538968/
+Category: Office chairs
+Description: This ergonomic office chair has many features to keep you comfy and focused, such as a well-shaped backrest with adjustable lumbar support and soft full grain leather that breathes. 10 year guarantee....
+
+# @OFFER
+Price: 429.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Armrest fixture/ Cover/ Inner frame/ Armrest frame/ Button: Reinforced polyamide, Armrest pad: Synthetic rubber, Back frame: Layer-glued wood veneer
+Dimensions: Adjustable seat height.
+Features: Adjustable seat depth. | Adjustable lumbar support. | Automatic tilt tension.
+Care: Frame: Wipe dry with a clean cloth. | Cover: Vacuum clean.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hattefjaell-office-chair-with-armrests-smidig-black-black__1019087_pe831296_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

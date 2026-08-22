@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FRÖSÖN/DUVHOLMEN chaise pad, beige
+SKU: 69444151
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/froesoen-duvholmen-chaise-pad-beige-s69444151/
+Category: Outdoor chair cushions
+Description: , 743/4x235/8" Separate covers makes it easy to refresh your outdoor furniture when you like. These are made of recycled PET bottles and dyed in a more sustainable way, which also makes the color last...
+
+# @OFFER
+Price: 115
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Cover/ Smolder resistant lining: Polyester wadding, Filling: 100% polyester (min. 80% recycled), Core filling: Polyurethane foam
+Features: Use with FRÖSÖN cover for seat/back pad so that you have a spare cover when you want to change the look of the seat/back pad or when the seat/back pad needs to be washed. | May be completed with TOSTERÖ storage bag. | Fits SEGERÖN and NÄMMARÖ sun loungers.
+Care: The best way to extend the life of your outdoor cushion is by cleaning it regularly and storing it in a cool, dry place indoors or in a storage bag when not in use. | Make sure the cushion is completely dry before storing it away in the storage bag.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/froesoen-duvholmen-chaise-pad-beige__1018209_pe831097_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

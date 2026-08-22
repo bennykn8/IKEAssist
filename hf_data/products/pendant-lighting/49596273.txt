@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: JÄLLBY / MOLNART pendant lamp with LED bulb, textile nickel plated/globe gray clear glass
+SKU: 49596273
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/jaellby-molnart-pendant-lamp-with-led-bulb-textile-nickel-plated-globe-gray-clear-glass-s49596273/
+Category: Pendant lighting
+Description: Simple pendant lamp with a black textile cord where the LED bulb’s eight straight filaments create reflections and enhance the effect when light spreads through the smoke-colored glass.
+
+# @OFFER
+Price: 32.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Glass, Ceiling cup: Polypropylene, Lampholder cup/ Shade ring: Aluminum, Nickel plated
+Features: Special waste handling may be required. Please contact your local authorities for more information. | To be hung on a ceiling hook or attached with screws. | Screws are not included.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/jaellby-molnart-pendant-lamp-with-led-bulb-textile-nickel-plated-globe-gray-clear-glass__1383468_pe962568_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: HÄGGVECKMAL room darkening curtains, 1 pair, beige/with heading tape
+SKU: 00569030
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/haeggveckmal-room-darkening-curtains-1-pair-beige-with-heading-tape-00569030/
+Category: Room darkening curtains & drapes
+Description: , 57x98" HÄGGVECKMAL room darkening curtains with a classic beige tartan pattern, wool-like expression and matching backing give a good amount of privacy. 8.2 ft length – perfect for hanging above win...
+
+# @OFFER
+Price: 54.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100% polyester (min. 90% recycled)
+Dimensions: The curtains are sold in pairs. The sizes stated refer to each single curtain. For the total width, double the width of a single curtain.
+Features: Curtains, 1 pair included | The measurement applies to each curtain panel. | Since the fabric will shrink when washing it is a good idea to wash the curtains prior to cutting/hemming.
+Care: Shrinkage maximum 4%. | Machine wash warm, normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/haeggveckmal-room-darkening-curtains-1-pair-beige-with-heading-tape__1218216_pe913167_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

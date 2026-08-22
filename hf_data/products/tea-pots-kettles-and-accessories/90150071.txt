@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: RIKLIG teapot, glass, 1.6 qt
+SKU: 90150071
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/riklig-teapot-glass-90150071/
+Category: Tea pots, kettles & accessories
+Description: Tea for one, two or more. This teapot is handy when drinking tea on your own or with friends. Just boil some water and put your favorite tea leaves in the integrated infuser. Teatime? Always! RIKLIG t...
+
+# @OFFER
+Price: 17.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Body: Heat resistant glass, Insert: Stainless steel, Polypropylene, Lid: Polypropylene
+Features: Wash this product before using it for the first time.
+Care: The glass part is dishwasher-safe. The lid should be washed by hand. | Microwave-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/riklig-teapot-glass__1115270_pe872004_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

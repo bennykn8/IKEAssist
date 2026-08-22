@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VIHALS table, white/white
+SKU: 49589970
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vihals-table-white-white-s49589970/
+Category: Round tables
+Description: , 421/8" VIHALS table offers good value and a straightforward design that blends easily into any home. The round shape invites everyone to join in on the conversion. Clean, minimalist design with mode...
+
+# @OFFER
+Price: 109.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Melamine foil, Plastic edging, Plastic edging, Melamine foil, Leg/ Side rail: Steel, Epoxy/polyester powder coating, Inside leg: Steel
+Features: Seats 4. | Recommended for indoor use only.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vihals-table-white-white__1388806_pe964976_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

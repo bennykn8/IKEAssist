@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BJÖRKSTA Frame, aluminum color
+SKU: 40326775
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/bjoerksta-frame-aluminum-color-40326775/
+Category: Wall art
+Description: , 55x22 ". The picture and frame are sold seperately, choose your favorites. Can be placed horizontally or vertically to fit the given space.
+
+# @OFFER
+Price: 34.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Aluminium (min. 70% recycled), Aluminium (min. 70% recycled)
+Features: BJÖRKSTA frame may only be used with BJÖRKSTA canvas or textiles of the same size, sold separately. | Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | To be completed with BJÖRKSTA canvas.
+Care: Clean with a duster.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/bjoerksta-frame-aluminum-color__0455549_pe603596_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

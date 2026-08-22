@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: BÅTSKÄR outdoor kitchen w gas bbq+sink unit, dark gray
+SKU: 59573105
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/batskaer-outdoor-kitchen-w-gas-bbq-sink-unit-dark-gray-s59573105/
+Category: Outdoor kitchen kits
+Description: , 941/2x235/8" Create the outdoor kitchen of your dreams! BÅTSKÄR feels like an indoor kitchen outdoor with closed storage, soft-closing hinges and sleek design. Invite family and friends to enjoy gre...
+
+# @OFFER
+Price: 1572
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Lid/ Pot/ Guard rail/ Bar holder/ Rack/ Bottom tray/ Burner: Stainless steel, Leg frame/ Bar/ Cabinet/ Bracket/ Slats/ Control panel: Galvanized steel, Polyester powder coating, Bowl/ Body/ Cover panel: Steel, Enamel
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/batskaer-outdoor-kitchen-w-gas-bbq-sink-unit-dark-gray__1245800_pe921781_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: VÄLSKAPT Over-the-range microwave, Stainless steel
+SKU: 60515303
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vaelskapt-over-the-range-microwave-stainless-steel-60515303/
+Category: Microwave ovens
+Description: This microwave oven has a full-width door that is both sleek and increases the interior space. It is pre-set to cook at the touch of a button and multi-tasks as a range hood with 2-speed ventilation.
+
+# @OFFER
+Price: 599
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Features: Microwave power: max. 1000W. | Rotating turntable dia. 13.5". | 300 CFM.
+Care: Remove stains and food residue after each use using a cloth damped with warm water and a mild detergent. | Clean the oven/microwave oven exterior using a non-abrasive cloth dampened with water.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vaelskapt-over-the-range-microwave-stainless-steel__1064574_pe851689_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SYMFONISK sound remote, gen
+SKU: 30527312
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/symfonisk-sound-remote-gen-2-30527312/
+Category: Wi-Fi speakers
+Description: 2 With this sound remote, you can control all SYMFONISK and Sonos speakers from the kitchen, bedroom or wherever you are at home. The remote also has two buttons that allows you to activate your perso...
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: ABS plastic
+Features: A magnet makes it easy to attach the remote to the included wall bracket. | Works with the Sonos Home Sound System. | Special waste handling may be required. Please contact your local authorities for more information.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/symfonisk-sound-remote-gen-2__1112597_pe871228_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

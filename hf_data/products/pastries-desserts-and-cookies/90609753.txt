@@ -1,0 +1,30 @@
+# @PRODUCT
+Name: BJÄLLRA oat cookies, 1 lb5 oz
+SKU: 90609753
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/bjaellra-oat-cookies-90609753/
+Category: Pastries, desserts & cookies
+Description: Sweet, crunchy, and delicate oat biscuits. Conveniently served as they are. For example with coffee and good friends as “fika” – coffee break Swedish style.
+
+# @OFFER
+Price: 8.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/bjaellra-oat-cookies__1379028_pe961341_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

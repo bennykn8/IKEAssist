@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: DJUNGELSKOG soft toy, orangutan
+SKU: 10402841
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/djungelskog-soft-toy-orangutan-10402841/
+Category: Soft toys
+Description: This soft toy can hang on your hip or back, just like how real apes climb and hang in the rainforest trees. Take good care of this huggable orangutan – one of our wild endangered animals.
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100 %polyester, Filling: 100% polyester - hollow fiber (100% recycled)
+Care: Machine wash, warm, durable-press cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/djungelskog-soft-toy-orangutan__0710167_pe727369_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

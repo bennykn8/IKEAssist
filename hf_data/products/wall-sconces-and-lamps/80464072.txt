@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SOLKLINT wall lamp, brass/gray clear glass
+SKU: 80464072
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/solklint-wall-lamp-brass-gray-clear-glass-80464072/
+Category: Wall sconces & lamps
+Description: Like small jewels in shiny brass and gray clear glass, the lamps in the SOLKLINT series spread a soft mood light that creates exciting shadows on walls and ceilings – wherever you choose to place them...
+
+# @OFFER
+Price: 29.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Mounting bracket: Steel, Powder coating, Shade holder: Polyamide, Decoration: Steel, Nickel plated, Acrylic coating, Paint
+Features: Light bulb sold separately. IKEA recommends LED bulb E26 globe clear.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/solklint-wall-lamp-brass-gray-clear-glass__0842283_pe778932_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

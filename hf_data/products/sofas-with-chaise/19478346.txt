@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SMEDSTORP sectional, 4-seat with chaise, Viarp beige/brown/black
+SKU: 19478346
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/smedstorp-sectional-4-seat-with-chaise-viarp-beige-brown-black-s19478346/
+Category: Sofas with chaise
+Description: A sofa for those who like soft shapes of the past, but want modern comfort. Enjoy resilient foam cushions, comfortable armrests and cone-shaped legs in a lovely retro style that lasts for many years.
+
+# @OFFER
+Price: 1389
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Solid wood, Plywood, Particleboard, Fiberboard, Polyurethane foam 1.5 lb/cu.ft., Polypropylene, Laminated veneer lumber, Seat cushion: Polyurethane foam 2.0 lb/cu.ft., High-resilience polyurethane foam (cold foam) 2.2 lb/cu.ft., Felt liner, Steel, Back cushion: Polyurethane foam.
+Features: Stationary cover.
+Care: Do not wash. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/smedstorp-sectional-4-seat-with-chaise-viarp-beige-brown-black__1086451_pe860485_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

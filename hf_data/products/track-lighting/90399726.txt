@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BÄVE LED ceiling track, 3 spots, white
+SKU: 90399726
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/baeve-led-ceiling-track-3-spots-white-90399726/
+Category: Track lighting
+Description: This ceiling track with 3 spots is almost invisible on a white ceiling. Get light where you like since each spot can be directed individually. Goes just as well in a hallway as in a kitchen or living ...
+
+# @OFFER
+Price: 69.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Ceiling bracket: Steel, Galvanized, Ceiling cup: Steel, Powder coating, Arm/ Flexibile joint: Steel, Galvanized, Powder coating
+Features: Built-in LED light source. | The light source has a lifetime of approx. 25,000 hours. This corresponds to about 20 years if the lamp is on for 3 hours per day. | Light color: warm white (2700 Kelvin).
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/baeve-led-ceiling-track-3-spots-white__0719917_pe732323_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

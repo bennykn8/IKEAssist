@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: IKORNNES Table mirror, ash
+SKU: 00306920
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ikornnes-table-mirror-ash-00306920/
+Category: Wall mirrors
+Description: , 10 5/8x15 3/4". This mirror works just as well on a chest of drawers as on a wall. When it’s on the wall you can use the stand to hang your scarves or ties.
+
+# @OFFER
+Price: 39.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Layer-glued wood veneer, Ash veneer, Clear acrylic lacquer, Mirror glass: Glass, Plastic foil
+Features: Mounting fittings included. | Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | To hang securely in place on the wall, this mirror requires 2 screws.
+Care: Frame: Wipe clean using a damp cloth and a mild cleaner. | Frame: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ikornnes-table-mirror-ash__0637396_pe698269_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

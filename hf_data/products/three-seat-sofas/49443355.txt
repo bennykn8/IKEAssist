@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: VISKAFORS sofa, Högalid brown/birch
+SKU: 49443355
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/viskafors-sofa-hoegalid-brown-birch-s49443355/
+Category: Three-seat sofas
+Description: VISKAFORS is a sofa that becomes a statement piece in the room. The classic design has generous, inviting shapes – and when you sink into the deep soft seat, the sofa gives you an embracing feel. You ...
+
+# @OFFER
+Price: 1699
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Clip: Polypropylene, Main parts: Dyed through top-grain leather with a treated and pigmented surface, Frame: Solid wood, Laminated veneer lumber, Plywood, Particleboard, Fiberboard, Polyurethane foam 1.5 lb/cu.ft., Polyurethane foam 1.5 lb/cu.ft., Polyurethane foam 2.0 lb/cu.ft., High-resilience polyurethane foam (cold foam) 2.2 lb/cu.ft.
+Care: Frame, non-removable cover: Clean with a dust cloth or vacuum lightly using the soft brush attachment. | Frame, non-removable cover: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/viskafors-sofa-hoegalid-brown-birch__1088056_pe861031_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

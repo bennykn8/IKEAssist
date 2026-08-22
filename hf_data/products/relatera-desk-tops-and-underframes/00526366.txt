@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: RELATERA table top, white
+SKU: 00526366
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/relatera-table-top-white-00526366/
+Category: RELATERA desk tops & underframes
+Description: , 353/8x235/8" Arts and crafts, drawing or doing homework. Together with one of the RELATERA underframes, this table top creates a desk that suits your child from early school years to late teens. The...
+
+# @OFFER
+Price: 20
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Melamine foil, Plastic edging, Plastic edging
+Features: Fits on RELATERA underframe. | May be completed with accessories from the RELATERA desk system. | Cover caps for the table top are included with the underframe.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/relatera-table-top-white__1291504_pe934905_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

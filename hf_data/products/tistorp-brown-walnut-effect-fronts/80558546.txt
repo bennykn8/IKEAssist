@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TISTORP drawer front, brown walnut effect
+SKU: 80558546
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tistorp-drawer-front-brown-walnut-effect-80558546/
+Category: TISTORP brown walnut effect fronts
+Description: , 15x5" TISTORP door and drawer fronts offer a classic, modern walnut look with smooth surface and simple design. The wooden finish is easy on the eyes, yet makes an impression, adding instant warmth ...
+
+# @OFFER
+Price: 18
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Plastic foil, Plastic edging
+Features: Requires a knob or a handle | Fits SEKTION kitchen series. | May be completed with brown walnut effect ENKÖPING cover panels, plinths, and decorative strips.
+Care: Wipe dry with a clean cloth. | Wipe clean with a microfiber cloth dampened in water, for more difficult stains use a mild cleaning detergent and rub carefully with circular motions.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tistorp-drawer-front-brown-walnut-effect__1189509_pe899879_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

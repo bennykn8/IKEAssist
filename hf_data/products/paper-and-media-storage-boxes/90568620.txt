@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KUGGIS lid, bamboo, 10 ¼x13 ¾"
+SKU: 90568620
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kuggis-lid-bamboo-90568620/
+Category: Paper & media storage boxes
+Description: With a lid on KUGGIS box, you protect the contents from dust and dirt. By mixing or matching the colors of lids and boxes, you easily create a storage solution that stands out or blends in.
+
+# @OFFER
+Price: 9
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Bamboo, Tinted lacquer
+Features: Can also be used in bathrooms. | Not approved for food contact. | Product is possible to recycle or use for energy recovery, if available in your community.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kuggis-lid-bamboo__1248417_pe923091_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

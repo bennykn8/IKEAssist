@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: STRANDÖN beach chair, white green/blue
+SKU: 90522769
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/strandoen-beach-chair-white-green-blue-90522769/
+Category: Outdoor chaise lounges
+Description: If you’re looking for a chair that has everything, STRANDÖN beach chair can be your summer favorite. Its slim design, light weight and practical pocket make it perfect to take to a beach or on a picni...
+
+# @OFFER
+Price: 39.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100% polyester (min. 90% recycled), Strap: 100 % polypropylene, Frame/ Support rail/ Connector: Steel, Polyester powder coating
+Care: Chair: Wipe clean with a mild soapy solution. | Chair: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/strandoen-beach-chair-white-green-blue__1170579_pe892860_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KALLAX / LAGKAPTEN workstation, white
+SKU: 59481653
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kallax-lagkapten-workstation-white-s59481653/
+Category: Storage shelves & shelving units
+Description: , 715/8x625/8x715/8" Use INLÄGG fittings to attach a table top and legs to a KALLAX shelf unit. Or choose this ready-made combination with a simple desk and a lot of storage. Hide or display your thin...
+
+# @OFFER
+Price: 249.98
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Printed and embossed acrylic paint, Paper foil, Plastic edging, Fiberboard, Acrylic paint, Plastic edging, Honeycomb structure paper filling (min. 70% recycled), Particleboard, Fiberboard, Steel, Epoxy/polyester powder coating
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Two people are needed to assemble this furniture. | May be completed with KALLAX insert, sold separately.
+Care: Wipe clean with a damp cloth. | Check regularly that all assembly fastenings are properly tightened and retighten when necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kallax-lagkapten-workstation-white__1090548_pe862085_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

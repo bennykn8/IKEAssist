@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BROFJÄRDEN shower shelf, chrome effect, 13x4 ¾"
+SKU: 10582234
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/brofjaerden-shower-shelf-chrome-effect-10582234/
+Category: Shower accessories
+Description: BROFJÄRDEN bathroom accessories with shiny chrome-plated details reminisce of elegant, lasting designs of the past. This wall-mounted shower shelf keeps soaps and shampoos tidy and within easy reach. ...
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Bar/ Shelf/ Connector/ Insert nut/ Adapter/ Bolt: Stainless steel, Cover plate: Aluminum, Chrome plated
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Screws for wall mounting are not included. | If you are uncertain about what type of mounting devices to use, please contact your local hardware store.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/brofjaerden-shower-shelf-chrome-effect__1329640_pe945209_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

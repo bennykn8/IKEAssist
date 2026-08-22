@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BJÖRKSPIREA LED decorative light, black tube-shaped
+SKU: 20530145
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/bjoerkspirea-led-decorative-light-black-tube-shaped-20530145/
+Category: Table lights
+Description: For those who like design with clean lines. This decorative LED light creates a cozy atmosphere – wherever you choose to place it. The brightness can also be adjusted by using the built-in dimmer.
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Shade/ Battery box: Polycarbonate plastic, Cover: Steel, Powder coating, Joint 1: ABS plastic
+Features: Only use batteries that are intended for the product. Do not mix old and new batteries, different brands or types. | IKEA recommends LADDA rechargeable batteries. | LED life approx. 25,000 hours.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/bjoerkspirea-led-decorative-light-black-tube-shaped__1088619_pe861264_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

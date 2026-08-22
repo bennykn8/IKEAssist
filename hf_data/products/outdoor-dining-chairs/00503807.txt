@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TEGELÖN chair, in/outdoor, dark gray/black
+SKU: 00503807
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tegeloen-chair-in-outdoor-dark-gray-black-00503807/
+Category: Outdoor dining chairs
+Description: Enjoy long dinners outdoors. The easy-care and durable TEGELÖN dining chair has a soft and flexible rope seat that makes even the most restless want to stay at the table – and adds personality to the ...
+
+# @OFFER
+Price: 155
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Seat frame/ Back frame/ Leg: Steel, Polyester powder coating, Rope: 100 % polypropylene, Synthetic rubber
+Features: Suitable for indoor and outdoor use.
+Care: Maintenance: Require no maintenance. | To increase the stability of your furniture, re-tighten the screws at least once per season.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tegeloen-chair-in-outdoor-dark-gray-black__1127202_pe876081_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

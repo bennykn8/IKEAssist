@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BRUNBÄR plant pot with saucer, outdoor terracotta, 12 ½"
+SKU: 40584769
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/brunbaer-plant-pot-with-saucer-outdoor-terracotta-40584769/
+Category: Outdoor planters & plant pots
+Description: Your plants will thrive outdoors with BRUNBÄR terracotta pots, designed by Ilse Crawford. The saucer and the terracotta material balance moisture in the soil – making the pot a great everyday essentia...
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Terracotta, Saucer: Terracotta, Silicone treatment
+Features: For outdoor use only.
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/brunbaer-plant-pot-with-saucer-outdoor-terracotta__1147732_pe883426_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

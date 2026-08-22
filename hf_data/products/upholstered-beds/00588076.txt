@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: IDANÄS upholstered bed frame, Naggen beige, Full
+SKU: 00588076
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/idanaes-upholstered-bed-frame-naggen-beige-00588076/
+Category: Upholstered beds
+Description: The sloping headboard and soft upholstery make IDANÄS upholstered bed frame extra comfortable. Wake up with coffee and a morning paper! Classic button detailing and turned wooden legs are timeless.
+
+# @OFFER
+Price: 459
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top frame: Particleboard, Solid wood, Fiberboard, Bottom frame: Plywood, Solid wood, Particleboard, Side rail: Particleboard
+Features: Center support beam and slatted bed base are included. | Mattress and bedlinens are sold separately. | The back of headboard is finished with a grey non-woven material.
+Care: Do not wash. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/idanaes-upholstered-bed-frame-naggen-beige__1322826_pe942280_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

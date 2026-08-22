@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: IKEA 365+ food container, square/glass, 20 oz
+SKU: 00359206
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ikea-365-food-container-square-glass-00359206/
+Category: Mix & match food containers & lids
+Description: Eat now. Or later. It’s easy to store and heat food in this durable food container in oven-proof glass. The material doesn’t absorb odors or discolor and is perfect when you want to enjoy home-cooked ...
+
+# @OFFER
+Price: 2.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Heat resistant glass
+Features: Fits with IKEA 365+ square-shaped lids. | Suitable for use with an air fryer. | Wash this product before using it for the first time.
+Care: Microwave-safe. | Freezer-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ikea-365-food-container-square-glass__0711417_pe728233_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

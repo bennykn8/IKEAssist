@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: GRUSNARV waterproof mattress protector, Queen
+SKU: 60522148
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/grusnarv-waterproof-mattress-protector-60522148/
+Category: Mattress protectors
+Description: This thin, waterproof mattress protector prevents liquids from passing through, keeping your mattress fresh and free from stains. It stays securely in place and will add years to the life of your matt...
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top fabric/ Sides: 100 % polyester (100% recycled), Waterproof layer: 100 %polyester
+Dimensions: Fits mattresses with a max. height of 11⅞", since the mattress protector has elastic edging.
+Features: This product is suitable for use in a public environment since the design and material are optimized for frequent use. | This product is flammability tested and complies with standard EN ISO 12952-1. | This product is flammability tested in accordance to standard CAN/CGSB 4.2 No 27.5 and meets the requirement of flame spread time ≥7.1 sec.
+Care: Machine wash warm (max 140°F/60°C) normal cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/grusnarv-waterproof-mattress-protector__0790191_pe764297_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SKÄREFLY sheer curtains, 1 pair, beige
+SKU: 20547462
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/skaerefly-sheer-curtains-1-pair-beige-20547462/
+Category: Sheer curtains
+Description: , 57x98" These floral curtains are woven from a sheer viscose/polyester fabric that makes them fall softly, let sunlight through and allow you to sense what is happening in the outside world while cre...
+
+# @OFFER
+Price: 29.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 60 % viscose/rayon, 40 % polyester (100% recycled)
+Features: Curtain, 1 piece included | The measurement applies to each curtain panel.
+Care: Machine wash, warm, durable-press cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/skaerefly-sheer-curtains-1-pair-beige__1115601_pe872157_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

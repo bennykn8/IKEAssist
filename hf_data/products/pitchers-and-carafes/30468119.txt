@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: VARDAGEN stand for beverage dispenser, dark gray
+SKU: 30468119
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vardagen-stand-for-beverage-dispenser-dark-gray-30468119/
+Category: Pitchers & carafes
+Description: A stand for a jar with a tap can lift any party! The stand makes it easy for guests to refill their glasses with water, lemonade or punch. Together with the jar with a tap in the same series, this sta...
+
+# @OFFER
+Price: 5
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Polyester powder coating
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vardagen-stand-for-beverage-dispenser-dark-gray__0799797_pe767658_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

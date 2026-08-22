@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: IDANÄS upholstered storage bed, Gunnared dark gray, Queen
+SKU: 00447190
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/idanaes-upholstered-storage-bed-gunnared-dark-gray-00447190/
+Category: Upholstered beds
+Description: The sloping headboard and soft upholstery make this bed frame extra comfortable. Classic button detailing and turned wooden legs are timeless, while soft-closing drawers under the bed add everyday sto...
+
+# @OFFER
+Price: 849
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top frame: Particleboard, Laminated veneer lumber, Plywood, Solid wood, Fiberboard, Bottom frame: Particleboard, Solid wood, Plywood, Laminated veneer lumber, Fiberboard, Solid pine, Filling: Polyurethane foam 1.2 lb/cu.ft.
+Features: Mattress and bedlinens are sold separately. | The back of the headboard is finished with a black non-woven material. | Center support beam and slatted bed base are included.
+Care: Vacuum clean. | Wipe clean using a damp cloth and a mild cleaner.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/idanaes-upholstered-storage-bed-gunnared-dark-gray__1151051_pe884753_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

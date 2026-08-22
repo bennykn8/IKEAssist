@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SKYNKE shopping bag, multicolor/patterned, 17 ¾x14 ¼"
+SKU: 80594498
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/skynke-shopping-bag-multicolor-patterned-80594498/
+Category: Shopping bags & reusable tote bags
+Description: This handy and lightweight bag fits in a pocket but can quickly be used as a big shoulder bag. Easy to keep close at hand when you’re shopping or travelling. You can carry the bag in two ways, in your...
+
+# @OFFER
+Price: 1.49
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % polyester (100% recycled)
+Features: Not approved for food contact. | Can be used over and over again.
+Care: Hand wash warm water. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/skynke-shopping-bag-multicolor-patterned__1354383_pe952582_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

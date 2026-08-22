@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: SEGERÖN chaise, outdoor white/beige/Frösön/Duvholmen beige
+SKU: 29500865
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/segeroen-chaise-outdoor-white-beige-froesoen-duvholmen-beige-s29500865/
+Category: Outdoor chaise lounges
+Description: Create a dining or lounging area for your balcony, patio, terrace or garden. The flexible SEGERÖN outdoor furniture series is designed for outdoor life and all types of weather, climates and activitie...
+
+# @OFFER
+Price: 364.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Steel, Steel, Steel, Steel, Polyester powder coating, Adjuster: Polypropylene, Leg: Steel, Polyester powder coating
+Features: Only recommended for outdoor use. | The material in this product may be recyclable. Please check the recycling rules in your community and if recycling facilities exist in your area. | May be combined with STOPP anti-slip underlay to hold the cushions firmly in place. It's easy to cut or fold the underlay to the desired size.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/segeroen-chaise-outdoor-white-beige-froesoen-duvholmen-beige__1147132_pe883283_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

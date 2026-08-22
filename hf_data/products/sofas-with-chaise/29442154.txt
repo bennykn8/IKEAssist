@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: SÖDERHAMN sectional, 4-seat with chaise, with open end Gransel/natural
+SKU: 29442154
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/soederhamn-sectional-4-seat-with-chaise-with-open-end-gransel-natural-s29442154/
+Category: Sofas with chaise
+Description: If you like the stylish airy look, you have to try the deep generous seats. Create your own personal combination of SÖDERHAMN sofa, then sit down and relax – by yourself or together with the whole fam...
+
+# @OFFER
+Price: 1119
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Total composition: 100 % polyester, Smolder resistant lining/ Smolder resistant lining: Polyester wadding, Frame: Plywood, Fiberboard, Polyurethane foam 1.5 lb/cu.ft., Solid wood, Steel, Epoxy/polyester powder coating
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/soederhamn-sectional-4-seat-with-chaise-with-open-end-gransel-natural__1057665_pe848874_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

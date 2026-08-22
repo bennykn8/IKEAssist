@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VIRKLUND rug flatwoven, in/outdoor, beige/dark gray
+SKU: 50517944
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/virklund-rug-flatwoven-in-outdoor-beige-dark-gray-50517944/
+Category: Outdoor rugs
+Description: , 5'3"x7'7" A versatile rug with classic stripes that goes just about anywhere - indoors or outdoors. If you want a new look after a while, just flip it over and use the compatible pattern on the reve...
+
+# @OFFER
+Price: 69.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % polypropylene
+Features: Suitable for indoor and outdoor use. | This rug fits with a 2-3 seat sofa, but can also fit other size sofas depending on how you place it. | This rug fits under a 4-seat dining table, but can of course be used how and where you like in your home.
+Care: Cleaning: Use a mild detergent, brush with a soft brush and rinse thoroughly with water. Let the rug dry completely before use. | Hand wash warm water.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/virklund-rug-flatwoven-in-outdoor-beige-dark-gray__1048368_pe843701_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

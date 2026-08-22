@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MACKAPÄR Shoe/storage cabinet, white
+SKU: 50334751
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/mackapaer-shoe-storage-cabinet-white-50334751/
+Category: Shoe cabinets
+Description: . Keeps shoes handy but out of sight. If you have lots of shoes, stack two units on top of each other.
+
+# @OFFER
+Price: 99.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Bottom panel/ Side panels/ Shelf: Particleboard, Plastic edging, Paper edging, Acrylic paint, Paper foil, Door: Particleboard, Plastic edging, Acrylic paint, Paper foil, Back panel: Fiberboard, Acrylic paint
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Holds approx. 24 pairs of shoes.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/mackapaer-shoe-storage-cabinet-white__0710722_pe727743_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

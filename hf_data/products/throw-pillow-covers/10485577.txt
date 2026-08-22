@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HEDSÄV cushion cover, off-white
+SKU: 10485577
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hedsaev-cushion-cover-off-white-10485577/
+Category: Throw pillow covers
+Description: , 20x20" When you have a soft spot for natural! Made from pure cotton with a textured tactile pattern. The off-white tone will fit right in with your collection of beiges or create a calming break amo...
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % cotton
+Features: Fits inner cushions 19⅝x19⅝".
+Care: Shrinkage maximum 4%. | Machine wash warm, normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hedsaev-cushion-cover-off-white__0919068_pe786563_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

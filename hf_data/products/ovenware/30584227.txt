@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: POETISK baking dish, light green
+SKU: 30584227
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/poetisk-baking-dish-light-green-30584227/
+Category: Ovenware
+Description: , 12x8" This oblong baking dish is perfect for roasted root vegetables, a lasagna or homemade bread. It’s easy to lift by the handles – and has a timeless design that makes it beautiful to put on the ...
+
+# @OFFER
+Price: 14.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Stoneware
+Features: Wash this product before using it for the first time.
+Care: Microwave-safe. | Dishwasher-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/poetisk-baking-dish-light-green__1299782_pe936770_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

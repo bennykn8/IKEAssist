@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SAKARIAS armchair, black/Kvillsfors
+SKU: 99481712
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sakarias-armchair-black-kvillsfors-s99481712/
+Category: Upholstered chairs
+Description: Sofa comfort when you dine? Believe it! Soft padding, zig-zag spring bottom and great support for back and arms make this chair all about comfort. If you like variety, just swap the covers for a new l...
+
+# @OFFER
+Price: 235
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Leg: Solid eucalyptus wood, Stain, Clear lacquer, Back frame/ Side frame: Solid wood, 100% recycled solid cardboard, Polyurethane foam 1.5 lb/cu.ft., Polyester wadding, Seat frame: Solid wood, Steel, Non-woven polypropylene, High-resilience polyurethane foam (cold foam) 2.2 lb/cu.ft., Polyester wadding, Non-woven polypropylene
+Features: May be completed with FIXA self-adhesive floor protectors to protect the underlying surface against wear. | Possible to separate for recycling or energy recovery if available in your community. | Recommended for indoor use only.
+Care: Removable cover: Machine wash warm, normal cycle. | Removable cover: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sakarias-armchair-black-kvillsfors__0972629_pe815237_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

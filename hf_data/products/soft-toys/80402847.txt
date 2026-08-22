@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: DJUNGELSKOG soft toy, assorted designs
+SKU: 80402847
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/djungelskog-soft-toy-assorted-designs-80402847/
+Category: Soft toys
+Description: A soft jungle companion who likes to go on adventure. Just the right size for your child to bring in their backpack or stuff in their pocket - so they will always have a fun friend to play with.
+
+# @OFFER
+Price: 3.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100 %polyester, Filling: 100% polyester - hollow fiber
+Features: This is not a set. When you buy the product online, you will randomly get one of the five soft toys.
+Care: Machine wash, warm, durable-press cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/djungelskog-soft-toy-assorted-designs__0714447_pe730095_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

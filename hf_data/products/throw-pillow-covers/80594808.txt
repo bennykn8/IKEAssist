@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MÄVINN cushion cover, check gray/heart red
+SKU: 80594808
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/maevinn-cushion-cover-check-gray-heart-red-80594808/
+Category: Throw pillow covers
+Description: , 16x23" Checkered cushion cover with 2 hand-embroidered red hearts that spread coziness and love in your home – and provides livelihood for artisans at the Jordanian social business Jordan River Foun...
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % cotton
+Features: Fits inner cushions 15¾x22⅞". | Inner cushion is sold separately.
+Care: Machine wash warm, normal cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/maevinn-cushion-cover-check-gray-heart-red__1286679_pe933666_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

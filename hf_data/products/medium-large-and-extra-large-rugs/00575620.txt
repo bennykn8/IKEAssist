@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LANDBANA rug, flatwoven, dark green
+SKU: 00575620
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/landbana-rug-flatwoven-dark-green-00575620/
+Category: Medium, large and extra-large rugs
+Description: , 7'10"x9'10" Land your feet on LANDBANA rug! Made of 100% natural and renewable jute, this calming dark green rug brings the nature indoors, creating a warm and rustic expression. A perfect companion...
+
+# @OFFER
+Price: 249.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % jute
+Features: This rug is comparable to a standard 8' x 10' size. | To ensure you are satisfied with the size of the rug once you get it home, we recommend that you measure the intended floor space for your rug before you buy it. | You will need 2 STOPP FILT rug underlay with anti-slip (5'5"x7'9") for this rug. Trim if necessary.
+Care: Airing and vacuuming will help to eliminate the smell that the rug can have when it is new. | Do not wash.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/landbana-rug-flatwoven-dark-green__1254203_pe924394_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

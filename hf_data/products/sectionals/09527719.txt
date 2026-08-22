@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: KIVIK sectional, 6-seat, Gunnared light brown-pink
+SKU: 09527719
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kivik-sectional-6-seat-gunnared-light-brown-pink-s09527719/
+Category: Sectionals
+Description: Enjoy the super comfy KIVIK sofa with deep seat cushions made of pocket springs, high resilience foam and polyester fibers – adding both firm support and relaxing softness. 10-year guarantee. Read abo...
+
+# @OFFER
+Price: 1979
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Smolder resistant lining/ Smolder resistant lining: Polyester wadding, Back and seat frame: Fiberboard, Plywood, Particleboard, Solid wood, Seat cushion: High-resilience polyurethane foam (cold foam) 2.2 lb/cu.ft., Polyurethane foam 2.0 lb/cu.ft., Felt liner
+Care: Lining: Clean with a dust cloth or vacuum lightly using the soft brush attachment. | Frame: Wipe clean using a damp cloth and a mild cleaner.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kivik-sectional-6-seat-gunnared-light-brown-pink__1203935_pe906531_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

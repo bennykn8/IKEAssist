@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SYMFONISK Sonos Wi-Fi bookshelf speakers, white/set of 2 gen
+SKU: 39513810
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/symfonisk-sonos-wi-fi-bookshelf-speakers-white-set-of-2-gen-2-s39513810/
+Category: Wi-Fi speakers
+Description: 2 These speakers have a rich and vibrant sound that fills the entire room and allows you to create the right atmosphere at home. You can also use them as rear speakers in your Sonos home theater syste...
+
+# @OFFER
+Price: 359.98
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Base/ Control panel: ABS plastic, Fabric: 100 %polyester, Screw cover: Synthetic rubber
+Features: This product is part of our smart home range. Connect it, along with other smart products, to DIRIGERA hub and IKEA Home smart app for more features and functions. | The speaker's features will be enhanced through continuous software updates. | The services for streaming music vary between different regions, information about your region can be found on the Sonos website.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/symfonisk-sonos-wi-fi-bookshelf-speakers-white-set-of-2-gen-2__1168832_pe892260_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

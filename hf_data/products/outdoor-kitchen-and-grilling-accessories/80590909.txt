@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GRILLTIDER pizza pan, cast iron, 13 ¾"
+SKU: 80590909
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/grilltider-pizza-pan-cast-iron-80590909/
+Category: Outdoor kitchen & grilling accessories
+Description: Embrace your craving for tasty, homemade pizza – gather family and friends around the BBQ and serve your favorite recipes. Cast iron gives a crispy surface and handles make it easy to lift the pizza p...
+
+# @OFFER
+Price: 29.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Cast iron, Oil
+Features: This product is pre-treated with vegetable soybean oil. | To season a cast iron pot/pan, rub all surfaces with oil. Then heat the pot/pan in the oven or on the cooktop to max. 300 °F for a minimum of one hour. Leave it to cool and wipe off excess oil. | If corrosion or food stains arise, or if food burns and sticks, the pot/pan can be cleaned with steel wool or an abrasive sponge and then re-seasoned.
+Care: Should be treated with food approved oil. | Handwash only.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/grilltider-pizza-pan-cast-iron__1365437_pe956334_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

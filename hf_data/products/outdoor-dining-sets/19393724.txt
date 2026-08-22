@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TÄRNÖ table and 4 chairs, outdoor, black/light brown stained/Frösön/Duvholmen beige
+SKU: 19393724
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/taernoe-table-and-4-chairs-outdoor-black-light-brown-stained-froesoen-duvholmen-beige-s19393724/
+Category: Outdoor dining sets
+Description: Enjoy a nice meal on your balcony or terrace in this garden dining set. Foldable, durable and lovable with its mix of acacia hardwood and powder-coated steel frame. Extra comfort with soft chair cushi...
+
+# @OFFER
+Price: 239
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Seat/ Back: Solid acacia wood, Acrylic stain, Leg/ Seat rail/ Support: Steel, Polyester powder coating, Feet: Polypropylene
+Features: Only recommended for outdoor use. | If you do not want to use the elastic strap you can hide it in the small pocket on the side of the cushion. | Possible to separate for recycling or energy recovery if available in your community.
+Care: Inner cushion: Do not wash. | Inner cushion: Do not tumble dry.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/taernoe-table-and-4-chairs-outdoor-black-light-brown-stained-froesoen-duvholmen-beige__0947433_pe798560_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

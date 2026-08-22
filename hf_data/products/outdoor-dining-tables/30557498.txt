@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ASKHOLMEN table, outdoor, foldable dark brown
+SKU: 30557498
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/askholmen-table-outdoor-foldable-dark-brown-30557498/
+Category: Outdoor dining tables
+Description: , 235/8x243/8" Small folding garden table that is great for enjoying food or a cup of tea anywhere, on the balcony or in the garden. Made of durable hardwood so it lasts longer before any maintenance ...
+
+# @OFFER
+Price: 49
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Solid acacia wood, Acrylic stain
+Features: Seats 2. | Only recommended for outdoor use. | May be completed with ASKHOLMEN foldable chair.
+Care: The best way to extend the life of your wooden outdoor furniture is by cleaning it regularly, not leaving it outdoors unprotected more than necessary, and re-staining it on a regular basis. | Clean: Use a mild soapy solution. Wipe dry with a clean dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/askholmen-table-outdoor-foldable-dark-brown__1283396_pe932476_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

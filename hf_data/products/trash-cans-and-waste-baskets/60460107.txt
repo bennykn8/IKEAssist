@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: DRÖNJÖNS wastepaper basket, white
+SKU: 60460107
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/droenjoens-wastepaper-basket-white-60460107/
+Category: Trash cans & waste baskets
+Description: This sturdy wastepaper basket in metal mesh goes with most styles and it helps you keep the area around your desk organized, at home or at work. The felt pads underneath protect the surface below agai...
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Mesh/ Bottom panel: Steel, Epoxy/polyester powder coating, Scratch protection: 100 %polyester
+Features: Protective pads underneath. | Part of the DRÖNJÖNS series – practical desk accessories made of durable metal mesh.
+Care: Wipe clean with a soft cloth dampened with water and a mild dish detergent or soap, if necessary. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/droenjoens-wastepaper-basket-white__0778785_pe759132_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

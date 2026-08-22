@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: STOCKHOLM 2025 sheer curtain, 1 piece, off-white/with heading tape
+SKU: 50600995
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/stockholm-2025-sheer-curtain-1-piece-off-white-with-heading-tape-50600995/
+Category: Sheer curtains
+Description: , 118x98" STOCKHOLM 25 sheer curtain in a crisp, cotton/linen blend that is full of character and dampens the harsh rays of the sun. Generously sized for wider windows or to create more pleats in a st...
+
+# @OFFER
+Price: 59.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 55 % linen, 45 % cotton
+Dimensions: 32 gliders and hooks are usually recommended for each curtain with a width of 118⅛". You can increase or decrease the number depending on whether you want narrower or fuller folds in the pleats.
+Features: Curtain, 1 piece included | Since the fabric will shrink when washing it is a good idea to wash the curtains prior to cutting/hemming. | Use SY iron-on hemming strip to shorten the curtains without sewing.
+Care: Shrinkage maximum 4%. | Machine wash warm, normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/stockholm-2025-sheer-curtain-1-piece-off-white-with-heading-tape__1353674_pe952281_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

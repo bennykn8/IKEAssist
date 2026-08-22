@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: KOMPLEMENT Pull-out shoe shelf, dark gray
+SKU: 30257471
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/komplement-pull-out-shoe-shelf-dark-gray-30257471/
+Category: PAX Interior organizers
+Description: , 29 1/2x22 7/8". No need to crawl into the back of your wardrobe to look for your shoes – this shoe shelf comes to you. The metal construction works just as well for designer stilettos as for your hi...
+
+# @OFFER
+Price: 40
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Epoxy/polyester powder coating
+Dimensions: Available in several widths.
+Features: The pull-out shoe shelf holds about 6 pairs of shoes. | The recommended maximum weight applies when the weight load is evenly distributed across the surface. | Rails for pull-out shoe shelf included.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/komplement-pull-out-shoe-shelf-dark-gray__0650386_pe706159_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

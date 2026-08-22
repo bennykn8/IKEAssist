@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: MEHAMN pair of sliding doors, aluminum double sided/dark gray gray-beige
+SKU: 69436269
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/mehamn-pair-of-sliding-doors-aluminum-double-sided-dark-gray-gray-beige-s69436269/
+Category: PAX sliding doors
+Description: , 783/4x927/8" This door is a perfect match with PAX frames in the same finish. The clean and simple look is an advantage since you can easily coordinate with other storage in your room.
+
+# @OFFER
+Price: 390
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Aluminium (min. 70% recycled), Anodized, Fiberboard, Paper foil
+Dimensions: Min. ceiling height required: 94½".
+Features: Two people are needed to assemble this furniture. | Fits with PAX wardrobe system. | Product is possible to recycle or use for energy recovery, if available in your community.
+Care: Wipe clean with a damp cloth. Use only water or window-cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/mehamn-pair-of-sliding-doors-aluminum-double-sided-dark-gray-gray-beige__1027086_pe834717_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

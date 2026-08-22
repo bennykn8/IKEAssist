@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SKUFFEN shoe box, clear
+SKU: 30532356
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/skuffen-shoe-box-clear-30532356/
+Category: Shoe boxes & organizers
+Description: , 14x11x8" This transparent shoe box is perfect if you want to take a little extra care of your sneakers – and show them off. Stack several boxes on top of each other to enjoy a good overview of your ...
+
+# @OFFER
+Price: 26.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Panel: Polystyrene, Edge: Aluminum, Epoxy/polyester powder coating
+Features: To avoid scratches – wipe off small stones and sand from the soles before placing the shoes in the box.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/skuffen-shoe-box-clear__1102906_pe869636_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

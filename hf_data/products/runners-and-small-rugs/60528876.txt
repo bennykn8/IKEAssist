@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SORTSÖ rug, flatwoven, light blue
+SKU: 60528876
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sortsoe-rug-flatwoven-light-blue-60528876/
+Category: Runners & small rugs
+Description: , 1'10"x2'9" This small cotton rug is easy to place - by the bed, in the hallway or anywhere needing a touch of color and coziness. It’s durable, reversible and machine washable so you can enjoy it fo...
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % cotton
+Features: You will need 1 STOPP anti-slip underlay (26½x78¾") for this rug. Trim or fold if necessary. | The rug is machine-woven.
+Care: Shrinkage maximum 10%. | Machine wash warm, normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sortsoe-rug-flatwoven-light-blue__1074406_pe856181_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

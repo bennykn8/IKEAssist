@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: PADDFISK place mat, palm leaf handmade
+SKU: 70527777
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/paddfisk-place-mat-palm-leaf-handmade-70527777/
+Category: Placemats, tablemats & coasters
+Description: , 15x14" Let nature decorate your dining table. This smooth, pentagonal place mat is handwoven from palm leaf. A unique and decorative handicraft that spreads a calm feeling while protecting the table...
+
+# @OFFER
+Price: 4.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Base: Palm leaf, Thread: 100 % polyester
+Features: Each product is a unique, handmade work of art with natural variations in color and shape.
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/paddfisk-place-mat-palm-leaf-handmade__1101905_pe866491_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

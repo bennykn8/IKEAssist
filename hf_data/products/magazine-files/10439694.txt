@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: DRÖNJÖNS magazine file, white
+SKU: 10439694
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/droenjoens-magazine-file-white-10439694/
+Category: Magazine files
+Description: Organize those papers, recipes and magazines that tend to float around your home. This white, metal mesh storage is lightweight and saves time since you can quickly see what’s inside. Easy to pull out...
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main part: Steel, Powder coating, Scratch protection: 100 %polyester
+Features: Sizes: 9½x13x3½" and 10x13x4". | Protective pads underneath. | Part of the DRÖNJÖNS series – practical desk accessories made of durable metal mesh.
+Care: Wipe clean with a soft cloth dampened with water and a mild dish detergent or soap, if necessary. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/droenjoens-magazine-file-white__0669948_pe715486_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

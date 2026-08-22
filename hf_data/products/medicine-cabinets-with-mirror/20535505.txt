@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LETTAN mirror cabinet with doors, mirror effect/mirror glass
+SKU: 20535505
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lettan-mirror-cabinet-with-doors-mirror-effect-mirror-glass-20535505/
+Category: Medicine cabinets with mirror
+Description: , 36x6x37" A shallow cabinet that makes efficient use of wall space. The door with mirrors inside and outside let you enjoy the beautiful view at all angles. 10-year Limited Warranty. Read about the t...
+
+# @OFFER
+Price: 319
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Fiberboard, Plastic foil, Plastic edging, Door: Fiberboard, Plastic foil, Plastic foil, Plastic edging, Mirror: Glass, Plastic foil
+Features: If you are uncertain about the installation, contact a professional. The installation shall be made in accordance with valid local building and plumbing regulations. | This cabinet is to be wall mounted. | Comprises: 1 cabinet, 2 mirror doors, 4 hinges, 4 adjustable glass shelves and suspension rail.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lettan-mirror-cabinet-with-doors-mirror-effect-mirror-glass__1200740_pe905014_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

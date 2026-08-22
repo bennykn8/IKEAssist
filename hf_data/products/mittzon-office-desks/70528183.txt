@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: MITTZON focus workstation, beige/white
+SKU: 70528183
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/mittzon-focus-workstation-beige-white-70528183/
+Category: MITTZON office desks
+Description: , 373/8x341/4x61" A retreat from open, noisy office spaces – the cocoon-like booth with sound-insulating felt dampens sound from the outside world so you experience privacy and a sense of calm, with b...
+
+# @OFFER
+Price: 599.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Leg/ Supporting rail/ Metal part/ Hook/ Mounting bracket: Steel, Epoxy/polyester powder coating, Table top: Particleboard, Melamine foil, Acrylic paint, Paper foil, Plastic edging, Lining, top: Mixed fibers
+Care: Wipe clean with a damp cloth. | Wipe clean using a damp cloth and a mild cleaner.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/mittzon-focus-workstation-beige-white__1294813_pe935539_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

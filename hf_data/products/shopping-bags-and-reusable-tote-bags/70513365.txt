@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SPIKRAK shopping bag, cotton/natural, 13 gallon
+SKU: 70513365
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/spikrak-shopping-bag-cotton-natural-70513365/
+Category: Shopping bags & reusable tote bags
+Description: SPIKRAK carrier bag is made of traceable and sustainably grown cotton. It’s durable and washable too - a good thing since you’ll use it often. Takes up little space to store as it folds flat.
+
+# @OFFER
+Price: 2.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Bag: 100 % cotton, Stitching thread: 100 %polyester
+Features: May be completed with foldable SKYNKE carrier bag.
+Care: Machine wash warm, normal cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/spikrak-shopping-bag-cotton-natural__0968684_pe810513_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

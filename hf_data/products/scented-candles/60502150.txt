@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: LUGNARE scented candle in glass, Jasmine/pink, 50 hr
+SKU: 60502150
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lugnare-scented-candle-in-glass-jasmine-pink-60502150/
+Category: Scented candles
+Description: What’s the scent of home for you? LUGNARE scented candle offers a luxurious feel of jasmine, pear, ginger and lily of the valley. Welcome home to romantic atmosphere inspired by nature and country lif...
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Candlecup: Glass, Tinted lacquer, Candle: rapeseed wax, paraffin wax, Wick: Cotton and other cellulose based materials
+Care: Handwash only. | You easily remove hardened wax by washing the surface with warm water.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lugnare-scented-candle-in-glass-jasmine-pink__1060614_pe850081_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

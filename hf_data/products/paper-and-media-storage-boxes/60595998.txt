@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: NIMM storage box with lid, spotted gray, 12 ½x11 ¾x11 ¾"
+SKU: 60595998
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/nimm-storage-box-with-lid-spotted-gray-60595998/
+Category: Paper & media storage boxes
+Description: This slightly taller box helps you maximize the use of space in cabinets and bookcases. Large enough to hold both paper and work things or anything else you want to organize and hide. Easy to pull out...
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100% recycled solid cardboard, Paper, Chlorine free bleached paper, Clear alkyd resin lacquer
+Features: Product is possible to recycle or use for energy recovery, if available in your community.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/nimm-storage-box-with-lid-spotted-gray__1346792_pe951119_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

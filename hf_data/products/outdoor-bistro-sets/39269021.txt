@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: LÄCKÖ table+2 chairs, outdoor, gray/Frösön/Duvholmen beige
+SKU: 39269021
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/laeckoe-table-2-chairs-outdoor-gray-froesoen-duvholmen-beige-s39269021/
+Category: Outdoor bistro sets
+Description: LÄCKÖ series is inspired by traditional wrought-iron furniture bringing a romantic touch to your outdoor space. All pieces are maintenance-free so you have more time for daydreaming in your garden. Th...
+
+# @OFFER
+Price: 199
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top/ Leg: Steel, Polyester powder coating, Frame support: Polypropylene, Foot: Polyamide
+Dimensions: Table (diameter 27½", height 28"). Chair (width 16½", depth 20½", height 34", seat width 14⅝", seat depth 13", seat height 17").
+Features: If you do not want to use the elastic strap you can hide it in the small pocket on the side of the cushion. | The material in this product may be recyclable. Please check the recycling rules in your community and if recycling facilities exist in your area. | Product is possible to recycle or use for energy recovery, if available in your community.
+Care: Furniture: Clean: Use a mild soapy solution. | Furniture: Maintenance: Require no maintenance.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/laeckoe-table-2-chairs-outdoor-gray-froesoen-duvholmen-beige__0735586_pe740067_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

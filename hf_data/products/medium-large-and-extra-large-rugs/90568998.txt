@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TÅGBILJETT rug, flatwoven, natural/beige
+SKU: 90568998
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tagbiljett-rug-flatwoven-natural-beige-90568998/
+Category: Medium, large and extra-large rugs
+Description: , 5'3"x7'7" The rug’s natural-colored jute creates a calm feeling, and you feel the zigzag pattern as soon as you stand on it. Durable, flatwoven and easy to vacuum – perfect in the living room or by ...
+
+# @OFFER
+Price: 149.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % jute
+Features: All new materials have their own particular smell, which gradually disappears. Airing and vacuuming the rug will help to eliminate the smell. | You will need 2 STOPP FILT rug underlay with anti-slip (5'5"x7'9") for this rug. Trim if necessary. | Rugs with structure or hard edges can cause marks on soft wooden floors even when used together with an anti-slip underlay.
+Care: Airing and vacuuming will help to eliminate the smell that the rug can have when it is new. | Do not wash.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tagbiljett-rug-flatwoven-natural-beige__1189599_pe899920_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

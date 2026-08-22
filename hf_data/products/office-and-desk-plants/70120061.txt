@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: CHAMAEDOREA ELEGANS potted plant, Parlor palm
+SKU: 70120061
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/chamaedorea-elegans-potted-plant-parlor-palm-70120061/
+Category: Office & desk plants
+Description: , 6" Plants can make your home feel more vibrant. This one is easy-care and has a tropical expression, ideal for creating a green indoor oasis. A wonderful roommate that makes any space more vibrant.
+
+# @OFFER
+Price: 12.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Plant/ Substrate: Cultivated potted plant, Pot: Polypropylene
+Dimensions: The height of the plants can vary.
+Features: Native to Central America. | Easy care plant. | This plant is sensitive to over-watering, which may cause the leaves to turn brown.
+Care: Others: Only for decoration. Not suitable for consumption. | Temperature: Minimum temperature 54º F (12°C).
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/chamaedorea-elegans-potted-plant-parlor-palm__1473788_pe997856_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

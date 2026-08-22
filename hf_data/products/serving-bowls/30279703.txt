@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: IKEA 365+ bowl, angled sides white
+SKU: 30279703
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ikea-365-bowl-angled-sides-white-30279703/
+Category: Serving bowls
+Description: , 11" IKEA 365+ series has everything for the table – enjoyed for its everyday simplicity or spiced up with colors and accessories. Made from Feldspar porcelain, so it will retain its beauty year afte...
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Feldspar porcelain, Colored glaze
+Features: Wash this product before using it for the first time.
+Care: Microwave-safe. | Dishwasher-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ikea-365-bowl-angled-sides-white__0712204_pe728657_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

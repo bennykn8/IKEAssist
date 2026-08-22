@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: SUNDSÖ table and 2 folding chairs, outdoor bright yellow/bright yellow
+SKU: 29573022
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sundsoe-table-and-2-folding-chairs-outdoor-bright-yellow-bright-yellow-s29573022/
+Category: Outdoor bistro sets
+Description: , 255/8x255/8" This product is perfect for your balcony or other smaller spaces since it can be easily folded and put away. Comes pre-assembled – and is also suitable for business use.
+
+# @OFFER
+Price: 129
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top/ Frame/ Bar: Steel, Polyester powder coating, Strip: Synthetic rubber, Plastic washer/ Feet: Polyamide
+Care: Hand wash warm water. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sundsoe-table-and-2-folding-chairs-outdoor-bright-yellow-bright-yellow__1355136_pe952929_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

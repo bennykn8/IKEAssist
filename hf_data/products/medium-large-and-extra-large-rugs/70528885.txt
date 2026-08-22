@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VONSBÄK rug, low pile, dark blue
+SKU: 70528885
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vonsbaek-rug-low-pile-dark-blue-70528885/
+Category: Medium, large and extra-large rugs
+Description: , 5'7"x7'7" The vintage expression has the charm of looking worn and adds a special character to the room. The pile is very low and works just as well by the sofa as under the dining table. The patter...
+
+# @OFFER
+Price: 99.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Use surface: 100 % polypropylene, Backing: 100 % Synthetic rubber
+Features: The rug is machine-woven. | You will need 1 STOPP FILT rug underlay with anti-slip (5'5"x7'9") for this rug. Trim if necessary. | This rug fits with a 2-3 seat sofa, but can also fit other size sofas depending on how you place it.
+Care: Do not wash. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vonsbaek-rug-low-pile-dark-blue__1062215_pe850715_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

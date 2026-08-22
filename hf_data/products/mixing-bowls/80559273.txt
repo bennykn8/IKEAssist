@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SUMPCYPRESS bowl with lid, set of
+SKU: 80559273
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sumpcypress-bowl-with-lid-set-of-2-80559273/
+Category: Mixing bowls
+Description: 2 All-in-one bowls with lids. In these glass bowls you can whisk, rinse, prepare, serve and store food. They are also microwave safe and simple to stack in the fridge or freezer to save space.
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Glassware: Tempered glass, Lid: Polypropylene
+Features: Remove the lid if you are going to heat or cook food in the microwave. | Comprises: 2 bowls with lids that hold 2.5qt and 1.5qt respectively.
+Care: Microwave-safe. | Dishwasher-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sumpcypress-bowl-with-lid-set-of-2__1191204_pe900557_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

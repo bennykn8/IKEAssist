@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FINNALA sofa, with chaise/Grann/Bomstad golden brown
+SKU: 69319109
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/finnala-sofa-with-chaise-grann-bomstad-golden-brown-s69319109/
+Category: Sofas with chaise
+Description: FINNALA sectional sofa can grow and change with a home and the family. Choose how many seats, the look and function to create a sofa that suits you. A clean design and long-lasting comfort are include...
+
+# @OFFER
+Price: 2299
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Leather: Dyed through top-grain leather with a treated, embossed and pigmented surface, Coated fabric parts: 100 % polyurethane, 75 % polyester, 25 % cotton, Smolder resistant lining/ Smolder resistant lining: Polyester wadding
+Features: The seat cushions, back cushions and inside, top, front of the armrests are covered with GRANN – a soft, smooth and strong grain leather with natural variations. Other surfaces have the coated fabric BOMSTAD.
+Care: Removable cover: Clean with a dust cloth or vacuum lightly using the soft brush attachment. | Removable cover: Do not wash.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/finnala-sofa-with-chaise-grann-bomstad-golden-brown__0817417_pe774005_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: STARKVIND air purifier/additional gas filter, black
+SKU: 59471319
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/starkvind-air-purifier-additional-gas-filter-black-s59471319/
+Category: Smart air purifiers
+Description: With STARKVIND air purifier, you can easily improve the air quality indoors. It can be adjusted manually, set to auto mode or fully controlled in the IKEA Home smart app when connected to DIRIGERA hub...
+
+# @OFFER
+Price: 231.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Cover plate: 100 % polyester, Plywood, Cover/ Lower body/ Control panel/ Knob/ Skeleton/ Hook: ABS plastic, Leg: Steel, Powder coating
+Features: Purifies the air in a space of up to 215 square feet, depending on which fan speed the air purifier is set to. | It will take longer time to purify the air if the room is larger than 215 square feet, but you can always use several air purifiers to cover a larger area. | This product is part of our smart home range. Connect it, along with other smart products, to DIRIGERA hub and IKEA Home smart app for more features and functions, that you can control from anywhere, not just when you're at home.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/starkvind-air-purifier-additional-gas-filter-black__1052015_pe845880_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

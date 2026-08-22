@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: PONNYFISK mixing bowl, light gray-blue, 34 oz
+SKU: 90598491
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ponnyfisk-mixing-bowl-light-gray-blue-90598491/
+Category: Mixing bowls
+Description: Whisk, mix or marinate? You can use this bowl with a pouring spout and handle for everything, including serving. And the stable base keeps it in place, even if you tilt it slightly. Anti-slip rubber f...
+
+# @OFFER
+Price: 1.49
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Bowl: Polypropylene, Foot ring: Synthetic rubber
+Care: Microwave-safe. | Dishwasher-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ponnyfisk-mixing-bowl-light-gray-blue__1433033_pe983031_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

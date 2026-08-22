@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BAROMETER ceiling track, 5-spots, brass color
+SKU: 70364638
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/barometer-ceiling-track-5-spots-brass-color-70364638/
+Category: Track lighting
+Description: This brass-colored ceiling track has 5 spots that are easy to direct to get the light exactly where you want it. It goes just as well in the hallway as in the kitchen or living room.
+
+# @OFFER
+Price: 79.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Nickel plated
+Features: Light bulbs sold separately. IKEA recommends LED bulb GU10 (5 pcs). | Screws are sold separately. Choose screws which are suitable to the material you are mounting to. | Hardwired installation.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/barometer-ceiling-track-5-spots-brass-color__0613026_pe686117_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

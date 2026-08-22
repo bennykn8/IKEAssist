@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HEMNES Dressing table with mirror, white
+SKU: 30374413
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hemnes-dressing-table-with-mirror-white-30374413/
+Category: Makeup vanities & dressing tables
+Description: , 39 3/8x19 5/8". Dressing table or desk? You don’t need to decide – there’s enough space for both makeup, pens and a laptop. The soft shapes create a romantic silhouette that becomes the focal point ...
+
+# @OFFER
+Price: 249.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel: Particleboard, Melamine foil, Rail: Solid beech, Acrylic paint, Side panel/ Back panel/ Top frame/ Drawer front: Fiberboard, Acrylic paint
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Coordinates with other furniture in the HEMNES series.
+Care: Wood: Wipe clean using a damp cloth and a mild cleaner. | Wood: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hemnes-dressing-table-with-mirror-white__0627085_pe693165_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

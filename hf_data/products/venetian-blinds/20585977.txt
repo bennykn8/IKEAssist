@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VECKLARFLY Venetian blind, aluminum
+SKU: 20585977
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vecklarfly-venetian-blind-aluminum-20585977/
+Category: Venetian blinds
+Description: , 27x61" Push up/pull down to effortlessly raise/lower the blinds. Embedded cords to tilt the slats makes it safe for all ages. Control the light and privacy by adjusting the slats, allowing for anyth...
+
+# @OFFER
+Price: 37.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Slats: Aluminum, Paint, Top rail/ Bottom rail/ Panel/ Stick: Aluminum, Anodized, Mechanism: Stainless steel, Acetal plastic, Polycarbonate plastic
+Features: 2 brackets for wall or ceiling mounting included. | Screws and any other fasteners you might need to attach your solution securely to the wall (e.g. wall anchors) are not included. | Tilt the slats backwards to deflect and diffuse the light coming in.
+Care: Wipe clean using a damp cloth and a mild cleaner.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vecklarfly-venetian-blind-aluminum__1254022_pe924385_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

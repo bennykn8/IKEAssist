@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: DRÖNA lid, dark gray textile, 15 ¼x13 ½"
+SKU: 70556406
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/droena-lid-dark-gray-textile-70556406/
+Category: Paper & media storage boxes
+Description: This foldable fabric lid fits perfectly on DRÖNA boxes and helps you protect the contents from dirt and dust. Just as easy to unfold as to fold up and stow away. Just as easy to unfold as to fold up a...
+
+# @OFFER
+Price: 1
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Outer fabric: 100% polyester (min. 90% recycled), Insert: Polypropylene, Inner fabric: 100 % polypropylene
+Features: Fits DRÖNA boxes.
+Care: Clean by vacuuming or use a lint roller. | Do not wash.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/droena-lid-dark-gray-textile__1216743_pe912531_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: TOMAT spray bottle, orange, 12 oz
+SKU: 10585572
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tomat-spray-bottle-orange-10585572/
+Category: Plant supplies & accessories
+Description: Give your beloved plants a spray and some extra moisture. You can adjust the spray, use the soft spray for your seedlings or the stronger one to spray away dust and dirt. You can adjust the water jet ...
+
+# @OFFER
+Price: 0.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polypropylene, Polypropylene, Polyethylene
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tomat-spray-bottle-orange__1358848_pe953958_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

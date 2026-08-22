@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: NYHAMN sleeper sofa, with foam mattress/Naggen beige
+SKU: 79499987
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/nyhamn-sleeper-sofa-with-foam-mattress-naggen-beige-s79499987/
+Category: Sleeper sofa beds
+Description: A click mechanism transforms the sofa into a bed. The storage under the seat and a selection of mattresses are an extra plus. Choose a cover from different colors, fits and looks for a style you like....
+
+# @OFFER
+Price: 499
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Back and seat frame: Steel, Back cover: 100 % polypropylene, Layer glued slats: Layer-glued wood veneer, Adhesive resin as coating
+Features: The material in this product may be recyclable. Please check the recycling rules in your community and if recycling facilities exist in your area.
+Care: Removable cover: Machine wash warm, normal cycle. | Removable cover: To be washed separately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/nyhamn-sleeper-sofa-with-foam-mattress-naggen-beige__1155297_pe886539_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

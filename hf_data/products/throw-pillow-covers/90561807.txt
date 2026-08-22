@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: LAGERPOPPEL cushion cover, light brown
+SKU: 90561807
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lagerpoppel-cushion-cover-light-brown-90561807/
+Category: Throw pillow covers
+Description: , 16x23" LAGERPOPPEL cushion cover in light brown has a textured, matte-sheen surface and flange edging that adds style and stability to the cushion. Matches SANDBRODD and HORNMAL throws and INDIRA be...
+
+# @OFFER
+Price: 2.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % polyester (100% recycled)
+Care: Shrinkage maximum 4%. | Machine wash warm, normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lagerpoppel-cushion-cover-light-brown__1259129_pe926539_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

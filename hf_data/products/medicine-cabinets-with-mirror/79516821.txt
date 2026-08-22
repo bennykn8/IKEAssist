@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FAXÄLVEN mirror cabinet w built-in lighting, brown oak effect
+SKU: 79516821
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/faxaelven-mirror-cabinet-w-built-in-lighting-brown-oak-effect-s79516821/
+Category: Medicine cabinets with mirror
+Description: , 30x6x37" A mirror cabinet that charms with the warm look of wood combined with integrated lighting that brightens the space and helps you to carry out your routines. Dimmable with RODRET wireless di...
+
+# @OFFER
+Price: 369
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame/ Shelf: Particleboard, Plastic foil, Plastic edging (min. 50% recycled), Plastic edging, Adjustable shelf: Tempered glass, Door: Fiberboard, Plastic foil, Plastic foil, Plastic edging
+Features: Comprises: 1 mirror cabinet with built-in lighting and 1 driver for wireless control. | To be completed with RODRET wireless dimmer/power switch, sold separately. | SILVERGLANS driver for wireless control requires wired-in installation.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/faxaelven-mirror-cabinet-w-built-in-lighting-brown-oak-effect__1198700_pe904175_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

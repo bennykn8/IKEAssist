@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: EKOLN toilet brush, beige
+SKU: 90493007
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ekoln-toilet-brush-beige-90493007/
+Category: Toilet brushes
+Description: The clean, smooth curves give your bathroom a new and fresh expression. For a coordinated look, combine with other accessories in the EKOLN series. Sometimes the smallest changes can make a big differ...
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Mug: Stoneware, Colored glaze, Polyurethane paint, Handle/ Pin: Stainless steel, Insert: Acetal plastic
+Features: Cleaning brush included. | Combines with other products in EKOLN series.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ekoln-toilet-brush-beige__0967656_pe810231_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

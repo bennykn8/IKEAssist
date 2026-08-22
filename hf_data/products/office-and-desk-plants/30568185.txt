@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: FICUS LYRATA potted plant, fiddle-leaf fig/stem
+SKU: 30568185
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ficus-lyrata-potted-plant-fiddle-leaf-fig-stem-30568185/
+Category: Office & desk plants
+Description: , 12" Plants are perfect roommates – invite them into your home and create your own green oasis where you can wind down from the hustle and bustle of life. And they’re also quiet when it’s time to go ...
+
+# @OFFER
+Price: 49.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Plant/ Substrate: Cultivated potted plant, Pot: Polypropylene
+Dimensions: The height of the plants can vary.
+Features: Native to West Africa. | This plant is sensitive to under-watering, which may cause the leaves to fall off. | Give your plants a boost with fertilizer every month. If you notice that the plant has gone dormant, leave it be until next season.
+Care: Temperature: Minimum temperature 59º F (15°C). | Water: Water moderately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ficus-lyrata-potted-plant-fiddle-leaf-fig-stem__1471169_pe997111_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

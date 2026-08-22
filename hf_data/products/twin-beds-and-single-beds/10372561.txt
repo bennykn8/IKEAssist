@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SONGESAND Bed frame, brown, Twin
+SKU: 10372561
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/songesand-bed-frame-brown-10372561/
+Category: Twin beds & single beds
+Description: . A sturdy bed frame with soft, profile edges and high legs. A classic shape that will last for many years.
+
+# @OFFER
+Price: 219
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Leg/ Top rail: Fiberboard, Paper foil, Plastic edging, Bed end filling/ Rail/ Bedside: Particleboard, Paper foil, Plastic edging
+Features: Slatted bed base and mattress sold separately. | Add SONGESAND underbed storage boxes to create lots of extra storage space. | May be completed with FIXA stick-on floor protectors to protect the underlying surface against wear.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/songesand-bed-frame-brown__0655005_pe708893_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

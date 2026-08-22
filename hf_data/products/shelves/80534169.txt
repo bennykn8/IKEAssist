@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BERGSHULT shelf, walnut effect
+SKU: 80534169
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/bergshult-shelf-walnut-effect-80534169/
+Category: Shelves
+Description: , 311/2x113/4" This walnut-patterned shelf helps you create a storage solution with a few, simple steps – and change the style anytime. The edge on one side is beveled while the other is smooth, just ...
+
+# @OFFER
+Price: 15
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Paper foil, Plastic edging, Plastic edging
+Features: Complete with 2 brackets, placed at least 27½" apart. Sold separately. | Brackets are sold separately. | The shelf carries a max. of 22 lbs when properly mounted on the wall.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/bergshult-shelf-walnut-effect__1121246_pe874175_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

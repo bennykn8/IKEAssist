@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: SMÅSTAD pull-out storage unit, white, 31 ½x22 ½x42 ½"
+SKU: 70445871
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/smastad-pull-out-storage-unit-white-70445871/
+Category: SMÅSTAD interior fittings
+Description: This pull-out wardrobe is based on a child's perspective. Here they get a full overview and can reach clothes and items from two sides. Easy to assemble – you simply click the frame together and only ...
+
+# @OFFER
+Price: 210
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Side panel/ Partition: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Paper foil, Plastic edging, Bottom panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Plastic edging, Back panel: Fiberboard, Plastic foil
+Dimensions: Remember to fit the handle at a height suitable for your child.
+Features: If you want to organize the inside, you can complete with the wire baskets KONSTRUERA, max 5 pcs. | Two people are required to do the assembly.
+Care: Wipe clean with a damp cloth. | Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/smastad-pull-out-storage-unit-white__0862320_pe781217_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

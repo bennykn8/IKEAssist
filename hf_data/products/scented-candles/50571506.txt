@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: BLODHÄGG scented tealight, lemon & lemongrass/yellow, 3.5 hr
+SKU: 50571506
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/blodhaegg-scented-tealight-lemon-lemongrass-yellow-50571506/
+Category: Scented candles
+Description: What’s the scent of home for you? BLODHÄGG scented candle offers a fresh and lush scent of lemons and lemongrass. Welcome home to an uplifting atmosphere inspired by scents from summery dinner prepara...
+
+# @OFFER
+Price: 3.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Candlecup: Aluminum, Candle: Plant-based wax (min. 50%), paraffin wax, fragrance, Wick: Cotton and other cellulose based materials
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/blodhaegg-scented-tealight-lemon-lemongrass-yellow__1256096_pe924920_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: RELATERA desk sit/stand, white
+SKU: 99552865
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/relatera-desk-sit-stand-white-s99552865/
+Category: RELATERA children's desk
+Description: , 461/8x235/8" A desk to grow with where the crank handle makes it easy to adjust the height and switch between sitting and standing. A perfect solution with plenty of space for both studies and hobbi...
+
+# @OFFER
+Price: 149.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Melamine foil, Plastic edging, Plastic edging, Frame/ Foot/ Bracket/ Cable management/ Outer tube/ Inner tube/ Hook: Steel, Epoxy powder coating, End cap: Acetal plastic
+Features: May be completed with your choice of accessories from the RELATERA accessories for extra functions and storage. | Cover caps for the table top are included with the underframe.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/relatera-desk-sit-stand-white__1293258_pe935140_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

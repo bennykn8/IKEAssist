@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: OSTBIT serving tong, bamboo
+SKU: 00453464
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ostbit-serving-tong-bamboo-00453464/
+Category: Serving utensils
+Description: Salad is tasty and healthy, but some people don’t like certain vegetables. OSTBIT serving tong makes it easier to pick out your favourites – or by all means, sort out the ones you don’t like. Made of ...
+
+# @OFFER
+Price: 1.49
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Bamboo, Oil
+Features: Bamboo is a durable and stable hardwood with a uniform texture. It is moisture and scratch-resistant. The natural color of bamboo is similar to that of beech wood.
+Care: Handwash only.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ostbit-serving-tong-bamboo__0799776_pe767637_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

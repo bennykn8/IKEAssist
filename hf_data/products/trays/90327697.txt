@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KLIPSK bed tray, black
+SKU: 90327697
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/klipsk-bed-tray-black-90327697/
+Category: Trays
+Description: With KLIPSK bed tray you can both work and enjoy your business lunch in bed. And when you’re ready to clock out and do other things, the tray has a groove where you easily can put your tablet or book....
+
+# @OFFER
+Price: 14.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polypropylene
+Features: Maximum load for the bed tray is 55 lbs.
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/klipsk-bed-tray-black__0504711_pe633466_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: NIPÅSEN coat rack and bench w shoe storage, black
+SKU: 50586145
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/nipasen-coat-rack-and-bench-w-shoe-storage-black-50586145/
+Category: Shoe racks & stands
+Description: , 743/4x133/4x311/8" Old-world charm for today's busy hallways. Here you have room for up to 8 pairs of shoes, hooks for jackets and keys, a great bench – and no good excuses for not putting your thin...
+
+# @OFFER
+Price: 79.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts/ Shelf/ Bar: Steel, Powder coating, Top panel: Fiberboard, Acrylic paint, Mounting plate/ Hook: Steel, Epoxy/polyester powder coating
+Features: May be completed with PINNIG rack with 3 hooks and other products in the NIPÅSEN series. | May be completed with BAGGMUCK shoe mat 28x13¾ in. | Has space for approximately 4 pairs of shoes on the shelf.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/nipasen-coat-rack-and-bench-w-shoe-storage-black__1390535_pe965439_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

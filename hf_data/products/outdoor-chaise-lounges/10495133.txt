@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BOCKÖN hammock stand, outdoor, black
+SKU: 10495133
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/bockoen-hammock-stand-outdoor-black-10495133/
+Category: Outdoor chaise lounges
+Description: Enjoy cozy alone time in the hammock by using this stable and robust steel stand. And don't forget the sunscreen – you never know how long you'll want to lie down and relax. Robust stand for your hamm...
+
+# @OFFER
+Price: 129.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Stand/ Support: Galvanized steel, Polyester powder coating, Hook: Steel, Galvanized
+Features: Only recommended for outdoor use.
+Care: Clean: Use a mild soapy solution. | Storing: If possible, store your outdoor furniture in a dry and cool place indoors. When stored outside, tilt the furniture and use water repellent covers to allow air to circulate to avoid moisture.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/bockoen-hammock-stand-outdoor-black__1137844_pe879767_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MORABO sleeper sofa, Grann/Bomstad black/metal
+SKU: 19491319
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/morabo-sleeper-sofa-grann-bomstad-black-metal-s19491319/
+Category: Sleeper sofa beds
+Description: Luxury made our way. This sofa has thick grain leather on the exposed surfaces and treated fabric elsewhere – and comes with practical hidden functions like a sofa-bed and storage space under the seat...
+
+# @OFFER
+Price: 1699
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Leather: Dyed through top-grain leather with a treated, embossed and pigmented surface, Coated fabric parts: 100 % polyurethane, 75 % polyester, 25 % cotton, Ticking: 73 % cotton, 27 % polyester (100% recycled)
+Features: The seat cushions, back cushions and inside, top, front of the armrests are covered with GRANN – a soft, smooth and strong grain leather with natural variations. Other surfaces have the coated fabric BOMSTAD.
+Care: Frame, non-removable cover: Clean with a dust cloth or vacuum lightly using the soft brush attachment. | Frame, non-removable cover: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/morabo-sleeper-sofa-grann-bomstad-black-metal__1170131_pe892694_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

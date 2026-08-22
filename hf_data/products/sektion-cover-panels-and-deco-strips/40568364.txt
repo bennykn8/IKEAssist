@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HAVSTORP rounded deco strip, deep green
+SKU: 40568364
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/havstorp-rounded-deco-strip-deep-green-40568364/
+Category: SEKTION Cover panels & deco strips
+Description: , 87" HAVSTORP kitchen fronts in a deep green tone, have clean straight lines and a smooth surface. The deco strips give your kitchen a uniform look and enhance the timeless expression. The deco strip...
+
+# @OFFER
+Price: 37
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fiberboard, Plastic foil, Polyurethane paint
+Features: Fits METOD kitchen series. | Fittings and screws included.
+Care: Wipe dry with a clean cloth. | Wipe clean with a microfiber cloth dampened in water, for more difficult stains use a mild cleaning detergent and rub carefully with circular motions.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/havstorp-rounded-deco-strip-deep-green__1224320_pe928127_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

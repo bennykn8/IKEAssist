@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FRÖJERED cover panel, light bamboo
+SKU: 40441624
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/froejered-cover-panel-light-bamboo-40441624/
+Category: SEKTION Cover panels & deco strips
+Description: , 25x30" Vibrant and warm with a ”wow” feel. FRÖJERED fronts are made of natural bamboo - a sustainable and hard-wearing material that’s perfect in the kitchen. Integrated handles enhance the clean, m...
+
+# @OFFER
+Price: 101
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Panel: Particleboard, Front side/ Back side: Bamboo veneer, Stain, Clear acrylic lacquer, Edge: Bamboo, Stain, Clear acrylic lacquer
+Features: Attach a cover panel to the side of a cabinet at the end of a row. | Fits SEKTION kitchen series.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/froejered-cover-panel-light-bamboo__0869733_pe781490_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VIHALS wardrobe with 2 doors, white
+SKU: 20483257
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vihals-wardrobe-with-2-doors-white-20483257/
+Category: Narrow wardrobes
+Description: , 413/8x221/2x783/4" VIHALS storage series has a cohesive look that connects the rooms throughout your home. This spacious wardrobe has a full-length mirror that saves wall space and gives you a good ...
+
+# @OFFER
+Price: 299.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Shelf: Particleboard, Acrylic paint, Paper foil, Plastic edging, Side panel/ Bottom panel/ Partition/ Door: Particleboard, Acrylic paint, Plastic edging, Back panel: Fiberboard
+Features: Handles included. | 1 clothes rail included. | 5 shelves included.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vihals-wardrobe-with-2-doors-white__1070907_pe854805_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

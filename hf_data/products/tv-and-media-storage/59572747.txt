@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BRIMNES TV storage combination/glass doors, white
+SKU: 59572747
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/brimnes-tv-storage-combination-glass-doors-white-s59572747/
+Category: TV & media storage
+Description: , 1085/8x161/8x373/8" When it’s organized by the TV it’s easier to indulge in your favorite TV series. Keep your games, controls and accessories in the large drawers and feed the cords through the out...
+
+# @OFFER
+Price: 327.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Frame: Particleboard, Paper foil, Plastic edging, Top rail/ Side panel/ Shelf/ Door panel/ Rail/ Bottom panel/ Bottom rail: Particleboard, Paper foil, Back: Fiberboard, Acrylic paint
+Features: We recommend a TV bench to be a bit wider than the TV placed on it. This TV bench suits a TV up to 45 inches. You can choose a larger TV if it’s not heavier than the specified max load for the bench’s top. | The top panel of the TV bench is intended for a TV with a maximum weight of 35 lbs. | Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/brimnes-tv-storage-combination-glass-doors-white__0619438_pe689080_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

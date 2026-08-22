@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: PAX / TONSTAD wardrobe combination, dark gray brown/stained oak veneer glass
+SKU: 29561255
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/pax-tonstad-wardrobe-combination-dark-gray-brown-stained-oak-veneer-glass-s29561255/
+Category: PAX wardrobes with doors
+Description: , 783/4x235/8x791/4" Keep it simple. Here's a basic solution to get you started, and space for more interiors if you want to upgrade. 10-year Limited Warranty. Read about the terms in the Limited Warr...
+
+# @OFFER
+Price: 1170
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fiberboard, Particleboard, Paper foil, Door frame: Fiberboard, Oak veneer, Oak veneer, Clear acrylic lacquer, Plastic edging, Rail: Fiberboard, Oak veneer, Oak veneer, Clear acrylic lacquer
+Features: Two people are needed to assemble this furniture. | Interior accessories  that help you organize inside your wardrobe are sold separately. | Knobs and handles are sold separately.
+Care: Wipe clean with a mild soapy solution. | Wipe clean using a damp cloth and a mild cleaner.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/pax-tonstad-wardrobe-combination-dark-gray-brown-stained-oak-veneer-glass__1382022_pe962156_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

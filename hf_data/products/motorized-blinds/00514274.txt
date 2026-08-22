@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: PRAKTLYSING cellular blind, smart wireless/battery operated white, 34x76 ¾"
+SKU: 00514274
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/praktlysing-cellular-blind-smart-wireless-battery-operated-white-00514274/
+Category: Motorized blinds
+Description: PRAKTLYSING cellular blind filters light and insulates against window drafts and heat from the sun. Use with remote control or with DIRIGERA hub and IKEA Home smart app for more smart control options....
+
+# @OFFER
+Price: 129.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Outer fabric: 100 % polyester (100% recycled), Rail: Aluminum, Epoxy/polyester powder coating, Aluminum, End cap: Polypropylene, Polypropylene
+Features: Add a DIRIGERA hub and IKEA Home smart app for control through Amazon Alexa, Apple HomeKit or Hey Google. | The DIRIGERA hub enables you to use the IKEA Home smart app. | The blind cannot be cut.
+Care: Do not wash. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/praktlysing-cellular-blind-smart-wireless-battery-operated-white__0981007_pe815228_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

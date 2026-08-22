@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SUNNEBY / TRÅDFRI pendant lamp with LED bulb, black/smart warm white
+SKU: 19531023
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sunneby-tradfri-pendant-lamp-with-led-bulb-black-smart-warm-white-s19531023/
+Category: Pendant lighting
+Description: For those who want a pendant lamp that catches the eye. This one has a black textile cord and a wireless dimmable smart LED bulb with a visible filament that spreads a decorative light through the cle...
+
+# @OFFER
+Price: 32.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Ceiling cup: Polypropylene, Housing: Polycarbonate plastic, Thermoplastic elastomer, Hanger: Polystyrene
+Features: Complete with a wireless dimmer to dim your light source. | The bulb is not suitable to use with hardwired dimmers. | This product allows wireless dimming. With IKEA Smart lighting, you can dim your lights without a hardwired installation.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sunneby-tradfri-pendant-lamp-with-led-bulb-black-smart-warm-white__1204967_pe906883_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

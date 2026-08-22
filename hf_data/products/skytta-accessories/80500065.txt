@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SKYTTA hardware pack f triple track rail
+SKU: 80500065
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/skytta-hardware-pack-f-triple-track-rail-80500065/
+Category: SKYTTA accessories
+Description: If you want a SKYTTA sliding door solution with 3 doors on a 3-track rail, this is the fitting package for the 2 doors at the ends. 10-year Limited Warranty. Read about the terms in the Limited Warran...
+
+# @OFFER
+Price: 50
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Acetal plastic, Reinforced polyamide, Galvanized
+Features: To be used only with SKYTTA rail for sliding door, 3 tracks. | To be completed with SKYTTA fitting package for middle door, to suit a 3-door solution.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/skytta-hardware-pack-f-triple-track-rail__1004747_pe825148_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

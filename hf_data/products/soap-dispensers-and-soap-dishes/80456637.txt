@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TVÅLSJÖN 3-piece bathroom set
+SKU: 80456637
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tvalsjoen-3-piece-bathroom-set-80456637/
+Category: Soap dispensers & soap dishes
+Description: A traditional, crafted look in softly rounded stoneware with matte glaze. Use the tray for the dispenser and toothbrush holder or for smaller accessories. Harmonizes well with LILLASJÖN bathroom serie...
+
+# @OFFER
+Price: 14.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Soap dispenser/ Bathroom cup: Stoneware, Colored glaze, Pump: ABS plastic, Polypropylene, Polypropylene, Polyethylene, EVA plastic, Glass, Stainless steel, Tray: Stoneware, Pigmented glaze
+Dimensions: Comprises: 1 soap dispenser, 13.5 oz (dia. 3.3 in, height 7.2 in), 1 toothbrush holder (dia. 3.125 in, height 3.875 in) and 1 tray (length 7.5 in, depth 3.7 in).
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tvalsjoen-3-piece-bathroom-set__0943289_pe796871_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

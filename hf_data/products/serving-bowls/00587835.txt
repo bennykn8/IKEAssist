@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: MÄVINN bowl, brown/ceramic, 6 ½"
+SKU: 00587835
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/maevinn-bowl-brown-ceramic-00587835/
+Category: Serving bowls
+Description: A handmade bowl with a minimalist shape in earthy tones that adorns its place with its natural beauty. Perfect for snacks – or as a decoration, with or without fragrant potpourri. This handmade bowl i...
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Stoneware, Colored glaze
+Care: Clean with lukewarm water. | Microwave-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/maevinn-bowl-brown-ceramic__1304462_pe938796_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

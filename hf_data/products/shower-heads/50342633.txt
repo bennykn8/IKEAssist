@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LILLREVET single-spray hand held shower head, white
+SKU: 50342633
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lillrevet-single-spray-hand-held-shower-head-white-50342633/
+Category: Shower heads
+Description: Hand shower with full spray function for a wide and even coverage for a relaxing experience. An integrated washer keeps the water flow just right so you save both water and energy. 3-year warranty. Re...
+
+# @OFFER
+Price: 3.49
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Handheld showerhead inner housing: Acetal plastic, Handheld showerhead outer housing: ABS plastic, Nozzle: Synthetic rubber
+Features: Comes with full spray function. | The hand shower water consumption is 1.8 gpm. | Shower hose is sold separately.
+Care: To remove larger limescale deposits – use diluted, ordinary white vinegar and rinse with water. | Clean with a soft damp cloth only using water and a mild washing-up detergent or soap. Never use scouring powder, steel wool, a descaling agent or a detergent that is acidic or contains alcohol or an abrasive.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lillrevet-single-spray-hand-held-shower-head-white__0755000_pe748203_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

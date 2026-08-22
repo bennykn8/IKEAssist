@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SUNDSÖ folding chair, bright red outdoor
+SKU: 70575891
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sundsoe-folding-chair-bright-red-outdoor-70575891/
+Category: Outdoor dining chairs
+Description: This product is perfect for your balcony or other smaller spaces since it can be easily folded and put away. Comes pre-assembled – and is also suitable for business use. Perfect for your balcony or ot...
+
+# @OFFER
+Price: 35
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame/ Seat/ Back: Steel, Polyester powder coating, Plastic parts: Polyamide, Polypropylene, Rivets: Stainless steel
+Features: Please check with your local authorities to make sure that the product complies with any specific requirements for business use. | Only recommended for outdoor use.
+Care: The best way to extend the life of your outdoor furniture is by cleaning it regularly and not leaving it outdoors unprotected more than necessary. | Clean: Use a mild soapy solution. Wipe dry with a clean dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sundsoe-folding-chair-bright-red-outdoor__1352293_pe952166_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

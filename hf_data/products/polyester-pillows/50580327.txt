@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SENAPSMOTT pillow, side/back sleeper, with cooling fabric
+SKU: 50580327
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/senapsmott-pillow-side-back-sleeper-with-cooling-fabric-50580327/
+Category: Polyester pillows
+Description: , 20x30" Let the pillow do the cooling. The inner core is surrounded by a viscose and polyester filling – a synthetic material blend that provides cooling and soothing comfort while you sleep.
+
+# @OFFER
+Price: 29.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Outer fabric: 55 % lyocell, 45 % cotton, Lining: 100 %polyester, Pocket filling: 60% polyester (min. 50% recycled) / 40% viscose
+Features: 186 thread count. | Thread count indicates the number of threads per square inch of fabric. The higher the thread count the more densely woven the fabric. | The cool to the touch effect may vary depending on the surrounding environment and climate.
+Care: Machine wash warm (max 140°F/60°C) normal cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/senapsmott-pillow-side-back-sleeper-with-cooling-fabric__1026793_pe834527_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

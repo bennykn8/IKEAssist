@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LATMASK clip-on handle, orange, 23/8"2 pack
+SKU: 70574090
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/latmask-clip-on-handle-orange-70574090/
+Category: SMÅSTAD knobs, handles & accessories
+Description: Knobs and handles are like icing on the cake. Enhance the style you like, refresh the look of doors and drawers, coordinate with the rest of the room – or simply change because it’s fun.
+
+# @OFFER
+Price: 3
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Aluminium (min. 70% recycled), Epoxy/polyester powder coating
+Features: Suitable for door thickness ⅝ " | Be careful if you use LATMASK handle on SMÅSTAD cork door since the adhesive can damage the material | The material in this product may be recyclable. Please check the recycling rules in your community and if recycling facilities exist in your area.
+Care: Wipe clean with a damp cloth. | Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/latmask-clip-on-handle-orange__1205423_pe907083_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

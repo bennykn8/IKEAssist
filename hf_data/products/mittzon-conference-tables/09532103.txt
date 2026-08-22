@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: MITTZON conference table, white
+SKU: 09532103
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/mittzon-conference-table-white-s09532103/
+Category: MITTZON conference tables
+Description: , 471/4x421/2x291/2" From small to x-large. This conference table can be set up on its own or together with others to create an ideal meeting or work area where great ideas evolve. Clever cable manage...
+
+# @OFFER
+Price: 219.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Melamine foil, Acrylic paint, Melamine foil, Plastic edging, Cable management: Felt, Leg/ Hook/ Rail/ Middle rail: Steel, Epoxy/polyester powder coating
+Care: Wipe dry with a clean cloth. | Check regularly that all assembly fastenings are properly tightened and retighten when necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/mittzon-conference-table-white__1212813_pe910783_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

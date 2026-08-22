@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VINGSÖN wing chair, in/outdoor, gray/Järpön/Duvholmen anthracite
+SKU: 59436608
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vingsoen-wing-chair-in-outdoor-gray-jaerpoen-duvholmen-anthracite-s59436608/
+Category: Outdoor patio lounge chairs
+Description: Like a beautiful peacock, this throne-like armchair catches the eye. With its wonderful comfort and generous shape, it is made for relaxing on the terrace or in the garden.
+
+# @OFFER
+Price: 489.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric/ Lining, top: 100% polyester (min. 90% recycled), Filling: 100 %polyester, Lining, underside: 65 % Synthetic rubber, 35 % polyester
+Features: The material in this product may be recyclable. Please check the recycling rules in your community and if recycling facilities exist in your area.
+Care: The best way to extend the life of your wooden outdoor furniture is by cleaning it regularly, not leaving it outdoors unprotected more than necessary, and re-staining it on a regular basis. | Maintenance: To prevent the surface from drying out and cracking, and moisture from penetrating into the wood, we recommend you to re-stain the furniture on a regular basis, for example once or twice a year.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vingsoen-wing-chair-in-outdoor-gray-jaerpoen-duvholmen-anthracite__1078906_pe857321_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

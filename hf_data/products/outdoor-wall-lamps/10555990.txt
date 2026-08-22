@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BÄCKFRÄNE wall lamp, hardwire installation, outdoor black
+SKU: 10555990
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/baeckfraene-wall-lamp-hardwire-installation-outdoor-black-10555990/
+Category: Outdoor wall lamps
+Description: This black wall lamp in durable metal with clear glass in the shade spreads a pleasant light in your outdoor space. Form and function in beautiful harmony – and there are several models to choose from...
+
+# @OFFER
+Price: 49.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Ceiling cup/ Cover/ Frame/ Arm: Aluminum, Powder coating, Protective glass: Tempered glass
+Features: Light bulb sold separately. IKEA recommends LED bulb E26 globe clear. | To be installed by a qualified electrician.
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/baeckfraene-wall-lamp-hardwire-installation-outdoor-black__1169387_pe892417_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

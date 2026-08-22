@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KRUSNATE ceiling light with 4 spotlights, white
+SKU: 00564198
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/krusnate-ceiling-light-with-4-spotlights-white-00564198/
+Category: Track lighting
+Description: This ceiling track with 4 spots is almost invisible on a white ceiling and gives light where you like since each spot can be directed individually. Goes just as well in a hallway as over a kitchen isl...
+
+# @OFFER
+Price: 14.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Bracket/ Tube/ Ceiling cup/ Shade: Steel, Powder coating, Lampholder cup: Polyamide, Joint: Steel, Paint
+Features: Light bulbs sold separately. IKEA recommends LED bulb GU10 (4 pcs). | Special waste handling may be required. Please contact your local authorities for more information. | Hardwired installation.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/krusnate-ceiling-light-with-4-spotlights-white__1198150_pe903923_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

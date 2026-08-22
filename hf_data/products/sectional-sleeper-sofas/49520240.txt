@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: FRIHETEN / KLAGSHAMN sleeper sectional,3 seat w/storage, Faringe light gray
+SKU: 49520240
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/friheten-klagshamn-sleeper-sectional-3-seat-w-storage-faringe-light-gray-s49520240/
+Category: Sectional sleeper sofas
+Description: Relaxing bed at night and comfy sofa during the day – with built-in storage space under the seat. The included mattress pad is rolled out at bedtime and rolled up into a long back cushion in the morni...
+
+# @OFFER
+Price: 899
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100% polyester (min. 90% recycled), Back frame: Particleboard, Fiberboard, Back: 100% polyester (min. 70% recycled), Polyurethane foam 1.5 lb/cu.ft.
+Care: Mattress topper: Machine wash warm (max 140°F/60°C) normal cycle. | Mattress topper: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/friheten-klagshamn-sleeper-sectional-3-seat-w-storage-faringe-light-gray__1360642_pe954542_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

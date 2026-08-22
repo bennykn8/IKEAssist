@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TONSTAD table, off-white
+SKU: 80599938
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tonstad-table-off-white-80599938/
+Category: Up to 6 seats
+Description: , 783/4x331/2" TONSTAD series blends classic design with a graceful matte off-white finish, giving each piece a solid sense of quality. This dining table for 6 is generously dimensioned for larger gat...
+
+# @OFFER
+Price: 319.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel: Particleboard, Acrylic paint, Melamine foil, Plastic edging, Side rail/ Leg: Solid wood, Adhesive, Acrylic paint
+Features: Recommended for indoor use only. | Seats 6. | To prevent surface scratches, complete with TRIXIG stick-on floor protectors, sold separately.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tonstad-table-off-white__1393513_pe966269_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

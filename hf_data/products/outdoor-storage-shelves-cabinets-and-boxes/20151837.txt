@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LÄCKÖ Shelving unit, outdoor, gray
+SKU: 20151837
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/laeckoe-shelving-unit-outdoor-gray-20151837/
+Category: Outdoor storage: shelves, cabinets & boxes
+Description: . LÄCKÖ series is inspired by traditional wrought-iron furniture bringing a romantic touch to your outdoor space. All pieces are maintenance-free so you have more time for daydreaming in your garden.
+
+# @OFFER
+Price: 99.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Polyester powder coating
+Features: We recommend you secure the furniture to the wall. | Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Product is possible to recycle or use for energy recovery, if available in your community.
+Care: Clean: Use a mild soapy solution. | Maintenance: Require no maintenance.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/laeckoe-shelving-unit-outdoor-gray__0626047_pe692565_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

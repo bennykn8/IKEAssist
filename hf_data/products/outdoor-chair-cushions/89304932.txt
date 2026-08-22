@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: JÄRPÖN/DUVHOLMEN back cushion, outdoor, anthracite
+SKU: 89304932
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/jaerpoen-duvholmen-back-cushion-outdoor-anthracite-s89304932/
+Category: Outdoor chair cushions
+Description: , 243/8x173/8" Say hello to more enjoyable comfort outdoors. This back cushion is comfortable to lean on – and water repellent and fade resistant. Separate covers allow you to renew your outdoor space...
+
+# @OFFER
+Price: 35
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric/ Lining, top: 100% polyester (min. 90% recycled), Filling: 100 %polyester, Lining, underside: 65 % Synthetic rubber, 35 % polyester
+Features: Fits NÄMMARÖ, SOLLERÖN, and SEGERÖN seating sections. | May be completed with JÄRPÖN cover for back cushion, 24⅜x17⅜", so you have an extra cover when you want to change the look of the cushion or when a cover needs to be washed. | May be combined with JÄRPÖN/DUVHOLMEN seat cushions, 24⅜x24⅜".
+Care: The best way to extend the life of your outdoor cushion is by cleaning it regularly and storing it in a cool, dry place indoors or in a storage bag when not in use. | Make sure the cushion is completely dry before storing it away in the storage bag.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/jaerpoen-duvholmen-back-cushion-outdoor-anthracite__0747970_pe744782_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: DOCKSTA table, white/white
+SKU: 19324995
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/docksta-table-white-white-s19324995/
+Category: Round tables
+Description: , 401/2" The round shape of the table makes it great for socializing since everyone can see each other. This table matches well with TOBIAS, LIDÅS, ÖSTANÖ and KRYLBO chairs for different style express...
+
+# @OFFER
+Price: 279.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Laminate, Plastic edging, Mounting plate/ Column/ Base: Steel, Epoxy/polyester powder coating, Cover: ABS plastic
+Features: Seats 4. | Product is possible to recycle or use for energy recovery, if available in your community. | The material in this product may be recyclable. Please check the recycling rules in your community and if recycling facilities exist in your area.
+Care: Wipe clean regulary with a detergent for plastic. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/docksta-table-white-white__0803262_pe768820_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

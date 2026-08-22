@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: OLIVBLAD plant stand on wheels, indoor/outdoor dark gray, 12 ½"
+SKU: 00585577
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/olivblad-plant-stand-on-wheels-indoor-outdoor-dark-gray-00585577/
+Category: Plant stands
+Description: You can easily roll your plants to where you want them with OLIVBLAD plant mover – and lock it with the brakes. The tray is reversible so you can use it for larger pots as well, both indoors and outdo...
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Tray/ Frame: Steel, Polyester powder coating, Wheel: Steel, Steel, Synthetic rubber, Polypropylene, Galvanized, Cap: Polypropylene
+Dimensions: With the edge facing up, the plant mover fits plant pots with a diameter of 12⅝" or less.
+Features: Suitable for indoor and outdoor use.
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/olivblad-plant-stand-on-wheels-indoor-outdoor-dark-gray__1362678_pe955291_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

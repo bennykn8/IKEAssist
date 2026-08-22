@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: BESTÅ TV storage combination, white stained oak effect/Lappviken/Stubbarp white stained oak effect
+SKU: 09580844
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/besta-tv-storage-combination-white-stained-oak-effect-lappviken-stubbarp-white-stained-oak-effect-s09580844/
+Description: , 941/2x161/2x901/2" It’s easy to keep the cords from your TV and other devices out of sight but close at hand, as there are several cord outlets at the back of the TV bench.
+
+# @OFFER
+Price: 815
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Back panel: Fiberboard, Fiberboard, Paper foil, Plastic foil, Panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Plastic edging, Plastic edging, Plastic edging, Paper foil, Panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Paper foil, Plastic edging, Plastic edging, Plastic edging, Paper foil
+Features: We recommend a TV bench to be a bit wider than the TV placed on it. This TV bench suits a TV up to 99 inches. You can choose a larger TV if it’s not heavier than the specified max load for the bench’s top. | The top panel of the TV bench is intended for a TV with a maximum weight of 35 lbs. | The max load for a wall-hung frame depends on the wall material.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/besta-tv-storage-combination-white-stained-oak-effect-lappviken-stubbarp-white-stained-oak-effect__0719350_pe732007_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

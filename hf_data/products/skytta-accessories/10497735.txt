@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: SKYTTA sliding door frame, white
+SKU: 10497735
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/skytta-sliding-door-frame-white-10497735/
+Category: SKYTTA accessories
+Description: , 401/4x771/8" You can easily customize a storage solution, create a walk-in closet or transform one room into two with SKYTTA sliding doors. Choose a frame and complete with panels that suit your hom...
+
+# @OFFER
+Price: 130
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Aluminum, Anodized, Acrylic coating
+Dimensions: Available in 30¼ and 40⅛" widths, and 77⅛ and 90⅞" heights
+Features: To be completed with SKYTTA rails for sliding door and SKYTTA fitting packages, choose the quantity depending on how many doors you choose. | Available in white, black, and aluminum. | Cutting a door in height requires precision, and professional tools. If you need a lower door solution, we recommend that you use our Assembly services.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/skytta-sliding-door-frame-white__1004762_pe825158_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

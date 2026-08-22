@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FRYKSÅS armchair and ottoman, rattan/Risane natural
+SKU: 99563171
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/fryksas-armchair-and-ottoman-rattan-risane-natural-s99563171/
+Category: Rattan armchairs
+Description: Have a seat on the armchair's soft cushions and put your feet up on the comfortable footstool. This set offers nice relaxing and brings a piece of nature into your home with its elegantly shaped ratta...
+
+# @OFFER
+Price: 419
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Seat frame/ Leg frame/ Cross rail: Steel, Epoxy/polyester powder coating, Wickerpart: Rattan, Clear acrylic lacquer, Fabric/ Cover: 53 % linen, 47 % viscose/rayon
+Features: Rattan is a natural fiber that might change color over time. | For indoor use. | Each product is a unique, handmade work of art with natural variations in color and shape.
+Care: Furniture: Wipe clean with a damp cloth. | Furniture: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/fryksas-armchair-and-ottoman-rattan-risane-natural__1364902_pe956118_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

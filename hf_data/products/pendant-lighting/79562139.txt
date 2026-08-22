@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ACKJA / MOLNART pendant lamp with LED bulb, wave shaped black/tube-shaped patterned
+SKU: 79562139
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ackja-molnart-pendant-lamp-with-led-bulb-wave-shaped-black-tube-shaped-patterned-s79562139/
+Category: Pendant lighting
+Description: This wave-shaped pendant lamp has 2 tubular LED bulbs that spread a warm glow through the hammered clear glass, creating a cozy atmosphere over your dining table or kitchen island. The light bulb is n...
+
+# @OFFER
+Price: 74.98
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Powder coating, Glass
+Features: To be hung on a ceiling hook. | Ceiling hook not included. | Special waste handling may be required. Please contact your local authorities for more information.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ackja-molnart-pendant-lamp-with-led-bulb-wave-shaped-black-tube-shaped-patterned__1218234_pe913172_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

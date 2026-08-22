@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: SEKTION top cab f fridge/freezer w 2 doors, white/Vallstena white
+SKU: 89506398
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sektion-top-cab-f-fridge-freezer-w-2-doors-white-vallstena-white-s89506398/
+Category: Wall cabinets
+Description: , 36x24x20" SEKTION kitchen system gives you endless possibilities to design your dream kitchen. Paired with VALLSTENA fronts in white, you get a timeless expression that always feels right. Sturdy fr...
+
+# @OFFER
+Price: 140
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Particleboard, Frontside/ Backside: Plastic foil, Edge: Plastic edging, Plastic edging
+Dimensions: The hinge is adjustable in height, depth and width.
+Features: Suspension rail sold separately. | To be finished with legs and plinth, sold separately. | Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home.
+Care: Wipe clean with a damp cloth.  Use only water or a non-abrasive detergent. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sektion-top-cab-f-fridge-freezer-w-2-doors-white-vallstena-white__1173048_pe893729_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

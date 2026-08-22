@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LAMPAN LED portable lamp, battery operated adjustable color/outdoor white, 9 ½"
+SKU: 40594612
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lampan-led-portable-lamp-battery-operated-adjustable-color-outdoor-white-40594612/
+Category: Rechargeable lamps
+Description: The portable version of LAMPAN is easy to bring anywhere – even outdoors. You can also change the light color and dim the brightness to create the mood you want for the moment. Approved for outdoor us...
+
+# @OFFER
+Price: 14.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Shade: Polypropylene, Base/ Housing/ Lid: Polycarbonate plastic
+Features: Rechargeable batteries are sold separately.The charging function of this product only works with rechargeable batteries. IKEA recommends LADDA 2450 mAh HR06 AA 1.2V. 4 pcs are required. | USB-C cable and USB power adapter are sold separately. | When fully charged, the lamp will illuminate at full brightness for approximately 8 hours. If you choose to dim the light to 30% brightness, it will illuminate for more than 24 hours.
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lampan-led-portable-lamp-battery-operated-adjustable-color-outdoor-white__1382314_pe962254_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

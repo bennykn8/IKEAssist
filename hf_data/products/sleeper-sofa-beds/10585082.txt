@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GRUNNARP sleeper sofa, Gunnared light brown-pink
+SKU: 10585082
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/grunnarp-sleeper-sofa-gunnared-light-brown-pink-10585082/
+Category: Sleeper sofa beds
+Description: GRUNNARP sofa-bed gives you both seating and sleeping places in the living room ─ whether you occasionally have overnight guests or you yourself want to sleep comfy every night. Smart storage is inclu...
+
+# @OFFER
+Price: 899
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100% polyester (min. 90% recycled), Clip: Polypropylene, Seat frame: Solid wood, Particleboard, Fiberboard, Paperboard (min. 100% recycled), Polyester wadding
+Features: Stationary cover. | 3 cushions included.
+Care: Frame, non-removable cover: Clean by vacuuming or use a lint roller. | Frame, non-removable cover: Clean with upholstery shampoo.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/grunnarp-sleeper-sofa-gunnared-light-brown-pink__0667136_pe713822_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

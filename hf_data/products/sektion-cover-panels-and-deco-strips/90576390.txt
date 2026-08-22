@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HAVSTORP cover panel, deep green
+SKU: 90576390
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/havstorp-cover-panel-deep-green-90576390/
+Category: SEKTION Cover panels & deco strips
+Description: , 15x90" HAVSTORP kitchen fronts in a deep green tone, have clean straight lines and a smooth surface. The cover panels give your kitchen a uniform look and enhance the timeless expression. Attach a c...
+
+# @OFFER
+Price: 101
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fiberboard, Acrylic paint
+Features: Fits SEKTION kitchen series. | Attach a cover panel to the side of a cabinet at the end of a row.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/havstorp-cover-panel-deep-green__1224317_pe928125_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

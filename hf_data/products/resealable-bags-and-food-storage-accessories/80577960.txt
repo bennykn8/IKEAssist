@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ISTAD resealable bag, patterned black/yellow, 3/1 qt
+SKU: 80577960
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/istad-resealable-bag-patterned-black-yellow-80577960/
+Category: Resealable bags & food storage accessories
+Description: ISTAD bags can be resealed and used again and again. It keeps contents fresh, withstands freezing and can be filled with contents up to 122 °F – and it helps you keep your kitchen and home organized.
+
+# @OFFER
+Price: 3.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polyethylene
+Features: Includes: 25 bags 2.6 qt. (inside measurement 9½x9⅞") and 25 bags 1.2 qt. (inside measurement 7½x8¼").
+Care: Handwash only. | Freezer-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/istad-resealable-bag-patterned-black-yellow__1105132_pe868034_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

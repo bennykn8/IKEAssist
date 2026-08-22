@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: UPPLAND sofa, Blekinge white
+SKU: 19384116
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/uppland-sofa-blekinge-white-s19384116/
+Category: Three-seat sofas
+Description: You know the feeling when you sit, lie down or hang out in a sofa, rather than on it. That’s how embracing the deep and generous UPPLAND sofa is – your new favorite place for cozy evenings and lazy da...
+
+# @OFFER
+Price: 749
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Back and seat frame: Particleboard, Plywood, Solid wood, Polyurethane foam 1.2 lb/cu.ft., Laminated veneer lumber, Fiberboard, Armrest frame: Particleboard, Solid wood, Polyurethane foam 1.2 lb/cu.ft., Polyurethane foam 1.5 lb/cu.ft., Laminated veneer lumber, Fiberboard, Seat cushion: 100 % polyester (100% recycled), Felt liner, Polyurethane foam 2.0 lb/cu.ft., High-resilience polyurethane foam (cold foam) 2.2 lb/cu.ft.
+Care: Removable cover: Machine wash warm (max 140°F/60°C) normal cycle. | Removable cover: To be washed separately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/uppland-sofa-blekinge-white__0818565_pe774487_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

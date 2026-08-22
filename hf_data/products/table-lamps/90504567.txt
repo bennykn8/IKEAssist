@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BARLAST table lamp, black/white
+SKU: 90504567
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/barlast-table-lamp-black-white-90504567/
+Category: Table lamps
+Description: , 12" This table lamp with a clean design assembles in a flash. And since the packaging is compact, we can fit many on the same pallet. Good for the environment – and one of the reasons behind the low...
+
+# @OFFER
+Price: 5.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Shade: Polypropylene, Tube/ Base: Steel, Powder coating
+Features: Light bulb sold separately. IKEA recommends LED bulb E12 globe opal white. | Special waste handling may be required. Please contact your local authorities for more information. | Use an opal light bulb if you have an ordinary lamp shade or lamp and want an even, diffused distribution of light.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/barlast-table-lamp-black-white__1032422_pe836908_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

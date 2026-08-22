@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ASPAREN planter, gray outdoor
+SKU: 10539269
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/asparen-planter-gray-outdoor-10539269/
+Category: Outdoor planters & plant pots
+Description: , 35x15" Homegrown is always best. This planter has space for your favorite plants and also functions as a green divider on your balcony and patio. It’s stackable to save space when it's not growing s...
+
+# @OFFER
+Price: 69.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polypropylene plastic (min. 50% recycled)
+Features: Only recommended for outdoor use. | Fill the planter with 40–45 litres of soil for best result
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/asparen-planter-gray-outdoor__1352484_pe952195_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

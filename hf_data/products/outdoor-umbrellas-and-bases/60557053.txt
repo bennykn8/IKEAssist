@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SEGLARÖ umbrella, hanging, anthracite/tilting
+SKU: 60557053
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/seglaroe-umbrella-hanging-anthracite-tilting-60557053/
+Category: Outdoor umbrellas & bases
+Description: , 1297/8x941/2" You can tilt and rotate this free-hanging umbrella without having a pole that blocks your view or gets in the way. It does its utmost to protect you against the sun with 50+ protection...
+
+# @OFFER
+Price: 329
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Pole: Aluminium (min. 70% recycled), Polyester powder coating, Ribs: Steel, Polyester powder coating, Crank housing: Aluminum, Polyester powder coating
+Features: Umbrella base is sold separately. | This product is suitable for use in a public environment since the design and the material are optimized for frequent use. | The umbrella does not provide protection against reflected or scattered solar ultraviolet radiation.
+Care: The best way to extend the life of your umbrella is by cleaning it regularly, protecting it with a cover whenever not in use and storing it in a cool, dry place indoors when the season is over. | Machine wash cold, normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/seglaroe-umbrella-hanging-anthracite-tilting__1121660_pe874316_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

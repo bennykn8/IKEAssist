@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VADHOLMA open storage, brown/stained ash
+SKU: 70374345
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vadholma-open-storage-brown-stained-ash-70374345/
+Category: Wall cabinets
+Description: , 9x143/8x40" VADHOLMA storage solutions add that extra, unexpected detail that makes the kitchen your own. The open cabinet gives an airy impression and can be filled with personal things that give a...
+
+# @OFFER
+Price: 95
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Particleboard, Ash veneer, Ash veneer, Stain, Clear acrylic lacquer, Ash veneer, Melamine foil, Back: Fiberboard, Ash veneer, Stain, Clear acrylic lacquer, Ash veneer
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Can be mounted between two cabinets or between a cabinet and a wall. | Can be mounted directly to the wall.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vadholma-open-storage-brown-stained-ash__0551846_pe658813_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

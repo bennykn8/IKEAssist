@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GNETGRÄS rug, low pile, dark blue/handmade
+SKU: 90570755
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/gnetgraes-rug-low-pile-dark-blue-handmade-90570755/
+Category: Medium, large and extra-large rugs
+Description: , 6'7"x9'10" Inspired by the ocean, the abstract pattern in gradually shifting shades of blue gives this wonderfully thick, hand-woven wool rug a playful expression that catches the eye.
+
+# @OFFER
+Price: 599.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Use surface/ Warp 1: 100 % wool, Warp 2/ Weft: 100 % cotton
+Features: Wool sheds naturally, so to keep your rug beautiful we recommend that you vacuum it regularly.
+Care: Do not wash. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/gnetgraes-rug-low-pile-dark-blue-handmade__1282428_pe932121_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TRIXIG 200-piece wood screw set
+SKU: 50563747
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/trixig-200-piece-wood-screw-set-50563747/
+Category: Screw kits, wall hooks & more
+Description: The TRIXIG series has most of what a DIYer needs – from cordless drills to screws. Perfect when you want to complete your toolbox or give a housewarming gift to someone who has recently moved. Screws ...
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Box/ Lid/ Divider: Polypropylene plastic (min. 50% recycled), Screw: Steel, Galvanized
+Features: Comprises: Screws with round screw head: 40 pcs 1/8x1 1/3", 30 pcs 1/8x1" and 30 pcs 1/8x2/3". Screws with countersunk screw head: 40 pcs 1/8x1 1 1/3", 30 pcs 1/8x1" and 30 pcs 1/8x2/3". Packed in a box with compartments. | Suitable for wooden materials like joining wood with wood, attaching hinges and screwing brackets into shelves. | A round screw head is good when you need to attach things to the wall, for example curtain rods. A countersunk screw head is good when you are joining things together and want the screw to be flush with the material.
+Care: Recommended for indoor use only.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/trixig-200-piece-wood-screw-set__1223646_pe914719_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

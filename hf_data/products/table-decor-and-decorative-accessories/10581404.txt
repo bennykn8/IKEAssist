@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: FRÖJDA hanging decoration, chrome effect, 11 ¾"
+SKU: 10581404
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/froejda-hanging-decoration-chrome-effect-10581404/
+Category: Table decor & decorative accessories
+Description: One or more silver-shimmering disco balls makes the party extra festive. Comes in a flat package, but is easy to fold out – and fold flat again to save for the next party. Part of the FRÖJDA collectio...
+
+# @OFFER
+Price: 4.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts/ Tube/ Support: Paper, Wire: Stainless steel, String: 100 % nylon
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/froejda-hanging-decoration-chrome-effect__1329427_pe945133_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

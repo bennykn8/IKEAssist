@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: VILBORG room darkening curtains, 1 pair, beige/with heading tape
+SKU: 10559889
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vilborg-room-darkening-curtains-1-pair-beige-with-heading-tape-10559889/
+Category: Room darkening curtains & drapes
+Description: , 57x84" The densely woven curtain liners darken the room and provide privacy by preventing people outside from seeing into the room. Effective at keeping out both drafts in the winter and heat in the...
+
+# @OFFER
+Price: 49.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100% polyester (min. 90% recycled)
+Dimensions: The curtains are sold in pairs. The sizes stated refer to each single curtain. For the total width, double the width of a single curtain.
+Features: Curtains, 1 pair included | The material in this product may be recyclable. Please check the recycling rules in your community and if recycling facilities exist in your area. | 16 gliders and hooks are usually recommended for each curtain with a width of 57⅛". You can increase or decrease the number depending on whether you want narrower or fuller folds in the pleats.
+Care: Machine wash warm, normal cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vilborg-room-darkening-curtains-1-pair-beige-with-heading-tape__0598849_pe677835_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

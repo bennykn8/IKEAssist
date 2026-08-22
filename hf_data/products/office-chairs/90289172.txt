@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MARKUS office chair, Vissle dark gray, Medium
+SKU: 90289172
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/markus-office-chair-vissle-dark-gray-90289172/
+Category: Office chairs
+Description: This ergonomic office chair keeps you comfy and focused with features like a manually adjustable tilt tension, and head-/armrests to help relax the muscles in your neck and back. 10 year guarantee. Su...
+
+# @OFFER
+Price: 299.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Back frame/ Armrest frame/ Back bar: Steel, Epoxy/polyester powder coating, Armrest pad: Polypropylene, Synthetic rubber, Foam: Polyurethane foam 2.2 lb/cu.ft.
+Features: May be used with KOLON floor protector.
+Care: Non-removable cover: Light stains can be removed with a textile cleaner or a damp sponge and a mild soapy solution. | Frame: Wipe clean with a mild soapy solution.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/markus-office-chair-vissle-dark-gray__0724714_pe734597_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

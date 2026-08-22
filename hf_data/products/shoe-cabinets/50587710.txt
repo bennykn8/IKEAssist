@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: GULLABERG shoe cabinet with 4 compartments, white
+SKU: 50587710
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/gullaberg-shoe-cabinet-with-4-compartments-white-50587710/
+Category: Shoe cabinets
+Description: , 413/8x85/8x421/8" The GULLABERG series is elegant storage furniture in a robust and traditional design with crafted details. This narrow shoe cabinet holds 8 pairs of shoes – so you can find a perfe...
+
+# @OFFER
+Price: 149.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Front rail/ Drawer front: Particleboard, Acrylic paint, Paper foil, Plastic edging, Side panel: Particleboard, Acrylic paint, Paper foil, Partition: Particleboard, Acrylic paint, Plastic edging
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/gullaberg-shoe-cabinet-with-4-compartments-white__1384132_pe962850_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

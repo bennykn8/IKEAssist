@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HEMNES Shoe cabinet with 4 compartments, white
+SKU: 60156121
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hemnes-shoe-cabinet-with-4-compartments-white-60156121/
+Category: Shoe cabinets
+Description: , 42 1/8x39 3/4". A place to organize and store all your shoes, making life on the go a little easier. The simple, classical design with a touch of tradition looks great with other furniture in the HE...
+
+# @OFFER
+Price: 179.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Drawer front: Particleboard, Plastic edging, Acrylic paint, Paper foil, Top rail/ Bottom rail/ Leg: Fiberboard, Acrylic paint, Back rail/ Back: Particleboard
+Features: Holds approx. 8 pairs of shoes. | Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Coordinates with other furniture in the HEMNES series.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hemnes-shoe-cabinet-with-4-compartments-white__0710742_pe727760_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

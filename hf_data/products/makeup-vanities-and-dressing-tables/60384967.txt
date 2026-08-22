@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HEMNES dressing table with mirror, black-brown
+SKU: 60384967
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hemnes-dressing-table-with-mirror-black-brown-60384967/
+Category: Makeup vanities & dressing tables
+Description: , 431/4x173/4" Plenty of space for your daily makeup and styling. Practical storage solution for everything from jewelry to undergarments. Smooth running drawer with pull-out stop.
+
+# @OFFER
+Price: 299.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts/ Drawer front: Solid pine, Stain, Clear acrylic lacquer, Drawer side/ Drawer back: Solid pine, Drawer bottom: Fiberboard
+Features: Coordinates with other furniture in the HEMNES series.
+Care: Wipe clean with a soft cloth dampened with water and a mild dish detergent or soap, if necessary. | Wipe clean using a damp cloth and a mild cleaner.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hemnes-dressing-table-with-mirror-black-brown__0555884_pe660345_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

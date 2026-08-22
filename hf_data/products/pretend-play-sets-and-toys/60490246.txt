@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: DUKTIG 8-piece cup/saucer playset, mixed colors
+SKU: 60490246
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/duktig-8-piece-cup-saucer-playset-mixed-colors-60490246/
+Category: Pretend play sets & toys
+Description: Just like your porcelain, only a little smaller. When it's time to have a make-believe tea party with friends or soft toys, the table setting should look nice. If you’re lucky, you’ll also be invited....
+
+# @OFFER
+Price: 8.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Stoneware, Colored glaze
+Features: Includes: 4 cups and 4 saucers in matching pastel colors. | 1 cup holds about 1 oz. | In the DUKTIG series, there is everything that a little chef needs to succeed in the kitchen.
+Care: Wipe clean with a damp cloth. | Dishwasher-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/duktig-8-piece-cup-saucer-playset-mixed-colors__0954304_pe803213_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

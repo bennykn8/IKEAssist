@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KALLAX shelving unit with underframe, with 2 doors/4 drawers/white stained oak effect
+SKU: 29552915
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kallax-shelving-unit-with-underframe-with-2-doors-4-drawers-white-stained-oak-effect-s29552915/
+Category: Storage shelves & shelving units
+Description: , 577/8x37" Sometimes it's nice to have the job done for you. This ready-made combination with both doors and drawers fits just as well in the living room as in your dining area and the added underfra...
+
+# @OFFER
+Price: 159.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Printed and embossed acrylic paint, Plastic edging, Main parts: Fiberboard, Plastic foil, Drawer front: Particleboard, Plastic foil, Paper foil, Plastic edging, Plastic edging
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kallax-shelving-unit-with-underframe-with-2-doors-4-drawers-white-stained-oak-effect__1245494_pe921637_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BROGRUND Toilet brush, stainless steel
+SKU: 40328538
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/brogrund-toilet-brush-stainless-steel-40328538/
+Category: Toilet brushes
+Description: . Clean, simple and distinctive. The BROGRUND series offers a wide variety of clever accessories that create order out of chaos in your bathroom while also giving it a fresh, modern look.
+
+# @OFFER
+Price: 14.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Bin: Stainless steel, Stainless steel, Bottom/ Bristles: Polypropylene, Handle/ End cap/ Bracket/ Strip/ Insert/ Pin: Stainless steel
+Features: Can also be mounted directly to a wall. | Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Cleaning brush included.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/brogrund-toilet-brush-stainless-steel__0711689_pe728382_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

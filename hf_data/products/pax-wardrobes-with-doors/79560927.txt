@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: PAX / TONSTAD wardrobe combination, white/off-white
+SKU: 79560927
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/pax-tonstad-wardrobe-combination-white-off-white-s79560927/
+Category: PAX wardrobes with doors
+Description: , 59x235/8x791/4" A wardrobe fit for the one that loves folding! A lot of shelving space for most things that can be folded, rolled up or just does not fit in drawers. 10-year Limited Warranty. Read a...
+
+# @OFFER
+Price: 910
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fiberboard, Particleboard, Paper foil, Fiberboard and honeycomb paper filling (100% recycled paper), Acrylic paint, Main parts: Steel, Nickel plated
+Dimensions: The frame can be assembled in an upright position if your ceiling height is a minimum of 79½". Follow the assembly instructions in the package.
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Two people are needed to assemble this furniture. | Hinges are needed for this product. They are included in the price but are picked up separately.
+Care: Wipe clean with a damp cloth. Use only water or window-cleaner. | Wipe clean with a mild soapy solution.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/pax-tonstad-wardrobe-combination-white-off-white__1322067_pe941975_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

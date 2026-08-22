@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GRÅSALA chair, gray
+SKU: 10515471
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/grasala-chair-gray-10515471/
+Category: Upholstered chairs
+Description: A comfy chair packaged in a light, durable and modern design. Upholstered seat, soft edges and flexible backrest invite you to stay a while. Assembles in no time - but the strong construction will las...
+
+# @OFFER
+Price: 45
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100% polyester (min. 90% recycled), Leg frame/ Cross rail: Steel, Epoxy/polyester powder coating, Seat: Layer-glued wood veneer
+Features: Recommended for indoor use only. | May be completed with FIXA stick-on floor protectors to protect the underlying surface against wear.
+Care: Wipe clean with a mild soapy solution. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/grasala-chair-gray__1157549_pe887744_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

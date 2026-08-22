@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: SILVERHÖJDEN frame, gold, 24x35 ¾"
+SKU: 50550014
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/silverhoejden-frame-gold-50550014/
+Category: Picture & photo frames
+Description: Decorate with pictures you love. This frame has a matt metal-like finish and comes in many sizes, perfect for a picture wall. The plastic front protection is safe ― and does justice to the motif. Can ...
+
+# @OFFER
+Price: 39.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Mat: Paper, Frame: Fiberboard, Paper foil, Front protection: Polystyrene
+Features: This frame fits with a picture that has dimensions 19⅝x27½" if you use it with the mat, and it fits with a picture that has dimensions 24x35⅞" if you choose to use the frame without the mat. | Mat included. | The mat will not turn yellow since it is acid-free.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/silverhoejden-frame-gold__1179575_pe895999_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

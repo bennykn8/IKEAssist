@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SKUBB shoe box, dark gray, 8 ¾x13 ½x6 ¼"
+SKU: 40472979
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/skubb-shoe-box-dark-gray-40472979/
+Category: Shoe boxes & organizers
+Description: The mesh allows air to circulate around your shoes and makes it easy to see which pair you have inside. Use with other SKUBB products for complete control of your wardrobe. This product is made of pol...
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100% polyester (min. 90% recycled), Insert: Polypropylene
+Dimensions: Sized for PAX wardrobe frame depth 13 ¾".
+Care: Clean by vacuuming or use a lint roller. | Do not wash.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/skubb-shoe-box-dark-gray__0573441_pe667779_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KLIPPFISK sauté pan with lid, non-stick coating glass/wood gray-turquoise
+SKU: 70602502
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/klippfisk-saute-pan-with-lid-non-stick-coating-glass-wood-gray-turquoise-70602502/
+Category: Sauté pans
+Description: , 11" This modern sauté pan in grey-turquoise aluminum cast has two spouts and strainers, sol-gel non-stick coating and beautiful wooden handles. Perfect for all dishes – and for serving directly from...
+
+# @OFFER
+Price: 39.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Aluminum, Sol-gel ceramic non-stick coating, Silicone resin paint, Handle/ Knob: Solid rubberwood, Linseed oil, Disc/ Washer: Stainless steel
+Features: Use only wooden or plastic utensils without sharp edges. | This product has a non-stick coating where no PTFE or other PFAS have been allowed. | Wash this product before using it for the first time.
+Care: Handwash only. | Suitable for use on gas cooktop.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/klippfisk-saute-pan-with-lid-non-stick-coating-glass-wood-gray-turquoise__1419476_pe976980_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

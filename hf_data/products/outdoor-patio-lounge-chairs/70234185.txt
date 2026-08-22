@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SKARPÖ armchair, outdoor, white
+SKU: 70234185
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/skarpoe-armchair-outdoor-white-70234185/
+Category: Outdoor patio lounge chairs
+Description: With stackable SKARPÖ it’s easy to enjoy carefree life in the open air. The armchair is maintenance-free and fade-resistant – perfect for long days and evenings outdoors. Can be stacked, which helps y...
+
+# @OFFER
+Price: 79.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polypropylene plastic (min. 20% recycled)
+Features: Product is possible to recycle or use for energy recovery, if available in your community. | Only recommended for outdoor use.
+Care: The best way to extend the life of your outdoor furniture is by cleaning it regularly and not leaving it outdoors unprotected more than necessary. | Clean: Use a mild soapy solution. Wipe dry with a clean dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/skarpoe-armchair-outdoor-white__0729491_pe737010_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

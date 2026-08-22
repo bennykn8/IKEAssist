@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SMÅHAGEL 3-port USB charger, white
+SKU: 60539182
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/smahagel-3-port-usb-charger-white-60539182/
+Category: USB chargers, portable chargers & more
+Description: Charge up to 3 devices at the same time with this USB charger and spend less time looking for available chargers. This SMÅHAGEL supports your electrical needs and gives you power where you need it.
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polycarbonate plastic
+Features: 3 USB ports. | Total output of 3.4A, 17W. | Maximum output per USB port: 2.4A, 12W.
+Care: To clean the product, unplug from power source and wipe with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/smahagel-3-port-usb-charger-white__0646403_pe704169_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

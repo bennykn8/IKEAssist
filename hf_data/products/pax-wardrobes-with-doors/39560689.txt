@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: PAX / HASVIK wardrobe with sliding doors, dark gray/dark gray
+SKU: 39560689
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/pax-hasvik-wardrobe-with-sliding-doors-dark-gray-dark-gray-s39560689/
+Category: PAX wardrobes with doors
+Description: , 783/4x26x931/8" Keep it simple. Here's a basic solution to get you started, and space for more interiors if you want to upgrade. 10-year Limited Warranty. Read about the terms in the Limited Warrant...
+
+# @OFFER
+Price: 815
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fiberboard, Particleboard, Paper foil, Door frame: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), ABS plastic, Acrylic paint, Cover strip/ Rail: Aluminum, Anodized
+Dimensions: Min. ceiling height required: 94½".
+Features: Two people are needed to assemble this furniture. | Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Interior accessories  that help you organize inside your wardrobe are sold separately.
+Care: Wipe clean with a damp cloth. Use only water or window-cleaner. | Wipe clean with a mild soapy solution.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/pax-hasvik-wardrobe-with-sliding-doors-dark-gray-dark-gray__1119873_pe873634_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

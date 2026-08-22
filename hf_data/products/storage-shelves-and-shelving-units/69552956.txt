@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KALLAX shelving unit, with 4 drawers wave shaped/white
+SKU: 69552956
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kallax-shelving-unit-with-4-drawers-wave-shaped-white-s69552956/
+Category: Storage shelves & shelving units
+Description: , 301/8x301/8" Hang this KALLAX combo on the wall or place it on the floor. The handy inserts hide things that tend to clutter and makes your space feel calmer. The practical inserts hide things and h...
+
+# @OFFER
+Price: 84.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Fiberboard, Acrylic paint, Honeycomb structure paper filling (100% recycled), Plastic edging, Main parts: Fiberboard, Plastic foil, Drawer front: Fiberboard, Acrylic paint
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Complete with KALLAX underframe to give this shelving unit a new look while making it easier to vacuum underneath.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kallax-shelving-unit-with-4-drawers-wave-shaped-white__1246185_pe922034_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

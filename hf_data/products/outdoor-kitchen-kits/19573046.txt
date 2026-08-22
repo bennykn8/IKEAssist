@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: BÅTSKÄR outdoor ktchn w chrcl bbq+sink unit, dark gray
+SKU: 19573046
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/batskaer-outdoor-ktchn-w-chrcl-bbq-sink-unit-dark-gray-s19573046/
+Category: Outdoor kitchen kits
+Description: , 707/8x707/8" Create the outdoor kitchen of your dreams! BÅTSKÄR feels like an indoor kitchen outdoor with closed storage, soft-closing hinges and sleek design. Invite family and friends to enjoy gre...
+
+# @OFFER
+Price: 1462
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Grill/ Tray/ Bottom tray: Stainless steel, Leg frame/ Cabinet/ Bracket/ Slats/ Trim: Galvanized steel, Polyester powder coating, Body/ Hood: Steel, Enamel
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/batskaer-outdoor-ktchn-w-chrcl-bbq-sink-unit-dark-gray__1245788_pe921779_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

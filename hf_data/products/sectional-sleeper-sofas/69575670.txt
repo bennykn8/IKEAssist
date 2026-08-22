@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FINNALA crnr sleeper sofa, 5-seat w chaise, Grann/Bomstad black
+SKU: 69575670
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/finnala-crnr-sleeper-sofa-5-seat-w-chaise-grann-bomstad-black-s69575670/
+Category: Sectional sleeper sofas
+Description: FINNALA sofa series has sections that can be combined as you like into a customized solution for you and your home. This one has a sleeper sofa which is super easy to convert with a thick, cozy mattre...
+
+# @OFFER
+Price: 4499
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Smolder resistant lining/ Smolder resistant lining: Polyester wadding, Seat cushion: High-resilience polyurethane foam (cold foam) 2.2 lb/cu.ft., Back frame: Plywood, Fiberboard, Polyurethane foam 1.2 lb/cu.ft., Particleboard, Solid wood
+Features: The seat cushions, back cushions and inside, top, front of the armrests are covered with GRANN – a soft, smooth and strong grain leather with natural variations. Other surfaces have the coated fabric BOMSTAD.
+Care: Mattress cover: Machine wash warm (max 140°F/60°C) normal cycle. | Mattress cover: Do not tumble dry.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/finnala-crnr-sleeper-sofa-5-seat-w-chaise-grann-bomstad-black__0817698_pe776082_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

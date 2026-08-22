@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LINANÄS sofa, with chaise/Vissle beige
+SKU: 60512234
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/linanaes-sofa-with-chaise-vissle-beige-60512234/
+Category: Sofas with chaise
+Description: With its soft shapes, modern expressions and durable light cover, this sofa with a chaise is a perfect combination of function and comfort. Also comes without a chaise if you have less space.
+
+# @OFFER
+Price: 499
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Seat frame: 100% polyester (min. 70% recycled), 100 % polypropylene, Fiberboard, Felt liner, Plywood, Polyurethane foam 1.5 lb/cu.ft., Laminated veneer lumber, Back frame: Steel, Felt liner, Epoxy/polyester powder coating, Armrest: 100% polyester (min. 70% recycled), Plywood, Polyurethane foam 1.2 lb/cu.ft., 100% recycled solid cardboard, Fiberboard
+Features: Stationary cover.
+Care: Non-removable cover: Do not wash. | Non-removable cover: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/linanaes-sofa-with-chaise-vissle-beige__1013903_pe829455_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: AULI / MEHAMN pair of sliding doors, black mirror glass/double sided dark gray
+SKU: 79560569
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/auli-mehamn-pair-of-sliding-doors-black-mirror-glass-double-sided-dark-gray-s79560569/
+Category: PAX sliding doors
+Description: , 783/4x791/8" The doors of your wardrobe are always on display, so you should choose them with care. Choose hinged or sliding doors, then choose the style. Built to last through years of outfits.
+
+# @OFFER
+Price: 375
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Aluminium (min. 70% recycled), Anodized, Glass, Plastic foil, Fiberboard, Paper foil
+Dimensions: Min. ceiling height required: 80¾".
+Features: Two people are required to do the assembly. | Fits with PAX wardrobe system. | Sliding door fixtures and cover strips included.
+Care: Wipe clean with a damp cloth. Use only water or window-cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/auli-mehamn-pair-of-sliding-doors-black-mirror-glass-double-sided-dark-gray__1195459_pe902440_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

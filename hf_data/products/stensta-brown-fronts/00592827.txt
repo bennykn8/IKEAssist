@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: STENSTA drawer front, dark brown ash veneer
+SKU: 00592827
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/stensta-drawer-front-dark-brown-ash-veneer-00592827/
+Category: STENSTA brown fronts
+Description: , 36x10" STENSTA kitchen fronts in dark brown stained ash veneer have a vibrant grain pattern matched with solid wood handles stretching across the width of the front to enhance the beautiful linear e...
+
+# @OFFER
+Price: 71
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Drawer front: Particleboard, Frontside/ Backside/ Edge: Ash veneer, Stain, Clear acrylic lacquer, Handle: Solid beech, Stain, Clear acrylic lacquer
+Features: Fits SEKTION kitchen series. | May be completed with TOBO TV panel.
+Care: Wipe dry with a clean cloth. | Wipe clean with a microfiber cloth dampened in water, for more difficult stains use a mild cleaning detergent and rub carefully with circular motions.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/stensta-drawer-front-dark-brown-ash-veneer__1331335_pe945942_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

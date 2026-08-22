@@ -1,0 +1,30 @@
+# @PRODUCT
+Name: BÄSTISAR Pasta, organic, 1 lb
+SKU: 60436891
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/baestisar-pasta-organic-60436891/
+Category: Side dishes & sauces
+Description: We bet you haven’t tried pasta the Swedish way – in the shape of elks! Ten minutes in boiling water with a pinch of salt and you’ve got durum pasta al dente that goes with almost anything. The durum w...
+
+# @OFFER
+Price: 3.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/baestisar-pasta-organic__0810843_pe771440_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

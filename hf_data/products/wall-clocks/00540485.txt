@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TUNNIS wall clock, black, 11 ¾"
+SKU: 00540485
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tunnis-wall-clock-black-00540485/
+Category: Wall clocks
+Description: TUNNIS wall clock has cut-out numbers that make the wall paint or wallpaper behind it visible. An easy way to match colors, create a nice design effect and make the clock a natural part of the decor. ...
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Clock frame: Polystyrene plastic (min. 20% recycled), Hands: Aluminum, Paint
+Features: Batteries sold separately. IKEA recommends LADDA rechargeable batteries. This clock also works with alkaline batteries, 1xAA.
+Care: Clean with a duster. | The hands are set using the dial on the back of the clock mechanism. Moving the hands directly with your fingers can destroy the clock mechanism.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tunnis-wall-clock-black__1013118_pe829057_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

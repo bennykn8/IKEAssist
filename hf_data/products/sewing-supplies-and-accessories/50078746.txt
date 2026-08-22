@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SY Iron-on hemming tape
+SKU: 50078746
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sy-iron-on-hemming-tape-50078746/
+Category: Sewing supplies & accessories
+Description: . Makes it easy to hem fabrics without sewing. For heavier fabrics you can use two strips, side by side.
+
+# @OFFER
+Price: 3
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % nylon
+Features: Not suitable for fabrics with low iron temperature.
+Care: Machine wash warm (max 140°F/60°C) normal cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sy-iron-on-hemming-tape__0598142_pe677480_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

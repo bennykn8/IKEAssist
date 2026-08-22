@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: SILVERARV tablecloth, beige
+SKU: 80526579
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/silverarv-tablecloth-beige-80526579/
+Category: Tablecloths & runners
+Description: , 57x94" Use SILVERARV tablecloth to give your dining table a warm, welcoming and traditional touch. It’s woven with materials like cotton and jute to create a natural, vibrant texture and a calm expr...
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 80 % cotton, 20 % jute
+Care: Shrinkage maximum 4%. | Machine wash warm, normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/silverarv-tablecloth-beige__1062943_pe851135_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

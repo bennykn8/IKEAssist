@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: NÄMMARÖ table, 2 chairs and bench, outdoor, light brown stained/Frösön/Duvholmen stripe pattern
+SKU: 79544541
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/naemmaroe-table-2-chairs-and-bench-outdoor-light-brown-stained-froesoen-duvholmen-stripe-pattern-s79544541/
+Category: Outdoor dining sets
+Description: Create a comfy living room feel outdoors with NÄMMARÖ series. With everything you need for chill moments, long dinners and cheerful summer parties, no matter if you have a balcony, terrace or garden.
+
+# @OFFER
+Price: 419
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top/ Under frame/ Leg/ Top rail/ Bottom rail: Solid acacia wood, Acrylic stain, Support rail: Solid acacia wood, Acrylic stain, Solid acacia wood, Acrylic stain, Solid acacia wood, Acrylic stain
+Features: We recommend TOSTERÖ cover for furniture set (57⅛x57⅛x47¼"), sold separately. | Protect your outdoor furniture from rain, sun, dirt, dust, pollen and snow when not in use.
+Care: The best way to extend the life of your wooden outdoor furniture is by cleaning it regularly and not leaving it outdoors unprotected more than necessary. | Cushion: The best way to extend the life of your outdoor cushion is by cleaning it regularly and storing it in a cool, dry place indoors or in a storage bag when not in use.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/naemmaroe-table-2-chairs-and-bench-outdoor-light-brown-stained-froesoen-duvholmen-stripe-pattern__1239778_pe919094_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

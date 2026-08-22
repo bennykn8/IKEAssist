@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BERGSBO door with hinges, white
+SKU: 29904178
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/bergsbo-door-with-hinges-white-s29904178/
+Category: PAX doors with hinges
+Description: , 191/2x765/8" A classic hinged door with a modern, square design in wood-effect surface is just as warm and inviting as real wood. Combine with a PAX frame in the same finish for a coordinated look. ...
+
+# @OFFER
+Price: 75
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Door frame: Fiberboard, Plastic edging, Paper foil, Door panel: Fiberboard, Paper foil, Main parts: Steel, Nickel plated
+Features: Hinges are included in the combination but come in a separate package. | This door can only be used with the 79⅛" high PAX frame. | Note that the door is off-white and differs in color from the white finish of PAX frame.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/bergsbo-door-with-hinges-white__0132240_pe287008_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

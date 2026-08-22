@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TRÅDFRI starter kit, smart wireless dimmable/color and white spectrum, E
+SKU: 00547608
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tradfri-starter-kit-smart-wireless-dimmable-color-and-white-spectrum-00547608/
+Category: Smart light starter kits
+Description: 26 Movie night, hanging out with friends or making the children’s room even more fun to be in? With this pre-paired kit you can choose from many different colors to help create the right mood. You can...
+
+# @OFFER
+Price: 34.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Cover: Polycarbonate plastic, Back part/ Front part: ABS plastic, ABS plastic
+Features: With STYRBAR remote control you can dim your lighting without a wired installation. | The remote control has a maximum range of 32 feet when not blocked by any walls. | Includes: 1 STYRBAR remote control and 1 TRÅDFRI dimmable bulb (E27/806 lumens).
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tradfri-starter-kit-smart-wireless-dimmable-color-and-white-spectrum__0956736_pe804777_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

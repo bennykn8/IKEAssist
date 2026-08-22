@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: GRILLTIDER hamburger turner, stainless steel/beech
+SKU: 70592918
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/grilltider-hamburger-turner-stainless-steel-beech-70592918/
+Category: Outdoor kitchen & grilling accessories
+Description: , 12" Cook your burgers like the pros. This wide and short turner makes it easier to flip them on the cooking grate or in the frying pan – and get that perfect surface that everyone loves!
+
+# @OFFER
+Price: 5.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Spatula: Stainless steel, Handle: Solid beech, Clear lacquer
+Care: Handwash only.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/grilltider-hamburger-turner-stainless-steel-beech__1164653_pe890622_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

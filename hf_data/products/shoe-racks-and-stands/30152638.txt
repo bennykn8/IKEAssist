@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TJUSIG Shoe rack, white
+SKU: 30152638
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tjusig-shoe-rack-white-30152638/
+Category: Shoe racks & stands
+Description: , 31 1/8". TJUSIG series helps you get your jackets, hats, accessories and shoes organized. The clean, simple design made from sustainably sourced solid wood is easy to place and easy to like.
+
+# @OFFER
+Price: 29.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Rail/ Leg: Solid wood, Acrylic paint, Tube: Galvanized steel, Stainless steel
+Features: Holds approx. 6 pairs of shoes. | Connection hardware for stacking 2 shoe racks is included. | May be completed with FIXA self-adhesive floor protectors to protect the underlying surface against wear.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tjusig-shoe-rack-white__0710717_pe727738_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

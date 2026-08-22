@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GURSKEN wardrobe with 2 doors, light beige
+SKU: 60586809
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/gursken-wardrobe-with-2-doors-light-beige-60586809/
+Category: Narrow wardrobes
+Description: , 233/8x215/8x731/8" GURSKEN wardrobe has a simple, clean design – perfect for furnishing an apartment or guest room quickly and easily. A great match with the bedside table, chest of drawers and bed ...
+
+# @OFFER
+Price: 99.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Side panel/ Plinth/ Shelf/ Door: Particleboard, Paper foil, Back panel: Fiberboard
+Features: Combines with other furniture in the GURSKEN series. | Different wall materials require different types of fixing devices. Use fixing devices suitable for the walls in your home. | Interior accessories  that help you organize inside your wardrobe are sold separately.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/gursken-wardrobe-with-2-doors-light-beige__0969439_pe810782_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

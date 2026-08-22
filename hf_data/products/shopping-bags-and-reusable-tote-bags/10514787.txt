@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: KUNGSFORS mesh bag, green
+SKU: 10514787
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kungsfors-mesh-bag-green-10514787/
+Category: Shopping bags & reusable tote bags
+Description: Give plastic bags a miss and reduce your carbon footprint and save trees every time you go shopping. Put this green net bag in your purse or pocket instead and use it over and over again. Can be used ...
+
+# @OFFER
+Price: 4.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % cotton
+Care: Shrinkage maximum 10%. | Machine wash, warm, durable-press cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kungsfors-mesh-bag-green__0972093_pe811531_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

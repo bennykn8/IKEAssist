@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SNÖDROTTNING pillowcase, multicolor/stripe
+SKU: 40577858
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/snoedrottning-pillowcase-multicolor-stripe-40577858/
+Category: Pillow cases
+Description: , 26x26" SNÖDROTTNING pillowcase with multi-colored stripes is an easy addition to any bedroom giving it a playful and vibrant look. The natural cotton/viscose blend feels soft and comfy against the s...
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 54 % cotton, 46 % viscose/rayon
+Features: 152 thread count. | Thread count indicates the number of threads per square inch of fabric. The higher the thread count the more densely woven the fabric.
+Care: Machine wash warm (max 140°F/60°C) normal cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/snoedrottning-pillowcase-multicolor-stripe__1243841_pe920985_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

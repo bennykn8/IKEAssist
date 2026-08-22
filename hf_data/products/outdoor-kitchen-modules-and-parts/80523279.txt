@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GRILLSKÄR storage box, black stainless steel/outdoor
+SKU: 80523279
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/grillskaer-storage-box-black-stainless-steel-outdoor-80523279/
+Category: Outdoor kitchen modules & parts
+Description: , 337/8x24" Storage box and seating bench at the same time. Perfectly matches with GRILLSKÄR outdoor kitchen and also great on a balcony to maximize the space. Protects your things and helps you stay ...
+
+# @OFFER
+Price: 170
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel: Stainless steel, Main parts/ Leg/ Bracket: Galvanized steel, Polyester powder coating, Strip: EVA plastic
+Features: The surface of the storage box is made of stainless steel – a hygienic, hardwearing and durable material that is resistant to rust and easy to clean. | Only recommended for outdoor use.
+Care: Wipe dry with a clean cloth. | Always wipe surfaces of stainless steel lengthwise for an even, shiny finish.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/grillskaer-storage-box-black-stainless-steel-outdoor__1137880_pe879774_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

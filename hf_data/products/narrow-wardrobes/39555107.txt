@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HAUGA storage combination with drawers, gray
+SKU: 39555107
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hauga-storage-combination-with-drawers-gray-s39555107/
+Category: Narrow wardrobes
+Description: , 74x215/8x783/8" Use throughout the home, on its own or with other furniture in the HAUGA series. This wide combination has plenty of storage space – and the top is ideal for a lamp or for display.
+
+# @OFFER
+Price: 499.98
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Side panel/ Partition: Particleboard, Acrylic paint, Plastic edging, Top panel/ Back rail/ Bottom panel/ Shelf: Particleboard, Acrylic paint, Paper foil, Plastic edging, Back panel/ Door frame/ Door panel: Fiberboard, Acrylic paint
+Features: Different wall materials require different types of fixing devices. Use fixing devices suitable for the walls in your home. | The castors on the bottom drawer allow it to be pulled completely out from the chest of drawers. | The clothes rail holds about 20 shirts on hangers.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hauga-storage-combination-with-drawers-gray__1259828_pe926791_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

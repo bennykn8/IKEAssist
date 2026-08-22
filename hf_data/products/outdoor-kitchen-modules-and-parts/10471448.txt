@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: GRILLSKÄR door/side units/back, black/stainless steel outdoor
+SKU: 10471448
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/grillskaer-door-side-units-back-black-stainless-steel-outdoor-10471448/
+Category: Outdoor kitchen modules & parts
+Description: , 337/8x24" With these GRILLSKÄR doors and panels, your outdoor kitchen gets a clean look while protecting your utensils, oils and herbs from dust. Stylish, neat and ready for the next barbecue party....
+
+# @OFFER
+Price: 90
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Galvanized steel, Polyester powder coating
+Features: For outdoor use only.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/grillskaer-door-side-units-back-black-stainless-steel-outdoor__0924654_pe788611_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

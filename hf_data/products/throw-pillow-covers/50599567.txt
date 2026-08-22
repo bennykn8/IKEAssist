@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KUSTFYR cushion cover, ghost pattern white/black
+SKU: 50599567
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kustfyr-cushion-cover-ghost-pattern-white-black-50599567/
+Category: Throw pillow covers
+Description: , 20x20" Get your home ready for Halloween! This eerie cushion cover in pure cotton has 2 different patterns − a white ghost and a spooky cobweb. Choose a side based on your mood and machine wash it w...
+
+# @OFFER
+Price: 4.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % cotton
+Features: Fits inner cushions 19⅝x19⅝". | Inner cushion is sold separately.
+Care: Shrinkage maximum 4%. | Machine wash warm, normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kustfyr-cushion-cover-ghost-pattern-white-black__1406337_pe970839_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TVÄRHAND table lamp, black/bamboo
+SKU: 60518410
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tvaerhand-table-lamp-black-bamboo-60518410/
+Category: Table lamps
+Description: In simplicity lives beauty. A fitting expression for this table lamp in curved metal with a bamboo base as a nice contrast. Add a decorative light bulb that you like to make it complete.
+
+# @OFFER
+Price: 22
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Base: Bamboo, Clear polyurethane/acrylic lacquer, Tube/ Lampholder cup: Steel, Epoxy/polyester powder coating
+Features: Light bulb sold separately. IKEA recommends LUNNOM LED bulb E26 globe clear glass. | Special waste handling may be required. Please contact your local authorities for more information.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tvaerhand-table-lamp-black-bamboo__1013660_pe829291_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

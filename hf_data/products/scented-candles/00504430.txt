@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: JÄMNMOD scented candle in ceramic jar w lid, Sweet pea/purple, 60 hr
+SKU: 00504430
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/jaemnmod-scented-candle-in-ceramic-jar-w-lid-sweet-pea-purple-00504430/
+Category: Scented candles
+Description: What’s the scent of home for you? JÄMNMOD scented candle offers a summery feel of sweet peas, lilacs and morning dew. Welcome home to a generous and welcoming atmosphere inspired by lush gardens.
+
+# @OFFER
+Price: 22.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Candlecup/ Lid: Stoneware, Pigmented glaze, Candle: plant based wax, fragrance, Wick: Cotton and other cellulose based materials
+Care: Handwash only. | You easily remove hardened wax by washing the surface with warm water.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/jaemnmod-scented-candle-in-ceramic-jar-w-lid-sweet-pea-purple__1314723_pe940215_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

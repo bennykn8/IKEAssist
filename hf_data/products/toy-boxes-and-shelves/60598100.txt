@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BERGIG book display with storage, white
+SKU: 60598100
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/bergig-book-display-with-storage-white-60598100/
+Category: Toy boxes & shelves
+Description: This book display has two open shelves and a spacious drawer for books and toys. Everything in a small space and at a height that your child can reach on their own – making both play and cleaning easi...
+
+# @OFFER
+Price: 119.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fixed shelf/ Drawer side/ Drawer back: Particleboard, Paper foil, Front rail/ Partition/ Support rail: Fiberboard, Paper foil, Side panel/ Top panel/ Drawer front: Particleboard, Paper foil, Plastic edging
+Features: Tighten all hardware/screws securely before use. Check them regularly and retighten if necessary.
+Care: Wipe clean with a damp cloth. | Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/bergig-book-display-with-storage-white__1366423_pe957024_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

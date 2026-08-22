@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KOMPLEMENT Insert for jewelry, light gray
+SKU: 30404028
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/komplement-insert-for-jewelry-light-gray-30404028/
+Category: PAX Interior organizers
+Description: , 9 7/8x20 7/8x2". No more tangled jewelry – this insert keeps things in place and gives a great overview. Use it on its own or with other inserts in the series for a perfect fit in KOMPLEMENT pull-ou...
+
+# @OFFER
+Price: 30
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Rail: Fiberboard, Paper foil, Bottom panel: Fiberboard, Tinted lacquer, Use surface: 100% polyester (min. 70% recycled)
+Features: Fits KOMPLEMENT pull-out tray. | To fit KOMPLEMENT pull-out tray 19⅝x22⅞" you will need: 1 KOMPLEMENT insert 9⅞x22⅞" and 1 KOMPLEMENT insert 5¾x22⅞" or 1 KOMPLEMENT insert 15¾x22⅞". | To fit KOMPLEMENT pull-out tray 29½x22⅞" you will need: 2 KOMPLEMENT inserts 9⅞x22⅞" and 1 KOMPLEMENT insert 5¾x22⅞" or 1 KOMPLEMENT insert 9⅞x22⅞" and 1 KOMPLEMENT insert 15¾x22⅞".
+Care: Clean by vacuuming or use a lint roller.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/komplement-insert-for-jewelry-light-gray__0582360_pe670680_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

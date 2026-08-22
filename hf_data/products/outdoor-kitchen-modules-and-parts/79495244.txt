@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GRILLSKÄR kitchen island w back panel, stainless steel/outdoor
+SKU: 79495244
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/grillskaer-kitchen-island-w-back-panel-stainless-steel-outdoor-s79495244/
+Category: Outdoor kitchen modules & parts
+Description: , 337/8x24x691/4" Gather family and friends to cook together outdoors. With GRILLSKÄR you can easily create a complete outdoor kitchen with lots of cooking options. Fresh air, sunshine and great flavo...
+
+# @OFFER
+Price: 270
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel: Stainless steel, Leg/ Shelf: Galvanized steel, Polyester powder coating, Back panel/ Frame/ Rail: Galvanized steel, Polyester powder coating
+Features: Do not use a knife or other sharp objects directly on the shelf surface. Always use a chopping board. | 3 containers and 2 hooks are included
+Care: Wipe dry with a clean cloth. | Always wipe surfaces of stainless steel lengthwise for an even, shiny finish.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/grillskaer-kitchen-island-w-back-panel-stainless-steel-outdoor__1146316_pe882984_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

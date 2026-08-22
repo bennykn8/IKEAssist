@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BODBYN Contoured deco strip, gray
+SKU: 60221065
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/bodbyn-contoured-deco-strip-gray-60221065/
+Category: SEKTION Cover panels & deco strips
+Description: . Can be used as a decorative strip to hide the lighting units, cords and outlets under wall cabinets or as a molding on top of wall cabinets and high cabinets. You can enhance the country look of you...
+
+# @OFFER
+Price: 69
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fiberboard, Plastic foil, Acrylic paint
+Features: Fittings and screws included. | Fits METOD kitchen series.
+Care: Wipe dry with a clean cloth. | Wipe clean with a microfiber cloth dampened in water, for more difficult stains use a mild cleaning detergent and rub carefully with circular motions.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/bodbyn-contoured-deco-strip-gray__0632901_pe695652_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

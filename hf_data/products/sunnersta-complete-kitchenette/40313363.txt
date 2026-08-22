@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SUNNERSTA Mini-kitchen, Width: 44 1/8" Height: 54 3/4". Learn more!
+SKU: 40313363
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sunnersta-kitchenette-40313363/
+Category: SUNNERSTA complete kitchenette
+Description: Decor your home with SUNNERSTA Mini-kitchen. A functional mini-kitchen series for the chef with limited space and budget – at home, at the office, or in the guest house. Easy to assemble, or disassemb...
+
+# @OFFER
+Price: 129
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame/ Shelf: Steel, Polyester powder coating, Work top: Stainless steel, Hook: ABS plastic
+Features: To be completed with LILLVIKEN strainer. | May be used with SUNNERSTA kitchen accessories. | May be completed with sink accessories for effective use of space on the sink.
+Care: Wipe dry with a clean cloth. | Always wipe and rub the sink along the steel grain when cleaning.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sunnersta-kitchenette__0734294_pe739414_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

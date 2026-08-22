@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TROFAST Frame, white
+SKU: 30171123
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/trofast-frame-white-30171123/
+Category: TROFAST frames & shelves
+Description: , 18 1/8x11 3/4x57 1/8". A playful and sturdy storage series for storing and organizing toys. You can create your own storage solution to suit your space and your child’s needs by freely combining dif...
+
+# @OFFER
+Price: 69.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Particleboard, Paper foil, Plastic edging, Drawer rail: Polypropylene
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Guide rails included. | To be complemented with storage boxes and/or shelves in the TROFAST series.
+Care: Wipe clean with a damp cloth. | Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/trofast-frame-white__0642656_pe701338_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

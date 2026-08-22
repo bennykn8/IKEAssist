@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: FABLER BJÖRN soft toy, beige, 8 ¼"
+SKU: 80141398
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/fabler-bjoern-soft-toy-beige-80141398/
+Category: Soft toys
+Description: This teddy bear has a big heart and is good at hugging, comforting and listening – but is also ready for play and mischief when you are. What are you going to do today? Distinct contrasts help to deve...
+
+# @OFFER
+Price: 1.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100 %polyester, Filling: 100% polyester - hollow fiber
+Care: Machine wash, warm, durable-press cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/fabler-bjoern-soft-toy-beige__0710165_pe727396_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

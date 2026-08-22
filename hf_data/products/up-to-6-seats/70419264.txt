@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SKOGSTA dining table, acacia/black
+SKU: 70419264
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/skogsta-dining-table-acacia-black-70419264/
+Category: Up to 6 seats
+Description: , 921/2x393/8" Every table is unique, with varying grain pattern and natural color shifts that are part of the charm of wood. Designed for a perfect match with SKOGSTA chairs. NORDVIKEN and BERGMUND c...
+
+# @OFFER
+Price: 549
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Solid acacia wood, Clear acrylic lacquer, Clear lacquer, Leg/ Rail: Solid acacia wood, Acrylic paint
+Features: Recommended for indoor use only. | Seats 6-8. | May be completed with FIXA self-adhesive floor protectors to protect the underlying surface against wear.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/skogsta-dining-table-acacia-black__0546603_pe656255_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

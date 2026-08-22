@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LIGUSTER napkin, patterned pale lilac
+SKU: 30568109
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/liguster-napkin-patterned-pale-lilac-30568109/
+Category: Napkins
+Description: , 16x16" Add an extra sparkle to life's special occasions. LIGUSTER napkins and tablecloth have a beautiful shimmer that reflects light and a pattern that only gets more beautiful with each wash. Time...
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 90 % lyocell, 10 % viscose/rayon
+Features: Machine washable at 104°F.
+Care: Shrinkage maximum 4%. | Machine wash, warm, durable-press cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/liguster-napkin-patterned-pale-lilac__1196201_pe902822_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

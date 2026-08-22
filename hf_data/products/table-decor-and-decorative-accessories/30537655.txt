@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FÄLTLÖNN decorative house, set of 3, solid wood/multicolor
+SKU: 30537655
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/faeltloenn-decorative-house-set-of-3-solid-wood-multicolor-30537655/
+Category: Table decor & decorative accessories
+Description: FÄLTLÖNN decorative house, designed by Inma Bermudez, are inspired by children's wooden building blocks. The combination of clean wooden surfaces and vivid colors brightens up the room – and your mood...
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Solid wood, Clear lacquer
+Dimensions: Includes: 1 ground (length 2¾", width 2⅜", height 2"), 1 middle (length 2¾", width 2⅜", height 1⅝") and 1 roof (length 2¾", width 2⅜", height 2⅜").
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/faeltloenn-decorative-house-set-of-3-solid-wood-multicolor__1115498_pe872265_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

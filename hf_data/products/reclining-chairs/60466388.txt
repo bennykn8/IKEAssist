@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: GISTAD recliner, Idekulla dark red
+SKU: 60466388
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/gistad-recliner-idekulla-dark-red-60466388/
+Category: Reclining chairs
+Description: Pamper yourself with a moment of comfy me-time. With this neat recliner you can choose if you want to sit upright, lean back or lie down for a quick nap – and put two together for some we-time!
+
+# @OFFER
+Price: 369
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Particleboard, Plywood, Solid pine, Polyurethane foam 1.2 lb/cu.ft., Polyurethane foam 2.0 lb/cu.ft., Polyurethane foam 1.5 lb/cu.ft., Felt liner, Fiberboard, Seat cushion: Polyurethane foam 2.0 lb/cu.ft., High-resilience polyurethane foam (cold foam) 2.2 lb/cu.ft., Mechanism: Steel, Polypropylene, Paint
+Care: Vacuum clean. | Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/gistad-recliner-idekulla-dark-red__0789931_pe764213_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

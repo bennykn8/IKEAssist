@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: RUNMARÖ cabinet with doors, dark gray indoor/outdoor
+SKU: 20551312
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/runmaroe-cabinet-with-doors-dark-gray-indoor-outdoor-20551312/
+Category: Outdoor storage: shelves, cabinets & boxes
+Description: , 311/2x173/8x715/8" RUNMARÖ cabinet can be used both indoors and outdoors, since it’s made of easy-care and durable plastic. Create your own storage solution and feel free to combine with the shelf u...
+
+# @OFFER
+Price: 189.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polypropylene
+Features: Suitable for indoor and outdoor use. | Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home.
+Care: Wipe clean with a soft cloth dampened with water and a mild dish detergent or soap, if necessary. | We recommend placing the product under a roof to provide some weather protection.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/runmaroe-cabinet-with-doors-dark-gray-indoor-outdoor__1171308_pe893031_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

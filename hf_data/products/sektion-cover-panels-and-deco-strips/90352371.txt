@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LERHYTTAN deco strip, contoured edge, light gray
+SKU: 90352371
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lerhyttan-deco-strip-contoured-edge-light-gray-90352371/
+Category: SEKTION Cover panels & deco strips
+Description: , 87" The solid wood frame with bevelled edges and inset veneer panel give LERHYTTAN kitchen fronts a classic, traditional look. The light grey finish creates a cozy kitchen with timeless feel. Can be...
+
+# @OFFER
+Price: 77
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fiberboard, Birch veneer, Tinted clear acrylic lacquer, Clear acrylic lacquer
+Features: Fittings and screws included. | Fits METOD kitchen series.
+Care: Wipe dry with a clean cloth. | Wipe clean with a microfiber cloth dampened in water, for more difficult stains use a mild cleaning detergent and rub carefully with circular motions.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lerhyttan-deco-strip-contoured-edge-light-gray__0633062_pe695715_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

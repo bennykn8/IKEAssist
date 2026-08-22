@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HÖGÖN umbrella, bright orange
+SKU: 50581237
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hoegoen-umbrella-bright-orange-50581237/
+Category: Outdoor umbrellas & bases
+Description: , 1061/4" This umbrella can make your summer days better. It’s easy to open and close, the canopy’s color lasts longer in the sun and can be removed and washed. And it provides good protection against...
+
+# @OFFER
+Price: 59.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Pole: Aluminum, Polyester powder coating, Ribs: Steel, Polyester powder coating, Plastic parts: Polypropylene
+Features: Umbrella base is sold separately. | Fits into IGGÖN umbrella base with sandbags. | May be completed with TOSTERÖ umbrella cover (63").
+Care: Frame: Wipe clean with a mild soapy solution. | Umbrella fabric: Machine wash warm, normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hoegoen-umbrella-bright-orange__1374253_pe960099_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

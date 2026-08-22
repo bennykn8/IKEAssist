@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TONSTAD door, oak/veneer glass
+SKU: 50552503
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tonstad-door-oak-veneer-glass-50552503/
+Category: PAX doors without hinges
+Description: , 195/8x901/8" Use this door in beautifully brushed veneer to match your PAX wardrobe with TONSTAD chest of drawers, bed frame and bedside table. A great way to create a high-quality uniform style thr...
+
+# @OFFER
+Price: 180
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Door frame: Fiberboard, Oak veneer, Oak veneer, Clear acrylic lacquer, Plastic edging, Rail: Fiberboard, Oak veneer, Oak veneer, Clear acrylic lacquer, Door panel: Tempered glass
+Features: To be completed with KOMPLEMENT hinges 4-pack. | Fits with PAX wardrobe system. | This door can only be used with the 92⅞" high PAX frame.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tonstad-door-oak-veneer-glass__1363537_pe955538_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

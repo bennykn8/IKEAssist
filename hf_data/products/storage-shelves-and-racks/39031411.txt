@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: HEJNE shelf unit, softwood
+SKU: 39031411
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hejne-shelf-unit-softwood-s39031411/
+Category: Storage shelves & racks
+Description: , 303/4x121/4x673/8" HEJNE storage system is sturdy and strong enough for even the heaviest loads in your garage, basement or attic. Keep the solid wood untreated or stain, paint or wax as you like, t...
+
+# @OFFER
+Price: 55
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Solid pine, Solid spruce, Steel, Galvanized
+Care: Wipe clean with a dry cloth. | Stains can be removed by using an eraser or fine sandpaper.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hejne-shelf-unit-softwood__0626065_pe692567_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

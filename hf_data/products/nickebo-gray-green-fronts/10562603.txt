@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: NICKEBO drawer front, matte gray-green
+SKU: 10562603
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/nickebo-drawer-front-matte-gray-green-10562603/
+Category: NICKEBO gray-green fronts
+Description: , 24x15" NICKEBO fronts in timeless grey-green have clean straight lines and a smooth, matt surface made of durable foil. The simple design feels modern and harmonious and is easy to personalize.
+
+# @OFFER
+Price: 55
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Particleboard, Frontside: Plastic foil (min. 70% recycled), Backside: Plastic foil
+Features: Fits SEKTION kitchen series. | May be completed with NICKEBO cover panels, plinth and decorative strip in grey-green. | Knobs and handles are sold separately.
+Care: Wipe dry with a clean cloth. | Wipe clean with a microfiber cloth dampened in water, for more difficult stains use a mild cleaning detergent and rub carefully with circular motions.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/nickebo-drawer-front-matte-gray-green__1299539_pe936628_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

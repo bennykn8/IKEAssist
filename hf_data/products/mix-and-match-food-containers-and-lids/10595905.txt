@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: IKEA 365+ food storage basket, metal/white
+SKU: 10595905
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ikea-365-food-storage-basket-metal-white-10595905/
+Category: Mix & match food containers & lids
+Description: , 51/2x51/2x37/8" Room temperature and circulating air enhance the taste and extend the life of many foods. IKEA 365+ food storage basket is both nice-looking and practical since you can see what you ...
+
+# @OFFER
+Price: 4.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Polyester powder coating
+Features: Fits with the square IKEA 365+ bamboo lid, 5⅞x5⅞". | Recommended for indoor use only.
+Care: Do not put the basket in the dishwasher, under running water or submerge it in water. | Wipe clean with a soft cloth dampened with water and a mild dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ikea-365-food-storage-basket-metal-white__1383812_pe962679_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GATUSEKTION kitchen mat, gray/check
+SKU: 60610786
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/gatusektion-kitchen-mat-gray-check-60610786/
+Category: Runners & small rugs
+Description: , 1'6"x5'11" The grey and white stripes of this kitchen mat create a decorative check pattern that brightens up your floor and goes with most decors. Comfortable to walk on and easy to machine wash. E...
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Use surface/ Back fabric: 100% polyester (min. 90% recycled), Backing: 100 % Synthetic rubber
+Features: Available in two sizes.
+Care: Machine wash, warm, durable-press cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/gatusektion-kitchen-mat-gray-check__1398189_pe967905_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

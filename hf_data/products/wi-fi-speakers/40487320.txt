@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SYMFONISK picture frame w Sonos Wi-Fi speaker, black/smart
+SKU: 40487320
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/symfonisk-picture-frame-w-sonos-wi-fi-speaker-black-smart-40487320/
+Category: Wi-Fi speakers
+Description: WiFi speaker and a picture frame in one makes the sound blend into the home. Choose from various interchangeable fronts, hang SYMFONISK on the wall or put it on the floor. Then enjoy fantastic sound –...
+
+# @OFFER
+Price: 299.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Base/ Front frame/ Button: ABS plastic, Foot: Silicone rubber
+Features: Download Sonos app via Google Play or App Store, depending on which mobile device you have. | Works with the Sonos Home Sound System. | The speaker's features will be enhanced through continuous software updates.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/symfonisk-picture-frame-w-sonos-wi-fi-speaker-black-smart__0985447_pe816631_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

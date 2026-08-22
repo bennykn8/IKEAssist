@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: TÄRNÖ table+2 chairs, outdoor, black/light brown stained
+SKU: 69898415
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/taernoe-table-2-chairs-outdoor-black-light-brown-stained-s69898415/
+Category: Outdoor bistro sets
+Description: Foldable, durable and lovable with its mix of natural acacia hardwood and powder-coated steel. A perfect size for the balcony or in a cozy corner of the deck. The chair and the table fold flat and tak...
+
+# @OFFER
+Price: 79
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Seat/ Back: Solid acacia wood, Acrylic stain, Leg/ Seat rail/ Support: Steel, Polyester powder coating, Feet: Polypropylene
+Dimensions: Table (length 21⅝", width 21", height 27½"). Chair (width 15", depth 15¾", height 31", seat width 15", seat depth 11", seat height 17¾").
+Features: Only recommended for outdoor use. | Possible to separate for recycling or energy recovery if available in your community. | Cushions are sold separately.
+Care: Clean: Use a mild soapy solution. Wipe dry with a clean dry cloth. | Maintenance: To prevent the surface from drying out and cracking, and moisture from penetrating into the wood, we recommend you to re-stain the furniture on a regular basis, for example once or twice a year.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/taernoe-table-2-chairs-outdoor-black-light-brown-stained__0736028_pe740355_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

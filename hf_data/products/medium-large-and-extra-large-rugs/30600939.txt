@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VÄNDPLATS rug, low pile, white/black dotted
+SKU: 30600939
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vaendplats-rug-low-pile-white-black-dotted-30600939/
+Category: Medium, large and extra-large rugs
+Description: , 4'4"x6'5" This playful, black dotted rug is designed by Ingela Håkansson Lamm, co-founder of the innovative Swedish design collective, Group of Ten (10-gruppen). Young at heart and characteristicall...
+
+# @OFFER
+Price: 59.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Use surface: 100 % polypropylene, Backing: 100 % Synthetic rubber
+Features: You will need 1 STOPP FILT rug underlay with anti-slip (5'5"x7'9") for this rug. Trim if necessary. | To ensure you are satisfied with the size of the rug once you get it home, we recommend that you measure the intended floor space for your rug before you buy it. | This rug fits with a 2-seat sofa, but can also fit other size sofas depending on how you place it.
+Care: Airing and vacuuming will help to eliminate the smell that the rug can have when it is new. | Do not wash.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vaendplats-rug-low-pile-white-black-dotted__1370843_pe958911_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

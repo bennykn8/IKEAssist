@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VARDAGEN pitcher, patterned/dark gray-green, 68 oz
+SKU: 20576652
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vardagen-pitcher-patterned-dark-gray-green-20576652/
+Category: Pitchers & carafes
+Description: Do you long for dinners at grandma’s or just love old-fashioned beautiful glass? Then this jug is made for you. Timeless, elegant, nice to look at and perfect to use for a traditional table setting. W...
+
+# @OFFER
+Price: 22.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Glass
+Features: Wash this product before using it for the first time.
+Care: Dishwasher-safe up to 158ºF (70°C). | Only for drinks with a max. temperature of 122°F.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vardagen-pitcher-patterned-dark-gray-green__1257671_pe925951_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

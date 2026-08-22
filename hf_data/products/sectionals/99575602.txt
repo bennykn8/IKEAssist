@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FINNALA corner sectional, 5-seat w chaise, Grann/Bomstad black
+SKU: 99575602
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/finnala-corner-sectional-5-seat-w-chaise-grann-bomstad-black-s99575602/
+Category: Sectionals
+Description: FINNALA sectional sofa can grow and change with a home and the family. Choose how many seats, the look and function to create a sofa that suits you. A clean design and long-lasting comfort are include...
+
+# @OFFER
+Price: 3999
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Coated fabric parts: 100 % polyurethane, 75 % polyester, 25 % cotton, Smolder resistant lining/ Smolder resistant lining: Polyester wadding, Leather: Dyed through top-grain leather with a treated, embossed and pigmented surface
+Features: The seat cushions, back cushions and inside, top, front of the armrests are covered with GRANN – a soft, smooth and strong grain leather with natural variations. Other surfaces have the coated fabric BOMSTAD.
+Care: Non-removable cover: Clean with a dust cloth or vacuum lightly using the soft brush attachment. | Non-removable cover: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/finnala-corner-sectional-5-seat-w-chaise-grann-bomstad-black__0817692_pe776083_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

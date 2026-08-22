@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TRÅDFRI Driver for wireless control, gray, 10 W
+SKU: 10356189
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tradfri-driver-for-wireless-control-smart-gray-10356189/
+Category: Remote light switches
+Description: . Now it's really easy for anyone to use smart lighting. This driver allows you to connect your integrated lighting from IKEA – turn on, turn off and dim so you always have the right light and mood at...
+
+# @OFFER
+Price: 32
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polycarbonate plastic
+Features: To be completed with ANSLUTA power cord, sold separately. | This product is part of our smart home range. Connect it, along with other smart products, to DIRIGERA hub and IKEA Home smart app for more features and functions. | Power consumption standby/off mode: <0.3W.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tradfri-driver-for-wireless-control-smart-gray__0625251_pe692159_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

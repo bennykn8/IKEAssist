@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: BROFJÄRDEN 3-piece bathroom set, gray
+SKU: 50564884
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/brofjaerden-3-piece-bathroom-set-gray-50564884/
+Category: Soap dispensers & soap dishes
+Description: BROFJÄRDEN bathroom accessories with shiny chrome-plated details reminisce of elegant, lasting designs of the past. This bathroom set of 3 is ideal for toothbrushes, soap and smaller items. The soap d...
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Soap dispenser: PET plastic, Pump: Stainless steel, Glass, Polyethylene, Polypropylene, Cup/ Tray: PET plastic (min. 50% recycled)
+Dimensions: Comprises: 1 soap dispenser, 11.15 oz (dia. 2¾ in, height 6¾ in), 1 toothbrush holder (dia. 2¾ in, height 5⅛) and 1 tray (length 7⅛ in, depth 3⅞ in).
+Features: Combines with other products in BROFJÄRDEN series.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/brofjaerden-3-piece-bathroom-set-gray__1329631_pe945205_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

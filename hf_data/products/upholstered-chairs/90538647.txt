@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ÖSTANÖ chair, red-brown Remmarn/red-brown
+SKU: 90538647
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/oestanoe-chair-red-brown-remmarn-red-brown-90538647/
+Category: Upholstered chairs
+Description: Comfy and sturdy chair with a metal frame, a soft seat and a nice backrest with a curved shape. All in a timeless, neat design with a modern twist that takes up little room – and at a price that surpr...
+
+# @OFFER
+Price: 25
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Base fabric: 100 % polyester (100% recycled), Frame: Steel, Epoxy/polyester powder coating, Seat: Layer-glued wood veneer, Polyurethane foam 2.2 lb/cu.ft., Non-woven polypropylene
+Features: Possible to separate for recycling or energy recovery if available in your community. | A maximum of 4 chairs can be stacked together.
+Care: Wipe clean with a mild soapy solution. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/oestanoe-chair-red-brown-remmarn-red-brown__1120081_pe873713_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

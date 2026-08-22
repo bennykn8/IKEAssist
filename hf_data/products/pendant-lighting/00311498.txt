@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: IKEA PS 2014 Pendant lamp, white, silver color
+SKU: 00311498
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ikea-ps-2014-pendant-lamp-white-silver-color-00311498/
+Category: Pendant lighting
+Description: , 14". Inspired by science fiction movies, IKEA PS 2014 pendant lamp is a winner of the international design competition Red Dot Award. Change its shape and intensity of light with a simple pull of th...
+
+# @OFFER
+Price: 79.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Blade: ABS plastic, Metallized, Paint, Arm: Reinforced polyamide, Metallized, Paint, Ceiling cup: Polypropylene
+Features: Light bulb sold separately. IKEA recommends LED bulb E26 globe clear. | Due to the built-in overheating protection, this lamp can only be used with an energy efficient light bulb, max. 13 watts. | Use a clear light bulb if you have a lamp shade or lamp with a perforated or cut-out pattern or other airy, open design and want the pattern to cast effects on the wall and ceiling.
+Care: Dust the lamp with a dust cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ikea-ps-2014-pendant-lamp-white-silver-color__0607424_pe682974_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TOFTLUND rug, gray
+SKU: 30480357
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/toftlund-rug-gray-30480357/
+Category: Sheepskin, cowhide & faux fur rugs
+Description: , 1'10"x2'9" Super soft, warm and cozy whether you have it as a floor piece, drape it over your armchair or want to add comfort to your bench. It looks and feels like a sheepskin but it’s made from re...
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Use surface: 100% polyester (min. 80% recycled), Backing: 100 % polyester (100% recycled)
+Features: Use one STOPP anti-slip underlay if you use it on the floor. Trim if necessary.
+Care: Machine wash warm, normal cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/toftlund-rug-gray__0834498_pe778811_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

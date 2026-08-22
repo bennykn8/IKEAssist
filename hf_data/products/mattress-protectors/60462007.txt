@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: ÄNGSKORN mattress protector, King
+SKU: 60462007
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/aengskorn-mattress-protector-60462007/
+Category: Mattress protectors
+Description: A quilted lyocell/cotton blend mattress protector with lyocell/polyester filling that adds extra comfort and prolongs the life of your mattress. The lyocell fibers absorb moisture keeping you comfy an...
+
+# @OFFER
+Price: 44.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top fabric: 55 % lyocell, 45 % cotton, Back fabric: 100 % polypropylene, Filling material: 50% lyocell / 50% polyester (min. 70% recycled)
+Dimensions: Fits mattresses with a max. height of 16½", since the mattress protector has elastic ribbon in each corner.
+Features: 236 thread count. | Thread count indicates the number of threads per square inch of fabric. The higher the thread count the more densely woven the fabric. | This product is flammability tested and complies with standard EN ISO 12952-1.
+Care: Machine wash warm (max 140°F/60°C) normal cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/aengskorn-mattress-protector__0789895_pe764189_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

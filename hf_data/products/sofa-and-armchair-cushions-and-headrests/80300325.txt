@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: DJUPVIK cushion, Blekinge white
+SKU: 80300325
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/djupvik-cushion-blekinge-white-80300325/
+Category: Sofa & armchair cushions & headrests
+Description: , 21x21" DJUPVIK cushion makes your armchair even more comfortable. Since the cushion's cover is durable, removable and can be machine washed, you can calmly enjoy a cup of coffee while sitting in the...
+
+# @OFFER
+Price: 30
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Comfort filling: 70% cut polyurethane foam/ 30% polyester fibers, Smolder resistant lining: Polyester wadding, Cord: 100 % polyester
+Care: Cushion cover: Machine wash warm (max 140°F/60°C) normal cycle. | Cushion cover: To be washed separately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/djupvik-cushion-blekinge-white__0731037_pe737941_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

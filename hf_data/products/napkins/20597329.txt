@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: PILLERSTARR paper napkin, patterned/beige blue, 12 ½x6 ¼"
+SKU: 20597329
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/pillerstarr-paper-napkin-patterned-beige-blue-20597329/
+Category: Napkins
+Description: Character and convenience - get both with one product. Coordinate with more tableware from the PILLERSTARR series to set the table for brighter days. Two-ply paper with high absorbency means less mate...
+
+# @OFFER
+Price: 1.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Napkin: Paper (min. 95% recycled), Box: Paperboard (100% recycled)
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/pillerstarr-paper-napkin-patterned-beige-blue__1387488_pe964260_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

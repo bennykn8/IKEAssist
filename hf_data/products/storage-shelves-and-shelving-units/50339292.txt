@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: FJÄLLBO Shelf unit, black
+SKU: 50339292
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/fjaellbo-shelf-unit-black-50339292/
+Category: Storage shelves & shelving units
+Description: , 39 3/8x37 3/8". This rustic metal and solid wood shelf has an open back, so it’s easy to arrange cords and access power outlets. A simple unit can be enough storage for a limited space or the founda...
+
+# @OFFER
+Price: 129
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame/ Side panel/ Door/ Bottom panel: Steel, Epoxy/polyester powder coating, Top panel/ Shelf: Solid pine, Stain, Clear acrylic lacquer
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/fjaellbo-shelf-unit-black__1071961_pe855055_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

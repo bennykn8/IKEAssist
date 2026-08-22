@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GRILLSKÄR gas grill with side table, stainless steel/outdoor
+SKU: 79504620
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/grillskaer-gas-grill-with-side-table-stainless-steel-outdoor-s79504620/
+Category: Outdoor BBQ grills
+Description: , 311/8/401/2x24" Gather family and friends to cook together outdoors. With GRILLSKÄR you can easily create a complete outdoor kitchen with lots of cooking options. Fresh air, sunshine and great flavo...
+
+# @OFFER
+Price: 554
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Body: Steel, Enamel, Hood/ Hinge/ Handle/ Top panel/ Tray/ Burner/ Bar: Stainless steel, End cap/ Cup: Steel, Polyester powder coating
+Features: For outdoor use only. | Do not use a knife or other sharp objects directly on the shelf surface. Always use a chopping board. | Read the included manual carefully before you start to use the barbecue.
+Care: Wipe dry with a clean cloth. | Always wipe surfaces of stainless steel lengthwise for an even, shiny finish.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/grillskaer-gas-grill-with-side-table-stainless-steel-outdoor__1213259_pe911021_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

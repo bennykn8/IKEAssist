@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SÄCKKÄRRA shopping bag, white/green, 7x17 ¾x17 ¾"/10 gallon
+SKU: 30588758
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/saeckkaerra-shopping-bag-white-green-30588758/
+Category: Shopping bags & reusable tote bags
+Description: You can carry the bag in two ways – by the handles or on your back with the long straps over your shoulders. Easy to keep clean – just rinse and dry. Takes up little space to store as it folds flat.
+
+# @OFFER
+Price: 1.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Polypropylene (min. 60% recycled), Handle: Polypropylene (min. 90% recycled)
+Features: Product is possible to recycle or use for energy recovery, if available in your community.
+Care: Do not wash. | Do not tumble dry.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/saeckkaerra-shopping-bag-white-green__1372999_pe959817_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

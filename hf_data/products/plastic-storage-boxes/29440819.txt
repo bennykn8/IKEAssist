@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SAMLA box with lid, clear, 31x22 ½x17"/34 gallon
+SKU: 29440819
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/samla-box-with-lid-clear-s29440819/
+Category: Plastic storage boxes
+Description: This big box is perfect for storing heavy, bulky stuff. It’s on wheels so there’s no need to carry. The transparent plastic reveals the contents inside so you can easily find what you are looking for....
+
+# @OFFER
+Price: 27.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main part: Polypropylene, Wheel: Acetal plastic, Polypropylene
+Features: Recommended for indoor use only. | Product is possible to recycle or use for energy recovery, if available in your community. | Not approved for food contact.
+Care: Wipe clean with a soft cloth dampened with water and a mild dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/samla-box-with-lid-clear__0711819_pe728498_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

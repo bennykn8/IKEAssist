@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ÖNNESTAD cushion set armchair, beige/Katorp
+SKU: 30572093
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/oennestad-cushion-set-armchair-beige-katorp-30572093/
+Category: Sofa & armchair cushions & headrests
+Description: This cushion set was part of the GOGO series that was launched in the 1972 catalogue. Named ÖNNESTAD in the Nytillverkad collection, the designer duo is the same: Charlotte Rude and Hjördis Olsson-Une...
+
+# @OFFER
+Price: 40
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric/ Outer fabric: 80 % cotton, 20 % linen, Piping: 100 % cotton, Inner fabric: 100 % polypropylene
+Features: Shake and fluff the cushion a couple of times to quickly return it to its proper shape.
+Care: Cushion: Do not wash. | Cushion: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/oennestad-cushion-set-armchair-beige-katorp__1280196_pe931686_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: DVÄRGHARE soft toy, bunny/beige, 8 ¼"
+SKU: 60597068
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/dvaerghare-soft-toy-bunny-beige-60597068/
+Category: Soft toys
+Description: Cute, soft and perfectly-sized for a cuddle. This little bunny in neutral colors is the ideal buddy for little ones – and look at those long ears! They’re easy and safe for babies to grab and hold on ...
+
+# @OFFER
+Price: 4.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100% polyester (min. 90% recycled), Filling: 100 % polyester - hollow fiber (100% recycled)
+Features: We know how sensitive a baby's skin is. That's why we’ve chosen this toy’s soft materials with care. | Pairs up perfectly with the pattern on RÖDHAKE duvet cover and pillowcase for cot.
+Care: Machine wash warm, normal cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/dvaerghare-soft-toy-bunny-beige__1388010_pe964452_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

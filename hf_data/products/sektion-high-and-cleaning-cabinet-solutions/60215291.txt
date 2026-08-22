@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: UTRUSTA Corner base cabinet carousel
+SKU: 60215291
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/utrusta-corner-base-cabinet-carousel-60215291/
+Category: SEKTION High & cleaning cabinet solutions
+Description: . Tired of having to crawl halfway into corner base cabinets to reach your pots? With this base cabinet corner carousel you can easily see and reach everything you need – saving both time and your bac...
+
+# @OFFER
+Price: 107
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Shelf: Particleboard, Melamine foil, Plastic edging, Guard rail/ Tube: Steel, Galvanized, Drawer mat: Polyethylene, Thermoplastic elastomer
+Features: Fits in a corner base cabinet with left-hand or right-hand door.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/utrusta-corner-base-cabinet-carousel__0625754_pe692443_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

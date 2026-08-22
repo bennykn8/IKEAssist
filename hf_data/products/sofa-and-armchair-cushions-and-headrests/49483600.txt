@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: JÄTTEBO headrest cushion, Samsala dark yellow-green
+SKU: 49483600
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/jaettebo-headrest-cushion-samsala-dark-yellow-green-s49483600/
+Category: Sofa & armchair cushions & headrests
+Description: Enjoy movie nights and comfy socializing with friends in JÄTTEBO modular sofa. Combine this versatile headrest with other modules – even use it as lumbar support, an armrest or as a pillow for a nap!
+
+# @OFFER
+Price: 60
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Smolder resistant lining: Polyester wadding, Comfort filling: Polyurethane foam 1.7 lb/cu.ft., Polyurethane foam 1.5 lb/cu.ft., 100 % polyester (100% recycled)
+Care: Removable cover: Machine wash warm, normal cycle. | Removable cover: To be washed separately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/jaettebo-headrest-cushion-samsala-dark-yellow-green__1165152_pe890720_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

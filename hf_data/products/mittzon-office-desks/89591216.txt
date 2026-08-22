@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: MITTZON desk, black stained ash veneer/black white
+SKU: 89591216
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/mittzon-desk-black-stained-ash-veneer-black-white-s89591216/
+Category: MITTZON office desks
+Description: , 471/4x311/2" Tactile design, clever features and possibility to set the right height during assembly – MITTZON height-selectable desk elevates your well-being and possibility to focus. Backed by a 1...
+
+# @OFFER
+Price: 279.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Ash veneer, Stain, Clear acrylic lacquer, Ash veneer, Stain, Clear acrylic lacquer, Paper foil, Bracket/ Hook/ Cross rail/ Inside leg/ Leg/ Connecting plate/ Underside foot/ Upper side foot/ Middle rail/ Side rail/ Housing: Steel, Epoxy/polyester powder coating, Cable management: Felt
+Care: Wipe dry with a clean cloth. | Check regularly that all assembly fastenings are properly tightened and retighten when necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/mittzon-desk-black-stained-ash-veneer-black-white__1406782_pe971150_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

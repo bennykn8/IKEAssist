@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KUTTERSMYCKE wall clock, black
+SKU: 10520514
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kuttersmycke-wall-clock-black-10520514/
+Category: Wall clocks
+Description: , 18" KUTTERSMYCKE wall clock looks like an old-fashioned pocket watch. A nice eye-catcher on the wall with its matte black paint and gold-colored details – helps you keep track of time with timeless ...
+
+# @OFFER
+Price: 49.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Clock frame: Steel, Epoxy/polyester powder coating, Front protection/ Backing: Polystyrene
+Features: Batteries are sold separately. IKEA recommends LADDA rechargeable battery. This clock also works with alkaline batteries, 2xAA.
+Care: Clean with a duster. | The hands are set using the dial on the back of the clock mechanism. Moving the hands directly with your fingers can destroy the clock mechanism.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kuttersmycke-wall-clock-black__1061216_pe850323_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

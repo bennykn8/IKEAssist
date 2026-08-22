@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BLOMFLUGA 13-piece toy tool set
+SKU: 00539627
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/blomfluga-13-piece-toy-tool-set-00539627/
+Category: Wooden toys
+Description: A dream for a small builder. Their very own toolbox filled with colorful things that evoke imagination and creativity while helping your child develop motor skills. Helps the child develop fine motor ...
+
+# @OFFER
+Price: 22.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top rail/ Hammer shaft: Solid beech, Clear acrylic lacquer, Side panel: Fiberboard, Acrylic paint, Cross rail/ Bottom/ Screw vice: Birch plywood, Clear acrylic lacquer
+Features: Includes: 1 toolbox, 1 hammer, 1 wrench, 1 screwdriver, 2 wheels, 2 pins, 3 assembling pieces, and 3 screws with nuts.
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/blomfluga-13-piece-toy-tool-set__1123086_pe874705_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

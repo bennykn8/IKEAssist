@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SYMFONISK bookshelf Sonos speaker w stand, white/gen
+SKU: 59514130
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/symfonisk-bookshelf-sonos-speaker-w-stand-white-gen-2-s59514130/
+Category: Wi-Fi speakers
+Description: 2 Compatible with Airplay 2 so you can stream audio directly from your Apple devices. Compatible with Spotify Connect, which means you can stream music directly to the speaker from your Spotify app.
+
+# @OFFER
+Price: 219.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Bracket/ Base/ Tube: Steel, Polyester powder coating, Clamp: ABS plastic, Foot: Silicone rubber
+Features: The speaker's features will be enhanced through continuous software updates. | The services for streaming music vary between different regions, information about your region can be found on the Sonos website. | To control this AirPlay 2-enabled speaker, iOS 11.4 or later is required.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/symfonisk-bookshelf-sonos-speaker-w-stand-white-gen-2__1149853_pe884228_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

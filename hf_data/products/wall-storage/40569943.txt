@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SKÅDIS storage basket, set of 3, black
+SKU: 40569943
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/skadis-storage-basket-set-of-3-black-40569943/
+Category: Wall Storage
+Description: Create a better organization of your things by adding SKÅDIS accessories to your SKÅDIS pegboard. A great solution to fit your needs and to keep your favorite things close at hand.
+
+# @OFFER
+Price: 10
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Powder coating
+Features: Sizes: 9½x3⅛x8¼", 4¾x2¾x5⅛" and 4¾x2⅜x2". | Can also be used in bathrooms.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/skadis-storage-basket-set-of-3-black__1216163_pe912337_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

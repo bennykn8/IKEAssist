@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: SLATORP sofa with chaise, Hakebo yellow-brown
+SKU: 39577581
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/slatorp-sofa-with-chaise-hakebo-yellow-brown-s39577581/
+Category: Sofas with chaise
+Description: This modern sofa goes with most decor. And with a simple grip, you can extend the back cushions and enjoy comfy support for your head. The chaise longue on the right or left? It’s up to you.
+
+# @OFFER
+Price: 1249
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100 % polyester (100% recycled), Frame: 100% polyester (min. 70% recycled), 100 % polypropylene, Solid wood, Polyurethane foam 1.2 lb/cu.ft., Plywood, Particleboard, Laminated veneer lumber, Fiberboard, Lumbar cushion/ Seat cushion: 100% polyester (min. 70% recycled), 100 % polypropylene, High-resilience polyurethane foam (cold foam) 1.8 lb/cu.ft.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/slatorp-sofa-with-chaise-hakebo-yellow-brown__1381699_pe961890_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

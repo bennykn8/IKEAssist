@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: PENNFISK basket, natural sedge/handmade oval
+SKU: 20531885
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/pennfisk-basket-natural-sedge-handmade-oval-20531885/
+Category: Serving dishes & plates
+Description: Let nature decorate your dining table. This oval basket is handwoven from sedge and ideal for storing cutlery. A unique handicraft that is nice to place on the table when it’s time to eat. A simple an...
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Sedge, Clear lacquer
+Features: Each product is a unique, handmade work of art with natural variations in color and shape. | The material in this product may be recyclable. Please check the recycling rules in your community and if recycling facilities exist in your area.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/pennfisk-basket-natural-sedge-handmade-oval__1115633_pe872172_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

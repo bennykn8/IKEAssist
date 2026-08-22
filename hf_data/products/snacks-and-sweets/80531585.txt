@@ -1,0 +1,30 @@
+# @PRODUCT
+Name: BELÖNING milk chocolate bar, w caramel and salty almond filling Rainforest Alliance Certified, 2 oz
+SKU: 80531585
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/beloening-milk-chocolate-bar-w-caramel-and-salty-almond-filling-rainforest-alliance-certified-80531585/
+Category: Snacks & sweets
+Description: Opposites attract! This milk chocolate bar is a lovely mix of sweet and salty. Smooth milk chocolate and chewy caramel around a crispy, lightly salted almond and peanut filling. Time for a yummy snack...
+
+# @OFFER
+Price: 0.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/beloening-milk-chocolate-bar-w-caramel-and-salty-almond-filling-rainforest-alliance-certified__1123671_pe874842_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

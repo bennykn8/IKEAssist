@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: NÄSINGE table, dark brown stained/beech veneer
+SKU: 30587508
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/naesinge-table-dark-brown-stained-beech-veneer-30587508/
+Category: Up to 4 seats
+Description: , 511/8x311/2" NÄSINGE dining series blends updated farmhouse charm with modern functionality. This dark brown stained 4-seat table with hardwood veneer top and wooden chamfered legs is ideal in kitch...
+
+# @OFFER
+Price: 169.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Particleboard, Clear acrylic lacquer, Fiberboard, Paper foil, Beech veneer, Stain, Clear lacquer, Under frame/ Leg: Solid wood, Adhesive, Stain, Clear acrylic lacquer
+Features: Recommended for indoor use only. | Seats 4. | Four plastic feet to protect the floor against scratches included.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/naesinge-table-dark-brown-stained-beech-veneer__1393635_pe966298_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

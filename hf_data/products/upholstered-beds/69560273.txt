@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: RAMNEFJÄLL upholstered bed frame, Klovsta gray/white, Twin
+SKU: 69560273
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ramnefjaell-upholstered-bed-frame-klovsta-gray-white-s69560273/
+Category: Upholstered beds
+Description: This upholstered bed frame makes your bedroom feel soft and warm. The curved headboard and piped edges create a classic look – and the entire cover is removable and machine washable.
+
+# @OFFER
+Price: 164
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Headboard/ Footboard: Plywood, Fiberboard, Side rail: Laminated veneer lumber, Headboard leg/ Bottom headboard rail/ Middle headboard rail/ Footboard leg/ Midbeam/ Cross rail/ Leg: Steel, Epoxy/polyester powder coating
+Features: The back of the headboard is finished with a grey fabric. | Combine this bed frame with a slatted bed base with a max. thickness of 1⅝" to keep the slats hidden in the frame. The slats of a higher bed base may be visible along the sides of the bed. | Slatted bed base and mattress sold separately.
+Care: Removable cover: Machine wash warm, normal cycle. | Removable cover: To be washed separately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ramnefjaell-upholstered-bed-frame-klovsta-gray-white__1258183_pe927368_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

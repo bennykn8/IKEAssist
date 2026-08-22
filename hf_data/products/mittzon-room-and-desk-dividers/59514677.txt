@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: MITTZON frame w cstrs/disp shlf/cable box, white
+SKU: 59514677
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/mittzon-frame-w-cstrs-disp-shlf-cable-box-white-s59514677/
+Category: MITTZON room & desk dividers
+Description: , 331/2x803/4" A flexible system to divide work areas or create a room in a room. Dress the frame with containers for plants and add greenery. Elements of nature can help increase your ability to focu...
+
+# @OFFER
+Price: 310
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Epoxy/polyester powder coating, Galvanized steel, Epoxy/polyester powder coating
+Care: Wipe clean with a damp cloth. | Check regularly that all assembly fastenings are properly tightened and retighten when necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/mittzon-frame-w-cstrs-disp-shlf-cable-box-white__1224772_pe915082_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

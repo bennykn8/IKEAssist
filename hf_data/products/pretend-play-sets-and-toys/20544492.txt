@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SILLTRUT kitchen for children, gray
+SKU: 20544492
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/silltrut-kitchen-for-children-gray-20544492/
+Category: Pretend play sets & toys
+Description: , 263/4x153/4x393/8" What happens when you turn a knob? Where should the pot go? In this play kitchen, your child can cook make-believe food and invent their own recipes while developing both logical ...
+
+# @OFFER
+Price: 89.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts/ Back panel: Fiberboard, Acrylic paint, Clear acrylic lacquer, Window: Acrylic, Knobs: Solid beech, Clear acrylic lacquer
+Features: The sink is detachable to enable easy cleaning. | For your child's safety, the product must be anchored to the wall according to the assembly instructions. | With toy accessories like vegetables, utensils and pots (sold separately), play becomes even more fun.
+Care: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/silltrut-kitchen-for-children-gray__1300826_pe937203_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

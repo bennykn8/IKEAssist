@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VINGELEN eurotop hybrid mattress, plush/white, Queen
+SKU: 00511893
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vingelen-eurotop-hybrid-mattress-plush-white-00511893/
+Category: Spring & hybrid mattresses
+Description: A 12⅝" high mattress with a double layer of innovative pocket springs and an integrated topper with an upper layer of plush foam. Wonderful comfort and support from comfort zones that adjust to your b...
+
+# @OFFER
+Price: 699
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Ticking/ Main parts: 100 % polyester (100% recycled), Ticking, top: 100 % polypropylene, 100 % polyester (100% recycled), 70 % viscose, 30 % polyester, Polyurethane foam 1.5 lb/cu.ft., Ticking, side: 100 % polypropylene, 100 % polyester (100% recycled), 70 % viscose, 30 % polyester
+Features: The mattress may need about 72 hours to fully regain its shape and comfort after having been roll-packed. Any wrinkles will disappear too. | Sometimes the packaging may have given the mattress a noticeable smell which will disappear over a short period of time. | Care instructions can be found inside the cover.
+Care: Mattress cover: Do not wash. | Mattress cover: Clean with upholstery shampoo.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vingelen-eurotop-hybrid-mattress-plush-white__1142861_pe881377_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

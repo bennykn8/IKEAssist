@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SKOGSRÖR napkin holder, dark green
+SKU: 40560867
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/skogsroer-napkin-holder-dark-green-40560867/
+Category: Napkin holders
+Description: , 5x5" Frame your paper napkins in a stylish and practical way. With the sturdy SKOGSRÖR napkin holder, you always have napkins close at hand – and the design means you’re happy to leave it out on the...
+
+# @OFFER
+Price: 1.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Epoxy/polyester powder coating
+Features: The product needs to be bent into the correct shape after unpacking it, follow the instructions on the packaging.
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/skogsroer-napkin-holder-dark-green__1196048_pe902713_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

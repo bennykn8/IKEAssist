@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: IKEA 365+ IHÄRDIG spice mill, black
+SKU: 60578183
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ikea-365-ihaerdig-spice-mill-black-60578183/
+Category: Spice jars & condiment containers
+Description: , 5" Freshly ground spices have more flavor and aromas than ground spices, so why not invest in a spice mill or two? The ceramic grinder can also be unscrewed and used on the spice jars in the same se...
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Grinder: Ceramic material, Jar: Glass
+Features: Wash this product before using it for the first time. | Possible to separate for recycling or energy recovery if available in your community.
+Care: The glass jar and the detachable plastic cover are dishwasher-safe. The other parts should be washed by hand. | Only for food and beverages with a max. temperature of 120°F.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ikea-365-ihaerdig-spice-mill-black__0719208_pe731925_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

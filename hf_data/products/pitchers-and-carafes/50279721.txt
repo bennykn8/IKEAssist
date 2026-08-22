@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: IKEA 365+ pitcher with lid, clear glass/cork, 51 oz
+SKU: 50279721
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ikea-365-pitcher-with-lid-clear-glass-cork-50279721/
+Category: Pitchers & carafes
+Description: The IKEA 365+ series has everything for the table – to be enjoyed for its everyday simplicity or spiced up with colors and accessories. Made from tempered glass that holds both hot and cold beverages....
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Body: Heat resistant glass, Lid: Cork
+Features: Wash this product before using it for the first time. | The material in this product may be recyclable. Please check the recycling rules in your community and if recycling facilities exist in your area.
+Care: The glass part is dishwasher-safe. The lid should be washed by hand. | Clean the stopper after each use and leave it to dry before next use.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ikea-365-pitcher-with-lid-clear-glass-cork__0711276_pe728114_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: SILVTJÄRN soap dispenser
+SKU: 90498873
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/silvtjaern-soap-dispenser-90498873/
+Category: Soap dispensers & soap dishes
+Description: Freshen your bathroom with a bit of bling. This glass soap dispenser with brass pump keeps the area around your wash-basin tidy and pairs up perfectly with other SILVTJÄRN accessories Easy to fill wit...
+
+# @OFFER
+Price: 12.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Soap dispenser: Glass, Pump: Stainless steel, Polypropylene, Polyethylene, Silicone rubber, Stainless steel, Glass, Metallized
+Care: Wipe clean with a mild soapy solution.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/silvtjaern-soap-dispenser__1140111_pe880635_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

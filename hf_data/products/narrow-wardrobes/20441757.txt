@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KLEPPSTAD Wardrobe with 3 doors, white
+SKU: 20441757
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kleppstad-wardrobe-with-3-doors-white-20441757/
+Category: Narrow wardrobes
+Description: , 46 1/8x69 1/4". Simple and smart! When all you need is a wardrobe with all the basic functions. If storage space is still not enough, why not add another wardrobe from the KLEPPSTAD series?.
+
+# @OFFER
+Price: 179.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Bottom panel/ Side panel/ Shelf/ Plinth/ Door: Particleboard, Paper foil, Back panel: Fiberboard, Printed acrylic paint
+Features: The clothes rail holds about 20 shirts on hangers. | One shelf holds about 10 pairs of folded pants or 20 T-shirts. | May be completed with up to 2 additional KLEPPSTAD shelves.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kleppstad-wardrobe-with-3-doors-white__0753594_pe748782_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

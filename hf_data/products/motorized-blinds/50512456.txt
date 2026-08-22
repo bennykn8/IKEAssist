@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TREDANSEN black-out cellular blind, smart wireless/battery operated white, 34x76 ¾"
+SKU: 50512456
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tredansen-black-out-cellular-blind-smart-wireless-battery-operated-white-50512456/
+Category: Motorized blinds
+Description: TREDANSEN cellular blind blocks out light and insulates against window drafts and heat from the sun. Use with remote control or with DIRIGERA hub and IKEA Home smart app for more smart control options...
+
+# @OFFER
+Price: 159.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Outer fabric: 100 % polyester (100% recycled), Backing: 100 % PET plastic, Rail: Aluminum, Epoxy/polyester powder coating, Aluminum
+Features: The blind cannot be cut. | This smart product can also be connected to a TRÅDFRI gateway. | This product is part of our smart home range. Connect it, along with other smart products, to DIRIGERA hub and IKEA Home smart app for more features and functions.
+Care: Do not wash. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tredansen-black-out-cellular-blind-smart-wireless-battery-operated-white__0980707_pe815130_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: NORRMANSÖ chair, outdoor, indoor/outdoor beige/acacia
+SKU: 40511080
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/norrmansoe-chair-outdoor-indoor-outdoor-beige-acacia-40511080/
+Category: Outdoor dining chairs
+Description: Lightweight, yet sturdy dining chair in a farmhouse style. Here you sit comfy while enjoying food and socializing outdoors. Made of steel with a seat in durable wood – goes perfectly with NORRMANSÖ ta...
+
+# @OFFER
+Price: 95
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Features: Acacia has a rich brown color and distinctive grain pattern. It is highly durable, resistant to scratches and water, ideal for heavy-use. Acacia darkens slightly with age. | For indoor or outdoor use. | The chair can be combined with the big and durable NORRMANSÖ table to complete your outdoor dining area. Sold separately.
+Care: The best way to extend the life of your wooden outdoor furniture is by cleaning it regularly, not leaving it outdoors unprotected more than necessary, and re-staining it on a regular basis. | Clean: Use a mild soapy solution. Wipe dry with a clean dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/norrmansoe-chair-outdoor-indoor-outdoor-beige-acacia__1077696_pe856975_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

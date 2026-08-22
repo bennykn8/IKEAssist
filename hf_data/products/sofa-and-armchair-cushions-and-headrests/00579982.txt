@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FRYKSÅS cushion, Risane natural
+SKU: 00579982
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/fryksas-cushion-risane-natural-00579982/
+Category: Sofa & armchair cushions & headrests
+Description: , 20x19" FRYKSÅS seat cushion is perfect when you love everything about the handwoven FRYKSÅS rattan armchair but want to add some soft comfort. And if you happen to spill, the cover is easy to remove...
+
+# @OFFER
+Price: 20
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric/ Cover: 53 % linen, 47 % viscose/rayon, Lining: 100 % polyester (100% recycled), Wadding/ Core filling: 100% polyester (min. 80% recycled)
+Features: Product is possible to recycle or use for energy recovery, if available in your community. | Cushions are sold separately.
+Care: Inner cushion, seat cushion: Do not wash. | Inner cushion, seat cushion: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/fryksas-cushion-risane-natural__1288290_pe934141_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

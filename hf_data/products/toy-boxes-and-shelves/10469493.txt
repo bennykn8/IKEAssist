@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SMUSSLA bedside table/shelf unit, white
+SKU: 10469493
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/smussla-bedside-table-shelf-unit-white-10469493/
+Category: Toy boxes & shelves
+Description: This small and affordable piece of furniture is a loyal bedside buddy which can change shape and grow with your child – from storage to bedside table and into a shelf unit by the desk. The bedside tab...
+
+# @OFFER
+Price: 39.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Acrylic paint
+Features: May be completed with HÄNGIG label holder.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/smussla-bedside-table-shelf-unit-white__0931281_pe791191_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

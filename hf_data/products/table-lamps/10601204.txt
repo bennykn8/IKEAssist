@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: KUDDLAVA table lamp, pleated white
+SKU: 10601204
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kuddlava-table-lamp-pleated-white-10601204/
+Category: Table lamps
+Description: , 11" This pleated table lamp with Scandinavian influences offers soft mood lighting. Made of plastic, of which at least 50% is recycled, and is topped with a decorative knob made of solid wood. Creat...
+
+# @OFFER
+Price: 14.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Shade: Polypropylene plastic (min. 50% recycled), Cover: Brush finish nickel-plated, Acrylic coating, Steel, Arm: Nickel plated, Acrylic coating, Steel
+Dimensions: Light bulb is sold separately. IKEA recommends LED bulb E12 globe opal white with a max. diameter of 1.75 inches.
+Features: Special waste handling may be required. Please contact your local authorities for more information.
+Care: Dust the lamp with a dust cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kuddlava-table-lamp-pleated-white__1416209_pe975491_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

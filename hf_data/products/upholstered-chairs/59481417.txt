@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KARLPETTER chair, Gunnared medium gray/Sefast black
+SKU: 59481417
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/karlpetter-chair-gunnared-medium-gray-sefast-black-s59481417/
+Category: Upholstered chairs
+Description: This upholstered chair provides a cozy layer of comfort while working, crafting or dining. Choose your favorite color to give your room a personal look. Easy assembly with only 4 screws.
+
+# @OFFER
+Price: 80
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100% polyester (min. 90% recycled), Seat shell: Layer-glued wood veneer, Comfort filling: Polyurethane foam 2.2 lb/cu.ft., Polyester wadding
+Features: Non-removable cover. The zip at the back is not for removing the cover.
+Care: Wipe clean using a damp cloth and a mild cleaner. | For increased stability, re-tighten the screws about two weeks after assembly and when necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/karlpetter-chair-gunnared-medium-gray-sefast-black__1106907_pe868870_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

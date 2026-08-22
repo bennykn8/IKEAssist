@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MITTZON acoustic plant box with castors, Gunnared beige
+SKU: 80587577
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/mittzon-acoustic-plant-box-with-castors-gunnared-beige-80587577/
+Category: MITTZON room & desk dividers
+Description: , 271/2x271/2x291/2" Infuse greenery and a sense of calm. This acoustic plant box, dressed in thick wool fabric and wood fiber filling, absorbs sound in open spaces, creating healthier environments fo...
+
+# @OFFER
+Price: 269.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: 100 % polypropylene, Solid wood, Fiberboard, Wood fibers 92% / Polyethylene 4% / Polypropylene 4%, Top frame: Particleboard, Paper foil, Plastic edging, Cover: 100% polyester (min. 30% recycled), 100 % polypropylene
+Features: Fits 4 11x11" inner pots – a standard EU size for rental plants. Plant box inner measurements: 22½x22½x13".
+Care: Machine wash warm, normal cycle. | Turn the cover inside out and close before washing.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/mittzon-acoustic-plant-box-with-castors-gunnared-beige__1271943_pe929636_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

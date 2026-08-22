@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ÄNGSHUMLA 4-piece bath toy set
+SKU: 10582267
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/aengshumla-4-piece-bath-toy-set-10582267/
+Category: Potties & baby baths
+Description: This charming whale and its three little friends all turn bath time into fun playtime. You can both pour and squirt water with them – what child doesn't love that? And they’re easy to take apart and c...
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Base/ Ring: Polypropylene, Soft parts: Thermoplastic elastomer, Mesh: 100% polyester (min. 90% recycled)
+Features: Comprises: 1 whale, 1 crab, 1 turtle and 1 fish. | May be completed with our bathroom accessories for children.
+Care: Wipe clean with a mild soapy solution.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/aengshumla-4-piece-bath-toy-set__1388522_pe964827_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

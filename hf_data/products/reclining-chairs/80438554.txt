@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: MUREN recliner, Remmarn dark gray
+SKU: 80438554
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/muren-recliner-remmarn-dark-gray-80438554/
+Category: Reclining chairs
+Description: Take a seat in MUREN recliner and get a pleasant surprise. It is adjustable to three positions and comes with an inbuilt footstool. While sitting, use your back to press against the backrest - it lowe...
+
+# @OFFER
+Price: 479
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Particleboard, Plywood, Polyurethane foam 1.2 lb/cu.ft., Polyurethane foam 2.0 lb/cu.ft., Polyurethane foam 1.5 lb/cu.ft., Felt liner, Solid wood, Seat cushion: Polyurethane foam 2.0 lb/cu.ft., Mechanism: Steel, Polypropylene, Paint
+Care: Frame, non-removable cover: Vacuum clean. | Frame, non-removable cover: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/muren-recliner-remmarn-dark-gray__0908536_pe783303_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

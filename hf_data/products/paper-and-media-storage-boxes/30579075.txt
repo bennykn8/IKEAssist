@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GJÄTTA storage box with lid, velvet dark blue, 12 ½x13 ¾x12 ½"
+SKU: 30579075
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/gjaetta-storage-box-with-lid-velvet-dark-blue-30579075/
+Category: Paper & media storage boxes
+Description: This storage box in velvet creates a soft impression – regardless if it’s in the bookshelf or the walk-in closet. It is dimensioned for KALLAX shelf, adding both style, function and quality.
+
+# @OFFER
+Price: 14.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Paperboard (min. 100% recycled), 100 %polyester, Chlorine free bleached paper
+Features: The velvet reflects light in a characteristic way which may make the color appear as if it changes.
+Care: Remove dust with a lint remover.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/gjaetta-storage-box-with-lid-velvet-dark-blue__1191965_pe900778_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

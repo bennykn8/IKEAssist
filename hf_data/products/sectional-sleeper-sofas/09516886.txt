@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: HOLMSUND sleeper sectional, 3-seat, Kilanda dark blue
+SKU: 09516886
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/holmsund-sleeper-sectional-3-seat-kilanda-dark-blue-s09516886/
+Category: Sectional sleeper sofas
+Description: This sofa quickly and easily transforms into a spacious bed – and turns the living room into a bedroom. The storage space under the seat is easy to access and has room for bedding, pillows and a good ...
+
+# @OFFER
+Price: 1149
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Smolder resistant lining/ Smolder resistant lining: Polyester wadding, Frame: Solid wood, Particleboard, Plywood, Polyurethane foam 1.5 lb/cu.ft., Back cushion: 100 % polyester - hollow fiber (100% recycled)
+Dimensions: The seat depth and total height depend on how you angle the loose back cushions.
+Features: 5 back cushions are included.
+Care: Frame: Wipe clean using a damp cloth and a mild cleaner. | Frame: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/holmsund-sleeper-sectional-3-seat-kilanda-dark-blue__1212724_pe910729_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

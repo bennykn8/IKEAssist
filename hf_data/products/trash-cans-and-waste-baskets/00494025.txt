@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TOFTAN trash can, white, 1 gallon
+SKU: 00494025
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/toftan-trash-can-white-00494025/
+Category: Trash cans & waste baskets
+Description: TOFTAN bathroom accessories are real heroes, ready to make your morning and evening routines flow just right. They blend well with many styles and give your bathroom a fresh, coordinated look. The tra...
+
+# @OFFER
+Price: 14.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Bin/ Lid: Galvanized steel, Powder coating, Bottom: Reinforced polypropylene plastic (min. 20% recycled), Connector/ Pedal/ Bucket: Polypropylene plastic (min. 20% recycled)
+Features: Combines with other products in TOFTAN series.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/toftan-trash-can-white__0711077_pe727948_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

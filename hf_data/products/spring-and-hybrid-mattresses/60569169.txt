@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VANNAREID pocket spring mattress, firm/beige, Twin
+SKU: 60569169
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vannareid-pocket-spring-mattress-firm-beige-60569169/
+Category: Spring & hybrid mattresses
+Description: Sit or lie down on this 4¾" high mattress developed to go with our day-beds. Feel the support from firm, individually wrapped pocket springs and a layer of foam. The soft fabric cover is washable.
+
+# @OFFER
+Price: 129
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Ticking: 55 % cotton, 45% polyester (min. 90% recycled), Ticking, underside/ Lining: 100 % polypropylene, Quilt filling: 70 % viscose, 30 % polyester
+Features: All of our mattresses can be used immediately, but keep in mind that a packaged mattress only regains its full shape and comfort after approximately 72 hours. Your body also needs a couple of weeks to adapt to the new mattress. | Sometimes the mattress has a noticeable smell when you open the packaging. The smell isn’t harmful or toxic and disappears over time. Airing and vacuuming the mattress helps to eliminate the smell faster. | 218 pocket springs/sq.ft.
+Care: Mattress, inner cover: Do not wash. | Mattress, inner cover: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vannareid-pocket-spring-mattress-firm-beige__0962751_pe817171_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

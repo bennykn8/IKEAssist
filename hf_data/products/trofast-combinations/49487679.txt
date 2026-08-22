@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TROFAST storage combination with shelves, white
+SKU: 49487679
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/trofast-storage-combination-with-shelves-white-s49487679/
+Category: TROFAST combinations
+Description: , 181/8x113/4x37" Children need good and spacious storage. The TROFAST series includes sturdy wooden frames and lightweight plastic boxes, cool mesh boxes and trays that are easy to pull out, carry an...
+
+# @OFFER
+Price: 69.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Particleboard, Paper foil, Plastic edging, Plastic edging, Plastic edging, Plastic edging, Drawer rail: Polypropylene, Particleboard, Paper foil, Plastic edging
+Features: Recommended for indoor use only. | Not approved for food contact. | Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home.
+Care: Wipe clean with a damp cloth. | Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/trofast-storage-combination-with-shelves-white__1103407_pe867276_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

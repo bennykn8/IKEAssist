@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ONSEVIG rug, low pile, multicolor
+SKU: 60497078
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/onsevig-rug-low-pile-multicolor-60497078/
+Category: Medium, large and extra-large rugs
+Description: , 5'3"x7'9" The faded oriental expression of this rug adds a special touch to your room. A good choice for those who want a durable, stain-resistant rug that is just as great on the sofa as under the ...
+
+# @OFFER
+Price: 99.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Pile: 100 % polypropylene, Backing: Synthetic latex
+Features: You will need 1 STOPP FILT rug underlay with anti-slip (5'5"x7'9") for this rug. Trim if necessary. | When you have unpacked and rolled out your rug, it will take up to 2 days before it regains its original shape. | The rug is machine-woven.
+Care: Do not wash. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/onsevig-rug-low-pile-multicolor__0941458_pe795476_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

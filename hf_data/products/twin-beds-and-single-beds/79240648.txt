@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HEMNES bed frame, dark gray stained/Lönset, Twin
+SKU: 79240648
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hemnes-bed-frame-dark-gray-stained-loenset-s79240648/
+Category: Twin beds & single beds
+Description: Adjustable bed sides allow you to use mattresses of different thicknesses. Made of solid wood, which is a durable and warm natural material.
+
+# @OFFER
+Price: 369
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Leg/ Headboard/ Bedside/ Top rail/ Middle rail: Solid pine, Adhesive, Solid pine, Stain, Clear acrylic lacquer, Footboard/ Rail/ Bottom rail/ Bed end filling with bars: Solid pine, Adhesive, Stain, Clear acrylic lacquer, Bed base slats: Layer-glued wood veneer, Paper foil, Adhesive resin as coating
+Features: LÖNSET slatted bed base is included in the price, but is packaged separately.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hemnes-bed-frame-dark-gray-stained-loenset__0579904_pe669953_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

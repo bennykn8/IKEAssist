@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: TONSTAD nightstand, brown stained oak veneer
+SKU: 40489319
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tonstad-nightstand-brown-stained-oak-veneer-40489319/
+Category: Nightstands
+Description: , 153/4x153/4x231/4" Classic design meets beautifully brushed veneer in the TONSTAD series, giving the furniture a unique character. Details like an integrated handle and round legs add a timeless loo...
+
+# @OFFER
+Price: 129.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel: Solid oak, Particleboard, Oak veneer, Oak veneer, Beech veneer, Clear acrylic lacquer, Paper foil, Back panel: Particleboard, Oak veneer, Clear acrylic lacquer, Oak veneer, Paper foil, Side panel/ Drawer front/ Shelf: Particleboard, Oak veneer, Clear acrylic lacquer, Paper foil, Oak veneer
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tonstad-nightstand-brown-stained-oak-veneer__1247214_pe922594_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

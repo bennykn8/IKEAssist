@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MARIEDAMM table, black marble effect
+SKU: 20576124
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/mariedamm-table-black-marble-effect-20576124/
+Category: Up to 4 seats
+Description: , 707/8x393/8" Sturdy construction with metal crisscrossed legs create a modern expression full of character. The table goes just as well in the kitchen as in the living room, and the oval shape makes...
+
+# @OFFER
+Price: 469.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Particleboard, Plastic edging, Melamine foil, Leg: Steel, Epoxy powder coating, Bracket: Aluminum, Epoxy powder coating
+Features: Seats 4-6. | Matches well with ODGER, TOBIAS, LILLÅNÄS and KARLPETTER chairs, sold separately.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/mariedamm-table-black-marble-effect__1243357_pe920584_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

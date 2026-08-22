@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: ÄSKEBO built-in microwave, Stainless steel
+SKU: 60587615
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/aeskebo-built-in-microwave-stainless-steel-60587615/
+Category: Microwave ovens
+Description: , 30" Sleek stainless steel on the outside and spacious on the inside. An easy-use microwave oven with sensor that automatically adjusts the power level and cooking time. A perfect match with VASKARBO...
+
+# @OFFER
+Price: 599
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Features: To be installed in a 30" wide high cabinet. | You will find complete information about the installation and use of this product under the tab Assembly instructions & documents. | To be completed with NYTTIG support bracket for micro trim kit when assembled in SEKTION high cabinet, sold separately.
+Care: You will find complete information about the care of this product under the tab Assembly instructions & documents. | Remove stains and food residue after each use using a cloth damped with warm water and a mild detergent.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/aeskebo-built-in-microwave-stainless-steel__1321728_pe941752_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

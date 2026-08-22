@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TJOG magazine file, dark gray
+SKU: 90477658
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tjog-magazine-file-dark-gray-90477658/
+Category: Magazine files
+Description: Create order out of chaos and organize all your loose papers, recipes and magazines in this magazine file. Also write what the contents are to avoid searching – and it looks nice too. Easy to pull out...
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Box: 100% recycled solid cardboard, Paper, Metal part: Steel, Powder coating
+Features: Possible to separate for recycling or energy recovery if available in your community.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tjog-magazine-file-dark-gray__0921568_pe787902_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

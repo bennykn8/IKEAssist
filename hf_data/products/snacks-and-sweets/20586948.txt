@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: FYRTAKT jelly candy, with berry flavors, 4 oz
+SKU: 20586948
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/fyrtakt-jelly-candy-with-berry-flavors-20586948/
+Category: Snacks & sweets
+Description: FYRTAKT series offers candy with various shapes and flavors – sweet, sour and salty. It’s gelatin-free and made with natural flavorings. Go ahead and treat yourself to something tasty every now and th...
+
+# @OFFER
+Price: 2.19
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Features: Flavors: Wild strawberry, black currant or raspberry and blueberry flavour.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/fyrtakt-jelly-candy-with-berry-flavors__1268092_pe928622_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

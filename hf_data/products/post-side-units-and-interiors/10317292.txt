@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: ELVARLI Shoe shelf, white
+SKU: 10317292
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/elvarli-shoe-shelf-white-10317292/
+Category: Post, side units & interiors
+Description: , 15 3/4x14 1/8". Here there’s room for everything, from dance shoes to boots. With the angled shoe shelves you’ll quickly find your favorites and if you need more space you can quickly move the shelv...
+
+# @OFFER
+Price: 15
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Epoxy/polyester powder coating
+Dimensions: Fits with ELVARLI post and ELVARLI side unit (14⅛" depth).
+Features: The shoe shelf holds 2 pairs of shoes.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/elvarli-shoe-shelf-white__0430464_pe584641_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

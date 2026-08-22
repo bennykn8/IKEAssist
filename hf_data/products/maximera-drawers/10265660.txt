@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MAXIMERA Drawer, low, white
+SKU: 10265660
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/maximera-drawer-low-white-10265660/
+Category: MAXIMERA drawers
+Description: , 30x14 3/4". Yes, it’s possible to fall in love with a drawer! This one pulls out all the way for a good overview and can be kept organized with the interiors of your choice. And the best part? It cl...
+
+# @OFFER
+Price: 37
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Drawer/ Drawer back: Steel, Epoxy/polyester powder coating, Drawer bottom: Particleboard, Melamine foil, Melamine foil, Runners: Galvanized steel
+Features: May be completed with VARIERA interior organizers for efficient utilization of the space. | May be completed with UPPDATERA divider to keep the things you are storing organized and to prevent them from sliding around. | May be completed with UTRUSTA drawer front to create inner drawers with more storage and a uniform look, either inside a higher drawer or behind a door.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/maximera-drawer-low-white__0268020_pe405660_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

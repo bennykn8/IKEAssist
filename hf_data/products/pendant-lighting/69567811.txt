@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SUNNEBY / MOLNSKIKT pendant lamp, black/dark red velvet
+SKU: 69567811
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sunneby-molnskikt-pendant-lamp-black-dark-red-velvet-s69567811/
+Category: Pendant lighting
+Description: , 13" The lampshade of this pendant lamp with clean lines has a soft velvet-covered surface that adds extra depth to the color. And when you turn the lamp on, a warm and cozy feeling spreads in the ro...
+
+# @OFFER
+Price: 49.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Shade: Polystyrene plastic (min. 20% recycled), Fabric: 100 % polyester (100% recycled), Ceiling cup: Polypropylene
+Features: Light bulb sold separately. IKEA recommends LED bulb E26. | Special waste handling may be required. Please contact your local authorities for more information.
+Care: Wipe clean with a dry cloth. | Dust the lamp with a dust cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sunneby-molnskikt-pendant-lamp-black-dark-red-velvet__1311619_pe940030_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

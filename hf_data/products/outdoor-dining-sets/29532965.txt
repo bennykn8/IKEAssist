@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SEGERÖN table and 4 armchairs, outdoor dark green/Frösön/Duvholmen stripe pattern
+SKU: 29532965
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/segeroen-table-and-4-armchairs-outdoor-dark-green-froesoen-duvholmen-stripe-pattern-s29532965/
+Category: Outdoor dining sets
+Description: , 577/8" The hole in the middle of the table top keeps your umbrella in place. The color on the seat pad and back cushion stays fresh longer as the cover is fade resistant.
+
+# @OFFER
+Price: 899
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Aluminum, Polyester powder coating, Top frame: Galvanized steel, Polyester powder coating, Strip: Synthetic rubber
+Features: May be completed with TOSTERÖ storage bag. | May be combined with STOPP anti-slip underlay to hold the cushions firmly in place. It's easy to cut or fold the underlay to the desired size. | 4 chair cushions included.
+Care: Inner cushion: Do not wash. | Inner cushion: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/segeroen-table-and-4-armchairs-outdoor-dark-green-froesoen-duvholmen-stripe-pattern__1239748_pe919065_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

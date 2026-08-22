@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LILLÅNÄS chair, chrome plated/Gunnared beige
+SKU: 50534774
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lillanaes-chair-chrome-plated-gunnared-beige-50534774/
+Category: Upholstered chairs
+Description: LILLÅNÄS chair in beige offers modern appeal and comfort for all-day activities. The padded seat is shaped to reduce pressure and the backrest has a relaxing flexy feel. The cover is removable for was...
+
+# @OFFER
+Price: 130
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100% polyester (min. 90% recycled), Seat shell: Layer-glued wood veneer, Leg frame: Steel, Chrome plated
+Features: Recommended for indoor use only. | Removable, washable cover
+Care: Removable cover: Machine wash warm, normal cycle. | Removable cover: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lillanaes-chair-chrome-plated-gunnared-beige__1150348_pe884483_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

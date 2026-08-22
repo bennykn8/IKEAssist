@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KUGGIS box with lid, white, 7x10 ¼x3 ¼"
+SKU: 09561157
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kuggis-box-with-lid-white-s09561157/
+Category: Paper & media storage boxes
+Description: This smaller box helps you keep your little things organized. Timeless design in PET plastic with soft shapes. Part of the KUGGIS series, where all sizes are dimensioned to each other.
+
+# @OFFER
+Price: 4.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: PET plastic (min. 50% recycled)
+Features: Can also be used in bathrooms. | Not approved for food contact.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kuggis-box-with-lid-white__0713062_pe729166_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

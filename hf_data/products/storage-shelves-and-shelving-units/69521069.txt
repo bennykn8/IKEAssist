@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VIHALS shelving combination, dark gray
+SKU: 69521069
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vihals-shelving-combination-dark-gray-s69521069/
+Category: Storage shelves & shelving units
+Description: , 743/4x145/8x783/4" VIHALS storage series has a cohesive look that connects the rooms throughout your home. Go for a solitaire or combine several units. The shelves will always align to create a beau...
+
+# @OFFER
+Price: 398
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Shelf: Particleboard, Acrylic paint, Paper foil, Plastic edging, Side panel/ Partition: Particleboard, Paint, Plastic edging, Bottom panel: Particleboard, Acrylic paint, Acrylic paint, Plastic edging
+Features: Different wall materials require different types of fixing devices. Use fixing devices suitable for the walls in your home. | Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vihals-shelving-combination-dark-gray__1210163_pe909556_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

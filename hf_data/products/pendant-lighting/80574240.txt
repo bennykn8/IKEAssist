@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: YTLÄGE pendant lamp, white
+SKU: 80574240
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ytlaege-pendant-lamp-white-80574240/
+Category: Pendant lighting
+Description: , 17" On YTLÄGE pendant lamp, you can change the shade’s shape from a closed cylinder that spreads a cozy glow to an open floral shape that gives a lot of light. A playful way to change the atmosphere...
+
+# @OFFER
+Price: 39.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Shade: Polypropylene plastic (min. 50% recycled), Housing: ABS plastic (min. 50% recycled), Arm: Steel, Paint
+Dimensions: Light bulb sold separately. IKEA recommends LED bulb E26 with a max. diameter of 2.36 inches.
+Features: Use an opal light bulb if you have an ordinary lamp shade or lamp and want an even, diffused distribution of light. | Use a clear light bulb if you have a lamp shade or lamp with a perforated or cut-out pattern or other airy, open design and want the pattern to cast effects on the wall and ceiling. | Special waste handling may be required. Please contact your local authorities for more information.
+Care: Dust the lamp with a dust cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ytlaege-pendant-lamp-white__1248107_pe923610_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

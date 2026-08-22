@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MITTLED LED kitchen cntrtp lighting strip, dimmable white
+SKU: 90472514
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/mittled-led-kitchen-cntrtp-lighting-strip-dimmable-white-90472514/
+Category: Smart integrated lighting
+Description: , 12" The lighting enhances both function and atmosphere in your kitchen and makes working in the kitchen less of a chore. Easy to install – no electrician needed.
+
+# @OFFER
+Price: 18
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Lamp house: Aluminum, Diffuser: Polycarbonate/ABS plastic
+Features: Built-in LED light source. | Approved for IP20. | Light color: warm white (2700 Kelvin).
+Care: Wipe clean with a dry cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/mittled-led-kitchen-cntrtp-lighting-strip-dimmable-white__0869929_pe781525_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LUNGÖN privacy screen, off-white indoor/outdoor
+SKU: 80515509
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lungoen-privacy-screen-off-white-indoor-outdoor-80515509/
+Category: Outdoor privacy screens & shades
+Description: , 551/8x311/2x153/4" Give yourself some extra privacy with LUNGÖN privacy screen. Perfect by the sunbed or by the dining table in the garden and on the terrace. Can also be used as a room divider – bo...
+
+# @OFFER
+Price: 110
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Partition wall: Galvanized steel, Polyester powder coating, U profile: Steel, Galvanized, Polyester powder coating, Foot: Steel, Steel, Galvanized, Polyester powder coating
+Features: This product is suitable for use in a public environment since the design and the material are optimized for frequent use. | Suitable for indoor and outdoor use.
+Care: Clean: Use a mild soapy solution. Wipe dry with a clean dry cloth. | To increase the stability of your furniture, re-tighten the screws at least once per season.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lungoen-privacy-screen-off-white-indoor-outdoor__1137814_pe879761_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

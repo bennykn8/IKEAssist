@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SANELA cushion cover, bright pink
+SKU: 40591128
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sanela-cushion-cover-bright-pink-40591128/
+Category: Throw pillow covers
+Description: , 16x23" SANELA cushion cover, made of lush cotton velvet with a soft sheen, comes in several colors. Mix with SANELA cushions in different sizes for variety; and why not create a cozy combo with KLIP...
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % cotton
+Features: Fits inner cushions 15¾x22⅞". | Velvet can be prone to marks and creases. To remove them, turn the cushion cover inside out, steam iron, then turn it back and gently brush the fabric's pile to lift the mark or crease.
+Care: Shrinkage maximum 4%. | Machine wash cold, normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sanela-cushion-cover-bright-pink__1284635_pe933050_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

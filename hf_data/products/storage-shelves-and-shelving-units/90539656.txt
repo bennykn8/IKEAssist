@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HAVSTA base frame, white
+SKU: 90539656
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/havsta-base-frame-white-90539656/
+Category: Storage shelves & shelving units
+Description: , 317/8x145/8x43/4" The plinths in solid pine with crafted details and a brushed surface convert HAVSTA stackable units into standalones – and they give your storage a genuine, timeless and unified lo...
+
+# @OFFER
+Price: 50
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Plinth front/ Plinth side: Solid pine, Stain, Clear lacquer, Plinth back: Solid pine, Clear acrylic lacquer, Metal part: Steel, Powder coating
+Features: Combines with other products in the HAVSTA series.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/havsta-base-frame-white__1296032_pe935664_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

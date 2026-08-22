@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GRILLSKÄR side table, outdoor, black stainless steel/outdoor
+SKU: 00523179
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/grillskaer-side-table-outdoor-black-stainless-steel-outdoor-00523179/
+Category: Outdoor kitchen modules & parts
+Description: , 113/4x24" Use this small foldable side table to easily extend the side of your GRILLSKÄR barbeque or kitchen island. This way, you get a more flexible work surface to prepare or unload food by the b...
+
+# @OFFER
+Price: 55
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Stainless steel, Main parts: Galvanized steel, Polyester powder coating
+Features: The surface of the side table is made of stainless steel – a hygienic, hardwearing and durable material that is resistant to rust and easy to clean. | Only recommended for outdoor use. | Can be connected to GRILLSKÄR barbeques and GRILLSKÄR kitchen island.
+Care: Wipe dry with a clean cloth. | Always wipe surfaces of stainless steel lengthwise for an even, shiny finish.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/grillskaer-side-table-outdoor-black-stainless-steel-outdoor__1137881_pe879773_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

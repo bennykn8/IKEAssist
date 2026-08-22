@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: IDANÄS nightstand, dark brown stained
+SKU: 80458815
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/idanaes-nightstand-dark-brown-stained-80458815/
+Category: Nightstands
+Description: , 181/2x153/4" IDANÄS series has a timeless design with modern functionality. The bedside table with open and closed storage has a hole in the back for cables and matches perfectly with IDANÄS bed fra...
+
+# @OFFER
+Price: 199.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel: Fiberboard and honeycomb paper filling (100% recycled paper), Beech veneer, Stain, Clear acrylic lacquer, Side panel/ Shelf/ Drawer front: Particleboard, Beech veneer, Stain, Clear acrylic lacquer, Front rail: Particleboard, Paper foil
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/idanaes-nightstand-dark-brown-stained__0898841_pe782658_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

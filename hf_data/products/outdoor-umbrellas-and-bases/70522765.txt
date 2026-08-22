@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: STRANDÖN umbrella, yellow/white dotted
+SKU: 70522765
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/strandoen-umbrella-yellow-white-dotted-70522765/
+Category: Outdoor umbrellas & bases
+Description: , 551/8" This lightweight and compact parasol makes your summer days nicer. The fabric’s color and pattern last a long time and create a great summer vibe while providing good protection against the s...
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Canopy fabric/ Bag: 100% polyester (min. 90% recycled), Ribs/ Pole: Steel, Polyester powder coating, Base/ Pole connection/ Runner/ Hook/ Cap: Polypropylene
+Features: The umbrella does not provide protection against reflected or scattered solar ultraviolet radiation.
+Care: Frame: Wipe clean with a damp cloth. | Frame: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/strandoen-umbrella-yellow-white-dotted__1170589_pe892867_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

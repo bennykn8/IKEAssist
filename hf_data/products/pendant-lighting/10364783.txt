@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: AGUNNARYD pendant lamp with 3 lamps, black
+SKU: 10364783
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/agunnaryd-pendant-lamp-with-3-lamps-black-10364783/
+Category: Pendant lighting
+Description: , 48" AGUNNARYD ceiling lamp has a 48" long rail with 3 metal lampshades in black with brass-colored inner sides that give a warm, soft light. Perfect to hang over a long table or kitchen island.
+
+# @OFFER
+Price: 149.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Ceiling cup/ Tube: Steel, Powder coating, Shade: Aluminum, Powder coating, Paint
+Features: Light bulbs sold separately. IKEA recommends LED bulb E26 (3 pcs). | Mounted with screws. | Screws are not included.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/agunnaryd-pendant-lamp-with-3-lamps-black__0859557_pe782370_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

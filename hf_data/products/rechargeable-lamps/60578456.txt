@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LÄNSPORT LED portable lamp, battery operated, white/dark gray, 8 ¾"
+SKU: 60578456
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/laensport-led-portable-lamp-battery-operated-white-dark-gray-60578456/
+Category: Rechargeable lamps
+Description: Outdoors, indoors, facing up or down. This portable lightweight battery-operated LED lamp is easy to carry where you like and place or hang to create coziness on a balcony or light up a dark nook in a...
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Shade/ Cap: Polycarbonate plastic, Cover: Polycarbonate plastic (min. 50% recycled), Handle: Thermoplastic elastomer
+Features: Rechargeable batteries are sold separately. IKEA recommends LADDA rechargeable battery 2450 mAh HR06 AA 1.2V. 3 pieces required. | USB-C cable and USB charger are sold separately. | Built-in LED light source that lasts approx. 25,000 hours.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/laensport-led-portable-lamp-battery-operated-white-dark-gray__1291688_pe935206_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

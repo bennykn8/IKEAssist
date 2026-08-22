@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ÄSPINGE kitchenette, black/ash
+SKU: 20500285
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/aespinge-kitchenette-black-ash-20500285/
+Category: ÄSPINGE complete kitchenettes
+Description: , 471/4x235/8x793/8" ÄSPINGE kitchenette doesn’t compromise on quality, function or personal expression. Clever storage solutions and a blend of materials make this small-size unit into a big show of ...
+
+# @OFFER
+Price: 550
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Door/ Drawer back/ Drawer front/ Drawer side/ Drawer bottom: Particleboard, Melamine foil, Plastic edging, Frame/ Shelf/ Bracket/ Door/ Hook/ Flatware tray: Steel, Epoxy/polyester powder coating, Countertop: Stainless steel
+Features: Includes: Kitchen frame, hanging wall shelves, backsplash with shelf, countertop, doors, drawer boxes, 2 cutlery trays, 12 hooks, 2 handles, legs, hinges and hardware. | FYNDIG sink, LAGAN mixer tap and LILLVIKEN sink strainer with stopper sold separately. | Complete with your choice of TILLREDA portable cooktop, LAGAN or TILLREDA refridgerators, TILLREDA microwave oven, HÅLLBAR waste management and VARIERA/UPPDATERA organizers. Sold separately.
+Care: Wipe clean with a damp cloth. | Wipe clean with a soft cloth dampened with water and a mild dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/aespinge-kitchenette-black-ash__1092710_pe862965_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

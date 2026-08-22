@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VARMBLIXT LED wall lamp, white metal/circle
+SKU: 00531476
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/varmblixt-led-wall-lamp-white-metal-circle-00531476/
+Category: Wall sconces & lamps
+Description: Have you ever experienced the seconds before a solar eclipse? Then you will probably recognize the glow from this round LED wall lamp. Like a beautiful painting, its soft light is sure to be an eye-ca...
+
+# @OFFER
+Price: 99.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Diffuser: Polycarbonate plastic, Connecting profile: Aluminum, Powder coating
+Features: Built-in LED light source. | The light source has a lifetime of approx. 25,000 hours. This corresponds to about 20 years if the lamp is on for 3 hours per day. | Light color: warm white (2700 Kelvin).
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/varmblixt-led-wall-lamp-white-metal-circle__1116838_pe872594_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

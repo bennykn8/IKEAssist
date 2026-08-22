@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KOMPLEMENT clothes rod, white
+SKU: 80446455
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/komplement-clothes-rod-white-80446455/
+Category: PAX Interior organizers
+Description: , 291/2x133/4" This sturdy clothes rail matches perfectly with the PAX wardrobe frames, allowing you to create a well coordinated solution with a built-in feeling. 10-year Limited Warranty. Read about...
+
+# @OFFER
+Price: 20
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Fiberboard, Solid wood, Paper foil, Clothes rail: Steel, Epoxy powder coating
+Features: The clothes rail holds about 4 coats or 8 shirts on hangers. | The recommended maximum weight applies when the weight load is evenly distributed across the surface. | Fits 13¾" deep frames.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/komplement-clothes-rod-white__0797483_pe766890_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

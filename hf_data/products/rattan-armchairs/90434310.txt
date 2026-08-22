@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ULRIKSBERG armchair, rattan/anthracite
+SKU: 90434310
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ulriksberg-armchair-rattan-anthracite-90434310/
+Category: Rattan armchairs
+Description: Made of hand-woven rattan, a living material that makes each armchair unique. It's airy, comfortable to sit in and easy to move around thanks to its low weight. A great way to invite nature into your ...
+
+# @OFFER
+Price: 159.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Weaving: Rattan, Clear acrylic lacquer, Seat frame/ Back frame/ Leg frame: Steel, Epoxy/polyester powder coating
+Features: For indoor use. | Rattan is a natural fiber that might change color over time. | The material in this product may be recyclable. Please check the recycling rules in your community and if recycling facilities exist in your area.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ulriksberg-armchair-rattan-anthracite__0672896_pe716932_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

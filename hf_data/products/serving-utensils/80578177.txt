@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: IKEA 365+ 4-piece serving set, stainless steel
+SKU: 80578177
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ikea-365-4-piece-serving-set-stainless-steel-80578177/
+Category: Serving utensils
+Description: IKEA 365+ series has everything for the table – enjoyed for its everyday simplicity or spiced up with colors and accessories. The cutlery is made of stainless steel that is durable and easy to clean.
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Stainless steel
+Features: Includes: 1 serving spoon, 1 serving ladle, 1 serving fork, and 1 cake server. | Wash this product before using it for the first time.
+Care: Dishwasher-safe. | For the flatware to be easy to clean and to reduce the risk of corrosion, always rinse off the remains of any food immediately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ikea-365-4-piece-serving-set-stainless-steel__0713271_pe729381_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

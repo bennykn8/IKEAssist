@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SLATTUM upholstered bed frame, Knisa bright blue, Queen
+SKU: 10571278
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/slattum-upholstered-bed-frame-knisa-bright-blue-10571278/
+Category: Upholstered beds
+Description: SLATTUM bed frame has a cover in a bold color and quilted pattern that brightens up your bedroom. Easy to like – and convenient to bring home thanks to the whole frame coming in a single package.
+
+# @OFFER
+Price: 149
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100% polyester (min. 90% recycled), Headboard: Steel, Polyester wadding, Polyurethane foam 1.2 lb/cu.ft., Footboard: Steel
+Features: Slatted bed base and midbeam are included. | Mattress and bedlinens are sold separately. | The back of the headboard is finished with a black non-woven material.
+Care: Vacuum clean. | Wipe clean using a damp cloth and a mild cleaner.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/slattum-upholstered-bed-frame-knisa-bright-blue__1259377_pe926668_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

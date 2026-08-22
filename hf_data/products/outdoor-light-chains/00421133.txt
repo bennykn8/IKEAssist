@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: UTSUND LED string light with 12 lights, outdoor, battery operated black
+SKU: 00421133
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/utsund-led-string-light-with-12-lights-outdoor-battery-operated-black-00421133/
+Category: Outdoor light chains
+Description: . Enjoy light outdoors after sunset. Light chains are perfect when you want a nice setting for your balcony, terrace or garden.
+
+# @OFFER
+Price: 22.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Cover, upper side/ Cover, underside/ Battery box: ABS plastic, Screw: Polyamide, Switch cover/ Housing: Synthetic rubber
+Features: Built-in LED light source. | IKEA recommends LADDA rechargeable batteries. | Approved for use as outdoor lighting, IP 44.
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/utsund-led-string-light-with-12-lights-outdoor-battery-operated-black__0634463_pe696488_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

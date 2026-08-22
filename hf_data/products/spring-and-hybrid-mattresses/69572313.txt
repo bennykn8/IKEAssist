@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VESTERÖY mattress and mattress pad, medium firm white/Nisseholm white, King
+SKU: 69572313
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vesteroey-mattress-and-mattress-pad-medium-firm-white-nisseholm-white-s69572313/
+Category: Spring & hybrid mattresses
+Description: Pocket springs that respond independently without transferring motion to others. Soft stretch fabric follows your body movements and added wool wadding offers extra cushioning and breathability.
+
+# @OFFER
+Price: 478
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Ticking: 100 % polyester (100% recycled), Quilt filling: 100% polyester (min. 70% recycled), Backing: 100 % polypropylene
+Features: The mattress may need about 72 hours to fully regain its shape and comfort after having been roll-packed. Any wrinkles will disappear too. | Sometimes the packaging may have given the mattress a noticeable smell which will disappear over a short period of time. | Care instructions can be found inside the cover.
+Care: Mattress topper cover: Machine wash warm (max 140°F/60°C) normal cycle. | Mattress topper cover: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vesteroey-mattress-and-mattress-pad-medium-firm-white-nisseholm-white__1372279_pe959392_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

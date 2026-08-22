@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GLADSTAD upholstered bed frame, Kabusa light gray, Queen
+SKU: 00490466
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/gladstad-upholstered-bed-frame-kabusa-light-gray-00490466/
+Category: Upholstered beds
+Description: The GLADSTAD upholstered bed frame has a clean and modern design, while being comfortable and inviting with its padded headboard and soft cover with a slight texture. Sleep tight – in style!
+
+# @OFFER
+Price: 229
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100% polyester (min. 90% recycled), Bed slats: Layer-glued wood veneer, Adhesive resin as coating, Headboard: Steel, Felt liner, Polyurethane foam 1.2 lb/cu.ft., Polyester wadding
+Features: Center support beam and slatted bed base are included. | Mattress and bedlinens are sold separately. | The back of the headboard is finished with a black non-woven material.
+Care: Frame, non-removable cover: Vacuum clean. | Frame, non-removable cover: Wipe clean using a damp cloth and a mild cleaner.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/gladstad-upholstered-bed-frame-kabusa-light-gray__0984348_pe816238_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

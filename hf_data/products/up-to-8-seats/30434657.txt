@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KLIMPFJÄLL dining table, gray-brown
+SKU: 30434657
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/klimpfjaell-dining-table-gray-brown-30434657/
+Category: Up to 8 seats
+Description: , 941/2x373/8" This rectangular table invites family and friends to share meals and precious moments together. Generously sized in a durable hardwood construction, for creating long-lasting memories, ...
+
+# @OFFER
+Price: 699
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Particleboard, Beech veneer, Beech veneer, Beech veneer, Stain, Clear acrylic lacquer, Side rail/ Cross rail/ Bottom rail: Solid beech, Adhesive, Stain, Clear acrylic lacquer, Trestle: Solid beech, Solid beech, Stain, Clear acrylic lacquer
+Features: Seats 6-8.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/klimpfjaell-dining-table-gray-brown__0976445_pe813230_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: MÄVINN wall decoration, set of 2, banana fiber handmade
+SKU: 00600993
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/maevinn-wall-decoration-set-of-2-banana-fiber-handmade-00600993/
+Category: Table decor & decorative accessories
+Description: Each wall decoration is handwoven from banana fibers and black cotton threads with a technique passed down through generations. The contrasting colors create a bold geometric design that catches the e...
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Wickerpart: Banana fibers, Clear lacquer, Rope: 100 % cotton, Clear lacquer
+Dimensions: Comprises: 1 wall decoration (dia. 12.6"/height 2.5") and 1 wall decoration (dia. 11.8"/height 2.4").
+Features: Only keep in dry locations.
+Care: Clean with a duster and occasionally with a damp cloth to remove chalk build-up.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/maevinn-wall-decoration-set-of-2-banana-fiber-handmade__1382337_pe962260_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

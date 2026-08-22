@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: BJURSTA wall-mounted drop-leaf table, brown-black
+SKU: 80217524
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/bjursta-wall-mounted-drop-leaf-table-brown-black-80217524/
+Category: Wall-mounted tables
+Description: , 353/8x195/8" Becomes a practical shelf for small things when folded down. You save space when the table is not being used as it can be folded away. The clear-lacquered surface is easy to wipe clean....
+
+# @OFFER
+Price: 59.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Particleboard, Ash veneer, Stain, Clear acrylic lacquer, Top rail: Particleboard, Ash veneer, Ash veneer, Stain, Clear acrylic lacquer, Underframe/ Mounting plate: Steel, Epoxy/polyester powder coating
+Dimensions: For use at table height: Mount the table to the wall so that the top edge of the table top reaches a height of ca. 29⅛".
+Features: Seats 2. | Recommended for indoor use only. | For use at bar table height: Mount the table to the wall so that the top edge of the table top reaches a height of ca. 37⅜" or 41¾", depending on seat height of the bar chair.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/bjursta-wall-mounted-drop-leaf-table-brown-black__0736621_pe740672_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

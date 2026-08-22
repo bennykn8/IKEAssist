@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VOXTORP cover panel, high gloss dark gray-brown
+SKU: 30601726
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/voxtorp-cover-panel-high-gloss-dark-gray-brown-30601726/
+Category: SEKTION Cover panels & deco strips
+Description: , 26x36" Covered with high-gloss foil; gives an easy care finish. 25-year Limited Warranty. Read about the terms in the Limited Warranty brochure.
+
+# @OFFER
+Price: 90
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Front: Particleboard, Front side: Plastic foil (min. 70% recycled), Back side: Plastic foil
+Features: Attach a cover panel to the side of a cabinet at the end of a row. | Fits SEKTION kitchen series.
+Care: Wipe dry with a clean cloth. | Wipe clean with a microfiber cloth dampened in water, for more difficult stains use a mild cleaning detergent and rub carefully with circular motions.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/voxtorp-cover-panel-high-gloss-dark-gray-brown__1346951_pe959558_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

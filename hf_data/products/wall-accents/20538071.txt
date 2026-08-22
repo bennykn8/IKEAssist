@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GALLERISKOG wall decoration, set of 3, mixed motifs
+SKU: 20538071
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/galleriskog-wall-decoration-set-of-3-mixed-motifs-20538071/
+Category: Wall accents
+Description: GALLERISKOG wall decorations, designed by Lisa Bengtsson, are 3 different illustrations united by a playful expression. Use them individually or combine with other decorations for a picture wall.
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: High-pressure melamine laminate, Suspension fitting: Polypropylene
+Features: Plastic hardware for hanging the decorations on the wall are included. | Includes: 2 wall decorations (Ø10⅝") and 1 wall decoration (Ø12⅝").
+Care: Clean with a duster.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/galleriskog-wall-decoration-set-of-3-mixed-motifs__1119755_pe873577_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

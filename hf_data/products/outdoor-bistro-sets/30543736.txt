@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FURUÖN dining table w 2 chairs+2 footstl, brown/outdoor
+SKU: 30543736
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/furuoen-dining-table-w-2-chairs-2-footstl-brown-outdoor-30543736/
+Category: Outdoor bistro sets
+Description: You can use this set as both a dining area and lounge furniture for 2. The smart solution is compact and fits even in smaller spaces – while making your outdoor space both flexible and stylish.
+
+# @OFFER
+Price: 249
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top/ Back: Solid acacia wood, Acrylic stain, Leg frame: Steel, Powder coating, Steel, Powder coating, Steel, Powder coating, Feet: Polyamide, Polyamide, Polyamide
+Features: Only recommended for outdoor use.
+Care: The best way to extend the life of your wooden outdoor furniture is by cleaning it regularly, not leaving it outdoors unprotected more than necessary, and re-staining it on a regular basis. | Clean: Use a mild soapy solution. Wipe dry with a clean dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/furuoen-dining-table-w-2-chairs-2-footstl-brown-outdoor__1236723_pe917720_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: KOMPLEMENT Clothes rail, white
+SKU: 40256895
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/komplement-clothes-rail-white-40256895/
+Category: PAX Interior organizers
+Description: , 29 1/2". A must have for any wardrobe - hanging your clothes keeps them wrinkle-free and gives you an overview so it’s easy to find the best outfit in the morning. Sorting by color or style might he...
+
+# @OFFER
+Price: 15
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Epoxy/polyester powder coating
+Dimensions: Available in different widths and depths.
+Features: The clothes rail holds about 30 shirts on hangers. | The recommended maximum weight applies when the weight load is evenly distributed across the surface. | Fits only PAX wardrobe frame 29x23", see “Product size” for all exact product dimensions.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/komplement-clothes-rail-white__0650345_pe706147_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

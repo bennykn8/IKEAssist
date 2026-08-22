@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HJÄLPA pull-out rail for baskets, white
+SKU: 10331194
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hjaelpa-pull-out-rail-for-baskets-white-10331194/
+Category: SMÅSTAD interior fittings
+Description: , 215/8" HJÄLPA interior organizers include rails, baskets, hooks, and shelves, which make the most of the available space and keep things organized.
+
+# @OFFER
+Price: 3
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Steel, Epoxy/polyester powder coating, Wheel: Acetal plastic
+Features: To be completed with HJÄLPA wire basket, sold separately. | Fits PLATSA frames 21⅔" deep.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hjaelpa-pull-out-rail-for-baskets-white__0643123_pe701693_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: SILVERGLANS / RODRET lighting kit, anthracite
+SKU: 09549641
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/silverglans-rodret-lighting-kit-anthracite-s09549641/
+Description: , 24"
+
+# @OFFER
+Price: 73.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Lamp house: Aluminum, Powder coating, Diffuser: Polycarbonate plastic, Bracket: ABS plastic (min. 20% recycled)
+Features: A flashing light indicates when the maximum wattage for the LED driver is exceeded. | With RODRET wireless dimmer, you can dim your lighting without a wired-in installation. | The dimmer has a maximum range of 33 ft when not blocked by walls.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/silverglans-rodret-lighting-kit-anthracite__1219502_pe913448_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

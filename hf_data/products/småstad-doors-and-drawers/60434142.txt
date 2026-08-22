@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SMÅSTAD box, white
+SKU: 60434142
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/smastad-box-white-60434142/
+Category: SMÅSTAD doors & drawers
+Description: , 353/8x191/4x187/8" This box with castors and a white front transforms SMÅSTAD bench into a spacious piece of storage furniture with room for everything from toys to sports equipment. Choose doors, d...
+
+# @OFFER
+Price: 55
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Drawer front: Fiberboard, Acrylic paint, Drawer side/ Drawer back: Particleboard, Melamine foil, Rail: Fiberboard
+Features: To be completed with SMÅSTAD bench. | Casters included.
+Care: Wipe clean with a damp cloth. | Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/smastad-box-white__0840994_pe778738_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

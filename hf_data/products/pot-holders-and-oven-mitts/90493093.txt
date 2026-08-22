@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: INAMARIA oven mitt, patterned/red
+SKU: 90493093
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/inamaria-oven-mitt-patterned-red-90493093/
+Category: Pot holders & oven mitts
+Description: Convenient for both right or left-handed use. Felted polyester layer in between gives very good heat insulation. With loop for hanging and easy storing when not in use.
+
+# @OFFER
+Price: 3.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Outer fabric/ Inner fabric: 100 % cotton, Filling/ Filling: 100% polyester (min. 70% recycled), Protection layer/ Edge fabric: 100 % polyester (100% recycled)
+Care: Shrinkage maximum 4%. | Machine wash warm (max 140°F/60°C) normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/inamaria-oven-mitt-patterned-red__1084416_pe859644_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

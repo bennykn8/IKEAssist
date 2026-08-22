@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KUGGIS storage box with lid, white, 12 ½x12 ½x12 ½"
+SKU: 00526875
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kuggis-storage-box-with-lid-white-00526875/
+Category: Paper & media storage boxes
+Description: Timeless cubic storage. This box with lid is nice to have out in the open and spacious enough for the things you use often but want hidden. Part of the KUGGIS series that has more sizes to choose from...
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: PET plastic (min. 50% recycled)
+Features: Not approved for food contact. | Product is possible to recycle or use for energy recovery, if available in your community.
+Care: Wipe clean with a soft cloth dampened with water and a mild dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kuggis-storage-box-with-lid-white__1139591_pe880451_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

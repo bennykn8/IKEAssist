@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FARDAL door, high gloss white
+SKU: 80190529
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/fardal-door-high-gloss-white-80190529/
+Category: PAX doors without hinges
+Description: , 191/2x903/8" FARDAL is one of our best no-frills doors that comes in a high-gloss finish and natural colors that will fit (almost) any space in your home. 10-year Limited Warranty. Read about the te...
+
+# @OFFER
+Price: 140
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Front: Particleboard, Front side/ Back side: Plastic foil, Edge: Plastic edging, Plastic edging
+Features: Knobs and handles are sold separately. | Fits with PAX wardrobe system. | To be completed with KOMPLEMENT hinges 4-pack.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/fardal-door-high-gloss-white__0640051_pe699618_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

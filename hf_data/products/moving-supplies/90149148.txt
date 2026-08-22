@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: FRAKTA storage bag for cart, blue, 28 ¾x13 ¾x11 ¾"20 gallon
+SKU: 90149148
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/frakta-storage-bag-for-cart-blue-90149148/
+Category: Moving supplies
+Description: After 30 years in our range, it’s one of the most hardworking bags in the world. It’s big and strong and carries most things. Be it shopping, doing laundry or going to the beach, it goes wherever you ...
+
+# @OFFER
+Price: 5
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polypropylene (min. 60% recycled)
+Care: Do not wash. | Do not tumble dry.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/frakta-storage-bag-for-cart-blue__0711261_pe728099_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KIVIK sofa, Grann/Bomstad black
+SKU: 80519531
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kivik-sofa-grann-bomstad-black-80519531/
+Category: Three-seat sofas
+Description: Cuddle up in the comfortable KIVIK sofa. The generous size, low armrests and pocket springs with foam that adapts to the body invites you and your guests to many hours of socializing and relaxation. 1...
+
+# @OFFER
+Price: 1049
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Coated fabric parts: 100 % polyurethane, 75 % polyester, 25 % cotton, Leather: Dyed through top-grain leather with a treated, embossed and pigmented surface, Back and seat frame: Particleboard, Plywood, Fiberboard, Solid wood, Polyurethane foam 1.2 lb/cu.ft.
+Features: The seat- and back cushions and inside, outside, top and front of the armrests are covered with GRANN – a soft, smooth and strong grain leather with natural variations. Other surfaces have the coated fabric BOMSTAD.
+Care: Clean with a dust cloth or vacuum lightly using the soft brush attachment. | Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kivik-sofa-grann-bomstad-black__0137863_pe296632_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

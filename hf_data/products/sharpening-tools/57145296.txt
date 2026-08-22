@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ASPEKT knife sharpener, black
+SKU: 57145296
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/aspekt-knife-sharpener-black-57145296/
+Category: Sharpening tools
+Description: Sharp knives are a cook's best friends and this knife sharpener can be yours. Simple to handle, easy to store and always ready to give your knives a workout. Helps you keep your knives sharp and ready...
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polyamide, Feldspar porcelain, Polycarbonate plastic
+Features: The knife sharpener’s container should be filled with water the whole time the sharpener is being used. | Possible to separate for recycling or energy recovery if available in your community.
+Care: Handwash only.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/aspekt-knife-sharpener-black__0711089_pe727974_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

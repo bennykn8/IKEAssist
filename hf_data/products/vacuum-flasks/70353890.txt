@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BEHÖVD vacuum flask, light green/beige, 34 oz
+SKU: 70353890
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/behoevd-vacuum-flask-light-green-beige-70353890/
+Category: Vacuum flasks
+Description: On the way to the beach for a picnic or a friend’s cake party? Wherever the action is, the green-beige BEHÖVD vacuum flask keeps the beverage warm or cold.
+
+# @OFFER
+Price: 4.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Knob/ Body/ Support/ Base: Polypropylene, Washer/ Seal: Silicone rubber, Insert: Glass
+Features: Keeps the contents warm/cold for up to 6 hours. | Wash this product before using it for the first time.
+Care: Handwash only.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/behoevd-vacuum-flask-light-green-beige__0711249_pe728124_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

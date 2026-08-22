@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KOMPLEMENT valet hanger, white
+SKU: 70256931
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/komplement-valet-hanger-white-70256931/
+Category: PAX Interior organizers
+Description: , 63/4x2" No matter how organized your wardrobe is, sometimes it’s handy to have an extra space to hang yesterday’s clothes for airing or to hang tomorrows outfit so that it’s ready to go – saving you...
+
+# @OFFER
+Price: 5
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Epoxy/polyester powder coating
+Features: The included screws fit perfectly in the pre-drilled holes in PAX wardrobes. For use with other wardrobes, drilling is required. Use screws suitable for the material, sold separately. | Fits with open wardrobes and wardrobes with hinged doors.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/komplement-valet-hanger-white__0650391_pe706164_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

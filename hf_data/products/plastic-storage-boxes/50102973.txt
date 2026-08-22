@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SAMLA insert for box 3 and 6 gallon, clear, 14 ½x9 ¾x4 ¾"
+SKU: 50102973
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/samla-insert-for-box-3-and-6-gallon-clear-50102973/
+Category: Plastic storage boxes
+Description: Use it on its own or inside SAMLA boxes, 3 gallon and 6 gallon. It has a handle so you can easily bring it along. The clear plastic reveals the contents inside so you can easily find what you are look...
+
+# @OFFER
+Price: 3.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polypropylene
+Features: Recommended for indoor use only. | Possible to recycle the plastic parts, if available in your community. | Not approved for food contact.
+Care: Wipe clean with a soft cloth dampened with water and a mild dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/samla-insert-for-box-3-and-6-gallon-clear__0710849_pe727799_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

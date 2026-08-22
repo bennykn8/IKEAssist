@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: JÄRPÖN cover for seat pad, outdoor anthracite
+SKU: 20445331
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/jaerpoen-cover-for-seat-pad-outdoor-anthracite-20445331/
+Category: Outdoor chair cushions
+Description: , 243/8x243/8" This cushion cover is extra comfortable and durable. A padded inlay makes it softer, the color is fade resistant and the fabric water repellent. With separate covers you can easily rene...
+
+# @OFFER
+Price: 25
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric/ Lining, top: 100% polyester (min. 90% recycled), Filling: 100 %polyester, Lining, underside: 65 % Synthetic rubber, 35 % polyester
+Features: Inner cushion is sold separately. | To be completed with DUVHOLMEN inner seat pad 24⅜x24⅜". Sold separately. | May be completed with TOSTERÖ storage box or VÄTTERSÖ storage box.
+Care: Pad: Hand wash warm water. | Pad: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/jaerpoen-cover-for-seat-pad-outdoor-anthracite__0786577_pe763026_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

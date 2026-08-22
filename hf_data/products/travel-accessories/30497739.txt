@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: RENSARE waterproof bag, 6 ¼x4 ¾x9 ½"/85 oz
+SKU: 30497739
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/rensare-waterproof-bag-30497739/
+Category: Travel accessories
+Description: This bag can fit in a larger bag and is perfect for sweaty workout clothes, wet swimwear and delicate bottles. The bag is also waterproof if you fold the top edge 3 times and lock the snap strap.
+
+# @OFFER
+Price: 3.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: finish: 100 %polyester, EVA plastic, Webbing: 100 %polyester, 100 % polyester
+Care: Clean with lukewarm water.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/rensare-waterproof-bag__0976287_pe813135_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

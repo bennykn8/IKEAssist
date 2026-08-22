@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BLIDVÄDER table lamp, off-white ceramic/beige
+SKU: 80514171
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/blidvaeder-table-lamp-off-white-ceramic-beige-80514171/
+Category: Table lamps
+Description: , 20" Table lamp with a sturdy ceramic base, a brass-colored lamp holder and a lampshade with visible textile fibers. All with a classic shape that goes with most decors and in all rooms of the home.
+
+# @OFFER
+Price: 89.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Base: Stoneware, Colored glaze, Tube: Steel, Brass plated, Shade: 85 % polyester (100% recycled), 15 % linen
+Features: Light bulb sold separately. IKEA recommends LED bulb E26 globe opal white.
+Care: Remove dust with a lint remover.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/blidvaeder-table-lamp-off-white-ceramic-beige__1059594_pe849715_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

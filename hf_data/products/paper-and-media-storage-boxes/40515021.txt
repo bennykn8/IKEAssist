@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: PANSARTAX storage box with lid, transparent gray-blue
+SKU: 40515021
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/pansartax-storage-box-with-lid-transparent-gray-blue-40515021/
+Category: Paper & media storage boxes
+Description: , 13x13x13" This box with lid is ideal for organizing hobby items and more, comprises of more than 50% recycled plastic and gives you a sense of what's inside without revealing everything.
+
+# @OFFER
+Price: 17.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polypropylene plastic (min. 50% recycled)
+Features: The high percentage of recycled plastic in this product results in the material possibly having some slight color variations. | Not approved for food contact. | Possible to recycle the plastic parts, if available in your community.
+Care: Wipe clean with a soft cloth dampened with water and a mild dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/pansartax-storage-box-with-lid-transparent-gray-blue__1119007_pe873358_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

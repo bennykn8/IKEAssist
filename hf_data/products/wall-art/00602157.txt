@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: RÖDALM frame with poster, bounce, 16 ¼x
+SKU: 00602157
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/roedalm-frame-with-poster-bounce-00602157/
+Category: Wall art
+Description: 20" Motif created by Lauri Hopkins. If you want some variation, you can easily change motif in the frame. With ALFTA adhesive hook you can easily hang this frame without nails or screws. Front protect...
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame/ Inside frame: Fiberboard, Paper foil, Front protection: Polystyrene, Poster/ Mat: Paper
+Features: Screws for wall mounting not included. Different wall materials require different fixing devices, use devices suitable for your walls. IKEA recommends ALFTA adhesive hook. | The mat will not turn yellow since it is acid-free.
+Care: Clean with a duster.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/roedalm-frame-with-poster-bounce__1392162_pe966025_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VITTSJÖ storage combination, white/glass
+SKU: 89294551
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vittsjoe-storage-combination-white-glass-s89294551/
+Category: Storage shelves & shelving units
+Description: , 1181/8x141/8x687/8" The straightforward design and glass shelves allow your beloved objects to stand out revealing the true you. The white metal frame feels light and airy and won’t make your space ...
+
+# @OFFER
+Price: 217
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Steel, Epoxy/polyester powder coating, Bottom panel/ Top panel: Particleboard, Melamine foil, Plastic edging, Fixed shelf: Tempered glass
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home.
+Care: Wipe clean with a damp cloth. | Check regularly that all assembly fastenings are properly tightened and retighten when necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vittsjoe-storage-combination-white-glass__0754494_pe747943_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

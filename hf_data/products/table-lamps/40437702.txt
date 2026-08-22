@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: UPPVIND table lamp, nickel plated/white
+SKU: 40437702
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/uppvind-table-lamp-nickel-plated-white-40437702/
+Category: Table lamps
+Description: , 19" The table lamp’s slim oval shade rests on a sturdy metal base and spreads a soft, decorative light wherever you choose to place it. Why not combine it with the matching UPPVIND floor lamp?
+
+# @OFFER
+Price: 79.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Shade: 100 % polyester, Frame/ Tube: Aluminum, Epoxy coating, Base/ Cup: Steel, Nickel plated, Epoxy coating
+Features: Use an opal light bulb if you have an ordinary lamp shade or lamp and want an even, diffused distribution of light. | Use a clear light bulb if you have a lamp shade or lamp with a perforated or cut-out pattern or other airy, open design and want the pattern to cast effects on the wall and ceiling. | Light bulb sold separately. IKEA recommends LED bulb E26 globe opal white.
+Care: Remove dust with a lint remover.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/uppvind-table-lamp-nickel-plated-white__0957669_pe805081_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

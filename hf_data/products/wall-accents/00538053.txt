@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HÄNGALM hanging tapestry, beige black/light lilac-blue
+SKU: 00538053
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/haengalm-hanging-tapestry-beige-black-light-lilac-blue-00538053/
+Category: Wall accents
+Description: , 331/2x235/8" HÄNGALM wall decoration, designed by Luna Gil and Paulin Machado, is perfect by a sofa or on another larger wall surface. The handmade feel with a lovely texture and fine details create...
+
+# @OFFER
+Price: 59.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Textile parts: 100 % cotton, Hanger: Bamboo, Clear lacquer
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home.
+Care: Clean by vacuuming or use a lint roller. | Do not wash.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/haengalm-hanging-tapestry-beige-black-light-lilac-blue__1115789_pe872252_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SMÅHAGEL 1-port USB charger, white
+SKU: 10538731
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/smahagel-1-port-usb-charger-white-10538731/
+Category: USB chargers, portable chargers & more
+Description: SMÅHAGEL charger is great for smaller electronic devices or decorative lighting that you want to leave on for a long time without worrying about overheating. The size makes it suitable for travelling ...
+
+# @OFFER
+Price: 4.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polycarbonate plastic
+Features: Output power: 1A, 5W. | Voltage USB port: 5Vdc. | Comes with built-in over-current protection, short-circuit protection and overheating protection.
+Care: Remove the socket from the power outlet before cleaning. | Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/smahagel-1-port-usb-charger-white__1118626_pe878554_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

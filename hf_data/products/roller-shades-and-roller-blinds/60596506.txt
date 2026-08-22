@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TANDLUNDFLY double layered blind, 34x98 ½"
+SKU: 60596506
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tandlundfly-double-layered-blind-60596506/
+Category: Roller shades & roller blinds
+Description: This double roller blind is easy to pull down and push up. You can also adjust both the light and transparency level from sheer to private in a flash. Smart, right? Can be mounted inside or outside th...
+
+# @OFFER
+Price: 49.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top rail/ Bottom rail: Aluminium (min. 70% recycled), Powder coating, Fabric: 100% polyester (min. 80% recycled)
+Features: Wall/ceiling screws not included. | Different wall/ceiling materials require different types of fasteners. Use fasteners suitable for the wall/ceiling in your home (not included). | RIKTIG draw rod makes it easier to pull down the blind.
+Care: Do not wash. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tandlundfly-double-layered-blind__1322854_pe942298_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

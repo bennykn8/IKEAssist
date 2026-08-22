@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SMÖRLING serving tray, set of 2, beech
+SKU: 10570660
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/smoerling-serving-tray-set-of-2-beech-10570660/
+Category: Trays
+Description: These wooden serving trays look great on their own – and even more so with food or decorative items. Made from cut-offs from other wooden products and with the same oval shape as the IKEA 365+ series!...
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Solid beech
+Features: Set of 2 serving trays in the sizes 7⅞x14⅛" and 5⅞x11". | There may be variations in the wood pattern since the serving tray is made from cut-offs from our production of other wooden products.
+Care: Should be treated with food approved oil before using and then at regular intervals. | Handwash only.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/smoerling-serving-tray-set-of-2-beech__1219209_pe913319_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

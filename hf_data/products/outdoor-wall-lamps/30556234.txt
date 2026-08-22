@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: UPPLID wall lamp, outdoor black
+SKU: 30556234
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/upplid-wall-lamp-outdoor-black-30556234/
+Category: Outdoor wall lamps
+Description: , 11" This black wall lamp in durable metal with clear glass in the shade spreads a pleasant light in your outdoor space. Form and function in beautiful harmony – and there are several models to choos...
+
+# @OFFER
+Price: 34.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Shade: Glass, Shade holder/ Arm/ Wall plate/ Cover/ Tube: Steel, Powder coating, Ring: Steel
+Features: Light bulb sold separately. IKEA recommends LED bulb E26 globe clear. | To be installed by a qualified electrician.
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/upplid-wall-lamp-outdoor-black__1169840_pe892577_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

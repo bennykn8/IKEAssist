@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: NISSÖGA napkin, gray/dark blue
+SKU: 20555046
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/nissoega-napkin-gray-dark-blue-20555046/
+Category: Napkins
+Description: , 14x14" Set the table with a classic yet playful pattern. NISSÖGA napkins are made of a cotton and jute blend with a natural and strong look – great to match with the tablecloth and place mats in the...
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 90 % cotton, 10 % jute
+Care: Shrinkage maximum 4%. | Machine wash warm, normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/nissoega-napkin-gray-dark-blue__1157319_pe887618_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

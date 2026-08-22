@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ÄNKEBLOMSTER wine glass, clear glass, 8 oz
+SKU: 60591839
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/aenkeblomster-wine-glass-clear-glass-60591839/
+Category: Wine & champagne glasses
+Description: With ÄNKEBLOMSTER you don’t need to use plastic glasses when you have people over. And they’re just as nice to drink from no matter what you serve. A slightly smaller wine glass but just as nice to dr...
+
+# @OFFER
+Price: 0.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Glass
+Features: Wash this product before using it for the first time. | The material in this product may be recyclable. Please check the recycling rules in your community and if recycling facilities exist in your area.
+Care: Dishwasher-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/aenkeblomster-wine-glass-clear-glass__1341141_pe948653_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: TÄRNÖ table+2 chairs, outdoor, white/green
+SKU: 19490777
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/taernoe-table-2-chairs-outdoor-white-green-s19490777/
+Category: Outdoor bistro sets
+Description: A neat set that is easy to place – even where space is limited. The classic look enhances any balcony or patio. The furniture is foldable and can be stored away when the outdoor season is over.
+
+# @OFFER
+Price: 79
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Slats: Solid acacia wood, Acrylic stain, Clear lacquer, Leg/ Rail/ Cross rail/ Support: Steel, Polyester powder coating, Feet/ Protector: Polypropylene
+Dimensions: Table (length 21⅝", width 21", height 27½"). Chair (width 15", depth 15¾", height 31", seat width 15", seat depth 11", seat height 17¾").
+Features: Only recommended for outdoor use. | Possible to separate for recycling or energy recovery if available in your community. | May be completed with TOSTERÖ storage bag or TOSTERÖ storage box.
+Care: Furniture: Clean: Use a mild soapy solution. Wipe dry with a clean dry cloth. | Furniture: Maintenance: To prevent the surface from drying out and cracking, and moisture from penetrating into the wood, we recommend you to re-stain the furniture on a regular basis, for example once or twice a year.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/taernoe-table-2-chairs-outdoor-white-green__1154043_pe885924_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

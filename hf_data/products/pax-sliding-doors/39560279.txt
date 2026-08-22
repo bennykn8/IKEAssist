@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: AULI pair of sliding doors, mirror glass
+SKU: 39560279
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/auli-pair-of-sliding-doors-mirror-glass-s39560279/
+Category: PAX sliding doors
+Description: , 59x791/8" The key to every good outfit is to see it in a good size mirror! These mirror panels creates the feeling of a bigger room at the same time. 10-year Limited Warranty. Read about the terms i...
+
+# @OFFER
+Price: 350
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Aluminium (min. 70% recycled), Anodized, Glass, Plastic foil
+Dimensions: Min. ceiling height required: 80¾".
+Features: Two people are required to do the assembly. | To be combined with 2 PAX wardrobe frames, width 29½". | Fits with PAX wardrobe system.
+Care: Wipe clean with a damp cloth. Use only water or window-cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/auli-pair-of-sliding-doors-mirror-glass__0640315_pe699702_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

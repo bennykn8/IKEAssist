@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LYNGÖR slatted mattress base with legs, dark gray, Queen
+SKU: 49574935
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lyngoer-slatted-mattress-base-with-legs-dark-gray-s49574935/
+Category: Mattress foundations & bases
+Description: A mattress base has two big advantages. It makes your bed higher and it helps your mattress keep its shape longer by distributing your body weight, providing extra support and lightening the load.
+
+# @OFFER
+Price: 320
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Bed base frame: Solid pine, Adhesive, Hook and loop fastener: 100 % nylon, Bed slats: Solid pine
+Features: Mattress and bedlinens are sold separately. | BURFJORD oak legs included. | Care instructions can be found inside the cover.
+Care: Removable cover: Machine wash warm, normal cycle. | Removable cover: Do not tumble dry.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lyngoer-slatted-mattress-base-with-legs-dark-gray__1275752_pe930637_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

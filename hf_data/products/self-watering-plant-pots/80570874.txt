@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SVÄMSKOG self-watering insert, terracotta/transparent, 24 oz
+SKU: 80570874
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/svaemskog-self-watering-insert-terracotta-transparent-80570874/
+Category: Self watering plant pots
+Description: Forget to water the plants sometimes? If so, SVÄMSKOG self-watering insert is the solution. Just stick it into the soil and it takes care of the watering for you. Fits any pot – and is nice to look at...
+
+# @OFFER
+Price: 4.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts/ Lid: Polypropylene plastic (min. 50% recycled), Sealing ring: Silicone rubber, Insert: Terracotta
+Features: We recommend to push the entire terracotta insert down into the soil. | For indoor and outdoor use at temperatures above 32°F. | The water container is comprised of a minimum of 50% recycled plastic.
+Care: Wipe clean with a soft cloth dampened with water and a mild dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/svaemskog-self-watering-insert-terracotta-transparent__1354899_pe952880_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

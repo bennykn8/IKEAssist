@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VARMFRONT portable charger, blue, 5200 mAh
+SKU: 90555651
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/varmfront-portable-charger-blue-90555651/
+Category: Rechargeable batteries & battery chargers
+Description: VARMFRONT is the perfect powerbank to bring on your trips. You can charge 2 products at the same time – and always make sure that your batteries are charged You can charge up to 2 devices at the same ...
+
+# @OFFER
+Price: 21.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polycarbonate plastic
+Features: The power bank comes with 1 USB-A port and 1 USB C port. | 4 LED indicators gradually show how much charging power remains and flash when the unit is charging. | Equipped with auto-detect function ‒ the USB charger detects the connected device and adjusts the power output accordingly.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/varmfront-portable-charger-blue__1172512_pe893329_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

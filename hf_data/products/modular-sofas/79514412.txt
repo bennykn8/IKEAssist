@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: SÖDERHAMN armrest, Tonerud red
+SKU: 79514412
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/soederhamn-armrest-tonerud-red-s79514412/
+Category: Modular sofas
+Description: SÖDERHAMN seating series allows you to sit deeply, low and softly with the loose back cushions for extra support. The sofa's sections can be used freestanding or combined in different ways to get a si...
+
+# @OFFER
+Price: 48
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Fiberboard, Solid wood, Uppholstery material: Polyurethane foam 1.2 lb/cu.ft., Smolder resistant lining: Polyester wadding
+Care: Removable cover: Machine wash cold, normal cycle. | Removable cover: To be washed separately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/soederhamn-armrest-tonerud-red__1213813_pe911319_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

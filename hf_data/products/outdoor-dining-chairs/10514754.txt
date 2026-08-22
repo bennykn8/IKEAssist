@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SEGERÖN armchair, outdoor, dark green
+SKU: 10514754
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/segeroen-armchair-outdoor-dark-green-10514754/
+Category: Outdoor dining chairs
+Description: Create a dining or lounging area for your balcony, patio, terrace or garden. The flexible SEGERÖN outdoor furniture series is designed for outdoor life and all types of weather, climates and activitie...
+
+# @OFFER
+Price: 120
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Seat frame: Steel, Steel, Steel, Polyester powder coating, Rope: 100 % polyester, Leg frame: Steel, Steel, Polyester powder coating
+Features: Only recommended for outdoor use. | Must be completed with FRÖSÖN or JÄRPÖN cover for chair cushion 17 ⅜x17 ⅜ ", sold separately.
+Care: Storing: If possible, store your outdoor furniture in a dry and cool place indoors. When stored outside, tilt the furniture and use water repellent covers to allow air to circulate to avoid moisture. | Cleaning: Wipe clean with a mild soapy solution. We recommend to not clean rope or metal furniture with a strong cleaning agent or an abrasive material since it may discolor or damage the surface.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/segeroen-armchair-outdoor-dark-green__1138767_pe880069_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

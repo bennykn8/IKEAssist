@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: RIDSTIG rug, flatwoven, off-white/green
+SKU: 10603335
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ridstig-rug-flatwoven-off-white-green-10603335/
+Category: Medium, large and extra-large rugs
+Description: , 6'7"x9'10" Foot-friendly soft cotton rug in off-white with vivid green check pattern. The flatweave makes it a perfect companion under the dining table – it’s easy to vacuum and chairs are easy to p...
+
+# @OFFER
+Price: 69.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % cotton
+Features: You will need 2 STOPP FILT rug underlay with anti-slip (5'5"x7'9") for this rug. Trim if necessary. | To ensure you are satisfied with the size of the rug once you get it home, we recommend that you measure the intended floor space for your rug before you buy it. | This rug fits under a 6-seat dining table, but can of course be used how and where you like in your home.
+Care: Shrinkage maximum 10%. | Do not wash.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ridstig-rug-flatwoven-off-white-green__1377922_pe961027_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

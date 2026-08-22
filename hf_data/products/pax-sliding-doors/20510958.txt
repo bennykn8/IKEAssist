@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: HASVIK pair of sliding doors, gray-beige
+SKU: 20510958
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hasvik-pair-of-sliding-doors-gray-beige-20510958/
+Category: PAX sliding doors
+Description: , 59x791/8" This sliding door is a perfect match with PAX frames in the same finish. The clean and simple look is an advantage since you can easily coordinate with other storage in your room. HASVIK d...
+
+# @OFFER
+Price: 250
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Door frame: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), ABS plastic, Acrylic paint, Cover strip/ Rail: Aluminum, Anodized
+Dimensions: To be combined with 2 PAX wardrobe frames, width 29½".
+Features: Fits with PAX wardrobe system.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hasvik-pair-of-sliding-doors-gray-beige__1190198_pe900137_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

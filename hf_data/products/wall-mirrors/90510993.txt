@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: GRANVÅG mirror with storage, wall hanging/green
+SKU: 90510993
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/granvag-mirror-with-storage-wall-hanging-green-90510993/
+Category: Wall mirrors
+Description: , 195/8x59" GRANVÅG mirror is designed by Aaron Probyn – and is more than meets the eye. The hooks hiding on the inside of the mirror door make it easier to organize items and your daily routines by t...
+
+# @OFFER
+Price: 109.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame/ Hook/ Wall Fitting: Steel, Epoxy/polyester powder coating, Magnet: Neodymium, Mirror glass: Glass
+Features: To hang securely in place on the wall, this mirror requires 4 screws.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/granvag-mirror-with-storage-wall-hanging-green__1116278_pe872449_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

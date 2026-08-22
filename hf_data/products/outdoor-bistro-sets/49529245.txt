@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: ASKHOLMEN wall table & folding chair, outdoor, dark brown/Frösön/Duvholmen beige
+SKU: 49529245
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/askholmen-wall-table-folding-chair-outdoor-dark-brown-froesoen-duvholmen-beige-s49529245/
+Category: Outdoor bistro sets
+Description: , 271/2x173/8" Made from durable, sustainably sourced acacia, ASKHOLMEN dining set with extra comfy cushion lets you enjoy meals in small outdoor spaces. Combine with other parts of the series to crea...
+
+# @OFFER
+Price: 89
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Solid acacia wood, Acrylic stain, 100% polyester (min. 90% recycled), Cover/ Smolder resistant lining: Polyester wadding
+Dimensions: Includes: Table (length 27½", width 17⅜", height 28"). Chair (width 14", depth 19", seat width 14", seat depth 12", seat height 18", height 34").
+Features: 1 cushion included. | Seats 2. | Only recommended for outdoor use.
+Care: Furniture: The best way to extend the life of your wooden outdoor furniture is by cleaning it regularly, not leaving it outdoors unprotected more than necessary, and re-staining it on a regular basis. | Furniture: Clean: Use a mild soapy solution. Wipe dry with a clean dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/askholmen-wall-table-folding-chair-outdoor-dark-brown-froesoen-duvholmen-beige__1249747_pe923475_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

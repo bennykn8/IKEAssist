@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VALEVÅG mattress and mattress pad, firm white/Nordberget white, Twin
+SKU: 39572507
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/valevag-mattress-and-mattress-pad-firm-white-nordberget-white-s39572507/
+Category: Spring & hybrid mattresses
+Description: Edge-to-edge pocket springs allow air to circulate for better breathability and there is no loss of comfort if 2 mattresses are placed next to each other.
+
+# @OFFER
+Price: 378
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Ticking: 100 % polyester (100% recycled), Comfort filling: Polyurethane memory foam 3.1 lb/cu.ft, Ticking/ Main parts/ Ticking, top/ Ticking, side: 100 % polyester (100% recycled)
+Features: The mattress may need about 72 hours to fully regain its shape and comfort after having been roll-packed. Any wrinkles will disappear too. | Sometimes the packaging may have given the mattress a noticeable smell which will disappear over a short period of time. | Memory foam reacts to body heat to feel warmer, but may react slower in cooler bedrooms.
+Care: Mattress topper cover: Machine wash warm (max 140°F/60°C) normal cycle. | Mattress topper cover: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/valevag-mattress-and-mattress-pad-firm-white-nordberget-white__1372292_pe959405_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

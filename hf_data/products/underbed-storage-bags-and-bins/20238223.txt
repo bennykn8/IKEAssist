@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: VARDÖ Underbed storage box, black
+SKU: 20238223
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vardoe-underbed-storage-box-black-20238223/
+Category: Underbed storage bags & bins
+Description: , 25 5/8x27 1/2". A smart solution for small spaces. This storage box turns the space under your bed into a place for storing things like comforters, pillows or seasonal clothing.
+
+# @OFFER
+Price: 39.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Side panel: Particleboard, Foil, Polypropylene, ABS plastic, Rail: Particleboard, Bottom panel: Fiberboard, Foil, Acrylic paint
+Care: Do not wash. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vardoe-underbed-storage-box-black__0636228_pe697741_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

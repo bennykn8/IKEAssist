@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TORPARÖ reclining chair, outdoor, white/gray
+SKU: 20537854
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/torparoe-reclining-chair-outdoor-white-gray-20537854/
+Category: Outdoor dining chairs
+Description: TORPARÖ dining set comes in different sizes – choose to use it on a small city balcony or a large villa terrace. Durable, maintenance-free materials allow you to get the most out of your outdoor life!...
+
+# @OFFER
+Price: 75
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Seat and back/ Armrest/ Feet/ Clip: Polypropylene, Seat frame/ Leg frame/ Back frame/ Recliner mechanism/ Pin: Steel, Polyester powder coating, Washer: Polyamide
+Features: Possible to separate for recycling or energy recovery if available in your community.
+Care: The best way to extend the life of your outdoor furniture is by cleaning it regularly and not leaving it outdoors unprotected more than necessary. | Clean: Use a mild soapy solution. Wipe dry with a clean dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/torparoe-reclining-chair-outdoor-white-gray__1138952_pe880157_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

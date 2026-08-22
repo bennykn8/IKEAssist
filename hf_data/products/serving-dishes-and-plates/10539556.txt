@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: TUVHÄTTA serving plate, stainless steel
+SKU: 10539556
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tuvhaetta-serving-plate-stainless-steel-10539556/
+Category: Serving dishes & plates
+Description: , 13" Place this serving plate on the table and invite family and friends to share the food. Stylish design in durable stainless steel that can also be used as a tray – or to display beautiful things ...
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Stainless steel, Stainless steel
+Care: Dishwasher-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tuvhaetta-serving-plate-stainless-steel__1156902_pe887330_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

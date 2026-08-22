@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: FRAKTA shopping bag, large, blue, 21 ¾x14 ½x13 ¾"/19 gallon
+SKU: 17228340
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/frakta-shopping-bag-large-blue-17228340/
+Category: Shopping bags & reusable tote bags
+Description: After 30 years in our range, it’s one of the most hardworking bags in the world. It’s big and strong and carries most things. Be it shopping, doing laundry or going to the beach, it goes wherever you ...
+
+# @OFFER
+Price: 0.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Polypropylene (min. 60% recycled), Handle: 100 % polypropylene
+Care: Do not wash. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/frakta-shopping-bag-large-blue__0711231_pe728076_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: NEIDEN bed frame, pine/Luröy, Twin
+SKU: 59248607
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/neiden-bed-frame-pine-luroey-s59248607/
+Category: Twin beds & single beds
+Description: The natural solid wood is beautiful as it is or you can make it more personal by staining, painting or waxing it. Also, the bed frame is high enough so you can place storage boxes underneath.
+
+# @OFFER
+Price: 79
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Solid pine, Bed slats: Layer-glued wood veneer, Adhesive resin as coating, Ribbon: 100 %polyester
+Features: Mattress and bedlinens are sold separately. | LURÖY slatted bed base is included in the price, but is packaged separately.
+Care: Wood: Wipe clean using a damp cloth and a mild cleaner. | Wood: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/neiden-bed-frame-pine-luroey__0749132_pe745501_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

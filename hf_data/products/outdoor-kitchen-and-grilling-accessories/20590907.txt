@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GRILLTIDER pizza peel, stainless steel/beech, 22 ½"
+SKU: 20590907
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/grilltider-pizza-peel-stainless-steel-beech-20590907/
+Category: Outdoor kitchen & grilling accessories
+Description: Embrace your craving for tasty, homemade pizza – gather family and friends around the BBQ and serve your favorite recipes. With this shovel you handle the pizza like a pro for an outstanding result. A...
+
+# @OFFER
+Price: 14.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Handle: Solid beech, Clear lacquer, Lower part: Stainless steel
+Features: Dust the peel with flour to prevent the unbaked pizza from sticking.
+Care: Handwash only. | The wooden handle should be treated with food-approved oil now and then.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/grilltider-pizza-peel-stainless-steel-beech__1365479_pe956343_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

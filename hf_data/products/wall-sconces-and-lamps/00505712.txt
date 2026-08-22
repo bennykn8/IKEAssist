@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MÅNALG wall lamp, sedge/handmade
+SKU: 00505712
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/manalg-wall-lamp-sedge-handmade-00505712/
+Category: Wall sconces & lamps
+Description: The hand-braided sedge of the wall lamp spreads a striking decorative light in several directions. In combination with the beautiful natural material, creates a warm and cosy atmosphere in the room.
+
+# @OFFER
+Price: 39.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Shade: Sedge, Clear lacquer, Shade holder/ Mounting bracket: Steel, Powder coating, Lamp house: Polycarbonate plastic
+Features: Light bulb sold separately. IKEA recommends LED bulb E26 globe clear. | Use a clear light bulb if you have a lamp shade or lamp with a perforated or cut-out pattern or other airy, open design and want the pattern to cast effects on the wall and ceiling. | Special waste handling may be required. Please contact your local authorities for more information.
+Care: Clean with a duster.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/manalg-wall-lamp-sedge-handmade__0993331_pe820488_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

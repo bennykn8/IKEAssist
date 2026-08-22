@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: DUKTIG 5-piece toy kitchen utensil set, multicolor
+SKU: 80130168
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/duktig-5-piece-toy-kitchen-utensil-set-multicolor-80130168/
+Category: Pretend play sets & toys
+Description: Play is more fun when things look real. These kitchen accessories will make your child feel like a master chef. Made of durable, non-toxic materials. Mini kitchen utensils for play, made of stainless ...
+
+# @OFFER
+Price: 4.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Metal part: Stainless steel, Stainless steel, Plastic part: Reinforced polyamide
+Features: Comprises: 1 spatula, 1 pasta server, 1 cooking tweezers, 1 soup ladle and 1 whisk. | This is a toy and not suitable for cooking.
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/duktig-5-piece-toy-kitchen-utensil-set-multicolor__0711777_pe728426_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

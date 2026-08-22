@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SOLVINDEN LED string light with 12 lights, battery operated/outdoor multicolor
+SKU: 20593185
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/solvinden-led-string-light-with-12-lights-battery-operated-outdoor-multicolor-20593185/
+Category: Outdoor light chains
+Description: Add some color to your outdoor space. This lighting chain is simple to hang up and when you connect it to a power socket, a cozy light spreads that feels wonderfully warm and inviting – all summer lon...
+
+# @OFFER
+Price: 17.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Cover, upper side/ Cover, underside/ Battery box: ABS plastic, Screw: Polyamide, Switch cover/ Housing: Thermoplastic elastomer
+Features: A built-in timer turns the lights on at the same time every day and keeps them on for 6 hours. | On-off switch. | Batteries are sold separately; 3 pcs AA required.
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/solvinden-led-string-light-with-12-lights-battery-operated-outdoor-multicolor__1344543_pe949902_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

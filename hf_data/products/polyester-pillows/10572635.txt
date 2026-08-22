@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SANDGRÄSMAL pillow, Standard
+SKU: 10572635
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sandgraesmal-pillow-10572635/
+Category: Polyester pillows
+Description: Generous amounts of filling make this pillow wonderfully plump. Made of 100% recycled polyester and easy to wash, giving you more reasons to relax and enjoy a good night’s sleep. The pillow is machine...
+
+# @OFFER
+Price: 2.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100 % polyester (100% recycled), Filling: 100 % polyester - hollow fiber (100% recycled)
+Features: This product is suitable for use in smaller hotels, inns and B&Bs as the design and material are optimized for frequent use and washing. | This product is flammability tested and complies with standard EN ISO 12952-1. | This product is flammability tested in accordance to standard CAN/CGSB 4.2 No 27.5 and meets the requirement of flame spread time ≥7.1 sec.
+Care: Tumble dry after washing until the filling is completely dry. | Machine wash warm (max 140°F/60°C) normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sandgraesmal-pillow__1112933_pe871369_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

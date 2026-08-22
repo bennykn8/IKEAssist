@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VALLHORN wireless motion sensor, smart/white
+SKU: 40504348
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vallhorn-wireless-motion-sensor-smart-white-40504348/
+Category: Remote light switches
+Description: Use VALLHORN motion sensor anywhere at home – place it in a corner, in the middle of a wall or on a shelf or other flat surface. A simple way to always have light where it’s needed, indoors and outdoo...
+
+# @OFFER
+Price: 11.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Cover/ Mounting bracket/ Lid: ABS plastic, Lens: Polyethylene
+Features: The motion sensor has a maximum range of 30 feet to the light source when not blocked by walls. For reaction to movement, the maximum range is 15 feet and a 120° angle. | Can be set for day or night mode. | No hardwired installation is required.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vallhorn-wireless-motion-sensor-smart-white__1181868_pe899222_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MORUM rug flatwoven, in/outdoor, dark gray
+SKU: 30198293
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/morum-rug-flatwoven-in-outdoor-dark-gray-30198293/
+Category: Outdoor rugs
+Description: , 6'7"x9'10" An easy-to-place rug that brings a sense of calm to any room or why not give your outdoor area an upgrade? Available in several colors and sizes. Tested and approved for use outdoors in m...
+
+# @OFFER
+Price: 129.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Use surface: 100 % polypropylene, Backing: Synthetic rubber
+Features: You will need 2 STOPP FILT rug underlay with anti-slip (5'5"x7'9") for this rug. Trim if necessary. | This rug fits with a 2-3 seat sofa, but can also fit other size sofas depending on how you place it. | This rug fits under a 6-seat dining table, but can of course be used how and where you like in your home.
+Care: Cleaning: Use a mild detergent, brush with a soft brush and rinse thoroughly with water. Let the rug dry completely before use. | Hand wash warm water.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/morum-rug-flatwoven-in-outdoor-dark-gray__0123531_pe279667_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

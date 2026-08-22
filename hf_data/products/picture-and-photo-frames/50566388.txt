@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: RÖDALM frame, oak effect
+SKU: 50566388
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/roedalm-frame-oak-effect-50566388/
+Category: Picture & photo frames
+Description: , 4x6" Decorate with pictures you love. RÖDALM frame has a modern look that does your favorite motifs justice. Place the picture in the front or back of the frame – or buy several and combine as you l...
+
+# @OFFER
+Price: 6.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Mat: Paper, Frame: Fiberboard, Paper foil, Front protection/ Inside frame: Polystyrene
+Features: This frame fits with a picture that has dimensions 3⅛x4¾" if you use it with the mat, and it fits with a picture that has dimensions 3⅞x5⅞" if you choose to use the frame without the mat. | The mat will not turn yellow since it is acid-free. | Screws for wall mounting not included. Different wall materials require different fixing devices, use devices suitable for your walls. IKEA recommends ALFTA adhesive hook.
+Care: Clean with a duster.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/roedalm-frame-oak-effect__1278956_pe931186_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

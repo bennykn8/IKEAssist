@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: LILLVIKEN Sink strainer with stopper
+SKU: 50325426
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lillviken-sink-strainer-with-stopper-50325426/
+Category: Sink parts
+Description: . 25-year Limited Warranty. Read about the terms in the Limited Warranty brochure.
+
+# @OFFER
+Price: 10
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Funnel: Polypropylene, Strainer/ Strainer basket: Stainless steel, Seals: Synthetic rubber
+Care: Clean: Use a mild soapy solution. Wipe dry with a clean dry cloth. | Do not use scouring-powder, steel wool, hard or sharp tools which can scratch the surface.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lillviken-sink-strainer-with-stopper__0445288_pe595703_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

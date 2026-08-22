@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KALKGRUND Toilet roll holder, chrome plated
+SKU: 00291476
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kalkgrund-toilet-roll-holder-chrome-plated-00291476/
+Category: Toilet brushes
+Description: . KALKGRUND bathroom organizers make the busiest moments in the bathroom a pure pleasure. You can sense both quality and luxury thanks to hidden screws and the shiny chrome that adds sparkle to your m...
+
+# @OFFER
+Price: 17.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Bracket: Zinc, Chrome plated, Seals: Polyamide, Tube/ Lid: Stainless steel
+Features: May be combined with other products in the KALKGRUND series. | Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kalkgrund-toilet-roll-holder-chrome-plated__0711710_pe728401_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: UPPLAND cover for sectional, 4-seat, Kilanda dark blue
+SKU: 10529864
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/uppland-cover-for-sectional-4-seat-kilanda-dark-blue-10529864/
+Category: UPPLAND covers
+Description: This cover is made of the polyester fabric called Kilanda. The texture and mélange effect give the fabric a vibrant surface that is soft and has a luxurious feel when you touch it!
+
+# @OFFER
+Price: 157
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100% polyester (min. 90% recycled), Cord: 100 % polyester, Back fabric: 100 % polyester (100% recycled)
+Features: Fits UPPLAND frame only. | This product is an extra cover. Sofa is sold separately.
+Care: Removable cover: Machine wash warm, normal cycle. | Removable cover: To be washed separately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/uppland-cover-for-sectional-4-seat-kilanda-dark-blue__1194801_pe902058_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

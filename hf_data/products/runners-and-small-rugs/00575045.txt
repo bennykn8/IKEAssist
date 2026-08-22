@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MÄVINN rug, stripe multicolor
+SKU: 00575045
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/maevinn-rug-stripe-multicolor-00575045/
+Category: Runners & small rugs
+Description: , 2'0"x2'11" Small handwoven rug that is soft to walk on and contributes to the livelihood of women in rural India. The colours of the stripes go with most decors and match other textiles in the MÄVIN...
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Rugs, pillows, cushions: 100 % cotton, Stitching thread: 100 % polyester
+Features: You will need 1 STOPP anti-slip underlay (26½x78¾") for this rug. Trim or fold if necessary.
+Care: Shrinkage maximum 4%. | Do not wash.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/maevinn-rug-stripe-multicolor__1246404_pe922144_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

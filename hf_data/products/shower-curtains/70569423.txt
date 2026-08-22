@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BOTAREN shower curtain tension rod, black
+SKU: 70569423
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/botaren-shower-curtain-tension-rod-black-70569423/
+Category: Shower curtains
+Description: , 47-79" The spring mechanism makes the shower curtain rod easy to install without screws or drilling. You can easily extend the rod from 47¼" to 78¾".
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Aluminium (min. 70% recycled), Epoxy/polyester powder coating, End cap: Thermoplastic elastomer, Mechanism/ Cover cap/ Sleeve: Acetal plastic
+Features: May be completed with HASSJÖN shower curtain rings. | Possible to separate for recycling or energy recovery if available in your community.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/botaren-shower-curtain-tension-rod-black__1268858_pe928848_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

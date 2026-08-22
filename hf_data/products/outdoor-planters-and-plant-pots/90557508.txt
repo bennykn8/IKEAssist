@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: ASKHOLMEN flower box, dark brown
+SKU: 90557508
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/askholmen-flower-box-dark-brown-90557508/
+Category: Outdoor planters & plant pots
+Description: Gather your plants, vegetables or flowers in this flower box. Grow your favorite berries like strawberries or raspberries, or why not colorful flowers to brighten up your balcony or terrace.
+
+# @OFFER
+Price: 50
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Solid acacia wood, Acrylic stain
+Features: Only recommended for outdoor use. | May be completed with ASKHOLMEN trellis.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/askholmen-flower-box-dark-brown__1246701_pe922244_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

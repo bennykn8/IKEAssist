@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: GRÖNFJÄLL office chair with armrests, Letafors gray/black
+SKU: 00503478
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/groenfjaell-office-chair-with-armrests-letafors-gray-black-00503478/
+Category: Office chairs
+Description: 10 year guarantee. Read about the terms in the guarantee brochure. Suitable for business use. Seat and armrest covers are removable and washable.
+
+# @OFFER
+Price: 449.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Seat shell/ Cover cap/ Cover plate/ Top panel: Polypropylene, Frame: Layer-glued wood veneer, Cover/ Cushion cover/ Zipper/ Comfort filling: 100 %polyester
+Dimensions: Adjustable seat height.
+Features: May be used with KOLON floor protector. | Adjustable seat depth. | Adjustable lumbar support.
+Care: Frame: Wipe clean with a mild soapy solution. | Frame: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/groenfjaell-office-chair-with-armrests-letafors-gray-black__1273321_pe930000_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

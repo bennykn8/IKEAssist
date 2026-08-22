@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: SÖDERHAMN sectional, 3 seat, Kelinge gray-turquoise
+SKU: 59514540
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/soederhamn-sectional-3-seat-kelinge-gray-turquoise-s59514540/
+Category: Sofas with chaise
+Description: SÖDERHAMN seating series allows you to sit deeply, low and softly with the loose back cushions for extra support. The various sections of the seating series can be connected together in different comb...
+
+# @OFFER
+Price: 769
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Total composition: 100 % polyester, Smolder resistant lining/ Smolder resistant lining: Polyester wadding, Frame: Plywood, Fiberboard, Steel, Solid wood
+Care: Frame: Wipe clean using a damp cloth and a mild cleaner. | Frame: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/soederhamn-sectional-3-seat-kelinge-gray-turquoise__1213744_pe911249_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

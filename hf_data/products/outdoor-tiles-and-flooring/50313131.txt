@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: RUNNEN Decking, outdoor, artificial grass
+SKU: 50313131
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/runnen-decking-outdoor-artificial-grass-50313131/
+Category: Outdoor tiles & flooring
+Description: . Nothing is like the feeling of soft grass under your feet. RUNNEN floor decking in artificial grass is easy to click together and secure in place on your balcony or terrace ‒ so just take off your s...
+
+# @OFFER
+Price: 59.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top: Synthetic rubber, Polyethylene, Base: polypropylene (min. 50% recycled)
+Features: Includes: 9 pcs (12x12") floor decking for outdoor use. | Vacuum the floor decking just after securing it all in place since there can be pieces of artificial grass in it which are left over. | The floor decking is suitable for hard, even surfaces, like concrete, stone and wood.
+Care: Use a stiff broom or vacuum cleaner to clean the artificial grass. If you use a vacuum cleaner, make sure that the artificial grass is dry before you start.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/runnen-decking-outdoor-artificial-grass__0547200_pe656497_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

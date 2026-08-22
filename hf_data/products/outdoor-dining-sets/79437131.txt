@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: TEGELÖN / VÄSMAN table and 4 armchairs, outdoor, dark gray/black/black
+SKU: 79437131
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tegeloen-vaesman-table-and-4-armchairs-outdoor-dark-gray-black-black-s79437131/
+Category: Outdoor dining sets
+Description: 
+
+# @OFFER
+Price: 799
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Steel, Polyester powder coating, Seat and back: Polyethylene, Table top: Wood Plastic Composite, Polyurethane/acrylic paint
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tegeloen-vaesman-table-and-4-armchairs-outdoor-dark-gray-black-black__1037376_pe838763_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

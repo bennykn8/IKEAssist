@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LINDÖJA umbrella canopy, anthracite
+SKU: 90532023
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lindoeja-umbrella-canopy-anthracite-90532023/
+Category: Outdoor umbrellas & bases
+Description: , 1181/8" With a spare canopy you can extend the life of your parasol and make it feel like new again, when the sun and wind have worn out the old parasol canopy. The parasol canopy is easy to keep cl...
+
+# @OFFER
+Price: 50
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100% polyester (min. 90% recycled)
+Features: The parasol canopy is an extra canopy for JOGGESÖ parasol and HISSÖ hanging parasol. | The parasol canopy can also be used as an extra canopy for our previously sold parasols KUGGÖ/LINDÖJA and BETSÖ/LINDÖJA parasol and OXNÖ/LINDÖJA hanging parasol. | The umbrella does not provide protection against reflected or scattered solar ultraviolet radiation.
+Care: Machine wash warm, normal cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lindoeja-umbrella-canopy-anthracite__1186055_pe898658_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

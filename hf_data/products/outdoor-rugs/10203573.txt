@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MORUM Rug flatwoven, in/outdoor, indoor/outdoor dark gray
+SKU: 10203573
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/morum-rug-flatwoven-in-outdoor-dark-gray-10203573/
+Category: Outdoor rugs
+Description: . The rug is perfect for outdoor use since it is made to withstand rain, sun, snow and dirt. If the rug gets wet, you can hang it or stand it upright and it will dry quickly.
+
+# @OFFER
+Price: 49.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Use surface: 100 % polypropylene, Backing: Synthetic rubber
+Features: The rug is machine-woven. | Rugs with structure or hard edges can cause marks on soft wooden floors even when used together with an anti-slip underlay. | To flatten your rolled rug after you unpack it, roll it tightly in the opposite direction.
+Care: Cleaning: Use a mild detergent, brush with a soft brush and rinse thoroughly with water. Let the rug dry completely before use. | Hand wash warm water.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/morum-rug-flatwoven-in-outdoor-dark-gray__0123534_pe279670_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

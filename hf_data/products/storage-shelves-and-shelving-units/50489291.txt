@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: TONSTAD shelving unit, oak veneer
+SKU: 50489291
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tonstad-shelving-unit-oak-veneer-50489291/
+Category: Storage shelves & shelving units
+Description: , 471/2x145/8x471/4" Classic design meets beautifully brushed veneer in the TONSTAD series – giving the furniture a unique character. You can use a single shelf or combine more units to create a large...
+
+# @OFFER
+Price: 250
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Side panel/ Partition: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Oak veneer, Clear acrylic lacquer, Bottom panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Oak veneer, Clear acrylic lacquer, Paper foil, Back panel: Fiberboard, Paper foil, Plastic foil
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tonstad-shelving-unit-oak-veneer__1186260_pe898742_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

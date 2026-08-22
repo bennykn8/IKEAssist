@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VEDDINGE door, white
+SKU: 10266773
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/veddinge-door-white-10266773/
+Category: VEDDINGE white fronts
+Description: , 18x60" VEDDINGE fronts in white create a light and spacious atmosphere while the smooth clean lines offer a sense of calm. A good base for a modern kitchen, where you can easily add the personal fin...
+
+# @OFFER
+Price: 75
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fiberboard, Polyurethane paint, Acrylic paint
+Features: Complete with UTRUSTA 110° hinge with built-in damper for kitchen, 2-pack, sold separately. | To be used with 3 hinges. | Requires a knob or a handle
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/veddinge-door-white__0638058_pe698672_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

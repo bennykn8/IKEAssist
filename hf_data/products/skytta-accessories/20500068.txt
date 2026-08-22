@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: SKYTTA top cover panel, paintable beige
+SKU: 20500068
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/skytta-top-cover-panel-paintable-beige-20500068/
+Category: SKYTTA accessories
+Description: Use as a cover panel on both sides of SKYTTA ceiling height reducer and paint it to match your wall. The panel is covered with a paper foil that has no coating, so you can paint it to match your wall....
+
+# @OFFER
+Price: 30
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Paper foil, Paper edging
+Dimensions: To be completed with SKYTTA ceiling height reducer. 2 panels are needed to cover both sides of the reducer.
+Features: Uncoated paper foil, to be painted to match your room. | Cut to correct height.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/skytta-top-cover-panel-paintable-beige__1004774_pe825170_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

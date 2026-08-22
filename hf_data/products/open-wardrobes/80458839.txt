@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: IDANÄS open wardrobe, dark brown stained
+SKU: 80458839
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/idanaes-open-wardrobe-dark-brown-stained-80458839/
+Category: Open wardrobes
+Description: , 231/4x831/8" IDANÄS series combines timeless design with smart functionality. The open wardrobe can be turned two ways and has an adjustable shelf so you can customize the storage. Ideal in a hallwa...
+
+# @OFFER
+Price: 299.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Leg/ Clothes rail: Solid wood, Stain, Clear acrylic lacquer, Top panel: Fiberboard and honeycomb paper filling (100% recycled paper), Beech veneer, Stain, Clear acrylic lacquer, Paper foil, Top rail/ Middle rail/ Back panel: Particleboard, Beech veneer, Stain, Clear acrylic lacquer
+Features: Different wall materials require different types of fixing devices. Use fixing devices suitable for the walls in your home.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/idanaes-open-wardrobe-dark-brown-stained__0898867_pe782671_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

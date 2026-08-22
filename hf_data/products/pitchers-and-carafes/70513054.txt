@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ANLEDNING carafe, light brown, 34 oz
+SKU: 70513054
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/anledning-carafe-light-brown-70513054/
+Category: Pitchers & carafes
+Description: This elegant carafe is nice to fill with cold beverages or flowers to complete the table setting for the party. Use it over and over and mix with your existing things. Part of the ANLEDNING collection...
+
+# @OFFER
+Price: 17.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Glass
+Features: Dishwasher-safe. | Wash this product before using it for the first time.
+Care: Dishwasher-safe. | Only for drinks with a max. temperature of 122°F.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/anledning-carafe-light-brown__1036312_pe838410_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

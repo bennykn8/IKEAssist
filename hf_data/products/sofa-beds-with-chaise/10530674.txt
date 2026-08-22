@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: ÄLVDALEN 3-seat sleeper sofa with chaise, Knisa gray-beige
+SKU: 10530674
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/aelvdalen-3-seat-sleeper-sofa-with-chaise-knisa-gray-beige-10530674/
+Category: Sofa beds with chaise
+Description: It might be hard to believe that a comfy bed is hidden in this stylish sofa. ÄLVDALEN is easy to fold out to get a good night's sleep, comes with a storage space under the seat – and many features to ...
+
+# @OFFER
+Price: 549
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100% polyester (min. 90% recycled), Frame: Plywood, Polyurethane foam 2.0 lb/cu.ft., Polyurethane foam 1.5 lb/cu.ft., Particleboard, Fiberboard, Felt liner, Solid wood, Laminated veneer lumber, Bed box: Particleboard, Solid wood, Paperboard (100% recycled), Laminated veneer lumber, Plywood, Fiberboard
+Care: Cushion cover: Do not wash. | Cushion cover: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/aelvdalen-3-seat-sleeper-sofa-with-chaise-knisa-gray-beige__1194627_pe902024_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

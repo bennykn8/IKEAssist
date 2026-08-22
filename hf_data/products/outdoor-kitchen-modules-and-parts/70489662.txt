@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GRILLSKÄR sink unit, black/stainless steel outdoor
+SKU: 70489662
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/grillskaer-sink-unit-black-stainless-steel-outdoor-70489662/
+Category: Outdoor kitchen modules & parts
+Description: , 337/8x24" Outdoor sink with shelves for storage and a practical workspace with sink bowl where you can hide dirty dishes when it’s time to barbeque and serve. Just as convenient as in your indoor ki...
+
+# @OFFER
+Price: 240
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Sinks/ Strainer: Stainless steel, Leg/ Shelf/ Top frame/ Bracket: Galvanized steel, Polyester powder coating, Outlet pipe/ Valve: Polypropylene
+Features: To be completed with a faucet of your choice approved for outdoor use, sold separately. | Do not use a knife or other sharp objects directly on the shelf surface. Always use a chopping board.
+Care: Wipe dry with a clean cloth. | Always wipe surfaces of stainless steel lengthwise for an even, shiny finish.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/grillskaer-sink-unit-black-stainless-steel-outdoor__0820262_pe774985_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

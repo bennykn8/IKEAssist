@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GRÖNSPRÖT wall up/downlight, hardwired, outdoor aluminum color
+SKU: 20556197
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/groensproet-wall-up-downlight-hardwired-outdoor-aluminum-color-20556197/
+Category: Outdoor wall lamps
+Description: , 61/4" As soon as you turn this wall lamp on, the 2 bulbs create a decorative light effect on the wall in your outdoor space – and if you combine several, they together look a brilliant piece of art....
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Base: Aluminum, Powder coating, Upper body/ Lower body: Stainless steel, Powder coating, House: Reinforced polyamide
+Features: Light bulbs sold separately. IKEA recommends LED bulb GU10 (2 pcs). | To be installed by a qualified electrician.
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/groensproet-wall-up-downlight-hardwired-outdoor-aluminum-color__1178077_pe895651_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

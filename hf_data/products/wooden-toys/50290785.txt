@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FLISAT Doll house/wall shelf
+SKU: 50290785
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/flisat-doll-house-wall-shelf-50290785/
+Category: Wooden toys
+Description: . Most children have things they are proud of and want to show off to the world around them. When your child outgrows dolls, you can use this doll house as a wall shelf to display all those important ...
+
+# @OFFER
+Price: 49.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Solid pine, Tinted clear acrylic lacquer, Back panel/ Back rail: Fiberboard, Acrylic paint, Top part: Solid pine, Acrylic paint
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Can be used with other products in the FLISAT series. | Product is possible to recycle or use for energy recovery, if available in your community.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/flisat-doll-house-wall-shelf__0710145_pe727347_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

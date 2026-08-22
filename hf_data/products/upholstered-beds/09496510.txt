@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: SAGESUND upholstered bed frame, Diseröd brown/Lönset, King
+SKU: 09496510
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sagesund-upholstered-bed-frame-diseroed-brown-loenset-s09496510/
+Category: Upholstered beds
+Description: This upholstered bed frame has a slightly sloped headboard with 2 soft inviting pillows – perfect as a backrest when you sit in bed. Also, the cover of the entire frame is removable and machine washab...
+
+# @OFFER
+Price: 689
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Supporting fabric/ Supporting fabric/ Lining/ Lining, underside: 100 % polypropylene, Top frame: Steel, Epoxy/polyester powder coating, Bottom frame: Solid wood, Plywood, Particleboard
+Features: Mattress and bedlinens are sold separately. | Center support beam included. | LÖNSET slatted bed base is included in the price, but is packaged separately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sagesund-upholstered-bed-frame-diseroed-brown-loenset__1124332_pe888920_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

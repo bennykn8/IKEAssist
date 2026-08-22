@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: MÅNGYLTA roasting pan, gray
+SKU: 20566709
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/mangylta-roasting-pan-gray-20566709/
+Category: Ovenware
+Description: , 13" Put all your ingredients in this tin and then let the oven do the job! Here you can roast vegetables, meat and fish, cook dishes such as lasagna and moussaka – or bake a crumble pie or cinnamon ...
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Aluminum, Coated with Teflon(R) Infinity.
+Care: Handwash only. | Oven-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/mangylta-roasting-pan-gray__1384488_pe963015_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

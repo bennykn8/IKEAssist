@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: STACKHOLMEN Stool, outdoor, light brown stained
+SKU: 20411425
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/stackholmen-stool-outdoor-light-brown-stained-20411425/
+Category: Outdoor dining chairs
+Description: , 18 7/8x13 3/4x16 7/8". This outdoor stool is made of hard, durable acacia wood and has soft, harmonious shapes with a comfortable braided seat. Easy to move around - perfect wherever you need an ext...
+
+# @OFFER
+Price: 49.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Solid acacia wood, Acrylic stain, Rope: Polypropylene
+Features: Only recommended for outdoor use. | Possible to separate for recycling or energy recovery if available in your community.
+Care: The best way to extend the life of your wooden outdoor furniture is by cleaning it regularly, not leaving it outdoors unprotected more than necessary, and re-staining it on a regular basis. | Clean: Use a mild soapy solution.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/stackholmen-stool-outdoor-light-brown-stained__0728393_pe736231_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

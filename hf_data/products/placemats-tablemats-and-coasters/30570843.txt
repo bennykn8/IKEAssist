@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: TUVIRIS place mat, gray-green/patterned plastic, 14 ½"
+SKU: 30570843
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tuviris-place-mat-gray-green-patterned-plastic-30570843/
+Category: Placemats, tablemats & coasters
+Description: This soft plastic place mat is perfect if you like to keep the table neat and clean. Just rinse it with water in the sink or wipe it with a damp cloth and it’s ready for the next meal.
+
+# @OFFER
+Price: 1.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polypropylene
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tuviris-place-mat-gray-green-patterned-plastic__1211442_pe910252_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: FINNALA armrest, Gunnared medium gray
+SKU: 89319575
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/finnala-armrest-gunnared-medium-gray-s89319575/
+Category: Modular sofas
+Description: This cover is made of dope-dyed Gunnared fabric in polyester. It is a durable fabric with a wool-like feel, a warm look and a two-toned mélange effect. The cover is easy to keep clean since it is remo...
+
+# @OFFER
+Price: 115
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Smolder resistant lining: Polyester wadding, Frame: Plywood, Polyurethane foam 2.0 lb/cu.ft., Particleboard, Solid wood, Fiberboard, Leg: Polypropylene
+Care: Frame: Wipe clean using a damp cloth and a mild cleaner. | Frame: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/finnala-armrest-gunnared-medium-gray__0531860_pe647604_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: STOCKHOLM Sofa, Seglora natural
+SKU: 20245049
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/stockholm-sofa-seglora-natural-20245049/
+Category: Three-seat sofas
+Description: . SEGLORA cover is made of aniline leather which is the finest type of leather of the highest quality. As it ages, it becomes softer and gets a darker tone and fine patina.
+
+# @OFFER
+Price: 2249
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Smolder resistant lining: Polyester wadding, Leather: Dyed through full grain leather from cattle., Frame: 100% polyester (min. 70% recycled), Polyurethane foam., Particleboard, Fiberboard, Plywood
+Features: The leather on this sofa will become softer and acquire a darker tone with time. This is natural for full-grain leather, which is treated with only a light surface coating for protection. | Due to its unaltered surface, aniline leather can have natural marks like wrinkles and scars, color variations and be more sensitive to sunlight, dirt, liquids and scratches than leather with full coatings. | Proper care keeps the aniline leather in top condition. Use the soft brush attachment on your vacuum and, if needed, wipe the surface with a slightly damp cloth.
+Care: Clean with a dust cloth or vacuum lightly using the soft brush attachment. | Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/stockholm-sofa-seglora-natural__0183763_pe334809_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

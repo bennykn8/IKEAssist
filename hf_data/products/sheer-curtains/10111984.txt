@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: MATILDA sheer curtains, 1 pair, white/with tab top
+SKU: 10111984
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/matilda-sheer-curtains-1-pair-white-with-tab-top-10111984/
+Category: Sheer curtains
+Description: , 55x98" A perfect solution when you want privacy or want to block annoying glares on TV and computer screens. The outside light still comes through and creates a cozy atmosphere in the room.
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % cotton
+Dimensions: The curtains are sold in pairs. The sizes stated refer to each single curtain. For the total width, double the width of a single curtain.
+Features: Curtains, 1 pair included | In the daytime, people outdoors can perceive shapes and silhouettes indoors. At night, when the room is lit, people outdoors can see in. | Suitable for combining with room darkening or block-out curtains or roller blinds when you want to limit or block out light entering the room.
+Care: Shrinkage maximum 4%. | Machine wash cold, normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/matilda-sheer-curtains-1-pair-white-with-tab-top__0099832_pe242224_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

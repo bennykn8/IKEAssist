@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HAVSTEN loveseat, outdoor, beige
+SKU: 10542498
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/havsten-loveseat-outdoor-beige-10542498/
+Category: Modular outdoor seating
+Description: , 701/2x361/4x297/8" If you like the look, try how it feels. Generous seats, fluffy cushions and elastic mesh fabric make HAVSTEN comfortable. Create your own combination, sit back and relax. Outdoors...
+
+# @OFFER
+Price: 350
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Mesh: 63% TPE, 37 % polyester, Strap: 81% polypropylene, 19 % polyester, Metal tube: Steel, Galvanized, Polyester powder coating
+Features: To be completed with HAVSTEN seat/back cushion, sold separately.
+Care: Hand wash warm water. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/havsten-loveseat-outdoor-beige__1138950_pe880155_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

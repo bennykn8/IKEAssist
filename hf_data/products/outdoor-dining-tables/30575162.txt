@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VITTSKÄR table, plastic rattan outdoor/dark gray
+SKU: 30575162
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vittskaer-table-plastic-rattan-outdoor-dark-gray-30575162/
+Category: Outdoor dining tables
+Description: , 1037/8x373/4" VITTSKÄR rectangular table offers generous space to enjoy nice moments outdoors. It’s made of easy-care materials, giving you more time to spend with your loved ones. Plastic rattan is...
+
+# @OFFER
+Price: 699
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Leg frame/ Underframe: Steel, Powder coating, Fixing plate: Galvanized steel, Wickerpart: Polyethylene, Polyethylene, Polyethylene
+Features: Only recommended for outdoor use. | Seats 8-10.
+Care: The best way to extend the life of your outdoor furniture is by cleaning it regularly and not leaving it outdoors unprotected more than necessary. | Clean: Use a mild soapy solution.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vittskaer-table-plastic-rattan-outdoor-dark-gray__1396044_pe967166_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

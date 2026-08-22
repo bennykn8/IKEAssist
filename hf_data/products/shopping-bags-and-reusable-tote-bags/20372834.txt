@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KUNGSFORS mesh bag, set of 2, natural
+SKU: 20372834
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kungsfors-mesh-bag-set-of-2-natural-20372834/
+Category: Shopping bags & reusable tote bags
+Description: With these net bags in cotton from more sustainable farms, you avoid needing plastic bags when shopping, and they are a climate smart choice. Hang them up and store fruits and vegetables – and the foo...
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % cotton
+Features: May be combined with other products in the KUNGSFORS series. | Recommended for indoor use only. | Includes: 1 net bag 16⅞x15½" and 1 net bag 14½x11⅜". The dimensions refer to when the bag is laid flat on a flat surface. They are approximate and can vary ‒ depending on what you store in the bag.
+Care: Shrinkage maximum 10%. | Machine wash, warm, durable-press cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kungsfors-mesh-bag-set-of-2-natural__0712561_pe728918_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

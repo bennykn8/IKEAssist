@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MUDDERVERK pendant lamp, brass/opal glass
+SKU: 80577700
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/mudderverk-pendant-lamp-brass-opal-glass-80577700/
+Category: Pendant lighting
+Description: Traditional-styled pendant lamp with brass-colored details where the mouth-blown glass shade has a decorative pattern at the bottom reminiscent of circles created when a drop hits the surface of water...
+
+# @OFFER
+Price: 79.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Shade: Glass, Tube/ Ceiling cup: Steel
+Features: Light bulb sold separately. IKEA recommends LED bulb E26 globe opal white. | Mounted with screws. | Screws are not included.
+Care: Dust the lamp with a dust cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/mudderverk-pendant-lamp-brass-opal-glass__1353360_pe952221_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: SATSUMAS Plant stand with 5 plant pots, bamboo, white
+SKU: 10258155
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/satsumas-plant-stand-with-5-plant-pots-bamboo-white-10258155/
+Category: Plant stands
+Description: . Take your plants to new heights. SATSUMAS plant stand has shelves at different levels, so you can put your pots on display and make the room dynamic.
+
+# @OFFER
+Price: 69.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Ladder: Bamboo, Clear acrylic lacquer, Pot: Steel, Powder coating
+Dimensions: Fits flowerpots up to 4¾" in diameter.
+Features: For indoor use.
+Care: Clean with a duster.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/satsumas-plant-stand-with-5-plant-pots-bamboo-white__0635813_pe697395_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GANSJÖN 3-piece bathroom set, bright yellow
+SKU: 30587037
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/gansjoen-3-piece-bathroom-set-bright-yellow-30587037/
+Category: Soap dispensers & soap dishes
+Description: This yellow stoneware set adds a zesty accent to your bathroom. The tray keeps the toothbrush holder and soap dispenser in place but can also be used separately for jewelry, candles or small accessori...
+
+# @OFFER
+Price: 14.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Soap dispenser/ Bathroom cup: Stoneware, Pigmented glaze, Polyurethane paint, Pigmented glaze, Pump: Polypropylene, Polypropylene, Polyethylene, EVA plastic, Glass, Stainless steel, Polyester powder coating, Tray: Stoneware, Pigmented glaze
+Dimensions: Includes: 1 soap dispenser, 11.5 oz (Ø2¾" H6¼"), 1 toothbrush holder (Ø2¾" H4⅜"), and 1 tray (length 6¼", depth 3⅞" ).
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/gansjoen-3-piece-bathroom-set-bright-yellow__1270424_pe929372_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

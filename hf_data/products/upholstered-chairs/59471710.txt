@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BERGMUND chair, white/Orrsta light gray
+SKU: 59471710
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/bergmund-chair-white-orrsta-light-gray-s59471710/
+Category: Upholstered chairs
+Description: Thanks to new research and a new technique, this upholstered chair gives you optimal seating comfort. Change the style anytime by replacing the chair cover with one in a different color or model.
+
+# @OFFER
+Price: 125
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Leg: Layer-glued wood veneer, Acrylic paint, Seat frame: Steel, Epoxy coating, Backrest frame: Steel
+Features: To prevent surface scratches and the sound of chair legs scraping on the floor, add FIXA self-adhesive floor protectors, sold separately. | Extra covers for BERGMUND chair are available in many different models, colours and materials, sold separately. | Recommended for indoor use only.
+Care: Frame: Vacuum clean. | Frame: Wipe clean with a mild soapy solution.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/bergmund-chair-white-orrsta-light-gray__0926648_pe789431_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

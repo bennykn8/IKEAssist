@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: KOMPLEMENT shoe shelf, dark gray
+SKU: 00257255
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/komplement-shoe-shelf-dark-gray-00257255/
+Category: PAX Interior organizers
+Description: , 195/8x133/4" Two great functions in one – this slanted shelf puts your shoes on display and keeps them within easy reach whenever you need them. Just line them up and enjoy. 10-year Limited Warranty...
+
+# @OFFER
+Price: 20
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Epoxy/polyester powder coating
+Dimensions: Available in several widths.
+Features: The shoe shelf holds 2 pairs of shoes. | The recommended maximum weight applies when the weight load is evenly distributed across the surface. | Fits 13¾" deep frames.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/komplement-shoe-shelf-dark-gray__0238459_pe377974_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

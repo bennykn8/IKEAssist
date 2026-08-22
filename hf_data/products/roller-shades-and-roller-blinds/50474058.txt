@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SANDVEDEL roller blind, beige, 34x76 ¾"
+SKU: 50474058
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sandvedel-roller-blind-beige-50474058/
+Category: Roller shades & roller blinds
+Description: This sheer fabric roller blind blends in well in any setting. It give you a light and airy home while filtering out unwanted glares. We made this one a bit longer to fit tall windows or balcony doors....
+
+# @OFFER
+Price: 44.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100% polyester (min. 80% recycled), Handle: Polycarbonate plastic, Tinted clear acrylic lacquer, Bottom rail: Polystyrene, PET plastic
+Features: Different wall/ceiling materials require different types of fasteners. Use fasteners suitable for the wall/ceiling in your home (not included). | The top rail can be cut max. 7⅞ in. | RIKTIG draw rod makes it easier to pull down the blind.
+Care: Do not wash. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sandvedel-roller-blind-beige__0812603_pe772057_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

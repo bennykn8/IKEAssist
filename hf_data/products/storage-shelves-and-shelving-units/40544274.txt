@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KALLAX insert with lockable door, white
+SKU: 40544274
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kallax-insert-with-lockable-door-white-40544274/
+Category: Storage shelves & shelving units
+Description: , 13x13" With this insert you can transform an open shelf in the KALLAX shelving unit into a small lockable cabinet. Perfect for all those things that are extra-precious to you and that you want to hi...
+
+# @OFFER
+Price: 20
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Door: Particleboard, Melamine foil, Plastic edging, Side panel/ Back: Fiberboard, Paper foil
+Features: Dimensioned to fit KALLAX shelf unit. | The keys to the lock on this product are not unique, which means that several locks can be opened with the same key.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kallax-insert-with-lockable-door-white__0992107_pe819806_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

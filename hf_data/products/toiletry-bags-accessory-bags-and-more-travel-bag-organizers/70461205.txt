@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: RENSARE bag, check pattern/black, 11 ¾x15 ¾"/2 gallon
+SKU: 70461205
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/rensare-bag-check-pattern-black-70461205/
+Category: Toiletry bags, accessory bags & more travel bag organizers
+Description: The bags in the RENSARE series are a dream if you like to organize everything from clothes and shoes to small and large accessories when you travel. And you can start organize already in the wardrobe,...
+
+# @OFFER
+Price: 2.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100% polyester (min. 90% recycled), 100 % Polyurethane
+Care: Machine wash cold, normal cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/rensare-bag-check-pattern-black__0810364_pe771287_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

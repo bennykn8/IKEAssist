@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: MITTZON acoustic baffle, Gunnared beige
+SKU: 80605604
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/mittzon-acoustic-baffle-gunnared-beige-80605604/
+Category: MITTZON room & desk dividers
+Description: , 373/8x207/8x31/8" Soften sounds and stop them from coming back again and again. Ceiling-hung acoustic baffles effectively absorb sound and reduce reverberation and echoes in public spaces. Washable ...
+
+# @OFFER
+Price: 100
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Filling: 100 % polypropylene, Wood fibers 92% / Polyethylene 4% / Polypropylene 4%, Cover: 100% polyester (min. 30% recycled), 100 % polypropylene, Zipper: 100 % polyester
+Care: Machine wash warm, normal cycle. | Turn the cover inside out and zip up before washing.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/mittzon-acoustic-baffle-gunnared-beige__1271941_pe929634_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

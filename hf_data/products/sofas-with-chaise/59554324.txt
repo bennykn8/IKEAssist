@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MORABO sectional 4-seat with chaise, Gunnared dark gray/wood
+SKU: 59554324
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/morabo-sectional-4-seat-with-chaise-gunnared-dark-gray-wood-s59554324/
+Category: Sofas with chaise
+Description: These wooden legs give MORABO sofa and armchair a warm and natural look. 10-year limited warranty. Read about the terms in the limited warranty brochure.
+
+# @OFFER
+Price: 1349
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Back and seat frame: Plywood, Solid pine, Particleboard, Fiberboard, Armrest frame: Plywood, Solid pine, Polyurethane foam 1.5 lb/cu.ft., Particleboard, Fiberboard, Back cushion: Polyurethane foam 1.5 lb/cu.ft.
+Features: Stationary cover. | Matching leather covers for the legs are packed together with the sofa.
+Care: Non-removable cover: Vacuum clean. | Non-removable cover: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/morabo-sectional-4-seat-with-chaise-gunnared-dark-gray-wood__1249641_pe923414_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

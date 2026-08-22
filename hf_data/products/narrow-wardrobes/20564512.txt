@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GLAMBERGET wardrobe with 3 sliding doors, pine/black
+SKU: 20564512
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/glamberget-wardrobe-with-3-sliding-doors-pine-black-20564512/
+Category: Narrow wardrobes
+Description: , 461/8x243/4x59" The GLAMBERGET series is smart, space-saving and multi-functional furniture – used individually or together. The wardrobe opens from two sides and is ideal to put in the center of a ...
+
+# @OFFER
+Price: 349.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Side panel/ Shelf/ Partition/ Bottom panel/ Leg/ Bottom rail: Solid pine, Solid pine, Adhesive, Back panel/ Door panel: Particleboard, Melamine foil, Plastic edging, Plastic edging, Clothes rail: Solid pine
+Features: The clothes rail holds about 15-20 shirts on hangers. | One shelf holds about 15 pairs of folded pants or 30 T-shirts. | The wardrobe has 3 sliding doors in total – 2 sliding doors on the front side and 1 on the back side.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/glamberget-wardrobe-with-3-sliding-doors-pine-black__1336029_pe947273_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

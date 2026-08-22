@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VECKLARFLY Venetian blind, white
+SKU: 90583734
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vecklarfly-venetian-blind-white-90583734/
+Category: Venetian blinds
+Description: , 30x61" Push up/pull down to effortlessly raise/lower the blinds. Embedded cords to tilt the slats makes it safe for all ages. Adjust light and privacy level from open to closed and everything in-bet...
+
+# @OFFER
+Price: 40.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Slats: Aluminum, Paint, Top rail/ Bottom rail: Aluminum, Powder coating, Stick: ABS plastic
+Features: 2 brackets for wall or ceiling mounting included. | Screws and any other fasteners you might need to attach your solution securely to the wall (e.g. wall anchors) are not included. | Tilt the slats backwards to deflect and diffuse the light coming in.
+Care: Wipe clean using a damp cloth and a mild cleaner.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vecklarfly-venetian-blind-white__1364824_pe957022_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

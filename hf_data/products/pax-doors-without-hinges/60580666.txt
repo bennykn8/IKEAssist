@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GULLABERG door, gray
+SKU: 60580666
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/gullaberg-door-gray-60580666/
+Category: PAX doors without hinges
+Description: , 191/2x903/8" GULLABERG door has a timeless and traditional design with carefully crafted details. Use it on your PAX frames to easily create wardrobes with a genuine and elegant style. ODLINGSGRÄNS ...
+
+# @OFFER
+Price: 80
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Door frame: Fiberboard, Acrylic paint, Acrylic paint, Door filling: Fiberboard, Acrylic paint
+Features: Knobs and handles are sold separately. | To be completed with KOMPLEMENT hinges 4-pack. | Fits with PAX wardrobe system.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/gullaberg-door-gray__1331361_pe945949_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

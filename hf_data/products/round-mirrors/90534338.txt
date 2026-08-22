@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BLÅSER mirror
+SKU: 90534338
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/blaser-mirror-90534338/
+Category: Round mirrors
+Description: , 15" By decorating with mirrors, you can spread light in a nice way and create a depth that adds vibrancy to the room. Suitable for use in most rooms, and tested and approved for bathroom use.
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Glass, Plastic foil
+Features: Double-sided tape for wall mounting is included. | Can be used in the bathroom or in different locations across the home.
+Care: Glass: Wipe clean with a damp cloth. Use only water or window-cleaner. | Glass: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/blaser-mirror__1100267_pe866099_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

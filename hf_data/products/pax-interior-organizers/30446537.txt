@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KOMPLEMENT pull-out pants hanger, white
+SKU: 30446537
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/komplement-pull-out-pants-hanger-white-30446537/
+Category: PAX Interior organizers
+Description: , 195/8x227/8" Say good-bye to piles of jeans and trousers! This sturdy trouser hanger gives you an easy overview and allows you to create a well coordinated solution with a built-in feeling. Smooth-r...
+
+# @OFFER
+Price: 35
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Fiberboard, Paper foil, Clothes rail: Steel, Epoxy powder coating
+Features: The pants hanger has 4 arms and holds 8 pairs of pants. | Fits only PAX wardrobe frame 20x23", see “Product size” for all exact product dimensions.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/komplement-pull-out-pants-hanger-white__0797600_pe766934_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

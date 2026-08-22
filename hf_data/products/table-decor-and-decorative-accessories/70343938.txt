@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BEGÅVNING glass dome with base
+SKU: 70343938
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/begavning-glass-dome-with-base-70343938/
+Category: Table decor & decorative accessories
+Description: , 7" Look, but don’t touch? With BEGÅVNING, you can both protect and display nice memories and items. Or why not create a cozy atmosphere by placing a battery-operated lighting chain under the glass d...
+
+# @OFFER
+Price: 14.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Base: Stainless steel, Steel, Polypropylene, Metallized, Epoxy/polyester powder coating, Main parts: Glass
+Features: The material in this product may be recyclable. Please check the recycling rules in your community and if recycling facilities exist in your area.
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/begavning-glass-dome-with-base__0639838_pe699603_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

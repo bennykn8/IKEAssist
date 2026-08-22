@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BÅTSKÄR add-on unit with shelves, outdoor/dark gray
+SKU: 70553399
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/batskaer-add-on-unit-with-shelves-outdoor-dark-gray-70553399/
+Category: Outdoor kitchen modules & parts
+Description: , 471/4x271/2" Create the outdoor kitchen of your dreams! BÅTSKÄR feels like an indoor kitchen outdoor with closed storage, soft-closing hinges and sleek design. Invite family and friends to enjoy gre...
+
+# @OFFER
+Price: 90
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Galvanized steel, Polyester powder coating
+Features: Only recommended for outdoor use.
+Care: Wipe dry with a clean cloth. | Always wipe surfaces of stainless steel lengthwise for an even, shiny finish.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/batskaer-add-on-unit-with-shelves-outdoor-dark-gray__1243037_pe920490_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: RÄTTAREN storage box with lid, set of 2, black/white
+SKU: 10597985
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/raettaren-storage-box-with-lid-set-of-2-black-white-10597985/
+Category: Paper & media storage boxes
+Description: These dotted boxes are perfect for papers and desk accessories that you use every day. Place them near your workspace or in the living room, as the boxes are both functional and decorative.
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100% recycled solid cardboard, Paper
+Features: Comprises: 2 storage boxes (9⅞x13¾x3⅞" and 9½x13⅜x3½").
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/raettaren-storage-box-with-lid-set-of-2-black-white__1396154_pe967185_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

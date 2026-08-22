@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: MITTZON foldable table with castors, black
+SKU: 40527948
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/mittzon-foldable-table-with-castors-black-40527948/
+Category: MITTZON conference tables
+Description: , 551/8x271/2" The ultimate buddy for flexibility. Roll this table out, place it with others and let the meeting begin. When it’s time for clean-up or a new activity, simply fold it, roll it back and ...
+
+# @OFFER
+Price: 349.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Particleboard, Melamine foil, Acrylic paint, Melamine foil, Plastic edging, Side rail/ Middle rail/ Mounting bracket/ Leg/ Connecting plate/ Leg rail/ Underside foot/ Upper side foot/ Bracket/ Hook: Steel, Epoxy/polyester powder coating, Shaft: Stainless steel
+Care: Wipe clean with a damp cloth. | Wipe clean using a damp cloth and a mild cleaner.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/mittzon-foldable-table-with-castors-black__1216216_pe912358_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

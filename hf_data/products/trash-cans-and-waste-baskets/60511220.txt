@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: SULTEN step trash can, stainless steel, 13 gallon
+SKU: 60511220
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sulten-step-trash-can-stainless-steel-60511220/
+Category: Trash cans & waste baskets
+Description: This generous pedal bin with clean lines in stainless steel and a soft-closing lid is just as decorative as practical. A spacious waste bin that is also great for sorting bulky items.
+
+# @OFFER
+Price: 99.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Body/ Lid: Stainless steel, Inside frame: ABS plastic, Lid holder/ Bucket/ Bottom part: Polypropylene
+Care: Clean with a microfiber cloth dampened in water and, if needed, a soap solution or a mild detergent that does not contain abrasives.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sulten-step-trash-can-stainless-steel__1029091_pe835660_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

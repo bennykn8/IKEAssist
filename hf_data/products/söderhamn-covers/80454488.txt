@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SÖDERHAMN cover for armrest, Viarp beige/brown
+SKU: 80454488
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/soederhamn-cover-for-armrest-viarp-beige-brown-80454488/
+Category: SÖDERHAMN covers
+Description: No worries about spilling. This cover is easy to keep clean, as it can be machine washed and is easy to take off and put back on again. The fabric is both durable and soft with a visible texture.
+
+# @OFFER
+Price: 32
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 76 % cotton, 24 % polyester (100% recycled)
+Features: This product is an extra cover. Frame is sold separately.
+Care: Removable cover: Machine wash warm, normal cycle. | Removable cover: To be washed separately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/soederhamn-cover-for-armrest-viarp-beige-brown__0832849_pe777854_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

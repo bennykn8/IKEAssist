@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: BLADVERK potted plant in mug, assorted species plants, 3 ½"
+SKU: 70528324
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/bladverk-potted-plant-in-mug-assorted-species-plants-70528324/
+Category: Office & desk plants
+Description: Decorate your home with plants combined with a plant pot to suit your style.
+
+# @OFFER
+Price: 14.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Plant/ Substrate: Cultivated potted plant, Pot: Polypropylene, Body: Feldspar porcelain, Colored glaze
+Dimensions: The height of the plants can vary.
+Features: Native to Ethiopia. | Sensitive to low temperatures. | Give your plants a boost with fertilizer every month. If you notice that the plant has gone dormant, leave it be until next season.
+Care: Water: Water moderately. | Temperature: Minimum temperature 59º F (15°C).
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/bladverk-potted-plant-in-mug-assorted-species-plants__0573875_pe667947_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

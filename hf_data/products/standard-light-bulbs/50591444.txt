@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: SOLHETTA LED bulb E26 450 lumen, globe clear
+SKU: 50591444
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/solhetta-led-bulb-e26-450-lumen-globe-clear-50591444/
+Category: Standard light bulbs
+Description: This energy-efficient and long-lasting LED light bulb has a lifetime of approximately 25,000 hours. It spreads a pleasant warm-white light that allows the room's natural colors to come into their own....
+
+# @OFFER
+Price: 3.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Glass
+Features: Remember to choose a bulb that fits your lamp. Lamps usually have a large or small socket and our range has bulbs that fit in both types.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/solhetta-led-bulb-e26-450-lumen-globe-clear__1368988_pe957981_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

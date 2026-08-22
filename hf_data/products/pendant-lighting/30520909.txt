@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BLÅSVERK pendant lamp, beige
+SKU: 30520909
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/blasverk-pendant-lamp-beige-30520909/
+Category: Pendant lighting
+Description: , 15" Looking for a pendant lamp with a modern design that gives a pleasant light at a low price? BLÅSVERK can be what you are looking for with its soft shape and retro feel – perfect to hang over a d...
+
+# @OFFER
+Price: 34.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Cover/ Diffuser/ Nut/ Shade: Polypropylene plastic (min. 50% recycled), Tube: Aluminum, Paint
+Features: Light bulb sold separately. IKEA recommends LED bulb E26 globe opal white. | To be hung on a ceiling hook and attached with screws. | Screws are not included.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/blasverk-pendant-lamp-beige__1150244_pe884434_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

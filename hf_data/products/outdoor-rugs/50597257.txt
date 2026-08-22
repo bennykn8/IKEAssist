@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: LUFTFARTYG rug flatwoven, in/outdoor, black/stripe
+SKU: 50597257
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/luftfartyg-rug-flatwoven-in-outdoor-black-stripe-50597257/
+Category: Outdoor rugs
+Description: , 5'3"x7'7" This decorative rug blends in everywhere and makes any area feel warm and cozy − whether you choose to place it indoors or outdoors. So why not give your outdoor space a little upgrade? Ea...
+
+# @OFFER
+Price: 99.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Use surface: 100 % polypropylene, Backing: 100 % Synthetic rubber
+Care: Airing and vacuuming will help to eliminate the smell that the rug can have when it is new. | Cleaning: Use a mild detergent, brush with a soft brush and rinse thoroughly with water. Let the rug dry completely before use.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/luftfartyg-rug-flatwoven-in-outdoor-black-stripe__1355418_pe953004_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

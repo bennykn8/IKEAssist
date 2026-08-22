@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HÖGVIND pendant lamp with 3 lamps, nickel plated/gray glass
+SKU: 50499266
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hoegvind-pendant-lamp-with-3-lamps-nickel-plated-gray-glass-50499266/
+Category: Pendant lighting
+Description: , 16" This pendant lamp has 3 mouth blown, smoke-colored glass shades with inner shades made of perforated metal. Together they create an elegant eye-catcher that provides soft mood lighting and direc...
+
+# @OFFER
+Price: 149.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Shade: Glass, Ceiling cup/ Shade holder/ Lampholder cup: Steel, Brush finish nickel-plated
+Features: Light bulbs sold separately. IKEA recommends LED bulb E17 R14 (3 pcs). | If you choose a smart light bulb for your lamp, you can adapt the light to the activity by dimming. | Special waste handling may be required. Please contact your local authorities for more information.
+Care: Clean with a duster.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hoegvind-pendant-lamp-with-3-lamps-nickel-plated-gray-glass__1045903_pe842765_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

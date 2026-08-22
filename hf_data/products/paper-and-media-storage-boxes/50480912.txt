@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LURPASSA box with lid, set of 2, seagrass
+SKU: 50480912
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lurpassa-box-with-lid-set-of-2-seagrass-50480912/
+Category: Paper & media storage boxes
+Description: These baskets are braided with seagrass by skilled craftspeople. The small size makes them easy to place and perfect for storing small things that would otherwise be left lying around.
+
+# @OFFER
+Price: 14.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Seagrass, Clear lacquer
+Features: 2 boxes with lids (6x4x4" and 7x5x5"). | Not suitable for bathrooms or high humidity areas.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lurpassa-box-with-lid-set-of-2-seagrass__0918866_pe786497_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

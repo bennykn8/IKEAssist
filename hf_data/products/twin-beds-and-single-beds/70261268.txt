@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TARVA bed frame, pine, Twin
+SKU: 70261268
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tarva-bed-frame-pine-70261268/
+Category: Twin beds & single beds
+Description: TARVA bed frame is a modern example of Scandinavian furniture tradition – a simple design and untreated wood. A timeless expression mixes nicely with a variety of other styles and furniture. You can e...
+
+# @OFFER
+Price: 54
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Solid pine
+Features: Slatted bed base and mattress sold separately. | Combine this bed frame with a slatted bed base with a max. thickness of 1⅝" to keep the slats hidden in the frame. The slats of a higher bed base may be visible along the sides of the bed.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tarva-bed-frame-pine__0655004_pe708894_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

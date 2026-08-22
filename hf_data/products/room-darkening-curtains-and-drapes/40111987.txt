@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: MERETE room darkening curtains, 1 pair, white/with eyelets
+SKU: 40111987
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/merete-room-darkening-curtains-1-pair-white-with-eyelets-40111987/
+Category: Room darkening curtains & drapes
+Description: , 57x98" Room darkening curtains prevent most light from entering and provide privacy both day and night by blocking the view into the room from outside. The eyelet heading allows you to hang the curt...
+
+# @OFFER
+Price: 39.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % cotton
+Dimensions: The curtains are sold in pairs. The sizes stated refer to each single curtain. For the total width, double the width of a single curtain.
+Features: Curtains, 1 pair included | Use SY iron-on hemming strip to shorten the curtains without sewing. | 16 gliders and hooks are usually recommended for each curtain with a width of 57⅛". You can increase or decrease the number depending on whether you want narrower or fuller folds in the pleats.
+Care: Shrinkage maximum 4%. | Machine wash warm, normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/merete-room-darkening-curtains-1-pair-white-with-eyelets__74221_pe190980_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

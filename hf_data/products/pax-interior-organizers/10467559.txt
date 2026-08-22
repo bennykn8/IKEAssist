@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: KOMPLEMENT divider for pull-out tray, light gray
+SKU: 10467559
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/komplement-divider-for-pull-out-tray-light-gray-10467559/
+Category: PAX Interior organizers
+Description: , 393/8x133/4" Whether you have a passion for shoes, a soft spot for sweaters or a fancy for jewelry and accessories, KOMPLEMENT interior organizers tailor your wardrobe to make the best use of availa...
+
+# @OFFER
+Price: 20
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % polyester
+Dimensions: Available in several widths.
+Features: Fits KOMPLEMENT pull-out tray. | Fits only PAX wardrobe frame 39x14", see “Product size” for all exact product dimensions.
+Care: Clean by vacuuming or use a lint roller. | Do not wash.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/komplement-divider-for-pull-out-tray-light-gray__0797498_pe766900_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

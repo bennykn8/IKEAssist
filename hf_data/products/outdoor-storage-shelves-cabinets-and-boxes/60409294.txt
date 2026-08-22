@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KOLBJÖRN shelf unit, indoor/outdoor, beige
+SKU: 60409294
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kolbjoern-shelf-unit-indoor-outdoor-beige-60409294/
+Category: Outdoor storage: shelves, cabinets & boxes
+Description: , 311/2x317/8" Flexible, durable shelving unit that is great in bathrooms, hallways or on balconies – with space for everything from plant pots and tools to shampoos and shoes. Perfect to combine with...
+
+# @OFFER
+Price: 119
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Galvanized steel, Polyester powder coating
+Features: Suitable for indoor and outdoor use. | Product is possible to recycle or use for energy recovery, if available in your community.
+Care: Wipe clean with a soft cloth dampened with water and a mild dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kolbjoern-shelf-unit-indoor-outdoor-beige__0664612_pe718449_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: TROMMA wall clock, white, 9 ¾"
+SKU: 30557078
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tromma-wall-clock-white-30557078/
+Category: Wall clocks
+Description: With punched holes that form numbers on the dial, the background is visible through the clock. Add a colored piece of paper behind it to enjoy an almost completely new clock. Let your creativity flow!...
+
+# @OFFER
+Price: 3.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Clock frame: Polypropylene plastic (min. 20% recycled), Front protection: Polystyrene, Hands: ABS plastic
+Features: Batteries sold separately. IKEA recommends LADDA rechargeable batteries. This clock also works with alkaline batteries, 1xAA.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tromma-wall-clock-white__0836082_pe778497_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: IKEA 365+ lid, rectangular/bamboo
+SKU: 60577942
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ikea-365-lid-rectangular-bamboo-60577942/
+Category: Mix & match food containers & lids
+Description: Put the tight-fitting lid on a rectangular food container in the IKEA 365+ series to preserve your leftovers in the fridge. And after heating up the food, you can use the lid as a coaster on the table...
+
+# @OFFER
+Price: 6
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Lid: Bamboo, Clear acrylic lacquer, Seal: Silicone rubber
+Features: Fits on IKEA 365+ rectangular-shaped food containers. | The lid can also be used as a coaster and withstands temperatures up to 212°F. | Wash this product before using it for the first time.
+Care: Handwash only. | Not microwave-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ikea-365-lid-rectangular-bamboo__0710821_pe727785_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

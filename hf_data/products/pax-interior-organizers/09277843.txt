@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KOMPLEMENT insert for pull-out tray, light gray
+SKU: 09277843
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/komplement-insert-for-pull-out-tray-light-gray-s09277843/
+Category: PAX Interior organizers
+Description: , 393/8x227/8" Whether you have a passion for shoes, a soft spot for sweaters or a fancy for jewelry and accessories, KOMPLEMENT interior organizers tailor your wardrobe to make the best use of availa...
+
+# @OFFER
+Price: 110
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Rail: Fiberboard, Paper foil, Bottom panel: Fiberboard, Tinted lacquer, Rail: Fiberboard, Paper foil
+Features: This combination is dimensioned to fit on KOMPLEMENT pull-out shelf (39⅜x22⅞") for PAX wardrobe frame, 39⅜x22⅞".
+Care: Clean by vacuuming or use a lint roller.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/komplement-insert-for-pull-out-tray-light-gray__0617443_pe687952_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

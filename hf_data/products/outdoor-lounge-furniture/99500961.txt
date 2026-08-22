@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HAVSTEN loveseat, outdoor, beige/beige
+SKU: 99500961
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/havsten-loveseat-outdoor-beige-beige-s99500961/
+Category: Outdoor lounge furniture
+Description: If you like the look, try how it feels. Generous seats, fluffy cushions as well as elastic mesh fabric make the sofa comfortable. Create your own combination, sit back and relax. Outdoors or indoors!
+
+# @OFFER
+Price: 730
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Mesh: 63% TPE, 37 % polyester, Strap: 81% polypropylene, 19 % polyester, Metal tube: Steel, Galvanized, Polyester powder coating
+Features: The firmness of the mesh fabric can be tightened/adjusted with the strap in the back. | Possible to separate for recycling or energy recovery if available in your community.
+Care: Storing: If possible, store in a cool dry place indoors. If the furniture is stored outside, cover it with a waterproof cover. After a rain or snowfall, wipe off excess water or snow from flat surfaces. Allow air to circulate to avoid condensation. | Store the sofa cushions in a cool, dry place indoors when the season is over, preferably in a storage bag or storage box to protect from dirt and dust. Make sure the cushions are completely dry before storing.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/havsten-loveseat-outdoor-beige-beige__0729049_pe736632_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

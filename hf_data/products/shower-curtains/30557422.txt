@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LUDDHAGTORN shower curtain, gray
+SKU: 30557422
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/luddhagtorn-shower-curtain-gray-30557422/
+Category: Shower curtains
+Description: , 71x71" A fresh shower curtain makes your bathroom feel clean and inviting. This one comes in several colors - choose your favorite and feel free to combine it with the matching DIMFORSEN bath towels...
+
+# @OFFER
+Price: 4.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: EVA plastic
+Features: To be completed with shower curtain rings and a shower curtain rod. | Keep your shower curtain made from PEVA clean by regularly rinsing and wiping it with a wet sponge.
+Care: Do not wash. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/luddhagtorn-shower-curtain-gray__1161389_pe889364_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SEGERÖN coffee table, outdoor, white/beige
+SKU: 40510797
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/segeroen-coffee-table-outdoor-white-beige-40510797/
+Category: Outdoor coffee tables & side tables
+Description: , 283/4x283/4" Create a dining or lounging area for your balcony, patio, terrace or garden. The flexible SEGERÖN outdoor furniture series is designed for outdoor life and all types of weather, climate...
+
+# @OFFER
+Price: 115
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Aluminum, Polyester powder coating, Top frame: Galvanized steel, Polyester powder coating, Strip: Synthetic rubber
+Features: Please check with your local authorities to make sure that the product complies with any specific requirements for business use. | Only recommended for outdoor use.
+Care: Cleaning: Wipe clean with a mild soapy solution. We recommend to not clean rope or metal furniture with a strong cleaning agent or an abrasive material since it may discolor or damage the surface.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/segeroen-coffee-table-outdoor-white-beige__1138769_pe880071_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt
