@@ -14,23 +14,17 @@ so the dataset is indexed automatically on the first run and reused afterward.
 
 The data is a static snapshot of IKEA US Products in July 2025 in CommerceTXT format.
 
-Data source: 
+**Data source:** [IKEA US CommerceTXT Dataset](https://huggingface.co/datasets/tsazan/ikea-us-commercetxt)
 
-@dataset{ikea_us_commercetxt_2025,
-  title = {IKEA US CommerceTXT Dataset},
-  author = {Tsanko Zanov},
-  year = {2026},
-  url = {https://huggingface.co/datasets/tsazan/ikea-us-commercetxt}
-}
+- **Author:** Tsanko Zanov
+- **Year:** 2026
 
-The data is a CommerceTXT adaptation of the original dataset below:
+The data is a CommerceTXT adaptation of the original dataset:
 
-@misc{ikea_us_products_2025,
-  title = {IKEA US Product Dataset (July 2025)},
-  author = {Jeffrey Zhou},
-  year = {2025},
-  url = {https://huggingface.co/datasets/jeffreyszhou/ikea-us-products-2025}
-}
+**Original dataset:** [IKEA US Product Dataset (July 2025)](https://huggingface.co/datasets/jeffreyszhou/ikea-us-products-2025)
+
+- **Author:** Jeffrey Zhou
+- **Year:** 2025
 
 
 ## Project Files
