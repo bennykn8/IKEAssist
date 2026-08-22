@@ -1,9 +1,13 @@
 # IKEAssist
 
 IKEAssist is a retrieval-augmented generation (RAG) assistant for IKEA products.
-It searches the product dataset for the five most relevant product
+It searches the product dataset for relevant product
 descriptions, then gives those results to the Llama3.2 LLM model to generate an
-answer. Product embeddings are stored in a persistent Chroma vector database,
+answer. 
+
+LangChain connects the product search with the question-answering process,
+while Ollama provides the models used to find relevant products and generate
+answers. Product embeddings are stored in a persistent Chroma vector database,
 so the dataset is indexed automatically on the first run and reused afterward.
 
 ## Data Citation
