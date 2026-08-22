@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: LÅNESPELARE cup holder, ash veneer
+SKU: 50571525
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lanespelare-cup-holder-ash-veneer-50571525/
+Category: Gaming accessories
+Description: You can easily clamp this mug holder to your desk and have something refreshing to drink within reach while playing – at a safe distance from both the keyboard and mouse. The opening at the front make...
+
+# @OFFER
+Price: 16.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Layer-glued wood veneer, Ash veneer, Tinted clear acrylic lacquer, Bottom panel: Molded layers of fiberboard, Ash veneer, Tinted clear acrylic lacquer, Metal part/ Knob: Aluminum, Powder coating
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lanespelare-cup-holder-ash-veneer__1248932_pe923290_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

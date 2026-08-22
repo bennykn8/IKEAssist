@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: UPPFYLLD cheese slicer, bright yellow
+SKU: 90578252
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/uppfylld-cheese-slicer-bright-yellow-90578252/
+Category: Cooking preparation tools
+Description: A tip for all of you cheese lovers. With this lightweight plastic cheese slicer, you enjoy perfectly thin slices of cheese, every time. Just as easy to use as to clean – just toss it into the dishwash...
+
+# @OFFER
+Price: 2.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polypropylene, Stainless steel
+Care: Dishwasher-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/uppfylld-cheese-slicer-bright-yellow__1121878_pe874390_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

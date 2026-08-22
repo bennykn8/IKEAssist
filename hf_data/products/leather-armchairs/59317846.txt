@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MORABO armchair, Grann/Bomstad gray-green/metal
+SKU: 59317846
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/morabo-armchair-grann-bomstad-gray-green-metal-s59317846/
+Category: Leather armchairs
+Description: Warm and welcoming, neat and stylish. The supporting seat cushions, the cover’s soft finish and the tight fit gives this armchair a perfect balance between its comfort, functions and look.
+
+# @OFFER
+Price: 599
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Back and seat frame: Plywood, Solid pine, Particleboard, Fiberboard, Armrest frame: Plywood, Solid pine, Polyurethane foam 1.5 lb/cu.ft., Particleboard, Fiberboard, Back cushion: Polyurethane foam 1.5 lb/cu.ft.
+Features: The seat cushion, back cushion and inside, top, front of the armrests are covered with GRANN – a soft, smooth and strong grain leather with natural variations. Other surfaces have the coated fabric BOMSTAD.
+Care: Non-removable cover: Clean with a dust cloth or vacuum lightly using the soft brush attachment. | Non-removable cover: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/morabo-armchair-grann-bomstad-gray-green-metal__0608677_pe683977_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ANTAGEN dish brush, white
+SKU: 30534223
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/antagen-dish-brush-white-30534223/
+Category: Dish cloths, sponges, rags & more
+Description: The scraper edge makes it easier to remove stubborn food. The dish-washing brush has a hole in the handle so you can hang it up when you’re not using it.
+
+# @OFFER
+Price: 0.79
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Handle: Polypropylene plastic (min. 20% recycled), Bristles: Polyester
+Features: The material in this product may be recyclable. Please check the recycling rules in your community and if recycling facilities exist in your area.
+Care: Dishwasher-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/antagen-dish-brush-white__1119403_pe873496_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

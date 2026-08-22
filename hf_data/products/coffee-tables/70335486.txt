@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FJÄLLBO coffee table, black
+SKU: 70335486
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/fjaellbo-coffee-table-black-70335486/
+Category: Coffee tables
+Description: , 353/8x181/8" An airy and stable coffee table to create a rustic look at home. The metal adds an industrial feel and the solid wood makes each piece of furniture unique. Space for magazines, books an...
+
+# @OFFER
+Price: 99.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Solid pine, Clear acrylic lacquer, Stain, Clear acrylic lacquer, Stain, Underframe/ Panel: Steel, Epoxy/polyester powder coating
+Features: Max load on table top: 44 lbs. | Part of a series. | May be combined with other products in the FJÄLLBO series.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/fjaellbo-coffee-table-black__0475920_pe615876_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

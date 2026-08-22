@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: NEREBY container, natural
+SKU: 90429097
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/nereby-container-natural-90429097/
+Category: Kitchen wall organizers
+Description: The NEREBY series frees up countertop space and puts things close at hand. The durable blend of undyed/unbleached hemp and cotton creates a tactile texture and keeps its rustic beauty over time.
+
+# @OFFER
+Price: 4
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 80 % cotton, 20 % hemp
+Features: Combines with other accessories in the NEREBY series.
+Care: Shrinkage maximum 10%. | Machine wash, warm, durable-press cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/nereby-container-natural__0941977_pe795928_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

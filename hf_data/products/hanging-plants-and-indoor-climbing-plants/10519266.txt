@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: EPIPREMNUM hanging plant, assorted species plants Golden Pothos
+SKU: 10519266
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/epipremnum-hanging-plant-assorted-species-plants-golden-pothos-10519266/
+Category: Hanging plants & indoor climbing plants
+Description: , 8" You can hang up this plant right away or plant it in another pot. With hanging plants, you can create a lush curtain of greenery that makes the home feel more vibrant – and inspires your creativi...
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Plant/ Substrate: Cultivated potted plant, Pot: Polypropylene
+Dimensions: The height of the plants can vary.
+Features: Fast growing. | Ideal office plant. | Evergreen plant.
+Care: Others: Only for decoration. Not suitable for consumption. | Temperature: Minimum temperature 54º F (12°C).
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/epipremnum-hanging-plant-assorted-species-plants-golden-pothos__1473773_pe997851_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

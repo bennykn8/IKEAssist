@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: UTÅKER Stackable bed, pine, Twin
+SKU: 30360487
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/utaker-stackable-bed-pine-30360487/
+Category: Daybeds
+Description: . When stacked, these 2 beds become a single bed or sofa. Unstacked, you get a double bed, corner sofa or spare bed for sleepovers.
+
+# @OFFER
+Price: 129
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Bedside/ Head/footboard/ Leg/ Supporting rail: Solid pine, Bed slats: Layer-glued wood veneer, Adhesive resin as coating, Ribbon: 100 %polyester
+Features: Slatted bed base is included. | Mattress and bedlinens are sold separately. | Can be used with up to 5" thick mattresses.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/utaker-stackable-bed-pine__1161849_pe889565_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

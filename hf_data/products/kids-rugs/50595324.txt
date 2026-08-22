@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: NATTHÄGER rug, low pile, blue orange/toucan
+SKU: 50595324
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/natthaeger-rug-low-pile-blue-orange-toucan-50595324/
+Category: Kids rugs
+Description: , 2'9"x4'1" Playful rug with a colorful toucan motif. A lovely splash of color that is soft to walk and play on and makes your child's room feel extra snug and cozy.
+
+# @OFFER
+Price: 39.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Pile: 100% polyester (min. 90% recycled), Backing: 100 % Synthetic rubber
+Features: If you buy the rug online, chance determines whether the printed toucan bird faces to the left or right. If you shop at your IKEA store, you can choose the direction by checking the label of the rug.
+Care: Hand wash warm water. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/natthaeger-rug-low-pile-blue-orange-toucan__1367328_pe957364_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

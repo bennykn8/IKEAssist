@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FÖRENLIG plant pot, indoor/outdoor white, 3 ½"
+SKU: 70454813
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/foerenlig-plant-pot-indoor-outdoor-white-70454813/
+Category: Indoor plant pots
+Description: Soft and inviting shapes make FÖRENLIG plant pots easy to like and use in many homes, both indoors and outdoors. Frost-resistant; can be standing outdoors at temperatures below zero if emptied of soil...
+
+# @OFFER
+Price: 2.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polypropylene plastic (min. 20% recycled)
+Features: Suitable for indoor and outdoor use. | You can make a draining hole in the bottom using a drill. | To prevent surface scratches, complete with TRIXIG stick-on floor protectors, sold separately.
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/foerenlig-plant-pot-indoor-outdoor-white__0817560_pe774238_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BRUNKRISSLA duvet cover and pillowcase(s), black, King
+SKU: 60564591
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/brunkrissla-duvet-cover-and-pillowcase-s-black-60564591/
+Category: Duvet covers & duvet cover sets
+Description: Over the years, more than 20 million people have tucked themselves in under a BRUNKRISSLA duvet cover. A reality beyond our wildest dreams and proof that good quality never goes out of style. Pillowca...
+
+# @OFFER
+Price: 39.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 54 % cotton, 46 % viscose/rayon
+Features: 152 thread count. | Thread count indicates the number of threads per square inch of fabric. The higher the thread count the more densely woven the fabric. | Each pillowcase is made from random cut fabric giving each one a unique look.
+Care: Shrinkage maximum 4%. | Machine wash warm (max 140°F/60°C) normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/brunkrissla-duvet-cover-and-pillowcase-s-black__0642969_pe701579_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TONSTAD table and 6 chairs, brown oak effect/Gunnared beige black
+SKU: 59602315
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tonstad-table-and-6-chairs-brown-oak-effect-gunnared-beige-black-s59602315/
+Category: Dining sets up to 6 seats
+Description: , 783/4x331/2"
+
+# @OFFER
+Price: 1469.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel: Particleboard, Tinted clear acrylic lacquer, Paper foil, Paper edging, Oak veneer, Stain, Tinted lacquer, Side rail/ Leg: Solid wood, Adhesive, Oak veneer, Stain, Tinted clear acrylic lacquer, Fabric: 100 %polyester
+Features: Recommended for indoor use only. | Seats 6. | Extra covers for MÅRENÄS chair with armrests are available in different colors, sold separately.
+Care: Removable cover: Machine wash warm, normal cycle. | Removable cover: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tonstad-table-and-6-chairs-brown-oak-effect-gunnared-beige-black__1426744_pe979973_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

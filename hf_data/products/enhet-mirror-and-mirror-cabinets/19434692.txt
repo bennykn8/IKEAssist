@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ENHET mirror cab/2 door, white/white frame
+SKU: 19434692
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/enhet-mirror-cab-2-door-white-white-frame-s19434692/
+Category: ENHET mirror & mirror cabinets
+Description: , 24x123/4x30" One or two mirror doors above the sink eases those morning routines like shaving or fixing the make-up. Easy to match with other things while the mirror glass makes your bathroom feel b...
+
+# @OFFER
+Price: 130
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Rail/ Panel: Fiberboard, Plastic foil, Mirror: Glass, Plastic foil, Side panel/ Bottom panel/ Top panel/ Back rail/ Shelf: Particleboard, Plastic foil, Plastic edging
+Features: Screws for connecting several cabinets included. | Cabinet with shelves and doors included. | Knobs and handles sold separately.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/enhet-mirror-cab-2-door-white-white-frame__1049523_pe844207_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

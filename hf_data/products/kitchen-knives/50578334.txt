@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VÖRDA paring knife, black
+SKU: 50578334
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/voerda-paring-knife-black-50578334/
+Category: Kitchen knives
+Description: , 4" Small, lightweight and with a grip-friendly handle. This paring knife is a perfect companion to larger knives and ideal for cleaning and peeling fruits or vegetables. Small and handy. Suitable fo...
+
+# @OFFER
+Price: 6.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Blade: Stainless steel, Handle: Polypropylene, Thermoplastic elastomer
+Features: Wash this product before using it for the first time.
+Care: Handwash only.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/voerda-paring-knife-black__0710377_pe727505_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

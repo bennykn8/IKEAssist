@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SÄNDNING rug, high pile, white
+SKU: 60556223
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/saendning-rug-high-pile-white-60556223/
+Category: Handmade rugs
+Description: , 5'7"x7'10" On this soft rug in wool, the narrow black lines create an elegant pattern that catches the eye. A good choice for those who like a modern style and want a rug that adds a homely feeling....
+
+# @OFFER
+Price: 299.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Use surface/ Weft: 100 % wool, Warp/ Weft: 100 % cotton
+Features: Wool sheds naturally, so to keep your rug beautiful we recommend that you vacuum it regularly.
+Care: Do not wash. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/saendning-rug-high-pile-white__1273333_pe930014_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

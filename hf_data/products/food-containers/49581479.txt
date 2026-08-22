@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: IKEA 365+ food storage basket with lid, square metal/light gray-brown bamboo
+SKU: 49581479
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ikea-365-food-storage-basket-with-lid-square-metal-light-gray-brown-bamboo-s49581479/
+Category: Food containers
+Description: , 57/8x57/8x43/8" Room temperature and circulating air enhance the taste and extend the life of many foods. IKEA 365+ food storage basket with lid is both sleek and practical since the contents are vi...
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Polyester powder coating, Lid: Bamboo, Clear acrylic lacquer, Seal: Silicone rubber
+Features: Recommended for indoor use only.
+Care: Lid: Handwash only. | Lid: Not microwave-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ikea-365-food-storage-basket-with-lid-square-metal-light-gray-brown-bamboo__1394749_pe966729_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

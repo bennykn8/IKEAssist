@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: JETSTRÖM LED wall light panel, smart dimmable/color and white spectrum
+SKU: 50536080
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/jetstroem-led-wall-light-panel-smart-dimmable-color-and-white-spectrum-50536080/
+Category: LED panel lights
+Description: , 12x12" Movie night, hanging out with friends or making the children’s room even more fun to be in? This smart light panel, with its many color options, helps you create the right mood. You can even ...
+
+# @OFFER
+Price: 69.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Base: Steel, Powder coating, Diffuser: Polystyrene
+Features: Remote control sold separately. | Hub sold separately. | Works with IKEA Home smart.
+Care: Wipe clean using a damp cloth and a mild cleaner.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/jetstroem-led-wall-light-panel-smart-dimmable-color-and-white-spectrum__1275105_pe930538_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

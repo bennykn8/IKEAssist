@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SKOGSTA / NORDVIKEN table and 6 chairs, acacia/black
+SKU: 69482690
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/skogsta-nordviken-table-and-6-chairs-acacia-black-s69482690/
+Category: Dining sets up to 6 seats
+Description: , 921/2x393/8" A durable dining set that makes it easy to have big dinners. The solid wood holds up well over time and will endure all the family meals and activities around the table.
+
+# @OFFER
+Price: 939
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Solid acacia wood, Clear acrylic lacquer, Clear lacquer, Leg/ Rail: Solid acacia wood, Acrylic paint, Leg/ Rail: Solid pine, Stain, Clear acrylic lacquer
+Features: May be completed with FIXA self-adhesive floor protectors to protect the underlying surface against wear. | Recommended for indoor use only. | Seats 6-8.
+Care: Chair: Wipe clean with a mild soapy solution. | Chair: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/skogsta-nordviken-table-and-6-chairs-acacia-black__1097254_pe864851_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

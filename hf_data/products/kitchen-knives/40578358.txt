@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: IKEA 365+ 5-piece knife set, stainless steel
+SKU: 40578358
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ikea-365-5-piece-knife-set-stainless-steel-40578358/
+Category: Kitchen knives
+Description: Divide, cut, peel, and chop ingredients of all sizes. It’s simple with these five sharp, durable, and balanced knives. A complete set that helps you succeed in the kitchen every day, all year round.
+
+# @OFFER
+Price: 59.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Stainless steel
+Dimensions: Comprises: 1 paring knife 3½" (tot. length 7⅞"), 1 utility knife 5½" (tot. length 9⅞"), 2 cook’s knife 6¼" and 7⅞" (tot. length 11⅜" and 13") and 1 bread knife 9" (tot. length 14⅛").
+Features: Wash this product before using it for the first time.
+Care: Handwash only.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ikea-365-5-piece-knife-set-stainless-steel__1173121_pe893807_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

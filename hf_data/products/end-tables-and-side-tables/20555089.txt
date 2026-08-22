@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: BAGGBODA side table, light yellow
+SKU: 20555089
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/baggboda-side-table-light-yellow-20555089/
+Category: End tables & side tables
+Description: , 28x195/8" This coffee table was designed by Karin Mobring and was in our catalogue in 1971. Then with the fitting name CROMI. An example of a simple and stylish shape given new life in the Nytillver...
+
+# @OFFER
+Price: 79.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Particleboard, Melamine foil, Plastic edging, Underframe: Steel, Chrome plated, Foot: Polypropylene
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/baggboda-side-table-light-yellow__1265556_pe927742_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

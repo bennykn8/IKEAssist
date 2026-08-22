@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: IKEA 365+ GUNSTIG trivet, magnetic, red/dark gray
+SKU: 50175276
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ikea-365-gunstig-trivet-magnetic-red-dark-gray-50175276/
+Category: Cooking accessories
+Description: The magnetic trivet adheres to cookware that is suitable for use on induction cooktops. Slip the trivet underneath a pot with magnetic bottom and it hangs on when you lift and carry the pot.
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Silicone rubber, Magnet: Neodymium
+Features: Wash this product before using it for the first time. | The material in this product may be recyclable. Please check the recycling rules in your community and if recycling facilities exist in your area.
+Care: Dishwasher-safe. | Withstands temperatures up to 320°F.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ikea-365-gunstig-trivet-magnetic-red-dark-gray__0711770_pe728462_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

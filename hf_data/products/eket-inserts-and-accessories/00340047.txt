@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: EKET Suspension rail, Width: 11 ½"
+SKU: 00340047
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/eket-suspension-rail-00340047/
+Category: EKET inserts & accessories
+Description: . The suspension rail works as a reinforcement and makes it both easier and safer to mount EKET to the wall.
+
+# @OFFER
+Price: 7
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Galvanized steel
+Features: You will need a suspension rail to mount EKET cabinets on the wall. | Ensure that you have a minimum of 2" between the top of the frame and the ceiling in order to mount the frame to the suspension rail.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/eket-suspension-rail__0473519_pe614593_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

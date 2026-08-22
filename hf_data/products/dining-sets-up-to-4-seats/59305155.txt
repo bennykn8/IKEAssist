@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: NORDVIKEN / NORDVIKEN table and 4 chairs, black/black
+SKU: 59305155
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/nordviken-nordviken-table-and-4-chairs-black-black-s59305155/
+Category: Dining sets up to 4 seats
+Description: , 597/8/873/4x373/8" This beautifully matched dining set with traditional feel will soon become a natural gathering place in your home. NORDVIKEN extendable table seats 4 to 6 people and NORDVIKEN cha...
+
+# @OFFER
+Price: 959.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Particleboard, Ash veneer, Stain, Tinted clear acrylic lacquer, Paper foil, Extension leaf: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Ash veneer, Stain, Tinted clear acrylic lacquer, Paper foil, Acrylic paint, Side rail/ Cross rail: Solid beech, Adhesive, Stain, Tinted clear acrylic lacquer
+Features: May be completed with NORDVIKEN chair pad, sold separately. | Seats 4-6.
+Care: Chair: Wipe clean with a mild soapy solution. | Chair: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/nordviken-nordviken-table-and-4-chairs-black-black__0747569_pe744589_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

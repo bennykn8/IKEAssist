@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: EKET wall-mounted storage combination, multicolor/gray-green
+SKU: 39521674
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/eket-wall-mounted-storage-combination-multicolor-gray-green-s39521674/
+Category: EKET pre-designed combinations
+Description: It’s edginess in a box. Create an asymmetric or unexpected storage solution and fill it with your things. Stack and combine as you please. Fits in any space and has infinite possibilities.
+
+# @OFFER
+Price: 135
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Galvanized steel, Back panel: Fiberboard, Paper foil, Panel: Particleboard, Honeycomb structure paper filling (100% recycled), Fiberboard, Paper foil, Plastic edging
+Features: The maximum load for a wall-hung cabinet depends on the wall material. | Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Ensure that you have a minimum of 2" between the top of the frame and the ceiling in order to mount the frame to the suspension rail.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/eket-wall-mounted-storage-combination-multicolor-gray-green__1219341_pe913422_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

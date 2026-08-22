@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: NORBERG / KÄTTIL table and 2 chairs, white/Knisa light gray
+SKU: 69480832
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/norberg-kaettil-table-and-2-chairs-white-knisa-light-gray-s69480832/
+Category: Dining sets up to 2 seats
+Description: Big on function in the smallest of spaces. This set offers seating comfort and storage that keeps your most important things organized and handy while you move between activities throughout the day.
+
+# @OFFER
+Price: 239.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top/ Top rail: Particleboard, Plastic edging, Melamine foil, Underframe/ Mounting plate: Steel, Epoxy/polyester powder coating, Plastic fitting: Polyamide, Polyethylene, Polypropylene
+Dimensions: For use at table height: Mount the table to the wall so that the top edge of the table top reaches a height of ca. 29⅛".
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | For use at bar table height: Mount the table to the wall so that the top edge of the table top reaches a height of ca. 37⅜" or 41¾", depending on seat height of the bar chair. | Possible to separate for recycling or energy recovery if available in your community.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/norberg-kaettil-table-and-2-chairs-white-knisa-light-gray__1090863_pe862184_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FRIDHULT sleeper sofa, Skiftebo yellow
+SKU: 00575451
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/fridhult-sleeper-sofa-skiftebo-yellow-00575451/
+Category: Loveseat sleepers
+Description: FRIDHULT sofa bed is designed to use as little space as possible, while maximizing the sleeping surface. Perfect if you live in a small space and want to be able to easily transform your sofa into a b...
+
+# @OFFER
+Price: 299
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Back fabric/ Fabric/ Fabric/ Ticking/ Ticking, underside: 100 % polyester (100% recycled), Seat frame: Laminated veneer lumber, Solid wood, Plywood, High-resilience polyurethane foam (cold foam) 1.8 lb/cu.ft., Back frame: Paperboard (min. 0% recycled), Particleboard, Plywood, Fiberboard
+Features: Stationary cover.
+Care: Non-removable cover: Do not wash. | Non-removable cover: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/fridhult-sleeper-sofa-skiftebo-yellow__1265821_pe927821_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KORNSNÖ LED night light, white, rabbit battery operated
+SKU: 00433720
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kornsnoe-led-night-light-white-rabbit-battery-operated-00433720/
+Category: Kids night lights & lamps
+Description: . A reliable friend in the dark who can make the night a little brighter. Our children’s lighting products go through some of the toughest safety tests in the world, so you know your child is safe.
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: ABS plastic
+Features: Batteries are sold separately; 2 pcs AA required. | IKEA recommends LADDA rechargeable batteries. | Illuminates for 15 minutes when your child presses the nose.
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kornsnoe-led-night-light-white-rabbit-battery-operated__0783197_pe761501_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

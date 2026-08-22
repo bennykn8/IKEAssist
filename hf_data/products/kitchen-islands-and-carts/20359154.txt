@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VADHOLMA Kitchen island, black, oak, Width: 49 5/
+SKU: 20359154
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vadholma-kitchen-island-black-oak-20359154/
+Category: Kitchen islands & carts
+Description: VADHOLMA Kitchen island, black, oak. Gather around the kitchen island! VADHOLMA is the home’s given meeting point and perfect when you cook together. Plenty of storage ‒ and the generous butcher block...
+
+# @OFFER
+Price: 529
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Work top: Particleboard, Thick oak veneer, Solid oak, Oil-acrylic, Leg/ Underframe: Solid beech, Particleboard, Thick beech veneer, Solid beech, Acrylic paint, Fixed partition: Particleboard, High-pressure melamine laminate, Plastic edging
+Dimensions: Bar stools with seat height 24¾" fit in well with this kitchen island.
+Care: Wipe clean with a dry cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vadholma-kitchen-island-black-oak__0736820_pe740762_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

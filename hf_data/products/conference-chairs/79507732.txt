@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: LÅNGFJÄLL conference chair with armrests, Gunnared green-gray/black
+SKU: 79507732
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/langfjaell-conference-chair-with-armrests-gunnared-green-gray-black-s79507732/
+Category: Conference chairs
+Description: This easy-to-place conference chair with gently curved lines accentuated by sewn details is kind to your body and pleasant to look at. The tilt and height-adjusting mechanism enables individual comfor...
+
+# @OFFER
+Price: 269.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100% polyester (min. 90% recycled), Seat: Steel, Steel, Seat foam: High resilient polyurethane foam (cold foam).
+Dimensions: Adjustable seat height.
+Features: Lumbar support. | Manual tilt tension. | Tilt mechanism.
+Care: Vacuum clean. | Wipe clean with a water dampened cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/langfjaell-conference-chair-with-armrests-gunnared-green-gray-black__1202288_pe905853_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

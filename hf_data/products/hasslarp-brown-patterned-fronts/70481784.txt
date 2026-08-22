@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HASSLARP door, brown patterned
+SKU: 70481784
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hasslarp-door-brown-patterned-70481784/
+Category: HASSLARP brown patterned fronts
+Description: , 18x40" The herringbone patterned wood veneer with characteristic details gives your kitchen a unique accent. Designed to match the SINARP series, but can also be paired with solid-colored doors for ...
+
+# @OFFER
+Price: 145
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frontside/ Edge: Poplar - reconstituted veneer, Clear acrylic lacquer, Backside: Oak veneer, Clear acrylic lacquer, Main parts: Particleboard
+Features: Complete with UTRUSTA 110° hinge with built-in damper for kitchen, 2-pack, sold separately. | To be used with 2 hinges. | Requires a knob or a handle
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hasslarp-door-brown-patterned__0994079_pe796750_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

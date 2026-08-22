@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FABRIKÖR Glass-door cabinet, dark gray
+SKU: 00242278
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/fabrikoer-glass-door-cabinet-dark-gray-00242278/
+Category: Display cabinets
+Description: , 22 1/2x59". With a glass-door cabinet, you can show off as well as protect your glassware or your favorite collection. You can easily change the height according to your storage needs as the shelves...
+
+# @OFFER
+Price: 159.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Metal parts: Steel, Epoxy/polyester powder coating, Adjustable shelf/ Glass panels: Tempered glass
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | The keys to the lock on this product are not unique, which means that several locks can be opened with the same key.
+Care: Glass: Wipe clean with a damp cloth. Use only water or window-cleaner. | Glass: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/fabrikoer-glass-door-cabinet-dark-gray__0644199_pe702478_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

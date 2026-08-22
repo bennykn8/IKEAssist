@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: STRANDMOLKE Comforter, light warm, Full/Queen
+SKU: 30457210
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/strandmolke-duvet-insert-light-warm-30457210/
+Category: Down alternative duvet inserts
+Description: . A lightweight comforter with ultra-soft comfort. The hollow polyester fiber filling is a fluff-lover’s dream, surrounded by a dobby woven cotton fabric that adds to the sense of luxury and well-bein...
+
+# @OFFER
+Price: 79.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100 % cotton, Filling material: 100 % polyester - hollow fiber (100% recycled)
+Features: 252 thread count. | Thread count indicates the number of threads per square inch of fabric. The higher the thread count the more densely woven the fabric. | This product is suitable for use in smaller hotels, inns and B&Bs as the design and material are optimized for frequent use and washing.
+Care: Machine wash warm (max 140°F/60°C) normal cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/strandmolke-duvet-insert-light-warm__0777298_pe758506_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

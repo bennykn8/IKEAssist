@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: PRUTA food container with lid, set of 17, green
+SKU: 10597099
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/pruta-food-container-with-lid-set-of-17-green-10597099/
+Category: Food storage container sets
+Description: Practical, colorful food storage! This set of 17 food containers has what you need for all those tasty things you have at home ─ from a children’s snack to a larger lunch for the office or the excursi...
+
+# @OFFER
+Price: 5.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polypropylene
+Features: 4 food containers (3½x3½x1½", 5oz), 3 food containers (4¾x3x1½", 5oz), 2 food containers (4¾x4¾x1½", 10oz), 2 food containers (4¾x4¾x6", 33oz), 2 food containers (5½x5½x2", 20oz), 2 food containers (5½x5½x6", 54oz), 2 food containers (9x6x3", 60oz). | This container is not spill-proof and may leak if you store liquid contents like soup in it. If you think there is a risk of leakage, do not place the container in for example a bag.
+Care: Freezer-safe. | Dishwasher-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/pruta-food-container-with-lid-set-of-17-green__1383829_pe962689_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

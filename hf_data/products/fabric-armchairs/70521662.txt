@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: OSKARSHAMN wing chair, Gunnared black-gray
+SKU: 70521662
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/oskarshamn-wing-chair-gunnared-black-gray-70521662/
+Category: Fabric armchairs
+Description: Who doesn't dream of having their own nook to relax in? The comfy OSKARSHAMN wing chair feels wonderfully embracing while the timeless design makes it the given eye-catcher in any room.
+
+# @OFFER
+Price: 449
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Paperboard (min. 100% recycled), High-resilience polyurethane foam (cold foam) 2.2 lb/cu.ft., Particleboard, Fiberboard, Solid wood, Plywood, Polyurethane foam 1.5 lb/cu.ft., Laminated veneer lumber, Zig-zag spring: Steel, Leg: Solid beech, Tinted lacquer
+Care: Frame, non-removable cover: Vacuum clean. | Frame, non-removable cover: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/oskarshamn-wing-chair-gunnared-black-gray__1118159_pe872953_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

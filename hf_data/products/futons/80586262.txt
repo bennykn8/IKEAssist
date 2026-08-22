@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KLAGSHAMN mattress cover
+SKU: 80586262
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/klagshamn-mattress-cover-80586262/
+Category: Futons
+Description: , 551/8x783/4" KLAGSHAMN is a simple mattress pad with foam filling that gives you extra comfort when you sleep. It is specially developed to be used with FRIHETEN corner sofa bed with storage. Foam f...
+
+# @OFFER
+Price: 50
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Mattress outer cover: 100 %polyester, Lining/ Lining, underside: 100 % polypropylene, Core filling: Polyurethane foam 1.5 lb/cu.ft.
+Features: Fits FRIHETEN sofa-bed. | The chair cover is sold separately.
+Care: Mattress topper: Machine wash warm (max 140°F/60°C) normal cycle. | Mattress topper: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/klagshamn-mattress-cover__1055723_pe848066_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

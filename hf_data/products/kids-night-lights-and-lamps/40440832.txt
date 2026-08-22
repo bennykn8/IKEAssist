@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: UPPLYST Cloud White LED Wall Lamp - Popular & Stylish
+SKU: 40440832
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/upplyst-led-wall-lamp-cloud-white-40440832/
+Category: Kids night lights & lamps
+Description: UPPLYST LED wall lamp, cloud white. Children love the playful design and the cozy light it provides when lit. Our children’s lighting products go through some of the toughest safety tests in the world...
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polypropylene plastic (min. 50% recycled)
+Features: The light source is pre-mounted but can be replaced when needed. Available as a spare part. For more information, contact IKEA customer services at your IKEA store or IKEA.com. | This lamp emits 110 lumens, which is approximately equal to the light emitted by a 15-watt incandescent bulb. | The light source has a lifetime of approx. 25,000 hours. This corresponds to about 20 years if the lamp is on for 3 hours per day.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/upplyst-led-wall-lamp-cloud-white__0716259_pe730767_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

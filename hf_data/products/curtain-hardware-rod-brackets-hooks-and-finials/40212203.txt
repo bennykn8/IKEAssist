@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: RIKTIG curtain hook, 20 pack
+SKU: 40212203
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/riktig-curtain-hook-40212203/
+Category: Curtain hardware: rod brackets, hooks & finials
+Description: These curtain hooks are intended for curtains with gathering tape and make it simple to hang your curtains nicely. With curtain hooks it’s easy to hang your curtains for a nice look.
+
+# @OFFER
+Price: 9
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel
+Features: 1 package is enough for 2 curtain panels. | Suitable for curtains with gathering tape.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/riktig-curtain-hook__0603458_pe680809_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

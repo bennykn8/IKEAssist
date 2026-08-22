@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: STOCKHOLM rug, flatwoven, handmade/stripe black/off-white
+SKU: 90103254
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/stockholm-rug-flatwoven-handmade-stripe-black-off-white-90103254/
+Category: Handmade rugs
+Description: , 8'2"x11'6" The black and white offset-stripe pattern is mesmerizing to look at. Handwoven in wool by skilled craftspeople makes each rug one of a kind. The flat weave is perfect for dining and livin...
+
+# @OFFER
+Price: 499.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Use surface: 100 % wool, Warp: 100 % cotton
+Features: The rug is hand-woven. | You will need 2 STOPP FILT rug underlay with anti-slip (5'5"x7'9") for this rug. Trim if necessary.
+Care: Do not wash. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/stockholm-rug-flatwoven-handmade-stripe-black-off-white__0523361_pe643765_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

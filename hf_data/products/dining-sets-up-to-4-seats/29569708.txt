@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: RÖNNINGE / KARLPETTER table and 4 chairs, birch/Gunnared light green white
+SKU: 29569708
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/roenninge-karlpetter-table-and-4-chairs-birch-gunnared-light-green-white-s29569708/
+Category: Dining sets up to 4 seats
+Description: , 61/825/8" 1 person can easily extend the table before the guests arrive thanks to the smooth extension mechanism. Comfortable upholstered chairs with sturdy powder-coated steel frames and ageless de...
+
+# @OFFER
+Price: 819.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Particleboard, Birch veneer, Tinted clear acrylic lacquer, Clear acrylic lacquer, Underframe: Solid birch, Adhesive, Birch veneer, Tinted clear acrylic lacquer, Leg: Birch veneer, Adhesive, Birch veneer, Tinted clear acrylic lacquer, Solid wood
+Features: Recommended for indoor use only. | Seats 4-8. | Non-removable cover. The zip at the back is not for removing the cover.
+Care: Furniture: For increased stability, re-tighten the screws about two weeks after assembly and when necessary. | Non-removable cover: Do not wash.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/roenninge-karlpetter-table-and-4-chairs-birch-gunnared-light-green-white__1329530_pe945186_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

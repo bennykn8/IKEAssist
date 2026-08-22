@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SKANSNÄS / LUSTEBO table and 4 chairs, brown beech/Viarp beige/brown
+SKU: 59561640
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/skansnaes-lustebo-table-and-4-chairs-brown-beech-viarp-beige-brown-s59561640/
+Category: Dining sets up to 4 seats
+Description: , 451/4/667/8" 4-seat dining set with modern flair includes brown-stained wooden table that extends to seat 6, and cantilever chairs with comfy, flexy feel. Removeable/washable cover lets you relax an...
+
+# @OFFER
+Price: 1179
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Particleboard, Solid beech, Adhesive, Thick beech veneer, Stain, Tinted clear acrylic lacquer, Top rail/ Side rail: Solid beech, Particleboard, Adhesive, Thick beech veneer, Stain, Tinted clear acrylic lacquer, Extension rail: Solid beech, Stain, Tinted clear acrylic lacquer
+Features: Recommended for indoor use only. | Seats 4-6. | Removable, washable cover
+Care: Table: Wipe clean using a damp cloth and a mild cleaner. | Table: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/skansnaes-lustebo-table-and-4-chairs-brown-beech-viarp-beige-brown__1333639_pe946521_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

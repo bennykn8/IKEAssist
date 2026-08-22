@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KRUMMELUR foam mattress for crib
+SKU: 80348520
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/krummelur-foam-mattress-for-crib-80348520/
+Category: Crib mattresses
+Description: , 271/2x52" Our crib mattresses are made from safe, sustainable materials. All are free from harmful chemicals and tested according to strict safety requirements. Your child will sleep safely – and so...
+
+# @OFFER
+Price: 79
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Ticking: 64 %polyester, 36 % cotton, Quilt filling/ Filling: 70 % viscose, 30 % polyester, Inner fabric: 100 % polypropylene
+Features: We recommend IKEA fitted sheets for cribs. They are dimensioned for our mattresses, which means the mattress retains its secure shape and size. | The mattress is dimensioned for IKEA cribs. | Wash the cover inside out with the zipper closed.
+Care: Mattress, inner cover: Wipe clean with a damp cloth. | Mattress cover: Machine wash warm (max 140°F/60°C) normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/krummelur-foam-mattress-for-crib__0873243_pe655559_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

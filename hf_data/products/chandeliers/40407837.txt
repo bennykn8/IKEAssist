@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SIMRISHAMN Pendant lamp, 3-armed, chrome plated, opal glass
+SKU: 40407837
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/simrishamn-pendant-lamp-3-armed-chrome-plated-opal-glass-40407837/
+Category: Chandeliers
+Description: . A stylish glass and chrome lamp from the SIMRISHAMN series. Modern lighting for an entire home that creates a nice atmosphere.
+
+# @OFFER
+Price: 119.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Ceiling cup/ Arm: Steel, Chrome plated, Shade: Glass, Paint
+Features: Light bulbs sold separately. IKEA recommends LED bulb E12 globe opal white (3 pcs). | Use an opal light bulb if you have an ordinary lamp shade or lamp and want an even, diffused distribution of light. | Use a clear light bulb if you have a lamp shade or lamp with a perforated or cut-out pattern or other airy, open design and want the pattern to cast effects on the wall and ceiling.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/simrishamn-pendant-lamp-3-armed-chrome-plated-opal-glass__0793571_pe765399_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

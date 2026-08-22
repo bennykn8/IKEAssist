@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HULDHET rice ladle, walnut
+SKU: 10522061
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/huldhet-rice-ladle-walnut-10522061/
+Category: Cooking & baking utensils
+Description: These utensils are made of solid black walnut wood, giving your kitchen a warm and sleek touch. Each utensil has a unique look since they are untreated. Gentle to pots and pans with non-stick coating....
+
+# @OFFER
+Price: 5.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Solid walnut, Oil
+Features: Wash this product before using it for the first time. | To extend the lifespan of the product, treat it with vegetable oil from time to time.
+Care: Handwash only. | This product is made of natural wood which has no paint coating.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/huldhet-rice-ladle-walnut__0833929_pe778108_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

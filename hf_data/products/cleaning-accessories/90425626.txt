@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BÄSTIS lint roller, gray
+SKU: 90425626
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/baestis-lint-roller-gray-90425626/
+Category: Cleaning accessories
+Description: This lint roller has a whopping 40 sticky sheets that remove fur hair, dust and lint from clothes, furniture and car seats. Easily and quickly removes animal hairs, dust and lint from garments, furnit...
+
+# @OFFER
+Price: 0.89
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Handle: Polypropylene, Roller: Chlorine free bleached paper
+Dimensions: Consists of 40 sheets, total length 25 ft.
+Care: Store dry.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/baestis-lint-roller-gray__0654805_pe708843_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

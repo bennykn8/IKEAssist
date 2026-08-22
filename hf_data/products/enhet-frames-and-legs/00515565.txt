@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ENHET Base cabinet for sink with shelf, gray
+SKU: 00515565
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/enhet-base-cb-f-sink-w-shelf-gray-00515565/
+Category: ENHET frames & legs
+Description: ENHET Base cb f sink w shelf, gray, 24x18x24" ENHET series makes it easy to start fresh with a new bathroom solution. This base cabinet for sink with shelf keeps towels and toilet paper handy. Make it...
+
+# @OFFER
+Price: 87
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Side panel/ Bottom panel/ Back rail/ Shelf/ Filling: Particleboard, Plastic foil, Plastic edging, Back panel: Fiberboard, Plastic foil
+Features: May be completed with 2 ENHET legs for cabinet, sold separately. | 4 hinges included with the cabinet. | Screws for connecting several cabinets included.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/enhet-base-cb-f-sink-w-shelf-gray__1047676_pe843460_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

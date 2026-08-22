@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ENHET base frame for sink, anthracite
+SKU: 30515880
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/enhet-base-frame-for-sink-anthracite-30515880/
+Category: ENHET vanity units without sink
+Description: , 24x18x24" ENHET series makes it easy to start fresh with a new bathroom solution. This frame is designed for a sink with open storage space underneath. Make it your own with your favorite frame colo...
+
+# @OFFER
+Price: 67
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Tubes/ Rail: Steel, Powder coating, Shelf: Galvanized steel, Powder coating, Wedge: Steel, Epoxy/Acrylic coating
+Features: May be completed with 4 ENHET legs for frame, sold separately. | To be completed with RÄNNILEN water trap and strainer and TVÄLLEN sink, sold separately. | Fitting clips for connecting several frames included.
+Care: Wipe clean with a mild soapy solution. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/enhet-base-frame-for-sink-anthracite__1047665_pe843463_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

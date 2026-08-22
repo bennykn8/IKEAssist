@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: LAGAN built-in dishwasher, white
+SKU: 80462167
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lagan-built-in-dishwasher-white-80462167/
+Category: Dishwashers
+Description: , 24" A reliable dishwasher that has all the basic functions you need to get the job done. 2 year limited warranty. Read about the terms in the limited warranty brochure. 3 dish programs; choose progr...
+
+# @OFFER
+Price: 369
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Features: Number of cycles: 3. | Capacity: 12 place settings. | Number of cycles: 3.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lagan-built-in-dishwasher-white__0841083_pe778775_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

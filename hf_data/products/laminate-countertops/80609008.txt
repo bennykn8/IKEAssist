@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: EKBACKEN countertop for kitchen island, gray terrazzo effect/laminate
+SKU: 80609008
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ekbacken-countertop-for-kitchen-island-gray-terrazzo-effect-laminate-80609008/
+Category: Laminate countertops
+Description: , 74x42x11/8" Spills and grease are easy to wipe clean and the countertop retains its beauty over time. Choose between the many colors and expressions to find the perfect look. Available to take home ...
+
+# @OFFER
+Price: 169
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Laminate, Plastic edging, Unbleached paper
+Features: Even though laminate is a durable material you should never place hot pots or pans directly on the countertop without a trivet or pot stand. | Not suitable for use in damp rooms. | Please note that the actual colors of our products may vary slightly from the colors shown online.
+Care: Wipe clean with a soft cloth dampened with water and a mild dish detergent or soap, if necessary. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ekbacken-countertop-for-kitchen-island-gray-terrazzo-effect-laminate__1440298_pe985688_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

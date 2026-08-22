@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: IKEA 365+ HJÄLTE turner, stainless steel/black
+SKU: 90580976
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ikea-365-hjaelte-turner-stainless-steel-black-90580976/
+Category: Cooking & baking utensils
+Description: , 13" Whether you’re frying eggs, burgers or making small pancakes, you need a good spatula. This one has a grip-friendly handle, is gentle on cookware and is always ready to come to the rescue – ever...
+
+# @OFFER
+Price: 6.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Handle: Reinforced polyamide, Silicone rubber, Bar: Stainless steel, Lower part: Polyamide
+Features: Wash this product before using it for the first time. | The material in this product may be recyclable. Please check the recycling rules in your community and if recycling facilities exist in your area.
+Care: Dishwasher-safe. | Withstands temperatures up to 428°F.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ikea-365-hjaelte-turner-stainless-steel-black__0713020_pe729199_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

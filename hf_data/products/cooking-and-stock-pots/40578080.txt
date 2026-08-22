@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: HEMKOMST pot with lid, stainless steel/glass, 10.6 qt
+SKU: 40578080
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hemkomst-pot-with-lid-stainless-steel-glass-40578080/
+Category: Cooking & stock pots
+Description: For those who love big cooking sessions. This pot holds 10.5 quarts and is perfect if you want to make your own meat stock, jam, fruit syrup or prepare a rich soup and freeze meal-sized portions.
+
+# @OFFER
+Price: 59.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Lid: Heat resistant glass, Handle/ Knob/ Cover/ Body: Stainless steel, Disc: Aluminum
+Care: Dishwasher-safe. | Suitable for use on gas cooktop.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hemkomst-pot-with-lid-stainless-steel-glass__1083731_pe859073_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

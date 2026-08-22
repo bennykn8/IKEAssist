@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HÅRSLINGA / TRÅDFRI floor lamp with LED bulb, black/smart white spectrum
+SKU: 59525831
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/harslinga-tradfri-floor-lamp-with-led-bulb-black-smart-white-spectrum-s59525831/
+Category: Floor lamps
+Description: This neat floor lamp has a decorative bulb that makes it simple to create the right atmosphere at home. You can dim it wirelessly, switch between three white tones and rotate and move the light as nee...
+
+# @OFFER
+Price: 47.98
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Tube/ Base: Steel, Powder coating, Cable clip/ Foot: Polypropylene plastic (min. 20% recycled), Lampholder cup: Polycarbonate plastic, Paint
+Features: Works with IKEA Home smart. | This product allows wireless dimming. With IKEA Smart lighting, you can dim your lights without a hardwired installation. | The light bulb can be used in temperatures from 0°F (-20°C) to 100°F (40°C).
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/harslinga-tradfri-floor-lamp-with-led-bulb-black-smart-white-spectrum__1181031_pe896535_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

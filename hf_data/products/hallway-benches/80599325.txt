@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: KALLSÖ storage bench, gray
+SKU: 80599325
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kallsoe-storage-bench-gray-80599325/
+Category: Hallway benches
+Description: , 311/2x143/4x217/8" The KALLSÖ series offers welcoming hallway furniture with a crafted feel, timeless style and all the functions you can need. The storage bench is designed for narrow spaces and ha...
+
+# @OFFER
+Price: 149.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Side panel/ Rail/ Drawer front: Solid pine, Adhesive, Stain, Clear acrylic lacquer, Back panel: Solid wood, Acrylic paint, Drawer side/ Drawer back/ Drawer support: Solid pine, Adhesive
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kallsoe-storage-bench-gray__1413141_pe974179_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

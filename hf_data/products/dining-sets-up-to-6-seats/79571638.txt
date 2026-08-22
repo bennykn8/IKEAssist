@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: NORDVIKEN / SKOGSTA table and 6 chairs, antique stain/black
+SKU: 79571638
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/nordviken-skogsta-table-and-6-chairs-antique-stain-black-s79571638/
+Category: Dining sets up to 6 seats
+Description: , 825/8/1133/4" The 6-seat table can easily be extended into a 8-seat table using the included self-storing leaves.
+
+# @OFFER
+Price: 1139.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top/ Extension leaf/ Side rail/ Cross rail/ Front/ Leg/ Bottom rail: Solid pine, Adhesive, Stain, Clear acrylic lacquer, Extension rail: Solid birch, Adhesive, Stain, Clear acrylic lacquer, Leg/ Leg rail/ Back spindle/rail: Solid acacia wood, Stain, Tinted clear acrylic lacquer
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/nordviken-skogsta-table-and-6-chairs-antique-stain-black__1331746_pe946104_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

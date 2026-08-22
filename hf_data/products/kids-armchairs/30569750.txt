@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: SMÅSKRAKE multi-functional child chair/table, green
+SKU: 30569750
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/smaskrake-multi-functional-child-chair-table-green-30569750/
+Category: Kids armchairs
+Description: 3 functions in the same piece of furniture – all adapted for a 1-year-old who can also choose how it should be used. Maybe as a chair one day and a table the next? And always at the right height.
+
+# @OFFER
+Price: 29.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Seat frame: Steel, Epoxy/polyester powder coating, Seat/ Table top: Bamboo, Stain, Clear lacquer
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/smaskrake-multi-functional-child-chair-table-green__1333199_pe946400_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

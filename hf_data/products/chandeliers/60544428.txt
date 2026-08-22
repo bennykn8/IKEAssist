@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HÅRMÖJA chandelier, 6-armed, brushed stainless steel
+SKU: 60544428
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/harmoeja-chandelier-6-armed-brushed-stainless-steel-60544428/
+Category: Chandeliers
+Description: , 24" Like a glittering octopus, the chandelier’s 6 arms stretch towards the ceiling and spread a pleasant light. And since the top decoration is removeable, you can quickly switch styles – from elega...
+
+# @OFFER
+Price: 79.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Arm/ Ceiling cup/ Housing/ Pole/ Tube/ Sleeve/ Edge/ Screw cover/ Cover plate: Steel, Nickel plated, Hook/ Chain: Stainless steel, Ring/ Spacer/ Lid/ Screw/ Nut: Steel, Galvanized
+Features: Light bulbs sold separately. IKEA recommends LED bulb E12 chandelier clear (6 pcs). | To be hung on a ceiling hook and attached with screws. | Ceiling hook not included.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/harmoeja-chandelier-6-armed-brushed-stainless-steel__1190918_pe900352_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

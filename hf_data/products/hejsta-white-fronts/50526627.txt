@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HEJSTA glass door, white/clear glass
+SKU: 50526627
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hejsta-glass-door-white-clear-glass-50526627/
+Category: HEJSTA white fronts
+Description: , 18x40" Create a personal and inviting feeling with HEJSTA glass door in white. Show your favorite items and add lighting for ambience. A classic, modern look with metal frame and integrated handle. ...
+
+# @OFFER
+Price: 93
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Glass door frame: Aluminium (min. 70% recycled), Epoxy powder coating, Glass panel: Tempered glass, Glass enamel
+Features: Fits SEKTION kitchen series.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hejsta-glass-door-white-clear-glass__1109849_pe870262_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: STOCKHOLM 2025 chair, dark brown/leather
+SKU: 60593782
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/stockholm-2025-chair-dark-brown-leather-60593782/
+Category: Dining chairs
+Description: Moon-shaped chair with modern Scandinavian edge – beautiful around the table or as a solitaire. Lasting quality and comfort with solid oak frame and foam cushion seat dressed in genuine grain leather....
+
+# @OFFER
+Price: 225
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Leather: Dyed through full grain leather from cattle., Smolder resistant lining: Polyester wadding, Frame: Solid oak, Adhesive, Stain, Tinted clear acrylic lacquer
+Features: Use ABSORB leather cream once or twice per year on furniture upholstered with pigmented leather. | Recommended for indoor use only.
+Care: Wipe clean with a damp cloth. | Protect from direct sunlight to prevent drying out.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/stockholm-2025-chair-dark-brown-leather__1370460_pe958725_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HAVSEN apron front double bowl sink, white
+SKU: 59253726
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/havsen-apron-front-double-bowl-sink-white-s59253726/
+Category: Kitchen sinks
+Description: , 37x19" HAVSEN apron front sink is a beautiful detail in your traditional kitchen, and it also fits in a kitchen island. You can spend more time on other things thanks to its easy-care ceramic surfac...
+
+# @OFFER
+Price: 249
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Funnel: Polypropylene, Strainer/ Strainer basket: Stainless steel, Seals: Synthetic rubber
+Features: LILLVIKEN strainer is included in the price, but packaged separately. | Ceramic sinks are kiln-fired, which makes each one unique and the size may vary from the measurements given. | Fits in a 36" wide cabinet frame.
+Care: Do not use scouring-powder, steel wool, hard or sharp tools which can scratch the surface. | To avoid lime scale stains, rinse the sink with water and wipe it with a dry cloth
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/havsen-apron-front-double-bowl-sink-white__0754715_pe748058_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

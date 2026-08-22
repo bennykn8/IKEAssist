@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: STRELITZIA potted plant, white bird of paradise, 9 ¼"
+SKU: 10287049
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/strelitzia-potted-plant-white-bird-of-paradise-10287049/
+Category: Indoor trees & floor plants
+Description: This plant is hardy and easy-care, so you can create a green home without being a gardening expert. Decorate your home with plants combined with a plant pot to suit your style.
+
+# @OFFER
+Price: 34.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Plant/ Substrate: Cultivated potted plant, Pot: Polypropylene
+Dimensions: The height of the plants can vary.
+Features: Native to South Africa. | Easy care plant. | Sensitive to low temperatures.
+Care: Others: Only for decoration. Not suitable for consumption. | Temperature: Minimum temperature 59º F (15°C).
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/strelitzia-potted-plant-white-bird-of-paradise__1471157_pe997099_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

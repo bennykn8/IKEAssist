@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: AVSTEG utensil holder, white
+SKU: 80531670
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/avsteg-utensil-holder-white-80531670/
+Category: Dish racks & drying mats
+Description: , 5" In this stand you can air dry and store chopsticks, knives, forks and other flatware that you use every day. The holes allow the cutlery to dry quickly since air can circulate. The simple, modern...
+
+# @OFFER
+Price: 2.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Epoxy coating, Powder coating
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/avsteg-utensil-holder-white__0982023_pe815529_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FYRESDAL Daybed frame, black, Twin
+SKU: 30424366
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/fyresdal-daybed-frame-black-30424366/
+Category: Daybeds
+Description: . Plenty of room for your guests or for long, lazy days. Use the daybed as a freestanding chaise, a single bed or lift and pull out the extra bed base to create a double bed.
+
+# @OFFER
+Price: 199
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Epoxy/polyester powder coating
+Features: The daybed must be combined with two twin mattresses. They are placed on top of each other when you use the daybed as a single bed, and next to each other when you use it as a double bed. | To create a double bed – lift and pull out the extra bed base. | The daybed is not to be used as two single beds; it should only be used as a double bed when the bed base is pulled out.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/fyresdal-daybed-frame-black__1162172_pe889670_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

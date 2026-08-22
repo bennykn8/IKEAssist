@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KNOXHULT corner kitchen, white frame
+SKU: 99581924
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/knoxhult-corner-kitchen-white-frame-s99581924/
+Category: KNOXHULT complete modular kitchens
+Description: With zones for different activities, and everything close at hand, this L-shaped kitchen is easy to navigate. The corner area creates extra depth to prepare food as well as roomy storage.
+
+# @OFFER
+Price: 1190
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Kichen cabinet: Particleboard, Melamine foil, Plastic edging, Drawer front: Fiberboard, Fiberboard, Plastic foil, Drawer side: Particleboard, Plastic foil
+Features: Must be secured to the wall for a safe installation. Different wall materials require different types of fixing devices. Use fixing devices suitable for the walls in your home, sold separately. | Sink, sink strainer with stopper, faucet, knobs or handles, appliances and lighting products sold separately. | Included: Cabinet, doors, drawers, worktop, legs, plinth, shelves, hinges and fittings.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/knoxhult-corner-kitchen-white-frame__1399787_pe968469_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

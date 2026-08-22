@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: STOREMOLLA 5-drawer chest, light grey-beige stained
+SKU: 10590903
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/storemolla-5-drawer-chest-light-grey-beige-stained-10590903/
+Category: Dressers & chests of drawers
+Description: , 243/4x195/8x515/8" Spacious and sturdy in solid wood. This chest of drawers takes good care of you and your things for a long time – and comes with our safety feature Anchor and unlock that reduces ...
+
+# @OFFER
+Price: 349.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Side panel/ Leg/ Front rail/ Drawer front: Solid pine, Adhesive, Stain, Clear acrylic lacquer, Inner side panel/ Back rail: Particleboard, Back panel: Particleboard, Paper foil
+Features: Different wall materials require different types of fixing devices. Use fixing devices suitable for the walls in your home. | You may need to adjust the drawer fronts during assembly or after you have used the chest of drawers for a while, since the chest of drawers is in solid wood, which is a living material and can move. | Made of solid pine with natural variations in grain, color and texture, giving each piece of furniture a unique look.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/storemolla-5-drawer-chest-light-grey-beige-stained__1360864_pe954565_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

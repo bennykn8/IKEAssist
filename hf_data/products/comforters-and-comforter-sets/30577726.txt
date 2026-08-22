@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LÅSBRÄKEN comforter, pink, Twin/Twin X-long
+SKU: 30577726
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lasbraeken-comforter-pink-30577726/
+Category: Comforters & comforter sets
+Description: Great value for money. LÅSBRÄKEN comforter offers a brushed surface that is wonderfully soft and comfortable. It’s also easy-care since it can be machine washed and dries quickly. Easy-care since the ...
+
+# @OFFER
+Price: 14.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100 % polyester (100% recycled), Filling: 100% polyester (min. 90% recycled)
+Features: 160 thread count. | Thread count indicates the number of threads per square inch of fabric. The higher the thread count the more densely woven the fabric. | The roll-packed, compressed comforter regains its original shape and fluffiness after a few days.
+Care: Shrinkage maximum 4%. | Machine wash warm, normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lasbraeken-comforter-pink__1302548_pe938049_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

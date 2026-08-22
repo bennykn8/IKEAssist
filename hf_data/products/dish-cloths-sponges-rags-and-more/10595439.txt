@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: SVAMPIG sponge, gray-green
+SKU: 10595439
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/svampig-sponge-gray-green-10595439/
+Category: Dish cloths, sponges, rags & more
+Description: These sponges have a soft and a coarse side – perfect to have close at hand when it's time to take care of the washing up. Two sponges in one: use the soft side as a dish cloth and the coarse side for...
+
+# @OFFER
+Price: 1.49
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Body: Polyurethane plastic, Underside: 100 % polyester, Upper side: 70 % polyester, 30 % nylon
+Care: Dampen before use.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/svampig-sponge-gray-green__1407235_pe971444_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

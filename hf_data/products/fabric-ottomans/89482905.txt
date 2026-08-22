@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: KIVIK ottoman with storage, Tresund light beige
+SKU: 89482905
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kivik-ottoman-with-storage-tresund-light-beige-s89482905/
+Category: Fabric ottomans
+Description: There is more to KIVIK footstool than meets the eye. Rest your tired feet on it or use the hidden storage space to keep your things organized – close at hand, but out of sight. 10-year guarantee. Read...
+
+# @OFFER
+Price: 299
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Smolder resistant lining/ Smolder resistant lining: Polyester wadding, Frame: Particleboard, Solid wood, Melamine foil, Cushion: High-resilience polyurethane foam (cold foam) 2.2 lb/cu.ft., Plywood
+Care: Removable cover: Machine wash warm, normal cycle. | Removable cover: To be washed separately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kivik-ottoman-with-storage-tresund-light-beige__1124098_pe875013_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

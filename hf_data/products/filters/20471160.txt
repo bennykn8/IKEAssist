@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: NYTTIG FIL 10 charcoal filter with conversion kit, Stainless steel
+SKU: 20471160
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/nyttig-fil-10-charcoal-filter-with-conversion-kit-stainless-steel-20471160/
+Category: Filters
+Description: Absorbs and minimizes kitchen grease and odors. A perfect solution in kitchens where the range hood cannot be connected to an exhaust duct
+
+# @OFFER
+Price: 56.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Features: To find out which filter to use, please refer to the information available for your specific range hood.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/nyttig-fil-10-charcoal-filter-with-conversion-kit-stainless-steel__1091710_pe862548_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

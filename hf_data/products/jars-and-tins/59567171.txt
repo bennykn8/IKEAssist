@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: IKEA 365+ jar with lid, glass/plastic, 112 oz
+SKU: 59567171
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ikea-365-jar-with-lid-glass-plastic-s59567171/
+Category: Jars & tins
+Description: Do you like gazpacho? In this glass jar with a leak-proof lid, it stays fresh for a long, long time… Store it in the fridge or bring it on a picnic as a fresh appetizer.
+
+# @OFFER
+Price: 8.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Glass, Lid: Polypropylene, Seal: Silicone rubber
+Features: Fits with IKEA 365+ round-shaped lids. | Wash this product before using it for the first time.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ikea-365-jar-with-lid-glass-plastic__0650354_pe706149_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

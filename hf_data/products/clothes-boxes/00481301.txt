@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: STUK Storage case, white/gray, 13 ½x20x
+SKU: 00481301
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/stuk-storage-case-white-gray-00481301/
+Category: Clothes boxes
+Description: 11". Place it inside the wardrobe or up on top – a practical storage for seasonal clothes or bed linen that also protects from dust. Use with other STUK products for complete control of your storage s...
+
+# @OFFER
+Price: 11.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100% polyester (min. 90% recycled), Insert: Polypropylene
+Features: May be combined with other storage in the STUK series.
+Care: Do not wash. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/stuk-storage-case-white-gray__0711302_pe728140_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

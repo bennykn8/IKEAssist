@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ENHET / TVÄLLEN Bathroom vanity w doors/sink/faucet, white/white frame
+SKU: 49557808
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/enhet-tvaellen-bathroom-vanity-w-doors-sink-faucet-white-white-frame-s49557808/
+Category: ENHET vanity units with sink
+Description: , 251/2x191/8x26" ENHET series makes it easy to start fresh with a new bathroom solution. This base cabinet for sink with shelf keeps towels handy and the timeless white framed door goes with any styl...
+
+# @OFFER
+Price: 345
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fiberboard, Plastic foil, Side panel/ Bottom panel/ Back rail/ Shelf/ Filling: Particleboard, Plastic foil, Plastic edging, Back panel: Fiberboard, Plastic foil
+Features: Secure that the material in your bathroom walls can support the weight of the furniture. If you are uncertain about the installation, contact a professional.
+Care: Wipe clean with a mild soapy solution. | Wet marks should always be dried off as soon as possible to stop moisture penetration.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/enhet-tvaellen-bathroom-vanity-w-doors-sink-faucet-white-white-frame__1273147_pe929901_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

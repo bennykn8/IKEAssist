@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: UPPFYLLD colander, bright green, 9 ½"
+SKU: 60521945
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/uppfylld-colander-bright-green-60521945/
+Category: Colanders & strainers
+Description: Large, sturdy and easy to lift. This colander with handles on the sides is perfect when you need to pour off water from the large pasta pot or rinse a few liters of freshly picked strawberries. A stab...
+
+# @OFFER
+Price: 1.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polypropylene
+Care: Dishwasher-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/uppfylld-colander-bright-green__1121856_pe874383_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

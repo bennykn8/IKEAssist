@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SALUDING laundry basket, handmade bamboo, 13 gallon
+SKU: 70503583
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/saluding-laundry-basket-handmade-bamboo-70503583/
+Category: Laundry baskets, hampers & bags
+Description: Add more Zen to your everyday life with SALUDING baskets. Handmade from bamboo – a natural material that spreads a calm, warm feeling that transforms any room into a pleasant oasis for body and soul.
+
+# @OFFER
+Price: 59.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Bamboo, Clear acrylic lacquer, Fabric: 100 % polyester (100% recycled), Feet: Polyethylene
+Features: Each basket is a unique, handmade work of art with natural variations in color and shape. | Holds up to 13 lbs of laundry. | Inner bag is included.
+Care: Basket: Bamboo is happiest in dry, cool environments with an even temperature. | Basket: You can have the basket in the bathroom, but avoid soaking the bamboo, instead wipe it with a clean, dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/saluding-laundry-basket-handmade-bamboo__1025991_pe834285_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

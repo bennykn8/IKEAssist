@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ENHET wall cabinet with doors, white/white frame
+SKU: 99431703
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/enhet-wall-cabinet-with-doors-white-white-frame-s99431703/
+Category: ENHET kitchen cabinets
+Description: , 24x123/4x15" ENHET series makes it easy to start fresh in the kitchen, bath or laundry. This wall cabinet gives extra storage without taking up much space. The timeless white framed doors go with an...
+
+# @OFFER
+Price: 79
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Side panel/ Bottom panel/ Top panel/ Back rail: Particleboard, Plastic foil, Plastic edging, Back panel: Fiberboard, Plastic foil, Fiberboard, Plastic foil
+Features: Must be secured to the wall for a safe installation. Different wall materials require different types of fixing devices. Use fixing devices suitable for the walls in your home, sold separately. | Screws for connecting several cabinets included. | Cabinet and doors included.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/enhet-wall-cabinet-with-doors-white-white-frame__1048218_pe843651_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

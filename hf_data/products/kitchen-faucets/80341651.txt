@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: ÄLMAREN kitchen faucet with pull-out spout, stainless steel color
+SKU: 80341651
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/aelmaren-kitchen-faucet-with-pull-out-spout-stainless-steel-color-80341651/
+Category: Kitchen faucets
+Description: ÄLMAREN faucet in stainless steel helps lower water- and energy-use – so you can lower your bills too. The high, pull-out spout is handy for rinsing dirty plates and the quality is guaranteed to outla...
+
+# @OFFER
+Price: 129
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Zinc, Metallized
+Dimensions: Connection hoses with 9/16" connection included. Length: 13¾".
+Features: If you are uncertain about the installation, contact a professional. The installation shall be made in accordance with valid local building and plumbing regulations. | To be mounted in a 1⅜" hole in a max. 2" thick sink/countertop. | To make a hole for the kitchen faucet, FIXA 2-piece tool set can be recommended; sold separately.
+Care: Do not use scouring-powder, steel wool, hard or sharp tools which can scratch the surface. | Wipe clean with a soft cloth dampened with water and a mild dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/aelmaren-kitchen-faucet-with-pull-out-spout-stainless-steel-color__0756724_pe749057_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

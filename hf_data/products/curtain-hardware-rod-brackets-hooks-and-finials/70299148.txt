@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: VIDGA wall bracket, white, 4 ¾"
+SKU: 70299148
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vidga-wall-bracket-white-70299148/
+Category: Curtain hardware: rod brackets, hooks & finials
+Description: This slightly longer wall fitting allows you to have several parallel rails for curtains in layers. Perfect if you want a more changeable solution and want to adjust how much light filters through.
+
+# @OFFER
+Price: 7
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Wallbracket/ Cover: Aluminum, Epoxy/polyester powder coating, Plastic stopper: Synthetic rubber
+Dimensions: Includes: 1 wall fixture (length, 4¾").
+Features: Wall fitting with 4¾" arm allows you adapt the distance between the window and the curtain to prevent things like window sill, handle or radiator from getting in the way when you open/close the curtain. | Wall fitting with 4¾" arm can hold 2 VIDGA single rails or a combination of 1 VIDGA single rail and 1 VIDGA triple rail. | Different wall/ceiling materials require different types of fasteners. Use fasteners suitable for the wall/ceiling in your home (not included).
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vidga-wall-bracket-white__0603493_pe680824_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

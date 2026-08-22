@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GRÖNFINK 3-piece bedlinen set for crib, green/turquoise, 27 ½x
+SKU: 10572367
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/groenfink-3-piece-bedlinen-set-for-crib-green-turquoise-10572367/
+Category: Crib bedding & fitted sheets
+Description: 52" Fun figures hide behind the trees on this bedlinen set in soft cotton who happily keep your baby, and the matching fitted sheet, company in the cot. Who knows what they’ll get up to when the light...
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 54 % cotton, 46 % viscose/rayon
+Features: Comprises: 1 duvet cover (43x49 in.), 1 pillowcase (13¾x21½ in.) and a fitted sheet that fits on mattresses with dimensions 23½x47¼ in which are max. 4 ¼ in. high.
+Care: Shrinkage maximum 4%. | Machine wash warm (max 140°F/60°C) normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/groenfink-3-piece-bedlinen-set-for-crib-green-turquoise__1258456_pe926333_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

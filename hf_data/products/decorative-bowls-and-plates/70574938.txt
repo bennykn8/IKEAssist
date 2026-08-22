@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HÄCKPOPPEL decorative bowl, blue, 9 ½"
+SKU: 70574938
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/haeckpoppel-decorative-bowl-blue-70574938/
+Category: Decorative bowls & plates
+Description: Organic shapes can give a soothing sense of bringing nature into the home. The HÄCKPOPPEL glass bowl is inspired by Swedish lakes and has a fluid shape that mimics gentle ripples on the surface of wat...
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Glass
+Features: The material in this product may be recyclable. Please check the recycling rules in your community and if recycling facilities exist in your area.
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/haeckpoppel-decorative-bowl-blue__1281980_pe932053_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

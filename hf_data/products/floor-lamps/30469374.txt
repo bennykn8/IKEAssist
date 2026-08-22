@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TOMELILLA floor lamp, nickel plated/white
+SKU: 30469374
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tomelilla-floor-lamp-nickel-plated-white-30469374/
+Category: Floor lamps
+Description: , 59" The lamps in the TOMELILLA series stand firmly on aluminium bases and have rectangular textile lampshades that take up less space than round ones. The look is modern and stylish – with a warm so...
+
+# @OFFER
+Price: 69.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Weight: Reinforced EVA plastic, Base/ Tube: Aluminum, Anodized, Shade ring: Steel, Powder coating
+Features: Light bulb sold separately. IKEA recommends LED bulb E26 globe opal white.
+Care: Remove dust with a lint remover.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tomelilla-floor-lamp-nickel-plated-white__0928814_pe789976_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

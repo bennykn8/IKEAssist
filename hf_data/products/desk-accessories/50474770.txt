@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: ELLOVEN monitor stand with drawer, white
+SKU: 50474770
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/elloven-monitor-stand-with-drawer-white-50474770/
+Category: Desk accessories
+Description: Placing a monitor at the right height relieves strain on your back and shoulders. This monitor stand with storage supports productive working, studying and creating – and helps keep the desk neat and ...
+
+# @OFFER
+Price: 29.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Stand: Steel, Epoxy/polyester powder coating, Box: Bamboo, Fiberboard, Bamboo veneer, Clear polyurethane/acrylic lacquer
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/elloven-monitor-stand-with-drawer-white__0955984_pe804426_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

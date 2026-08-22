@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: UTSÅDD dog toy, gray-blue
+SKU: 60569211
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/utsadd-dog-toy-gray-blue-60569211/
+Category: Dogs
+Description: This dog toy in natural rubber has the same shape as our iconic Allen key. Triggers play and encourages the dog to retrieve, chew and stay active – and to have fun with you. The material is safe, heal...
+
+# @OFFER
+Price: 8.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Natural rubber
+Features: For dogs. | Recommended for medium-sized dogs. | Only for indoor use.
+Care: Hand-wash in hot water without detergent.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/utsadd-dog-toy-gray-blue__1281629_pe931967_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

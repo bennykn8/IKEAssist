@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: NÄSSELKLOCKA duvet cover and pillowcase(s), light grey-beige/multicolor, Twin
+SKU: 20584553
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/naesselklocka-duvet-cover-and-pillowcase-s-light-grey-beige-multicolor-20584553/
+Category: Duvet covers & duvet cover sets
+Description: Sateen-woven with a fine luster for everyday elegance. Floral pattern on one side and a solid light grey-beige color on the other. The smooth cotton/viscose blend feels soft to the touch and breathes....
+
+# @OFFER
+Price: 44.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 54 % cotton, 46 % viscose/rayon
+Features: Thread count: 83 threads/cm² or 210 threads/inch². | Thread count indicates the number of threads per square cm or square inch of fabric. The higher the thread count the more densely woven the fabric.
+Care: Shrinkage maximum 4%. | Machine wash warm (max 140°F/60°C) normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/naesselklocka-duvet-cover-and-pillowcase-s-light-grey-beige-multicolor__1315026_pe940361_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

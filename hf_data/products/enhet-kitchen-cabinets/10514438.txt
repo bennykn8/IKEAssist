@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ENHET Base cabinet for sink , white
+SKU: 10514438
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/enhet-base-cb-f-sink-white-10514438/
+Category: ENHET kitchen cabinets
+Description: ENHET Base cb f sink , white, 24x24x30" ENHET series makes it easy to start fresh with a new kitchen solution. This cabinet is designed for a sink and tap and has space in the back for piping. Make it...
+
+# @OFFER
+Price: 88
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Side panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Plastic foil, Plastic edging, Bottom panel/ Back rail/ Filling: Particleboard, Plastic foil, Plastic edging
+Features: Must be secured to the wall for a safe installation. Different wall materials require different types of fixing devices. Use fixing devices suitable for the walls in your home, sold separately. | Complete with 2 ENHET doors 12x30" (30.2x75.9 cm), sold separately. | Doors, knobs or handles, sold separately.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/enhet-base-cb-f-sink-white__1047262_pe843345_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

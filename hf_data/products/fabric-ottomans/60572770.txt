@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: MÖRTFORS pouffe, Diseröd gray
+SKU: 60572770
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/moertfors-pouffe-diseroed-gray-60572770/
+Category: Fabric ottomans
+Description: , 181/2x181/2" The versatile MÖRTFORS pouffe is perfect as an extra seat, footrest or side table. The timeless expression and neat shape go with most styles and make it easy to place. 10-year limited ...
+
+# @OFFER
+Price: 49.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100% polyester (min. 90% recycled), Frame: 100 % polypropylene, 100% polyester (min. 80% recycled), Particleboard, Paperboard (100% recycled), Solid wood, Polyurethane foam 2.0 lb/cu.ft., Metal part: Steel, Epoxy/polyester powder coating
+Care: Frame, non-removable cover: Clean by vacuuming or use a lint roller. | Frame, non-removable cover: Light stains can be removed with a damp sponge or a mild soapy solution.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/moertfors-pouffe-diseroed-gray__1320807_pe941370_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: CHIAFRÖN plant pot, indoor/outdoor green
+SKU: 70570488
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/chiafroen-plant-pot-indoor-outdoor-green-70570488/
+Category: Indoor plant pots
+Description: , 6" Plants only do part of the job – with a new pot you can give them and the room a boost. CHIAFRÖN plant pot has a lively tactile surface with a charming pattern that brings out the best in your pl...
+
+# @OFFER
+Price: 11.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Stoneware, Pigmented glaze
+Features: Suitable for indoor and outdoor use. | Add FIXA stick-on floor protectors to protect extra-sensitive surfaces.
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/chiafroen-plant-pot-indoor-outdoor-green__1305969_pe939632_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

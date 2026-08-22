@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KLIPPAN cover for loveseat, Tingetorp yellow/white/floral pattern
+SKU: 20600275
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/klippan-cover-for-loveseat-tingetorp-yellow-white-floral-pattern-20600275/
+Category: KLIPPAN covers
+Description: 
+
+# @OFFER
+Price: 69
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % cotton
+Features: This product is an extra cover. Sofa is sold separately.
+Care: Removable cover: Machine wash warm, normal cycle. | Removable cover: To be washed separately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/klippan-cover-for-loveseat-tingetorp-yellow-white-floral-pattern__1401747_pe969073_s1.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

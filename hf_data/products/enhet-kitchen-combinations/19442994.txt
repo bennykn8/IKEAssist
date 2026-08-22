@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ENHET kitchen, anthracite/white
+SKU: 19442994
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/enhet-kitchen-anthracite-white-s19442994/
+Category: ENHET kitchen combinations
+Description: , 92x255/8x841/2" Your passion for cooking won’t be compromised in this space-wise kitchen. It has all the storage options you need as well as generous space planned for cooking in one clever solution...
+
+# @OFFER
+Price: 1169.53
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Particleboard, Front side/ Back side: Plastic foil, Edge: Plastic edging
+Features: Must be secured to the wall for a safe installation. Different wall materials require different types of fixing devices. Use fixing devices suitable for the walls in your home, sold separately. | Be aware that tools and preparation are required to cut the countertop to size and to cut holes for sink and faucet to secure a perfect fit. | Appliances and lighting products are sold separately.
+Care: Wipe dry with a clean cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/enhet-kitchen-anthracite-white__1056827_pe848579_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

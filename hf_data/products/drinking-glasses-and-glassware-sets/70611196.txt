@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VITABBORRE glass, plastic/beige, 24 oz
+SKU: 70611196
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vitabborre-glass-plastic-beige-70611196/
+Category: Drinking glasses & glassware sets
+Description: The products in the VITABBORE series are both impact and scratch resistant. Available in 2 colors ─ mix and match as you like. Ideal for daily use, both indoors and outdoors.
+
+# @OFFER
+Price: 0.49
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polypropylene
+Features: If you want to heat food in the microwave, a bowl or plate made of glass or porcelain is preferable since some food can quickly reach temperatures above 212 °F, which can cause plastic to melt. | Wash this product before using it for the first time.
+Care: Microwave-safe. | Dishwasher-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vitabborre-glass-plastic-beige__1478889_pe999884_s1.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ANTILOP high chair with safety belt, white/white
+SKU: 09597514
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/antilop-high-chair-with-safety-belt-white-white-s09597514/
+Category: High chairs
+Description: ANTILOP high chair is easy to take apart and bring along so your child sits safely whether you are at home, at your friend’s place or at a restaurant. Enjoy your meal! Easy to disassemble and transpor...
+
+# @OFFER
+Price: 14.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polypropylene, Leg: Steel, Epoxy/polyester powder coating, Foot: Polypropylene
+Features: Safety belt included. | May be completed with ANTILOP high chair tray. | Recommended for indoor use
+Care: Wipe clean with a mild soapy solution. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/antilop-high-chair-with-safety-belt-white-white__1416380_pe975534_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

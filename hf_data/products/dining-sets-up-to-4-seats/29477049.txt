@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: EKEDALEN / BERGMUND table and 4 chairs, white/Fågelfors multicolor
+SKU: 29477049
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ekedalen-bergmund-table-and-4-chairs-white-fagelfors-multicolor-s29477049/
+Category: Dining sets up to 4 seats
+Description: , 471/4/707/8" This 4-seat table can easily be extended into a 6-seat table using the included self-storing leaf. The white table has a painted hardwood veneer top layer giving you a durable surface t...
+
+# @OFFER
+Price: 799.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top/ Extension leaf: Particleboard, Ash veneer, Acrylic paint, Underframe: Solid birch, Solid pine, Solid beech, Ash veneer, Acrylic paint, Leg: Plywood, Ash veneer, Acrylic paint
+Features: One extension leaf included. | Recommended for indoor use only. | Seats 4-6.
+Care: For maximum quality, re-tighten the screws when necessary. | Table: Wipe clean using a damp cloth and a mild cleaner.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ekedalen-bergmund-table-and-4-chairs-white-fagelfors-multicolor__0950954_pe800827_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

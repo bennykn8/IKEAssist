@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: LEN box set of 2, green/light gray
+SKU: 00543262
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/len-box-set-of-2-green-light-gray-00543262/
+Category: Kids boxes & baskets
+Description: These reversible textile bags are just as functional as decorative. Made from recycled polyester in soft pastel colors. Perfect for storing everything from diapers and dummies to clothes and toys. Can...
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100 % polyester (100% recycled), Surface coating: 100 % Polyurethane
+Care: Hand wash warm water. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/len-box-set-of-2-green-light-gray__1160658_pe889042_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

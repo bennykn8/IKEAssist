@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: NACKANÄS / SKOGSBO table and 4 chairs, acacia/dark brown
+SKU: 19528252
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/nackanaes-skogsbo-table-and-4-chairs-acacia-dark-brown-s19528252/
+Category: Dining sets up to 4 seats
+Description: , 551/8" This Shaker-inspired table seats 4-6 and brings unadorned beauty and character into your home. The durable acacia wood will age gracefully setting the scene for memorable meals for many years...
+
+# @OFFER
+Price: 909.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Solid acacia wood, Stain, Clear acrylic lacquer, Leg/ Backrest: Solid beech, Stain, Clear acrylic lacquer, Ring/ Seat edge: Solid beech, Adhesive, Stain, Clear acrylic lacquer
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/nackanaes-skogsbo-table-and-4-chairs-acacia-dark-brown__1205466_pe907099_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FINMAT pot with lid, copper/stainless steel, 3 qt
+SKU: 30578113
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/finmat-pot-with-lid-copper-stainless-steel-30578113/
+Category: Cooking & stock pots
+Description: FINMAT pot is designed by Ilse Crawford – and is just as inspiring to cook in as to serve from. Traditional copper and hardwearing stainless steel make it both beautiful and easy to use.
+
+# @OFFER
+Price: 99.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Body: Aluminum, Stainless steel, Copper, Lid/ Handles/ Rivet: Stainless steel
+Features: It’s easy to polish tarnished or stained copper with a mix of white vinegar and salt.
+Care: Handwash only. | Suitable for use on gas cooktop.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/finmat-pot-with-lid-copper-stainless-steel__1084541_pe867982_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

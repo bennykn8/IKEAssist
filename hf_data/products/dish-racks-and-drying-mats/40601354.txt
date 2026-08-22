@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: RINNIG plate holder, yellow
+SKU: 40601354
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/rinnig-plate-holder-yellow-40601354/
+Category: Dish racks & drying mats
+Description: Rub, brush, wash and dry – that's the tune of the RINNIG series. This colorful plate holder helps you handle your plates while washing up and store them on a shelf or in cabinets and drawers.
+
+# @OFFER
+Price: 5.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Wire: Steel, Polyamide, Cover cap: Polyamide
+Features: 9 plates fit for drying at the same time. | Fits for RINNIG double sided dish drainer.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/rinnig-plate-holder-yellow__1401913_pe969095_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

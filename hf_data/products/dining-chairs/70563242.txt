@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SKANSNÄS chair, brown beech
+SKU: 70563242
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/skansnaes-chair-brown-beech-70563242/
+Category: Dining chairs
+Description: SKANSNÄS chair offers a modern flair inspired by Scandinavian design heritage. Wooden elegance is merged with long-lasting comfort thanks to a sturdy frame, wide backrest and strong paper cord seat. A...
+
+# @OFFER
+Price: 125
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Side frame/ Cross rail: Solid beech, Adhesive, Stain, Tinted lacquer, Seat: Steel, Paper, Epoxy/polyester powder coating, Clear lacquer, Backrest: Layer-glued wood veneer, Beech veneer, Stain, Tinted lacquer
+Features: Recommended for indoor use only. | Paper cord is a naturally resistant material that can last for many years. The seat is available as a spare part and can be replaced if needed. | A bit screwdriver is required to assemble this chair, sold separately as a part of TRIXIG 15-piece toolset.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/skansnaes-chair-brown-beech__1319860_pe941001_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

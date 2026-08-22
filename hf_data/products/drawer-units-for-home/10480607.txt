@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: ALEX caster, black
+SKU: 10480607
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/alex-caster-black-10480607/
+Category: Drawer units for home
+Description: , 2" ALEX castors make your storage more flexible – for example, you can roll a drawer unit under the desk or move it to where you need it. The rubber-coated castors run smoothly on all types of floor...
+
+# @OFFER
+Price: 10
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Metal part: Steel, Wheel: Polypropylene, Rubber part: Thermoplastic elastomer
+Care: For increased stability, re-tighten the screws about two weeks after assembly and when necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/alex-caster-black__1457724_pe992787_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

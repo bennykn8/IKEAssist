@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: STENSELE / LIDÅS table and 2 chairs, anthracite anthracite/black/black
+SKU: 69569462
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/stensele-lidas-table-and-2-chairs-anthracite-anthracite-black-black-s69569462/
+Category: Dining sets up to 2 seats
+Description: , 271/2" You can hang essentials like your bag or jacket within convenient reach on the two hooks underneath the table top. Sturdy yet lightweight and easy to move thanks to the hollow steel leg and f...
+
+# @OFFER
+Price: 319.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Laminate, Plastic edging, Laminate, Base: Aluminum, Epoxy/polyester powder coating, Leg/ Rail: Steel, Epoxy/polyester powder coating
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/stensele-lidas-table-and-2-chairs-anthracite-anthracite-black-black__1331412_pe945981_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

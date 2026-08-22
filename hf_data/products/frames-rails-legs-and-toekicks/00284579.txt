@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: SEKTION Reinforced ventilated top rail, galvanized
+SKU: 00284579
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sektion-reinforced-ventilated-top-rail-galvanized-00284579/
+Category: Frames, rails, legs & toekicks
+Description: , 24". Gives support to your countertop after it’s been cut for a cooktop or sink, and improves ventilation around the cooktop.
+
+# @OFFER
+Price: 12
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Galvanized
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sektion-reinforced-ventilated-top-rail-galvanized__0276196_pe414426_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

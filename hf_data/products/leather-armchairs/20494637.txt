@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: STRANDMON wing chair, Grann/Bomstad dark brown
+SKU: 20494637
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/strandmon-wing-chair-grann-bomstad-dark-brown-20494637/
+Category: Leather armchairs
+Description: Need a hug? STRANDMON wing chair has an embracing feel with a high back, round armrests, soft lines and inviting upholstery. A traditional look with modern comfort for many cozy moments.
+
+# @OFFER
+Price: 449
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Leather: Dyed through top-grain leather with a treated, embossed and pigmented surface, Coated fabric parts: 100 % polyurethane, 75 % polyester, 25 % cotton, Frame: Plywood, Polyurethane foam 1.2 lb/cu.ft., Polyurethane foam 1.5 lb/cu.ft., Polyurethane foam 2.2 lb/cu.ft., Particleboard, Solid wood, Fiberboard
+Features: Grain leather is treated with a light protective surface coating to retain its natural look with marks, wrinkles and color variations. Therefore it´s also less resistant to sunlight, dirt, liquids and scratches than leather with a thick surface treatment | The seat cushion, back rest and inside of the armrests are covered with GRANN – a soft, smooth and strong grain leather with natural variations. Other surfaces have the coated fabric BOMSTAD.
+Care: Frame, non-removable cover: Clean with a dust cloth or vacuum lightly using the soft brush attachment. | Frame, non-removable cover: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/strandmon-wing-chair-grann-bomstad-dark-brown__0998383_pe823013_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

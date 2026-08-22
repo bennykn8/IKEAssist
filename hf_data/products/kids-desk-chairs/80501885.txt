@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ÖRFJÄLL child's desk chair, white/Vissle light gray
+SKU: 80501885
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/oerfjaell-childs-desk-chair-white-vissle-light-gray-80501885/
+Category: Kids desk chairs
+Description: Schoolwork or another creative project? ÖRFJÄLL desk chair always gives your child comfy seating with great support. The backrest and seat have soft padding and it’s easy to change the sitting positio...
+
+# @OFFER
+Price: 59.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Seat and back frame: Steel, Epoxy/polyester powder coating, Layer-glued wood veneer, Seat pad: Non-woven polypropylene, Back foam: Polyurethane foam.
+Features: May be used with KOLON floor protector.
+Care: Vacuum clean. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/oerfjaell-childs-desk-chair-white-vissle-light-gray__0977960_pe813958_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LILLTRÄSK countertop for kitchen island, white/laminate, 50x34 ½x11/
+SKU: 30516016
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lilltraesk-countertop-for-kitchen-island-white-laminate-30516016/
+Category: Laminate countertops
+Description: 8" Spills and grease are easy to wipe clean and the worktop keeps its beauty over time. Available to take home today. 25-year Limited Warranty. Read about the terms in the Limited Warranty brochure.
+
+# @OFFER
+Price: 89
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Laminate
+Features: Even though laminate is a durable material you should never place hot pots or pans directly on the countertop without a trivet or pot stand. | Not suitable for use in damp rooms. | 2 edge bands, 34⅝" each, included.
+Care: Wipe clean with a soft cloth dampened with water and a mild dish detergent or soap, if necessary. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lilltraesk-countertop-for-kitchen-island-white-laminate__1045006_pe842352_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BOASTAD wall shelf, black/oak veneer
+SKU: 00507018
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/boastad-wall-shelf-black-oak-veneer-00507018/
+Category: Complete wall shelves
+Description: , 713/8x125/8x121/2" A stylish wall shelf with thin lines and details like the bi-folded oak veneer doors. Perfect when you want to give the room a modern look – and combine hidden storage with displa...
+
+# @OFFER
+Price: 249.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Bottom panel: Fiberboard and honeycomb paper filling (100% recycled paper), Paper foil, Plastic edging, Side panel/ Partition: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Plastic edging, Back panel: Fiberboard, Acrylic paint
+Features: The maximum load for a wall-hung cabinet depends on the wall material. | Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home.
+Care: Glass: Wipe clean with a damp cloth. Use only water or window-cleaner. | Glass: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/boastad-wall-shelf-black-oak-veneer__1241279_pe919732_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

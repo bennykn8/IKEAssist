@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KILSVIKEN sink, white/quartz composite
+SKU: 79579960
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kilsviken-sink-white-quartz-composite-s79579960/
+Category: Kitchen sinks
+Description: , 22x181/8" The natural color variations of the quartz make each KILSVIKEN sink one of a kind bringing a unique look to your kitchen. The surface is durable and resistant to heat and stains. The smoot...
+
+# @OFFER
+Price: 225
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Quartz composite, Funnel: Polypropylene, Strainer/ Strainer basket: Stainless steel
+Features: LILLVIKEN water trap and strainer are included in the price, but packaged separately. | Can be under-mounted. | LILLVIKEN lid is included in the price, but packaged separately.
+Care: To ensure your sink keeps its beauty for many years, you should clean your sink after each use by rinsing it with water and a mild detergent. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kilsviken-sink-white-quartz-composite__1421210_pe977581_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

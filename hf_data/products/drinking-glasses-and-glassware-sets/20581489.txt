@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: POKAL espresso glass, clear glass, 3 oz
+SKU: 20581489
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/pokal-espresso-glass-clear-glass-20581489/
+Category: Drinking glasses & glassware sets
+Description: Start your day with a shot (or two) of your favorite brew - great to combine with other glasses in the POKAL series – so you have something for every occasion. Versatile espresso glass, perfect for si...
+
+# @OFFER
+Price: 0.79
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Tempered glass
+Features: These glasses are not designed to be stacked. | Wash this product before using it for the first time.
+Care: Dishwasher-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/pokal-espresso-glass-clear-glass__1335438_pe947073_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

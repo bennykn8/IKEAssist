@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: BÖNSYRSA desk pad, turquoise, 23 ½x14 ½"
+SKU: 70561907
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/boensyrsa-desk-pad-turquoise-70561907/
+Category: Kids decoration & accessories
+Description: When creativity flows, sometimes there isn’t enough room on the paper. Then it's good to have a desk pad that protects the table top so that artists of all ages can create freely. Protects your desk f...
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top fabric: 100 % polyester (100% recycled), Backing: 100 % Synthetic rubber
+Care: Do not wash. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/boensyrsa-desk-pad-turquoise__1115425_pe872079_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

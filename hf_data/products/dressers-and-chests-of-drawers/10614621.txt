@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: TONSTAD 6-drawer dresser, brown stained oak veneer
+SKU: 10614621
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tonstad-6-drawer-dresser-brown-stained-oak-veneer-10614621/
+Category: Dressers & chests of drawers
+Description: , 471/4x181/2x353/8" This wide chest of drawers has 2 smaller and 4 larger drawers where you can neatly organize your things. The knobs in solid oak have clean lines and is a classic detail that gives...
+
+# @OFFER
+Price: 399.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Side panel/ Drawer front: Particleboard, Oak veneer, Clear acrylic lacquer, Bottom panel/ Partition: Particleboard, Paper foil, Back panel/ Plinth,middle/ Drawer side/ Drawer back: Particleboard
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tonstad-6-drawer-dresser-brown-stained-oak-veneer__1247231_pe922609_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: SANELA curtains, 1 pair, beige-yellow/with heading tape
+SKU: 00589882
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sanela-curtains-1-pair-beige-yellow-with-heading-tape-00589882/
+Category: Light filtering curtains
+Description: , 55x98" The pure cotton velvet adds gorgeous depth to the beige-yellow tone in SANELA curtains. The pleats fall elegantly and the fabric filters light gently. Multi-way header for different hanging o...
+
+# @OFFER
+Price: 69.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % cotton
+Dimensions: The curtains are sold in pairs. The sizes stated refer to each single curtain. For the total width, double the width of a single curtain.
+Features: Curtains, 1 pair included | Since the fabric will shrink when washing it is a good idea to wash the curtains prior to cutting/hemming. | Use SY iron-on hemming strip to shorten the curtains without sewing.
+Care: Shrinkage maximum 4%. | Machine wash cold, durable-press cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sanela-curtains-1-pair-beige-yellow-with-heading-tape__1279875_pe931561_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

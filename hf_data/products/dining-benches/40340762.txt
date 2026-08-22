@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: EKEDALEN Bench, dark brown
+SKU: 40340762
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ekedalen-bench-dark-brown-40340762/
+Category: Dining benches
+Description: . The bench is ideal when you want to use space effectively and fit many seats around the dining table.
+
+# @OFFER
+Price: 125
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel: Particleboard, Ash veneer, Stain, Clear acrylic lacquer, Ash veneer, Underframe: Solid pine, Ash veneer, Stain, Clear acrylic lacquer, Leg: Plywood, Ash veneer, Stain, Clear acrylic lacquer
+Features: Fits EKEDALEN extendable table in sizes 47¼/70⅞x31½" and 70⅞/94½x35⅜". | One bench fits the smaller table when it’s not extended. Two benches fit the larger table when it’s extended. | Recommended for indoor use only.
+Care: Wipe clean regularly with a cloth dampened in a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ekedalen-bench-dark-brown__0728088_pe736058_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

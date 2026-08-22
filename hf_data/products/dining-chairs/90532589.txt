@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TOBIAS chair, brown-red/chrome plated
+SKU: 90532589
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tobias-chair-brown-red-chrome-plated-90532589/
+Category: Dining chairs
+Description: A transparent chair that mirrors its surroundings. It picks up the colors of the room and appears to be floating. And because there’s flexibility in the seat, you may feel like you are floating too.
+
+# @OFFER
+Price: 85
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Leg frame: Steel, Chrome plated, Seat shell: Polycarbonate plastic, Foot: Polypropylene
+Features: Recommended for indoor use only.
+Care: Wipe dry with a clean cloth. | For maximum quality, re-tighten the screws when necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tobias-chair-brown-red-chrome-plated__1126419_pe875739_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

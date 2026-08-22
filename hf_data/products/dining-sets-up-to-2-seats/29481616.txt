@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MELLTORP / LIDÅS table and 2 chairs, white white/white white
+SKU: 29481616
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/melltorp-lidas-table-and-2-chairs-white-white-white-white-s29481616/
+Category: Dining sets up to 2 seats
+Description: , 291/2x291/2" A practical dining set for 2 that makes a perfect fit in smaller spaces. You get a clean, modern look and plenty of comfort thanks to the scooped seat and restful flexibility of the cha...
+
+# @OFFER
+Price: 179.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Melamine foil, Plastic edging, Plastic edging, Melamine foil, Leg/ Side rail: Steel, Epoxy/polyester powder coating, Inside leg: Steel
+Features: Recommended for indoor use only.
+Care: Chair: Wipe clean with a mild soapy solution. | Chair: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/melltorp-lidas-table-and-2-chairs-white-white-white-white__1106356_pe868694_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GULLSUDARE pendant lamp shade, white/handmade, 27 ½"
+SKU: 80583616
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/gullsudare-pendant-lamp-shade-white-handmade-80583616/
+Category: Lamp shades
+Description: A true handmade classic in rice paper that saw the light of day as early as the 1960s. Then, just like now, the large pendant lamp spreads a pleasant light that makes your home feel cozy and inviting....
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Shade: Rice paper, Shade ring: Steel, Epoxy/polyester powder coating
+Features: Cord set and light bulb are sold separately.
+Care: Dust the lamp with a dust cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/gullsudare-pendant-lamp-shade-white-handmade__1399276_pe968294_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

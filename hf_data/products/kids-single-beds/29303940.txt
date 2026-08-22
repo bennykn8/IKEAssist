@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VITVAL loft bed frame with desk top, white/light gray, Twin
+SKU: 29303940
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vitval-loft-bed-frame-with-desk-top-white-light-gray-s29303940/
+Category: Kids single beds
+Description: It is the details that make this loft bed unique. Soft shapes, fabric guardrails and a desk with a practical pegboard. You can also accessorize with products from the MÖJLIGHET and SKÅDIS series.
+
+# @OFFER
+Price: 299
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts/ Slat holder/ Bed base frame/ Guard rail/ Ladder frame/ Bracket/ Ladder steps/ Bed slats/ Leg/ Supporting rail: Steel, Epoxy/polyester powder coating, Fabric: 100% polyester (min. 90% recycled), Steel, Polyester powder coating
+Dimensions: Min. ceiling height required: 94½".
+Features: Two people are needed to assemble this furniture. | Bed base included. | Mattress and bedlinens are sold separately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vitval-loft-bed-frame-with-desk-top-white-light-gray__0688141_pe722337_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

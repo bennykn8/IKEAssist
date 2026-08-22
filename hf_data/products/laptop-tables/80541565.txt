@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: VATTENKAR laptop/monitor stand, birch
+SKU: 80541565
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vattenkar-laptop-monitor-stand-birch-80541565/
+Category: Laptop tables
+Description: , 201/2x101/4" Take care of your back and shoulders. Use this stand to enjoy having the monitor at the correct height and a better working position – at the office or when the kitchen table is your wo...
+
+# @OFFER
+Price: 32.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Layer-glued wood veneer, Fiberboard, Birch veneer, Clear lacquer
+Care: Wipe clean with a soft cloth dampened with water and a mild dish detergent or soap, if necessary. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vattenkar-laptop-monitor-stand-birch__1149392_pe884019_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

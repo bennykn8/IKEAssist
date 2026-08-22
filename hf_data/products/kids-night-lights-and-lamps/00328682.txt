@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SOLBO Table lamp, white, owl
+SKU: 00328682
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/solbo-table-lamp-white-owl-00328682/
+Category: Kids night lights & lamps
+Description: , 9". Perfect for a bedside table, both as a decoration and mood light. Our children’s lighting products go through some of the toughest safety tests in the world so you know your child is safe.
+
+# @OFFER
+Price: 21.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Cover: Polypropylene, Base: Polycarbonate plastic
+Features: LED light bulb included. | LED life approx. 25,000 hours. | The light source is built-in but can be replaced. Available to order as a spare part. For more information, contact IKEA customer service at your IKEA store or IKEA.com.
+Care: Dust the lamp with a dust cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/solbo-table-lamp-white-owl__0609266_pe684403_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

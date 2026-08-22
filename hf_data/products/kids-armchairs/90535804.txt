@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BROBOCK armchair, rattan
+SKU: 90535804
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/brobock-armchair-rattan-90535804/
+Category: Kids armchairs
+Description: Made of hand-woven rattan, a living material that makes each armchair unique. Airy but sturdy with an embracing feel makes it perfect to curl up in. A great way to invite nature into your home. The ar...
+
+# @OFFER
+Price: 129.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Rattan, Clear acrylic lacquer
+Features: Children’s armchair cushion is sold separately. | Recommended for indoor use only. | Each product is a unique, handmade work of art with natural variations in color and shape.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/brobock-armchair-rattan__1200167_pe904865_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

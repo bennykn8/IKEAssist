@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KALLSJÖN pillar faucet, chrome plated
+SKU: 00486351
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kallsjoen-pillar-faucet-chrome-plated-00486351/
+Category: Kitchen faucets
+Description: KALLSJÖN faucet is a perfect addition to complete your outdoor kitchen in a modern design. It’s easy to connect to your garden water supply using the quick connector that comes included with the fauce...
+
+# @OFFER
+Price: 34
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Body: Brass, Metallized, Spout: Brass, Brass, Metallized
+Features: For outdoor use. | To be stored in a frost-free space. | When outdoor temperatures are below freezing and it is time to turn off the water supply to KALLSJÖN outdoor pillar faucet, turn off the water hose and leave the faucet in the open position.
+Care: For outdoor use. | Never use a steel scourer, scourer pad or similar products as they can scratch the surface.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kallsjoen-pillar-faucet-chrome-plated__0914025_pe783844_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

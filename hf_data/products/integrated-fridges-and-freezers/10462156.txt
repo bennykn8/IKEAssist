@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: SUPERKALL Built-in, panel-ready refrigerator, panel-ready, 8.8 cu.ft
+SKU: 10462156
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/superkall-built-in-panel-ready-refrigerator-panel-ready-10462156/
+Category: Integrated fridges & freezers
+Description: A spacious fridge/freezer combo with auto defrost and smart storage solutions to keep food fresh longer. For a uniform look, fit it inside a cabinet and add doors that match the rest of your kitchen.
+
+# @OFFER
+Price: 1499
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Features: You can choose to mount the doors on the right or left side. | This integrated fridge/freezer is to be installed in a kitchen cabinet. | You will find complete information about the installation and use of this product under the tab Assembly instructions & documents.
+Care: After cleaning, be sure to wipe dry with a soft cloth. | Clean the inside of the fridge/freezer regularly with a soft cloth damped in warm water and mild soap.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/superkall-built-in-panel-ready-refrigerator-panel-ready__1009013_pe828824_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

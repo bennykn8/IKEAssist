@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: NYFORS floor lamp, nickel plated white
+SKU: 50303113
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/nyfors-floor-lamp-nickel-plated-white-50303113/
+Category: Floor lamps
+Description: High or low? This floor lamp can be adjusted in height and spreads a soft light through the white textile shade on top. And the heavy lamp base is both sturdy and decorative. The height is adjustable ...
+
+# @OFFER
+Price: 129.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Base weight/ Tube: Steel, Nickel plated, Acrylic coating, Base: Aluminum, Brush finish nickel-plated, Acrylic coating, Shade: 65 % polyethylene, 35 % polyester, Steel, Polypropylene
+Features: Light bulb sold separately. IKEA recommends LED bulb E26 globe opal white. | Includes pull switch. | Special waste handling may be required. Please contact your local authorities for more information.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/nyfors-floor-lamp-nickel-plated-white__0684442_pe721181_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

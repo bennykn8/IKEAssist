@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HANNALILL curtains, 1 pair, blue-gray
+SKU: 60498450
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hannalill-curtains-1-pair-blue-gray-60498450/
+Category: Light filtering curtains
+Description: , 57x98" A perfect solution when you want privacy or want to block annoying glares on TV and computer screens. The outside light still comes through and creates a cozy atmosphere in the room.
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % cotton
+Features: Curtains, 1 pair included | The measurement applies to each curtain panel. | Use SY iron-on hemming strip to shorten the curtains without sewing.
+Care: Shrinkage maximum 4%. | Machine wash warm, normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hannalill-curtains-1-pair-blue-gray__0949981_pe801233_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

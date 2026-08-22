@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GUNDE / ÖSTANÖ table and 2 chairs, folding black/Remmarn dark gray
+SKU: 19564810
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/gunde-oestanoe-table-and-2-chairs-folding-black-remmarn-dark-gray-s19564810/
+Category: Dining sets up to 2 seats
+Description: , 263/8x263/8" The table is very sturdy thanks to the metal frame. Can be folded up which saves space when not in use. The foil melamine surface of the table top is durable, easy to clean and nice to ...
+
+# @OFFER
+Price: 79.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Particleboard, Melamine foil, Melamine foil, Plastic edging, Mounting plate/ Leg frame/ Mounting plate: Steel, Polyester powder coating, End cap: Polypropylene
+Features: A maximum of 4 chairs can be stacked together. | Only for indoor use. | Place the included hooks over the legs of the table to lock them in the folded-out position.
+Care: Cover: Do not wash. | Cover: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/gunde-oestanoe-table-and-2-chairs-folding-black-remmarn-dark-gray__1312619_pe940049_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

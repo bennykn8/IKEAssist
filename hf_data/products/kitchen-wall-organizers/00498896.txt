@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ÖBONÄS wall shelf with suction cup, gray-green
+SKU: 00498896
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/oebonaes-wall-shelf-with-suction-cup-gray-green-00498896/
+Category: Kitchen wall organizers
+Description: , 11" ÖBONÄS wall organizers offer drill-free storage with the magic of concealed suction cups. The simple design with smooth rounded corners and a woodsy grey-green tone, creates a serene and modern ...
+
+# @OFFER
+Price: 4.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top frame/ Shelf/ Cover/ Connector: ABS plastic (min. 20% recycled), Frame/ Plate: Polycarbonate plastic, Suction cup: Synthetic rubber
+Features: Only sticks on flat surfaces such as glass, mirrors, and tiles. | For better grip, clean the surface before mounting. Remove protective cover and push the suction cup against the wall until you hear a “puff” sound to complete the installation. | To remove the suction cup, insert a credit card (or similar item) between the suction cup and the wall to release the vacuum grip.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/oebonaes-wall-shelf-with-suction-cup-gray-green__1150594_pe884629_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

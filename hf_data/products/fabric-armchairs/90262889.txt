@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: EKERÖ armchair, Skiftebo orange
+SKU: 90262889
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ekeroe-armchair-skiftebo-orange-90262889/
+Category: Fabric armchairs
+Description: Go for stylish dark tones or brighten up your home with colorful covers. EKERÖ armchair has a sleek, modern look with two side pieces that meet in the back – and lumbar support for added comfort! The ...
+
+# @OFFER
+Price: 259
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Supporting fabric: 100 % polypropylene, Frame: Particleboard, Plywood, Polyurethane foam 1.5 lb/cu.ft., Laminated veneer lumber, Solid wood, Fiberboard, Fixed seat: Polyurethane foam 2.0 lb/cu.ft.
+Features: Please check with your local authorities to make sure that the product complies with any specific requirements for business use.
+Care: Vacuum clean. | Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ekeroe-armchair-skiftebo-orange__0204751_pe359789_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GRÅFJÄLLET clothes rack with shoe storage, anthracite
+SKU: 00570222
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/grafjaellet-clothes-rack-with-shoe-storage-anthracite-00570222/
+Category: Clothes racks & stands
+Description: , 353/8x141/8x687/8" The GRÅFJÄLLET series combines industrial influences with clean and bold lines that create a timeless expression. Use the clothes rack to keep favorite clothes and shoes visible a...
+
+# @OFFER
+Price: 49.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Steel, Powder coating, Shelf: Particleboard, Paper foil, Plastic edging
+Features: Adjustable feet included. | Holds approx. 4 pairs of shoes. | Space for appr. 12 hangers.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/grafjaellet-clothes-rack-with-shoe-storage-anthracite__1327718_pe944560_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

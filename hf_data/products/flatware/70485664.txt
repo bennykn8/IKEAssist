@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LÖFTESRIK 20-piece flatware set, stainless steel
+SKU: 70485664
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/loeftesrik-20-piece-flatware-set-stainless-steel-70485664/
+Category: Flatware
+Description: Sleek, stylish lines with rounded details – the LÖFTESRIK series adds a modern and elegant expression to your table. Set the table with the cutlery and complete with the serving cutlery for a uniform ...
+
+# @OFFER
+Price: 49.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Stainless steel
+Features: Includes: Fork, knife, spoon, teaspoon and dessert/salad fork, 4 of each.
+Care: Dishwasher-safe. | For the flatware to be easy to clean and to reduce the risk of corrosion, always rinse off the remains of any food immediately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/loeftesrik-20-piece-flatware-set-stainless-steel__1203981_pe906559_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

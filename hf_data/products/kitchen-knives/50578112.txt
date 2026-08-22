@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: FÖRSLAG 3-piece knife set
+SKU: 50578112
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/foerslag-3-piece-knife-set-50578112/
+Category: Kitchen knives
+Description: Two cook's knives and a paring knife with grip-friendly handles – a perfect set for those who need good knives that can help you cut, slice and chop both meat and vegetables. Whether it’s meat or vege...
+
+# @OFFER
+Price: 12.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Blade: Stainless steel, Handle: Polypropylene, Thermoplastic elastomer, Cover cap: Polypropylene
+Dimensions: Includes: Cook's knife 6¾" (tot. length 12"), cook’s knife 5" (tot. length 11") and paring knife 3" (tot. lenght 7½").
+Features: Wash this product before using it for the first time.
+Care: Handwash only.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/foerslag-3-piece-knife-set__0710424_pe727544_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

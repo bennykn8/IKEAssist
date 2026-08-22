@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LAGERGÅNG LED lamp for screen, dimmable/turquoise
+SKU: 40542430
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lagergang-led-lamp-for-screen-dimmable-turquoise-40542430/
+Category: Desk lamps
+Description: This LED lamp mounts easily onto your screen and brightens the area on and around your keyboard. An energy-efficient light source that makes it easier for you to focus on your work. Spreads a soft, gl...
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Shade: ABS plastic, Diffuser: Polycarbonate plastic, Hanger: Steel, Steel, Powder coating
+Features: If the lamp cannot hook onto the screen, you can adapt the fit by adjusting the holder behind the screen.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lagergang-led-lamp-for-screen-dimmable-turquoise__1166865_pe891302_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

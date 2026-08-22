@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SPÅRDJUP door mat, indoor, multicolor/stripe
+SKU: 20591964
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/spardjup-door-mat-indoor-multicolor-stripe-20591964/
+Category: Door mats
+Description: , 2'0"x2'11" Welcome your guests with colorful stripes – both lengthwise and crosswise. This durable door mat brightens up your entrance and adds a warm touch to your home that feels both personal and...
+
+# @OFFER
+Price: 14.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Pile: 99.5 % coir, 0.5 % polyethylene, Supporting fabric: 100 % jute, Backing: Natural latex
+Features: Recommended for indoor use only. | Clean the floor under the doormat regularly to avoid marks on the floor.
+Care: Do not wash. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/spardjup-door-mat-indoor-multicolor-stripe__1361375_pe954644_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

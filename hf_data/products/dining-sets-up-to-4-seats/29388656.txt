@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VOXLÖV / VOXLÖV table and 4 chairs, bamboo/bamboo
+SKU: 29388656
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/voxloev-voxloev-table-and-4-chairs-bamboo-bamboo-s29388656/
+Category: Dining sets up to 4 seats
+Description: , 707/8x353/8" A gift from nature, shaped and bent for optimal beauty and comfort. The sturdy table and chair frames are made of hardwearing bamboo and the handwoven paper twine gives a strong seat wi...
+
+# @OFFER
+Price: 899.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Particleboard, Bamboo veneer, Tinted clear acrylic lacquer, Under frame/ Leg: Bamboo, Adhesive, Tinted clear acrylic lacquer, Side frame/ Cross rail: Bamboo, Adhesive, Tinted clear acrylic lacquer
+Features: Recommended for indoor use only. | Bamboo is a natural fiber that might change color over time. | To prevent surface scratches and the sound of chair legs scraping on the floor, add FIXA self-adhesive floor protectors, sold separately.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/voxloev-voxloev-table-and-4-chairs-bamboo-bamboo__0926660_pe789444_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

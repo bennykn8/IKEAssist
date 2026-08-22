@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: PAX / FYRUDDEN wardrobe combination, white/blue
+SKU: 69581770
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/pax-fyrudden-wardrobe-combination-white-blue-s69581770/
+Category: Fitted wardrobes
+Description: , 59x235/8x791/4" This wardrobe combination is just as good looking on the outside as it is clever on the inside. Built to last years of outfits. 10-year Limited Warranty. Read about the terms in the ...
+
+# @OFFER
+Price: 1070
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fiberboard, Particleboard, Paper foil, Fiberboard, Polyurethane paint, Main parts: Steel, Nickel plated
+Dimensions: The frame can be assembled in an upright position if your ceiling height is a minimum of 79½". Follow the assembly instructions in the package.
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Two people are needed to assemble this furniture. | Hinges are needed for this product. They are included in the price but are picked up separately.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/pax-fyrudden-wardrobe-combination-white-blue__1406418_pe970920_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

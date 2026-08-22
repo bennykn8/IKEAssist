@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: STENSELE / KARLPETTER table and 2 chairs, anthracite anthracite/Gunnared medium grey black
+SKU: 89569418
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/stensele-karlpetter-table-and-2-chairs-anthracite-anthracite-gunnared-medium-grey-black-s89569418/
+Category: Dining sets up to 2 seats
+Description: , 271/2" You can hang essentials like your bag or jacket within convenient reach on the two hooks underneath the table top. Separate tabletops are available so you can change the look of your table at...
+
+# @OFFER
+Price: 359.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Laminate, Plastic edging, Laminate, Base: Aluminum, Epoxy/polyester powder coating, Leg/ Rail: Steel, Epoxy/polyester powder coating
+Features: Follow the assembly instructions included with SEFAST leg frame. | Recommended for indoor use only. | To minimize the risk of stains and marks, wipe off spills like liquids and grease with a cloth immediately.
+Care: Non-removable cover: Do not wash. | Non-removable cover: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/stensele-karlpetter-table-and-2-chairs-anthracite-anthracite-gunnared-medium-grey-black__1331413_pe945980_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

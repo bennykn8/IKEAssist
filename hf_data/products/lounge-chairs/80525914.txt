@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: PERSBOL armchair, black/Tibbleby beige/gray
+SKU: 80525914
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/persbol-armchair-black-tibbleby-beige-gray-80525914/
+Category: Lounge chairs
+Description: A crafted feel and timeless design. PERSBOL spindle armchair fits wherever you want to create nooks to spend time with family or enjoy some nice me-time. A classic that only gets more beautiful with t...
+
+# @OFFER
+Price: 199.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100% polyester (min. 90% recycled), Seat cushion: Polyurethane foam 1.5 lb/cu.ft., Bottom frame: Solid wood, Plywood, Tinted lacquer
+Care: Cushion, removable cover: Machine wash warm, normal cycle. | Cushion, removable cover: To be washed separately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/persbol-armchair-black-tibbleby-beige-gray__1123955_pe874932_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

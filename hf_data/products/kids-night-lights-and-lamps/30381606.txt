@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FUBBLA LED wall lamp, white
+SKU: 30381606
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/fubbla-led-wall-lamp-white-30381606/
+Category: Kids night lights & lamps
+Description: Playfully simple to dim for a cozier light after the bedtime stories. Our children’s lighting products go through some of the toughest safety tests in the world so you can be sure your child is safe. ...
+
+# @OFFER
+Price: 29.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Joint/ Bracket: Steel, Acrylic paint, Shade/ Cover: Steel, Epoxy powder coating, Diffuser: Polycarbonate plastic
+Features: LED light bulb included. | The lamp emits 200 lumens, which is approximately equal to the light emitted by a 20-watt incandescent bulb. | Always secure the cord to the wall with the included fasteners.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/fubbla-led-wall-lamp-white__0607991_pe683401_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

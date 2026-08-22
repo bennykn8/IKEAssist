@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: JORDBORR hook, self-adhesive, snowflake/multicolor
+SKU: 70563713
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/jordborr-hook-self-adhesive-snowflake-multicolor-70563713/
+Category: Hooks
+Description: Let colorful snowflakes float down on the wall. These self-adhesive hooks offer a simple and practical storage solution for your small things. Easy to attach wherever they can come in handy.
+
+# @OFFER
+Price: 3.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: ABS plastic
+Features: For best results, attach to smooth, clean surfaces. | Clean the surface before attaching the hook. Remove the protective paper on the back and press the hook firmly and evenly for at least 10 seconds. Then wait 24 hours before hanging anything. | Each hook holds up to 4 lbs. 6 oz.
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/jordborr-hook-self-adhesive-snowflake-multicolor__1236801_pe917728_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

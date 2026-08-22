@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MOPSIG 16-piece flatware set
+SKU: 20578217
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/mopsig-16-piece-flatware-set-20578217/
+Category: Flatware
+Description: It doesn’t have to cost an arm and a leg to enjoy dinner at a set table. MOPSIG is durable everyday cutlery with a price that leaves you with money left to buy tasty ingredients. The cutlery is made o...
+
+# @OFFER
+Price: 5.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fork/ Spoon/ Tea spoon: Stainless steel, Knife: Stainless steel, Stainless steel
+Features: Wash this product before using it for the first time. | Includes: Fork, knife, spoon and teaspoon, 4 of each.
+Care: Dishwasher-safe. | For the flatware to be easy to clean and to reduce the risk of corrosion, always rinse off the remains of any food immediately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/mopsig-16-piece-flatware-set__0759952_pe750550_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

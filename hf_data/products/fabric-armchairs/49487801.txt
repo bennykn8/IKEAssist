@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: POÄNG armchair and ottoman, black-brown/Skiftebo yellow
+SKU: 49487801
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/poaeng-armchair-and-ottoman-black-brown-skiftebo-yellow-s49487801/
+Category: Fabric armchairs
+Description: POÄNG cushions have a nice feel, making your armchair ever comfier, and are available in various styles, colors and fabrics. The thick Skiftebo cushion is durable and has a subtle dark-grey color.
+
+# @OFFER
+Price: 289
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Supporting fabric: 100 % polypropylene, Frame: Layer-glued wood veneer, Birch veneer, Stain, Clear acrylic lacquer, Layer-glued wood veneer, Birch veneer, Stain
+Features: Possible to separate for recycling or energy recovery if available in your community.
+Care: Cushion: Vacuum clean. | Cushion: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/poaeng-armchair-and-ottoman-black-brown-skiftebo-yellow__1104494_pe867688_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

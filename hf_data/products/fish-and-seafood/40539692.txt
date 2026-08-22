@@ -1,0 +1,30 @@
+# @PRODUCT
+Name: SJÖRAPPORT peeled shrimp, MSC certified frozen, 9 oz
+SKU: 40539692
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sjoerapport-peeled-shrimp-msc-certified-frozen-40539692/
+Category: Fish & seafood
+Description: Scandinavia's cold seas and responsible fishing and farming define the SJÖRAPPORT series. These peeled and quick-frozen shrimps have a fresh taste – great to enjoy cold in a shrimp cocktail or warm in...
+
+# @OFFER
+Price: 8.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sjoerapport-peeled-shrimp-msc-certified-frozen__1118017_pe872881_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BERGSHULT / PERSHULT wall shelf combination, white/white
+SKU: 59291158
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/bergshult-pershult-wall-shelf-combination-white-white-s59291158/
+Category: Complete wall shelves
+Description: , 471/4x113/4" Create your own personal wall shelf using PERSHULT brackets. They are designed to fit well together when you connect two brackets in a larger combination and can also be mounted to crea...
+
+# @OFFER
+Price: 132
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Paper foil, Plastic edging, Plastic edging, Steel, Epoxy/polyester powder coating
+Features: Max. load:44 lbs./shelf. | Max. load refers to the max. weight before the shelf is risking to slant. Distribute the weight evenly on the shelf to avoid the risk of slanting. | Screws to mount the bracket to the shelf are included.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/bergshult-pershult-wall-shelf-combination-white-white__0717044_pe731104_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

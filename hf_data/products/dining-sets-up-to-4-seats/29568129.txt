@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: DOCKSTA / ÖSTANÖ table and 4 chairs, black black/Remmarn red-brown
+SKU: 29568129
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/docksta-oestanoe-table-and-4-chairs-black-black-remmarn-red-brown-s29568129/
+Category: Dining sets up to 4 seats
+Description: , 401/2" A practical dining set for 4 that makes a perfect fit in smaller spaces. You get a clean, modern look and plenty of comfort thanks to the scooped seat and restful flexibility of the chair’s b...
+
+# @OFFER
+Price: 379.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Laminate, Plastic edging, Mounting plate/ Column/ Base: Steel, Epoxy/polyester powder coating, Cover: ABS plastic
+Features: Recommended for indoor use only. | Bamboo is a natural fiber that might change color over time.
+Care: Chair: Wipe clean with a mild soapy solution. | Chair: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/docksta-oestanoe-table-and-4-chairs-black-black-remmarn-red-brown__1325161_pe943816_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

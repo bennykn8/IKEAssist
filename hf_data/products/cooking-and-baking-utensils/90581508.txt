@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VARDAGEN tongs, stainless steel/beech
+SKU: 90581508
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vardagen-tongs-stainless-steel-beech-90581508/
+Category: Cooking & baking utensils
+Description: , 12" Difficult to turn vegetables and meat with the spatula? These grip-friendly cooking tweezers come to rescue in a flash, regardless if the food is in the oven or in a frying pan on the stove. Can...
+
+# @OFFER
+Price: 8.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Handle: Solid beech, Oil, Main parts: Stainless steel
+Features: Wash this product before using it for the first time.
+Care: Handwash only. | The wooden handle should be treated with food-approved oil now and then.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vardagen-tongs-stainless-steel-beech__1300055_pe936938_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

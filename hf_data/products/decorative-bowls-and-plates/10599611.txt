@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: KUSTFYR bowl with lid, ghost clear glass
+SKU: 10599611
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kustfyr-bowl-with-lid-ghost-clear-glass-10599611/
+Category: Decorative bowls & plates
+Description: , 5" What would Halloween be without ghosts? This glass bowl with a lid is perfect for small things and jewelry. Also decorative without contents − or with a small light chain. The lid keeps dust and ...
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Glass
+Care: Handwash only.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kustfyr-bowl-with-lid-ghost-clear-glass__1406327_pe970834_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

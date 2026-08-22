@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SOLSKUR LED table lamp, white/brass color
+SKU: 50440841
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/solskur-led-table-lamp-white-brass-color-50440841/
+Category: Kids night lights & lamps
+Description: Do you want to add a nice touch to complete the romantic feeling of your home? SOLSKUR table lamp has an idyllic pattern inspired by nature – and it provides soft mood lighting too! An imaginative and...
+
+# @OFFER
+Price: 34.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Shade: Steel, Powder coating, Inner shade: Polypropylene, Decoration: Steel, Acrylic coating
+Features: LED light bulb included. | The lamp emits 200 lumens, which is approximately equal to the light emitted by a 20-watt incandescent bulb. | The light source has a lifetime of approx. 25,000 hours. This corresponds to about 20 years if the lamp is on for 3 hours per day.
+Care: Dust the lamp with a dust cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/solskur-led-table-lamp-white-brass-color__0780250_pe759848_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

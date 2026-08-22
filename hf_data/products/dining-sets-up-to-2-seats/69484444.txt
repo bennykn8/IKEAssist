@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: PINNTORP / PINNTORP table and 2 chairs, light brown stained white stained/light brown stained
+SKU: 69484444
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/pinntorp-pinntorp-table-and-2-chairs-light-brown-stained-white-stained-light-brown-stained-s69484444/
+Category: Dining sets up to 2 seats
+Description: , 263/8/487/8" Traditional space-saving design with warmth and character. This wooden gateleg table extends to seat 2-4 people. Ideal when you need extra space for projects, folding laundry or having ...
+
+# @OFFER
+Price: 339.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Solid pine, Adhesive, Stain, Clear acrylic lacquer, Clear lacquer, Drop-leaf: Solid pine, Adhesive, Stain, Clear acrylic lacquer, Stain, Clear lacquer, Holder: Solid birch, Stain, Clear lacquer
+Features: Recommended for indoor use only. | To prevent surface scratches, add FIXA floor protectors, sold separately.
+Care: For maximum quality, re-tighten the screws when necessary. | Chair: Wipe clean with a mild soapy solution.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/pinntorp-pinntorp-table-and-2-chairs-light-brown-stained-white-stained-light-brown-stained__1139966_pe880605_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

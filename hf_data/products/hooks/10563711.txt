@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GALTBOX rack with 3 hooks, self-adhesive/white
+SKU: 10563711
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/galtbox-rack-with-3-hooks-self-adhesive-white-10563711/
+Category: Hooks
+Description: Do you have some wall space to spare in any room? Then this clean-lined self-adhesive rack with 3 hooks can help you organize and keep small things in order that you want close at hand. Easy to attach...
+
+# @OFFER
+Price: 1.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Steel, Powder coating, Tape: Polyethylene foam
+Features: For best results, attach to smooth, clean surfaces. | Clean the surface before attaching the hook. Remove the protective paper on the back and press the hook firmly and evenly for at least 5 seconds. Then wait 24 hours before hanging anything.
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/galtbox-rack-with-3-hooks-self-adhesive-white__1233299_pe916720_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

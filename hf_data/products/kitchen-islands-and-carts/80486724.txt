@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FÖRHÖJA kitchen cart, birch/white
+SKU: 80486724
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/foerhoeja-kitchen-cart-birch-white-80486724/
+Category: Kitchen islands & carts
+Description: , 393/8x167/8" If you have a small kitchen, sometimes you might need a larger workspace and more storage space. Why not create a small movable kitchen island with this trolley in solid wood? Gives you...
+
+# @OFFER
+Price: 149.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Work top: Solid birch, Oil, Top rail/ Drawer/ Bar/ Frame/ Leg: Solid birch, Acrylic paint, Drawer bottom: Birch plywood, Acrylic paint
+Features: The material in this product may be recyclable. Please check the recycling rules in your community and if recycling facilities exist in your area. | Possible to separate for recycling or energy recovery if available in your community.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/foerhoeja-kitchen-cart-birch-white__1057905_pe849059_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

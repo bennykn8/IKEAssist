@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SKOGSTA / SKOGSTA table and 6 chairs, acacia/acacia
+SKU: 49545127
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/skogsta-skogsta-table-and-6-chairs-acacia-acacia-s49545127/
+Category: Dining sets up to 6 seats
+Description: , 921/2" Dining set with table and arched, spindle-back chairs, both made of durable solid acacia wood with attractive grain pattern. A warm and charming look that will age gracefully and keep its app...
+
+# @OFFER
+Price: 939
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Solid acacia wood, Clear acrylic lacquer, Clear lacquer, Leg/ Rail: Solid acacia wood, Acrylic paint, Leg/ Leg rail/ Back spindle/rail: Solid acacia wood, Clear acrylic lacquer
+Features: Recommended for indoor use only. | May be completed with FIXA self-adhesive floor protectors to protect the underlying surface against wear.
+Care: For increased stability, re-tighten the screws about two weeks after assembly and when necessary. | Chair: Wipe clean with a mild soapy solution.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/skogsta-skogsta-table-and-6-chairs-acacia-acacia__1240709_pe919454_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

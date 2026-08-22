@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: BYMOTT curtains, 1 pair, white/beige stripe/with heading tape
+SKU: 40509968
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/bymott-curtains-1-pair-white-beige-stripe-with-heading-tape-40509968/
+Category: Light filtering curtains
+Description: , 47x98" A perfect solution when you want privacy or want to reduce glares on TV and computer screens. The outside light still comes through in a pleasant way and creates a cozy atmosphere in the room...
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 68 %polyester, 32 % cotton
+Dimensions: The curtains are sold in pairs. The sizes stated refer to each single curtain. For the total width, double the width of a single curtain.
+Features: Curtains, 1 pair included | Use SY iron-on hemming strip to shorten the curtains without sewing. | 13 gliders and hooks are usually recommended for each curtain with a width of 47¼ in. You can increase or decrease the number depending on whether you want narrower or fuller folds in the pleats.
+Care: Machine wash warm, normal cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/bymott-curtains-1-pair-white-beige-stripe-with-heading-tape__0972980_pe811833_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

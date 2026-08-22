@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: FIXA countertop support fixture, galvanized
+SKU: 70274628
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/fixa-countertop-support-fixture-galvanized-70274628/
+Category: Countertop accessories
+Description: 
+
+# @OFFER
+Price: 6
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Galvanized steel
+Features: Contact an IKEA co-worker for help identifying if your solution requires a build-up kit, and if so, get help identifying the articles you will need in your build-up kit.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/fixa-countertop-support-fixture-galvanized__0734546_pe739497_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

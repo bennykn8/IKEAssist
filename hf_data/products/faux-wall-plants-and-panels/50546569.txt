@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FEJKA artificial plant, wall mounted/indoor/outdoor green/lilac, 10 ¼x10 ¼"
+SKU: 50546569
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/fejka-artificial-plant-wall-mounted-indoor-outdoor-green-lilac-50546569/
+Category: Faux wall plants & panels
+Description: Liven up your living space with greenery by decorating your walls with the artificial plant panel. You can create a vertical garden indoors and outdoors by connecting multiple plant panels together.
+
+# @OFFER
+Price: 6
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Plant: 100 % polyester (100% recycled), EVA plastic, Polyethylene plastic (min. 80% recycled), Frame: 100 % polyester (100% recycled), Polyethylene plastic (min. 50% recycled)
+Features: Suitable for indoor and outdoor use.
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/fejka-artificial-plant-wall-mounted-indoor-outdoor-green-lilac__1183252_pe897453_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

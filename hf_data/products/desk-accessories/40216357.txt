@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: MOPPE mini storage chest, birch plywood, 16 ½x7x125/
+SKU: 40216357
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/moppe-mini-storage-chest-birch-plywood-40216357/
+Category: Desk accessories
+Description: 8" MOPPE mini chest with drawers is a true classic with its many drawers and timeless style. It’s also made of untreated wood that you can paint and decorate as you like, over and over again. A real w...
+
+# @OFFER
+Price: 34.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Shell/ Drawer/ Divider: Birch plywood, Back part/ Drawer bottom: Fiberboard
+Care: Wipe clean with a dry cloth. | Stains can be removed by using an eraser or fine sandpaper.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/moppe-mini-storage-chest-birch-plywood__0135959_pe292948_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

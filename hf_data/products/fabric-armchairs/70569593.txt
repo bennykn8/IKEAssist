@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ÄLEBY swivel chair, Gunnared medium gray/dark gray
+SKU: 70569593
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/aeleby-swivel-chair-gunnared-medium-gray-dark-gray-70569593/
+Category: Fabric armchairs
+Description: You can lean back and relax with perfect balance in ÄLEBY swivel armchair. It has a mechanism that allows you to adjust the resistance – and easily lock the tilt angle in 2 different positions.
+
+# @OFFER
+Price: 399
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric/ Fabric/ Fabric: 100% polyester (min. 90% recycled), Frame: 100% polyester (min. 80% recycled), Polyurethane foam 2.0 lb/cu.ft., Polyurethane foam 1.2 lb/cu.ft., Polyethylene, Layer-glued wood veneer, Star base: Steel, Epoxy/polyester powder coating
+Features: Stationary cover.
+Care: Non-removable cover: Do not wash. | Non-removable cover: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/aeleby-swivel-chair-gunnared-medium-gray-dark-gray__1214818_pe911748_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

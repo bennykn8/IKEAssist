@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: HÅLLBAR recycling solution, with pull-out/light gray, 6 gallon
+SKU: 09308825
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hallbar-recycling-solution-with-pull-out-light-gray-s09308825/
+Category: Kitchen trash cans & bins
+Description: Are you curious about how your waste can become new resources? HÅLLBAR series helps you sort different materials into different bins – a simple action and the first step towards giving waste a new lif...
+
+# @OFFER
+Price: 36.98
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Bucket/ Lid/ Hinge/ Ring: Polypropylene plastic (min. 50% recycled), Handle: Reinforced polyamide plastic (min. 20% recycled), Tray/ Frame: Polypropylene plastic (min. 20% recycled)
+Features: To be mounted at the bottom of a cabinet.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hallbar-recycling-solution-with-pull-out-light-gray__0761383_pe751244_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

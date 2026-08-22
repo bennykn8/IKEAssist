@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SKANSNÄS / LILLÅNÄS table and 4 chairs, brown beech/chrome plated Gunnared dark grey
+SKU: 49561631
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/skansnaes-lillanaes-table-and-4-chairs-brown-beech-chrome-plated-gunnared-dark-grey-s49561631/
+Category: Dining sets up to 4 seats
+Description: , 59/803/4" 4-seat dining set with modern flair includes brown-stained wooden table that extends to seat 6, and fully upholstered chairs with sled base, so you and your guests can enjoy those long din...
+
+# @OFFER
+Price: 1219
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Particleboard, Solid beech, Adhesive, Thick beech veneer, Stain, Tinted clear acrylic lacquer, Top rail/ Side rail: Solid beech, Particleboard, Adhesive, Thick beech veneer, Stain, Tinted clear acrylic lacquer, Extension rail: Solid beech, Stain, Tinted clear acrylic lacquer
+Features: Recommended for indoor use only. | Seats 4-6. | 1 self-storing, integrated butterfly extension leaf included.
+Care: For maximum quality, re-tighten the screws when necessary. | Table: Wipe clean using a damp cloth and a mild cleaner.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/skansnaes-lillanaes-table-and-4-chairs-brown-beech-chrome-plated-gunnared-dark-grey__1292814_pe935098_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

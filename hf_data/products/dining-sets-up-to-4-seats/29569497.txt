@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: SANDSBERG / ÖSTANÖ table and 4 chairs, black black/Remmarn red-brown
+SKU: 29569497
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sandsberg-oestanoe-table-and-4-chairs-black-black-remmarn-red-brown-s29569497/
+Category: Dining sets up to 4 seats
+Description: , 431/4" A slim design that blends in without taking up too much visual space in the room, yet sturdy enough to hold up to everyday activities. Sturdy metal table frame and durable, smooth melamine ta...
+
+# @OFFER
+Price: 169.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Melamine foil, Plastic edging, Plastic edging, Under frame/ Leg: Steel, Epoxy/polyester powder coating, Foot: Polypropylene
+Care: Cover: Do not wash. | Cover: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sandsberg-oestanoe-table-and-4-chairs-black-black-remmarn-red-brown__1328467_pe944802_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

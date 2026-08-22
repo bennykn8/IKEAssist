@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: JÄRRESTAD pouffe, with storage/Tonerud dark beige
+SKU: 50572761
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/jaerrestad-pouffe-with-storage-tonerud-dark-beige-50572761/
+Category: Fabric ottomans
+Description: JÄRRESTAD pouffe has a timeless expression with a modern twist. The soft conical shape is topped by a comfortable padded seat that hides a practical space where you can store magazines or extra throws...
+
+# @OFFER
+Price: 79.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100 % polyester (100% recycled), Frame: 100 % polypropylene, 100% polyester (min. 80% recycled), Plywood, Paperboard (100% recycled), Solid wood, Polyurethane foam 2.0 lb/cu.ft., Lid: 100% polyester (min. 80% recycled), 100 % polypropylene, Plywood, Polypropylene, Polyurethane foam 2.0 lb/cu.ft.
+Care: Frame, non-removable cover: Clean by vacuuming or use a lint roller. | Frame, non-removable cover: Light stains can be removed with a damp sponge or a mild soapy solution.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/jaerrestad-pouffe-with-storage-tonerud-dark-beige__1320783_pe941358_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

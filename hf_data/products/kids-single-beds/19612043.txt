@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: SLÄKT bed frame, incl headboard/Vissle beige, Twin
+SKU: 19612043
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/slaekt-bed-frame-incl-headboard-vissle-beige-s19612043/
+Category: Kids single beds
+Description: This padded and upholstered headboard is an easy way to update your child's room and make SLÄKT bed even cozier. It’s also quick to mount in place in just a few steps. The padded headboard gives SLÄKT...
+
+# @OFFER
+Price: 229
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Bedside: Particleboard, Particleboard, Fiberboard, Plastic edging, Acrylic paint, Acrylic paint, Paper foil, Footboard/ Headboard: Fiberboard, Particleboard, Honeycomb structure paper filling (100% recycled), Plastic edging, Acrylic paint, Bed slats: Layer-glued wood veneer, Adhesive resin as coating
+Features: For additional sleeping space and storage space, you can combine the bed frame with SLÄKT pull-out bed with storage. | Max load indicates static weight, in other words the load which the bed withstands if you lie or sit on it. | Mattress and bedlinens are sold separately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/slaekt-bed-frame-incl-headboard-vissle-beige__1451403_pe990720_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

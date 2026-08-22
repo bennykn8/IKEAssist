@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: ÖVERSKÅDLIG french door refrigerator, 4-door/stainless steel color, 22 cu.ft
+SKU: 60462154
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/oeverskadlig-french-door-refrigerator-4-door-stainless-steel-color-60462154/
+Category: Free-standing refrigerators & freezers
+Description: A generous-sized refridgerator with French doors and 2 spacious freezer drawers. The dispenser on the door is always ready to serve up ice and water when it is time to quench your thirst.
+
+# @OFFER
+Price: 2999
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Features: Noise level: 43 dB (A). | You need to connect a water line to the fridge to make ice or use the water dispenser. | Ensure enough space to open the door(s) and access your refridgerator/freezer. For detailed measurements please see the manual.
+Care: After cleaning, be sure to wipe dry with a soft cloth. | Clean the inside of the fridge/freezer regularly with a soft cloth damped in warm water and mild soap.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/oeverskadlig-french-door-refrigerator-4-door-stainless-steel-color__0956636_pe804803_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

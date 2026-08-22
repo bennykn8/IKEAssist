@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ENHET corner kitchen, anthracite/gray frame
+SKU: 79441005
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/enhet-corner-kitchen-anthracite-gray-frame-s79441005/
+Category: ENHET kitchen combinations
+Description: A lovely kitchen that uses the corner area to create generous space for storage and preparing food. There’s open storage for often-used items and a wall frame that lets you showcase your favorite thin...
+
+# @OFFER
+Price: 1230
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fiberboard, Plastic foil, Main parts: Particleboard, Front side/ Back side: Plastic foil
+Features: Be aware that tools and preparation are required to cut the countertop to size and to cut holes for sink and faucet to secure a perfect fit. | Must be secured to the wall for a safe installation. Different wall materials require different types of fixing devices. Use fixing devices suitable for the walls in your home, sold separately. | Appliances and lighting products are sold separately.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/enhet-corner-kitchen-anthracite-gray-frame__1056838_pe848588_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

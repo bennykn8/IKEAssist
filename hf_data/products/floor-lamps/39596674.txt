@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HÅRSLINGA / MOLNART floor lamp with LED bulb, white/mushroom brown clear glass
+SKU: 39596674
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/harslinga-molnart-floor-lamp-with-led-bulb-white-mushroom-brown-clear-glass-s39596674/
+Category: Floor lamps
+Description: This neat floor lamp has a bell-shaped LED bulb in brown glass with a matching filament that spreads a warm and cozy glow in the room.
+
+# @OFFER
+Price: 44.98
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Tube/ Base: Steel, Powder coating, Cable clip/ Foot: Polypropylene plastic (min. 20% recycled), Lampholder cup: Polycarbonate plastic
+Features: Special waste handling may be required. Please contact your local authorities for more information.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/harslinga-molnart-floor-lamp-with-led-bulb-white-mushroom-brown-clear-glass__1382929_pe962396_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

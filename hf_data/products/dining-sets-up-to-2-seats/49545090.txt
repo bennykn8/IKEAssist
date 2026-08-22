@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LISABO / LISABO table and 2 chairs, black/black
+SKU: 49545090
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lisabo-lisabo-table-and-2-chairs-black-black-s49545090/
+Category: Dining sets up to 2 seats
+Description: , 345/8" We’re proud of our LISABO series, awarded with the prestigious, international Red Dot Award, for its design. The products are durable, sturdy and easy to assemble, yet look light and hand-cra...
+
+# @OFFER
+Price: 329
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel: Ash veneer, Fiberboard, Fiberboard, Birch plywood, Fiberboard, Particleboard, Tinted clear acrylic lacquer, Leg base: Solid birch, Tinted clear acrylic lacquer, Leg/ Frame support: Solid birch, Stain, Clear acrylic lacquer
+Features: Recommended for indoor use only. | Seats 2.
+Care: Furniture: For increased stability, re-tighten the screws about two weeks after assembly and when necessary. | Chair: Wipe clean with a mild soapy solution.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lisabo-lisabo-table-and-2-chairs-black-black__1241017_pe919624_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

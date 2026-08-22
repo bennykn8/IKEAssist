@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KURA bed curtain, market stall pattern
+SKU: 20506150
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kura-bed-curtain-market-stall-pattern-20506150/
+Category: Kids bed tents & canopies
+Description: Come and buy refreshing watermelons and ice cream! This bed curtain is guaranteed to stimulate imaginations and role-playing. Made of polyester (of which at least 90% is recycled) and fits KURA bed.
+
+# @OFFER
+Price: 30
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100% polyester (min. 90% recycled), Bracket: Steel
+Features: Includes: 2 curtains for the bed’s long sides (45¼x31⅛") and 1 curtain for the bed’s short side (45¼x40⅛"). | Fits KURA reversible bed.
+Care: Machine wash warm, normal cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kura-bed-curtain-market-stall-pattern__0979044_pe814403_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

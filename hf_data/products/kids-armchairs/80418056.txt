@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: POÄNG children's armchair frame, birch veneer
+SKU: 80418056
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/poaeng-childrens-armchair-frame-birch-veneer-80418056/
+Category: Kids armchairs
+Description: Children feel special and important when they can do what adults do. That's why we created a miniature children’s version of our beloved POÄNG armchair. Now you can sit and relax together - side by si...
+
+# @OFFER
+Price: 49.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Supporting fabric: 100 % polyethylene, Edge fabric: 65 %polyester, 35 % cotton, Hook and loop fastener: 100 % nylon
+Features: Children’s armchair cushion is sold separately.
+Care: Frame: Wipe clean with a mild soapy solution. | Frame: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/poaeng-childrens-armchair-frame-birch-veneer__0795619_pe766123_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: RÖDMULLE coffee/tea canister, with spoon bamboo veneer, 8 ¾"
+SKU: 00567984
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/roedmulle-coffee-tea-canister-with-spoon-bamboo-veneer-00567984/
+Category: Jars & tins
+Description: This tin is inspired by Japanese tea traditions and is nice to display on a worktop or shelf. It also comes with a practical spoon – and of course, it works just as well for your coffee.
+
+# @OFFER
+Price: 4.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Box/ Lid: Bamboo veneer, Spoon: Bamboo
+Features: This spoon is intended for coffee and tea as dry goods. If you use it for stirring in the warm beverage for a long time, it may change shape and flatten.
+Care: Handwash only. | To avoid the formation of mold, make sure the coffee tin and spoon are completely dry before storing them. The simplest way is to let them air dry.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/roedmulle-coffee-tea-canister-with-spoon-bamboo-veneer__1233462_pe916800_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

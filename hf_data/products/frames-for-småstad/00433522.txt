@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SMÅSTAD wall storage, white
+SKU: 00433522
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/smastad-wall-storage-white-00433522/
+Category: Frames for SMÅSTAD
+Description: , 235/8x113/4x235/8" In this wall storage there is space for books, trophies and the finest arts and crafts - and if you want the things hidden, you can add doors that you like from the SMÅSTAD series...
+
+# @OFFER
+Price: 35
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Side panel/ Top panel/ Bottom panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Paper foil, Plastic edging, Back panel: Plastic foil, Fiberboard
+Features: Doors and interiors are sold separately. | Complete with LÄTTHET suspension rail, sold separately. | Two people are required to do the assembly.
+Care: Wipe clean with a damp cloth. | Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/smastad-wall-storage-white__0848841_pe779158_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

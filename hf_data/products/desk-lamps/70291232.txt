@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: JANSJÖ LED USB lamp, black
+SKU: 70291232
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/jansjoe-led-usb-lamp-black-70291232/
+Category: Desk lamps
+Description: , 15" A super-flexible lamp that lets you focus its bright light exactly where you need it. It’s slim, lightweight and easy to move around. The energy-saving built-in LED light source provides 25,000 ...
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Shades/ Lens holder/ Reflector: ABS plastic, Optical lens: Acrylic, Arm: Steel, Paint
+Features: LED life approx. 25,000 hours. | Built-in LED light source. | Light color: warm white (2700 Kelvin).
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/jansjoe-led-usb-lamp-black__0607576_pe683065_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

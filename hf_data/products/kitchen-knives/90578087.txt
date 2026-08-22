@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BRILJERA chef's knife
+SKU: 90578087
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/briljera-chefs-knife-90578087/
+Category: Kitchen knives
+Description: , 8" This cook’s knife easily cuts through meat and root vegetables. The Damascus steel gives the blade a distinct pattern, unique durability and long-lasting sharpness – and the wooden handle is grip...
+
+# @OFFER
+Price: 69.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Blade/ Rivet: Stainless steel, Handle: Solid maple
+Features: The knife blade is made of 67 layered Damascus steel.
+Care: Handwash only.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/briljera-chefs-knife__0588833_pe673155_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

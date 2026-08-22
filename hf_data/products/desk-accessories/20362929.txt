@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SIGFINN monitor stand-stationary height, bamboo veneer
+SKU: 20362929
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sigfinn-monitor-stand-stationary-height-bamboo-veneer-20362929/
+Category: Desk accessories
+Description: A boost for your monitor – and for you. With this stand you avoid "gamer" neck strain while gaining a small storage space for desk accessories like pens, notepads and USB sticks.
+
+# @OFFER
+Price: 29.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Layer-glued wood veneer, Layer-glued wood veneer, Molded layers of fiberboard, Clear acrylic lacquer, Bamboo veneer
+Features: Holds an up to 19" monitor.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sigfinn-monitor-stand-stationary-height-bamboo-veneer__0491333_pe625002_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

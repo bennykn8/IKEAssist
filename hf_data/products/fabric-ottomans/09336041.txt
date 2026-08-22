@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: POÄNG ottoman, brown/Knisa light beige
+SKU: 09336041
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/poaeng-ottoman-brown-knisa-light-beige-s09336041/
+Category: Fabric ottomans
+Description: A variety of seat cushion designs makes it easy to change the look of your POÄNG chair and your living room. The frame is made of layer-glued bent oak which is a very strong and durable material.
+
+# @OFFER
+Price: 80
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Layer-glued wood veneer, Oak veneer, Stain, Clear acrylic lacquer, Fabric: 100% polyester (min. 90% recycled), Wadding: 100% polyester (min. 80% recycled)
+Features: Product is possible to recycle or use for energy recovery, if available in your community.
+Care: Cushion: Vacuum clean. | Cushion: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/poaeng-ottoman-brown-knisa-light-beige__0571840_pe667092_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

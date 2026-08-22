@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: LYNDERUP door mat, indoor/outdoor multicolor
+SKU: 30382776
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lynderup-door-mat-indoor-outdoor-multicolor-30382776/
+Category: Door mats
+Description: , 2'0"x2'11" The door mat is perfect for outdoor use since it is made to withstand rain, sun, snow and dirt. The uneven surface makes it easier to clean your shoes and also gives it a decorative look ...
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Use surface: 100 % polypropylene, Backing: 100 % Synthetic rubber
+Care: Hand wash warm water. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lynderup-door-mat-indoor-outdoor-multicolor__0721305_pe733154_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

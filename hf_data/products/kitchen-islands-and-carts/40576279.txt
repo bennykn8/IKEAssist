@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LOSHULT utility cart, pine
+SKU: 40576279
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/loshult-utility-cart-pine-40576279/
+Category: Kitchen islands & carts
+Description: , 15x15x321/4" Everyone can do with extra storage – and even better when it fits in most corners and can be moved to where it’s needed. LOSHULT trolley in pine keeps things handy and brings a warm glo...
+
+# @OFFER
+Price: 49.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Leg/ Side panel: Solid pine, Adhesive, Tinted clear acrylic lacquer, Bottom panel: Pine plywood, Tinted clear acrylic lacquer
+Features: Not suitable for outdoor use. | Not approved for bathroom.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/loshult-utility-cart-pine__1366928_pe957217_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

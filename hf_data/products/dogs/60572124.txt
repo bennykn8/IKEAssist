@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: UTSÅDD soft toy for dog, blue
+SKU: 60572124
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/utsadd-soft-toy-for-dog-blue-60572124/
+Category: Dogs
+Description: This dog toy in soft fabric has a vibrant color and playful shape. It triggers play and encourages the dog to retrieve and stay active – and to have fun together with you. UTSÅDD soft toy for dog is e...
+
+# @OFFER
+Price: 4.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100 % polyester (100% recycled), Filling: 100% polyester - hollow fiber
+Features: Recommended for medium-sized dogs. | Only for indoor use. | Not intended for use by children.
+Care: Machine wash, warm, durable-press cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/utsadd-soft-toy-for-dog-blue__1227309_pe915598_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

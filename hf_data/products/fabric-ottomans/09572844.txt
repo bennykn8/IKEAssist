@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: UPPLAND ottoman with storage, Kelinge gray-turquoise
+SKU: 09572844
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/uppland-ottoman-with-storage-kelinge-gray-turquoise-s09572844/
+Category: Fabric ottomans
+Description: Comfortable to rest your feet on or to use as extra seating and it has a practical storage space under the seat. The cover is easy to keep clean since it is removable and can be machine washed.
+
+# @OFFER
+Price: 179
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Seat frame: Particleboard, Plywood, Solid wood, Fiberboard, Melamine foil, Seat cushion: Polyurethane foam 2.0 lb/cu.ft., Smolder resistant lining: Polyester wadding
+Care: Removable cover: Machine wash warm, normal cycle. | Removable cover: To be washed separately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/uppland-ottoman-with-storage-kelinge-gray-turquoise__1336599_pe947388_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

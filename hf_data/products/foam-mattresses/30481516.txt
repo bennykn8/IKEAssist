@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ÅSBYGDA foam mattress, firm/white, Twin
+SKU: 30481516
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/asbygda-foam-mattress-firm-white-30481516/
+Category: Foam mattresses
+Description: A 6¼" high and firm mattress with 2 layers of foam. The top layer of memory foam gives pressure relief, while your body is supported in all areas by comfort zones – and the soft cover is washable. The...
+
+# @OFFER
+Price: 139
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Ticking/ Mattress inner cover/ Ticking: 100 % polyester (100% recycled), Quilt filling: 70 % viscose, 30 % polyester, Lining: 100 % polypropylene
+Features: To be completed with a slatted bed base or a slatted mattress base. | All of our mattresses can be used immediately, but keep in mind that a packaged mattress only regains its full shape and comfort after approximately 72 hours. Your body also needs a couple of weeks to adapt to the new mattress. | Sometimes the mattress has a noticeable smell when you open the packaging. The smell isn’t harmful or toxic and disappears over time. Airing and vacuuming the mattress helps to eliminate the smell faster.
+Care: Mattress cover: Machine wash warm, normal cycle. | Mattress cover: Turn the cover inside out and zip up before washing.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/asbygda-foam-mattress-firm-white__1142849_pe881369_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

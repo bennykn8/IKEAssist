@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: GRUPPSPEL gaming chair, Gunnared black/gray
+SKU: 80507585
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/gruppspel-gaming-chair-gunnared-black-gray-80507585/
+Category: Gaming chairs
+Description: This gaming chair doesn’t just have a cool look. It also has many smart functions that allow you to adjust the back, seat, recline angle, tilt, armrests and headrest to sit really comfortably. 3-year ...
+
+# @OFFER
+Price: 399.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Headrest: Reinforced polyamide, Zinc, Polypropylene, Back frame: Steel, Polypropylene, Reinforced polyamide, Zinc, Back bar: Steel, Epoxy/polyester powder coating
+Care: Leather: Vacuum clean. | Leather: Protect from direct sunlight to prevent drying out.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/gruppspel-gaming-chair-gunnared-black-gray__1036735_pe838522_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

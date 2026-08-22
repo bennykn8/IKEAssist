@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KARMSUND Floor mirror, black
+SKU: 40294982
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/karmsund-floor-mirror-black-40294982/
+Category: Full length standing mirrors
+Description: , 15 3/4x65 3/4". You decide the style of this mirror by adding or removing the crown up top. Hang tomorrow’s outfit on the hooks and rail behind the mirror and enjoy a few more minutes of sleep in th...
+
+# @OFFER
+Price: 99.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Galvanized steel, Epoxy/polyester powder coating, Mirror glass: Glass, Top frame: Steel, Galvanized, Epoxy/polyester powder coating
+Features: Hang the mirror using the wall brackets on the back of the mirror according to the assembly instructions. Use screws, sold separately, suitable for the wall material in your home.
+Care: Glass: Wipe clean with a damp cloth. Use only water or window-cleaner. | Glass: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/karmsund-floor-mirror-black__0633525_pe695899_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LISABO / LISABO table and 6 chairs, ash veneer/ash veneer
+SKU: 49545085
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lisabo-lisabo-table-and-6-chairs-ash-veneer-ash-veneer-s49545085/
+Category: Dining sets up to 6 seats
+Description: , 783/4" This light and airy dining table set made of ash veneer has a distinct Scandinavian appeal with a feel of traditional craftsmanship. LISABO table has even been awarded with the Red Dot Design...
+
+# @OFFER
+Price: 709.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel: Ash veneer, Birch veneer, Solid birch, Birch plywood, Particleboard, Tinted clear acrylic lacquer, Fiberboard, Leg base: Solid birch, Tinted clear acrylic lacquer, Leg/ Frame support: Solid birch, Tinted clear acrylic lacquer
+Features: Recommended for indoor use only. | Seats 6-8.
+Care: Furniture: For increased stability, re-tighten the screws about two weeks after assembly and when necessary. | Chair: Wipe clean with a mild soapy solution.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lisabo-lisabo-table-and-6-chairs-ash-veneer-ash-veneer__1265111_pe927513_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: MACKSJÖN pull down kitchen faucet with spray, black
+SKU: 40601368
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/macksjoen-pull-down-kitchen-faucet-with-spray-black-40601368/
+Category: Kitchen faucets
+Description: This MACKSJÖN kitchen mixer tap has a high-arc gooseneck spout with pull-down spray, offering both aerated stream and powerful spray, for easy cleaning or food prep in all corners of your sink. Easy, ...
+
+# @OFFER
+Price: 119
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Body/ Handle: Zinc, Metallized, Inner body: Reinforced polyamide, Spout: Stainless steel, Metallized
+Dimensions: Supply hoses with 9/16" X UNEF connection included. Length: 26.18".
+Features: Deck plate to cover existing holes included. | The spout can be pulled out approx. 12". | Swivel spout: 360°.
+Care: Wipe dry with a clean cloth. | Clean with a soft cloth dampened with water and a mild dish detergent or soap. Never use scouring powder, steel wool or a detergent that is calcium-dissolving, sour or contains alcohol or an abrasive.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/macksjoen-pull-down-kitchen-faucet-with-spray-black__1450338_pe990294_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

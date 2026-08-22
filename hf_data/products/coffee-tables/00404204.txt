@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HAVSTA Coffee table, white
+SKU: 00404204
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/havsta-coffee-table-white-00404204/
+Category: Coffee tables
+Description: , 39 3/8x29 1/2". Made of solid wood with crafted details and a brushed surface, HAVSTA coffee table adds a genuine feel and charm to your room. Its timeless design makes it easy to combine with many ...
+
+# @OFFER
+Price: 249.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Leg: Solid pine, Rail/ Table top: Solid pine, Clear acrylic lacquer, Stain, Clear acrylic lacquer, Stain, Shelf/ Rail: Solid pine, Clear acrylic lacquer, Stain, Clear acrylic lacquer
+Features: Max load on table top: 44 lbs. | Combines with other products in the HAVSTA series.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/havsta-coffee-table-white__1294504_pe935479_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

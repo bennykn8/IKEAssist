@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: UPPSTÅ storage bag, braided/green, 13 ¾"
+SKU: 80529554
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/uppsta-storage-bag-braided-green-80529554/
+Category: Kids boxes & baskets
+Description: With this storage bag you can transform tidying up into story time with the owl as the lead character and your child’s helper. Made of braided cotton and part of the UPPSTÅ series. Can be folded to sa...
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Basket: 100 % cotton, Stitching thread: 100 % polyester
+Features: Matches other products in the UPPSTÅ and BRUMMIG series.
+Care: Machine wash, warm, durable-press cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/uppsta-storage-bag-braided-green__1130366_pe877672_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

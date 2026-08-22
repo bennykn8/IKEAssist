@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: PINNTORP gateleg table, light brown stained/white stained
+SKU: 70529465
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/pinntorp-gateleg-table-light-brown-stained-white-stained-70529465/
+Category: Extendable tables
+Description: , 263/8/487/8x291/2" Traditional space-saving design with warmth and character. This wooden gateleg table extends to seat 2-4 people. Ideal when you need extra space for projects, folding laundry or h...
+
+# @OFFER
+Price: 229.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Solid pine, Adhesive, Stain, Clear acrylic lacquer, Clear lacquer, Drop-leaf: Solid pine, Adhesive, Stain, Clear acrylic lacquer, Stain, Clear lacquer, Holder: Solid birch, Stain, Clear lacquer
+Features: Recommended for indoor use only. | To prevent surface scratches, add FIXA floor protectors, sold separately.
+Care: Wipe clean using a damp cloth and a mild cleaner. | For maximum quality, re-tighten the screws when necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/pinntorp-gateleg-table-light-brown-stained-white-stained__1118101_pe872927_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ENHET kitchen, white
+SKU: 19440829
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/enhet-kitchen-white-s19440829/
+Category: ENHET kitchen combinations
+Description: , 97x255/8x841/2" All you need for kitchen work to flow smoothly in one compact solution. With open and closed storage, a functional work area and smart use of space for cooking, everyday life in the ...
+
+# @OFFER
+Price: 1208.53
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Particleboard, Front side/ Back side: Plastic foil, Edge: Plastic edging
+Features: Must be secured to the wall for a safe installation. Different wall materials require different types of fixing devices. Use fixing devices suitable for the walls in your home, sold separately. | Be aware that tools and preparation are required to cut the countertop to size and to cut holes for sink and faucet to secure a perfect fit. | Appliances and lighting products are sold separately.
+Care: Wipe dry with a clean cloth. | To prevent permanent stains on the countertop, wipe clean spills or messes immediately with a soft cloth dampened in water and a mild washing-up detergent or soap.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/enhet-kitchen-white__1056708_pe848497_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

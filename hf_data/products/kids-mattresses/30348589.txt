@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ÖMSINT Pocket spring mattress f/extend bed
+SKU: 30348589
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/oemsint-pocket-spring-mattress-f-extend-bed-30348589/
+Category: Kids mattresses
+Description: , 38 1/4x74 3/4". The outer cover is easy to remove and is machine washable at 140°F (Hot). A fixed inner cover increases the fire safety of the mattress and makes it easy to put the outer cover back ...
+
+# @OFFER
+Price: 229
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Ticking: 64 %polyester, 36 % cotton, Ticking, side: 64 % cotton, 36 %polyester, Quilt filling/ Filling: 70 % viscose, 30 % polyester
+Features: Fits all our extendable beds. | We recommend LEN fitted sheets made of cotton jersey for your child’s mattress. | Wash the cover inside out with the zipper closed.
+Care: Non-removable cover: Wipe clean with a damp cloth. | Bag: Machine wash warm, normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/oemsint-pocket-spring-mattress-f-extend-bed__0748968_pe745358_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: AGAM junior chair, black
+SKU: 70253541
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/agam-junior-chair-black-70253541/
+Category: Junior dining chairs
+Description: Too big for a high chair, but too short for a regular chair? Then a junior chair is perfect – high enough for the dining table, and with comfy support for the feet. Made for enjoyable dinners and craf...
+
+# @OFFER
+Price: 69.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Seat: Fiberboard, Acrylic paint, Back: Beech plywood, Acrylic paint, Leg: Solid beech, Acrylic paint
+Care: Wipe clean with a damp cloth. | Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/agam-junior-chair-black__0727930_pe735946_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

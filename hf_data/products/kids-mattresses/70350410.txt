@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: INNERLIG spring mattress for extendable bed
+SKU: 70350410
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/innerlig-spring-mattress-for-extendable-bed-70350410/
+Category: Kids mattresses
+Description: , 381/4x743/4" Most of this 12 cm thick and 3-part mattress comprises of flexible springs protected by soft foam, and it can easily be extended as both your child and the extendable bed grow. Bonnell ...
+
+# @OFFER
+Price: 179
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Ticking: 62 % cotton, 38 %polyester, Quilt filling/ Filling: 70 % viscose, 30 % polyester, Inner fabric: 100 % polypropylene
+Features: Fits all our extendable beds. | We recommend LEN fitted sheets made of cotton jersey for your child’s mattress. | Wash the cover inside out with the zipper closed.
+Care: Mattress, inner cover: Wipe clean with a damp cloth. | Mattress cover: Machine wash warm (max 140°F/60°C) normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/innerlig-spring-mattress-for-extendable-bed__0748959_pe745349_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

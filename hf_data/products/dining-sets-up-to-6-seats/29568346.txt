@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LISABO / KARLPETTER table and 6 chairs, ash veneer/Gunnared medium grey white
+SKU: 29568346
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lisabo-karlpetter-table-and-6-chairs-ash-veneer-gunnared-medium-grey-white-s29568346/
+Category: Dining sets up to 6 seats
+Description: , 783/4x303/4" Stylish 6-seat dining set with clear lacquered wooden table and upholstered chairs. A versatile option for most any décor. Sturdy, easy to assemble and plenty of space for larger gather...
+
+# @OFFER
+Price: 799.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel: Ash veneer, Birch veneer, Solid birch, Birch plywood, Particleboard, Tinted clear acrylic lacquer, Fiberboard, Leg base: Solid birch, Tinted clear acrylic lacquer, Fabric: 100% polyester (min. 90% recycled)
+Features: Recommended for indoor use only. | Bamboo is a natural fiber that might change color over time. | Each product is a unique, handmade work of art with natural variations in color and shape.
+Care: Frame: For increased stability, re-tighten the screws about two weeks after assembly and when necessary. | Seat: Do not wash.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lisabo-karlpetter-table-and-6-chairs-ash-veneer-gunnared-medium-grey-white__1325790_pe944025_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

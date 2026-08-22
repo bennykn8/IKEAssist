@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: SEKTION Support leg, stainless steel
+SKU: 30287251
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sektion-support-leg-stainless-steel-30287251/
+Category: Frames, rails, legs & toekicks
+Description: . Every kitchen base cabinet and high cabinet needs legs. Choose whether you want to emphasize a style or expression in your kitchen with visible legs or if you prefer to hide the legs behind a toekic...
+
+# @OFFER
+Price: 16
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Stainless steel, Stainless steel, Other parts: Stainless steel, Nut: Acetal plastic
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sektion-support-leg-stainless-steel__0625793_pe692468_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

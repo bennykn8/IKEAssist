@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: AFTONSPARV curtains with tie-backs, 1 pair, space blue/white
+SKU: 20561028
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/aftonsparv-curtains-with-tie-backs-1-pair-space-blue-white-20561028/
+Category: Kids rugs
+Description: , 47x98" The pattern on these curtains glows in the dark! An exciting effect that carries your child into space and evokes dreams of all the exciting things that can be discovered and explored in the ...
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 52 % polyester (100% recycled), 48 % cotton
+Features: May be completed with one of our curtain rods to hang them safely and securely.
+Care: Shrinkage maximum 4%. | Machine wash cold, normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/aftonsparv-curtains-with-tie-backs-1-pair-space-blue-white__1178777_pe896778_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

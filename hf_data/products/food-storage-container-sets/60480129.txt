@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: GARNITYREN bowl with lid, set of 5, mixed colors
+SKU: 60480129
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/garnityren-bowl-with-lid-set-of-5-mixed-colors-60480129/
+Category: Food storage container sets
+Description: Suitable for storing dry foods.
+
+# @OFFER
+Price: 17.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polypropylene
+Dimensions: Includes: 1 bowl 27 oz (dia. 5¾", height 3⅛"), 1 bowl 44 oz (dia. 6¾", height 3½"), 1 bowl 74 oz (dia. 7⅞", height 4⅜"), 1 bowl 108 oz (dia. 9", height 4¾"), 1 bowl 159 oz (dia. 9⅞", height 5¾").
+Features: This container is not spill-proof and may leak if you store liquid contents like soup in it. If you think there is a risk of leakage, do not place the container in for example a bag.
+Care: Microwave-safe. | Freezer-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/garnityren-bowl-with-lid-set-of-5-mixed-colors__0930821_pe790897_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

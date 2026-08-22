@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BRIMNES storage combination w/glass doors, white
+SKU: 49278237
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/brimnes-storage-combination-w-glass-doors-white-s49278237/
+Category: Display cabinets
+Description: , 63x133/4x743/4" A solid display cabinet with clean shapes and glass doors that keep your favourite items free from dust. The adjustable glass shelves allow you to customise the storage to your needs...
+
+# @OFFER
+Price: 398
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top/ Frame: Particleboard, Paper foil, Plastic edging, Back panel: Fiberboard, Acrylic paint, Side panel/ Partition/ Rail/ Bottom rail/ Bottom: Particleboard, Paper foil
+Features: Keep in mind that you need enough space between the top of the furniture and the ceiling to be able to anchor the product to the wall.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/brimnes-storage-combination-w-glass-doors-white__0619458_pe689099_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

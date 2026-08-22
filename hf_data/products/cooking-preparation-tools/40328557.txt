@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MÄRKBART scissors, set of
+SKU: 40328557
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/maerkbart-scissors-set-of-2-40328557/
+Category: Cooking preparation tools
+Description: 2 A multi-tool makes the work in the kitchen easier. Use these scissors to open tricky packages, cut oregano over the pizza and divide pickled tomatoes, regardless if you’re right-handed or left-hande...
+
+# @OFFER
+Price: 3.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Stainless steel, Synthetic rubber, Reinforced polypropylene
+Dimensions: Sizes: Length 5⅛" and 7⅞".
+Care: Dishwasher-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/maerkbart-scissors-set-of-2__0711774_pe728443_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

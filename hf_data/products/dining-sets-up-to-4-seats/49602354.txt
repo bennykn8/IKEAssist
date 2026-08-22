@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: NÄSINGE / NÄSINGE table and 4 chairs, dark brown stained beech veneer/dark brown stained Kilanda light beige
+SKU: 49602354
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/naesinge-naesinge-table-and-4-chairs-dark-brown-stained-beech-veneer-dark-brown-stained-kilanda-light-beige-s49602354/
+Category: Dining sets up to 4 seats
+Description: , 471/4"
+
+# @OFFER
+Price: 439.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Particleboard, Clear acrylic lacquer, Fiberboard, Paper foil, Beech veneer, Stain, Clear lacquer, Under frame/ Leg: Solid wood, Adhesive, Stain, Clear acrylic lacquer, Smolder resistant lining/ Seat lining: Polyester wadding
+Features: Recommended for indoor use only. | Seats 4. | Removable, washable cover
+Care: Removable cover: Machine wash warm, normal cycle. | Removable cover: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/naesinge-naesinge-table-and-4-chairs-dark-brown-stained-beech-veneer-dark-brown-stained-kilanda-light-beige__1427891_pe980625_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

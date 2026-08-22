@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: EKEDALEN / KARLPETTER table and 4 chairs, dark brown/Gunnared medium grey chrome plated
+SKU: 89481802
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ekedalen-karlpetter-table-and-4-chairs-dark-brown-gunnared-medium-grey-chrome-plated-s89481802/
+Category: Dining sets up to 4 seats
+Description: , 471/4/707/8x311/2" You can comfortably seat people at the shorter sides of the table as there are no legs that get in the way.
+
+# @OFFER
+Price: 639.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top/ Extension leaf: Particleboard, Ash veneer, Stain, Clear acrylic lacquer, Ash veneer, Underframe: Solid birch, Solid pine, Solid beech, Ash veneer, Stain, Clear acrylic lacquer, Leg: Plywood, Ash veneer, Stain, Tinted clear acrylic lacquer
+Features: Recommended for indoor use only.
+Care: Chair: Wipe clean with a mild soapy solution. | Chair: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ekedalen-karlpetter-table-and-4-chairs-dark-brown-gunnared-medium-grey-chrome-plated__1125843_pe875534_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

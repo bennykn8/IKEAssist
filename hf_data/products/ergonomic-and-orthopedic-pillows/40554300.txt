@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: RAMSLÖKSMAL ergonomic pillow, multi position
+SKU: 40554300
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ramsloeksmal-ergonomic-pillow-multi-position-40554300/
+Category: Ergonomic & orthopedic pillows
+Description: , 16x20" Ergonomic pillow with adaptable 3-layer memory foam structure suitable for all sleeping preferences. The cooling gel/fabric on one side gives you a cool and soothing sleeping surface.
+
+# @OFFER
+Price: 69.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top fabric: 56 % polyester (100% recycled), 44 % viscose/rayon, Back fabric: 99 % polyester (100% recycled), 1% elastane, Inner fabric/ Piping: 100 % polyester (100% recycled)
+Dimensions: Height of the higher side of the pillow is 5⅛ in.
+Features: Height of the lower side of the pillow is 3⅞ in.
+Care: Pillow: Do not wash. | Pillow: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ramsloeksmal-ergonomic-pillow-multi-position__1185624_pe898490_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

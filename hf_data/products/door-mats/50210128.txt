@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TRIABO door mat, natural
+SKU: 50210128
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/triabo-door-mat-natural-50210128/
+Category: Door mats
+Description: , 1'4"x2'4" These printed words on the door mat always make you feel welcome when arriving home. Made of coconut fibers that withstand wear and tear – making this perfect to have by the entrance in th...
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Use surface: 99.5 % coir, 0.5 % polyethylene, Backing: Latex
+Features: The rug is machine-tufted. | Only for indoor use.
+Care: Do not wash. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/triabo-door-mat-natural__0473893_pe614804_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

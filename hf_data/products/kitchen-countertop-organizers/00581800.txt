@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: KANELMOTT vegetable/fruit basket, set of 2, bamboo
+SKU: 00581800
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kanelmott-vegetable-fruit-basket-set-of-2-bamboo-00581800/
+Category: Kitchen countertop organizers
+Description: Fill this lovely rattan and bamboo basket with fruit and vegetables – and leave it on display in your kitchen. Natural air circulation and separate storage tiers extend shelf-life and reduce food wast...
+
+# @OFFER
+Price: 39.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Upper body: Bamboo, Rattan, Clear acrylic lacquer, Thread: 100 % polyester
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kanelmott-vegetable-fruit-basket-set-of-2-bamboo__1301419_pe937412_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: TORNVIKEN kitchen island, gray/oak
+SKU: 80393372
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tornviken-kitchen-island-gray-oak-80393372/
+Category: Kitchen islands & carts
+Description: , 495/8x303/8" The TORNVIKEN series is ideal when you need more workspace, more storage ‒ more kitchen. Combine a kitchen island with shelves to create a rustic kitchen where you can cook together. Ev...
+
+# @OFFER
+Price: 399.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Work top: Particleboard, Thick oak veneer, Oil-acrylic, Side panel/ Bottom rail: Fiberboard, Acrylic paint, Leg: Particleboard, Solid wood, Thick beech veneer, Thick birch veneer, Acrylic paint
+Care: Wipe clean with a dry cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tornviken-kitchen-island-gray-oak__0736816_pe740759_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

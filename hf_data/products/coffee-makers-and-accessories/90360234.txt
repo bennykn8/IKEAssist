@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ÖVERST metal coffee filter, stainless steel
+SKU: 90360234
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/oeverst-metal-coffee-filter-stainless-steel-90360234/
+Category: Coffee makers & accessories
+Description: A filter that you can use pretty much forever. For those who are both coffee lovers and nature lovers at heart. With ÖVERST you don’t have to use paper filters and save both trees and money.
+
+# @OFFER
+Price: 17.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Stainless steel
+Features: Wash this product before using it for the first time.
+Care: Dishwasher-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/oeverst-metal-coffee-filter-stainless-steel__0713452_pe729528_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

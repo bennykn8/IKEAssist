@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VARDAGEN paring knife, stainless steel/walnut
+SKU: 20602477
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vardagen-paring-knife-stainless-steel-walnut-20602477/
+Category: Kitchen knives
+Description: , 4" The VARDAGEN knives have good balance, are durable and stay sharp for a long time. This small knife comes with a comfy handle in dark walnut, perfect for peeling fruit and trimming vegetables.
+
+# @OFFER
+Price: 12.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Blade/ Rivet: Stainless steel, Handle: Solid walnut, Oil
+Features: Wash this product before using it for the first time.
+Care: Sharpen the knife at regular intervals to restore its shape. | Handwash only.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vardagen-paring-knife-stainless-steel-walnut__1399103_pe968252_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SMYCKA artificial bouquet, indoor/outdoor green, 12 ¼"
+SKU: 40461136
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/smycka-artificial-bouquet-indoor-outdoor-green-40461136/
+Category: Faux flower bouquets
+Description: Imagine always having a fresh-looking bouquet without the cost or maintenance. These flowers look so real you can almost smell them. There’s a wide choice so you can rearrange now and again for a new ...
+
+# @OFFER
+Price: 3.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % polyester (100% recycled), Polyethylene plastic (min. 50% recycled), Paint
+Features: Suitable for indoor and outdoor use.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/smycka-artificial-bouquet-indoor-outdoor-green__0817337_pe773968_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

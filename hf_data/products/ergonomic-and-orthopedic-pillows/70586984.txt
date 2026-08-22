@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: PAPEGOJBUSKE ergonomic pillow, side/back sleeper
+SKU: 70586984
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/papegojbuske-ergonomic-pillow-side-back-sleeper-70586984/
+Category: Ergonomic & orthopedic pillows
+Description: , 13x18" An ergonomic, foam-filled pillow, shaped for a healthy sleep. Varying heights make it suitable for both side and back sleepers, and the shape provides good support for the head, neck and shou...
+
+# @OFFER
+Price: 11.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Ticking/ Fabric: 100 % polyester (100% recycled), Filling: Polyurethane  foam
+Features: Fits ROSENSKÄRM pillowcase for ergonomic pillow. | The foam in this pillow will turn yellow when it is exposed to oxygen in the air. This process is natural and inevitable.
+Care: Pillow: Do not wash. | Pillow: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/papegojbuske-ergonomic-pillow-side-back-sleeper__1159529_pe888528_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: HONUNGSPALM plant pot, indoor/outdoor/green, 7 ½"
+SKU: 60595795
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/honungspalm-plant-pot-indoor-outdoor-green-60595795/
+Category: Indoor plant pots
+Description: This plant pot’s soft tactile pattern and green glaze with natural color variations all adds a new style to plants and homes. Nice to mix with pots in other colors and sizes from the HONUNGSPALM serie...
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Stoneware, Pigmented glaze, Silicone treatment
+Features: Suitable for indoor and outdoor use. | Reactive glaze gives each plant pot a handcrafted and unique look, this is natural and adds to the charm of the product. | To prevent surface scratches, complete with TRIXIG stick-on floor protectors, sold separately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/honungspalm-plant-pot-indoor-outdoor-green__1386922_pe964043_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

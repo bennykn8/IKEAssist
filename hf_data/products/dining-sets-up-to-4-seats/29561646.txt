@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SKANSNÄS / GRÖNSTA table and 4 chairs, with armrest brown/turquoise
+SKU: 29561646
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/skansnaes-groensta-table-and-4-chairs-with-armrest-brown-turquoise-s29561646/
+Category: Dining sets up to 4 seats
+Description: , 451/4/667/8" 4-seat dining set with modern flair including brown-stained wooden table that extends to seat 6, and chairs with molded seat shell with flexing back and relaxing armrests, shaped to emb...
+
+# @OFFER
+Price: 1079
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Particleboard, Solid beech, Adhesive, Thick beech veneer, Stain, Tinted clear acrylic lacquer, Top rail/ Side rail: Solid beech, Particleboard, Adhesive, Thick beech veneer, Stain, Tinted clear acrylic lacquer, Extension rail: Solid beech, Stain, Tinted clear acrylic lacquer
+Features: Recommended for indoor use only. | Seats 4-6. | To prevent surface scratches, complete with TRIXIG stick-on floor protectors, sold separately.
+Care: For increased stability, re-tighten the screws about two weeks after assembly and when necessary. | Table: Wipe clean using a damp cloth and a mild cleaner.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/skansnaes-groensta-table-and-4-chairs-with-armrest-brown-turquoise__1333637_pe946520_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

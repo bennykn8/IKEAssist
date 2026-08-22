@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: UTVISNING gaming desk with shelf, black
+SKU: 40586400
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/utvisning-gaming-desk-with-shelf-black-40586400/
+Category: Gaming Desks
+Description: , 471/4x235/8" This gaming desk is perfect for creating a compact space for playing. Height adjustment, cable management, a shelf for monitors and a computer tower solution – all designed so you can f...
+
+# @OFFER
+Price: 169.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel: Particleboard, Fiberboard, Paper foil, Polycarbonate/ABS plastic, Shelf: Particleboard, Paper foil, Polycarbonate/ABS plastic, Frame/ Ladder frame/ Cable management: Steel, Epoxy/polyester powder coating
+Features: Max. load for straps: 20 kg. | Max. size of computer tower: W21.9"/H51.9"/D50 cm. | Max. load/shelf: 20 kg.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/utvisning-gaming-desk-with-shelf-black__1336683_pe947436_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

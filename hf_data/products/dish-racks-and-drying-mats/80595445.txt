@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: RINNIG sink container, black
+SKU: 80595445
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/rinnig-sink-container-black-80595445/
+Category: Dish racks & drying mats
+Description: This practical container helps you keep things organized in or near the sink. Here you can have a dish sponge, brush or anything else you use often and want close at hand. Simple, neat and tidy. Takes...
+
+# @OFFER
+Price: 1.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Body: Polypropylene, Suction cup: Thermoplastic elastomer
+Features: Only sticks on flat surfaces such as glass, mirrors, and tiles. | Max. load 1 lbs | Clean the surface before mounting the suction cup to ensure better grip.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/rinnig-sink-container-black__1407241_pe971450_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

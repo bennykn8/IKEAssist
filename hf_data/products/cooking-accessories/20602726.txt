@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HEAT trivet, dark brown
+SKU: 20602726
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/heat-trivet-dark-brown-20602726/
+Category: Cooking accessories
+Description: , 11" This dark brown pot stand suits most pots, pans, and ovenware. Perfect to keep on the table – and also use as a table tray for bottles of oil, vinegar, herbs and spices. This large pot stand is ...
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Cork
+Features: Air dry the cork before use to remove any earthy scent.
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/heat-trivet-dark-brown__1398991_pe968220_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

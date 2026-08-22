@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SYRLIG curtain ring with clip and hook, brass color
+SKU: 10495208
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/syrlig-curtain-ring-with-clip-and-hook-brass-color-10495208/
+Category: Curtain hardware: rod brackets, hooks & finials
+Description: , 11/2" These brass-colored curtain rings slide easily on the curtain rod. Choose if you want to attach them to your curtain with clips or hooks – it’s all included.
+
+# @OFFER
+Price: 10
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Ring/ Hook/ Clip: Steel, Nickel plated, Metallized, Metallized, Lining: Polyethylene
+Dimensions: Available in two sizes. To be able to pull the curtain easily, ensure that you choose a ring diameter that is larger than the curtain rod diameter.
+Features: Includes: 10 rings (dia. 1½"), 10 clips with hooks and 10 hooks. | RIKTIG curtain hooks are sold separately. | Possible to separate for recycling or energy recovery if available in your community.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/syrlig-curtain-ring-with-clip-and-hook-brass-color__0924321_pe788544_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BARNDRÖM box, set of 3, green blue/beige, 6 ¾x10 ¾x6 ¾"
+SKU: 20560627
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/barndroem-box-set-of-3-green-blue-beige-20560627/
+Category: Kids boxes & baskets
+Description: These 3 boxes help your child to stay organized and find their things while learning to recognize numbers and count from 1 to 6. Made of 100% recycled and durable polyester. Can be folded to save spac...
+
+# @OFFER
+Price: 14.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100% polyester (min. 90% recycled), Insert: Polypropylene
+Features: Comprises: 3 boxes with the numbers 1-3 on one side and the numbers 4-6 on the other.
+Care: Hand wash warm water. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/barndroem-box-set-of-3-green-blue-beige__1177114_pe895243_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

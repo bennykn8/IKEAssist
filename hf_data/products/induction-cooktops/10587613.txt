@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: NEDERSTA induction cooktop, black
+SKU: 10587613
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/nedersta-induction-cooktop-black-10587613/
+Category: Induction cooktops
+Description: , 36" This wide induction cooktop offers an extra-large heating element for your largest pots, and auto-sizing in all 5 zones for energy-efficient heating that adapts to the different sizes of your co...
+
+# @OFFER
+Price: 799
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Features: 5 induction cooking zones with power booster (P): | Left front: 7 1/16" – 2000W, booster 3000W. | Left rear: 7 1/16" – 2000W, booster 3000W.
+Care: Do not use scouring-powder, steel wool, hard or sharp tools which can scratch the surface. | Remove stains and food residue after each use using a cloth damped with warm water and a mild detergent.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/nedersta-induction-cooktop-black__1384248_pe962930_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

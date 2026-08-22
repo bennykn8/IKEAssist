@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ENHET legs f cabinet, white
+SKU: 60514426
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/enhet-legs-f-cabinet-white-60514426/
+Category: ENHET legs & plinths
+Description: , 41/2" ENHET series makes it easy to start fresh with a new kitchen solution. These legs increase the stability of the base/high cabinets. Cover them up with a plinth or keep the look nice and airy -...
+
+# @OFFER
+Price: 9
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Tube: Steel, Powder coating, Foot: Polypropylene plastic (min. 20% recycled), Plate: Steel, Powder coating, Galvanized steel
+Features: May be completed with ENHET toekick, sold separately. | Fits ENHET base and high cabinets.
+Care: Wipe clean with a mild soapy solution. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/enhet-legs-f-cabinet-white__1047226_pe843320_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

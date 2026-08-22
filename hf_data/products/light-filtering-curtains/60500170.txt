@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GUNNLAUG sound absorbing curtain, white
+SKU: 60500170
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/gunnlaug-sound-absorbing-curtain-white-60500170/
+Category: Light filtering curtains
+Description: , 57x98" GUNNLAUG sound absorbing curtain has many functions. It is stylish, filters out light and softens sound caused by everyday activities like clattering of dishes, clangour of cutlery or screech...
+
+# @OFFER
+Price: 49.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % polyester (100% recycled)
+Features: Curtains, 1 pair included | Enhance the sound environment in your home even more by combining GUNNLAUG sound absorbent curtains with other materials like rugs, textiles, furniture, upholstered furniture, beds, and cushions. | For effective sound absorbency, drape the curtain with folds, 3½-5⅞" from the wall.
+Care: Machine wash, warm, durable-press cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/gunnlaug-sound-absorbing-curtain-white__0973005_pe811858_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KLOTLÖNN plant pot with saucer, indoor/outdoor/gray/beige, 4 ¾"
+SKU: 30584010
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/klotloenn-plant-pot-with-saucer-indoor-outdoor-gray-beige-30584010/
+Category: Indoor plant pots
+Description: Easy to love, reliable and durable. KLOTLÖNN plant pot and saucer has a simple and timeless design that suits many rooms and decors. A fantastic everyday pot that you can use both indoors and outdoors...
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Stoneware
+Features: The plant pot and the saucer are sold together. | Suitable for indoor and outdoor use. | May be completed with FEJKA artificial potted plants that are lifelike and stay fresh year after year.
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/klotloenn-plant-pot-with-saucer-indoor-outdoor-gray-beige__1317743_pe940701_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

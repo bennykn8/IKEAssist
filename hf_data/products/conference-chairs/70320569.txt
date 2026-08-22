@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LÅNGFJÄLL pair of armrests, white
+SKU: 70320569
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/langfjaell-pair-of-armrests-white-70320569/
+Category: Conference chairs
+Description: Complete LÅNGFJÄLL conference chair with these armrests. They’re comfortable to rest your arms on, help you enjoy a more relaxed position and reduce tension in your shoulders and neck during long meet...
+
+# @OFFER
+Price: 30
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Aluminum, Epoxy/polyester powder coating
+Features: Fits LÅNGFJÄLL swivel chairs.
+Care: Wipe clean with a water dampened cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/langfjaell-pair-of-armrests-white__0726706_pe735395_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

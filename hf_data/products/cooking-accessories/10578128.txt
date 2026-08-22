@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KLOCKREN universal lid, set of 3, silicone
+SKU: 10578128
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/klockren-universal-lid-set-of-3-silicone-10578128/
+Category: Cooking accessories
+Description: These silicone lids is your all-purpose solution in the kitchen. They fit all our pots and pans, can be used on the cooktop, in the oven/microwave and fridge/freezer - and yes, they can also be machin...
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Silicone rubber
+Features: Includes: 3 silicone lids (Ø8¼",Ø9⅞", and Ø11⅜").
+Care: Microwave-safe. | Freezer-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/klockren-universal-lid-set-of-3-silicone__0791108_pe764513_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GUTTANE side table, oak
+SKU: 80587718
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/guttane-side-table-oak-80587718/
+Category: End tables & side tables
+Description: , 227/8x153/8" GUTTANE side table made its debut in our 1963 catalogue. Then with the name NOVETTE. An example of a simple yet elegant shape now given a new life in Nytillverkad collection. Goes perfe...
+
+# @OFFER
+Price: 119.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Particleboard, Oak veneer, Oak veneer, Oak veneer, Oil-acrylic, Side rail/ Leg: Solid oak, Oil-acrylic, Joint: Solid beech, Solid oak
+Features: Max load on table top: 55 lbs..
+Care: Table: Wipe clean with a damp cloth. | Table: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/guttane-side-table-oak__1369163_pe958056_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

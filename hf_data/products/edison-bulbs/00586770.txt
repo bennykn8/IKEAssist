@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: MOLNART LED bulb E26 150 lumen, cylinder glass/stripe
+SKU: 00586770
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/molnart-led-bulb-e26-150-lumen-cylinder-glass-stripe-00586770/
+Category: Edison bulbs
+Description: , 4" Double up. Here, the opal-white LED bulb is protected by an open glass cylinder in grooved clear glass that creates decorative light reflections as soon as you turn it on. The light bulb is not d...
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Glass
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/molnart-led-bulb-e26-150-lumen-cylinder-glass-stripe__1286487_pe933571_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

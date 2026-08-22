@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: RINNIG dish brush, gray
+SKU: 30407814
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/rinnig-dish-brush-gray-30407814/
+Category: Dish cloths, sponges, rags & more
+Description: Rub, brush, wash and scrub – that's the tune of the RINNIG series. Here you’ll find everything you need to take care of dirt, spills and splashes to keep your kitchen sparkling clean. With a smile! Th...
+
+# @OFFER
+Price: 1.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Handle: Polypropylene plastic (min. 20% recycled), Brush: Polyester, Suction cup: Synthetic rubber
+Care: Dishwasher-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/rinnig-dish-brush-gray__0666327_pe713521_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

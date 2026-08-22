@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VIHALS day-bed frame with storage, white, Twin
+SKU: 09571590
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vihals-day-bed-frame-with-storage-white-s09571590/
+Category: Daybeds
+Description: VIHALS daybed offers both 1 sleeping place and storage. A smart solution for small spaces that adapts to your needs and matches the other pieces of furniture in the series. A versatile solution that f...
+
+# @OFFER
+Price: 229
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Bedside/ Back panel: Particleboard, Fiberboard, Honeycomb structure paper filling (100% recycled), Acrylic paint, Acrylic paint, Plastic edging, Front rail: Particleboard, Fiberboard, Acrylic paint, Acrylic paint, Plastic edging, Bed slats: Layer-glued wood veneer, Adhesive resin as coating
+Features: Slatted bed base is included. | Mattress and bedlinens are sold separately.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vihals-day-bed-frame-with-storage-white__1426644_pe979884_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

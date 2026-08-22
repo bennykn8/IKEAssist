@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LANEBERG extendable table, white
+SKU: 60416138
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/laneberg-extendable-table-white-60416138/
+Category: Extendable tables
+Description: , 511/8/743/4x311/2" The simple design of this dining table will blend seamlessly into your dining area. And the smooth and simple extension lets you extend your dinner invitation without worrying abo...
+
+# @OFFER
+Price: 229.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Particleboard, Ash veneer, Stain, Clear acrylic lacquer, Underframe: Solid pine, Solid birch, Adhesive, Ash veneer, Stain, Clear acrylic lacquer, Leg: Particleboard, Adhesive, Ash veneer, Stain, Clear acrylic lacquer
+Features: Recommended for indoor use only. | Seats 4-6. | One extension leaf included.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/laneberg-extendable-table-white__0722925_pe733775_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

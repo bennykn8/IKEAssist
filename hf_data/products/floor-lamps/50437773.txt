@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SIMRISHAMN floor lamp, chrome plated/opal glass
+SKU: 50437773
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/simrishamn-floor-lamp-chrome-plated-opal-glass-50437773/
+Category: Floor lamps
+Description: A stylish glass and chrome lamp from the SIMRISHAMN series. Modern lighting for an entire home that creates a nice atmosphere. Use it as a standalone eye-catcher or mix it with other lamps in the seri...
+
+# @OFFER
+Price: 149.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Base/ Tube/ Lampholder cup: Steel, Chrome plated, Weight: Reinforced EVA plastic, Shade: Glass, Paint
+Features: Light bulbs sold separately. IKEA recommends LED bulb E12 globe opal white (3 pcs).
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/simrishamn-floor-lamp-chrome-plated-opal-glass__0789445_pe763989_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

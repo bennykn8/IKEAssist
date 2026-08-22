@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: EKERÖ armchair, Bomstad black
+SKU: 30494590
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ekeroe-armchair-bomstad-black-30494590/
+Category: Leather armchairs
+Description: Go for stylish dark tones or brighten up your home with colorful covers. EKERÖ armchair has a sleek, modern look with two side pieces that meet in the back – and lumbar support for added comfort! The ...
+
+# @OFFER
+Price: 299
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Supporting fabric: 100 % polypropylene, Coated fabric parts: 100 % polyurethane, 75 % polyester, 25 % cotton, Frame: Particleboard, Plywood, Polyurethane foam 1.5 lb/cu.ft., Laminated veneer lumber, Solid wood, Fiberboard
+Care: Clean with a dust cloth or vacuum lightly using the soft brush attachment. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ekeroe-armchair-bomstad-black__0951654_pe801302_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

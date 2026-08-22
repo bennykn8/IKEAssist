@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MALMBÄCK Display shelf, white
+SKU: 20446236
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/malmbaeck-display-shelf-white-20446236/
+Category: Display shelves & picture ledges
+Description: . Of course the things you like you want on display. This display shelf is a perfect way to show paintings, photos and other favorite items.
+
+# @OFFER
+Price: 16.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Powder coating
+Features: Screws and any other fasteners you might need to attach your solution securely to the wall (e.g. wall anchors) are not included. | Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Can be fixed with suitable screws/fittings from our TRIXIG series.
+Care: Clean with a duster.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/malmbaeck-display-shelf-white__0689491_pe722994_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

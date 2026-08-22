@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SKUGGSTUBB mug, mixed colors brown/green, 14 oz
+SKU: 30594716
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/skuggstubb-mug-mixed-colors-brown-green-30594716/
+Category: Coffee mugs & tea cups
+Description: This colored glass mug makes the moment with your favorite coffee, tea or hot chocolate feel a little extra luxurious. Available in 2 matching color combinations. Choose the one you like best – or mix...
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Heat resistant glass
+Features: Wash this product before using it for the first time. | Can be used for both cold and hot beverages.
+Care: Microwave-safe. | Dishwasher-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/skuggstubb-mug-mixed-colors-brown-green__1362442_pe955230_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

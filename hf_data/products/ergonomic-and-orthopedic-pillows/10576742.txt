@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: ISRANUNKEL ergonomic pillow, multi position
+SKU: 10576742
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/isranunkel-ergonomic-pillow-multi-position-10576742/
+Category: Ergonomic & orthopedic pillows
+Description: , 16x28" Wrap your arms around this ergonomic pillow – the huggable butterfly design accommodates all sleeping positions and the soft memory foam provides good support and comfort for a restful sleep....
+
+# @OFFER
+Price: 39.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Cover/ Piping: 100 % polyester (100% recycled), Filling: Polyurethane memory foam.
+Dimensions: Height of the lower side of the pillow is 3½ in.
+Features: Height of the higher side of the pillow is 4¾ in.
+Care: Pillow: Do not wash. | Pillow: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/isranunkel-ergonomic-pillow-multi-position__1268134_pe928636_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: TONSTAD 6-drawer dresser, off-white
+SKU: 40614629
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tonstad-6-drawer-dresser-off-white-40614629/
+Category: Dressers & chests of drawers
+Description: , 471/4x181/2x357/8" This wide chest of drawers has 2 smaller and 4 larger drawers where you can neatly organize your things. The integrated handles have clean lines and is an elegant detail that give...
+
+# @OFFER
+Price: 329.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Side panel: Particleboard, Acrylic paint, Plastic edging, Bottom panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Acrylic paint, Plastic edging, Partition: Particleboard, Paper foil, Plastic edging
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tonstad-6-drawer-dresser-off-white__1287768_pe933966_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

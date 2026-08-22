@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VIDGA curtain track set f ceiling, 2 trck, white
+SKU: 49571507
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vidga-curtain-track-set-f-ceiling-2-trck-white-s49571507/
+Category: Curtain track systems for ceiling & walls
+Description: Everything you need to create a 2-layer solution with optimal distance between curtains for easy glide. Track rails, ceiling brackets, gliders, hooks and fittings for easy rail attachment are included...
+
+# @OFFER
+Price: 60
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Aluminum, Epoxy/polyester powder coating, Ceiling bracket: Steel, Epoxy/polyester powder coating, Cover cap: Polypropylene
+Dimensions: Comprises: 2 single track rails (length, 55.12 inches) including 4 ceiling fittings, 4 ceiling brackets for 2 curtain rails and 3 glider/hook packages (24 gliders and 24 hooks per package).
+Features: In the IKEA store, each article in this solution is sold separately. Some articles may comprise more than one component in the same package. | When mounting ceiling brackets/fittings ensure a distance from the wall to allow opening/closing your curtain without obstacles like a protruding window sill, radiator or window handle getting in the way. | 12-16 gliders and hooks are required per curtain depending on its width and whether you want narrower or fuller folds in the pleats. Double the amount for a curtain pair. See details on curtain package.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vidga-curtain-track-set-f-ceiling-2-trck-white__1366433_pe957026_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

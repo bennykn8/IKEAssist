@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: BLÅVINGAD storage bag, ocean animals pattern/multicolor
+SKU: 10528379
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/blavingad-storage-bag-ocean-animals-pattern-multicolor-10528379/
+Category: Kids boxes & baskets
+Description: Getting your child to tidy up can be a challenge. Maybe this bag can help? Adorned with marine animals and made of recycled polyester from plastic picked up from along coastlines. So sturdy that it st...
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100 % polyester (100% recycled), Backing: 100 % PEVA plastic
+Care: Shrinkage maximum 4%. | Hand wash warm water.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/blavingad-storage-bag-ocean-animals-pattern-multicolor__1088374_pe861112_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HELMER Drawer unit on casters, white
+SKU: 10251045
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/helmer-drawer-unit-on-casters-white-10251045/
+Category: Drawer units for home
+Description: , 11x27 1/8". Slot for label on each drawer so you can easily keep things organized and find what you are looking for. Drawer stops prevent the drawer from being pulled out too far.
+
+# @OFFER
+Price: 79.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Epoxy/polyester powder coating
+Features: The drawer holds letter size papers.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/helmer-drawer-unit-on-casters-white__0175264_pe328644_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ELDFLUGA bed tent, blue/green
+SKU: 30542119
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/eldfluga-bed-tent-blue-green-30542119/
+Category: Kids bed tents & canopies
+Description: , 70/97 With this tent, you can quickly and easily create a screened-off nook on your child's bed – regardless if it’s 70, 80 or 90 cm wide. And your child can easily close and open the cozy nest on t...
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100% polyester (min. 90% recycled), Inside frame: Polypropylene, Glass fiber reinforced polyester, Polyethylene
+Features: Dimensioned to fit 27½" and 38¼" wide beds. Do not use in a crib.
+Care: Hand wash warm water. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/eldfluga-bed-tent-blue-green__1160648_pe889034_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

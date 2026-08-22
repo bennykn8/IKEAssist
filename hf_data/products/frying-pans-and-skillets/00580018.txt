@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HEMKOMST frying pan, stainless steel
+SKU: 00580018
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hemkomst-frying-pan-stainless-steel-00580018/
+Category: Frying pans & skillets
+Description: , 11" Dinner is served. There is nothing like home-cooked food made with love. This classic frying pan in stainless steel makes it easy to cook your favorites at home – and wash up after everyone is f...
+
+# @OFFER
+Price: 29.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Handle: Stainless steel, Main parts: Stainless steel, Aluminum
+Features: The frying pan does not have a non-stick coating. For best frying result, first put the pan on high heat and then lower the temperature by half when you cook the food. | Wash this product before using it for the first time. | If you grease the pan with oil or butter when frying, it will give you even better cooking results.
+Care: Dishwasher-safe. | Suitable for use on gas cooktop.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hemkomst-frying-pan-stainless-steel__1172422_pe893310_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KORKEN bottle-shaped jar with lid, clear glass, 47 oz
+SKU: 60577975
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/korken-bottle-shaped-jar-with-lid-clear-glass-60577975/
+Category: Jars & tins
+Description: KORKEN series is ideal for preserving pickles and jams, serving beverages or keeping your cookies crunchy. The airtight seal locks in all the goodness. The airtight seal helps food retain its flavor a...
+
+# @OFFER
+Price: 3.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Body/ Lid: Glass, Wire: Stainless steel, Seal: Natural rubber
+Features: To prolong the life of KORKEN, rubber gaskets are available for spare part orders (art. 10107957) online or via customer service.
+Care: If you want to sterilize the bottle with hot water, preheat the bottle first with warm tap water. This prevents the glass from cracking. | Dishwasher-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/korken-bottle-shaped-jar-with-lid-clear-glass__1152258_pe885224_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

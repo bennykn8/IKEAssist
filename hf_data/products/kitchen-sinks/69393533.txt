@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: OLOFSJÖN countertop with 1 integrated sink, stainless steel
+SKU: 69393533
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/olofsjoen-countertop-with-1-integrated-sink-stainless-steel-s69393533/
+Category: Kitchen sinks
+Description: , 48x255/8" 25-year Limited Warranty. Read about the terms in the Limited Warranty brochure. Suitable for use in the kitchen and laundry room. Sink in stainless steel, a hygienic, strong and durable m...
+
+# @OFFER
+Price: 335
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Lid: Stainless steel, Seal: Polyethylene foam, Magnet: Steel
+Features: LILLVIKEN strainer is included in the price, but packaged separately. | LILLVIKEN lid is included in the price, but packaged separately. | When stainless steel is new, it is natural that the first scratches are visible. They become less visible over time as the material is used and gets a more matte tone.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/olofsjoen-countertop-with-1-integrated-sink-stainless-steel__1056790_pe848560_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

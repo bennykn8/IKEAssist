@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KNORRHANE deep spoon for cooking, dark gray-brown/red-brown
+SKU: 30599672
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/knorrhane-deep-spoon-for-cooking-dark-gray-brown-red-brown-30599672/
+Category: Cooking & baking utensils
+Description: , 121/4" KNORRHANE utensils feature a colorful and modern design with smart functions. This deep spoon with a generous cup is just as suitable for cooking as it is for serving your delicious soups and...
+
+# @OFFER
+Price: 3.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Handle: Reinforced polyamide, Lower part: Silicone rubber
+Features: Wash this product before using it for the first time.
+Care: Dishwasher-safe. | Withstands temperatures up to 428°F.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/knorrhane-deep-spoon-for-cooking-dark-gray-brown-red-brown__1399069_pe968237_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

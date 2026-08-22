@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BRÄNNBOLL Open storage unit on casters, white
+SKU: 60586258
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/braennboll-open-storage-unit-on-casters-white-60586258/
+Category: Gaming accessories
+Description: , 22x243/8" In this shelving unit you can gather and organize consoles, controllers, headphones and everything else you need for gaming. And when it's time to play, you simply roll everything to your ...
+
+# @OFFER
+Price: 89.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame/ Partition: Steel, Steel, Epoxy/polyester powder coating, Hook/ Box: Steel, Epoxy/polyester powder coating, Elastic strap: 100 % polyester
+Features: Max. load/shelf: 33 lbs. | Max. load/shelf: 4.4 lbs. | Max. load, hanging horizontally: 4 lbs.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/braennboll-open-storage-unit-on-casters-white__1336717_pe947454_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

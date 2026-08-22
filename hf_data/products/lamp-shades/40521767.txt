@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: JAKOBSBYN pendant lamp shade, silver color
+SKU: 40521767
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/jakobsbyn-pendant-lamp-shade-silver-color-40521767/
+Category: Lamp shades
+Description: , 12" This modern lampshade with a mirror finish spreads a soft light that creates a nice atmosphere. Combine it with a matching cord set and hang it over a coffee table or in a dark corner of the roo...
+
+# @OFFER
+Price: 39.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Glassware: Glass, Surface coating: Metallized
+Features: Cord set is sold separately. | Light bulb sold separately. | You position the lampshade to hang straight by adjusting the cord set/cord.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/jakobsbyn-pendant-lamp-shade-silver-color__1027298_pe834842_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

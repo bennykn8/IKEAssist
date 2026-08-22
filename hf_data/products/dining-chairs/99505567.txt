@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LIDÅS chair, black/Sefast chrome plated
+SKU: 99505567
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lidas-chair-black-sefast-chrome-plated-s99505567/
+Category: Dining chairs
+Description: You sit comfortably thanks to the scooped seat and restful flexibility of the backrest. The material wipes clean in an instant. Choose your favorite color for a personal look or why not mix colors? Ea...
+
+# @OFFER
+Price: 65
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Reinforced polypropylene, Steel, Chrome plated
+Features: Recommended for indoor use only.
+Care: Wipe clean using a damp cloth and a mild cleaner. | For increased stability, re-tighten the screws about two weeks after assembly and when necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lidas-chair-black-sefast-chrome-plated__1167047_pe891349_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

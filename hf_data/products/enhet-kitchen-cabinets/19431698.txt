@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ENHET corner base cabinet with shelf/door, white/oak effect
+SKU: 19431698
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/enhet-corner-base-cabinet-with-shelf-door-white-oak-effect-s19431698/
+Category: ENHET kitchen cabinets
+Description: ENHET series makes it easy to start fresh with a new kitchen solution. This corner cabinet has plenty of room for pots and small appliances. The oak-effect door creates a warm and lively expression.
+
+# @OFFER
+Price: 187
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Side panel/ Bottom panel/ Shelf: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Plastic foil, Plastic edging, Back rail/ Top rail: Particleboard, Plastic foil, Plastic edging, Particleboard, Plastic foil, Plastic edging
+Features: Must be secured to the wall for a safe installation. Different wall materials require different types of fixing devices. Use fixing devices suitable for the walls in your home, sold separately. | Must be completed with three ENHET cabinet legs, sold separately. | Screws for fixing the countertop to the base cabinet included.
+Care: Wipe dry with a clean cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/enhet-corner-base-cabinet-with-shelf-door-white-oak-effect__1049104_pe844053_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

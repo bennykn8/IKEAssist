@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KUNGSFORS Rail, stainless steel, Length: 15 ¾" Diameter: ½"
+SKU: 00442499
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kungsfors-rail-stainless-steel-00442499/
+Category: Kitchen wall organizers
+Description: . Inspired by professionals, but adapted for you. Just like in a restaurant kitchen, we’ve focused on durable materials and smart wall storage that provides the space needed for all creative home cook...
+
+# @OFFER
+Price: 6
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Tube: Stainless steel, Stainless steel, Insert nut/ Bracket: Stainless steel
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | If you are uncertain about what type of mounting devices to use, please contact your local hardware store. | Use the included wall brackets for wall mounting.
+Care: Wipe clean with a soft cloth dampened with water and a mild dish detergent or soap, if necessary. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kungsfors-rail-stainless-steel__0681621_pe720208_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

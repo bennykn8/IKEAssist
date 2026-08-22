@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ÄNGSNEJLIKA duvet cover and pillowcase(s), gray-beige/off-white, King
+SKU: 60585329
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/aengsnejlika-duvet-cover-and-pillowcase-s-gray-beige-off-white-60585329/
+Category: Duvet covers & duvet cover sets
+Description: Duvet cover set with graphic pattern in easy-to-coordinate grey-beige/off-white tones. The dense percale quality and fine cotton/viscose yarn make the fabric cool, crisp and soft. Pillowcase with enve...
+
+# @OFFER
+Price: 64.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 80 % cotton, 20 % viscose/rayon
+Features: Thread count: 79 threads/cm² or 200 threads/inch². | Thread count indicates the number of threads per square cm or square inch of fabric. The higher the thread count the more densely woven the fabric.
+Care: Shrinkage maximum 4%. | Machine wash warm (max 140°F/60°C) normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/aengsnejlika-duvet-cover-and-pillowcase-s-gray-beige-off-white__1318020_pe940814_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

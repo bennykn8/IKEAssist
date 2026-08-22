@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SKRUVBY side table, white
+SKU: 80532009
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/skruvby-side-table-white-80532009/
+Category: End tables & side tables
+Description: , 153/4x125/8" The SKRUVBY series has a traditional look with solitaire pieces of furniture that can be coordinated. Look at this side table as a blank canvas, add open and closed storage and create y...
+
+# @OFFER
+Price: 59.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Bottom panel: Particleboard, Paper foil, Plastic edging, Plastic edging, Side panel/ Shelf/ Back panel: Particleboard, Paper foil
+Features: Max load on table top: 22 lbs.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/skruvby-side-table-white__1123690_pe874848_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

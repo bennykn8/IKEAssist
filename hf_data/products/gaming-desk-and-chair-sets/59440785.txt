@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FREDDE / MATCHSPEL gaming desk and chair, black
+SKU: 59440785
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/fredde-matchspel-gaming-desk-and-chair-black-s59440785/
+Category: Gaming desk & chair sets
+Description: Hang the small shelves inside or outside the side panels, depending on your needs. You can fit a 32" computer monitor or TV by removing the shelf above the table top. The casters are rubber coated to ...
+
+# @OFFER
+Price: 599.98
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame/ Support: Steel, Epoxy/polyester powder coating, Table top: Particleboard, Melamine foil, Plastic edging, Pocket: Plastic edging
+Features: Can be used with SIGNUM cable trunking to keep all cords in place. | Holds up to two 24" flat screens.
+Care: Wipe clean with a damp cloth. | Check regularly that all assembly fastenings are properly tightened and retighten when necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/fredde-matchspel-gaming-desk-and-chair-black__0985657_pe816724_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

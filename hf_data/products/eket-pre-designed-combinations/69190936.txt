@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: EKET storage combination with feet, dark gray
+SKU: 69190936
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/eket-storage-combination-with-feet-dark-gray-s69190936/
+Category: EKET pre-designed combinations
+Description: , 413/8x133/4x283/8" With the EKET series you can build your storage big, small, colorful or discreet to either display or hide your things. And if your space and needs change, you can easily change y...
+
+# @OFFER
+Price: 145
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Back panel: Fiberboard, Paper foil, Panel: Particleboard, Honeycomb structure paper filling (100% recycled), Fiberboard, Paper foil, Plastic edging, Door panel: Particleboard, Paper foil, Plastic edging, Plastic edging
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/eket-storage-combination-with-feet-dark-gray__0478413_pe617488_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

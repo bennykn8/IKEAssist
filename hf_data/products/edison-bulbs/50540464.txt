@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: MOLNART LED bulb E26 260 lumen, ellipse shaped multicolor
+SKU: 50540464
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/molnart-led-bulb-e26-260-lumen-ellipse-shaped-multicolor-50540464/
+Category: Edison bulbs
+Description: , 6" This ellipse-shaped, multi-colored LED bulb looks like a shimmering soap bubble on a sunny day when the spiral-shaped filament glows through double glass. Illuminates at full power immediately wh...
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Glass
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/molnart-led-bulb-e26-260-lumen-ellipse-shaped-multicolor__1090312_pe861973_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

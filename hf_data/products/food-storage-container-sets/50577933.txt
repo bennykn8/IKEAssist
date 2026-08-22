@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: IKEA 365+ food container with lid, square/glass, 6 oz
+SKU: 50577933
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ikea-365-food-container-with-lid-square-glass-50577933/
+Category: Food storage container sets
+Description: Eat now or later. Store and heat up food using this durable food container with lid. Stock up on several – they take up little space in the kitchen cabinet since you can stack them inside one another....
+
+# @OFFER
+Price: 5.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Jar: Heat resistant glass, Lid: Polypropylene, Seal: Silicone rubber
+Features: Don't close the lid when used in a microwave oven.
+Care: The container is oven-safe, but the lid is not. | Microwave-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ikea-365-food-container-with-lid-square-glass__0916186_pe785017_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

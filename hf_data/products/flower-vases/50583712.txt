@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KÄLLARHALS vase, orange, 10 ¼"
+SKU: 50583712
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kaellarhals-vase-orange-50583712/
+Category: Flower vases
+Description: KÄLLARHALS vases, created by the designer Anna Efverlund, were presented in our 1995 catalogue ─ then with the name SNURRA. One of many IKEA icon examples given a new life in the Nytillverkad collecti...
+
+# @OFFER
+Price: 16.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Glass, Tinted lacquer
+Features: The glass is painted.
+Care: Glass: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kaellarhals-vase-orange__1311528_pe940024_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

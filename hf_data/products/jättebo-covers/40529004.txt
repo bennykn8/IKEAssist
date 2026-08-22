@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: JÄTTEBO cover for armrest, Samsala gray-beige
+SKU: 40529004
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/jaettebo-cover-for-armrest-samsala-gray-beige-40529004/
+Category: JÄTTEBO covers
+Description: A thick and extra-wide-wale corduroy fabric that is comfortable to sit on and soft to the touch. The fabric has a deep texture and a slight luster – and can be removed and machine washed if needed.
+
+# @OFFER
+Price: 35
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % polyester (100% recycled)
+Features: This product is an extra cover. Frame is sold separately.
+Care: Removable cover: Machine wash warm, normal cycle. | Removable cover: To be washed separately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/jaettebo-cover-for-armrest-samsala-gray-beige__1109648_pe870137_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

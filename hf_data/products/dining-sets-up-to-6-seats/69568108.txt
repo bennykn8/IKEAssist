@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: DANDERYD / SKOGSTA table and 6 chairs, oak veneer white/acacia
+SKU: 69568108
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/danderyd-skogsta-table-and-6-chairs-oak-veneer-white-acacia-s69568108/
+Category: Dining sets up to 6 seats
+Description: , 707/8" 6-seat dining set with a traditional hand-crafted look and attention to detail. Wood veneer meets sturdy steel in a combination of beauty and strength that is made to suit your modern lifesty...
+
+# @OFFER
+Price: 819.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Underframe/ Leg: Steel, Epoxy/polyester powder coating, Inside leg: Steel, Table top: Particleboard, Oak veneer, Solid oak, Clear acrylic lacquer, Clear acrylic lacquer
+Features: Recommended for indoor use only. | To prevent surface scratches and the sound of chair legs scraping on the floor, add FIXA self-adhesive floor protectors, sold separately.
+Care: Table: Wipe clean using a damp cloth and a mild cleaner. | Table: For maximum quality, re-tighten the screws when necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/danderyd-skogsta-table-and-6-chairs-oak-veneer-white-acacia__1324472_pe943564_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

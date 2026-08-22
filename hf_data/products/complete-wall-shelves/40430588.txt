@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LACK Wall shelf, black-brown
+SKU: 40430588
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lack-wall-shelf-black-brown-40430588/
+Category: Complete wall shelves
+Description: , 11 3/4x10 1/4". This wall shelf has a clean design and has discreet and almost invisible mounting. The hidden suspension brackets makes it seem like it’s part of the wall - and you also don’t need t...
+
+# @OFFER
+Price: 6.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Shelf: Particleboard, Fiberboard, Plastic edging, Acrylic paint, Filling material: Honeycomb structure paper filling (min. 70% recycled)
+Features: Hidden suspension brackets are included. | Max. load 6.5 lbs. depending on type of wall and anchor. | Screws for wall mounting are not included.
+Care: Wood: Wipe clean using a damp cloth and a mild cleaner. | Wood: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lack-wall-shelf-black-brown__0670324_pe715452_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

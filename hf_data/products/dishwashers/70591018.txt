@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VINTROSA built-in dishwasher, Stainless steel
+SKU: 70591018
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vintrosa-built-in-dishwasher-stainless-steel-70591018/
+Category: Dishwashers
+Description: , 24" A dependable solution that manages the cleanup with flexible racks and room for up to 14 place settings. With 6 dish programs, you can easily select the perfect cycle based on your dish type and...
+
+# @OFFER
+Price: 699
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Dimensions: Upper basket fits plates with a diameter up to 10".
+Features: This model is designed for built-in installation. | Installation should be made by professionals in accordance with valid local safety regulations. | You will find complete information about the different programs in the manual under the tab Assembly instructions & documents.
+Care: Dishwasher: Remove stains and residue inside the dishwasher using a cloth dampened with water and a small amount of vinegar. | Dishwasher: Clean the exterior parts and control panel using a non-abrasive cloth dampened with water.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vintrosa-built-in-dishwasher-stainless-steel__1320273_pe941194_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

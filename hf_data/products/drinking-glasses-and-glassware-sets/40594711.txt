@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SKINNFISK glass, clear glass, 12 oz
+SKU: 40594711
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/skinnfisk-glass-clear-glass-40594711/
+Category: Drinking glasses & glassware sets
+Description: This stackable glass is perfect for water and soft drinks, but also holds hot beverages like coffee or tea. The elegant shape makes the glass easy to grip and it adorns its place on your set table. Ma...
+
+# @OFFER
+Price: 1.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Heat resistant glass
+Features: Wash this product before using it for the first time.
+Care: Microwave-safe. | Dishwasher-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/skinnfisk-glass-clear-glass__1361945_pe954803_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

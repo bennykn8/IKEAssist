@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: VARDAGEN 3-piece knife set, stainless steel/walnut
+SKU: 10602468
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vardagen-3-piece-knife-set-stainless-steel-walnut-10602468/
+Category: Kitchen knives
+Description: The VARDAGEN knives have good balance, are durable and stay sharp for a long time. These 3 knives come with a comfy handle in dark walnut, perfect for cutting, chopping and peeling for your daily cook...
+
+# @OFFER
+Price: 49.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Blade/ Rivet: Stainless steel, Handle: Solid walnut, Oil
+Dimensions: Includes: Cook's knife 8" (tot. length 12⅝"), cook’s knife 6" (tot. length 11⅜") and paring knife 3½" (tot. length 7").
+Features: Wash this product before using it for the first time.
+Care: Sharpen the knife at regular intervals to restore its shape. | Handwash only.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vardagen-3-piece-knife-set-stainless-steel-walnut__1399102_pe968251_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

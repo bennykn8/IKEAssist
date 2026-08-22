@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: EKBY ALEX / RAMSHULT wall shelf, white/white
+SKU: 39290956
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ekby-alex-ramshult-wall-shelf-white-white-s39290956/
+Category: Complete wall shelves
+Description: , 467/8x113/8" A mini chest of drawers, or a desk on the wall that is also a shelf. Squeeze maximum storage into minimal space. And combine with a few hooks to solve your hallway storage needs in a fl...
+
+# @OFFER
+Price: 80
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts/ Drawer front: Particleboard, Acrylic paint, Paper foil, Plastic edging, Partition: Particleboard, Paper foil, Plastic edging, Back panel: Fiberboard
+Features: If you are uncertain about what type of mounting devices to use, please contact your local hardware store. | Screws are not included. | Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ekby-alex-ramshult-wall-shelf-white-white__0671596_pe716307_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

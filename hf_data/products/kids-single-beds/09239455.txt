@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SLÄKT pull-out bed with storage, white, Twin
+SKU: 09239455
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/slaekt-pull-out-bed-with-storage-white-s09239455/
+Category: Kids single beds
+Description: Perfect when your child wants you close by or when a friend is sleeping over. When the morning comes, simply roll it back under SLÄKT bed. The slats are spaced to offer good support for both spring an...
+
+# @OFFER
+Price: 200
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Guard rail/ Drawer front: Fiberboard, Acrylic paint, Back: Fiberboard, Melamine foil, Particleboard, Plastic edging, Acrylic paint, Paper foil, Acrylic paint, Drawer back/ Drawer sides: Particleboard, Paper foil, Plastic foil
+Dimensions: Max. mattress height allowed in the underbed is 4".
+Features: Mattress and bedlinens are sold separately. | LURÖY slatted bed base is included in the price, but is packaged separately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/slaekt-pull-out-bed-with-storage-white__0637776_pe698534_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: SMYGA bed frame with storage, light gray, Twin
+SKU: 69444146
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/smyga-bed-frame-with-storage-light-gray-s69444146/
+Category: Kids single beds
+Description: This bed has everything you could need. A comfy sleeping area and storage to make it easier to stay organised. Part of the SMYGA series, furniture that lasts for generations.
+
+# @OFFER
+Price: 279
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top head/footboard rail/ Bottom head/footboard rail/ Bedside/ Leg: Solid pine, Adhesive, Stain, Clear acrylic lacquer, Bed end filling: Fiberboard, Acrylic paint, Spindles: Solid birch, Solid beech, Stain, Clear acrylic lacquer
+Features: Slatted bed base is included. | Mattress and bedlinens are sold separately. | Max load indicates static weight, in other words the load which the bed withstands if you lie or sit on it.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/smyga-bed-frame-with-storage-light-gray__1287535_pe933939_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

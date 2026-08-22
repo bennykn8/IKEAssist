@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TANNISBY rug, flatwoven, handmade/gray black
+SKU: 70494710
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tannisby-rug-flatwoven-handmade-gray-black-70494710/
+Category: Handmade rugs
+Description: , 5'3"x7'7" This wool rug brings traditional Moroccan and Mexican influences into your home. It is handmade with long fringes on the ends, and has a longer pile in the flat weave that creates a soft t...
+
+# @OFFER
+Price: 249.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Use surface: 100 % wool, Warp: 100 % cotton
+Features: You will need 1 STOPP FILT rug underlay with anti-slip (5'5"x7'9") for this rug. Trim if necessary. | Wool sheds naturally, so to keep your rug beautiful we recommend that you vacuum it regularly. | The rug is hand-woven.
+Care: Do not wash. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tannisby-rug-flatwoven-handmade-gray-black__0937528_pe793780_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

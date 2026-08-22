@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FREDDE gaming desk, black
+SKU: 10496062
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/fredde-gaming-desk-black-10496062/
+Category: Gaming Desks
+Description: , 551/8x291/8x283/4" How do you make the perfect gaming station? That's what we set out to do with FREDDE desk by researching competitive gaming and enlisting a gamer designer of our own. 3-year warra...
+
+# @OFFER
+Price: 254.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame/ Support: Steel, Epoxy/polyester powder coating, Table top/ Back panel: Particleboard, Melamine foil, Plastic edging, Pocket: Polypropylene
+Features: Can be used with SIGNUM cable trunking to keep all cords in place. | Holds up to two 24" flat screens.
+Care: Wipe clean with a damp cloth. | Check regularly that all assembly fastenings are properly tightened and retighten when necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/fredde-gaming-desk-black__0994049_pe820836_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

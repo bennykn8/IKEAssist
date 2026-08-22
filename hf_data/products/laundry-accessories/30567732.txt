@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SLIBB clothes pin, green
+SKU: 30567732
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/slibb-clothes-pin-green-30567732/
+Category: Laundry accessories
+Description: This will provide you with a flexible solution, since you can choose whether you want to hang your clothes over for example a towel rail using the loops or on a clothes line directly with clothes pins...
+
+# @OFFER
+Price: 1.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Clamp: Polypropylene plastic (min. 20% recycled), Spring: Acetal plastic, Loop: Polyamide
+Features: Suitable for drying hangers, clothes lines and drying racks. | When the clothes pins have been used for a longer time, they may remain open when you remove the clothes. Clothes pins will close again and regain their normal function after a short while.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/slibb-clothes-pin-green__1232094_pe916408_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

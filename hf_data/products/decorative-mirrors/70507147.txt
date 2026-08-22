@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: RÅMEBO mirror, gold
+SKU: 70507147
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ramebo-mirror-gold-70507147/
+Category: Decorative mirrors
+Description: , 291/2x661/8" RÅMEBO mirror has a gold-colored frame with beautiful ornaments in a vintage style. The ornaments can easily be removed and put back for variation – either way, the mirror is an eye-cat...
+
+# @OFFER
+Price: 219.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Aluminium (min. 70% recycled), Epoxy/polyester powder coating, Mirror glass: Glass
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | To be positioned securely in place, this mirror requires 4 screws if hung on the wall and 1 screw if placed on the floor tilted against and anchored to the wall.
+Care: Mirror glass: Wipe clean with a damp cloth. Use only water or window-cleaner. | Mirror glass: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ramebo-mirror-gold__1038791_pe839882_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

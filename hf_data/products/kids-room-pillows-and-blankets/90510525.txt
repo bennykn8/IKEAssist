@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: VÄNKRETS cushion, banana pattern pale green
+SKU: 90510525
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vaenkrets-cushion-banana-pattern-pale-green-90510525/
+Category: Kids room pillows & blankets
+Description: , 31" A firm pillow with a filling of recycled polyester. Provides good lumbar support when your child wants to sit up and read for a while – and nice to put under your head when it's time to relax.
+
+# @OFFER
+Price: 29.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Cushion cover: 100 % cotton, Inner fabric: 100 % polypropylene, Filling: 100 % polyester - hollow fiber (100% recycled)
+Care: Inner cushion: Machine wash, warm, durable-press cycle. | Inner cushion: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vaenkrets-cushion-banana-pattern-pale-green__0966311_pe810521_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

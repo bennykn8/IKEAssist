@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: IDÅSEN underframe for table top, dark gray
+SKU: 80397916
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/idasen-underframe-for-table-top-dark-gray-80397916/
+Category: IDÅSEN parts
+Description: , 571/2x263/8x297/8" Choose the suitable height of your IDÅSEN desk when you assemble it by setting the height of the underframe. You can also expand the underframe to fit table tops in the sizes 47x2...
+
+# @OFFER
+Price: 210
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Supporting rail/ Outer tube/ Inside tube/ Cross-brace/ Foot ring: Steel, Pigmented epoxy/polyester powder coating, Top rail/ Cross rail/ Housing: Steel, Epoxy/polyester powder coating, Cable management: 70 % rubber, 30 % polyester, Stainless steel
+Features: Possible to separate for recycling or energy recovery if available in your community.
+Care: Wipe clean with a damp cloth. | Check regularly that all assembly fastenings are properly tightened and retighten when necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/idasen-underframe-for-table-top-dark-gray__0735417_pe739951_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: VIDGA triple curtain  rail, included ceiling fittings/white
+SKU: 70492886
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vidga-triple-curtain-rail-included-ceiling-fittings-white-70492886/
+Category: Curtain track systems for ceiling & walls
+Description: , 55" If you’ve ever struggled with complicated curtain rail systems you’ll appreciate this one. It’s easy to assemble and it’s very flexible, so you can hang curtains even in the trickiest spaces.
+
+# @OFFER
+Price: 30
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Aluminum, Epoxy/polyester powder coating
+Dimensions: Includes: 1 triple track rail (length, 55⅛"), 2 connectors and 2 end caps.
+Features: Two ceiling or wall fixtures are needed for one 55⅛" track rail. To build a longer track rail, add another fixture for every 55⅛" for stability; sold separately. | Wall hardware and screws are not included. | When mounting ceiling brackets/fittings ensure a distance from the wall to allow opening/closing your curtain without obstacles like a protruding window sill, radiator or window handle getting in the way.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vidga-triple-curtain-rail-included-ceiling-fittings-white__0968271_pe810387_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HAUGA 8-drawer dresser, gray
+SKU: 60576179
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hauga-8-drawer-dresser-gray-60576179/
+Category: Dressers & chests of drawers
+Description: , 543/8x41" Use in your bedroom or throughout the home, on its own or with other furniture in the HAUGA series. This wide chest of drawers has plenty of storage space – and the top is ideal for your f...
+
+# @OFFER
+Price: 349.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Back rail/ Bottom panel/ Drawer front: Particleboard, Acrylic paint, Paper foil, Plastic edging, Side panel: Particleboard, Acrylic paint, Plastic edging, Partition: Particleboard, Paper foil, Plastic edging
+Features: Different wall materials require different types of fixing devices. Use fixing devices suitable for the walls in your home. | The castors on the bottom drawer allow it to be pulled completely out from the chest of drawers.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hauga-8-drawer-dresser-gray__1252010_pe924303_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KLIBBAL mirror, brown
+SKU: 30573380
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/klibbal-mirror-brown-30573380/
+Category: Decorative mirrors
+Description: , 181/2x243/8" Feel free to combine with other frames in natural materials to give your wall a vivid expression. Skilled craftspeople have woven the natural fibers by hand, which makes each mirror uni...
+
+# @OFFER
+Price: 29.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Mirror glass: Glass, Frame: Solid acacia wood, Bamboo, Stain, Clear acrylic lacquer, Binding: Rattan, Stain, Clear acrylic lacquer
+Features: Each product is a unique, handmade work of art with natural variations in color and shape. | Product is possible to recycle or use for energy recovery, if available in your community. | Wall hardware and screws are not included.
+Care: Use a damp cloth, never a strong cleaning agent. | After cleaning, be sure to wipe dry with a soft cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/klibbal-mirror-brown__1250553_pe923835_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

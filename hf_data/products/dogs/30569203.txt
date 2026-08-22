@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: UTSÅDD pet bowl, stripe pattern black-blue/gray-green, 7 ½"
+SKU: 30569203
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/utsadd-pet-bowl-stripe-pattern-black-blue-gray-green-30569203/
+Category: Dogs
+Description: UTSÅDD pet bowls in stoneware are sturdy, durable and perfect for everyday use. The modern design with straight edges and dark stripes makes them easily blend in with the rest of your home.
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Stoneware, Pigmented glaze
+Features: May be combined with UTSÅDD place mat for food bowl. | Recommended for large dogs. | Not intended for use by children.
+Care: Dishwasher-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/utsadd-pet-bowl-stripe-pattern-black-blue-gray-green__1281624_pe931964_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

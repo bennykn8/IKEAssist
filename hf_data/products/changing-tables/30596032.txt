@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MYLLRA changing table with drawers, white
+SKU: 30596032
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/myllra-changing-table-with-drawers-white-30596032/
+Category: Changing tables
+Description: You can transform this changing table into a chest of drawers and wall shelf when your child grows up. The shape and color matches the SMÅSTAD series, so you can create space for big and small items. ...
+
+# @OFFER
+Price: 399
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Guard rail/ Bottom panel/ Back panel/ Back rail/ Front rail/ Rail/ Drawer front/ Drawer bottom: Fiberboard, Acrylic paint, Side panel: Fiberboard and honeycomb paper filling (100% recycled paper), Particleboard, Acrylic paint, Shelf: Particleboard, Acrylic paint
+Features: Complete instructions on how to transform the changing table into a chest of drawers can be found in the included assembly instructions. | Different wall materials require different types of hardware. The included screws are suitable for wooden materials, and the wall plugs can be used for plaster, concrete, or masonry. Follow the instructions for the wall type in your home. | May be completed with SKÖTSAM changing pad.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/myllra-changing-table-with-drawers-white__0812339_pe776804_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

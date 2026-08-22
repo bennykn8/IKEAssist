@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SNÖRAKA hook, white
+SKU: 30598984
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/snoeraka-hook-white-30598984/
+Category: Hooks
+Description: Need a hook for your bag and jacket in the hallway or for the apron and tea towel in the kitchen? Here it is! A sleek white double hook in metal with hidden screws that blends in everywhere. The sleek...
+
+# @OFFER
+Price: 1.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Powder coating
+Features: Screws for wall mounting sold separately. | Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Can be fixed with suitable screws/fittings from our TRIXIG series.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/snoeraka-hook-white__1391331_pe965749_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

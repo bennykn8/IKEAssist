@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: DELSJÖN kitchen faucet, brushed black metal
+SKU: 50488809
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/delsjoen-kitchen-faucet-brushed-black-metal-50488809/
+Category: Kitchen faucets
+Description: DELSJÖN black mixer tap’s high spout makes it easier to wash things like large pots. We’ve given it durable parts and put it through some of the toughest tests, so we can give you a guarantee of quali...
+
+# @OFFER
+Price: 89
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Body: Zinc, Metallized, Inner body: Reinforced polyamide, Spout: Stainless steel, Metallized
+Dimensions: Connection hoses with 9/16" connection included. Length: 19⅝".
+Features: If you are uncertain about the installation, contact a professional. The installation shall be made in accordance with valid local building and plumbing regulations. | To be mounted in a 1⅜" hole in a max. 2" thick sink/countertop. | A tool is included that makes it easy to install the faucet in place.
+Care: Do not use scouring-powder, steel wool, hard or sharp tools which can scratch the surface. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/delsjoen-kitchen-faucet-brushed-black-metal__1179246_pe895953_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

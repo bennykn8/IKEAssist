@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BRUNSTA pendant lamp shade, black
+SKU: 10579774
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/brunsta-pendant-lamp-shade-black-10579774/
+Category: Lamp shades
+Description: , 12" You can easily transform this neat, airy lampshade into a personal pendant lamp with a matching cord set and a decorative LED bulb. Perfect to hang over the dining table or in a row in the hallw...
+
+# @OFFER
+Price: 14.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Steel, Powder coating, Shade ring: Polypropylene
+Features: Cord set and light bulb are sold separately.
+Care: Dust the lamp with a dust cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/brunsta-pendant-lamp-shade-black__1375916_pe960377_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

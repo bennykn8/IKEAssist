@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: RÅSKOG / NORRÅVA trolley with lid, black
+SKU: 79580751
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/raskog-norrava-trolley-with-lid-black-s79580751/
+Category: Kitchen islands & carts
+Description: , 133/4x173/4x303/8" This trolley fits in the smallest of spaces and can be moved to wherever you need it. Use it as extra storage in the kitchen, hallway or office. The bamboo lid hides the clutter a...
+
+# @OFFER
+Price: 49.98
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Epoxy powder coating, Bamboo, Clear polyurethane/acrylic lacquer
+Features: The lid fits on the top tier of RÅSKOG trolley only.
+Care: Wipe clean with a dry cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/raskog-norrava-trolley-with-lid-black__1380103_pe961614_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

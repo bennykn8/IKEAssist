@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GOTTORP Pendant lamp shade, bamboo, Height: 15" Diameter:
+SKU: 00441070
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/gottorp-pendant-lamp-shade-bamboo-00441070/
+Category: Lamp shades
+Description: 22". The shapes are similar to old industrial lamps, but these lampshades are not made on an assembly line. They’re hand-woven in bamboo and spread a warm, cozy light.
+
+# @OFFER
+Price: 44.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Metal parts: Steel, Polyester powder coating, Shade: Bamboo, Clear lacquer
+Features: Light bulb sold separately. IKEA recommends LED bulb E27.
+Care: For indoor use | Clean with a duster.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/gottorp-pendant-lamp-shade-bamboo__0718964_pe731803_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

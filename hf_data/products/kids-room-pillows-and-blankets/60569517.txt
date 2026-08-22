@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: BLÅSKATA cushion, cylinder shaped/light gray
+SKU: 60569517
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/blaskata-cushion-cylinder-shaped-light-gray-60569517/
+Category: Kids room pillows & blankets
+Description: , 31" Game, surf, watch movies, hang out with friends or chill. This cylinder-shaped cushion provides comfy support regardless of activity – and when it's time for a refresh, you can machine wash the ...
+
+# @OFFER
+Price: 29.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Cushion cover: 100 % polyester (100% recycled), Inner fabric: 100 % polypropylene, Filling: 100 % polyester - hollow fiber (100% recycled)
+Care: Inner cushion: Machine wash, warm, durable-press cycle. | Inner cushion: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/blaskata-cushion-cylinder-shaped-light-gray__1198276_pe903998_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

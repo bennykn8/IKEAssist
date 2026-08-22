@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: ÅRSUNDA armchair, Knisa light gray
+SKU: 30535897
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/arsunda-armchair-knisa-light-gray-30535897/
+Category: Fabric armchairs
+Description: Create comfortable seating around the home with the lightweight and airy ÅRSUNDA armchair. The clean, uniform look fits everywhere – and the nice supportive backrest has a relaxing resilience. 10-year...
+
+# @OFFER
+Price: 99.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100% polyester (min. 90% recycled), Armrest frame/ Rail: Birch veneer, Clear acrylic lacquer, Tubular frame: Steel
+Care: Cushion: Do not wash. | Cushion: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/arsunda-armchair-knisa-light-gray__1276550_pe930953_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

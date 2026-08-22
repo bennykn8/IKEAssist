@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MELLTORP / KÄTTIL table and 2 chairs, white/Knisa light gray
+SKU: 69428839
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/melltorp-kaettil-table-and-2-chairs-white-knisa-light-gray-s69428839/
+Category: Dining sets up to 2 seats
+Description: , 291/2" Small dimensions make the table easy to furnish with, even when space is limited. The melamine table top is moisture resistant, stain resistant and easy to keep clean. Sturdy and durable soli...
+
+# @OFFER
+Price: 189.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Melamine foil, Plastic edging, Plastic edging, Melamine foil, Leg/ Side rail: Steel, Epoxy/polyester powder coating, Inside leg: Steel
+Features: Recommended for indoor use only. | Possible to separate for recycling or energy recovery if available in your community.
+Care: For maximum quality, re-tighten the screws when necessary. | Removable cover: Machine wash warm, normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/melltorp-kaettil-table-and-2-chairs-white-knisa-light-gray__1016370_pe830348_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

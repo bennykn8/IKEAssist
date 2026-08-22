@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FÖRBÄTTRA Leg, off-white
+SKU: 40278675
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/foerbaettra-leg-off-white-40278675/
+Category: Frames, rails, legs & toekicks
+Description: . You can choose to put legs on your base cabinet instead of a toe kick, for a light and airy look. Adjustable feet for stability on uneven surfaces.
+
+# @OFFER
+Price: 36
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Leg: Solid birch, All parts: Acrylic paint
+Features: Fits BODBYN or HITTARP kitchens. | Screws included.
+Care: Wipe dry with a clean cloth. | Wipe clean with a microfiber cloth dampened in water, for more difficult stains use a mild cleaning detergent and rub carefully with circular motions.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/foerbaettra-leg-off-white__0638454_pe698952_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

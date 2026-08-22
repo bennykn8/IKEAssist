@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ÖKENSAND floor lamp, beech/white
+SKU: 90541536
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/oekensand-floor-lamp-beech-white-90541536/
+Category: Floor lamps
+Description: On this floor lamp, the white lampshade stretches like a pleated skirt down towards the three slender legs in solid beech. A timeless style to enjoy as the soft mood light spreads in the room. The lam...
+
+# @OFFER
+Price: 59.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Shade: 100% polyester (min. 90% recycled), Base: Steel, Powder coating, Leg: Solid beech, Tinted lacquer
+Features: Light bulbs sold separately. IKEA recommends LED bulb E12 chandelier opal white (3 pcs). | Special waste handling may be required. Please contact your local authorities for more information.
+Care: Machine wash cold, normal cycle. | To be washed separately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/oekensand-floor-lamp-beech-white__1187892_pe899535_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,30 @@
+# @PRODUCT
+Name: SJÖRAPPORT Salmon fillet, ASC certified/frozen
+SKU: 60360037
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sjoerapport-salmon-fillet-asc-certified-frozen-60360037/
+Category: Fish & seafood
+Description: Scandinavia's cold seas and responsible farming and fishing define the SJÖRAPPORT series. No matter how you serve and cook this oily firm salmon, the natural flavors stand out and take your cooking to...
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sjoerapport-salmon-fillet-asc-certified-frozen__1394251_pe966446_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

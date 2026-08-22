@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ENHET door, oak effect
+SKU: 70515388
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/enhet-door-oak-effect-70515388/
+Category: ENHET doors & fronts
+Description: , 12x24" Good sense and feel in beautiful partnership. The foil surface resists moisture, scratches and bumps, while the wood pattern creates a lively and warm expression. Foil gives a smooth and prac...
+
+# @OFFER
+Price: 19
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Particleboard, Front side/ Back side: Plastic foil, Edge: Plastic edging
+Features: To be completed with knobs or handles. | Fits cabinets in the ENHET series. | Hinges included with the cabinet.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/enhet-door-oak-effect__1048449_pe843744_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

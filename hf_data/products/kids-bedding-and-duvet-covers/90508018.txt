@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: NATTSLÄNDA duvet cover and pillowcase(s), floral pattern multicolor, Twin
+SKU: 90508018
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/nattslaenda-duvet-cover-and-pillowcase-s-floral-pattern-multicolor-90508018/
+Category: Kids bedding & duvet covers
+Description: Flowers or dots? Turn over this traditionally styled duvet cover based on your mood. Woven from a mix of cotton and lyocell that feels pleasantly soft against your skin and gives you a good night's sl...
+
+# @OFFER
+Price: 34.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 50 % cotton, 50 % lyocell
+Features: 164 thread count. | Thread count indicates the number of threads per square inch of fabric. The higher the thread count the more densely woven the fabric. | Includes: 1 Twin size duvet cover and 1 Queen size pillowcase.
+Care: Shrinkage maximum 4%. | Machine wash warm (max 140°F/60°C) normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/nattslaenda-duvet-cover-and-pillowcase-s-floral-pattern-multicolor__0977177_pe813446_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

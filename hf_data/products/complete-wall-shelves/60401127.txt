@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TROXHULT wall shelf, white
+SKU: 60401127
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/troxhult-wall-shelf-white-60401127/
+Category: Complete wall shelves
+Description: , 431/4x125/8" A complete wall shelf, ready to be mounted to the wall. A stylish, simple design makes TROXHULT suit various styles and rooms. An easy way to store and display while decorating favorite...
+
+# @OFFER
+Price: 29.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Shelf: Steel, Honeycomb structure paper filling (100% recycled), Epoxy/polyester powder coating, Bracket: Steel, Epoxy/polyester powder coating
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Be aware that different wall materials are able to support different loads of weight. For instance, walls made of drywall cannot support as much weight as walls made of wood, concrete, or brick. | When using two wall shelves next to each other or in a corner, leave an inch or two between them to be able to attach the shelf to the console.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/troxhult-wall-shelf-white__0955209_pe803682_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

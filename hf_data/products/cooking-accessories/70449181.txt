@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: KLOCKREN steamer, bamboo, 5 qt
+SKU: 70449181
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/klockren-steamer-bamboo-70449181/
+Category: Cooking accessories
+Description: Healthy, tasty and fun. This steamer is perfect for cooking vegetables, fish, chicken and dumplings. It has two levels so you can keep the dishes apart – and it's nice to serve from as well. For steam...
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Bamboo veneer
+Dimensions: Choose a pot with a diameter slightly smaller than the steamer.
+Features: Place the food in the baskets, preferably with wax paper or baking paper in the bottom. | Use the bamboo steamer with a wide frying pan or wok that you fill with water. The water must not reach the bottom of the basket. | Includes: 2 baskets (Ø9") and 1 lid (Ø9").
+Care: Handwash only. | Wash and dry this product before using it for the first time.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/klockren-steamer-bamboo__0809071_pe770947_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

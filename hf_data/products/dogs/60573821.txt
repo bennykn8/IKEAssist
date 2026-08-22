@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: UTSÅDD pet bed, light gray, XL
+SKU: 60573821
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/utsadd-pet-bed-light-gray-60573821/
+Category: Dogs
+Description: This round, soft pet bed is ideal for your dog to curl up in, to feel calm and relaxed. Place it in the living room, close to you, or wherever the pet feel most at ease. A calming bed for a larger dog...
+
+# @OFFER
+Price: 89.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % polyester (100% recycled)
+Features: Recommended for large dogs. | Suitable for dogs weighing up to 45 kg. | Only for indoor use.
+Care: Machine wash warm, normal cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/utsadd-pet-bed-light-gray__1239838_pe919133_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

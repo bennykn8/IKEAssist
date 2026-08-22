@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: JÄTTESTA side table, white/light bamboo
+SKU: 60538795
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/jaettesta-side-table-white-light-bamboo-60538795/
+Category: End tables & side tables
+Description: , 373/8x113/4" Looking for a stand-out design that creates a statement? JÄTTESTA is a perfect choice – both for storage and display. The shape and materials have a sleek look, making your living room ...
+
+# @OFFER
+Price: 129.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Panel: Bamboo, Stain, Tinted clear acrylic lacquer, Frame: Steel, Epoxy/polyester powder coating, Cover cap: Aluminum
+Features: Max load on table top: 44 lbs.
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/jaettesta-side-table-white-light-bamboo__1154350_pe886006_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

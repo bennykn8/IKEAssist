@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: KALLSINNIG glass, plastic/blue, 13 oz
+SKU: 40597333
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kallsinnig-glass-plastic-blue-40597333/
+Category: Drinking glasses & glassware sets
+Description: Up for a garden party or a picnic in the park? KALLSINNIG wine glasses are perfect for both. They’re made of durable plastic that won’t break easily, can be used over and over again – and look like gl...
+
+# @OFFER
+Price: 1.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polystyrene-acrylic plastic
+Care: Dishwasher-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kallsinnig-glass-plastic-blue__1387478_pe964254_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

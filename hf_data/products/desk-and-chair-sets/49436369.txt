@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: VEBJÖRN/MULLFJÄLLET / BILLY/OXBERG desk and storage combination, and swivel chair beige/gray/white
+SKU: 49436369
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vebjoern-mullfjaellet-billy-oxberg-desk-and-storage-combination-and-swivel-chair-beige-gray-white-s49436369/
+Category: Desk & chair sets
+Description: Make sure you have a great day at work – at home. This complete, functional set has all you need. VEBJÖRN desk with drawers and cable management, MULLFJÄLLET chair with removable cover and spacious st...
+
+# @OFFER
+Price: 698.98
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Honeycomb structure paper filling (min. 70% recycled), Particleboard, Fiberboard, Acrylic paint, Paper foil, Side panel/ Shelf: Particleboard, Acrylic paint, Plastic edging, Front rail/ Back rail/ Drawer side/ Drawer back: Particleboard, Paper foil
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vebjoern-mullfjaellet-billy-oxberg-desk-and-storage-combination-and-swivel-chair-beige-gray-white__1030307_pe836203_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

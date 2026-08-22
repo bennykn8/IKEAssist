@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VIHALS 4-drawer chest, white/anchor/unlock function
+SKU: 60483241
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vihals-4-drawer-chest-white-anchor-unlock-function-60483241/
+Category: Dressers & chests of drawers
+Description: , 271/2x181/2x353/8" VIHALS storage series has a cohesive look that connects the rooms throughout your home. This chest of drawers also comes with our innovative safety feature Anchor and unlock that ...
+
+# @OFFER
+Price: 179.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Side panel/ Drawer front: Particleboard, Acrylic paint, Plastic edging, Bottom panel: Particleboard, Paper foil, Acrylic paint, Plastic edging, Back panel: Particleboard, Paper foil
+Features: Different wall materials require different types of fixing devices. Use fixing devices suitable for the walls in your home. | Before the chest of drawers is anchored to the wall, only one drawer can be opened at a time.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vihals-4-drawer-chest-white-anchor-unlock-function__1112066_pe871088_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

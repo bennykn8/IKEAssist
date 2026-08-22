@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: STRANDMON wing chair, Djuparp dark green
+SKU: 90359848
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/strandmon-wing-chair-djuparp-dark-green-90359848/
+Category: Fabric armchairs
+Description: Need a hug? STRANDMON wing chair has an embracing feel with a high back, round armrests, soft lines and inviting upholstery. A traditional look with modern comfort for many cozy moments. The velvet is...
+
+# @OFFER
+Price: 349
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Polyurethane foam 2.2 lb/cu.ft., Solid wood, Seat cushion: Polyurethane foam 2.2 lb/cu.ft., Leg: Solid wood, Tinted lacquer
+Features: The velvet reflects light in a characteristic way which may make the color appear as if it changes. | Press marks that may appear on the velvet usually disappear in time. With your hand, you can gently stroke in the direction of the pile or use a clothes brush. You can also use the vacuum cleaner with the soft nozzle. | Small fibers may appear on velvet. It happens naturally and they disappear over time and can also be removed with a lint roller.
+Care: Cushion cover: Do not wash. | Cushion cover: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/strandmon-wing-chair-djuparp-dark-green__0531313_pe647261_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

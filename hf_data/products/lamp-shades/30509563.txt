@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SKOTTORP lamp shade, light gray
+SKU: 30509563
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/skottorp-lamp-shade-light-gray-30509563/
+Category: Lamp shades
+Description: , 13" Use this classic textile shade to dress up a lamp base you already own or combine it with one of ours. The light shines through the fabric creating a soft, decorative light in the room. Easy to ...
+
+# @OFFER
+Price: 17.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Steel, Epoxy/polyester powder coating, Shade: Polystyrene, 70% rPET 30 % linen
+Features: Lamp base and cord set are sold separately.
+Care: Clean with a duster.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/skottorp-lamp-shade-light-gray__0984226_pe816171_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

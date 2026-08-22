@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KLIMPFJÄLL / NORDVIKEN table and 6 chairs, gray-brown/white
+SKU: 59418421
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/klimpfjaell-nordviken-table-and-6-chairs-gray-brown-white-s59418421/
+Category: Dining sets up to 6 seats
+Description: , 941/2x373/8" This 6-seat dining set with a sturdy table and comfy ladder-back chairs in traditional wooden design - that invites family and friends to share precious moments and create long-lasting ...
+
+# @OFFER
+Price: 1089
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Particleboard, Beech veneer, Beech veneer, Beech veneer, Stain, Clear acrylic lacquer, Side rail/ Cross rail/ Bottom rail: Solid beech, Adhesive, Stain, Clear acrylic lacquer, Trestle: Solid beech, Solid beech, Stain, Clear acrylic lacquer
+Features: Recommended for indoor use only. | To prevent surface scratches and the sound of chair legs scraping on the floor, add FIXA self-adhesive floor protectors, sold separately. | May be completed with NORDVIKEN chair pad, sold separately.
+Care: For maximum quality, re-tighten the screws when necessary. | Table: Wipe clean using a damp cloth and a mild cleaner.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/klimpfjaell-nordviken-table-and-6-chairs-gray-brown-white__1009280_pe827539_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: REMSTA armchair, Djuparp dark green-blue
+SKU: 80484956
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/remsta-armchair-djuparp-dark-green-blue-80484956/
+Category: Lounge chairs
+Description: Softly rounded corners and nice details give REMSTA armchair a traditional look. The cover has a smooth feel, the shape gives lumbar support – and compact packaging reduces climate impact during trans...
+
+# @OFFER
+Price: 219.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Seat frame: Particleboard, Polyurethane foam 2.0 lb/cu.ft., Paperboard (100% recycled), Fiberboard, Back frame: Solid wood, Plywood, Polyurethane foam 2.0 lb/cu.ft., Fiberboard, Leg: Solid birch, Stain, Clear lacquer
+Features: Stationary cover. | The velvet reflects light in a characteristic way which may make the color appear as if it changes. | Press marks that may appear on the velvet usually disappear in time. With your hand, you can gently stroke in the direction of the pile or use a clothes brush. You can also use the vacuum cleaner with the soft nozzle.
+Care: For maximum quality, re-tighten the screws when necessary. | To make sure that velvet maintains its look and feel, it needs to be cared for regularly according to the care instructions included with the product.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/remsta-armchair-djuparp-dark-green-blue__0908607_pe783330_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

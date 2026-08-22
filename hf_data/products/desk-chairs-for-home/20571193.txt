@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: STIGBYGEL swivel chair with armrests, brown/black
+SKU: 20571193
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/stigbygel-swivel-chair-with-armrests-brown-black-20571193/
+Category: Desk chairs for home
+Description: A swivel chair with armrests made of handwoven rattan, a living material that makes each one unique. A favorite throughout the home, not just by the desk – and a great way to invite nature into your h...
+
+# @OFFER
+Price: 199.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Seat/ Backrest/ Armrest: Paper, Clear acrylic lacquer, Seat frame/ Bar/ Backrest frame/ Armrest frame/ Leg frame/ Ring/ Cover/ Tube/ Insert: Steel, Epoxy/polyester powder coating, Connector: Steel
+Features: Each product is a unique, handmade work of art with natural variations in color and shape.
+Care: Wipe dry with a clean cloth. | The material can dry out and deteriorate if placed near a heat source.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/stigbygel-swivel-chair-with-armrests-brown-black__1305698_pe939580_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

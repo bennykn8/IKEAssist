@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: TEMPELFLY curtains, 1 pair, white/black/with heading tape
+SKU: 60610729
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tempelfly-curtains-1-pair-white-black-with-heading-tape-60610729/
+Category: Light filtering curtains
+Description: , 57x98" TEMPELFLY curtains with sketch pattern reminiscent of charming old farmhouses and fences. The cotton/jute blend enhances the rustic appeal and filters light to create a relaxing sense of priv...
+
+# @OFFER
+Price: 49.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 70 % cotton, 30 % jute
+Dimensions: The curtains are sold in pairs. The sizes stated refer to each single curtain. For the total width, double the width of a single curtain.
+Features: Curtains, 1 pair included | Since the fabric will shrink when washing it is a good idea to wash the curtains prior to cutting/hemming. | May be combined with room darkening or block-out curtains or blinds to limit or block out light from outside.
+Care: Shrinkage maximum 4%. | Machine wash warm, normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tempelfly-curtains-1-pair-white-black-with-heading-tape__1382729_pe962335_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

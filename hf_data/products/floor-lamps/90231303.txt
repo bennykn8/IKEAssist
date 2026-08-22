@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: RANARP floor/reading lamp, off-white
+SKU: 90231303
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ranarp-floor-reading-lamp-off-white-90231303/
+Category: Floor lamps
+Description: RANARP lamps are reminiscent of the past, crafted with details like the steel joints and striped textile cord. The floor and work lamps are heavy and very stable, yet fully adjustable. Provides a dire...
+
+# @OFFER
+Price: 69.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Tube/ Shade/ Base: Steel, Powder coating, Adapter: Polycarbonate plastic, Weight: Concrete
+Features: Light bulb sold separately. IKEA recommends LED bulb E26. | Use an opal light bulb if you have an ordinary lamp shade or lamp and want an even, diffused distribution of light. | Special waste handling may be required. Please contact your local authorities for more information.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ranarp-floor-reading-lamp-off-white__0606895_pe682605_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VARDAGEN vegetable knife, dark gray
+SKU: 80578323
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vardagen-vegetable-knife-dark-gray-80578323/
+Category: Kitchen knives
+Description: , 6" The knife has indentations on the blade which let air into the cutting surface so the food you slice doesn't stick to the blade. Made of molybdenum/vanadium stainless steel, which is why the knif...
+
+# @OFFER
+Price: 14.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Blade/ Rivet: Stainless steel, Handle: Acetal plastic
+Features: Wash this product before using it for the first time.
+Care: Handwash only.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vardagen-vegetable-knife-dark-gray__0710386_pe727514_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

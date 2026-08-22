@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: STRÅLA table lamp base, white
+SKU: 60333195
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/strala-table-lamp-base-white-60333195/
+Category: Lamp bases & cords
+Description: This high lamp base stands steady and is perfect to combine with one of our decorative lampshades in the STRÅLA series to create a cozy atmosphere that feels warm and inviting. The weight in the lamp ...
+
+# @OFFER
+Price: 14
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Base: ABS plastic (min. 50% recycled), Tube: Steel, Powder coating, Protective pad: EVA plastic
+Features: Light bulb sold separately. IKEA recommends LED bulb E12 200 lumen chandelier opal white. | Only for indoor use.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/strala-table-lamp-base-white__0461680_pe607654_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

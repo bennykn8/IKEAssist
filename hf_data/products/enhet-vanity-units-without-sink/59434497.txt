@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ENHET Bathroom vanity with 2 doors, white/white frame
+SKU: 59434497
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/enhet-bathroom-vanity-with-2-doors-white-white-frame-s59434497/
+Category: ENHET vanity units without sink
+Description: , 24x183/4x24" ENHET series makes it easy to start fresh with a new bathroom solution. This base cabinet for sink with shelf keeps towels handy and the timeless white framed door goes with any style.
+
+# @OFFER
+Price: 125
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fiberboard, Plastic foil, Side panel/ Bottom panel/ Back rail/ Shelf/ Filling: Particleboard, Plastic foil, Plastic edging, Back panel: Fiberboard, Plastic foil
+Features: May be completed with 2 ENHET legs for cabinet, sold separately. | Screws for connecting several cabinets included. | Cabinet with shelves and doors included.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/enhet-bathroom-vanity-with-2-doors-white-white-frame__1049511_pe844193_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

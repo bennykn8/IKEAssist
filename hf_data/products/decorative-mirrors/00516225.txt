@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GRYTÅS mirror, silver color
+SKU: 00516225
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/grytas-mirror-silver-color-00516225/
+Category: Decorative mirrors
+Description: , 97/8" An elegant interior detail on a chest of drawers or a helping hand on the dressing table. GRYTÅS mirror has both the looks and the functionality. You can hang it on the wall or place it standi...
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame/ Foot: Steel, Nickel plated, Hanger: Zinc, Nickel plated, Mirror glass: Glass, Plastic foil
+Features: To hang securely in place on the wall, this mirror requires 1 screw.
+Care: Mirror glass: Wipe clean with a damp cloth. Use only water or window-cleaner. | Mirror glass: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/grytas-mirror-silver-color__1061235_pe850338_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

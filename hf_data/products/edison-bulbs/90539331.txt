@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: LUNNOM LED sign bulb E12 100 lumen, clear
+SKU: 90539331
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lunnom-led-sign-bulb-e12-100-lumen-clear-90539331/
+Category: Edison bulbs
+Description: Reminiscent of old filament bulbs but made with energy-saving LED. This clear bulb in a retro style spreads a warm white light and is perfect for lamps with a transparent or latticed shade. Illuminate...
+
+# @OFFER
+Price: 4.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Glass
+Features: Not dimmable. | The light bulb can be used in temperatures from 0°F (-20°C) to 100°F (40°C). | Special waste handling may be required. Please contact your local authorities for more information.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lunnom-led-sign-bulb-e12-100-lumen-clear__1086104_pe860351_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

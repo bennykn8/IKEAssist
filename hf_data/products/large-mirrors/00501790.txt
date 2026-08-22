@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SANDTORG mirror, black
+SKU: 00501790
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sandtorg-mirror-black-00501790/
+Category: Large mirrors
+Description: , 291/2x707/8" A large mirror is practical and can make the room feel bigger. SANDTORG mirror has a distinct black edge that frames any motif in a nice way – both you and the room. Full-length mirror....
+
+# @OFFER
+Price: 219.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Mirror glass/ Mirror glass: Glass, Frame: Polystyrene, Plastic foil
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | To hang securely in place on the wall, this mirror requires 2 screws. | Hang the mirror using the wall brackets on the back of the mirror according to the assembly instructions. Use screws, sold separately, suitable for the wall material in your home.
+Care: Wood: Wipe clean using a damp cloth and a mild cleaner. | Wood: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sandtorg-mirror-black__0836095_pe778498_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

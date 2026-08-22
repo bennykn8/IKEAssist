@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: INGATORP / BERGMUND table and 4 chairs, black/Ryrane dark blue
+SKU: 19477064
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ingatorp-bergmund-table-and-4-chairs-black-ryrane-dark-blue-s19477064/
+Category: Dining sets up to 4 seats
+Description: , 61/845/8" This 4-seat table can easily be extended into a 6-seat table using the included self-storing leaf. Legs and underframe are made of sturdy, solid hardwood.
+
+# @OFFER
+Price: 989.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top/ Extension leaf: Particleboard, Plastic edging, Stain, Clear acrylic lacquer, Ash veneer, Leg/ Side rail: Solid wood, Acrylic paint, Cross rail: Solid birch, Clear acrylic lacquer
+Features: Recommended for indoor use only. | Seats 4-6. | Possible to separate for recycling or energy recovery if available in your community.
+Care: For maximum quality, re-tighten the screws when necessary. | Table: Wipe clean with a mild soapy solution.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ingatorp-bergmund-table-and-4-chairs-black-ryrane-dark-blue__0954353_pe803224_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

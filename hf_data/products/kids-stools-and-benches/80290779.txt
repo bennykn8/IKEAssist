@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: FLISAT child's bench, adjustable
+SKU: 80290779
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/flisat-childs-bench-adjustable-80290779/
+Category: Kids stools & benches
+Description: As your child grows, you can raise the seat height, and because it’s made of sturdy solid pine it will outlast many years of reading, playing and creativity. A perfect match with FLISAT desk.
+
+# @OFFER
+Price: 49.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts/ Leg: Solid pine, Tinted clear acrylic lacquer, Seat: Fiberboard, Acrylic paint
+Dimensions: The bench has three heights: 12⅝", 15⅜" or 17¾".
+Features: Product is possible to recycle or use for energy recovery, if available in your community. | Can be used with other products in the FLISAT series.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/flisat-childs-bench-adjustable__0728031_pe736021_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

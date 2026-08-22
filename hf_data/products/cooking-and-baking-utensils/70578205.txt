@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: PÅBJUDA whisk, set of 2, stainless steel
+SKU: 70578205
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/pabjuda-whisk-set-of-2-stainless-steel-70578205/
+Category: Cooking & baking utensils
+Description: Using a large or small bowl doesn’t matter. With these two whisks in different sizes, you will fix the whipped cream for the dessert in the blink of an eye. Made from stainless steel that is durable a...
+
+# @OFFER
+Price: 5.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Wire/ Handle: Stainless steel, Insert: Polyamide
+Care: Dishwasher-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/pabjuda-whisk-set-of-2-stainless-steel__0350941_pe535748_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

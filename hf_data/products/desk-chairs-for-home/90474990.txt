@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: PYNTEN seat pad, dark gray, 16 ¼x
+SKU: 90474990
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/pynten-seat-pad-dark-gray-90474990/
+Category: Desk chairs for home
+Description: 17" Make your ELDBERGET and LOBERGET desk chairs even softer and comfier with PYNTEN seat pad. The pad is made from recycled and recyclable materials and the anti-slip underside keeps it in place. Tai...
+
+# @OFFER
+Price: 10
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Core cover: 100% polyester (min. 70% recycled), Slide protection: 100 %polyester
+Care: Pad: Do not wash. | Pad: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/pynten-seat-pad-dark-gray__0805853_pe769702_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

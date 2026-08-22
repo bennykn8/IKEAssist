@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VIDGA corner piece, single track, included ceiling hardware/white
+SKU: 30498381
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vidga-corner-piece-single-track-included-ceiling-hardware-white-30498381/
+Category: Curtain track systems for ceiling & walls
+Description: Create a cozy canopy or place the track with corner connector close to a window to block all light for a good night’s sleep. VIDGA curtain rail system gives you more flexibility and less complexity.
+
+# @OFFER
+Price: 8
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Aluminium (min. 70% recycled), Epoxy/polyester powder coating
+Dimensions: Includes: 1 corner piece (track length: 4¾"), 1 set of ceiling hardware and 1 end cap.
+Features: To be mounted with the connector enclosed with the curtain rail. | When mounting ceiling brackets/fittings ensure a distance from the wall to allow opening/closing your curtain without obstacles like a protruding window sill, radiator or window handle getting in the way. | Fits both VIDGA wall fitting (4¾") and VIDGA ceiling fitting. If used with ceiling fitting, remember to mount the ceiling fitting 4¾" from the wall.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vidga-corner-piece-single-track-included-ceiling-hardware-white__0968260_pe810376_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

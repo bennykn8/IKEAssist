@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: UPPFYLLD peeler, bright green
+SKU: 40578259
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/uppfylld-peeler-bright-green-40578259/
+Category: Cooking preparation tools
+Description: UPPFYLLD peeler is especially good for peeling long root vegetables like carrots or parsnips. Of course you can also peel potatoes – and make decorative strips of food like cucumber and squash. The UP...
+
+# @OFFER
+Price: 1.29
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polypropylene, Stainless steel
+Care: Dishwasher-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/uppfylld-peeler-bright-green__1109918_pe870289_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

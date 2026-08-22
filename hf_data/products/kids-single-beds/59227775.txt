@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: SLÄKT bed frame with slatted bed base, white, Twin
+SKU: 59227775
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/slaekt-bed-frame-with-slatted-bed-base-white-s59227775/
+Category: Kids single beds
+Description: This bed frame is very versatile. Combine it with an underbed with storage underneath, or with different modules to create extra storage space or a comfy place for hanging out with friends.
+
+# @OFFER
+Price: 149
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Bedside: Particleboard, Particleboard, Fiberboard, Plastic edging, Acrylic paint, Acrylic paint, Paper foil, Footboard/ Headboard: Fiberboard, Particleboard, Honeycomb structure paper filling (100% recycled), Plastic edging, Acrylic paint, Bed slats: Layer-glued wood veneer, Adhesive resin as coating
+Features: Slatted bed base is included. | Mattress and bedlinens are sold separately. | For additional sleeping space and storage space, you can combine the bed frame with SLÄKT pull-out bed with storage.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/slaekt-bed-frame-with-slatted-bed-base-white__0637774_pe698536_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

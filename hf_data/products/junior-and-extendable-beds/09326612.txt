@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: SLÄKT ext bed frame with slatted bed base, white/birch
+SKU: 09326612
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/slaekt-ext-bed-frame-with-slatted-bed-base-white-birch-s09326612/
+Category: Junior & extendable beds
+Description: , 381/4x743/4" A bed that grows with your child – in length and in style. You can easily extend the bed and replace the headboard when you want to change the look. A dream for you, your child and your...
+
+# @OFFER
+Price: 229
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fiberboard, Acrylic paint, Fiberboard, Printed and embossed acrylic paint, Printed acrylic paint, Plastic edging, Bed slats: Layer-glued wood veneer, Adhesive resin as coating
+Features: Slatted bed base is included. | Mattress and bedlinens are sold separately. | Fits with our mattress for extendable bed.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/slaekt-ext-bed-frame-with-slatted-bed-base-white-birch__0792601_pe764766_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

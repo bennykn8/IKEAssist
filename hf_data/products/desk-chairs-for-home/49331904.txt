@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ELDBERGET / MALSKÄR swivel chair + pad, dark gray/black
+SKU: 49331904
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/eldberget-malskaer-swivel-chair-pad-dark-gray-black-s49331904/
+Category: Desk chairs for home
+Description: Lower back support, adjustable height and sturdy castors – this desk chair really has it all. Use it at the desk, roll it to the dining table and enjoy the soft and comfortable seat pad. Easy to keep ...
+
+# @OFFER
+Price: 79.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Lamella seat lock/ Gas cylinder/ Star base center/ Leg: Steel, Epoxy/polyester powder coating, Adjustment lever: Thermoplastic elastomer, Cover/ Wheel: Polypropylene
+Features: May be used with KOLON floor protector.
+Care: Wipe clean with a mild soapy solution. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/eldberget-malskaer-swivel-chair-pad-dark-gray-black__0814543_pe772659_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GULDAKLEJA comforter set, red-brown/stripe, Twin/Twin X-long
+SKU: 50595734
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/guldakleja-comforter-set-red-brown-stripe-50595734/
+Category: Comforters & comforter sets
+Description: Scandinavian look with stripes and decorative buttons on the pillow sham. Made of dobby-woven cotton which creates a crinkled surface that adds a cozy feel to a bedroom together with the fluffy comfor...
+
+# @OFFER
+Price: 59.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top fabric/ Back fabric: 97% cotton (min. 20% recycled), 3% other fibres, Filling: 100% polyester (min. 90% recycled)
+Features: 154 thread count. | Thread count indicates the number of threads per square inch of fabric. The higher the thread count the more densely woven the fabric. | 8-oz filling density.
+Care: Comforter: Shrinkage maximum 4%. | Comforter: Machine wash warm, normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/guldakleja-comforter-set-red-brown-stripe__1372989_pe959811_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

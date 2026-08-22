@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: PEPPRIG scrubbing brush, set of 2, green
+SKU: 10567648
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/pepprig-scrubbing-brush-set-of-2-green-10567648/
+Category: Cleaning accessories
+Description: These two brushes make cleaning a pure pleasure. The oval brush helps you clean large surfaces, and you easily reach tight spaces with the long brush. The oval brush is perfect for cleaning larger sur...
+
+# @OFFER
+Price: 4.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Handle: Polypropylene plastic (min. 20% recycled), Bristles: Polyester
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/pepprig-scrubbing-brush-set-of-2-green__1232064_pe916378_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

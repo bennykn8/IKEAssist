@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MORABO ottoman, Djuparp dark blue/metal
+SKU: 29416503
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/morabo-ottoman-djuparp-dark-blue-metal-s29416503/
+Category: Fabric ottomans
+Description: These legs in chrome-plated steel give MORABO sofa and armchair a modern and glossy look. 10-year limited warranty. Read about the terms in the limited warranty brochure.
+
+# @OFFER
+Price: 269
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 62% polyester (min. 90% recycled), 38 % viscose/rayon, Seat frame: Plywood, Solid pine, Particleboard, Fiberboard, Seat cushion: High-resilience polyurethane foam (cold foam) 2.2 lb/cu.ft.
+Features: Press marks that may appear on the velvet usually disappear in time. With your hand, you can gently stroke in the direction of the pile or use a clothes brush. You can also use the vacuum cleaner with the soft nozzle. | Small fibers may appear on velvet. It happens naturally and they disappear over time and can also be removed with a lint roller. | The velvet reflects light in a characteristic way which may make the color appear as if it changes.
+Care: Frame, non-removable cover: Wet marks should always be dried off as soon as possible to stop moisture penetration. | Frame, non-removable cover: Remove dust with a lint remover.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/morabo-ottoman-djuparp-dark-blue-metal__0990450_pe818963_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

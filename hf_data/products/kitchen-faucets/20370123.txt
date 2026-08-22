@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: INSJÖN kitchen faucet, chrome plated
+SKU: 20370123
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/insjoen-kitchen-faucet-chrome-plated-20370123/
+Category: Kitchen faucets
+Description: INSJÖN faucet in chrome helps lower water- and energy-use – so you can lower your bills too. The high spout is practical for cleaning big pots and the quality is guaranteed to outlast many years of wa...
+
+# @OFFER
+Price: 107
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Body: Brass, Metallized, Spout: Brass, Brass, Metallized
+Dimensions: Connection hoses with 9/16" connection included. Length: 13¾".
+Features: If you are uncertain about the installation, contact a professional. The installation shall be made in accordance with valid local building and plumbing regulations. | To be mounted in a 1⅜" hole in a max. 2¾" thick sink/countertop. | Water and energy saving aerator (1.5 gal/min.) for high-pressure systems included.
+Care: Do not use scouring-powder, steel wool, hard or sharp tools which can scratch the surface. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/insjoen-kitchen-faucet-chrome-plated__0756696_pe749046_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

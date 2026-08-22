@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: IKEA 365+ 9-piece cookware set, stainless steel
+SKU: 50577909
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ikea-365-9-piece-cookware-set-stainless-steel-50577909/
+Category: Cookware sets
+Description: This cookware set has a clean and simple design and is easy to use. Stainless steel and the wide bottom make it heat up fast – and the temperature is easier to regulate based on what kind of food you’...
+
+# @OFFER
+Price: 89.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Stainless steel
+Features: Includes: 1 pot with lid (10.6 qt), 1 pot with lid (5.3 qt), 1 pot with lid (3.2 qt), 1 saucepan with lid (2.1 qt) and 1 saucepan (1.1 qt).
+Care: Dishwasher-safe. | Suitable for use on gas cooktop.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ikea-365-9-piece-cookware-set-stainless-steel__1006153_pe825739_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SKOGSGRÄNSEN decorative mirror, copper color
+SKU: 20541912
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/skogsgraensen-decorative-mirror-copper-color-20541912/
+Category: Decorative mirrors
+Description: , 195/8" SKOGSGRÄNSEN mirror, designed by Anki Gneib, is inspired by sunsets and the lines of nature's horizons. Rose-gold tones spread a warm light – easy to combine with other mirrors or wall decora...
+
+# @OFFER
+Price: 59.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Mirror: Glass, Plastic foil, Back panel: Steel, Copper-plated, Acrylic coating
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | To hang securely in place on the wall, this mirror requires 1 screw.
+Care: Mirror glass: Wipe clean with a damp cloth. Use only water or window-cleaner. | Mirror glass: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/skogsgraensen-decorative-mirror-copper-color__1178904_pe895767_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

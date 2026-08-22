@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: IKEA 365+ knife block, 5x9 ½"
+SKU: 10286399
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ikea-365-knife-block-10286399/
+Category: Kitchen knives
+Description: Stay sharp! Storing your knives in a block is smart. It protects the edges and extends the life of each knife. It also makes it easier to find them every time you need a helping hand in the kitchen.
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Base: Cork, Tube: Glass, Tray/ Wire: ABS plastic
+Dimensions: Suitable for knives with blade lengths max. 8⅔".
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ikea-365-knife-block__0711102_pe727958_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

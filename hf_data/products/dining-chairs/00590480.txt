@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: PINNTORP chair, light brown stained
+SKU: 00590480
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/pinntorp-chair-light-brown-stained-00590480/
+Category: Dining chairs
+Description: This light brown wooden chair with vertical slat back adds warmth and a traditional character to your space. Pairs beautifully with PINNTORP tables in the same color and different sizes. Sturdy and du...
+
+# @OFFER
+Price: 35
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Solid pine, Stain, Clear lacquer
+Features: Product is possible to recycle or use for energy recovery, if available in your community. | To prevent surface scratches and the sound of chair legs scraping on the floor, add FIXA self-adhesive floor protectors, sold separately.
+Care: Wipe clean with a mild soapy solution. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/pinntorp-chair-light-brown-stained__1296225_pe935730_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

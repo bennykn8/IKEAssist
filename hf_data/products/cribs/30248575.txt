@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SUNDVIK Crib, white
+SKU: 30248575
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sundvik-crib-white-30248575/
+Category: Cribs
+Description: , 27 1/2x52". Your baby can sleep for a long time in this crib. With a timeless style, durable materials and details made with care, you can also lower the bottom and remove one of the long sides as t...
+
+# @OFFER
+Price: 299
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts/ Spindles/ Bed base frame: Solid beech, Stain, Clear acrylic lacquer, Bed end filling: Fiberboard, Paper foil, Bed rail: Solid beech, Fiberboard, Adhesive, Stain, Clear acrylic lacquer
+Features: Conversion kit included. | We recommend you complete the crib with an IKEA mattress. | Mattress and bedlinens are sold separately.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sundvik-crib-white__0637935_pe698620_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

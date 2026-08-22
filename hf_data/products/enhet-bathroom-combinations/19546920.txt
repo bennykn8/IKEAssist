@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: ENHET bathroom, white/white frame
+SKU: 19546920
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/enhet-bathroom-white-white-frame-s19546920/
+Category: ENHET bathroom combinations
+Description: , 24x18x24"
+
+# @OFFER
+Price: 492
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fiberboard, Plastic foil, Side panel/ Bottom panel/ Back rail/ Shelf/ Filling: Particleboard, Plastic foil, Plastic edging, Back panel: Fiberboard, Plastic foil
+Features: Knob or handle sold separately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/enhet-bathroom-white-white-frame__1258033_pe926177_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

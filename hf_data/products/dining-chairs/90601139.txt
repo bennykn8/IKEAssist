@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BUSLÄTT chair, white/pine
+SKU: 90601139
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/buslaett-chair-white-pine-90601139/
+Category: Dining chairs
+Description: BUSLÄTT chair combines a warm wooden look with robust metal in a neat and modern design that’s pleasing to the eye, even in smaller rooms. The tilted backrest with 2 slats offers a comfy and relaxed f...
+
+# @OFFER
+Price: 35
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Leg frame/ Seat frame/ Cross rail/ Back: Steel, Epoxy/polyester powder coating, Seat: Solid pine, Polypropylene, Acrylic paint
+Features: Recommended for indoor use only. | May be completed with VIHALS dining table, sold separately.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/buslaett-chair-white-pine__1388820_pe964986_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

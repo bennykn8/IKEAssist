@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: JONAXEL storage combination, white
+SKU: 09297134
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/jonaxel-storage-combination-white-s09297134/
+Category: JONAXEL combinations
+Description: , 195/8x201/8x271/2" Difficult to keep things neat and tidy? JONAXEL storage solution lets you use the space in smarter ways. Find a suitable combination and use it almost anywhere, even in humid bath...
+
+# @OFFER
+Price: 39.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Steel, Epoxy/polyester powder coating, Rail: Steel, Steel, Epoxy/polyester powder coating, Steel, Steel, Epoxy/polyester powder coating
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/jonaxel-storage-combination-white__0703631_pe732262_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

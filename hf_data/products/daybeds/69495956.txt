@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BRIMNES daybed with 2 drawers/2 mattresses, white/Åsvang medium firm, Twin
+SKU: 69495956
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/brimnes-daybed-with-2-drawers-2-mattresses-white-asvang-medium-firm-s69495956/
+Category: Daybeds
+Description: A sofa by day and a bed for one – or two – by night. The two large drawers give plenty of space for duvets, pillows and bed linen. A smart solution when you live in a small space.
+
+# @OFFER
+Price: 557
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Bed frame panel/ Front frame/ Drawer front panel: Particleboard, Paper foil, Plastic edging, Bed end filling: Fiberboard, Paper foil, Back panel/ Bottom rail: Particleboard, Paper foil
+Features: Slatted bed base is included. | 2 ÅSVANG foam mattresses included. | Bed linen sold separately.
+Care: Mattress cover: Machine wash warm (max 140°F/60°C) normal cycle. | Mattress cover: Turn the cover inside out and zip up before washing.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/brimnes-daybed-with-2-drawers-2-mattresses-white-asvang-medium-firm__1161840_pe889557_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

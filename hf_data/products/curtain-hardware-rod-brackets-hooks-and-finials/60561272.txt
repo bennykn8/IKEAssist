@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: INSEKTSMAL finials, 1 pair, glass/black
+SKU: 60561272
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/insektsmal-finials-1-pair-glass-black-60561272/
+Category: Curtain hardware: rod brackets, hooks & finials
+Description: Whether your curtains are new or old, you can easily enhance the style by adding new finials on the curtain rod. Like these round ones with a crackled smoke-colored glass surface.
+
+# @OFFER
+Price: 10
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Body: Glass, Tinted lacquer, Bush: Aluminum, Powder coating, Screw: Stainless steel
+Features: In order to prevent the finials from falling off and causing damage, they should be properly fixed to a curtain rod whose brackets must be securely anchored to the wall. | Fits RÄCKA and HUGAD curtain rod.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/insektsmal-finials-1-pair-glass-black__1182435_pe897213_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

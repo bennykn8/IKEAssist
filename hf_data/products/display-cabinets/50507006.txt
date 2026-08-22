@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: BOASTAD high cabinet, black/oak veneer
+SKU: 50507006
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/boastad-high-cabinet-black-oak-veneer-50507006/
+Category: Display cabinets
+Description: , 161/4x125/8x727/8" Create a stylish, clutter-free room with this high cabinet. Thin lines and details like the door in oak veneer give your home a modern look. Add integrated lighting to put your fa...
+
+# @OFFER
+Price: 249
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Bottom panel: Fiberboard and honeycomb paper filling (100% recycled paper), Paper foil, Plastic edging, Side panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Paper foil, Plastic edging, Back panel: Fiberboard, Acrylic paint
+Care: Glass: Wipe clean with a damp cloth. Use only water or window-cleaner. | Glass: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/boastad-high-cabinet-black-oak-veneer__1241275_pe919731_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

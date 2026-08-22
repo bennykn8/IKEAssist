@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SKAFTET triple cord set with ceiling mount, rectangle brass
+SKU: 30493500
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/skaftet-triple-cord-set-with-ceiling-mount-rectangle-brass-30493500/
+Category: Lamp bases & cords
+Description: Here is a modern, brass-colored pendant lamp that you can style as you like – with decorative light bulbs or lampshades you like. Perfect to hang over a dining table or a kitchen island. The height is...
+
+# @OFFER
+Price: 59.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Acrylic coating
+Features: Screws are sold separately. | Light bulbs sold separately. IKEA recommends LED bulb E26 (3 pcs). | Shade is sold separately.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/skaftet-triple-cord-set-with-ceiling-mount-rectangle-brass__0988577_pe818172_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

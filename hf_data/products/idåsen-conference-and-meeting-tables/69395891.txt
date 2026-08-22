@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: IDÅSEN table, black/dark gray
+SKU: 69395891
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/idasen-table-black-dark-gray-s69395891/
+Category: IDÅSEN conference & meeting tables
+Description: , 551/8x271/2x291/2" Inside or outside a meeting room, sitting or standing, long sessions or short creative outbursts. IDÅSEN meeting and conference tables support all different ways for you to work a...
+
+# @OFFER
+Price: 264
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Ash veneer, Stain, Clear acrylic lacquer, Plastic edging, Frame: Steel, Epoxy/polyester powder coating, Inside frame/ Inside leg: Steel
+Care: Wipe clean with a damp cloth. | Check regularly that all assembly fastenings are properly tightened and retighten when necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/idasen-table-black-dark-gray__0932307_pe791408_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

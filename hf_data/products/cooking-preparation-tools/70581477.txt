@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VARDAGEN zester with handle, stainless steel/beech
+SKU: 70581477
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vardagen-zester-with-handle-stainless-steel-beech-70581477/
+Category: Cooking preparation tools
+Description: , 13" This zester has a sturdy wooden handle that makes it easy to grate zest from a citrus fruit – or add parmesan to pasta. When the food is ready, you can hang the zester by the hole in the handle....
+
+# @OFFER
+Price: 8.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Handle: Solid beech, Oil, Insert: Reinforced polyamide, Bracket/ Grater: Stainless steel
+Features: Wash this product before using it for the first time.
+Care: Handwash only. | The wooden handle should be treated with food-approved oil now and then.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vardagen-zester-with-handle-stainless-steel-beech__1300289_pe937078_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

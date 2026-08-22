@@ -1,0 +1,30 @@
+# @PRODUCT
+Name: SYLT JORDGUBB strawberry spread, organic, 14 oz
+SKU: 40554183
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sylt-jordgubb-strawberry-spread-organic-40554183/
+Category: Condiments & spreads
+Description: Sweet red strawberries with milk or ice cream is what summer is all about for many Swedes. You can enjoy our organic strawberry jam all year round on toast, in porridge, with pancakes or in a dessert....
+
+# @OFFER
+Price: 4.49
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sylt-jordgubb-strawberry-spread-organic__1147573_pe883374_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

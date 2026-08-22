@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: DOFTAKLEJA duvet cover and pillowcase(s), white/anthracite, King
+SKU: 70600522
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/doftakleja-duvet-cover-and-pillowcase-s-white-anthracite-70600522/
+Category: Duvet covers & duvet cover sets
+Description: DOFTAKLEJA duvet cover in white/anthracite with stitched check pattern on one side and stripes on the other. The corner holes make it easy to insert the duvet and are concealed with clever pockets. Th...
+
+# @OFFER
+Price: 64.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % cotton
+Features: Thread count: 60 threads/cm² or 152 threads/inch². | Thread count indicates the number of threads per square cm or square inch of fabric. The higher the thread count the more densely woven the fabric.
+Care: Shrinkage maximum 4%. | Machine wash warm (max 140°F/60°C) normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/doftakleja-duvet-cover-and-pillowcase-s-white-anthracite__1385015_pe963109_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: RANSBERG built-in dishwasher, panel-ready
+SKU: 10591158
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ransberg-built-in-dishwasher-panel-ready-10591158/
+Category: Dishwashers
+Description: , 18" Living in a limited space doesn’t mean you have to limit your passion for food and cooking. This compact dishwasher comes to the rescue when cleaning up with adaptable racks to maximize the load...
+
+# @OFFER
+Price: 599
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Dimensions: Upper basket fits plates with a diameter up to 9".
+Features: Capacity: 8 place settings. | Noise level: 49 dB (A). | 3.2 gal (12.3L) per ESTAR declaration.
+Care: Remove stains and residue inside the dishwasher using a cloth dampened with water and a small amount of vinegar. | Clean the exterior parts and control panel using a non-abrasive cloth dampened with water.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ransberg-built-in-dishwasher-panel-ready__1384359_pe962980_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: BAGIS children's coat-hanger, mixed colors
+SKU: 60591014
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/bagis-childrens-coat-hanger-mixed-colors-60591014/
+Category: Kids clothes & shoe organization
+Description: These hangers are made of safe, durable and flexible plastic, of which at least 50% is recycled, yet they won’t lose their shape. Pants hanger, skirt hanger and shirt hanger in one. Flexible plastic t...
+
+# @OFFER
+Price: 1.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polypropylene plastic (min. 50% recycled), Polypropylene plastic (min. 50% recycled)
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/bagis-childrens-coat-hanger-mixed-colors__1425379_pe979495_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BERGGRAN lantern for pillar candle, indoor/outdoor anthracite
+SKU: 90559404
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/berggran-lantern-for-pillar-candle-indoor-outdoor-anthracite-90559404/
+Category: Indoor lanterns
+Description: , 13" Candles are cozy and welcoming. This lantern for pillar candle lights up inside and outside – giving your home a traditional country feel, no matter where you live. Decorative and snug when dark...
+
+# @OFFER
+Price: 16.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Glass, Polyester powder coating
+Dimensions: Use only 1 block candle with a max. height of 7½" and a max. diameter of 2¾".
+Care: Wipe clean with a damp cloth. | You easily remove hardened wax by washing the surface with warm water.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/berggran-lantern-for-pillar-candle-indoor-outdoor-anthracite__1257044_pe925542_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

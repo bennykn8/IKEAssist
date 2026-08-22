@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: RÅGKORN plant pot, indoor/outdoor dark gray/beige, 12 ½"
+SKU: 40407559
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ragkorn-plant-pot-indoor-outdoor-dark-gray-beige-40407559/
+Category: Indoor plant pots
+Description: Give your plants and home a facelift by adding new pots to your plants. Enhance a style or season, or have fun with a new splash of color in the room. It’s satisfying and doesn’t have to cost a fortun...
+
+# @OFFER
+Price: 39.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Pot: Polyethylene, Inner plant pot: PET plastic
+Features: The underlying surface is protected from water and dirt since the pot has a plastic insert that can be easily removed if needed. | Suitable for indoor and outdoor use. | To prevent surface scratches, complete with TRIXIG stick-on floor protectors, sold separately.
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ragkorn-plant-pot-indoor-outdoor-dark-gray-beige__0635623_pe697304_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

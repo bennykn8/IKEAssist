@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: HUGAD curtain rod, white
+SKU: 30217140
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hugad-curtain-rod-white-30217140/
+Category: Curtain & drapery rods
+Description: , 83-152" You can easily adjust the length of this flexible curtain rod in white metal – and you can give it your own style by adding finials from our range. The length is adjustable.
+
+# @OFFER
+Price: 10
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Rod: Steel, Epoxy/polyester powder coating, Plug/ Sleeve: Polypropylene
+Dimensions: To be completed with BETYDLIG wall/ceiling brackets. Three brackets needed for lengths up to 110" and 4 brackets for lengths 110-152".
+Features: May be completed with SYRLIG curtain rings (dia. 1½"). | Screws and any other fasteners you might need to attach your solution securely to the wall (e.g. wall anchors) are not included.
+Care: Vacuum clean. | Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hugad-curtain-rod-white__0601958_pe680068_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

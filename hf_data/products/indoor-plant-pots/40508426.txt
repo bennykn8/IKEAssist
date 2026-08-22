@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KLARBÄR plant pot with saucer, indoor/outdoor brown, 4 ¾"
+SKU: 40508426
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/klarbaer-plant-pot-with-saucer-indoor-outdoor-brown-40508426/
+Category: Indoor plant pots
+Description: Designed by Ilse Crawford, KLARBÄR plant pots are great for everything from cacti to roses – both indoors and outdoors. They have a chamotte glaze which creates a matte textured surface with a rough l...
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Pot: Stoneware, Pigmented glaze, Saucer: Stoneware, Colored glaze
+Features: Suitable for indoor and outdoor use. | The plant pot and the saucer are sold together. | Add FIXA stick-on floor protectors to protect extra-sensitive surfaces.
+Care: To clean the plant pot, spray it with water and let it air-dry.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/klarbaer-plant-pot-with-saucer-indoor-outdoor-brown__1156444_pe887099_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

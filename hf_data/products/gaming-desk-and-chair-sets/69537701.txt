@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: TROTTEN / MATCHSPEL desk and chair, white/light gray
+SKU: 69537701
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/trotten-matchspel-desk-and-chair-white-light-gray-s69537701/
+Category: Gaming desk & chair sets
+Description: The neat and small TROTTEN desk is ideal to use in tight workspaces at home or at the office. The A-shaped legs mean that the space under the desk can be used efficiently without the table legs gettin...
+
+# @OFFER
+Price: 419.98
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Melamine foil, Plastic edging, Leg/ Midbeam/ Bracket: Steel, Epoxy/polyester powder coating, Plastic parts: Polypropylene
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/trotten-matchspel-desk-and-chair-white-light-gray__1246232_pe922050_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

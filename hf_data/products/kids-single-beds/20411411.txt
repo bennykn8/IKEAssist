@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: VITVAL Desk top, white, Twin
+SKU: 20411411
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vitval-desk-top-white-20411411/
+Category: Kids single beds
+Description: . With this desk, you can easily create a writing space under VITVAL loft bed. The support leg makes it sturdy and you can accessorize the pegboard with products from the SKÅDIS series.
+
+# @OFFER
+Price: 50
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Polyester powder coating
+Care: Wipe clean using a damp cloth and a mild cleaner. | For maximum quality, re-tighten the screws when necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vitval-desk-top-white__0688102_pe722299_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

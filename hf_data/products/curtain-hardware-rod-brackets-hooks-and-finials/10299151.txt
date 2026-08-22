@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VIDGA wall bracket, white, 2 ¼"
+SKU: 10299151
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vidga-wall-bracket-white-10299151/
+Category: Curtain hardware: rod brackets, hooks & finials
+Description: This shorter wall fitting brings curtains closer to the wall to help block out light and allow a good night’s sleep. VIDGA curtain rail system gives you more flexibility and less complexity.
+
+# @OFFER
+Price: 5
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Wallbracket/ Cover: Aluminum, Epoxy/polyester powder coating, Plastic stopper: Synthetic rubber
+Dimensions: Includes: 1 wall fixture (length 2⅜").
+Features: Wall fitting with 2⅜" arm can hold 1 VIDGA single track rail or 1 VIDGA triple track rail. | Wall fitting with 2⅜" arm allows you to hang the curtain close to the window recess. | Screws are not included.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vidga-wall-bracket-white__0603492_pe680825_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KIVIK ottoman, Grann/Bomstad black
+SKU: 80519507
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kivik-ottoman-grann-bomstad-black-80519507/
+Category: Leather ottomans
+Description: There is more to KIVIK footstool than meets the eye. Rest your tired feet on it or use the hidden storage space to keep your things organized – close at hand, but out of sight. The cover is easy to ke...
+
+# @OFFER
+Price: 379
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Coated fabric parts: 100 % polyurethane, 75 % polyester, 25 % cotton, Leather: Dyed through top-grain leather with a treated, embossed and pigmented surface, Frame: Particleboard, Solid wood, Polyurethane foam 1.2 lb/cu.ft., Melamine foil
+Features: The top cushion is covered with GRANN – a soft, smooth and strong grain leather with natural variations. Other surfaces have the coated fabric BOMSTAD.
+Care: Clean with a dust cloth or vacuum lightly using the soft brush attachment. | Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kivik-ottoman-grann-bomstad-black__0137865_pe296633_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

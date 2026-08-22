@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FRIDFULL plant pot, water hyacinth, 4 ¾"
+SKU: 90155870
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/fridfull-plant-pot-water-hyacinth-90155870/
+Category: Indoor plant pots
+Description: Decorate your home with beautiful objects from nature. This plant pot is handwoven from water hyacinth that is harvested to help keep tropical waterways free and maintain the natural flow of water. Th...
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Pot: Water hyacinth, Clear acrylic lacquer, Inner plant pot: Polypropylene
+Features: Each product is a unique, handmade work of art with natural variations in color and shape. | Recommended for indoor use only. | To prevent surface scratches, complete with TRIXIG stick-on floor protectors, sold separately.
+Care: For indoor use | Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/fridfull-plant-pot-water-hyacinth__0635630_pe697292_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

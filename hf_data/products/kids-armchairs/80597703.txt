@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: POÄNG children's armchair cushion, Ulvsby/dot pattern
+SKU: 80597703
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/poaeng-childrens-armchair-cushion-ulvsby-dot-pattern-80597703/
+Category: Kids armchairs
+Description: A lively addition that blends in. On this cushion with irregular dots in yellow and green, your child sits both softly and safely. A matching throw or cushion completes the cosines. Easy to keep clean...
+
+# @OFFER
+Price: 20
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric/ Greige fabric: 100 % cotton, Back fabric: 100 % polyester (100% recycled), Edge fabric: 100 % cotton
+Features: Children’s armchair frame is sold separately. | Fits POÄNG children’s armchair frame.
+Care: Cushion: Machine wash warm, normal cycle. | Cushion: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/poaeng-childrens-armchair-cushion-ulvsby-dot-pattern__1396618_pe967389_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

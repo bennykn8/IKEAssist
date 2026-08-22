@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GRÖNSTA chair, indoor/outdoor gray-turquoise
+SKU: 70554577
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/groensta-chair-indoor-outdoor-gray-turquoise-70554577/
+Category: Dining chairs
+Description: The molded seat shell with smooth curved shapes is especially designed for comfort and lasting beauty. Fingerprints, spills and other mishaps on the grey-turquoise surface wipe clean easily. Suitable ...
+
+# @OFFER
+Price: 80
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Seat shell: Polypropylene, Leg: Solid eucalyptus wood, Acrylic stain
+Features: Suitable for indoor and outdoor use. | Protect your outdoor furniture from rain, sun, dirt, dust, pollen and snow when not in use.
+Care: Wipe clean with a damp cloth. | Wipe clean with a mild soapy solution.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/groensta-chair-indoor-outdoor-gray-turquoise__1243686_pe920717_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: INGATORP / INGOLF table and 4 chairs, white/white
+SKU: 59400497
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ingatorp-ingolf-table-and-4-chairs-white-white-s59400497/
+Category: Dining sets up to 4 seats
+Description: , 431/4/61"
+
+# @OFFER
+Price: 779.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Solid wood, Adhesive, Seat: Fiberboard, All parts: Acrylic paint
+Features: Recommended for indoor use only. | Seats 4-6. | 1 self-storing, integrated butterfly extension leaf included.
+Care: For increased stability, re-tighten the screws about two weeks after assembly and when necessary. | Table: Wipe clean using a damp cloth and a mild cleaner.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ingatorp-ingolf-table-and-4-chairs-white-white__0954402_pe803271_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

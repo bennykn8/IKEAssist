@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TARSELE extendable table, oak veneer/black
+SKU: 70581359
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tarsele-extendable-table-oak-veneer-black-70581359/
+Category: Extendable tables
+Description: , 59/783/4x311/2" This extendable dining table is a nice mix of warm oak veneer and sturdy solid metal, and is inspired by 1950s industrial design. The table top also hides an extension leaf – perfect...
+
+# @OFFER
+Price: 699.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Fiberboard, Oak veneer, Tinted clear acrylic lacquer, Paper foil, Leg: Steel, Polyester powder coating, Foot: Polyethylene
+Features: Seats 4-6. | Recommended for indoor use only. | One extension leaf included.
+Care: Wipe clean regularly with a cloth dampened in a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tarsele-extendable-table-oak-veneer-black__0916857_pe785431_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

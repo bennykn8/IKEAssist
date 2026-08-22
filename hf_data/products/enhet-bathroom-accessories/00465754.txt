@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ENHET hook, white, ¼x
+SKU: 00465754
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/enhet-hook-white-00465754/
+Category: ENHET bathroom accessories
+Description: 1" With these hooks you can easily create room for more in the same space. Magic? Not at all, you just hang them in the grooves under the open ENHET frames. And best of all – you don’t have to drill. ...
+
+# @OFFER
+Price: 1.29
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Stainless steel, Powder coating
+Features: May be completed with ENHET rail for hooks, sold separately.
+Care: Wipe clean with a mild soapy solution. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/enhet-hook-white__0805579_pe769605_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

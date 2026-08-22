@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: VIDGA corner room divider, white
+SKU: 69428245
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vidga-corner-room-divider-white-s69428245/
+Category: Curtain track systems for ceiling & walls
+Description: You can create a room divider with brackets and track rails that can navigate around corners. Easy assembly and no visible screws. VIDGA curtain rail system gives you more flexibility and less complex...
+
+# @OFFER
+Price: 88
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Aluminum, Epoxy/polyester powder coating, Aluminium (min. 70% recycled), Epoxy/polyester powder coating, Acetal plastic
+Dimensions: omprises: 3 single track rails (length, 55.12 inches) including 6 ceiling fittings, 1 corner piece including 1 ceiling fitting and 4 glider/hook packages (24 gliders and 24 hooks per package).
+Features: When mounting ceiling brackets/fittings ensure a distance from the wall to allow opening/closing your curtain without obstacles like a protruding window sill, radiator or window handle getting in the way. | Use the ceiling bracket and a rail to hang curtains or fabric as a room divider. | Suitable for curtains with gathering tape.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vidga-corner-room-divider-white__0682833_pe720585_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: BRÄNNPUNKT gas cooktop, Stainless steel
+SKU: 40462065
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/braennpunkt-gas-cooktop-stainless-steel-40462065/
+Category: Gas cooktops
+Description: , 30" This 5-burner gas cooktop gives you good control over the heat and cooking time. Easy-clean, corner-to-corner cast iron grates makes it easy to move pots without lifting. Convenient angled knobs...
+
+# @OFFER
+Price: 649
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Features: Cooktop with gas cooking zones: | Right front: 3” – 12000 BTU sealed burner. | Left front: 2½” – 9500 BTU sealed burner.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/braennpunkt-gas-cooktop-stainless-steel__0852303_pe780015_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

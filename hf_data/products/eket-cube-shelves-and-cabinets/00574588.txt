@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: EKET cabinet with door and shelf, brown/walnut effect
+SKU: 00574588
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/eket-cabinet-with-door-and-shelf-brown-walnut-effect-00574588/
+Category: EKET cube shelves & cabinets
+Description: , 133/4x133/4x271/2" With the EKET series you can create great storage with small cabinets. You decide. And if your space or needs change, you can easily change your EKET solution too.
+
+# @OFFER
+Price: 70
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Back panel: Fiberboard, Paper foil, Panel: Particleboard, Honeycomb structure paper filling (100% recycled), Fiberboard, Paper foil, Plastic edging, Door panel: Particleboard, Paper foil, Plastic edging, Plastic edging
+Features: Must be completed with EKET suspension rail if you choose to mount the frame on the wall. This frame requires 1 suspension rail, 13¾" cm long, sold separately. | To be completed with feet or legs if you choose to place the cabinet on the floor. Sold separately. | This furniture must be secured to the wall with the enclosed wall fastener if you choose to place the cabinet on the floor.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/eket-cabinet-with-door-and-shelf-brown-walnut-effect__1373858_pe960064_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

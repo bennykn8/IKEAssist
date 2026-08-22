@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: UPPDATERA flatware tray, white, 15x19 ½"
+SKU: 60494206
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/uppdatera-flatware-tray-white-60494206/
+Category: Drawer dividers
+Description: Helps keep the kitchen drawer organized, so you can spend more time on setting the table nicely and less on looking for lost cutlery. A simple and practical cutlery tray in plastic that’s easy to clea...
+
+# @OFFER
+Price: 7
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polypropylene plastic (min. 20% recycled), Synthetic rubber
+Features: Combines with other UPPDATERA drawer organizers. | Dimensioned for 18" wide drawers. For drawers in other sizes, combine different-sized organizers to create a suitable solution.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/uppdatera-flatware-tray-white__0969083_pe810693_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

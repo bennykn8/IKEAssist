@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LOBERGET / MALSKÄR swivel chair + pad, white black/dark gray
+SKU: 09331939
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/loberget-malskaer-swivel-chair-pad-white-black-dark-gray-s09331939/
+Category: Desk chairs for home
+Description: Sit comfortably in this padded work chair where you easily adjust the height with the handle. The castors have a braking mechanism that prevents the chair from rolling away when you get up.
+
+# @OFFER
+Price: 69.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Lamella seat lock/ Gas cylinder/ Star base center/ Leg: Steel, Epoxy/polyester powder coating, Adjustment lever: Thermoplastic elastomer, Cover/ Wheel: Polypropylene
+Features: May be used with KOLON floor protector.
+Care: Wipe clean with a mild soapy solution. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/loberget-malskaer-swivel-chair-pad-white-black-dark-gray__0814590_pe772620_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

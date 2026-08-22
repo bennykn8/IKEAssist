@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BROR wall shelf combination, with hooks/2 shelves/black
+SKU: 39571862
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/bror-wall-shelf-combination-with-hooks-2-shelves-black-s39571862/
+Category: Combinations
+Description: , 341/2x173/4x353/8" Practical storage for tight spaces in your garage or storage room. A perfect combination when you want a complete solution with removable shelves and hooks for everything from too...
+
+# @OFFER
+Price: 70
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Galvanized steel, Powder coating, Rail/ Hook: Steel, Powder coating, Bracket: Galvanized steel, Powder coating
+Features: The recommended maximum weight applies when the weight load is evenly distributed across the surface.
+Care: Wipe clean with a soft cloth dampened with water and a mild dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/bror-wall-shelf-combination-with-hooks-2-shelves-black__1334208_pe946685_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

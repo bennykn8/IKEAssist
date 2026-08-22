@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: MARKKRYPARE rug, dark gray
+SKU: 20558573
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/markkrypare-rug-dark-gray-20558573/
+Category: Kids rugs
+Description: , 2'5"x3'3" Think how a whole world can fit on a small rug. At least in the imaginary world of children. Between the play rug's forests and houses, anything can happen, at any time. What could be behi...
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Use surface: 100 % polyester (100% recycled), Backing: 100 % Synthetic rubber
+Care: Hand wash warm water. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/markkrypare-rug-dark-gray__1185250_pe898320_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

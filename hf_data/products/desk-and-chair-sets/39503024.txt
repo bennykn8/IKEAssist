@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: RIDSPÖ / FJÄLLBERGET desk and chair, anthracite black stained ash veneer/dark gray
+SKU: 39503024
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ridspoe-fjaellberget-desk-and-chair-anthracite-black-stained-ash-veneer-dark-gray-s39503024/
+Category: Desk & chair sets
+Description: A ready-made workspace with clean lines and carefully thought-out functions. FJÄLLBERGET chair has an elegant design in bent wood – and RIDSPÖ desk has a drawer with a glass top for notes and displayi...
+
+# @OFFER
+Price: 749.98
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top/ Drawer front: Plywood, Oak veneer, Stain, Tinted clear acrylic lacquer, Oak veneer, Stain, Tinted clear acrylic lacquer, Back panel: Layer-glued wood veneer, Oak veneer, Stain, Tinted clear acrylic lacquer, Oak veneer, Stain, Tinted clear acrylic lacquer, Side rail: Plywood, Oak veneer, Stain, Tinted clear acrylic lacquer, Stain, Tinted clear acrylic lacquer
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ridspoe-fjaellberget-desk-and-chair-anthracite-black-stained-ash-veneer-dark-gray__1191187_pe900513_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

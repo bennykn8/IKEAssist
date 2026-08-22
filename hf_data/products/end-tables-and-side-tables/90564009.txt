@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LIVELYCKE tray table, black
+SKU: 90564009
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/livelycke-tray-table-black-90564009/
+Category: End tables & side tables
+Description: , 195/8" This side table gives you a perfect place for snacks, beverages or a stack of magazine on a small surface. And since the 2 trays can be removed, you can also use them for serving. You can use...
+
+# @OFFER
+Price: 34.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Panel/ Under frame: Steel, Epoxy/polyester powder coating, Bumper: Thermoplastic elastomer, Feet: Polypropylene, Polypropylene
+Features: Only for indoor use. | The hole in the edge of the tray is needed during the production process. | Max load on table top: 11 lbs.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/livelycke-tray-table-black__1211172_pe909989_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

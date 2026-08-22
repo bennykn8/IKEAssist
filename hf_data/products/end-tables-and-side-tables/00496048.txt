@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: IDANÄS side table, white
+SKU: 00496048
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/idanaes-side-table-white-00496048/
+Category: End tables & side tables
+Description: , 181/8x141/8" The IDANÄS series combines timeless design with modern functionality. This wooden side table adds elegance to any room you decide to have it. Stylish and practical, with great value acr...
+
+# @OFFER
+Price: 169.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top/ Bottom side rail/ Bottom rail: Fiberboard, Acrylic paint, Top side rail/ Top rail: Solid wood, Acrylic paint, Shelf: Particleboard, Acrylic paint, Paper foil, Plastic edging
+Features: Max load on table top: 44 lbs.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/idanaes-side-table-white__1161089_pe889273_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

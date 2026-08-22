@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MICKE Drawer unit/drop file storage, black-brown
+SKU: 40244751
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/micke-drawer-unit-drop-file-storage-black-brown-40244751/
+Category: Drawer units for home
+Description: , 13 3/4x29 1/2". Drawer stops prevent the drawers from being pulled out too far. Can be placed anywhere in the room because the back is finished.
+
+# @OFFER
+Price: 59.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Side panel/ Bottom panel: Particleboard, Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Acrylic paint, Plastic edging, Plastic edging, Drawer front: Particleboard, Paper foil, Plastic edging, Plastic edging, Drawer bottom: Fiberboard, Acrylic paint
+Features: May be completed wtih SUMMERA drop files for smart storage of important papers.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/micke-drawer-unit-drop-file-storage-black-brown__0172835_pe327022_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

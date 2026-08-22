@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KALAS tumbler, mixed colors
+SKU: 00461379
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kalas-tumbler-mixed-colors-00461379/
+Category: Kids tableware & dinnerware
+Description: Colorful, impact resistant, scratch resistant and grip-friendly. Perfect for small children who tend to drop, spill and make a mess in their eagerness to learn how to eat on their own. Can be stacked ...
+
+# @OFFER
+Price: 1.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polypropylene, Polypropylene
+Features: If you want to heat food in the microwave, a bowl or plate made of glass or porcelain is preferable since some food can quickly reach temperatures above 212 °F, which can cause plastic to melt.
+Care: Dishwasher-safe up to 158ºF (70°C).
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kalas-tumbler-mixed-colors__0998019_pe822917_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

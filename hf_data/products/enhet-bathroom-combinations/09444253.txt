@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ENHET storage combination, anthracite/white
+SKU: 09444253
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/enhet-storage-combination-anthracite-white-s09444253/
+Category: ENHET bathroom combinations
+Description: , 36x123/4x72" Set the style by showcasing your favorite objects in the open shelves and framing them in with cabinets on the sides. You get a generous storage solution with a calm and harmonious expr...
+
+# @OFFER
+Price: 398
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Particleboard, Front side/ Back side: Plastic foil, Edge: Plastic edging
+Features: Knobs or handles and lighting products sold separately. | Cabinet included. | This solution may be hung on the wall, with the option to add legs for looks or for extra stability.
+Care: Wipe clean with a mild soapy solution. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/enhet-storage-combination-anthracite-white__1053911_pe847300_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: LAGKAPTEN / ADILS desk, white
+SKU: 29416758
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lagkapten-adils-desk-white-s29416758/
+Category: Combinations
+Description: , 471/4x235/8" Mix and match your choice of table top and legs – or choose this ready-made combination. Strong and light-weight, made with a technique that uses less raw materials, reducing the impact...
+
+# @OFFER
+Price: 46.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fiberboard, Acrylic paint, Plastic edging, Honeycomb structure paper filling (min. 70% recycled), Particleboard, Fiberboard, Main parts: Steel, Epoxy/polyester powder coating, Foot: Polypropylene
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lagkapten-adils-desk-white__0977229_pe813472_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

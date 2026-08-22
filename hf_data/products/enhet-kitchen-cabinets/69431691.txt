@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ENHET bc w shlf/doors, white/white frame
+SKU: 69431691
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/enhet-bc-w-shlf-doors-white-white-frame-s69431691/
+Category: ENHET kitchen cabinets
+Description: , 24x243/4x30" ENHET series makes it easy to start fresh with a new kitchen solution. This base cabinet with shelf is perfect for bowls or small appliances, and the timeless white framed door goes wit...
+
+# @OFFER
+Price: 147
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Side panel/ Bottom panel/ Shelf: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Plastic foil, Plastic edging, Back rail: Particleboard, Plastic foil, Plastic edging, Back panel: Fiberboard, Plastic foil
+Features: Must be secured to the wall for a safe installation. Different wall materials require different types of fixing devices. Use fixing devices suitable for the walls in your home, sold separately. | Screws for connecting several cabinets included. | Screws for fixing the countertop to the base cabinet included.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/enhet-bc-w-shlf-doors-white-white-frame__1048176_pe843626_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

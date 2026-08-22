@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HOLMSUND cover for sleeper sofa, Kilanda gray-brown
+SKU: 80552257
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/holmsund-cover-for-sleeper-sofa-kilanda-gray-brown-80552257/
+Category: HOLMSUND covers
+Description: This cover is made from the soft-to-the-touch Kilanda fabric with a mélange effect and texture that gives the fabric a vibrant expression. Extra covers to alternate with mean it's easy to give both yo...
+
+# @OFFER
+Price: 99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100% polyester (min. 90% recycled)
+Features: This product is an extra cover. Sofa is sold separately.
+Care: Removable cover: Machine wash warm, normal cycle. | Removable cover: To be washed separately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/holmsund-cover-for-sleeper-sofa-kilanda-gray-brown__1192498_pe901118_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

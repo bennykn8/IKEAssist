@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: NEREBY wall shelf, birch
+SKU: 90465924
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/nereby-wall-shelf-birch-90465924/
+Category: Kitchen wall organizers
+Description: , 157/8x37/8" The NEREBY series frees up countertop space and puts things close at hand. The durable blend of undyed/unbleached hemp and cotton creates a tactile texture and keeps its rustic beauty ov...
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Shelf support: Steel, Galvanized, Polyester powder coating, Shelf/ Rail: Solid birch, Clear polyurethane/acrylic lacquer
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Combines with other accessories in the NEREBY series. | Screws for wall mounting sold separately.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/nereby-wall-shelf-birch__0942036_pe795921_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

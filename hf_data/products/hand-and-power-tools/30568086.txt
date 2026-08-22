@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: TRIXIG 20-piece drill and bit set
+SKU: 30568086
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/trixig-20-piece-drill-and-bit-set-30568086/
+Category: Hand & power tools
+Description: The TRIXIG series has most of what a DIYer needs – from cordless drills to screws. Perfect when you want to complete your toolbox or give a housewarming gift to someone who has recently moved. The sto...
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Box/ Divider/ Lid: Polypropylene plastic (min. 50% recycled), Holder: Steel, Galvanized, Drill/ Bit set: Steel
+Dimensions: Comprises: 1 magnetic box with CRV bits PZ1, PZ2, PZ3, T10, T15, T20, T25, T30, H3, H4, H5, H6, SL3, SL4, SL6 and drill bits with diameter .12", .20", .23" and .31" and 1 bit holder.
+Features: May be completed with TRIXIG screwdriver/drill. | The drill bits can be used for wood, plastic and metal. | The markings on the box and bits make it easy to put the bits back in the right place.
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/trixig-20-piece-drill-and-bit-set__1222986_pe914762_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

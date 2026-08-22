@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: ÄLMAREN kitchen faucet with pull-out spout, black
+SKU: 40605205
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/aelmaren-kitchen-faucet-with-pull-out-spout-black-40605205/
+Category: Kitchen faucets
+Description: ÄLMAREN tap lowers your water and energy use. The high, pull-out spout also makes it easier to rinse tableware − and the quality is guaranteed to outlast many years of washing and rinsing. Rinsing dis...
+
+# @OFFER
+Price: 139
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Zinc, Metallized
+Dimensions: Connection hoses with 9/16" connection included. Length: 13¾".
+Features: If you are uncertain about the installation, contact a professional. The installation shall be made in accordance with valid local building and plumbing regulations. | To be mounted in a 1⅜" hole in a max. 2" thick sink/countertop. | To make a hole for the kitchen faucet, FIXA 2-piece tool set can be recommended; sold separately.
+Care: Do not use scouring-powder, steel wool, hard or sharp tools which can scratch the surface. | Wipe clean with a soft cloth dampened with water and a mild dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/aelmaren-kitchen-faucet-with-pull-out-spout-black__1387565_pe964298_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

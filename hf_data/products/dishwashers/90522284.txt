@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: ESSENTIELL built-in dishwasher, black Stainless steel
+SKU: 90522284
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/essentiell-built-in-dishwasher-black-stainless-steel-90522284/
+Category: Dishwashers
+Description: , 24" A dishwasher that handles up to 14 place settings with height-adjustable upper rack to accommodate various dish sizes. 5 cycles plus options like delayed start, sanitizing, max dry or heat/air d...
+
+# @OFFER
+Price: 599
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Features: Capacity: 14 place settings. | Noise level: 52 dB (A). | 3.33 gal (12.6L) per ESTAR declaration.
+Care: Remove stains and residue inside the dishwasher using a cloth dampened with water and a small amount of vinegar. | Clean the exterior parts and control panel using a non-abrasive cloth dampened with water.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/essentiell-built-in-dishwasher-black-stainless-steel__0841081_pe778773_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

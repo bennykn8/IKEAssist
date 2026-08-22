@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VATTENKAR desk organizer, white, 13x8 ¼x
+SKU: 80548661
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vattenkar-desk-organizer-white-80548661/
+Category: Desk accessories
+Description: 17" A portable organizer is the perfect solution when you want to switch workspaces at home or at the office. Add SKÅDIS accessories by using the holes on the pegboard to make it more personal and pra...
+
+# @OFFER
+Price: 29.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Front panel/ Peg board/ Back panel/ Bottom panel: Fiberboard, Acrylic paint, Side panel: Steel, Powder coating, Handle: Solid birch, Clear lacquer
+Features: 1 elastic strap is included. | May be completed with the accessories in the SKÅDIS series to keep small things organized.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vattenkar-desk-organizer-white__1176251_pe895913_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

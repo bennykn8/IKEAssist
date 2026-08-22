@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: DANDERYD / INGOLF table and 2 chairs, oak veneer white/white
+SKU: 09478399
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/danderyd-ingolf-table-and-2-chairs-oak-veneer-white-white-s09478399/
+Category: Dining sets up to 2 seats
+Description: , 291/8/523/4x311/2" A perfect dining set for a small kitchen or as an accent in a large room. This wood table with beautiful grain patterns will fit in any interior. Easy to extend to quickly make sp...
+
+# @OFFER
+Price: 439.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Underframe/ Supporting rail/ Leg: Steel, Epoxy/polyester powder coating, Inside leg: Steel, Table top/ Drop leaf: Particleboard, Oak veneer, Solid oak, Clear acrylic lacquer
+Features: To prevent surface scratches and the sound of chair legs scraping on the floor, add FIXA self-adhesive floor protectors, sold separately. | Recommended for indoor use only. | Seats 2-4.
+Care: For maximum quality, re-tighten the screws when necessary. | Table: Wipe clean using a damp cloth and a mild cleaner.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/danderyd-ingolf-table-and-2-chairs-oak-veneer-white-white__1088674_pe861277_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

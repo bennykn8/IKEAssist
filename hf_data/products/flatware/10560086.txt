@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: BÄCKÖRING 20-piece flatware set, stainless steel
+SKU: 10560086
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/baeckoering-20-piece-flatware-set-stainless-steel-10560086/
+Category: Flatware
+Description: Ordinary weekdays and special moments. The timeless, classic BÄCKÖRING cutlery is inspired by Scandinavian design with a discreet line on the handles – and make everybody feel welcome at the table.
+
+# @OFFER
+Price: 39.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Knife: Stainless steel, Stainless steel, Spoon/ Fork/ Tea spoon: Stainless steel
+Features: Includes: Fork, knife, spoon and teaspoon, 4 of each.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/baeckoering-20-piece-flatware-set-stainless-steel__1199902_pe904757_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

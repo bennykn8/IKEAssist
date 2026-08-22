@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ENHET hanging shelf insert, anthracite
+SKU: 40514559
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/enhet-hanging-shelf-insert-anthracite-40514559/
+Category: ENHET bathroom accessories
+Description: , 10x11x6" This insert adds a new dimension to your open ENHET frame. It divides the storage space and makes room for more things in no time – simply hang it in the grooves of the frame and get organi...
+
+# @OFFER
+Price: 12
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Galvanized steel, Powder coating
+Features: Fits 12" deep ENHET wall and high frames.
+Care: Wipe clean with a mild soapy solution. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/enhet-hanging-shelf-insert-anthracite__1139711_pe880448_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

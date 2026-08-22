@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TONSTAD table and 4 chairs, brown oak effect/Gunnared dark grey black
+SKU: 99602318
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tonstad-table-and-4-chairs-brown-oak-effect-gunnared-dark-grey-black-s99602318/
+Category: Dining sets up to 4 seats
+Description: , 551/8/771/8x331/2"
+
+# @OFFER
+Price: 1049.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel: Particleboard, Stain, Tinted clear acrylic lacquer, Paper foil, Paper edging, Oak veneer, Tinted lacquer, Side rail/ Leg: Solid wood, Adhesive, Oak veneer, Stain, Tinted clear acrylic lacquer, Cross rail: Particleboard, Plastic foil
+Features: Recommended for indoor use only. | Seats 4-6. | 1 self-storing extension leaf included.
+Care: Table: Wipe clean using a damp cloth and a mild cleaner. | Table: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tonstad-table-and-4-chairs-brown-oak-effect-gunnared-dark-grey-black__1426687_pe979914_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

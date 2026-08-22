@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: IKEA 365+ food container with lid, set of 4, plastic
+SKU: 40526449
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ikea-365-food-container-with-lid-set-of-4-plastic-40526449/
+Category: Food storage container sets
+Description: Leftovers from dinner? With these four food containers, nothing goes to waste. Stack them in the fridge or freezer, the lid is leak-proof and the transparent plastic makes it easy to see what's inside...
+
+# @OFFER
+Price: 12.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Jar/ Lid: Polypropylene, Seal: Silicone rubber
+Features: Includes: 4 food containers with lids. 2 square (5⅞x5⅞x2¾", 0.8 qt.), 1 rectangular (8¼x5⅞x2¾", 1 qt.) and 1 rectangular (8¼x5⅞x4¾", 2 qt.). | Wash this product before using it for the first time.
+Care: Microwave-safe. | Freezer-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ikea-365-food-container-with-lid-set-of-4-plastic__1109089_pe869814_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

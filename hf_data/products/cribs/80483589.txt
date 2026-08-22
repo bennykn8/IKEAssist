@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MYLLRA crib with drawer, white
+SKU: 80483589
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/myllra-crib-with-drawer-white-80483589/
+Category: Cribs
+Description: , 271/2x52" Lying, sitting, climbing, standing. MYLLRA crib has an adjustable bottom, is a safe sleeping place during all stages of development – and when a child can get in and out on their own, just...
+
+# @OFFER
+Price: 499
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Head/footboard: Fiberboard and honeycomb paper filling (100% recycled paper), Acrylic paint, Bedside with spindles: Solid beech, Tinted clear acrylic lacquer, Acrylic paint, Bed base frame: Solid beech
+Features: Mattress and bedlinens are sold separately. | We recommend you complete the crib with an IKEA mattress.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/myllra-crib-with-drawer-white__0812404_pe783211_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

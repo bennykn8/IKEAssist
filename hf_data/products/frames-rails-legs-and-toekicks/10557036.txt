@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SEKTION floor anchoring frame f kit island
+SKU: 10557036
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sektion-floor-anchoring-frame-f-kit-island-10557036/
+Category: Frames, rails, legs & toekicks
+Description: , 825/8" This floor anchoring frame simplifies the task of securing your kitchen island or peninsula to make sure that it stays in place. The feet can be adjusted to level your frame on uneven floors....
+
+# @OFFER
+Price: 41
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Solid pine
+Features: You can combine the support bracket with legs and toekicks to hide everything below your cabinets. | Can be cut to fit cabinets of different sizes. | Screws are sold separately. Choose screws which are suitable to the material you are mounting to.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sektion-floor-anchoring-frame-f-kit-island__1301906_pe937588_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

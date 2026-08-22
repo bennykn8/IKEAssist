@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MÖCKELBY / NORRARYD table and 6 chairs, oak/black
+SKU: 59161492
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/moeckelby-norraryd-table-and-6-chairs-oak-black-s59161492/
+Category: Dining sets up to 6 seats
+Description: , 921/2x393/8" A durable dining set that makes it easy to have big dinners. The solid wood holds up well over time and will endure all the family meals and activities around the table. The plank expre...
+
+# @OFFER
+Price: 1689
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Particleboard, Oak veneer, Clear acrylic lacquer, Oak veneer, Clear acrylic lacquer, Leg/ Underframe: Particleboard, Solid oak, Thick oak veneer, Clear acrylic lacquer, Cross rail: Particleboard, Solid oak, Oak veneer, Clear acrylic lacquer
+Features: Seats 6. | The table top has a ⅛" top layer of solid oak over particleboard.
+Care: When the surface of the table top starts to wear or becomes dry, treat it with wood treatment oil. | Wipe clean with a soft cloth dampened with water and a mild dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/moeckelby-norraryd-table-and-6-chairs-oak-black__0737500_pe741140_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

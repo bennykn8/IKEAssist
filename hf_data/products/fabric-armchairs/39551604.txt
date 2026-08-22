@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: POÄNG low-back armchair, black-brown/Katorp natural/beige
+SKU: 39551604
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/poaeng-low-back-armchair-black-brown-katorp-natural-beige-s39551604/
+Category: Fabric armchairs
+Description: Japanese designer Noboru Nakamura is the man behind the successful POÄNG armchair, launched in 1977. In 2022 he removed the headrest – a new design as it now owns its place in the Nytillverkad collect...
+
+# @OFFER
+Price: 139
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Supporting fabric: 100 % polypropylene, Frame: Layer-glued wood veneer, Birch veneer, Stain, Clear acrylic lacquer, Wadding: 100% polyester (min. 80% recycled)
+Care: Frame: Wipe clean using a damp cloth and a mild cleaner. | Frame: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/poaeng-low-back-armchair-black-brown-katorp-natural-beige__1315083_pe940397_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

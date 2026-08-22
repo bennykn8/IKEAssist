@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: BLÅSKATA duvet cover and pillowcase(s), purple/black patterned, Twin
+SKU: 10569510
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/blaskata-duvet-cover-and-pillowcase-s-purple-black-patterned-10569510/
+Category: Kids bedding & duvet covers
+Description: For those who love all kinds of pixels – and like to snooze. This check-patterned duvet cover set is made from soft cotton/viscose with an alluring luster that will make your teen long for bed (even m...
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 80 % cotton, 20 % viscose/rayon
+Care: Shrinkage maximum 4%. | Machine wash warm (max 140°F/60°C) normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/blaskata-duvet-cover-and-pillowcase-s-purple-black-patterned__1274444_pe930315_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

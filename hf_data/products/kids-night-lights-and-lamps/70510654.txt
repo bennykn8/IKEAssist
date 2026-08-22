@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SNÖDJUP LED decorative light, speech bubble white/multicolor
+SKU: 70510654
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/snoedjup-led-decorative-light-speech-bubble-white-multicolor-70510654/
+Category: Kids night lights & lamps
+Description: Do you have something important to say? Do it with this LED lamp shaped like a speech bubble – and let it change color according to your mood. Tested to some of the world's toughest safety requirement...
+
+# @OFFER
+Price: 29.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame/ Cover/ Switch cover/ Holder/ Foot: PET plastic, Spring: Nickel plated, Steel, Tube: Synthetic rubber, Synthetic rubber
+Features: Built-in LED light source. | The light source has a lifetime of approx. 25,000 hours. This corresponds to about 20 years if the lamp is on for 3 hours per day. | Special waste handling may be required. Please contact your local authorities for more information.
+Care: Dust the lamp with a dust cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/snoedjup-led-decorative-light-speech-bubble-white-multicolor__1090092_pe861828_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HEMNES Bathroom vanity with drawers, gray
+SKU: 00605311
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hemnes-bathroom-vanity-with-drawers-gray-00605311/
+Category: HEMNES vanity units without sink
+Description: , 36x323/8" Our HEMNES series reinforces the traditional look in your bathroom with a simple design that never feels outdated. The smooth-running drawers open all the way so you can easily find all yo...
+
+# @OFFER
+Price: 279
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts/ Drawer front: Solid pine, Adhesive, Stain, Clear acrylic lacquer, Drawer sides/ Drawer back/ Drawer divider: Solid pine, Adhesive, Clear acrylic lacquer, Drawer bottom: Particleboard, High-pressure melamine laminate, High-pressure melamine laminate, Plastic edging
+Features: Knobs included. | Two people are needed to assemble this furniture. | Secure that the material in your bathroom walls can support the weight of the furniture. If you are uncertain about the installation, contact a professional.
+Care: Wipe clean regularly with a cloth dampened in a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hemnes-bathroom-vanity-with-drawers-gray__0487558_pe622593_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

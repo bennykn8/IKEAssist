@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FEJKA artificial potted plant, indoor/outdoor smoke tree, 4 ¾"
+SKU: 60582509
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/fejka-artificial-potted-plant-indoor-outdoor-smoke-tree-60582509/
+Category: Faux desk plants
+Description: This artificial smoke tree with its true-to-nature look and lovely foliage is primarily made from recycled plastic. Put it in a pot and let it spread a warm feeling in your home.
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Leaf: 100 % polyester (100% recycled), Polyethylene plastic (min. 70% recycled), Stem: Polyethylene plastic (min. 70% recycled), Steel, Paint, Inner plant pot: Polypropylene plastic (min. 70% recycled), Non-potable water, Polyethylene
+Features: Suitable for indoor and outdoor use.
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/fejka-artificial-potted-plant-indoor-outdoor-smoke-tree__1288963_pe934347_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

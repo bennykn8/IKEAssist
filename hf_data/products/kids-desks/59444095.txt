@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: SMYGA desk with mirror, light gray
+SKU: 59444095
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/smyga-desk-with-mirror-light-gray-s59444095/
+Category: Kids desks
+Description: , 48x235/8" Traditionally styled neat desk or dressing table with a mirror, a big work area, a spacious drawer, knobs and cable outlets. Part of the SMYGA series, this item made of solid wood can last...
+
+# @OFFER
+Price: 229.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Leg: Solid pine, Stain, Clear acrylic lacquer, Table top/ Top rail/ Bottom rail/ Drawer front: Solid pine, Clear acrylic lacquer, Stain, Drawer support: Solid pine
+Features: Screws or fittings to fix the furniture/object to the wall are not included. Always choose screws and fittings that are specially suited to the material in your wall and have sufficient holding power.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/smyga-desk-with-mirror-light-gray__1047836_pe843538_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

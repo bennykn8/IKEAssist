@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: FÖRLUNDA pouffe, with storage/Tonerud red
+SKU: 00572749
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/foerlunda-pouffe-with-storage-tonerud-red-00572749/
+Category: Fabric ottomans
+Description: FÖRLUNDA pouffe is small, stackable and has a practical storage space under the soft seat. Perfect to have in the hallway when tying your shoes or in the living room as extra seating. 10-year guarante...
+
+# @OFFER
+Price: 59.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100 % polyester (100% recycled), Frame: 100% polyester (min. 80% recycled), 100 % polypropylene, Plywood, Solid wood, Particleboard, Paperboard (100% recycled), Lid: 100 % polypropylene, 100% polyester (min. 80% recycled), Particleboard, Polyamide, Polyurethane foam 2.0 lb/cu.ft.
+Care: Frame, non-removable cover: Clean by vacuuming or use a lint roller. | Frame, non-removable cover: Light stains can be removed with a damp sponge or a mild soapy solution.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/foerlunda-pouffe-with-storage-tonerud-red__1320731_pe941334_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

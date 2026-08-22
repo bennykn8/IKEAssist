@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: SLÄKT bed accessory, house shaped/gray
+SKU: 70594776
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/slaekt-bed-accessory-house-shaped-gray-70594776/
+Category: Kids bed tents & canopies
+Description: SLÄKT bed accessory makes the transition from cot to big bed easy and fun. The shape of the house creates a screened-off nook where you can cozy up together for a while before your child falls asleep ...
+
+# @OFFER
+Price: 60
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100% polyester (min. 60% recycled)
+Care: Do not wash. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/slaekt-bed-accessory-house-shaped-gray__1399343_pe968345_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

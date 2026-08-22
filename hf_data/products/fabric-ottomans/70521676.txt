@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: OSKARSHAMN ottoman with storage, Gunnared black-gray
+SKU: 70521676
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/oskarshamn-ottoman-with-storage-gunnared-black-gray-70521676/
+Category: Fabric ottomans
+Description: Sit back and rest your feet for a while. This footstool is the perfect complement to OSKARSHAMN wing chair. Beautiful, stylish and also practical with a storage space under the seat.
+
+# @OFFER
+Price: 200
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Back fabric: 100 % polyester (100% recycled), Leather parts: Dyed through top-grain leather with a treated and pigmented surface, Frame: Paperboard (min. 100% recycled), Particleboard, Solid wood, Plywood, Polyurethane foam 1.5 lb/cu.ft., Fiberboard
+Care: Frame, non-removable cover: Vacuum clean. | Frame, non-removable cover: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/oskarshamn-ottoman-with-storage-gunnared-black-gray__1118163_pe872958_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

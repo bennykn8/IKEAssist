@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: JORDART shoehorn, black
+SKU: 10606051
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/jordart-shoehorn-black-10606051/
+Category: Hangers
+Description: With the long JORDART shoehorn, you don't have to bend over when it's time to put on your shoes. Made from durable plastic with a rounded, curved top that gives you a good grip ─ and makes it easy to ...
+
+# @OFFER
+Price: 2.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: ABS plastic (min. 20% recycled)
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/jordart-shoehorn-black__1419181_pe976896_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

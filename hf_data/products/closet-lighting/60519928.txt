@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ROLFSTORP LED light, dimmable
+SKU: 60519928
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/rolfstorp-led-light-dimmable-60519928/
+Category: Closet lighting
+Description: Slim and easy to fix in place wherever you need some light. It’s also simple to dim and has built-in LED lighting that lasts a long, long time. This lamp has everything, except a high price. A good no...
+
+# @OFFER
+Price: 13
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Diffuser/ Base: Polycarbonate plastic, Cover/ Mounting bracket: ABS plastic, Double-sided tape: EVA plastic
+Features: Built-in LED light source. | The light source has a lifetime of approx. 25,000 hours. This corresponds to about 20 years if the lamp is on for 3 hours per day. | Light color: warm white (2700 Kelvin).
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/rolfstorp-led-light-dimmable__1055094_pe847930_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

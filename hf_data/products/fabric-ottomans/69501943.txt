@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: POÄNG ottoman, birch veneer/Gunnared light green
+SKU: 69501943
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/poaeng-ottoman-birch-veneer-gunnared-light-green-s69501943/
+Category: Fabric ottomans
+Description: The perfect companion to POÄNG armchair. This footstool is comfortable to rest your feet on and has the same unique shape as the armchair with its strong layer-glued frame. Put your feet up and relax....
+
+# @OFFER
+Price: 120
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Layer-glued wood veneer, Birch veneer, Clear lacquer, Fabric: 100% polyester (min. 90% recycled), Wadding: 100% polyester (min. 80% recycled)
+Care: Frame: Wipe clean using a damp cloth and a mild cleaner. | Frame: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/poaeng-ottoman-birch-veneer-gunnared-light-green__1192193_pe900948_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HEKTAR floor lamp with 3-spotlights, brown-red
+SKU: 40577472
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hektar-floor-lamp-with-3-spotlights-brown-red-40577472/
+Category: Floor lamps
+Description: The simple, oversized metal shape is inspired by old lamps from places like factories and theaters. Used together, HEKTAR lamps support different activities and create a unified, rustic look in the ro...
+
+# @OFFER
+Price: 99.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Base/ Tube/ Shade/ Support bracket: Steel, Powder coating, Weight: Sand, EVA plastic, Adjustment nut/ Mounting bracket: Aluminum, Powder coating
+Features: Light bulbs sold separately. IKEA recommends LED bulb E12 chandelier opal white (3 pcs). | Special waste handling may be required. Please contact your local authorities for more information. | May be completed with other lamps in the same series.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hektar-floor-lamp-with-3-spotlights-brown-red__1279732_pe931507_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

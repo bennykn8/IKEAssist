@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: ÄNGESBYN storage table, black/pine light brown stained
+SKU: 00497806
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/aengesbyn-storage-table-black-pine-light-brown-stained-00497806/
+Category: Coffee tables
+Description: , 167/8" Table and storage in one, suitable anywhere in your home. The metal base and wooden table top create a naturally warm and rustic look. Perfect for everything you want close by – from newspape...
+
+# @OFFER
+Price: 79.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Under frame/ Leg: Steel, Epoxy/polyester powder coating, Table top: Solid pine, Clear acrylic lacquer, Stain, Clear acrylic lacquer, Stain, Fabric: 100% polyester (min. 90% recycled)
+Dimensions: Spare parts prolong the life of your product. Cloth bag with a 16⅞" diameter for the table has spare part number C008455. For more information, contact IKEA Customer Service at your IKEA store or IKEA-USA.com.
+Features: Max load on table top: 22 lbs.
+Care: Frame: Wipe clean with a damp cloth. | Frame: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/aengesbyn-storage-table-black-pine-light-brown-stained__1055670_pe848039_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

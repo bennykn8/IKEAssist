@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HORRED pendant lamp shade, metal/black
+SKU: 60459910
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/horred-pendant-lamp-shade-metal-black-60459910/
+Category: Lamp shades
+Description: A shape like a crayfish cage, but a matching cord set and a decorative LED bulb transform the lampshade into a personal pendant lamp that lights up your table and creates an exciting pattern of light....
+
+# @OFFER
+Price: 27.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Epoxy coating
+Features: Cord set is sold separately. | Light bulb sold separately.
+Care: Dust the lamp with a dust cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/horred-pendant-lamp-shade-metal-black__0767649_pe754180_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

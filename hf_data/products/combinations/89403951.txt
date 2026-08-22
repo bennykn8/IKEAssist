@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: IVAR 4 section shelving unit, pine
+SKU: 89403951
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ivar-4-section-shelving-unit-pine-s89403951/
+Category: Combinations
+Description: , 1353/8x113/4x89" Since IVAR storage system is so good at what it does, it has faithfully served customers’ needs across the home for over 50 years. Attics, living rooms, pantries and bedrooms – they...
+
+# @OFFER
+Price: 305
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Solid pine, Solid pine, Solid pine, Steel, Galvanized
+Features: For higher stability, add a cross-brace to every second section. | Possible to separate for recycling or energy recovery if available in your community.
+Care: Wipe clean with a dry cloth. | Stains can be removed by using an eraser or fine sandpaper.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ivar-4-section-shelving-unit-pine__0135725_pe292495_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

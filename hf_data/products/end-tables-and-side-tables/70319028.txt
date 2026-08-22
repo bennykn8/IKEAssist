@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LACK side table, white stained oak effect
+SKU: 70319028
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lack-side-table-white-stained-oak-effect-70319028/
+Category: End tables & side tables
+Description: , 215/8x215/8" LACK side table is easy to match with other furnishings. The honeycomb structured paper filling construction adds strength to the table while keeping it lightweight so it´s easy to move...
+
+# @OFFER
+Price: 14.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top: Particleboard, Fiberboard, Plastic edging, Printed and embossed acrylic paint, Clear acrylic lacquer, Filling material: Honeycomb structure paper filling (min. 70% recycled), Leg: Particleboard, Fiberboard, Paper foil
+Features: Max load on table top: 55 lbs.. | Coordinates with other products in the LACK series.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lack-side-table-white-stained-oak-effect__0411514_pe570468_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

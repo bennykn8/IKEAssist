@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TONSTAD / TONSTAD table and 4 chairs, brown oak effect/Bomstad golden brown brown oak effect
+SKU: 09602271
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tonstad-tonstad-table-and-4-chairs-brown-oak-effect-bomstad-golden-brown-brown-oak-effect-s09602271/
+Category: Dining sets up to 4 seats
+Description: , 551/8/771/8x331/2" TONSTAD dining series introduces fixed or extendable tables in off-white or brushed oak veneer, with softly rounded features that add warmth and elegance. The chairs come with a p...
+
+# @OFFER
+Price: 769.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel: Particleboard, Stain, Tinted clear acrylic lacquer, Paper foil, Paper edging, Oak veneer, Tinted lacquer, Side rail/ Leg: Solid wood, Adhesive, Oak veneer, Stain, Tinted clear acrylic lacquer, Cross rail: Particleboard, Plastic foil
+Features: Recommended for indoor use only. | Seats 4-6. | 1 self-storing extension leaf included.
+Care: Do not wash. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tonstad-tonstad-table-and-4-chairs-brown-oak-effect-bomstad-golden-brown-brown-oak-effect__1426777_pe980008_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

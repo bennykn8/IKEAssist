@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VITTSJÖ Laptop table, white, glass
+SKU: 40303444
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vittsjoe-laptop-table-white-glass-40303444/
+Category: Desks for home
+Description: , 39 3/8x14 1/8". Table with work surface and storage inside for a laptop turns any small space into a functional work space. Made of tempered glass and steel, durable materials that give an open, air...
+
+# @OFFER
+Price: 69.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Steel, Epoxy/polyester powder coating, Fixed shelf: Particleboard, Melamine foil, ABS plastic, Top panel: Tempered glass
+Features: Five self-adhesive cable clips included. | Part of a series.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vittsjoe-laptop-table-white-glass__0736024_pe740335_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: NORRSJÖN cutting board, oak, 17 ¼x16 ½"
+SKU: 60458449
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/norrsjoen-cutting-board-oak-60458449/
+Category: Cutting boards
+Description: Designed to fit over VRESJÖN sinks. This over-the-sink cutting board provides a hardwearing oak surface that preserves your knives' quality as well as a convenient and stylish extension of your workto...
+
+# @OFFER
+Price: 29.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Solid oak, Oil
+Care: Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary. | Light stains can be removed with a damp sponge in water or a mild soapy solution, or with a fine sandpaper.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/norrsjoen-cutting-board-oak__0754774_pe748087_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

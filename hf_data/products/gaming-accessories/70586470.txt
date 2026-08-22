@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: BRÄNNBOLL gaming mouse pad, black/patterned, 35 ½x15 ¾"
+SKU: 70586470
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/braennboll-gaming-mouse-pad-black-patterned-70586470/
+Category: Gaming accessories
+Description: This wide gaming mouse pad with pixel pattern is great for those who want their mouse and keyboard on the same firm, smooth surface. Here you can move the mouse quickly to win even the toughest of bat...
+
+# @OFFER
+Price: 21.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % polyester (100% recycled), Natural rubber
+Care: Do not wash. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/braennboll-gaming-mouse-pad-black-patterned__1298837_pe936325_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

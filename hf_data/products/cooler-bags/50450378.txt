@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FRAKTA cooler bag, blue, 15x15 ¾"
+SKU: 50450378
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/frakta-cooler-bag-blue-50450378/
+Category: Cooler bags
+Description: The cooler bag keeps food frozen for approx. 2 hours. Handy cooler bag with carrying straps for a day at the beach, a picnic, or for bringing your food products home today!
+
+# @OFFER
+Price: 3.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts/ Handle: Polypropylene (100% recycled), Filling: Polyethylene foam
+Features: May be completed with KYLKLAMP ice pack for maximum effect.
+Care: Hand wash warm water. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/frakta-cooler-bag-blue__0783600_pe761537_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

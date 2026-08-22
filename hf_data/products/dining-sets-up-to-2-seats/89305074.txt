@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: NORDVIKEN / NORDVIKEN table and 2 chairs, black/black
+SKU: 89305074
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/nordviken-nordviken-table-and-2-chairs-black-black-s89305074/
+Category: Dining sets up to 2 seats
+Description: , 291/8/41x291/8" This beautifully matched dining set with traditional feel will soon become a natural gathering place in your home. NORDVIKEN extendable table seats 2 to 4 people and NORDVIKEN chair ...
+
+# @OFFER
+Price: 329.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Leg/ Rail: Solid pine, Stain, Clear acrylic lacquer, Seat: Layer-glued wood veneer, Ash veneer, Ash veneer, Layer-glued wood veneer, Stain, Clear acrylic lacquer, Table top: Particleboard, Ash veneer, Ash veneer, Stain, Tinted clear acrylic lacquer, Paper foil
+Features: Recommended for indoor use only. | May be completed with NORDVIKEN chair pad, sold separately.
+Care: Chair: Wipe clean with a mild soapy solution. | Chair: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/nordviken-nordviken-table-and-2-chairs-black-black__0747556_pe744581_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SUNDVIK wardrobe, white
+SKU: 90576700
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sundvik-wardrobe-white-90576700/
+Category: Children's wardrobes
+Description: , 311/2x195/8x673/8" The style is timeless, the materials are durable and the details are made with care. The wardrobe is also deep enough for large hangers, so it can follow your child from the first...
+
+# @OFFER
+Price: 349.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Solid pine, Stain, Clear acrylic lacquer, Top shelf: Solid pine, Clear acrylic lacquer, Lower shelf/ Rail: Solid pine, Stain, Clear acrylic lacquer, Clear acrylic lacquer
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | 1 clothes rail and 1 stationary shelf included.
+Care: Wipe clean with a damp cloth. | Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sundvik-wardrobe-white__0626568_pe692872_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

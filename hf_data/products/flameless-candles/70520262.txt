@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ÄDELLÖVTRÄD LED candle, white/indoor
+SKU: 70520262
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/aedelloevtraed-led-candle-white-indoor-70520262/
+Category: Flameless candles
+Description: , 11" Creating a cozy and inviting atmosphere in a home couldn’t be simpler and safer than this. The built-in timer automatically turns the candle on at the same time every day – and turns it off afte...
+
+# @OFFER
+Price: 8.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Base/ Shade: Polypropylene, Decoration: ABS plastic
+Features: Only use batteries that are intended for the product. Do not mix old and new batteries, different brands or types. | Built-in LED light source. | Light color: warm white (2700 Kelvin).
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/aedelloevtraed-led-candle-white-indoor__1063300_pe851321_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

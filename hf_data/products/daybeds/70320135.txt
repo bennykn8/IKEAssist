@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FLEKKE daybed frame with 2 drawers, black-brown, Twin
+SKU: 70320135
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/flekke-daybed-frame-with-2-drawers-black-brown-70320135/
+Category: Daybeds
+Description: A sofa by day and a bed for one – or two – by night. The two large drawers give plenty of space for comforters, pillows and bed linen. A smart solution when you live in a small space. Real wood veneer...
+
+# @OFFER
+Price: 379
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Bed base/ Side panel/ Back panel/ Drawer front: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Ash veneer, Stain, Printed and embossed acrylic paint, Clear acrylic lacquer, Plastic edging, Drawer front frame: Particleboard, Fiberboard, Ash veneer, Stain, Printed and embossed acrylic paint, Clear acrylic lacquer, Plastic edging, Bed storage box: Particleboard, Melamine foil, Plastic edging
+Features: Can be used with up to 5½" thick mattresses. | The daybed must be combined with two twin mattresses. They are placed on top of each other when you use the daybed as a single bed, and next to each other when you use it as a double bed. | Mattress and bedlinens are sold separately.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/flekke-daybed-frame-with-2-drawers-black-brown__1162085_pe889629_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

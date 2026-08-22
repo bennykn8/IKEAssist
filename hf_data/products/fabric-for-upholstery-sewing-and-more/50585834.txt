@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: DITTE pre-cut fabric, gray
+SKU: 50585834
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ditte-pre-cut-fabric-gray-50585834/
+Category: Fabric: for upholstery, sewing & more
+Description: , 59x118" A versatile textile waiting for your creative visions. DITTE pre-cut fabric in grey is excellent for sewing projects – it creates a calming, elegant look and harmonizes easily with other tex...
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 100 % cotton
+Features: Pre-wash and dry the fabric before cutting/hemming.
+Care: Shrinkage maximum 4%. | Machine wash warm (max 140°F/60°C) normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ditte-pre-cut-fabric-gray__1276291_pe930905_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

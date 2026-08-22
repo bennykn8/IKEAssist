@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: OMAR shelving unit
+SKU: 89297192
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/omar-shelving-unit-s89297192/
+Category: Combinations
+Description: , 181/8x14x711/4" OMAR storage offers lots of room in a kitchen, bathroom and hallway. Things like food or towels lie visible and secure on the metal shelves. Easy to assemble and complete with storag...
+
+# @OFFER
+Price: 69.98
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Shelf/ Post: Steel, Galvanized, Foot: Steel, Polyamide, Galvanized
+Features: The material in this product may be recyclable. Please check the recycling rules in your community and if recycling facilities exist in your area.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/omar-shelving-unit__0683540_pe720788_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

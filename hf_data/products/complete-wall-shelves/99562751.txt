@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BERGSHULT / FÖRLÄGGARE wall shelf, brown-black/black
+SKU: 99562751
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/bergshult-foerlaeggare-wall-shelf-brown-black-black-s99562751/
+Category: Complete wall shelves
+Description: , 471/4x113/4" This combination of a simple shelf and two brackets gives you storage options with a twist. Use it throughout the home – just one or use several for a larger solution, it's up to you.
+
+# @OFFER
+Price: 35
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Paper foil, Plastic edging, Plastic edging, Steel, Powder coating
+Features: Screws to mount the bracket to the shelf are included. | Screws for wall mounting are not included. | Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/bergshult-foerlaeggare-wall-shelf-brown-black-black__1288512_pe934202_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

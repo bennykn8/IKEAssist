@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ENHET Wall cabinet with 2 shelves, gray
+SKU: 00515570
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/enhet-wall-cb-w-2-shelves-gray-00515570/
+Category: ENHET frames & legs
+Description: ENHET Wall cb w 2 shelves, gray, 18x6x30" ENHET series makes it easy to start fresh in the kitchen, bath or laundry. This wall cabinet is perfect for bottles and jars - giving you a good overview. Mak...
+
+# @OFFER
+Price: 55
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Side panel/ Bottom panel/ Top panel/ Shelf: Particleboard, Plastic foil, Plastic edging, Back panel: Fiberboard, Plastic foil
+Features: 2 adjustable shelves and 2 hinges included with the wall cabinet. | Knobs or handles, sold separately. | Complete with 1 ENHET door or 1 ENHET mirrored door 18x30" (45.4x75.9 cm), sold separately.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/enhet-wall-cb-w-2-shelves-gray__1047688_pe843482_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

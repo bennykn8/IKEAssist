@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KVASTGRÄS rug, low pile, gray/handmade
+SKU: 90576149
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kvastgraes-rug-low-pile-gray-handmade-90576149/
+Category: Handmade rugs
+Description: , 5'7"x7'10" The geometric pattern on this hand-knotted wool rug with braided fringes looks like sand dunes in a desert. Just as decorative to place by a sofa as under the dining table – and feels war...
+
+# @OFFER
+Price: 499.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Use surface: 100 % wool, Warp: 100 % cotton, Weft: 100 % cotton, 100 % wool
+Features: Wool sheds naturally, so to keep your rug beautiful we recommend that you vacuum it regularly.
+Care: Do not wash. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kvastgraes-rug-low-pile-gray-handmade__1244257_pe921134_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

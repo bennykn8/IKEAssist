@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: LAGKAPTEN / OLOV desk, black-brown/black
+SKU: 99417486
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lagkapten-olov-desk-black-brown-black-s99417486/
+Category: Combinations
+Description: , 551/8x235/8" Mix and match your choice of table top and legs – or choose this ready-made combination. Strong and light-weight, made with a technique that uses less raw materials, reducing the impact...
+
+# @OFFER
+Price: 66.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fiberboard, Printed and embossed acrylic paint, Plastic edging, Honeycomb structure paper filling (min. 70% recycled), Particleboard, Fiberboard, Metal part: Steel, Epoxy/polyester powder coating, Part 2: Reinforced polyamide
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lagkapten-olov-desk-black-brown-black__0976130_pe813020_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

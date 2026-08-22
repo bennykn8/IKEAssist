@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LISABO / KARLPETTER table and 4 chairs, black/Gunnared medium grey black
+SKU: 49481795
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lisabo-karlpetter-table-and-4-chairs-black-gunnared-medium-grey-black-s49481795/
+Category: Dining sets up to 4 seats
+Description: , 551/8x303/4" Smart construction and a handcrafted look made our LISABO table series a winner of the Red Dot Design Award in 2016. Table legs of solid wood, a hardwearing natural material.
+
+# @OFFER
+Price: 569.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel: Ash veneer, Fiberboard, Fiberboard, Birch plywood, Fiberboard, Particleboard, Tinted clear acrylic lacquer, Leg base: Solid birch, Tinted clear acrylic lacquer, Fabric: 100% polyester (min. 90% recycled)
+Features: Recommended for indoor use only. | Bamboo is a natural fiber that might change color over time.
+Care: Chair: Wipe clean with a mild soapy solution. | Chair: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lisabo-karlpetter-table-and-4-chairs-black-gunnared-medium-grey-black__1106915_pe868878_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

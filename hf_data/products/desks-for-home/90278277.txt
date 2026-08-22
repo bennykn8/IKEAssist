@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LILLÅSEN desk, bamboo
+SKU: 90278277
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lillasen-desk-bamboo-90278277/
+Category: Desks for home
+Description: , 401/8x191/4" A neat desk made of durable bamboo. Looks good from all angles so you can place it in the middle of the room if it suits you best. Three A4-sized drawers for storing papers and other sm...
+
+# @OFFER
+Price: 169.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Bamboo, Clear acrylic lacquer, Fiberboard, Drawer side/ Drawer back/ Drawer front: Bamboo, Clear acrylic lacquer, Drawer bottom: Fiberboard, Melamine foil, Melamine foil
+Features: The drawer is designed for letter size papers.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lillasen-desk-bamboo__0736017_pe740344_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

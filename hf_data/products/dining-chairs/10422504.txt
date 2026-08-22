@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: RÖNNINGE Chair, birch
+SKU: 10422504
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/roenninge-chair-birch-10422504/
+Category: Dining chairs
+Description: . The robust construction is softened by the visible grains of the wood, giving the chair a warm and homey feeling. The straightforward design, rooted in chairs of the 50’s and 60’s, fits almost anywh...
+
+# @OFFER
+Price: 140
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Side frame/ Cross rail: Solid birch, Tinted lacquer, Seat/ Backrest: Layer-glued wood veneer, Birch veneer, Tinted lacquer
+Features: Product is possible to recycle or use for energy recovery, if available in your community. | To prevent surface scratches, complete with TRIXIG stick-on floor protectors, sold separately.
+Care: Wipe clean with a mild soapy solution. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/roenninge-chair-birch__0642047_pe700849_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

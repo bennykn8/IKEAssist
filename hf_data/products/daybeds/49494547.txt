@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FLEKKE daybed with 2 drawers/2 mattresses, black-brown/Åsvang medium firm, Twin
+SKU: 49494547
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/flekke-daybed-with-2-drawers-2-mattresses-black-brown-asvang-medium-firm-s49494547/
+Category: Daybeds
+Description: A sofa by day and a bed for one – or two – by night. The two large drawers give plenty of space for duvets, pillows and bed linen. A smart solution when you live in a small space.
+
+# @OFFER
+Price: 637
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Bed base/ Side panel/ Back panel/ Drawer front: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Ash veneer, Stain, Printed and embossed acrylic paint, Clear acrylic lacquer, Plastic edging, Drawer front frame: Particleboard, Fiberboard, Ash veneer, Stain, Printed and embossed acrylic paint, Clear acrylic lacquer, Plastic edging, Bed storage box: Particleboard, Melamine foil, Plastic edging
+Features: Slatted bed base is included. | 2 ÅSVANG foam mattresses included. | The daybed must be combined with two twin mattresses. They are placed on top of each other when you use the daybed as a single bed, and next to each other when you use it as a double bed.
+Care: Mattress cover: Machine wash warm (max 140°F/60°C) normal cycle. | Mattress cover: Turn the cover inside out and zip up before washing.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/flekke-daybed-with-2-drawers-2-mattresses-black-brown-asvang-medium-firm__1162088_pe889631_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: NORDVIKEN / INGOLF table and 2 chairs, black/Nolhaga grey-beige brown-black
+SKU: 99571623
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/nordviken-ingolf-table-and-2-chairs-black-nolhaga-grey-beige-brown-black-s99571623/
+Category: Dining sets up to 2 seats
+Description: , 291/8/41" This drop-leaf table seats 2-4. It is a good option for small spaces as the size can be adjusted easily, according to need.
+
+# @OFFER
+Price: 389.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Particleboard, Ash veneer, Ash veneer, Stain, Tinted clear acrylic lacquer, Paper foil, Extension leaf: Particleboard, Ash veneer, Ash veneer, Stain, Tinted clear acrylic lacquer, Paper foil, Acrylic paint, Underframe: Solid pine, Adhesive, Fiberboard, Ash veneer, Stain, Tinted clear acrylic lacquer
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/nordviken-ingolf-table-and-2-chairs-black-nolhaga-grey-beige-brown-black__1331742_pe946101_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

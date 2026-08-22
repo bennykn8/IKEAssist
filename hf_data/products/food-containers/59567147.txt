@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: IKEA 365+ food container with lid, round glass/bamboo, 20 oz
+SKU: 59567147
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ikea-365-food-container-with-lid-round-glass-bamboo-s59567147/
+Category: Food containers
+Description: Cookie jar or oven dish? Actually, this glass food container can be both. The tight-fitting lid keeps the contents fresh and it can handle hot food if you want to cook something and serve immediately....
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Heat resistant glass, Lid: Bamboo, Clear acrylic lacquer, Seal: Silicone rubber
+Features: The lid can also be used as a coaster and withstands temperatures up to 212°F. | Wash this product before using it for the first time.
+Care: The bamboo lid withstands temperatures up to 210°F. | The container is dishwasher safe. The lid should be washed by hand.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ikea-365-food-container-with-lid-round-glass-bamboo__0594406_pe675723_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

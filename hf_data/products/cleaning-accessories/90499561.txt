@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: PEPPRIG gap cleaning cover, 17 ¾x2 ¾"
+SKU: 90499561
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/pepprig-gap-cleaning-cover-90499561/
+Category: Cleaning accessories
+Description: This refill cover for PEPPRIG duster is made of microfibers and is great for dusting corners, crevices, and other tight spaces in the home. Easy to remove from the duster’s bracket when you want to sw...
+
+# @OFFER
+Price: 2.29
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 88 % polyester (100% recycled), 12 % nylon
+Features: Refill covers are sold separately. | The covers need to be replaced approx. once per year. | Refill cover for PEPPRIG duster with 2 microfiber covers.
+Care: Machine wash warm, normal cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/pepprig-gap-cleaning-cover__0897981_pe782435_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

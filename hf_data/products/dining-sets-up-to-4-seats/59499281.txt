@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TORSBY / TOBIAS table and 4 chairs, high-gloss/white chrome plated/chrome plated brown/red
+SKU: 59499281
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/torsby-tobias-table-and-4-chairs-high-gloss-white-chrome-plated-chrome-plated-brown-red-s59499281/
+Category: Dining sets up to 4 seats
+Description: A practical dining set for 4 that makes a perfect fit in smaller spaces. You get a clean, modern look and plenty of comfort thanks to the scooped seat and restful flexibility of the chair’s backrest.
+
+# @OFFER
+Price: 659.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Chrome plated, Particleboard, Plastic foil, Leg frame: Steel, Chrome plated
+Features: Seats 4. | Product is possible to recycle or use for energy recovery, if available in your community.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/torsby-tobias-table-and-4-chairs-high-gloss-white-chrome-plated-chrome-plated-brown-red__1144146_pe881738_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

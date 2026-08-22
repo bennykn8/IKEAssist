@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: VARDAGEN frying pan, cast iron
+SKU: 30580205
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vardagen-frying-pan-cast-iron-30580205/
+Category: Frying pans & skillets
+Description: , 11" The joy of food for generations. VARDAGEN cookware in cast iron spreads heat evenly and is perfect for lovingly cooked dishes on cooktops and in ovens. Tasty just like old times – and durable ye...
+
+# @OFFER
+Price: 29.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Cast iron, Oil
+Dimensions: Use a cooktop with the same or a smaller diameter to save energy.
+Features: This product is pre-treated with vegetable soybean oil. | To season a cast iron pot/pan, rub all surfaces with oil. Then heat the pot/pan in the oven or on the cooktop to max. 300 °F for a minimum of one hour. Leave it to cool and wipe off excess oil. | If corrosion or food stains arise, or if food burns and sticks, the pot/pan can be cleaned with steel wool or an abrasive sponge and then re-seasoned.
+Care: Handwash only. | Suitable for use on gas cooktop.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vardagen-frying-pan-cast-iron__0740605_pe742088_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

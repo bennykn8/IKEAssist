@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GETRUTA comforter set, blue/white, King
+SKU: 90577865
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/getruta-comforter-set-blue-white-90577865/
+Category: Comforters & comforter sets
+Description: Give your bedroom a style update – and fill your bed with flowers at a surprisingly low price. The mix of cotton/viscose creates a silky-smooth surface that feels like a soft embrace. The eye-catching...
+
+# @OFFER
+Price: 49.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 54 % cotton, 46 % viscose/rayon, Filling: 100% polyester (min. 90% recycled)
+Features: Comprises: 1 King size comforter 108x92'' (274x234 cm) and 2 King size pillow shams 20x36'' (51x91 cm). | Machine washable at 104°F. | 152 thread count.
+Care: Pillowcase: Shrinkage maximum 4%. | Pillowcase: Machine wash warm, normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/getruta-comforter-set-blue-white__1304050_pe938618_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

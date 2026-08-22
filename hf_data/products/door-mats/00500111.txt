@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KLAMPENBORG door mat, indoor, brown
+SKU: 00500111
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/klampenborg-door-mat-indoor-brown-00500111/
+Category: Door mats
+Description: , 1'2"x1'10" This doormat with a warm brown checkered pattern, is neatly sized to fit even in smaller spaces. The durable material is made of recycled polyester which is easy to keep clean and will la...
+
+# @OFFER
+Price: 1.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Use surface: 100% polyester (min. 90% recycled), Backing: Synthetic latex
+Features: Only for indoor use. | Due to the nature of the recycled material, each door mat may vary slightly in color.
+Care: Hand wash warm water. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/klampenborg-door-mat-indoor-brown__0972870_pe811785_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

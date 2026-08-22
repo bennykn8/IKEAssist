@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TONSTAD / TONSTAD table and 6 chairs, brown oak effect/Fridtuna light beige brown oak effect
+SKU: 69602292
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tonstad-tonstad-table-and-6-chairs-brown-oak-effect-fridtuna-light-beige-brown-oak-effect-s69602292/
+Category: Dining sets up to 6 seats
+Description: , 783/4x331/2" TONSTAD dining series introduces fixed or extendable tables in off-white or brushed oak veneer, with softly rounded features that add warmth and elegance. The chairs come with a padded ...
+
+# @OFFER
+Price: 899.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel: Particleboard, Tinted clear acrylic lacquer, Paper foil, Paper edging, Oak veneer, Stain, Tinted lacquer, Side rail/ Leg: Solid wood, Adhesive, Oak veneer, Stain, Tinted clear acrylic lacquer, Fabric/ Fabric: 78 % cotton, 22% polyester (min. 90% recycled)
+Features: Removable, washable cover | Combines with other products in the TONSTAD series. | Recommended for indoor use only.
+Care: Removable cover: Machine wash warm, normal cycle. | Removable cover: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tonstad-tonstad-table-and-6-chairs-brown-oak-effect-fridtuna-light-beige-brown-oak-effect__1426730_pe979979_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

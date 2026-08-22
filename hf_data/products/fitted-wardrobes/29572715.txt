@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: PAX / LINNABERG/ÅHEIM wardrobe combination, white patterned/mirror glass
+SKU: 29572715
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/pax-linnaberg-aheim-wardrobe-combination-white-patterned-mirror-glass-s29572715/
+Category: Fitted wardrobes
+Description: , 783/4x26x791/4" Keep it simple. Here's a basic solution to get you started, and space for more interiors if you want to upgrade. 10-year Limited Warranty. Read about the terms in the Limited Warrant...
+
+# @OFFER
+Price: 990
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fiberboard, Particleboard, Paper foil, Board on frame: Particleboard, Fiberboard, Plastic edging, Acrylic paint, Filling material: Honeycomb structure paper filling (100% recycled)
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Two people are needed to assemble this furniture. | Interior accessories  that help you organize inside your wardrobe are sold separately.
+Care: Wipe clean with a damp cloth. Use only water or window-cleaner. | Wipe clean using a damp cloth and a mild cleaner.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/pax-linnaberg-aheim-wardrobe-combination-white-patterned-mirror-glass__1395734_pe967096_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

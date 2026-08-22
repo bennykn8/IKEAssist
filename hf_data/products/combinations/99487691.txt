@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: OMAR shelving unit with clothes rail, with 1 shelf/galvanized
+SKU: 99487691
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/omar-shelving-unit-with-clothes-rail-with-1-shelf-galvanized-s99487691/
+Category: Combinations
+Description: , 731/4x195/8x791/8" OMAR storage offers lots of room in a kitchen, bathroom and hallway. Things like food or towels lie visible and secure on the metal shelves. Easy to assemble and complete with sto...
+
+# @OFFER
+Price: 168.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Shelf/ Post/ Clothes rail/ Hook/ Hanger: Steel, Galvanized, Foot: Steel, Polyamide, Galvanized, Shelf/ Post: Steel, Galvanized
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Recommended for indoor use only. | The material in this product may be recyclable. Please check the recycling rules in your community and if recycling facilities exist in your area.
+Care: Wipe clean with a soft cloth dampened with water and a mild dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/omar-shelving-unit-with-clothes-rail-with-1-shelf-galvanized__1114459_pe871768_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

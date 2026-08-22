@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: RINGSTA lamp shade, white
+SKU: 70405361
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ringsta-lamp-shade-white-70405361/
+Category: Lamp shades
+Description: , 17" The shade provides a diffused and decorative light. Create your own personalized pendant or floor lamp by combining the lampshade with your choice of cord set or lamp base. Easy to take home sin...
+
+# @OFFER
+Price: 21.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Steel, Epoxy/polyester powder coating, Shade: Polystyrene, PET plastic
+Features: Lamp base and cord set are sold separately.
+Care: Clean with a duster.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ringsta-lamp-shade-white__0785992_pe762839_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

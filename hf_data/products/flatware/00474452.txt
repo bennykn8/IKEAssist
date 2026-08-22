@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: TILLAGD 20-piece flatware set, brass color
+SKU: 00474452
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/tillagd-20-piece-flatware-set-brass-color-00474452/
+Category: Flatware
+Description: Festive brass-colored cutlery with attitude. With TILLAGD you can spice up your table setting. Combine and complete with other colors in the series, and you have cutlery for every occasion.
+
+# @OFFER
+Price: 99.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Knife: Stainless steel, Stainless steel, Metallized, Spoon/ Fork/ Tea spoon/ Salad fork: Stainless steel, Metallized
+Features: Includes: Fork, knife, spoon, teaspoon and dessert/salad fork, 4 of each.
+Care: Dishwasher-safe. | For the flatware to be easy to clean and to reduce the risk of corrosion, always rinse off the remains of any food immediately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/tillagd-20-piece-flatware-set-brass-color__0498051_pe629436_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

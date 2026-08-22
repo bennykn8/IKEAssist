@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: OLSERÖD side table, anthracite/birch effect dark yellow
+SKU: 20525356
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/olseroed-side-table-anthracite-birch-effect-dark-yellow-20525356/
+Category: End tables & side tables
+Description: , 207/8x195/8" OLSERÖD is two tables in one. A smart side table that you slide in front of you on the sofa to eat while watching TV – and then you can quickly transform it into a stylish coffee table ...
+
+# @OFFER
+Price: 39.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame/ Pocket: Steel, Epoxy/polyester powder coating, Top: Particleboard, Paper foil, Paper foil, Plastic edging, Fabric/ Fabric: 100% polyester (min. 90% recycled)
+Features: Max load on table top: 33 lbs.
+Care: Textile: Machine wash cold, delicate cycle. | Textile: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/olseroed-side-table-anthracite-birch-effect-dark-yellow__1150822_pe884680_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

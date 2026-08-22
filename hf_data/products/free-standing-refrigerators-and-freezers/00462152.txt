@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: LAGAN top-freezer refrigerator, white, 13.9 cu.ft
+SKU: 00462152
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lagan-top-freezer-refrigerator-white-00462152/
+Category: Free-standing refrigerators & freezers
+Description: This freestanding fridge/freezer combo has all the basic functions you need. It has adjustable shelves so you can adapt the space, and the transparent drawers make it easy to see what’s inside.
+
+# @OFFER
+Price: 749
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Features: Noise level: 49 dB (A). | Voltage: 120V. | You can choose to mount the doors on the right or left side.
+Care: After cleaning, be sure to wipe dry with a soft cloth. | Clean the inside of the fridge/freezer regularly with a soft cloth damped in warm water and mild soap.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lagan-top-freezer-refrigerator-white__0849037_pe779203_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

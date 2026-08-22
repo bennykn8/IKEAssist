@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: HEMNES desk, white stain/light brown
+SKU: 20535044
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hemnes-desk-white-stain-light-brown-20535044/
+Category: Desks for home
+Description: , 61x255/8" Beauty that lasts – made from solid wood where the table top’s grain adds a vibrant look to the desk. A practical workspace with a finished back where you can mount the drawer unit on the ...
+
+# @OFFER
+Price: 379.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Drawer front/ Wooden part: Solid pine, Adhesive, Stain, Clear acrylic lacquer, Drawer side/ Drawer back: Solid pine, Adhesive, Drawer bottom/ Back panel/ Inner side filling: Fiberboard, Printed acrylic paint
+Care: Wipe clean with a damp cloth. | Check regularly that all assembly fastenings are properly tightened and retighten when necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hemnes-desk-white-stain-light-brown__1162629_pe889905_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

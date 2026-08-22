@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BRÖNDEN rug, low pile, handmade multicolor/red
+SKU: 00532975
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/broenden-rug-low-pile-handmade-multicolor-red-00532975/
+Category: Handmade rugs
+Description: , 6'7"x9'10" A blend of several weaves create this vibrant pattern with plenty of texture and character. Each rug is handwoven by skilled craftspeople and therefore a unique work of art in pure wool.
+
+# @OFFER
+Price: 449.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Use surface: 100 % wool, Warp: 100 % cotton
+Features: The rug is hand-woven. | You will need 2 STOPP FILT rug underlay with anti-slip (5'5"x7'9") for this rug. Trim if necessary. | This rug fits with a 2-3 seat sofa, but can also fit other size sofas depending on how you place it.
+Care: Do not wash. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/broenden-rug-low-pile-handmade-multicolor-red__1084642_pe859748_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

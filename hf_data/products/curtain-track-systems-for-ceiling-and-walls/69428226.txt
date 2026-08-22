@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: VIDGA corner solution, white
+SKU: 69428226
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vidga-corner-solution-white-s69428226/
+Category: Curtain track systems for ceiling & walls
+Description: If you’ve ever struggled with complicated curtain rail systems you’ll appreciate this one. It’s easy to assemble and it’s very flexible, so you can hang curtains even in the trickiest spaces. Makes it...
+
+# @OFFER
+Price: 63
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Aluminum, Epoxy/polyester powder coating, Aluminium (min. 70% recycled), Epoxy/polyester powder coating, Acetal plastic
+Dimensions: Includes: 4 ceiling fixtures, 2 single track rails (length, 55⅛"), 1 corner piece, 2 glider/hook packages.
+Features: When mounting ceiling brackets/fittings ensure a distance from the wall to allow opening/closing your curtain without obstacles like a protruding window sill, radiator or window handle getting in the way. | Use the ceiling bracket and a rail to hang curtains or fabric as a room divider. | Suitable for curtains with gathering tape.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vidga-corner-solution-white__1021796_pe832371_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

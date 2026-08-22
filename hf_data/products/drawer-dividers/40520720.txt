@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: UPPDATERA storage box, light bamboo, 6 ¼x9 ½x
+SKU: 40520720
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/uppdatera-storage-box-light-bamboo-40520720/
+Category: Drawer dividers
+Description: 6" This slightly smaller box is good for storing small items and is easy to move around. Decorative to have on display, but also fits in a deep drawer. Made of bamboo that creates a naturally warm fee...
+
+# @OFFER
+Price: 11.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Bamboo, Stain, Clear lacquer, Bottom: Fiberboard, Bamboo veneer, Stain, Clear lacquer
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/uppdatera-storage-box-light-bamboo__1029005_pe835616_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

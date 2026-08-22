@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GRIMSARBO side table, pine plywood/bright red
+SKU: 50606167
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/grimsarbo-side-table-pine-plywood-bright-red-50606167/
+Category: End tables & side tables
+Description: GRIMSARBO is a simple and playful side table in a modern Scandinavian style. Perfect to place next to your sofa, armchair or bed ─ and under the table top you can hide both books and eyeglasses. Stand...
+
+# @OFFER
+Price: 29.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top: Pine veneer, Plywood, Tinted clear acrylic lacquer, Top frame/ Top panel/ Leg/ Bottom panel/ Bracket/ Feet: Steel, Epoxy powder coating, Plastic parts: Polyamide
+Features: Max load on table top: 22 lbs. | Only for indoor use.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/grimsarbo-side-table-pine-plywood-bright-red__1388878_pe965003_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: TRUMFISK jar, clear glass, 10 oz
+SKU: 50551688
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/trumfisk-jar-clear-glass-50551688/
+Category: Jars & tins
+Description: This glass jar is perfect for dinner leftovers, desserts and homemade jam. Put it in the fridge until it's time to serve – and if you want to heat the contents, the jar is microwave safe.
+
+# @OFFER
+Price: 1.49
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Tempered glass
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/trumfisk-jar-clear-glass__1144086_pe881697_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

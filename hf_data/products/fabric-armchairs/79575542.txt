@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: UPPLAND armchair and ottoman, Karlshov beige/multicolor
+SKU: 79575542
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/uppland-armchair-and-ottoman-karlshov-beige-multicolor-s79575542/
+Category: Fabric armchairs
+Description: Our beloved EKTORP seating has a timeless design and wonderfully thick, comfy cushions. The covers are easy to change, so buy an extra cover - or two, and change according to mood or season.
+
+# @OFFER
+Price: 678
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Particleboard, Plywood, Solid wood, Polyurethane foam 1.2 lb/cu.ft., Laminated veneer lumber, Fiberboard, Armrest: Polyester wadding, Particleboard, Solid wood, Polyurethane foam 1.2 lb/cu.ft., Polyurethane foam 1.5 lb/cu.ft., Laminated veneer lumber, Fiberboard, Seat cushion: 100 % polyester (100% recycled), Felt liner, Polyurethane foam 2.0 lb/cu.ft., High-resilience polyurethane foam (cold foam) 2.2 lb/cu.ft.
+Features: Can be used with the other parts of EKTORP sofa range.
+Care: Removable cover: Machine wash warm, normal cycle. | Removable cover: To be washed separately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/uppland-armchair-and-ottoman-karlshov-beige-multicolor__1247969_pe922913_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

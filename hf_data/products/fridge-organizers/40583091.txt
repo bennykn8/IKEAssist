@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: KLIPPKAKTUS storage box for fridge, clear, 12 ½x4x3 ¼"
+SKU: 40583091
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/klippkaktus-storage-box-for-fridge-clear-40583091/
+Category: Fridge organizers
+Description: Use these durable, stackable storage boxes with lids to transform a cluttered fridge into a well-organized dream in no time. Available in several sizes – perfect for big and small items. The lid prote...
+
+# @OFFER
+Price: 3.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: SAN plastic
+Care: Wipe clean with a soft cloth dampened with water and a mild dish detergent or soap, if necessary. | Handwash only.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/klippkaktus-storage-box-for-fridge-clear__1243255_pe920526_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

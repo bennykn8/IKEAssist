@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FLOTTILJ desk lamp, beige
+SKU: 80552318
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/flottilj-desk-lamp-beige-80552318/
+Category: Desk lamps
+Description: Direct the light downwards when you want to read or work and angle the light upwards when you want it to focus on a favorite painting. Who could have guessed that this neat desk lamp hid such talents?...
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Back panel/ Plate: Steel, Powder coating, Joint/ Tube: Acetal plastic, Shade: ABS plastic (min. 50% recycled)
+Features: Light bulb sold separately. IKEA recommends LED bulb E17 R14. | Special waste handling may be required. Please contact your local authorities for more information.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/flottilj-desk-lamp-beige__1177509_pe895347_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

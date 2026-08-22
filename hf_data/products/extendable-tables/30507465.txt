@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: RÖNNINGE extendable table, birch
+SKU: 30507465
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/roenninge-extendable-table-birch-30507465/
+Category: Extendable tables
+Description: , 461/2/681/8x303/4" A 4-seat table that easily extends to welcome 6. The light Scandinavian expression enhanced by pale wood creates a perfect setting for everyday activities, casual meals and also m...
+
+# @OFFER
+Price: 319.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Particleboard, Birch veneer, Tinted clear acrylic lacquer, Clear acrylic lacquer, Side rail/ End rail: Solid birch, Adhesive, Birch veneer, Tinted clear acrylic lacquer, Cross rail: Solid birch, Adhesive
+Features: Recommended for indoor use only. | Seats 4-6. | Product is possible to recycle or use for energy recovery, if available in your community.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/roenninge-extendable-table-birch__1016271_pe830286_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

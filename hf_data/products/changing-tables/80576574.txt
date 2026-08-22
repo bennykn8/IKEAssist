@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SUNDVIK changing table/chest, gray
+SKU: 80576574
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sundvik-changing-table-chest-gray-80576574/
+Category: Changing tables
+Description: Here you can have everything from diapers and creams to clothes and toys close at hand. And when the diaper stage is over, fold and fix the changing table’s leaf in place to create a chest of drawers....
+
+# @OFFER
+Price: 279
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts/ Front rail/ Fixed shelf: Solid pine, Stain, Clear acrylic lacquer, Side frame: Solid pine, Stain, Clear acrylic lacquer, Fiberboard, Paper foil, Side panel/ Bottom panel/ Back rail: Fiberboard
+Features: Complete instructions on how to transform the changing table into a chest of drawers can be found in the included assembly instructions. | Different wall materials require different types of hardware. The included screws are suitable for wooden materials, and the wall plugs can be used for plaster, concrete, or masonry. Follow the instructions for the wall type in your home. | May be completed with SKÖTSAM changing mat.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sundvik-changing-table-chest-gray__1298103_pe936074_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

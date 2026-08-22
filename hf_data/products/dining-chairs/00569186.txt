@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LYCKAN chair, yellow/birch veneer
+SKU: 00569186
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lyckan-chair-yellow-birch-veneer-00569186/
+Category: Dining chairs
+Description: Upgrade your dining experience with our crafted cantilever chair, made of layer-glued birch veneer, combining elegance, comfort and space-saving design. Choose a finish and savor the beautiful new loo...
+
+# @OFFER
+Price: 105
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Leg/ Seat/ Backrest/ Backrest frame: Layer-glued wood veneer, Birch veneer, Stain, Clear acrylic lacquer, Cross rail: Steel, Steel, Epoxy/polyester powder coating, Cover cap: Layer-glued wood veneer, Birch plywood, Birch veneer, Stain, Clear acrylic lacquer
+Features: Recommended for indoor use only. | To prevent surface scratches, complete with TRIXIG stick-on floor protectors, sold separately.
+Care: Wipe clean with a mild soapy solution. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lyckan-chair-yellow-birch-veneer__1370467_pe958731_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

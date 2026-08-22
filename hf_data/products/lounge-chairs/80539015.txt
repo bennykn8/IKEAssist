@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: EKENÄSET armchair, Jonsbyn black
+SKU: 80539015
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ekenaeset-armchair-jonsbyn-black-80539015/
+Category: Lounge chairs
+Description: EKENÄSET armchair adds a stylish retro vibe to the room that is inspired by 1950s Scandinavian design. The classic look goes anywhere in the home – and gives you sturdy and robust seating for many yea...
+
+# @OFFER
+Price: 299
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Coated fabric: 100 % polyurethane, 75 %polyester, 25 % cotton, Total composition: 100 % polyester, Back and seat frame: Solid wood
+Care: Frame, non-removable cover: Clean with a dust cloth or vacuum lightly using the soft brush attachment. | Frame, non-removable cover: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ekenaeset-armchair-jonsbyn-black__1109680_pe870147_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

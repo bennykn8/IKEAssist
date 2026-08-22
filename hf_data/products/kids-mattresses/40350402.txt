@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: PLUTTEN Foam mattress for extendable bed
+SKU: 40350402
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/plutten-foam-mattress-for-extendable-bed-40350402/
+Category: Kids mattresses
+Description: , 38 1/4x74 3/4". This mattress has the same, smooth surface on both sides. You can easily turn it over if you like.
+
+# @OFFER
+Price: 99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Ticking: 65 %polyester, 35 % cotton, Inner fabric: 100 % polypropylene, Filling: 70 % viscose, 30 % polyester
+Features: The short pieces are easily added to the foot of the bed as your child grows. | This mattress consists of 3 pieces and all come together in the same package. | LEN fitted sheet is available in 2 sizes: One fits a mattress for an extendable bed without extension parts (38¼x47") and one fits a mattress for an extendable bed with 1 extension part (38¼x61").
+Care: Non-removable cover: Wipe clean with a damp cloth. | Removable cover: Machine wash warm, normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/plutten-foam-mattress-for-extendable-bed__0636888_pe698077_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

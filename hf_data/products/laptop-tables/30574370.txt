@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BOLLSIDAN laptop stand, white
+SKU: 30574370
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/bollsidan-laptop-stand-white-30574370/
+Category: Laptop tables
+Description: , 263/4x141/8" This sturdy table brings your work, laptop or snack to where you want to be. The feet roll in under the sofa or bed so you can position the table for best comfort. Perfect size for smal...
+
+# @OFFER
+Price: 99.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Particleboard, Melamine foil, Plastic edging, Supporting rail/ Inside tube/ Outer tube/ Foot: Steel, Powder coating, Handle: ABS plastic
+Features: Max load on table top: 15 lbs.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/bollsidan-laptop-stand-white__1163783_pe890330_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

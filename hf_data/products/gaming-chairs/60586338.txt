@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: BRÄNNBOLL gaming easy chair, gray/bright yellow
+SKU: 60586338
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/braennboll-gaming-easy-chair-gray-bright-yellow-60586338/
+Category: Gaming chairs
+Description: A simple, yet elegant easy chair that follows your movements and makes you feel like you’re part of the game. You can tilt forward and back, swing from side to side and rock back and forth.
+
+# @OFFER
+Price: 149.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Seat frame/ Armrest frame/ Leg frame: Steel, Epoxy/polyester powder coating, Hook: Aluminum, Epoxy/polyester powder coating, Foot: Polyamide
+Care: Vacuum clean. | Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/braennboll-gaming-easy-chair-gray-bright-yellow__1344436_pe949885_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

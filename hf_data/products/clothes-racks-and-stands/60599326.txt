@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KALLSÖ hat rack, gray
+SKU: 60599326
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kallsoe-hat-rack-gray-60599326/
+Category: Clothes racks & stands
+Description: , 311/2" The KALLSÖ series has welcoming hallway furniture with a crafted feel, timeless style and all those needed functions. The hat rack has a clothes rail and 3 double hooks – use several if you n...
+
+# @OFFER
+Price: 59.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Side rail/ Back panel: Solid pine, Adhesive, Stain, Clear acrylic lacquer, Clothes rail: Solid pine, Stain, Clear acrylic lacquer
+Features: Must be secured to the wall for a safe installation. Different wall materials require different types of fixing devices. Use fixing devices suitable for the walls in your home, sold separately. | Be aware that different wall materials are able to support different loads of weight. For instance, walls made of drywall cannot support as much weight as walls made of wood, concrete, or brick. | Make sure the chosen screws/fixtures are suitable for use in the wall to which they are to be attached.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kallsoe-hat-rack-gray__1413140_pe974182_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

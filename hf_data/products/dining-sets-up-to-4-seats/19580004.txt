@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: STOCKHOLM 2025 / SKANSNÄS table and 4 chairs, oak veneer/black beech
+SKU: 19580004
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/stockholm-2025-skansnaes-table-and-4-chairs-oak-veneer-black-beech-s19580004/
+Category: Dining sets up to 4 seats
+Description: , 451/4" The round shape of the table and 4 chairs provide ample seating for small to medium-size gatherings. The round shape of the table makes it great for socializing since everyone can see each ot...
+
+# @OFFER
+Price: 999
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Layer-glued wood veneer, Honeycomb structure paper filling (100% recycled), Oak veneer, Oak veneer, Clear acrylic lacquer, Oak veneer, Clear acrylic lacquer, Oak veneer, Clear acrylic lacquer, Solid wood, Oak veneer, Clear acrylic lacquer, Side frame/ Cross rail: Solid beech, Adhesive, Stain, Tinted lacquer
+Features: Recommended for indoor use only. | Seats 4. | Paper cord is a naturally resistant material that can last for many years. The seat is available as a spare part and can be replaced if needed.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/stockholm-2025-skansnaes-table-and-4-chairs-oak-veneer-black-beech__1373053_pe959865_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

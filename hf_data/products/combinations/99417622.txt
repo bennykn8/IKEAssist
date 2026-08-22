@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: LAGKAPTEN / ALEX desk, white/black-brown
+SKU: 99417622
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lagkapten-alex-desk-white-black-brown-s99417622/
+Category: Combinations
+Description: , 783/4x235/8" A big desk with plenty of space for a computer, papers and other things you want close at hand or stored in the drawer units. If you want company, there is even room for an extra chair....
+
+# @OFFER
+Price: 240.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fiberboard, Acrylic paint, Plastic edging, Honeycomb structure paper filling (min. 70% recycled), Particleboard, Fiberboard, Main parts: Steel, Epoxy/polyester powder coating, Foot: Polypropylene
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lagkapten-alex-desk-white-black-brown__0976160_pe813053_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

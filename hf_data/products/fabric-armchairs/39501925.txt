@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: POÄNG armchair and ottoman, birch veneer/Gunnared light green
+SKU: 39501925
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/poaeng-armchair-and-ottoman-birch-veneer-gunnared-light-green-s39501925/
+Category: Fabric armchairs
+Description: POÄNG armchair has stylish curved lines in bentwood, providing nice support for the neck and comfy resilience. The footstool is the perfect companion and nice to rest your feet on. Want to try them to...
+
+# @OFFER
+Price: 369
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Supporting fabric: 100 % polypropylene, Back crossbar/ Seat crossbar/ Rail/ Backrest frame/ Seat frame/ Armrest frame: Layer-glued wood veneer, Birch veneer, Clear lacquer, Layer-glued wood veneer, Birch veneer, Clear lacquer
+Features: Possible to separate for recycling or energy recovery if available in your community.
+Care: Frame: Wipe clean using a damp cloth and a mild cleaner. | Frame: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/poaeng-armchair-and-ottoman-birch-veneer-gunnared-light-green__1192163_pe900897_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

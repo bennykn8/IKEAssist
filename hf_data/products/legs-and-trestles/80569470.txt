@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: SPÄND table leg with storage, white
+SKU: 80569470
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/spaend-table-leg-with-storage-white-80569470/
+Category: Legs & trestles
+Description: Mix and match your choice of table top and legs. By buying them separately, you can create a combination with design and size that fits perfectly into your available space. It's easy to keep your work...
+
+# @OFFER
+Price: 34
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Leg/ Top rail/ Supporting rail/ Tray/ Bracket: Steel, Epoxy/polyester powder coating, Mesh: 100 % polyester (100% recycled), Foot: Polypropylene
+Dimensions: Suitable for LAGKAPTEN, MÅLSKYTT, and MITTCIRKEL table tops with a depth of 23⅝ in and a max. length of 55⅛ in.
+Features: Screws for attaching the legs to the table top are included. | 2 touch-and-close fastenings are included. | Suitable for table tops with a minimum thickness of 1".
+Care: Wipe clean with a damp cloth. | For maximum quality, re-tighten the screws when necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/spaend-table-leg-with-storage-white__1328491_pe944813_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

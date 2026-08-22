@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FJANTIG Hook, black
+SKU: 60347102
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/fjantig-hook-black-60347102/
+Category: Hooks
+Description: . Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home.
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Reinforced polypropylene
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Can be fixed with suitable screws/fittings from our TRIXIG series. | Screws for wall mounting sold separately.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/fjantig-hook-black__0710517_pe727612_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

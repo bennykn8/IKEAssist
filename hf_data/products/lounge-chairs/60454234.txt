@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: BINGSTA high back armchair, Vissle dark gray/Kabusa dark gray
+SKU: 60454234
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/bingsta-high-back-armchair-vissle-dark-gray-kabusa-dark-gray-60454234/
+Category: Lounge chairs
+Description: With its curved and embracing back panel, BINGSTA armchair allows you to have well-needed me time in a private nook – even in open-plan environments. 10 year Limited warranty. Read about the terms in ...
+
+# @OFFER
+Price: 269
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: Polyurethane foam., Polyurethane foam., Epoxy powder coating, Poplar plywood, Steel, Fixed seat: Polyurethane foam., High-resilience polyurethane foam (cold foam) 2.2 lb/cu.ft., Loose cushion: High resilient polyurethane foam (cold foam)
+Care: Cushion: Vacuum clean. | Cushion: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/bingsta-high-back-armchair-vissle-dark-gray-kabusa-dark-gray__0761747_pe751417_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

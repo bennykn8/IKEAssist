@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: REGNSKUR / SKAFTET floor lamp, arched, turquoise/black
+SKU: 99535828
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/regnskur-skaftet-floor-lamp-arched-turquoise-black-s99535828/
+Category: Floor lamps
+Description: With this floor lamp you enjoy overhead lighting – with no ceiling outlet. And since you can slide the lamp base under a sofa, it takes up little floor space. A smart and flexible solution, right?
+
+# @OFFER
+Price: 134.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Shade: 97 % polyester (100% recycled), 3% elastane, Frame: Steel, Galvanized steel, Support bracket: Polycarbonate plastic (min. 50% recycled)
+Features: Light bulb sold separately. IKEA recommends LED bulb E26. | The lamp base should not be used with a glass lampshade since it is too heavy and can cause the lamp base to tip. | Special waste handling may be required. Please contact your local authorities for more information.
+Care: Clean with a duster. | Machine wash warm, normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/regnskur-skaftet-floor-lamp-arched-turquoise-black__1204113_pe906576_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

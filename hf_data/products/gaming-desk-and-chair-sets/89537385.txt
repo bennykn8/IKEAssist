@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: HUVUDSPELARE / MATCHSPEL gaming desk and chair, beige/light gray
+SKU: 89537385
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/huvudspelare-matchspel-gaming-desk-and-chair-beige-light-gray-s89537385/
+Category: Gaming desk & chair sets
+Description: Durable desk surface that is easy on your eyes since the light reflection is low. It is easy to keep the desk neat and tidy by using the cable trunking under the table top. The large table top holds t...
+
+# @OFFER
+Price: 429.98
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top: Particleboard, Acrylic paint, Acrylic paint, Plastic edging, Leg/ Top rail/ Support rail, back: Steel, Epoxy/polyester powder coating, Total composition: 100 % polyester
+Features: Max load on table top: 110 lbs.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/huvudspelare-matchspel-gaming-desk-and-chair-beige-light-gray__1246228_pe922046_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

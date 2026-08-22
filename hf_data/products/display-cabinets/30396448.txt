@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: MILSBO Glass-door cabinet, anthracite
+SKU: 30396448
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/milsbo-glass-door-cabinet-anthracite-30396448/
+Category: Display cabinets
+Description: , 28 3/4x68 7/8". Some storage solutions are used to hide things. Not MILSBO glass-door cabinet.
+
+# @OFFER
+Price: 229.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Glass panels/ Adjustable shelf: Tempered glass, Metal parts/ Leg frame: Steel, Epoxy/polyester powder coating, Frame/ Leg: Aluminum, Epoxy/polyester powder coating
+Features: Lock and 2 keys included. | 3 adjustable shelves included. | Prepared for lighting, sold separately.
+Care: Glass: Wipe clean with a damp cloth. Use only water or window-cleaner. | Glass: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/milsbo-glass-door-cabinet-anthracite__0647484_pe704497_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: VARIERA pot lid organizer, stainless steel
+SKU: 70154800
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/variera-pot-lid-organizer-stainless-steel-70154800/
+Category: Drawer dividers
+Description: Space is often wasted by scattered pot lids in drawers or on shelves – and that one lid you are looking for can’t be found. This pot lid organizer keeps them all in place and easy for you to find. Kee...
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts/ Rivet/ Tubes/ Screw/ Washer: Stainless steel, Bumpers: Synthetic rubber
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/variera-pot-lid-organizer-stainless-steel__0626878_pe693056_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

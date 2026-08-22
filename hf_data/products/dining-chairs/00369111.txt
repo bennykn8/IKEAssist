@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: NORDVIKEN Chair, white
+SKU: 00369111
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/nordviken-chair-white-00369111/
+Category: Dining chairs
+Description: . What makes this chair so comfy? The deepened seat distributes your weight evenly, the angle of the seat and back help you to maintain a good posture and the high backrest takes the load off your bac...
+
+# @OFFER
+Price: 65
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Leg/ Rail: Solid pine, Stain, Clear acrylic lacquer, Seat: Layer-glued wood veneer, Beech veneer, Beech veneer, Layer-glued wood veneer, Stain, Clear acrylic lacquer
+Features: Recommended for indoor use only. | Product is possible to recycle or use for energy recovery, if available in your community. | May be completed with NORDVIKEN chair pad, sold separately.
+Care: Wipe clean with a mild soapy solution. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/nordviken-chair-white__0714205_pe729965_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

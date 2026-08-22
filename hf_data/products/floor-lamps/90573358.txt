@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SAMBORD floor/reading lamp, black/white
+SKU: 90573358
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sambord-floor-reading-lamp-black-white-90573358/
+Category: Floor lamps
+Description: Neat floor/reading lamp with a flexible gooseneck arm and adjustable lamp head that allow you to direct the light as you like. Perfect for enjoying a good book in a cozy sofa nook or favorite armchair...
+
+# @OFFER
+Price: 29.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Shade: Polycarbonate plastic (min. 50% recycled), Shade holder: Aluminum, Powder coating, Tube/ Base: Steel, Powder coating
+Features: Light bulb sold separately. IKEA recommends LED bulb GU10. | Special waste handling may be required. Please contact your local authorities for more information.
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sambord-floor-reading-lamp-black-white__1299316_pe936525_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: NATTHÄGER cushion, blue/tiger
+SKU: 00595331
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/natthaeger-cushion-blue-tiger-00595331/
+Category: Kids room pillows & blankets
+Description: , 20x20" This colorful cushion with a tiger motif evokes both playfulness and the imagination. Soft, comfortable and cozy to have in the bed or on a chair in your child's room. Both the fabric and the...
+
+# @OFFER
+Price: 17.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric/ Embroidery thread: 100 % polyester (100% recycled), Decoration: 95 % polyester (100% recycled), 5% elastane, Filling: 100 % polyester - hollow fiber (100% recycled)
+Care: Shrinkage maximum 4%. | Machine wash, warm, durable-press cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/natthaeger-cushion-blue-tiger__1367270_pe957310_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

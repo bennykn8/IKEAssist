@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FRYKSÅS storage unit on casters, rattan
+SKU: 90574174
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/fryksas-storage-unit-on-casters-rattan-90574174/
+Category: Drawer units for home
+Description: , 145/8x207/8" Let a piece of nature take care of your items and roll them where you like. Use this storage furniture in handwoven rattan to always have a coffee mug, favorite book and eyeglasses clos...
+
+# @OFFER
+Price: 129.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Wickerpart: Rattan, Clear acrylic lacquer, Side frame/ Bottom frame: Steel, Epoxy/polyester powder coating, Shelf: Particleboard, Eucalyptus veneer, Clear acrylic lacquer
+Features: For indoor use. | Rattan is a natural fiber that might change color over time. | Casters included.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/fryksas-storage-unit-on-casters-rattan__1323404_pe942692_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: MONSTERA DELICIOSA potted plant, 9 ½"
+SKU: 00529162
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/monstera-deliciosa-potted-plant-00529162/
+Category: Indoor trees & floor plants
+Description: Decorate your home with plants combined with a plant pot to suit your style.
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Plant/ Substrate: Cultivated potted plant, Pot: Polypropylene
+Dimensions: The height of the plants can vary.
+Features: This plant is sensitive to over-watering. If it gets too much water there is a risk of root rot. | Give your plants a boost with fertilizer every month. If you notice that the plant has gone dormant, leave it be until next season. | IKEA provides all potted plants with nutrient-rich soil, repotting is not needed until 1 year after purchase.
+Care: Temperature: Minimum temperature 54º F (12°C). | Water: Water moderately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/monstera-deliciosa-potted-plant__1473794_pe997862_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: UTRUSTA Shelf for corner base cabinet, white
+SKU: 10265622
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/utrusta-shelf-for-corner-base-cabinet-white-10265622/
+Category: Kitchen shelves
+Description: , 47". Make corners your best friends. With these durable shelves for corner cabinets, you make the most of often unused spaces.
+
+# @OFFER
+Price: 31
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Melamine foil, Plastic edging
+Dimensions: Available in different widths and depths.
+Features: Shelf supports are included.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/utrusta-shelf-for-corner-base-cabinet-white__0268771_pe406754_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ENHET base cabinet with 3 drawers, white/gray frame
+SKU: 79431657
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/enhet-base-cabinet-with-3-drawers-white-gray-frame-s79431657/
+Category: ENHET kitchen cabinets
+Description: , 18x243/4x30" ENHET series makes it easy to start fresh with a new kitchen solution. This cabinet has 3 handy drawers for your pots and utensils, paired with gray framed fronts that feel warm and inv...
+
+# @OFFER
+Price: 194
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Side panel: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Plastic foil, Plastic edging, Bottom panel/ Back rail: Particleboard, Plastic foil, Plastic edging, Drawer: Steel, Epoxy/polyester powder coating
+Features: Must be secured to the wall for a safe installation. Different wall materials require different types of fixing devices. Use fixing devices suitable for the walls in your home, sold separately. | Countertop, knobs or handles, sold separately. | Must be completed with minimum 2 ENHET legs for cabinet, sold separately. You can also use 4 legs depending on your preference.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/enhet-base-cabinet-with-3-drawers-white-gray-frame__1048147_pe843602_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

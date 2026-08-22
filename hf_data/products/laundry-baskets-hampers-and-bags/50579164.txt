@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: TORKIS flexible laundry basket, in/outdoor, yellow, 9 gallon
+SKU: 50579164
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/torkis-flexible-laundry-basket-in-outdoor-yellow-50579164/
+Category: Laundry baskets, hampers & bags
+Description: TORKIS flexi laundry basket can be used both indoors and outdoors. Made of durable plastic and has 2 sturdy handles – perfect to use when hanging laundry or moving things around your home. Suitable fo...
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polyethylene, Polyethylene
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/torkis-flexible-laundry-basket-in-outdoor-yellow__1263455_pe927322_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

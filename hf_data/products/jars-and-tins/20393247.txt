@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: IKEA 365+ jar, round/glass, 112 oz
+SKU: 20393247
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ikea-365-jar-round-glass-20393247/
+Category: Jars & tins
+Description: Made of glass, which does not absorb odors or discolor from tomato sauce, etc, so the food container is easy to clean. The transparent jar makes it easy to find what you are looking for, regardless of...
+
+# @OFFER
+Price: 7.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Glass
+Features: Fits with IKEA 365+ round-shaped lids. | Wash this product before using it for the first time.
+Care: Dishwasher-safe up to 158ºF (70°C). | Only for food and beverages with a max. temperature of 120°F.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ikea-365-jar-round-glass__0712683_pe728968_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

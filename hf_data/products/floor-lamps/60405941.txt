@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LAUTERS floor lamp, brown ash/white
+SKU: 60405941
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lauters-floor-lamp-brown-ash-white-60405941/
+Category: Floor lamps
+Description: The lamp’s shade is made from recycled PET bottles and its solid wood base is made from more sustainable sources. It spreads mood lighting ― you can also adjust the height and hide the cord in the lam...
+
+# @OFFER
+Price: 69.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Tube/ Leg: Solid ash, Clear acrylic lacquer, Shade: 100% polyester (min. 90% recycled), Polystyrene
+Features: Light bulb sold separately. IKEA recommends LED bulb E26 globe opal white. | Use an opal light bulb if you have an ordinary lamp shade or lamp and want an even, diffused distribution of light.
+Care: Dust the lamp with a dust cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lauters-floor-lamp-brown-ash-white__0714123_pe729942_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

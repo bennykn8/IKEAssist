@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HULTARP rail, polished/brass color, 31 ½"
+SKU: 30448777
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/hultarp-rail-polished-brass-color-30448777/
+Category: Kitchen wall organizers
+Description: Smart solutions to free up your workspace and put things close at hand - that’s what the HULTARP series is all about, topped with a traditional expression that adds a warm feeling to your kitchen.
+
+# @OFFER
+Price: 11
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Nickel plated, Metallized, Metallized
+Features: Combines with other accessories in the HULTARP series. | Can be fixed with suitable screws/fittings from our TRIXIG series. | Different wall and door materials require different types of mounting hardware. Use mounting hardware suitable for the walls or doors in your home, sold separately.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/hultarp-rail-polished-brass-color__0941918_pe795872_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

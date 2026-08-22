@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LERHYTTAN Leg for decorative toekick, light gray
+SKU: 50397814
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lerhyttan-leg-for-decorative-toekick-light-gray-50397814/
+Category: Frames, rails, legs & toekicks
+Description: . Use these legs together with LERHYTTAN decorative toekick to enhance the rustic expression of your kitchen. You can choose how many legs you want to attach to the decorative toekick to create the lo...
+
+# @OFFER
+Price: 47
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Solid birch, Clear acrylic lacquer, Tinted clear acrylic lacquer
+Features: To be completed with LERHYTTAN decorative toekick and LERHYTTAN toekick.
+Care: Wipe dry with a clean cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lerhyttan-leg-for-decorative-toekick-light-gray__0638672_pe699083_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

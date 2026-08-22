@@ -1,0 +1,33 @@
+# @PRODUCT
+Name: TORSBY / LUSTEBO table and 4 chairs, high-gloss/white chrome plated/Viarp beige/brown
+SKU: 99523528
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/torsby-lustebo-table-and-4-chairs-high-gloss-white-chrome-plated-viarp-beige-brown-s99523528/
+Category: Dining sets up to 4 seats
+Description: , 531/8" This dining set seats up to 4, offering modern appeal and comfort for all-day activities. The padded seat with coated fabric cover is shaped to reduce pressure and the backrest has a relaxing...
+
+# @OFFER
+Price: 799.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Plastic foil, Steel, Chrome plated, Fabric: 76 % cotton, 24 % polyester (100% recycled)
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/torsby-lustebo-table-and-4-chairs-high-gloss-white-chrome-plated-viarp-beige-brown__1245373_pe921609_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

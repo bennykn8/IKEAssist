@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LAGKAPTEN / KRILLE desk, white anthracite/white
+SKU: 39508413
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lagkapten-krille-desk-white-anthracite-white-s39508413/
+Category: Combinations
+Description: , 471/4x235/8" Mix and match the table top with legs that you like – or choose this ready-made combination. The symmetrical square pattern of the table top enhances your decor, without overwhelming it...
+
+# @OFFER
+Price: 90.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fiberboard, Acrylic paint, Printed acrylic paint, Plastic edging, Honeycomb structure paper filling (min. 70% recycled), Particleboard, Fiberboard, Steel, Epoxy/polyester powder coating
+Features: Screws for attaching the legs to the table top are included.
+Care: Wipe clean with a damp cloth. | For maximum quality, re-tighten the screws when necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lagkapten-krille-desk-white-anthracite-white__1184899_pe898125_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

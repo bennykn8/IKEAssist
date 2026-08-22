@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: EKENÄSET armchair, Kilanda light beige
+SKU: 30533493
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/ekenaeset-armchair-kilanda-light-beige-30533493/
+Category: Lounge chairs
+Description: EKENÄSET armchair adds a stylish retro vibe to the room that is inspired by 1950s Scandinavian design. The classic look goes anywhere in the home – and gives you sturdy and robust seating for many yea...
+
+# @OFFER
+Price: 249
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100% polyester (min. 90% recycled), Total composition: 100 % polyester, Back and seat frame: Solid wood
+Features: Stationary cover.
+Care: Frame, non-removable cover: Vacuum clean. | Frame, non-removable cover: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/ekenaeset-armchair-kilanda-light-beige__1109687_pe870153_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

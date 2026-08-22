@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: UPPFYLLD vegetable cutters, set of 2, bright yellow/bright orange
+SKU: 90578266
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/uppfylld-vegetable-cutters-set-of-2-bright-yellow-bright-orange-90578266/
+Category: Cooking preparation tools
+Description: UPPFYLLD vegetable cutter with handles cuts vegetables and root vegetables into long decorative strips that you can use in salads or woks. Easy to find in the drawer thanks to the vibrant colors.
+
+# @OFFER
+Price: 3.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polypropylene, Stainless steel
+Dimensions: Includes: 2 vegetable cutters (length 4⅜")
+Care: Dishwasher-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/uppfylld-vegetable-cutters-set-of-2-bright-yellow-bright-orange__1124806_pe875262_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

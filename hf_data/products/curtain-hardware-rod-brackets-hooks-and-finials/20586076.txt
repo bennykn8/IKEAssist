@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: VIDGA ceiling bracket for 2 curtain rails, white
+SKU: 20586076
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vidga-ceiling-bracket-for-2-curtain-rails-white-20586076/
+Category: Curtain hardware: rod brackets, hooks & finials
+Description: Sturdy carbon steel VIDGA ceiling brackets for 2-layer curtain solutions provide more flexibility to adjust light and privacy. Mounts with only 2 screws. Complete with 2 VIDGA rails, sold separately. ...
+
+# @OFFER
+Price: 5
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Ceiling bracket: Steel, Epoxy/polyester powder coating, Cover cap: Polypropylene, Screw/ Nut: Steel, Galvanized
+Features: Comprises: 2 ceiling brackets, 4 screws, 4 nuts and 2 plastic covers. | When mounting ceiling brackets/fittings ensure a distance from the wall to allow opening/closing your curtain without obstacles like a protruding window sill, radiator or window handle getting in the way. | In the IKEA store, each article in this solution is sold separately. Some articles may comprise more than one component in the same package.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vidga-ceiling-bracket-for-2-curtain-rails-white__1284166_pe932779_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BOHOLMEN sink, stainless steel
+SKU: 89157498
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/boholmen-sink-stainless-steel-s89157498/
+Category: Kitchen sinks
+Description: , 173/4" 25-year Limited Warranty. Read about the terms in the Limited Warranty brochure. Sink made of stainless steel, a hygienic, strong and durable material that's easy to keep clean.
+
+# @OFFER
+Price: 59
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Stainless steel, Foam: Polyurethane plastic, Funnel: Polypropylene
+Features: LILLVIKEN strainer is included in the price, but packaged separately. | Fits countertops with a thickness of 1⅛–1½". | Can be under-mounted.
+Care: Wipe dry with a clean cloth. | Always wipe and rub the sink along the steel grain when cleaning.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/boholmen-sink-stainless-steel__0754414_pe747918_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

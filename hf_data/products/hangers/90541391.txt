@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: SNYGGING hanger, gray
+SKU: 90541391
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/snygging-hanger-gray-90541391/
+Category: Hangers
+Description: Invite springtime into your home with these decorative hangers in solid wood – with a flocked surface that even keeps thin and delicate clothes in place. The hangers have a flocked surface that preven...
+
+# @OFFER
+Price: 4.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: 100 % nylon, Clear acrylic lacquer, Solid eucalyptus wood, Hook: Steel, Galvanized
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/snygging-hanger-gray__1129037_pe876737_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

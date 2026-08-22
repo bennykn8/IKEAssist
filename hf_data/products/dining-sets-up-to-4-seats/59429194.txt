@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SANDSBERG / ADDE table and 4 chairs, black/black
+SKU: 59429194
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sandsberg-adde-table-and-4-chairs-black-black-s59429194/
+Category: Dining sets up to 4 seats
+Description: , 431/4x263/8" A slim design that blends in without taking up too much visual space in the room, yet sturdy enough to hold up to everyday activities. You can stack the chairs, so they take less space ...
+
+# @OFFER
+Price: 129.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Particleboard, Melamine foil, Plastic edging, Plastic edging, Under frame/ Leg: Steel, Epoxy/polyester powder coating, Foot: Polypropylene
+Features: Recommended for indoor use only. | Possible to separate for recycling or energy recovery if available in your community. | To prevent surface scratches and the sound of chair legs scraping on the floor, add FIXA self-adhesive floor protectors, sold separately.
+Care: Chair: Wipe dry with a clean cloth. | Chair: Clean: Use a mild soapy solution.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sandsberg-adde-table-and-4-chairs-black-black__1016431_pe830392_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VÄNKRETS duvet cover and pillowcase(s), dot pattern white/pink, Twin
+SKU: 90504732
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vaenkrets-duvet-cover-and-pillowcase-s-dot-pattern-white-pink-90504732/
+Category: Kids bedding & duvet covers
+Description: Cool duvet cover and pillowcase with dots and contrast piping in pink. Woven in a cotton/viscose mix that creates an even, nice sleeping temperature all night so your child wakes up well-rested.
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 80 % cotton, 20 % viscose/rayon
+Features: 152 thread count. | Thread count indicates the number of threads per square inch of fabric. The higher the thread count the more densely woven the fabric. | Includes: 1 Twin size duvet cover and 1 Queen size pillowcase.
+Care: Shrinkage maximum 4%. | Machine wash warm (max 140°F/60°C) normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vaenkrets-duvet-cover-and-pillowcase-s-dot-pattern-white-pink__0963743_pe809752_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

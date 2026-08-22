@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: DRÖNJÖNS Desk organizer, 9 ¾x7 ¾"
+SKU: 00428827
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/droenjoens-desk-organizer-white-00428827/
+Category: Desk accessories
+Description: . Helps you keep everything from pens and stationery to USB sticks and chargers organized. Can be used anywhere in your home, even in damp indoor areas like the bathroom.
+
+# @OFFER
+Price: 17.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main part: Steel, Powder coating, Scratch protection: 100 %polyester
+Features: Four soft plastic feet are included. | Part of the DRÖNJÖNS series – practical desk accessories made of durable metal mesh.
+Care: Wipe clean with a soft cloth dampened with water and a mild dish detergent or soap, if necessary. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/droenjoens-desk-organizer-white__0669938_pe715478_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

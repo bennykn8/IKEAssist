@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: STORKLINTA glass top, clear
+SKU: 00562788
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/storklinta-glass-top-clear-00562788/
+Category: Dressers & chests of drawers
+Description: , 551/8x187/8" A glass top enhances the modern expression, creates a more complete look and protects against spills and scratches. This top fits perfectly on STORKLINTA bedside table so you can live w...
+
+# @OFFER
+Price: 40
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Tempered glass
+Care: Wipe clean with a damp cloth. Use only water or window-cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/storklinta-glass-top-clear__1283594_pe932551_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

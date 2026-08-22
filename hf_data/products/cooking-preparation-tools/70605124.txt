@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: UPPFYLLD egg slicer, off-white
+SKU: 70605124
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/uppfylld-egg-slicer-off-white-70605124/
+Category: Cooking preparation tools
+Description: Do you like egg sandwiches? Then you’ll love this convenient egg slicer. All you need to do is peel the egg, put it in the round groove and fold the handle over to get perfect slices in a flash. Dishw...
+
+# @OFFER
+Price: 3.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Body: High impact polystyrene, Handle/ Wire/ Bracket: Stainless steel
+Features: Wash this product before using it for the first time.
+Care: Dishwasher-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/uppfylld-egg-slicer-off-white__1399086_pe968245_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

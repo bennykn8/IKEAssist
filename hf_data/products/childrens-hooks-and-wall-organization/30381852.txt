@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: LUSTIGT Wall shelf
+SKU: 30381852
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lustigt-wall-shelf-30381852/
+Category: Children's hooks & wall organization
+Description: , 14 5/8x14 5/8". Here you can display your favorite things and have them change places by using the 3 ladders. You can easily adapt the wall shelf based on needs and available space since the shelf c...
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Board part: Birch plywood, Ladder: Polyethylene
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lustigt-wall-shelf__0710227_pe727416_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BEKVÄM kitchen cart, beech
+SKU: 70240351
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/bekvaem-kitchen-cart-beech-70240351/
+Category: Kitchen islands & carts
+Description: , 227/8x195/8" Solid wood is a durable natural material that you can sand and treat the surface as needed. Provides mobile extra storage, utility and work space. Solid beech is a durable natural mater...
+
+# @OFFER
+Price: 69.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Solid beech
+Features: May be completed with FIXA self-adhesive floor protectors to protect the underlying surface against wear. | Product is possible to recycle or use for energy recovery, if available in your community. | TRIXIG wood treatment oil for indoor use is recommended for maintenance.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/bekvaem-kitchen-cart-beech__0736862_pe740777_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KLYNNON plant pot, handmade bamboo, 12 ½"
+SKU: 80516405
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/klynnon-plant-pot-handmade-bamboo-80516405/
+Category: Indoor plant pots
+Description: This handmade plant pot is made of leftover materials from our production of other bamboo products. A smart way to use nature's resources to create new unique products for your home. The plant pot has...
+
+# @OFFER
+Price: 39.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Pot: Bamboo, Bamboo, Clear acrylic lacquer, Insert: PET plastic
+Features: Each product is a unique, handmade work of art with natural variations in color and shape. | The underlying surface is protected from water and dirt since the pot has a plastic insert that can be easily removed if needed. | Recommended for indoor use only.
+Care: Wipe clean with a dry cloth. | Bamboo is happiest in dry, cool environments with an even temperature.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/klynnon-plant-pot-handmade-bamboo__1082042_pe858508_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

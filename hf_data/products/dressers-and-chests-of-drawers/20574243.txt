@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BRIMNES 3-drawer chest, black
+SKU: 20574243
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/brimnes-3-drawer-chest-black-20574243/
+Category: Dressers & chests of drawers
+Description: , 303/4x373/8" The frosted glass top drawer creates a distinct look – place the chest of drawers as a solitaire or emphasize the look by placing two or more next to each other. Smooth running drawers ...
+
+# @OFFER
+Price: 139.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Plinth front: Particleboard, Paper foil, Plastic edging, Rail/ Side panel/ Plinth back: Particleboard, Paper foil, Back panel/ Bottom panel: Particleboard, Paper foil, Paper foil
+Features: Different wall materials require different types of fixing devices. Use fixing devices suitable for the walls in your home. | The drawer holds about 15 pairs of folded pants or 30 T-shirts.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/brimnes-3-drawer-chest-black__0500919_pe631464_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

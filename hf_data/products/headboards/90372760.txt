@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: NORDLI headboard, white
+SKU: 90372760
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/nordli-headboard-white-90372760/
+Category: Headboards
+Description: , 707/8/76" The flexible headboard with built-in bedside tables can be positioned at any height for your preferred look and convenience. A smart combo with under-bed storage – nothing gets in the way ...
+
+# @OFFER
+Price: 250
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Panel: Particleboard, Acrylic paint, Plastic edging, Connection/ Rail: Fiberboard, Acrylic paint, Shelf: Steel, Epoxy/polyester powder coating
+Features: Each headboard includes 2 shelves (12x10⅝x4") and 2 boxes (9½x4x4"). | To be mounted to the wall. | Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/nordli-headboard-white__0595945_pe677836_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

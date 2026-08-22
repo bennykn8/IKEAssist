@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: VITVAL loft bed frame, white/light gray, Twin
+SKU: 70411239
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vitval-loft-bed-frame-white-light-gray-70411239/
+Category: Kids single beds
+Description: It is the details that make this loft bed unique. Soft shapes, sturdy ladder and fabric guardrails with yellow accents. You can also dress it up with bedlinens and accessories from the MÖJLIGHET serie...
+
+# @OFFER
+Price: 249
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts/ Slat holder/ Bed base frame/ Guard rail/ Ladder frame/ Bracket/ Ladder steps/ Bed slats/ Leg/ Supporting rail: Steel, Epoxy/polyester powder coating, Fabric: 100% polyester (min. 90% recycled)
+Dimensions: Min. ceiling height required: 94½".
+Features: Two people are needed to assemble this furniture. | Bed base included. | Mattress and bedlinens are sold separately.
+Care: Textile: Machine wash warm, normal cycle. | Textile: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vitval-loft-bed-frame-white-light-gray__0688128_pe722324_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

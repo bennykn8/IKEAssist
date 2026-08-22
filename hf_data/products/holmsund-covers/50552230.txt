@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: HOLMSUND cover for sleeper sectional, 3 seat, Borgunda beige
+SKU: 50552230
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/holmsund-cover-for-sleeper-sectional-3-seat-borgunda-beige-50552230/
+Category: HOLMSUND covers
+Description: Made from Borgunda fabric in twill which gives the cover a nice drape. Chenille yarns with contrasting colors add depth and a soft feel to the fabric. The cover is easy to keep clean since it is remov...
+
+# @OFFER
+Price: 169
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Back fabric: 100 % polyester (100% recycled), Fabric: 67 % polyester (100% recycled), 33 % cotton
+Features: This product is an extra cover. Sofa is sold separately.
+Care: Removable cover: Machine wash warm, normal cycle. | Removable cover: To be washed separately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/holmsund-cover-for-sleeper-sectional-3-seat-borgunda-beige__1192501_pe901121_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

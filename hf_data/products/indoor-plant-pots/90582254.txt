@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: PÄRLRÖNN plant pot, indoor/outdoor/black, 9 ½"
+SKU: 90582254
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/paerlroenn-plant-pot-indoor-outdoor-black-90582254/
+Category: Indoor plant pots
+Description: PÄRLRÖNN plant pot has a simple design with a round shape and supporting legs. It easily blends into the home – and lets your plants be the center of attention!
+
+# @OFFER
+Price: 12.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Polyester powder coating
+Features: Suitable for indoor and outdoor use.
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/paerlroenn-plant-pot-indoor-outdoor-black__1358733_pe953928_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

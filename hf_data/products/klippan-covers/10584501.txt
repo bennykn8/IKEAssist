@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KLIPPAN cover for loveseat, Långban bright yellow
+SKU: 10584501
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/klippan-cover-for-loveseat-langban-bright-yellow-10584501/
+Category: KLIPPAN covers
+Description: KLIPPAN was introduced in 1980 and grew in popularity over the years. With its clean-lined look, kid-friendly corners and washable covers, it has now been a top seller for almost half a century!
+
+# @OFFER
+Price: 139
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Quilting: 100% polyester (min. 70% recycled), Lining: 100 % polypropylene, Elastic band: 100 % polyester, 100 % rubber
+Features: This product is an extra cover. Sofa is sold separately.
+Care: Removable cover: Machine wash warm, normal cycle. | Removable cover: To be washed separately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/klippan-cover-for-loveseat-langban-bright-yellow__1315053_pe940375_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

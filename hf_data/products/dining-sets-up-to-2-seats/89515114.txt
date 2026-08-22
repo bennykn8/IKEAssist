@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: IDANÄS / SKOGSBO table and 2 chairs, white/dark brown
+SKU: 89515114
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/idanaes-skogsbo-table-and-2-chairs-white-dark-brown-s89515114/
+Category: Dining sets up to 2 seats
+Description: , 201/8/337/8x373/4" This 2-seat dining set is ideal for smaller spaces that require flexibility. It includes a drop leaf table and classic bentwood chairs with a curved silhouette. Both are easy to r...
+
+# @OFFER
+Price: 489.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Particleboard, Fiberboard, Acrylic paint, Fiberboard, Plastic edging, Acrylic paint, Drop-leaf: Particleboard, Fiberboard, Acrylic paint, Acrylic paint, Fiberboard, Plastic edging, Acrylic paint, Under frame: Solid birch, Adhesive, Acrylic paint
+Features: Recommended for indoor use only. | Product is possible to recycle or use for energy recovery, if available in your community. | To prevent surface scratches and the sound of chair legs scraping on the floor, add FIXA self-adhesive floor protectors, sold separately.
+Care: Table: Wipe clean with a mild soapy solution. | Table: Wipe clean using a damp cloth and a mild cleaner.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/idanaes-skogsbo-table-and-2-chairs-white-dark-brown__1202400_pe905923_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

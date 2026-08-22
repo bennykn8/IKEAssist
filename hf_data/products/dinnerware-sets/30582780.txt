@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: MOSSMAL plate/bowl set of 3, dot pattern/light green
+SKU: 30582780
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/mossmal-plate-bowl-set-of-3-dot-pattern-light-green-30582780/
+Category: Dinnerware sets
+Description: MOSSMAL dinnerware has a timeless and harmonious expression inspired by Nordic nature. The light-green matte finish with subtle speckles creates a rustic elegance that suits any meal of the week.
+
+# @OFFER
+Price: 6.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Stoneware
+Care: Microwave-safe. | Dishwasher-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/mossmal-plate-bowl-set-of-3-dot-pattern-light-green__1343638_pe949603_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

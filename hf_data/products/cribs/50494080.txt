@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SUNDVIK crib, gray
+SKU: 50494080
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/sundvik-crib-gray-50494080/
+Category: Cribs
+Description: , 271/2x52" Your baby can sleep for a long time in this crib. With a timeless style, durable materials and details made with care, you can also lower the bottom and remove one of the long sides as the...
+
+# @OFFER
+Price: 299
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100 % nylon, Main parts/ Spindles/ Bed base frame: Solid beech, Stain, Clear acrylic lacquer, Bed end filling: Fiberboard, Paper foil
+Features: Conversion kit included. | We recommend you complete the crib with an IKEA mattress. | Mattress and bedlinens are sold separately.
+Care: Wipe clean using a damp cloth and a mild cleaner.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/sundvik-crib-gray__0958281_pe806107_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

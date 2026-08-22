@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BRIMNES daybed frame with 2 drawers, white, Twin
+SKU: 40228708
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/brimnes-daybed-frame-with-2-drawers-white-40228708/
+Category: Daybeds
+Description: A sofa by day and a bed for one – or two – by night. The two large drawers give plenty of space for comforters, pillows and bed linen. A smart solution when you live in a small space.
+
+# @OFFER
+Price: 299
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Bed frame panel/ Front frame/ Drawer front panel: Particleboard, Paper foil, Plastic edging, Bed end filling: Fiberboard, Paper foil, Back panel/ Bottom rail: Particleboard, Paper foil
+Features: The daybed must be combined with two twin mattresses. They are placed on top of each other when you use the daybed as a single bed, and next to each other when you use it as a double bed. | Coordinates with other furniture in the BRIMNES series. | Mattress and bedlinens are sold separately.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/brimnes-daybed-frame-with-2-drawers-white__1161827_pe889528_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: BESTÄMMA food container with lid, set of 3, glass
+SKU: 10495760
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/bestaemma-food-container-with-lid-set-of-3-glass-10495760/
+Category: Food storage container sets
+Description: Reduce food waste by storing and reheating your leftovers in a food container. The transparent container makes it easy to find what you are looking for, regardless of where it is placed. Several food ...
+
+# @OFFER
+Price: 8.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Glassware: Tempered glass, Lid: Polyethylene
+Features: This container is not spill-proof and may leak if you store liquid contents like soup in it. If you think there is a risk of leakage, do not place the container in for example a bag. | Volume: 24.6 oz, 13.5 oz and 6.4 oz.
+Care: Lid: Not microwave-safe. | Glass: Microwave-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/bestaemma-food-container-with-lid-set-of-3-glass__1045018_pe842382_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

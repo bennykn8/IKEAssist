@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LISABO / SALNÖ table and 4 armchairs, black rattan/Gransel natural
+SKU: 69564619
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lisabo-salnoe-table-and-4-armchairs-black-rattan-gransel-natural-s69564619/
+Category: Dining sets up to 4 seats
+Description: , 551/8x303/4" Table legs of solid wood, a hard-wearing natural material. Comfortable chair in handwoven rattan that adds a unique touch of nature to your home. The cover is easy to keep clean as it i...
+
+# @OFFER
+Price: 629.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel: Ash veneer, Fiberboard, Fiberboard, Birch plywood, Fiberboard, Particleboard, Tinted clear acrylic lacquer, Leg base: Solid birch, Tinted clear acrylic lacquer, Rattan, Clear acrylic lacquer
+Features: Recommended for indoor use only. | Rattan is a natural fiber that might change color over time. | Product is possible to recycle or use for energy recovery, if available in your community.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lisabo-salnoe-table-and-4-armchairs-black-rattan-gransel-natural__1342286_pe949022_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

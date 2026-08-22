@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: NORDEN Gateleg table, white
+SKU: 10423886
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/norden-gateleg-table-white-10423886/
+Category: Extendable tables
+Description: . Gateleg tables have been around for centuries – with the space-saving design it’s no wonder why. We gave this table a straightforward, Scandinavian look and added a few drawers for flatware and napk...
+
+# @OFFER
+Price: 349.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Particleboard, Melamine foil, Acrylic paint, Drop-leaf: Particleboard, Melamine foil, Plastic edging, Acrylic paint, Drawer front/ Drawer bottom: Fiberboard, Acrylic paint
+Features: Seats 2-4. | Recommended for indoor use only.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/norden-gateleg-table-white__0737112_pe740886_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

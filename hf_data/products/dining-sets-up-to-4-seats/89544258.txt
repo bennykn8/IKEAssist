@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: DANDERYD / BERGMUND table and 4 chairs, white/Gunnared medium grey
+SKU: 89544258
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/danderyd-bergmund-table-and-4-chairs-white-gunnared-medium-grey-s89544258/
+Category: Dining sets up to 4 seats
+Description: , 511/8" The tabletop is made of lacquered MDF – a strong and durable material comprising of tightly compressed wood shavings. After lively meals, it's nice to know that you can easily pull the chair ...
+
+# @OFFER
+Price: 679.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Underframe/ Leg: Steel, Epoxy/polyester powder coating, Inside leg: Steel, Table top: Fiberboard, Clear acrylic lacquer
+Features: To prevent scratches on sensitive surfaces, add FIXA self-adhesive floor protectors, sold separately. | Extra covers for BERGMUND chair are available in many different models, colours and materials, sold separately. | Recommended for indoor use only.
+Care: For maximum quality, re-tighten the screws when necessary. | Frame, removable cover: Vacuum clean.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/danderyd-bergmund-table-and-4-chairs-white-gunnared-medium-grey__1231977_pe916301_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

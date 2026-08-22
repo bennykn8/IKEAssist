@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: PAX / LINNABERG wardrobe combination, white/patterned
+SKU: 19572711
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/pax-linnaberg-wardrobe-combination-white-patterned-s19572711/
+Category: Fitted wardrobes
+Description: , 59x227/8x931/8" Keep it simple. Here's a basic solution to get you started, and space for more interiors if you want to upgrade. Adjustable feet make it possible to compensate for any irregularities...
+
+# @OFFER
+Price: 765
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fiberboard, Particleboard, Paper foil, Board on frame: Particleboard, Fiberboard, Plastic edging, Acrylic paint, Filling material: Honeycomb structure paper filling (100% recycled)
+Dimensions: The frame can be assembled in an upright position if your ceiling height is a minimum of 93¼". Follow the assembly instructions in the package.
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Two people are needed to assemble this furniture. | If you want to complete your PAX frame with a sliding door, the minimum ceiling height required is 94½".
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/pax-linnaberg-wardrobe-combination-white-patterned__1395730_pe967092_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

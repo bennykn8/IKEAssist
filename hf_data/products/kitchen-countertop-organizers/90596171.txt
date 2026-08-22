@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: BRUGDHAJ utensil holder, beige
+SKU: 90596171
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/brugdhaj-utensil-holder-beige-90596171/
+Category: Kitchen countertop organizers
+Description: , 57/8" Practical utensil holder that is nice on the worktop and keeps utensils easily accessible. In rustic stoneware with a beautifully glazed surface ─ matches other products in the BRUGDHAJ and GL...
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Stoneware, Colored glaze
+Care: Dishwasher-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/brugdhaj-utensil-holder-beige__1383806_pe962676_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

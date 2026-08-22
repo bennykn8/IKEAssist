@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: FRÖTORP coffee table, anthracite marble effect/black glass
+SKU: 70497582
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/froetorp-coffee-table-anthracite-marble-effect-black-glass-70497582/
+Category: Coffee tables
+Description: , 345/8" A round shape and different materials and finishes create a dynamic yet balanced look. Use FRÖTORP as a coffee table or side table – and feel free to combine the different sizes for a larger ...
+
+# @OFFER
+Price: 299.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Panel/ Under frame: Steel, Epoxy/polyester powder coating, Underframe: Fiberboard, Paper foil, Plastic edging, Glass panel: Tempered glass, Paint
+Features: Max load on table top: 44 lbs.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/froetorp-coffee-table-anthracite-marble-effect-black-glass__1022505_pe832773_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

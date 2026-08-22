@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: EKET media storage combination, dark gray/with doors
+SKU: 09580995
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/eket-media-storage-combination-dark-gray-with-doors-s09580995/
+Category: EKET pre-designed combinations
+Description: , 1101/4x133/4x133/4" This wall-hung solution keeps the area around your media units organized. The push-open front on the media shelf flip down and up easily to hide your items away – and the cable m...
+
+# @OFFER
+Price: 359
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Galvanized steel, Back panel: Fiberboard, Paper foil, Panel: Particleboard, Honeycomb structure paper filling (100% recycled), Fiberboard, Paper foil, Plastic edging
+Features: The maximum load for a wall-hung cabinet depends on the wall material. | Ensure that you have a minimum of 2" between the top of the frame and the ceiling in order to mount the frame to the suspension rail. | EKET suspension rails for wall mounting are included.
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/eket-media-storage-combination-dark-gray-with-doors__1389140_pe965095_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

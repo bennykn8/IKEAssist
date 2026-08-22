@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: UPPFYLLD holder for kitchen utensils, light gray/beige
+SKU: 10533248
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/uppfylld-holder-for-kitchen-utensils-light-gray-beige-10533248/
+Category: Cooking & baking utensils
+Description: , 11x4" The UPPFYLLD series makes paring knives, potato peelers, cheese graters and other utensils easily accessible. The holder has room for 6 utensils in the front – and a chopping board or tablet o...
+
+# @OFFER
+Price: 6.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Steel, Epoxy/polyester powder coating
+Care: Wipe clean with a damp cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/uppfylld-holder-for-kitchen-utensils-light-gray-beige__1152190_pe885185_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

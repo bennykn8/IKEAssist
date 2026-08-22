@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: VÄXBO collage frame for 8 photos, white
+SKU: 40256621
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vaexbo-collage-frame-for-8-photos-white-40256621/
+Category: Collage picture & gallery wall frames
+Description: , 5x7" Holds 8 pictures so you can create your own personal collage. The frame is made of plastic, which makes it strong, lightweight and easier to handle.
+
+# @OFFER
+Price: 14.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Frame: ABS plastic (min. 20% recycled), Front protection: Polystyrene
+Care: Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vaexbo-collage-frame-for-8-photos-white__0638570_pe699013_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

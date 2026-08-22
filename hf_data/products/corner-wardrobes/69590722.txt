@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: PAX corner wardrobe, white
+SKU: 69590722
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/pax-corner-wardrobe-white-s69590722/
+Category: Corner wardrobes
+Description: , 827/8/631/4x791/4" A deep and spacious corner wardrobe with space for all of the clothes and accessories. Adjustable feet make it possible to compensate for any irregularities in the floor. 10-year ...
+
+# @OFFER
+Price: 1250
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fiberboard, Particleboard, Paper foil, Particleboard, Fiberboard, Paper foil, Steel, Epoxy/polyester powder coating
+Dimensions: The frame can be assembled in an upright position if your ceiling height is a minimum of 79½". Follow the assembly instructions in the package.
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | Two people are needed to assemble this furniture. | For this add-on corner unit, you need to leave a distance of 7.6"/19.3 cm from the wall/corner when attaching the wall rail for PAX foldable wall-mounted storage frame.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/pax-corner-wardrobe-white__1398775_pe968118_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SKOGSTA chair, black
+SKU: 50544867
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/skogsta-chair-black-50544867/
+Category: Dining chairs
+Description: Black stained solid acacia wood chair with arched backrest and characteristic spindles – a classic look that ages beautifully and will keep its appeal in your home over many years. The solid hardwood ...
+
+# @OFFER
+Price: 65
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Leg/ Leg rail/ Back spindle/rail: Solid acacia wood, Stain, Tinted clear acrylic lacquer, Leg frame/ Seat/ Backrest: Solid acacia wood, Adhesive, Stain, Tinted clear acrylic lacquer
+Features: Recommended for indoor use only.
+Care: Wipe clean with a mild soapy solution. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/skogsta-chair-black__1243349_pe920580_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: SMÅSTAD loft bed frame, desk and storage, white, Twin
+SKU: 50454041
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/smastad-loft-bed-frame-desk-and-storage-white-50454041/
+Category: Frames for SMÅSTAD
+Description: An extra room isn’t always an option when space is limited at home but there are other solutions. Here there is room for sleeping, studying, storing, playing and chilling that only takes up 21.5 squar...
+
+# @OFFER
+Price: 649
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Head/footboard/ Guard rail/ Bottom panel/ Back panel/ Bottom: Fiberboard, Particleboard, Honeycomb structure paper filling (100% recycled), Plastic edging, Acrylic paint, Back side: Fiberboard, Particleboard, Honeycomb structure paper filling (100% recycled), ABS plastic, Acrylic paint, Bedside/ Ladder: Fiberboard, Particleboard, Plastic edging, Acrylic paint, Paper foil
+Dimensions: Min. ceiling height required: 94½".
+Features: Two people are needed to assemble this furniture. | Bed base included. | Mattress and bedlinens are sold separately.
+Care: Wipe clean with a damp cloth. | Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/smastad-loft-bed-frame-desk-and-storage-white__1168283_pe891862_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

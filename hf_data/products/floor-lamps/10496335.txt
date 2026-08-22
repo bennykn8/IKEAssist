@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: KRYSSMAST floor lamp, nickel plated
+SKU: 10496335
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kryssmast-floor-lamp-nickel-plated-10496335/
+Category: Floor lamps
+Description: A timeless floor lamp with a pleated fabric lampshade that spreads a pleasant and diffused light. Easy to turn on and off – just pull the string lightly. Complete with a light bulb of choice.
+
+# @OFFER
+Price: 69.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Weight: Reinforced EVA plastic, Base/ Tube: Steel, Brush finish nickel-plated, Shade: 100 % polyester
+Features: Light bulb sold separately. IKEA recommends LED bulb E26.
+Care: Clean with a duster.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kryssmast-floor-lamp-nickel-plated__0859365_pe780895_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

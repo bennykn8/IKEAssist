@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: NÄSINGE / NÄSINGE table and 4 chairs, white/white Tibbleby beige-gray
+SKU: 69602334
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/naesinge-naesinge-table-and-4-chairs-white-white-tibbleby-beige-gray-s69602334/
+Category: Dining sets up to 4 seats
+Description: , 471/4"
+
+# @OFFER
+Price: 399.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Particleboard, Acrylic paint, Melamine foil, Plastic edging, Paint, Under frame/ Leg: Solid wood, Adhesive, Acrylic paint, Smolder resistant lining/ Seat lining: Polyester wadding
+Features: Recommended for indoor use only. | Seats 4. | A screwdriver is required to assemble this product, sold separately as a part of TRIXIG 15-piece toolset.
+Care: Removable cover: Machine wash warm, normal cycle. | Removable cover: Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/naesinge-naesinge-table-and-4-chairs-white-white-tibbleby-beige-gray__1427894_pe980628_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

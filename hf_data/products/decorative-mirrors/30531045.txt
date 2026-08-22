@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VRIGSTAD mirror, sedge, 24 ¾"
+SKU: 30531045
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vrigstad-mirror-sedge-30531045/
+Category: Decorative mirrors
+Description: Embrace nature! This mirror in hand-woven rattan gives your room a depth that makes it feel extra vibrant. Whether you hang up one, several or combine them with paintings, they make a strong impressio...
+
+# @OFFER
+Price: 59.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Mirror glass: Silicone rubber, Inside frame: Steel, Epoxy/polyester powder coating, Weaving: Sedge, Clear acrylic lacquer
+Features: Each product is a unique, handmade work of art with natural variations in color and shape. | Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | To hang securely in place on the wall, this mirror requires 1 screw.
+Care: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vrigstad-mirror-sedge__1113889_pe871579_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

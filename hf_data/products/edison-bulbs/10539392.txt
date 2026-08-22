@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: LUNNOM LED bulb E12 135 lumen, globe clear
+SKU: 10539392
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/lunnom-led-bulb-e12-135-lumen-globe-clear-10539392/
+Category: Edison bulbs
+Description: , 2" Reminiscent of old filament bulbs but made with energy-saving LED. This clear bulb in a retro style spreads a warm white light and is perfect for lamps with a transparent or latticed shade.
+
+# @OFFER
+Price: 3.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Glass
+Features: Not dimmable. | The light bulb can be used in temperatures from 0°F (-20°C) to 100°F (40°C). | Special waste handling may be required. Please contact your local authorities for more information.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/lunnom-led-bulb-e12-135-lumen-globe-clear__1087358_pe860736_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

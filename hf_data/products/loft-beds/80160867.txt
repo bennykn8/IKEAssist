@@ -1,0 +1,36 @@
+# @PRODUCT
+Name: STORÅ loft bed frame, black, Full/Double
+SKU: 80160867
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/stora-loft-bed-frame-black-80160867/
+Category: Loft beds
+Description: A loft bed is perfect when you need to combine several functions in a small space. The height creates space below for a seating area, a work space, a walk-in closet – or a parking space for your bicyc...
+
+# @OFFER
+Price: 379
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Main parts: Solid pine, Stain, Clear acrylic lacquer, Leg/ Center support beam/ Step/ Bed base slats: Solid pine
+Dimensions: Minimum ceiling height required: 8' 10".
+Features: The ladder can be mounted on the right or left side of the bed. | Mattress and bedlinens are sold separately. | Slatted bed base is included.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/stora-loft-bed-frame-black__0749152_pe745510_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

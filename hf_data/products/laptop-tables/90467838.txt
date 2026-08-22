@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: BJÖRKÅSEN laptop stand, beige
+SKU: 90467838
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/bjoerkasen-laptop-stand-beige-90467838/
+Category: Laptop tables
+Description: This sturdy beige laptop stand helps you study, work, or play an instrument with sheet music. It´s easy to adjust the height, tilt the top, move around in the home – and even fold for storage. Easy to...
+
+# @OFFER
+Price: 49.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top/ Supporting rail/ Inside tube/ Outer tube/ Base: Steel, Epoxy/polyester powder coating, Hinge: Reinforced polyamide, Acetal plastic, Cover cap/ Foot: Reinforced polyamide
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/bjoerkasen-laptop-stand-beige__0955982_pe804391_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

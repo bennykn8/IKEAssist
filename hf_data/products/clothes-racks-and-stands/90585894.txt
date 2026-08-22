@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: ÄLGANÄS hat and coat stand, black
+SKU: 90585894
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/aelganaes-hat-and-coat-stand-black-90585894/
+Category: Clothes racks & stands
+Description: , 681/8x13" Smart storage that puts a smile on your face! This nifty hat and coat stand has room for lots of clothes in just one spot – and without you having to fix it to the wall. The black powder c...
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Rod/ Hook: Steel, Powder coating, Base: Galvanized steel, Powder coating
+Features: 2 movable hooks with straps included. Maximum load on each shelf is 8.8 lbs. | Can be used in areas with high humidity such as bathrooms and balconies, but should not be directly exposed to water from, for example, a shower or rain.
+Care: Wipe clean using a damp cloth and a mild cleaner. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/aelganaes-hat-and-coat-stand-black__1358349_pe953846_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

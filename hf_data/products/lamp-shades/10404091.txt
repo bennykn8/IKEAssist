@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: RISBYN Pendant lamp shade, onion shape, white
+SKU: 10404091
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/risbyn-pendant-lamp-shade-onion-shape-white-10404091/
+Category: Lamp shades
+Description: , 22". Rice paper and details in light birch veneer give this lamp a natural, stylish look. When you turn it on, the double layer of rice paper creates extra depth, nice patterns – and spreads a soft,...
+
+# @OFFER
+Price: 21.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Shade: Rice paper, Shade holder: Steel, Powder coating, Layer glued frame: Birch veneer, Clear lacquer
+Features: Cord set is sold separately. | Use an opal light bulb if you have an ordinary lamp shade or lamp and want an even, diffused distribution of light.
+Care: Clean with a duster.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/risbyn-pendant-lamp-shade-onion-shape-white__0756761_pe749065_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

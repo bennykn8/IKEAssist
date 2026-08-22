@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SMÅGÖRA wardrobe, white
+SKU: 70576701
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/smagoera-wardrobe-white-70576701/
+Category: Children's wardrobes
+Description: , 311/2x195/8x735/8" When we created the traditional SMÅGÖRA series, we focused on safety. That´s why all the surfaces of the crib, changing table and wardrobe are non-toxic – with all edges and corne...
+
+# @OFFER
+Price: 199.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel/ Bottom panel/ Shelf/ Door: Particleboard, Melamine foil, Plastic edging, Side panel: Particleboard, Melamine foil, Plastic edging, Plastic edging, Back panel: Fiberboard, Acrylic paint, Acrylic paint
+Features: Different wall materials require different types of fasteners. Use fasteners suitable for the walls in your home. | 2 adjustable shelves included. | 1 clothes rail included.
+Care: Wipe clean with a damp cloth. | Wipe clean with a dry cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/smagoera-wardrobe-white__0772938_pe756155_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

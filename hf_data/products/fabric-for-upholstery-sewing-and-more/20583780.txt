@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: KLIPPBRÄCKA pre-cut fabric, white/black
+SKU: 20583780
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/klippbraecka-pre-cut-fabric-white-black-20583780/
+Category: Fabric: for upholstery, sewing & more
+Description: , 59x118" The bold pattern on KLIPPBRACKA, created by Anna Efverlund, was presented in our 1997 catalogue. Then with the name MODIG KORN. An example of IKEA icons given a new life in the Nytillverkad ...
+
+# @OFFER
+Price: 19.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 72 % cotton, 28 % polyester (100% recycled)
+Care: Machine wash warm, normal cycle. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/klippbraecka-pre-cut-fabric-white-black__1317902_pe940740_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

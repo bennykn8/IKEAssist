@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: NATTHÄGER duvet cover and pillowcase(s), orange/tiger, Twin
+SKU: 00595307
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/natthaeger-duvet-cover-and-pillowcase-s-orange-tiger-00595307/
+Category: Kids bedding & duvet covers
+Description: Imagine resting your head on a tiger! This duvet cover set with its playful animal pattern in a soft cotton/viscose blend is guaranteed to make your child long for bed.
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: 54 % cotton, 46 % viscose/rayon
+Features: 152 thread count. | Thread count indicates the number of threads per square inch of fabric. The higher the thread count the more densely woven the fabric.
+Care: Shrinkage maximum 4%. | Machine wash warm (max 140°F/60°C) normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/natthaeger-duvet-cover-and-pillowcase-s-orange-tiger__1367315_pe957357_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

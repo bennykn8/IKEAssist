@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: LÄMPLIG cutting board, bamboo, 20 ¾x
+SKU: 00309829
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/laemplig-cutting-board-bamboo-00309829/
+Category: Cutting boards
+Description: 18" If you love juicy fruit or a tender steak, this is the cutting board for you. It has a milled groove that prevents the juice from spilling all over your countertop when cutting. The weight provide...
+
+# @OFFER
+Price: 24.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Bamboo, Oil
+Features: Wash this product before using it for the first time.
+Care: Wipe clean with a mild soapy solution. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/laemplig-cutting-board-bamboo__0711757_pe728449_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

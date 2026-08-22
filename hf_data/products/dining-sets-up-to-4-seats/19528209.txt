@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: NORDVIKEN / SKOGSBO table and 4 chairs, black/dark brown
+SKU: 19528209
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/nordviken-skogsbo-table-and-4-chairs-black-dark-brown-s19528209/
+Category: Dining sets up to 4 seats
+Description: , 597/8/873/4" This 4-seat dining set, including a sturdy, extendable table in solid wood with traditional design and classic bentwood chairs with a curved silhouette, brings a warm and nostalgic air ...
+
+# @OFFER
+Price: 1279.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Particleboard, Ash veneer, Stain, Tinted clear acrylic lacquer, Paper foil, Extension leaf: Particle- and fiberboard with honeycomb paper filling (100% recycled paper), Ash veneer, Stain, Tinted clear acrylic lacquer, Paper foil, Acrylic paint, Side rail/ Cross rail: Solid beech, Adhesive, Stain, Tinted clear acrylic lacquer
+Features: Recommended for indoor use only. | Possible to separate for recycling or energy recovery if available in your community. | Seats 4-6.
+Care: Chair: Wipe clean with a mild soapy solution. | Chair: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/nordviken-skogsbo-table-and-4-chairs-black-dark-brown__1205484_pe907110_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

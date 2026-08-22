@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: SOLVINDEN pendant lamp, blue
+SKU: 30593689
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/solvinden-pendant-lamp-blue-30593689/
+Category: Decorative pendant lamps
+Description: , 187/8" Whether you choose to hang this lamp from the ceiling or place it on the floor, you can enjoy the decorative light it spreads – in your outdoor space or living room. Pendant lamp or floor lam...
+
+# @OFFER
+Price: 27.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Clip/ Base: Polycarbonate plastic, Ball: Steel, Galvanized, Powder coating, Cover: Steel, Acrylic coating, Powder coating
+Features: Approved for use as outdoor lighting, IP 44. | Built-in LED light source that lasts approx. 25,000 hours. | Power supply cable with plug included.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/solvinden-pendant-lamp-blue__1349767_pe951536_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

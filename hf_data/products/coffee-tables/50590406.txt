@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: TORSJÖ coffee table, gold effect/glass
+SKU: 50590406
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/torsjoe-coffee-table-gold-effect-glass-50590406/
+Category: Coffee tables
+Description: , 345/8" A gold -colored metal frame, glass tabletop and love for details give TORSJÖ coffee table an elegant look. If you wish to create a uniform style, you can match it with the side table from the...
+
+# @OFFER
+Price: 149.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Glass panel: Tempered glass, Top frame/ Leg: Steel, Nickel plated, Cross rail: Steel, Steel, Nickel plated
+Care: Wipe clean with a damp cloth. | Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/torsjoe-coffee-table-gold-effect-glass__1362929_pe955365_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

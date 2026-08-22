@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: VADHOLMA Kitchen island, black, oak, Width: 31 1/
+SKU: 40366115
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/vadholma-kitchen-island-black-oak-40366115/
+Category: Kitchen islands & carts
+Description: VADHOLMA Kitchen island, black, oak. Free-standing kitchen island; easy to place where you want it in the kitchen. Gives you extra storage, utility and work space.
+
+# @OFFER
+Price: 399.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Work top: Particleboard, Honeycomb structure paper filling (min. 70% recycled), Solid oak, Oil-acrylic, Edge: Solid oak, Oil-acrylic, Leg/ Underframe/ Drawer front: Particleboard, Solid wood, Solid wood, Acrylic paint
+Features: Different wall and floor materials require different types of hardware. Use hardware suitable for the walls or floors in your home, sold separately.
+Care: Wipe clean with a dry cloth. | Wipe clean with a water dampened soft cloth and a mild non-abrasive dish detergent or soap, if necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/vadholma-kitchen-island-black-oak__0736821_pe740763_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

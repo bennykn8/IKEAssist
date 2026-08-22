@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: KUSTFYR jar with lid, black/white, 34 oz
+SKU: 20615564
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/kustfyr-jar-with-lid-black-white-20615564/
+Category: Jars & tins
+Description: This jar with a playful pattern and airtight lid is ideal for jams, cookies or serving beverages. Combine it with other items in the KUSTFYR series to create that right Halloween feeling. The airtight...
+
+# @OFFER
+Price: 3.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Jar: Glass, Wire: Stainless steel, Seal: Natural rubber
+Care: If you want to sterilize the bottle with hot water, preheat the bottle first with warm tap water. This prevents the glass from cracking. | Dishwasher-safe.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/kustfyr-jar-with-lid-black-white__1433055_pe983044_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: BARNDRÖM box, beige, 10 ¼x14 ½x10 ¼"
+SKU: 30560622
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/barndroem-box-beige-30560622/
+Category: Kids boxes & baskets
+Description: Let the cats take care of your child's clothes and toys. This large box is made of 100% recycled polyester and has a playful print on two sides. Perfectly matches the 3 smaller BARNDRÖM boxes. Can be ...
+
+# @OFFER
+Price: 9.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100% polyester (min. 90% recycled), Insert: Polypropylene
+Care: Hand wash warm water. | Do not bleach.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/barndroem-box-beige__1177697_pe895387_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

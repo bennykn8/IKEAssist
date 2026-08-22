@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: PINNTORP / PINNTORP table and 6 chairs, light brown stained white stained/light brown stained
+SKU: 29564452
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/pinntorp-pinntorp-table-and-6-chairs-light-brown-stained-white-stained-light-brown-stained-s29564452/
+Category: Dining sets up to 6 seats
+Description: , 727/8" A natural gathering point for meals, activities and chit-chat. Thanks to the sturdy construction and gracefully aging wooden surface, this table will be a place where memories are created ove...
+
+# @OFFER
+Price: 509.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Table top: Solid pine, Adhesive, Stain, Clear acrylic lacquer, Clear lacquer, Under frame: Solid pine, Adhesive, Stain, Clear acrylic lacquer, Solid pine, Stain, Clear lacquer
+Features: Recommended for indoor use only. | Product is possible to recycle or use for energy recovery, if available in your community. | Seats 6.
+Care: Chair: Wipe clean with a mild soapy solution. | Chair: Wipe dry with a clean cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/pinntorp-pinntorp-table-and-6-chairs-light-brown-stained-white-stained-light-brown-stained__1301600_pe937491_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: FÖRNEBO Induction cooktop w/downdraft vent
+SKU: 70537757
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/foernebo-induction-cooktop-w-downdraft-vent-70537757/
+Category: Induction cooktops
+Description: Free your kitchen from a hanging hood and place your cooktop wherever you like. This sleek induction cooktop comes with an integrated extractor that is automated - the higher the heat the greater the ...
+
+# @OFFER
+Price: 2099
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Features: Cooktop with induction cooking zones: | All zones: 9x7" – 2100W, booster 3700W. | Voltage: 240/208V.
+Care: Do not use scouring-powder, steel wool, hard or sharp tools which can scratch the surface. | After cleaning, be sure to wipe dry with a soft cloth.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/foernebo-induction-cooktop-w-downdraft-vent__1125240_pe875411_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

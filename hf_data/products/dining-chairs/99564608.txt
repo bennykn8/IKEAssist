@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: SALNÖ / GRYTTOM chair with cushion, armrests rattan/Gransel natural
+SKU: 99564608
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/salnoe-gryttom-chair-with-cushion-armrests-rattan-gransel-natural-s99564608/
+Category: Dining chairs
+Description: The material brings a piece of nature into your home and spreads a calm, warm feeling. Hand-woven by experienced craftspeople, which makes each chair unique with their rounded shapes and detailed patt...
+
+# @OFFER
+Price: 95
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Rattan, Clear acrylic lacquer, Fabric/ Top fabric: 43 % cotton, 27 % viscose/rayon, 18 % polyester (100% recycled), 12 % linen, Lining/ Back fabric: 100 % polyester (100% recycled)
+Features: Recommended for indoor use only. | Rattan is a natural fiber that might change color over time. | Tighten all hardware/screws securely before use. Check them regularly and retighten if necessary.
+Care: Removable cover: Machine wash warm, normal cycle. | Removable cover: To be washed separately.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/salnoe-gryttom-chair-with-cushion-armrests-rattan-gransel-natural__1342528_pe949050_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

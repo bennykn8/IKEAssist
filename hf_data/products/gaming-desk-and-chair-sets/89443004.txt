@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: UTESPELARE / MATCHSPEL gaming desk, chair and drawer unit, black
+SKU: 89443004
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/utespelare-matchspel-gaming-desk-chair-and-drawer-unit-black-s89443004/
+Category: Gaming desk & chair sets
+Description: It should be comfortable to play, especially when a match drags on. That’s why the table top is deep – so you can position screens at a comfortable distance from your eyes. Drawer stops prevent the dr...
+
+# @OFFER
+Price: 604.97
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Top panel: Particleboard, Melamine foil, Polycarbonate/ABS plastic, Particleboard, Wire mesh/ Ladder frame: Steel, Epoxy/polyester powder coating, Cable management: 100 % polyester (100% recycled)
+Features: Possible to separate for recycling or energy recovery if available in your community.
+Care: Wipe clean with a damp cloth. | For maximum quality, re-tighten the screws when necessary.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/utespelare-matchspel-gaming-desk-chair-and-drawer-unit-black__0985654_pe816721_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

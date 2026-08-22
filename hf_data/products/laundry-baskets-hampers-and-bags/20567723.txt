@@ -1,0 +1,34 @@
+# @PRODUCT
+Name: SLIBB flexible laundry basket, green, 6 gallon
+SKU: 20567723
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/slibb-flexible-laundry-basket-green-20567723/
+Category: Laundry baskets, hampers & bags
+Description: With this basket, you can gather your dirty clothes in one place and avoid scrubby piles on the floor. Perfect to have in the wardrobe or in the bathroom – and easy to carry when it's time to do laund...
+
+# @OFFER
+Price: 5.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Polyethylene
+Care: Store in a cool and dry place, away from direct sunlight.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/slibb-flexible-laundry-basket-green__1232113_pe916410_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt

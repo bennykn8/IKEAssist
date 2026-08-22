@@ -1,0 +1,35 @@
+# @PRODUCT
+Name: GRÄSROTSFLY duvet insert, cool, Twin
+SKU: 40602400
+Brand: IKEA
+LastUpdated: 2025-07-15T00:00:00Z
+URL: https://www.ikea.com/us/en/p/graesrotsfly-duvet-insert-cool-40602400/
+Category: Down alternative duvet inserts
+Description: Easy-care duvet with silky lyocell fabric that absorbs and transports moisture away so you stay comfy and dry. The filling contains 10% viscose which helps to maintain a cool and relaxing temperature....
+
+# @OFFER
+Price: 39.99
+Currency: USD
+Availability: InStock
+Condition: New
+TaxIncluded: False
+TaxNote: "Sales tax calculated at checkout"
+
+# @SPECS
+Materials: Fabric: 100 % lyocell, Filling material: 90% polyester (min. 80% recycled) / 10% viscose
+Features: Thread count 188. | Thread count indicates the number of threads per square inch of fabric. The higher the thread count the more densely woven the fabric. | This product is suitable for use in smaller hotels, inns and B&Bs as the design and material are optimized for frequent use and washing.
+Care: Tumble dry after washing until the filling is completely dry. | Machine wash warm (max 140°F/60°C) normal cycle.
+
+# @IMAGES
+Main: https://www.ikea.com/us/en/images/products/graesrotsfly-duvet-insert-cool__1360220_pe954378_s5.jpg
+
+---
+# DISCLAIMER
+This file is part of an unofficial research dataset created solely to demonstrate the CommerceTXT protocol.
+Not affiliated with or endorsed by IKEA or Inter IKEA Systems B.V.
+Data is a static snapshot from July 2025 and may be outdated or inaccurate.
+IKEA® is a registered trademark of Inter IKEA Systems B.V.
+For non-commercial, educational, and research purposes only.
+No warranty of any kind. Use at your own risk.
+
+For more info: https://github.com/commercetxt/commercetxt
