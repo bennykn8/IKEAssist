@@ -119,3 +119,10 @@ Type `q` to quit.
 On the first run, IKEAssist creates and populates `chroma_db_ikea`. Later runs
 reuse that database and start more quickly.
 
+
+Conversation history is saved in this browser and survives page refreshes and server restarts. The frontend does not poll the server for history updates.
+
+Run only one server at a time. Stop it with Ctrl+C before starting it again.
+The server refuses to start if port 8000 is already occupied, so an older
+background copy cannot silently handle requests alongside the new server.
+

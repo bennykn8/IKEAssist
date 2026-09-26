@@ -4,6 +4,7 @@ import importlib.util
 import json
 import logging
 import os
+import socket
 import threading
 import urllib.error
 import urllib.request
@@ -13,6 +14,17 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 MODEL_LOCK = threading.Lock()
 pipeline = None
+
+
+class IKEAssistServer(ThreadingHTTPServer):
+    # Windows address reuse can let two servers answer on the same port.
+    allow_reuse_address = os.name != "nt"
+    allow_reuse_port = False
+
+    def server_bind(self):
+        if os.name == "nt":
+            self.socket.setsockopt(socket.SOL_SOCKET, socket.SO_EXCLUSIVEADDRUSE, 1)
+        super().server_bind()
 
 
 def answer(question):
@@ -51,6 +63,17 @@ class Handler(SimpleHTTPRequestHandler):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, directory=str(ROOT / "frontend"), **kwargs)
 
+    def log_message(self, format, *args):
+        # Keep routine browser requests out of the terminal.
+        if getattr(self, "command", None) in ("GET", "HEAD"):
+            return
+        super().log_message(format, *args)
+
+    def end_headers(self):
+        if self.command in ("GET", "HEAD"):
+            self.send_header("Cache-Control", "no-store")
+        super().end_headers()
+
     def send_json(self, status, payload):
         body = json.dumps(payload).encode()
         self.send_response(status)
@@ -61,7 +84,11 @@ class Handler(SimpleHTTPRequestHandler):
         self.wfile.write(body)
 
     def do_GET(self):
-        if self.path == "/api/status":
+        if self.path.split("?", 1)[0] == "/favicon.ico":
+            # Browsers may request an icon even when the page has none.
+            self.send_response(204)
+            self.end_headers()
+        elif self.path == "/api/status":
             if any(importlib.util.find_spec(name) is None for name in ("langchain_ollama", "langchain_chroma", "commercetxt")):
                 self.send_json(200, {"ready": False, "message": "Python setup needed"})
                 return
@@ -102,5 +129,16 @@ class Handler(SimpleHTTPRequestHandler):
 
 if __name__ == "__main__":
     os.chdir(ROOT)
-    print("IKEAssist is running at http://localhost:8000", flush=True)
-    ThreadingHTTPServer(("127.0.0.1", 8000), Handler).serve_forever()
+    try:
+        server = IKEAssistServer(("127.0.0.1", 8000), Handler)
+    except OSError as exc:
+        raise SystemExit(
+            "Could not start IKEAssist on port 8000. Stop the existing server "
+            f"with Ctrl+C before running this script again. ({exc})"
+        ) from exc
+    with server:
+        print("IKEAssist is running at http://localhost:8000", flush=True)
+        try:
+            server.serve_forever()
+        except KeyboardInterrupt:
+            print("\nIKEAssist stopped.", flush=True)

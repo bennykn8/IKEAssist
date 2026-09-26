@@ -2,47 +2,40 @@
 <html lang="en">
 <head>
   <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#f7f8f5"><title>IKEAssist — A little help for your home</title>
-  <link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="/styles.css"><script src="/app.js" defer></script>
+  <meta name="theme-color" content="#f7f8f5"><title>IKEAssist</title>
+  <link rel="icon" href="data:,"><link rel="stylesheet" href="/styles.css"><script src="/app.js" defer></script>
 </head>
 <body>
   <aside class="sidebar" id="sidebar">
-    <a class="brand" href="/" aria-label="IKEAssist home"><span class="brand-icon">i<span>✳</span></span> IKEAssist<span class="brand-dot">.</span></a>
-    <div class="workspace-label">YOUR HOME, REIMAGINED</div>
-    <button class="new-chat" id="new-chat"><span>＋</span> New conversation <kbd>N</kbd></button>
+    <a class="brand" href="/" aria-label="IKEAssist home">IKEAssist</a>
+    <button class="new-chat" id="new-chat">New conversation</button>
     <div class="nav-label">WORKSPACE</div>
-    <button class="nav-item active" id="assistant-nav"><span>◈</span> Product assistant <span class="small-tag">AI</span></button>
-    <button class="nav-item" id="about-button"><span>▤</span> Knowledge base <span class="nav-arrow">↗</span></button>
-    <div class="history-heading"><span>RECENT CONVERSATIONS</span><span>↶</span></div>
+    <button class="nav-item active" id="assistant-nav">Product assistant</button>
+    <button class="nav-item" id="about-button">Knowledge base</button>
+    <div class="history-heading"><span>RECENT CONVERSATIONS</span></div>
     <div id="history" class="history"><p>Your next idea starts here.<br>Conversations appear as you explore.</p></div>
     <div class="sidebar-bottom">
-      <div class="catalog-note"><span class="tiny-logo">▧</span><div><strong>Grounded in real products</strong><p>Ideas backed by the IKEA catalog.</p></div></div>
-      <div class="profile"><span class="avatar">Y</span><div><strong>Your workspace</strong><small>Saved on this device</small></div><span class="profile-dot"></span></div>
+      <div class="catalog-note"><div><strong>Grounded in real products</strong><p>Ideas backed by the IKEA catalog.</p></div></div>
+      <div class="profile"><div><strong>Your workspace</strong></div></div>
     </div>
   </aside>
   <main>
-    <header><div class="breadcrumbs"><button id="menu-toggle" aria-label="Toggle navigation" aria-expanded="false">☰</button><span>Workspace</span><span class="slash">/</span><strong>Product assistant</strong></div><div class="status" id="status"><i></i><span>Checking connection</span></div></header>
+    <header><div class="breadcrumbs"><button id="menu-toggle" aria-label="Toggle navigation" aria-expanded="false">☰</button><span>Workspace</span><span class="slash">/</span><strong>Product assistant</strong></div></header>
     <div class="main-scroll" id="main-scroll">
       <section class="welcome" id="welcome">
-        <div class="eyebrow"><span></span> A LITTLE HELP FOR YOUR HOME</div>
-        <h1>Good spaces start<br>with a <em>good question.</em></h1>
-        <p class="intro">Find the right pieces, compare the details, and make room<br class="desktop-break"> for what matters. Your IKEA product assistant is here to help.</p>
-        <div class="feature-banner">
-          <div class="banner-copy"><span class="pill">LESS SEARCHING. MORE LIVING.</span><h2>A small space.<br>A world of possibilities.</h2><p>Thoughtful finds for every corner of your home.</p><button id="small-space">Explore small-space ideas <span>↗</span></button></div>
-          <img src="/room.svg" alt="Illustration of a calm reading corner with a green armchair, lamp, and potted plant" class="room-art">
-        </div>
-        <div class="suggestion-heading"><h2>A little inspiration to get started</h2><span>Pick a question, make it yours <span>↙</span></span></div>
+        <h1 class="main-title">IKEAssist</h1>
+        <p class="intro">Find the right pieces, compare the details, and make room for what matters. Your IKEA product assistant is here to help.</p>
         <div class="suggestions">
-          <button data-question="Which desks are suitable for a small room?"><span class="suggest-icon">▧</span><strong>Make the most of a small space</strong><span>Find a desk that fits just right.</span><b>↗</b></button>
-          <button data-question="What comfortable armchairs are available for under $300?"><span class="suggest-icon">♧</span><strong>Find your next favorite</strong><span>A cozy armchair, within your budget.</span><b>↗</b></button>
-          <button data-question="Compare BILLY and KALLAX storage options, including their materials and uses."><span class="suggest-icon">⇄</span><strong>Get into the details</strong><span>Compare materials, features, and more.</span><b>↗</b></button>
+          <button data-question="Which desks are suitable for a small room?"><strong>Make the most of a small space</strong><span>Find a desk that fits just right.</span></button>
+          <button data-question="What comfortable armchairs are available for under $300?"><strong>Find your next favorite</strong><span>A cozy armchair, within your budget.</span></button>
+          <button data-question="What materials are the cushions made from, and how should I wash them?"><strong>Get into the details</strong><span>Explore cushion materials and care.</span></button>
         </div>
       </section>
       <section id="conversation" class="conversation" aria-label="Conversation" aria-live="polite" hidden></section>
     </div>
-    <div class="composer-area"><form id="chat-form"><label class="sr-only" for="question">Ask about IKEA products</label><textarea id="question" rows="1" maxlength="4000" placeholder="What would make your space feel more like you?"></textarea><div class="composer-bottom"><span><span class="sparkle">✳</span> Answers rooted in the IKEA catalog</span><div><span class="enter-hint">Enter to send</span><button type="submit" id="send-button" aria-label="Send question">↑</button></div></div></form><p class="disclaimer">A little AI help, a lot of possibilities. Product details reflect July 2025. <button id="details-button">About the data</button></p></div>
-    <footer><span>MADE FOR EVERYDAY LIVING</span><span>Independent project. Not affiliated with IKEA.</span></footer>
+    <div class="composer-area"><form id="chat-form"><label class="sr-only" for="question">Ask about IKEA products</label><textarea id="question" rows="1" maxlength="4000" placeholder="What would make your space feel more like you?"></textarea><div class="composer-bottom"><span>Answers rooted in the IKEA catalog</span><div><span class="enter-hint">Enter to send</span><button type="submit" id="send-button" aria-label="Send question">↑</button></div></div></form><p class="disclaimer">Product details reflect July 2025. <button id="details-button">About the data</button></p></div>
+    <footer><span>Independent project. Not affiliated with IKEA.</span></footer>
   </main>
-  <dialog id="about-dialog"><button id="close-dialog" class="dialog-close" aria-label="Close">×</button><div class="eyebrow">THE KNOWLEDGE BEHIND THE IDEAS</div><h2>Real products. Helpful context.</h2><p>IKEAssist retrieves five relevant product descriptions from a local IKEA US catalog, then uses Llama 3.2 to help answer your question.</p><p>The catalog is a snapshot from July 2025. Prices and availability may have changed. Check IKEA for current details.</p><p>Each question is searched independently. Include the product names and details you want to compare in your question.</p><a href="https://huggingface.co/datasets/tsazan/ikea-us-commercetxt" target="_blank" rel="noopener noreferrer">View the source dataset ↗</a><p class="dialog-note">Conversations are stored in this browser. This is an independent educational project, not affiliated with IKEA.</p></dialog>
+  <dialog id="about-dialog"><button id="close-dialog" class="dialog-close" aria-label="Close">×</button><div class="eyebrow">THE KNOWLEDGE BEHIND THE IDEAS</div><h2>Real products. Helpful context.</h2><p>IKEAssist retrieves five relevant product descriptions from a local IKEA US catalog, then uses Llama 3.2 to help answer your question.</p><p>The catalog is a snapshot from July 2025. Prices and availability may have changed. Check IKEA for current details.</p><p>Each question is searched independently. Include the product names and details you want to compare in your question.</p><a href="https://huggingface.co/datasets/tsazan/ikea-us-commercetxt" target="_blank" rel="noopener noreferrer">View the source dataset</a><p class="dialog-note">Conversations are saved in this browser and remain available after restarting the server. This is an independent educational project, not affiliated with IKEA.</p></dialog>
 </body>
 </html>
