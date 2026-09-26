@@ -17,12 +17,11 @@ add_documents = not os.path.exists(db_location)
 
 products_dir = Path("hf_data/products")
 
-#prepare documents and ids
-if add_documents:
+def get_documents(directory):
     documents = []
     ids = []
 
-    for i, file_path in enumerate(products_dir.rglob('*')):
+    for i, file_path in enumerate(directory.rglob('*')):
         if file_path.is_file():
             result = parse_file(str(file_path))
             product = result.directives.get('PRODUCT', {})
@@ -37,6 +36,12 @@ if add_documents:
 
             documents.append(document)
             ids.append(str(i))
+    
+    return documents, ids
+
+#prepare documents and ids
+if add_documents:
+    documents, ids = get_documents(products_dir)
         
 
 #create vector store

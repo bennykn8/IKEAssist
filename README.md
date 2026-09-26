@@ -90,6 +90,18 @@ ollama pull mxbai-embed-large
 
 ## Run the Assistant
 
+### Web interface
+
+Start the local web application from the project root with your Python environment activated:
+
+```bash
+python server.py
+```
+
+Open [IKEAssist](http://localhost:8000) in your browser. 
+
+### Terminal interface
+
 From the project root, with the virtual environment activated:
 
 ```bash
